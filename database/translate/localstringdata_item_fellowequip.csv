@@ -1,0 +1,190 @@
+t_key,t_korean,t_jpn,t_chinese,t_eng,t_eng_2,t_eng_3
+^fq_01_fk_0001_name^,^Ordinary Divine Dragon's Claw^,^一般神竜の爪^,^^,^^,^^,^^
+^fq_01_sl_0001_name^,^Ordinary Divine Dragon's Saddle^,^一般神竜の鞍^,^^,^^,^^,^^
+^fq_01_ar_0001_name^,^Ordinary Divine Dragon's Soul Stone^,^一般神竜のソウルストーン^,^^,^^,^^,^^
+^fq_02_fk_0001_name^,^Excellent Divine Dragon's Claw^,^優秀な神竜の爪^,^^,^^,^^,^^
+^fq_02_sl_0001_name^,^Excellent Divine Dragon's Saddle^,^優秀な神竜の鞍^,^^,^^,^^,^^
+^fq_02_ar_0001_name^,^Excellent Divine Dragon's Soul Stone^,^優秀な神竜のソウルストーン^,^^,^^,^^,^^
+^fq_03_fk_0001_name^,^Rare Divine Dragon's Claw^,^貴重な神竜の爪^,^^,^^,^^,^^
+^fq_03_sl_0001_name^,^Rare Divine Dragon's Saddle^,^貴重な神竜の鞍^,^^,^^,^^,^^
+^fq_03_ar_0001_name^,^Rare Divine Dragon Soul Stone^,^貴重な神竜のソウルストーン^,^^,^^,^^,^^
+^fq_01_fk_0002_name^,^Ordinary Spirit's Claw^,^一般精霊の爪^,^^,^^,^^,^^
+^fq_01_sl_0002_name^,^Ordinary Spirit's Saddle^,^一般精霊の鞍^,^^,^^,^^,^^
+^fq_01_ar_0002_name^,^Ordinary Spirit's Soul Stone^,^一般精霊のソウルストーン^,^^,^^,^^,^^
+^fq_02_fk_0002_name^,^Excellent Spirit's Claw^,^優秀な精霊の爪^,^^,^^,^^,^^
+^fq_02_sl_0002_name^,^Excellent Spirit's Saddle^,^優秀な精霊の鞍^,^^,^^,^^,^^
+^fq_02_ar_0002_name^,^Excellent Spirit's Soulstone^,^優秀な精霊のソウルストーン^,^^,^^,^^,^^
+^fq_03_fk_0002_name^,^Rare Spirit's Claw^,^貴重な精霊の爪^,^^,^^,^^,^^
+^fq_03_sl_0002_name^,^Rare Spirit's Saddle^,^貴重な精霊の鞍^,^^,^^,^^,^^
+^fq_03_ar_0002_name^,^Rare Spirit's Soul Stone^,^貴重な精霊のソウルストーン^,^^,^^,^^,^^
+^fq_01_fk_0003_name^,^Ordinary Guardian Claw^,^一般守護の爪^,^^,^^,^^,^^
+^fq_01_sl_0003_name^,^Ordinary Guardian Saddle^,^一般守護の鞍^,^^,^^,^^,^^
+^fq_01_ar_0003_name^,^Ordinary Guardian Soulstone^,^一般守護のソウルストーン^,^^,^^,^^,^^
+^fq_02_fk_0003_name^,^Excellent Guardian Claw^,^優秀な守護の爪^,^^,^^,^^,^^
+^fq_02_sl_0003_name^,^Excellent Guardian Saddle^,^優秀な守護の鞍^,^^,^^,^^,^^
+^fq_02_ar_0003_name^,^Excellent Guardian Soulstone^,^優秀な守護のソウルストーン^,^^,^^,^^,^^
+^fq_03_fk_0003_name^,^Rare Guardian Claw^,^貴重な守護の爪^,^^,^^,^^,^^
+^fq_03_sl_0003_name^,^Rare Guardian Saddle^,^貴重な守護の鞍^,^^,^^,^^,^^
+^fq_03_ar_0003_name^,^Rare Guardian Soulstone^,^貴重な守護のソウルストーン^,^^,^^,^^,^^
+^fq_01_fk_0004_name^,^Ordinary Blessed Claws^,^一般祝福された爪^,^^,^^,^^,^^
+^fq_01_sl_0004_name^,^Ordinary Blessed Saddle^,^一般祝福された鞍^,^^,^^,^^,^^
+^fq_01_ar_0004_name^,^Ordinary Blessed Soulstone^,^一般祝福されたソウルストーン^,^^,^^,^^,^^
+^fq_02_fk_0004_name^,^Outstanding Blessed Claws^,^優秀な祝福された爪^,^^,^^,^^,^^
+^fq_02_sl_0004_name^,^Outstanding Blessed Saddle^,^優秀な祝福された鞍^,^^,^^,^^,^^
+^fq_02_ar_0004_name^,^Outstanding Blessed Soulstone^,^優秀な祝福されたソウルストーン^,^^,^^,^^,^^
+^fq_03_fk_0004_name^,^Rare Blessed Claw^,^貴重な祝福された爪^,^^,^^,^^,^^
+^fq_03_sl_0004_name^,^Rare Blessed Saddle^,^貴重な祝福された鞍^,^^,^^,^^,^^
+^fq_03_ar_0004_name^,^Rare Blessed Soulstone^,^貴重な祝福されたソウルストーン^,^^,^^,^^,^^
+^fq_01_fk_0005_name^,^Ordinary Cursed Claws^,^一般呪われた爪^,^^,^^,^^,^^
+^fq_01_sl_0005_name^,^Ordinary Cursed Saddle^,^一般呪われた鞍^,^^,^^,^^,^^
+^fq_01_ar_0005_name^,^Ordinary Cursed Soulstone^,^一般呪われたソウルストーン^,^^,^^,^^,^^
+^fq_02_fk_0005_name^,^Outstanding Cursed Claw^,^優秀な呪われた爪^,^^,^^,^^,^^
+^fq_02_sl_0005_name^,^Outstanding Cursed Saddle^,^優秀な呪われた鞍^,^^,^^,^^,^^
+^fq_02_ar_0005_name^,^Outstanding Cursed Soulstone^,^優秀な呪われたソウルストーン^,^^,^^,^^,^^
+^fq_03_fk_0005_name^,^Rare Cursed Claw^,^貴重な呪われた爪^,^^,^^,^^,^^
+^fq_03_sl_0005_name^,^Rare Cursed Saddle^,^貴重な呪われた鞍^,^^,^^,^^,^^
+^fq_03_ar_0005_name^,^Rare Cursed Soulstone^,^貴重な呪われたソウルストーン^,^^,^^,^^,^^
+^fq_02_fk_0006_name^,^Lesser Hunter's Claw^,^下級ハンターの爪^,^^,^^,^^,^^
+^fq_02_sl_0006_name^,^Lesser Hunter's Saddle^,^下級ハンターの鞍^,^^,^^,^^,^^
+^fq_02_ar_0006_name^,^Lesser Hunter's Soulstone^,^下級ハンターのソウルストーン^,^^,^^,^^,^^
+^fq_02_fk_0007_name^,^Intermediate Hunter's Claw^,^中級ハンターの爪^,^^,^^,^^,^^
+^fq_02_sl_0007_name^,^Intermediate Hunter's Saddle^,^中級ハンターの鞍^,^^,^^,^^,^^
+^fq_02_ar_0007_name^,^Intermediate Hunter's Soulstone^,^中級ハンターのソウルストーン^,^^,^^,^^,^^
+^fq_02_fk_0008_name^,^Greater Hunter's Claw^,^上級ハンターの爪^,^^,^^,^^,^^
+^fq_02_sl_0008_name^,^Greater Hunter's Saddle^,^上級ハンターの鞍^,^^,^^,^^,^^
+^fq_02_ar_0008_name^,^Greater Hunter's Soulstone^,^上級ハンターのソウルストーン^,^^,^^,^^,^^
+^fq_02_fk_0009_name^,^Lesser Slayer's Claw^,^特急ハンターの爪^,^^,^^,^^,^^
+^fq_02_sl_0009_name^,^Lesser Slayer's Saddle^,^特急ハンターの鞍^,^^,^^,^^,^^
+^fq_02_ar_0009_name^,^Lesser Slayer's Soulstone^,^特急ハンターのソウルストーン^,^^,^^,^^,^^
+^fq_02_fk_1009_name^,^Middle Slayer's Claw^,^!!^,^^,^^,^^,^^
+^fq_02_sl_1009_name^,^Middle Slayer's Saddle^,^!!^,^^,^^,^^,^^
+^fq_02_ar_1009_name^,^Middle Slayer's Soulstone^,^!!^,^^,^^,^^,^^
+^fq_01_fk_0006_name^,^Ordinary Holy Claws^,^!!^,^^,^^,^^,^^
+^fq_01_sl_0006_name^,^Ordinary Holy Saddle^,^!!^,^^,^^,^^,^^
+^fq_01_ar_0006_name^,^Ordinary Holy Soulstone^,^!!^,^^,^^,^^,^^
+^fq_02_fk_0010_name^,^Outstanding Holy Claws^,^!!^,^^,^^,^^,^^
+^fq_02_sl_0010_name^,^Outstanding Holy Saddle^,^!!^,^^,^^,^^,^^
+^fq_02_ar_0010_name^,^Outstanding Holy Soulstone^,^!!^,^^,^^,^^,^^
+^fq_03_fk_0006_name^,^Rare Holy Claw^,^!!^,^^,^^,^^,^^
+^fq_03_sl_0006_name^,^Rare Holy Saddle^,^!!^,^^,^^,^^,^^
+^fq_03_ar_0006_name^,^Rare Holy Soulstone^,^!!^,^^,^^,^^,^^
+^fq_02_fk_0011_name^,^Special Blue Horse Claw^,^!!^,^^,^^,^^,^^
+^fq_02_sl_0011_name^,^Special Blue Horse Saddle^,^!!^,^^,^^,^^,^^
+^fq_02_ar_0011_name^,^Special Blue Horse Soul Stone^,^!!^,^^,^^,^^,^^
+^fq_03_fk_0007_name^,^Blessed Blue Horse Claw^,^!!^,^^,^^,^^,^^
+^fq_03_sl_0007_name^,^Blessed Blue Horse Saddle^,^!!^,^^,^^,^^,^^
+^fq_03_ar_0007_name^,^Blessed Blue Horse Soul Stone^,^!!^,^^,^^,^^,^^
+^fq_03_fk_0008_name^,^Kuhalan's Claw^,^!!^,^^,^^,^^,^^
+^fq_03_sl_0008_name^,^Kuhalan's Saddle^,^!!^,^^,^^,^^,^^
+^fq_03_ar_0008_name^,^Kuhalan's Soulstone^,^!!^,^^,^^,^^,^^
+^fq_02_fk_0012_name^,^Elite Knight's Claw^,^!!^,^^,^^,^^,^^
+^fq_02_sl_0012_name^,^Elite Knight's Saddle^,^!!^,^^,^^,^^,^^
+^fq_02_ar_0012_name^,^Elite Knight's Soulstone^,^!!^,^^,^^,^^,^^
+^fq_01_fk_0007_name^,^Ordinary Nightmare Claw^,^!!^,^^,^^,^^,^^
+^fq_01_sl_0007_name^,^Ordinary Nightmare Saddle^,^!!^,^^,^^,^^,^^
+^fq_01_ar_0007_name^,^Ordinary Nightmare Soulstone^,^!!^,^^,^^,^^,^^
+^fq_02_fk_0013_name^,^Excellent Nightmare Claw^,^!!^,^^,^^,^^,^^
+^fq_02_sl_0013_name^,^Excellent Nightmare Saddle^,^!!^,^^,^^,^^,^^
+^fq_02_ar_0013_name^,^Excellent Nightmare Soulstone^,^!!^,^^,^^,^^,^^
+^fq_03_fk_0009_name^,^Rare Nightmare Claw^,^!!^,^^,^^,^^,^^
+^fq_03_sl_0009_name^,^Rare Nightmare Saddle^,^!!^,^^,^^,^^,^^
+^fq_03_ar_0009_name^,^Rare Nightmare Soulstone^,^!!^,^^,^^,^^,^^
+^fq_04_fk_0001_name^,^Noble Nightmare Claw^,^!!^,^^,^^,^^,^^
+^fq_04_sl_0001_name^,^Noble Nightmare Saddle^,^!!^,^^,^^,^^,^^
+^fq_04_ar_0001_name^,^Noble Nightmare Soulstone^,^!!^,^^,^^,^^,^^
+^fq_01_fk_0008_name^,^Ordinary jet-black Claw^,^!!^,^^,^^,^^,^^
+^fq_01_sl_0008_name^,^Ordinary jet-black Saddle^,^!!^,^^,^^,^^,^^
+^fq_01_ar_0008_name^,^Ordinary jet-black Soulstone^,^!!^,^^,^^,^^,^^
+^fq_02_fk_0014_name^,^Outstanding jet-black Claw^,^!!^,^^,^^,^^,^^
+^fq_02_sl_0014_name^,^Outstanding jet-black Saddle^,^!!^,^^,^^,^^,^^
+^fq_02_ar_0014_name^,^Outstanding jet-black Soulstone^,^!!^,^^,^^,^^,^^
+^fq_03_fk_0010_name^,^Rare Ebony Claw^,^!!^,^^,^^,^^,^^
+^fq_03_sl_0010_name^,^Rare Ebony Saddle^,^!!^,^^,^^,^^,^^
+^fq_03_ar_0010_name^,^Rare Ebony Soulstone^,^!!^,^^,^^,^^,^^
+^fq_04_fk_0002_name^,^Noble Ebony Claw^,^!!^,^^,^^,^^,^^
+^fq_04_sl_0002_name^,^Noble Ebony Saddle^,^!!^,^^,^^,^^,^^
+^fq_04_ar_0002_name^,^Noble Ebony Soulstone^,^!!^,^^,^^,^^,^^
+^fq_06_fk_0001_name^,^Sand Claw^,^!!^,^^,^^,^^,^^
+^fq_06_sl_0001_name^,^Sand Saddle^,^!!^,^^,^^,^^,^^
+^fq_06_ar_0001_name^,^Sand Soulstone^,^!!^,^^,^^,^^,^^
+^fq_06_fk_0002_name^,^Great Sand Claw^,^!!^,^^,^^,^^,^^
+^fq_06_sl_0002_name^,^Great Sand Saddle^,^!!^,^^,^^,^^,^^
+^fq_06_ar_0002_name^,^Great Sand Soulstone^,^!!^,^^,^^,^^,^^
+^fq_06_fk_0003_name^,^Mirage's Claw^,^!!^,^^,^^,^^,^^
+^fq_06_sl_0003_name^,^Mirage's Saddle^,^!!^,^^,^^,^^,^^
+^fq_06_ar_0003_name^,^Mirage's Soulstone^,^!!^,^^,^^,^^,^^
+^fq_06_fk_0004_name^,^Rodesh's Claw^,^!!^,^^,^^,^^,^^
+^fq_06_sl_0004_name^,^Rodesh's Saddle^,^!!^,^^,^^,^^,^^
+^fq_06_ar_0004_name^,^Rodesh's Soulstone^,^!!^,^^,^^,^^,^^
+^fq_06_fk_0011_name^,^Desert Claw^,^!!^,^^,^^,^^,^^
+^fq_06_sl_0011_name^,^Desert Saddle^,^!!^,^^,^^,^^,^^
+^fq_06_ar_0011_name^,^Desert Soulstone^,^!!^,^^,^^,^^,^^
+^fq_06_fk_0012_name^,^Outstanding Desert Claw^,^!!^,^^,^^,^^,^^
+^fq_06_sl_0012_name^,^Outstanding Desert Saddle^,^!!^,^^,^^,^^,^^
+^fq_06_ar_0012_name^,^Outstanding Desert Soulstone^,^!!^,^^,^^,^^,^^
+^fq_06_fk_0013_name^,^Zealot's Desert Claw^,^!!^,^^,^^,^^,^^
+^fq_06_sl_0013_name^,^Zealot's Desert Saddle^,^!!^,^^,^^,^^,^^
+^fq_06_ar_0013_name^,^Zealot's Desert Soulstone^,^!!^,^^,^^,^^,^^
+^fq_06_fk_0014_name^,^Shaqiba's Claw^,^!!^,^^,^^,^^,^^
+^fq_06_sl_0014_name^,^Shaqiba's Saddle^,^!!^,^^,^^,^^,^^
+^fq_06_ar_0014_name^,^Shaqiba's Soulstone^,^!!^,^^,^^,^^,^^
+^fq_00_fk_0001_name^,^Sea Claw^,^^,^^,^^,^^,^^
+^fq_00_sl_0001_name^,^Sea Saddle^,^^,^^,^^,^^,^^
+^fq_00_ar_0001_name^,^Sea Soulstone^,^^,^^,^^,^^,^^
+^fq_07_fk_0001_name^,^Water Sea Claw (unused)^,^^,^^,^^,^^,^^
+^fq_07_sl_0001_name^,^Water Sea Saddle (unused)^,^^,^^,^^,^^,^^
+^fq_07_ar_0001_name^,^Water Sea Soulstone (unused)^,^^,^^,^^,^^,^^
+^fq_07_fk_0002_name^,^Guardian's Sea Claw^,^^,^^,^^,^^,^^
+^fq_07_sl_0002_name^,^Guardian's Sea Saddle^,^^,^^,^^,^^,^^
+^fq_07_ar_0002_name^,^Guardian's Sea Soulstone^,^^,^^,^^,^^,^^
+^fq_07_fk_0003_name^,^Turquoise Claw^,^^,^^,^^,^^,^^
+^fq_07_sl_0003_name^,^Turquoise Saddle^,^^,^^,^^,^^,^^
+^fq_07_ar_0003_name^,^Turquoise Soulstone^,^^,^^,^^,^^,^^
+^fq_07_fk_0004_name^,^Torkai's Claw^,^^,^^,^^,^^,^^
+^fq_07_sl_0004_name^,^Torkai's Saddle^,^^,^^,^^,^^,^^
+^fq_07_ar_0004_name^,^Torkai's Soulstone^,^^,^^,^^,^^,^^
+^fq_07_fk_0005_name^,^Ancient Claw^,^^,^^,^^,^^,^^
+^fq_07_sl_0005_name^,^Ancient Saddle^,^^,^^,^^,^^,^^
+^fq_07_ar_0005_name^,^Ancient Soulstone^,^^,^^,^^,^^,^^
+^fq_02_fk_2009_name^,^Great Slayer's Claw^,^^,^^,^^,^^,^^
+^fq_02_sl_2009_name^,^Great Slayer's Saddle^,^^,^^,^^,^^,^^
+^fq_02_ar_2009_name^,^Great Slayer's Soulstone^,^^,^^,^^,^^,^^
+^fq_C00_fk_0006_name^,^Blessing Claw (30 days)^,^^,^^,^^,^^,^^
+^fq_C00_sl_0006_name^,^Blessing Saddle (30 days)^,^^,^^,^^,^^,^^
+^fq_C00_ar_0006_name^,^Blessing Soulstone (30 days)^,^^,^^,^^,^^,^^
+^fq_C00_lt_0001_name^,^Seal of Auto Acquisition (14 days)^,^^,^^,^^,^^,^^
+^fq_C00_lt_0002_name^,^Seal of Auto Acquisition (30 days)^,^^,^^,^^,^^,^^
+^fq_C00_lt_0003_name^,^Seal of Auto Acquisition^,^^,^^,^^,^^,^^
+^fq_C00_lt_0004_name^,^Seal of Auto Acquisition (45 days)^,^^,^^,^^,^^,^^
+^fq_C00_lt_0001_description^,^A seal tHat allows the worn pet to acquire items automatically^,^^,^^,^^,^^,^^
+^fq_C00_lt_0002_description^,^A seal tHat allows the worn pet to acquire items automatically^,^^,^^,^^,^^,^^
+^fq_C00_lt_0003_description^,^A seal tHat allows the worn pet to acquire items automatically^,^^,^^,^^,^^,^^
+^fq_C00_lt_0004_description^,^A seal tHat allows the worn pet to acquire items automatically^,^^,^^,^^,^^,^^
+^fq_C00_lt_0001_Desc^,^A seal tHat allows the worn pet to acquire items automatically^,^^,^^,^^,^^,^^
+^fq_C00_lt_0002_Desc^,^A seal tHat allows the worn pet to acquire items automatically^,^^,^^,^^,^^,^^
+^fq_C00_lt_0003_Desc^,^A seal tHat allows the worn pet to acquire items automatically^,^^,^^,^^,^^,^^
+^fq_C00_lt_0004_Desc^,^A seal tHat allows the worn pet to acquire items automatically^,^^,^^,^^,^^,^^
+^fq_C00_lt_0005_name^,^Seal of Auto Acquisition (3 days)^,^^,^^,^^,^^,^^
+^fq_C00_lt_0006_name^,^Seal of Auto Acquisition (7 days)^,^^,^^,^^,^^,^^
+^fq_C00_fk_0007_name^,^Blessing Claws^,^^,^^,^^,^^,^^
+^fq_C00_sl_0007_name^,^Blessing Saddle^,^^,^^,^^,^^,^^
+^fq_C00_ar_0007_name^,^Blessing Soulstone^,^^,^^,^^,^^,^^
+^fq_C00_lt_0007_Name^,^Seal of Auto Acquisition (1 day)^,^^,^^,^^,^^,^^
+^fq_C00_lt_0007_Description^,^A seal tHat allows the worn pet to acquire items automatically^,^^,^^,^^,^^,^^
+^fq_C00_fk_0008_name^,^Breeder's Claw (30 days)^,^^,^^,^^,^^,^^
+^fq_C00_sl_0008_Name^,^Breeder's Saddle (30 days)^,^^,^^,^^,^^,^^
+^fq_C00_ar_0008_Name^,^Breeder's Soul Stone (30 days)^,^^,^^,^^,^^,^^
+^fq_C00_lt_0008_Name^,^Seal of Auto Acquisition (15 days)^,^^,^^,^^,^^,^^
+^fq_C00_lt_0008_Description^,^A seal tHat allows the worn pet to acquire items automatically^,^^,^^,^^,^^,^^
+^fq_C00_fk_0009_name^,^Claw of the Oath (15 days)^,^^,^^,^^,^^,^^
+^fq_C00_sl_0009_name^,^Saddle of the Oath (15 days)^,^^,^^,^^,^^,^^
+^fq_C00_ar_0009_name^,^Soul Stone of the Oath (15 days)^,^^,^^,^^,^^,^^
+^fq_C00_fk_0010_name^,^Adrian Claw^,^^,^^,^^,^^,^^
+^fq_C00_sl_0010_name^,^Adrian Saddle^,^^,^^,^^,^^,^^
+^fq_C00_ar_0010_name^,^Adrian Soulstone^,^^,^^,^^,^^,^^
+^fq_C00_fk_0011_Name^,^Faint Blessing Claw^,^^,^^,^^,^^,^^
+^fq_C00_sl_0011_Name^,^Faint Blessing Saddle^,^^,^^,^^,^^,^^
+^fq_C00_ar_0011_Name^,^Faint Blessing Soulstone^,^^,^^,^^,^^,^^
+^fq_C00_fk_0012_Name^,^Airspace Claw^,^^,^^,^^,^^,^^
+^fq_C00_sl_0012_Name^,^Airspace Saddle^,^^,^^,^^,^^,^^
+^fq_C00_ar_0012_Name^,^Airspace Soulstone^,^^,^^,^^,^^,^^

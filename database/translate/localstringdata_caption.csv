@@ -1,0 +1,379 @@
+t_key,t_koreanorg,t_jpn,t_chinese,t_korean,t_eng_2,t_eng_3
+^Caption_0000^,^^,^^,^너 인가? 이번 실험체가.^,^^,^^,^^
+^Caption_0001^,^(컷씬 제작중)^,^(カットシーン製作中)^,^이 실험이 끝나고 나면 나는 궁극의 힘을 손에 넣게 될 것이다.^,^(Cutscene in development)^,^^,^^
+^Caption_SP_0001^,^왜 고집을 부리는 것이냐?^,^なぜ意地を張っているんだ？^,^이 실험이 끝나고 나면 나는 궁극의 힘을 손에 넣게 될 것이다.^,^Why are you being so stubborn?^,^^,^^
+^Caption_SP_0002^,^끝까지 말을 거역한다면, 너를 살려둘 필요가 없다.^,^最後まで逆らうと言うのであれば、貴様を生かかしておく必要なぞないぞ。^,^이제 곧 하카나스 왕국을 비롯한 모든 인간들이 내게 무뤂을 꿇게 되겠지!^,^If you refuse to submit, I'll just have to kill you.^,^^,^^
+^Caption_SP_0003^,^진리의 마법사들이 구출하러 올 것이라 믿는 것인가?^,^真理の魔法師達が助けに来るとでも思っているのか？^,^음하하하.. 드디어! 드디어!^,^The Arcanum cannot save you now.^,^^,^^
+^Caption_SP_0004^,^수호신룡의 파멸과 함께 왕국은 곧 역사 속으로 사라질 것이다.^,^守護神竜の消滅と共に、王国はもうすぐ歴史に幕を下ろすだろう。^,^위대한 사란트 시여! 죄송합니다. 적을 끝내 놓쳐버리고 말았습니다.^,^The Guardian Dragons will fall and Hakanas will fall with them.^,^^,^^
+^Caption_SP_0005^,^적의 침입입니다. 적을 발견했지만 놓쳐버렸습니다.^,^敵が侵入しました。残念ながら見失ってしまいました。^,^뭐라고? 이런 쓸모 없는 것들..^,^We have reports of intruders in the area, but we've lost them.^,^^,^^
+^Caption_SP_0006^,^뭐라고? 이런 쓸모 없는 것.^,^なんだと？この役立たずが。^,^살려.. 주.. 으으.. 윽^,^WHat? You useless imbeciles.^,^^,^^
+^Caption_SP_0007^,^자비를.. 윽..^,^ご慈悲を…くぅっ。^,^쥐새끼 같은 놈.. 나를 직접 나서게 만들다니. 곧 죽여주마!^,^Please have mercy...^,^^,^^
+^Caption_SP_0008^,^어떤 하룻강아지가 침입했는지 모르지만.. 희망은 없을 것이다.^,^どんな愚か者が侵入したかは知らないが、希望なぞありはしない。^,^음? 거기 웬놈이냐?^,^I don't know who has dared intrude on us, but they will pay.^,^^,^^
+^Caption_SP_0009^,^^,^^,^진리의 마법사들이 나를 보냈소.^,^^,^^,^^
+^Caption_SP_0010^,^진리의 마법사들이 나를 보냈소.^,^真理の魔法師達が私をここに送りました。^,^곧 꺼내주지.^,^The Arcanum sent me.^,^^,^^
+^Caption_SP_0011^,^엘 제누스 종족의 생존자를 구출하라고 말이오. 그 곳에서 꺼내주겠소.^,^エル・ゼヌース種族の生き残りを救出しろってです。そこから出します。^,^^,^Rescue the survivors. We have to get them out of here!^,^^,^^
+^Caption_SP_0012^,^^,^^,^^,^^,^^,^^
+^Caption_SP_0013^,^생각보다 빠르군.^,^思ったより早いな。^,^^,^THat was faster than I expected.^,^^,^^
+^Caption_SP_0014^,^탈옥자다! 잡아라!^,^脱走だ！逃がすな！^,^^,^The prisoners have escaped! After them!^,^^,^^
+^Caption_SP_0015^,^문이 뚫리기 전에 서둘러야 해!^,^急げ！やつらが扉を壊す前に…！^,^^,^The door won't hold. Move!^,^^,^^
+^Caption_Sf_0_1_0005_01^,^정령의 숲에는 오래전 마를렌족이 건설한 지하통로가 있소.^,^精霊の森には昔、マルーネ族が建設した地下通路があります。^,^^,^There is an old underground passage past the Shimmerwood.^,^^,^^
+^Caption_Sf_0_1_0005_02^,^하카나스로 가기 위해서는 반드시 그 곳을 확보해야 하오.#^,^ハカナスに行くには必ずそこを確保しないといけない。^,^^,^If we can make it through the ruins, it should take us to Hakanas.^,^^,^^
+^Caption_Sf_0_1_0005_03^,^하카나스로 가서 국왕폐하께 라니아 공주님의 소식을 전해주시겠소?^,^ハカナスに戻り国王陛下にラニア姫のことを報告してくれますか？^,^^,^Get back to the king and tell him wHat happened to Princess Lania.^,^^,^^
+^Caption_Sf_0_1_0005_04^,^어서 서둘러 주시오.^,^早く！急いでください。^,^^,^Please hurry.^,^^,^^
+^Caption_Sf_0_1_0012_01^,^그 지하통로에는 무시무시한 화염골렘들이 지키고 있다네.#^,^その通路は強力なマグマゴーレムが守っています。^,^^,^Emberstone golems guard the passage.^,^^,^^
+^Caption_Sf_0_1_0012_02^,^그냥 갔다가는 순식간에 타버리고 말걸.^,^のこのこ出ていったら一瞬で灰にされてしまうはずだ。^,^^,^You'll be burned to death within seconds if you go in unprepared.^,^^,^^
+^Caption_Sf_0_1_0012_03^,^준비를 단단히 해야 할게야.^,^準備をしっかりしないと。^,^^,^Get yourself ready.^,^^,^^
+^Caption_Sf_0_1_0018_01^,^고대 유적지에는 유령들이 있어요. 형체가 없는 존재죠.#^,^古代遺跡には幽霊達がいます。実態がない存在です。^,^^,^The ruins here are crawling with spirits.^,^^,^^
+^Caption_Sf_0_1_0018_02^,^보통 사람의 눈에는 유령의 모습이 전혀 보이지가 않아요.^,^普通の人の目には幽霊の姿は全く見えません。^,^^,^The living can't see or interact with them at all.^,^^,^^
+^Caption_Sf_0_1_0018_03^,^하지만, 방법이 없는 것은 아니에요.#^,^でも方法がない訳ではありません。^,^^,^However, there is a way.^,^^,^^
+^Caption_Sf_0_1_0018_04^,^진실된 시야의 물약을 마신다면 그 모습을 볼 수가 있거든요.^,^真実のポーションを飲めばその姿を見えます。^,^^,^With a truthsight potion, your body will straddle the line between dead and living.^,^^,^^
+^Caption_sp_lever_01^,^나는 경비병을 맡을테니 서둘러 문을 열게!^,^私が警備兵の相手をするから早く扉を開けてくれ!^,^^,^Get tHat door open. We need to keep moving.^,^^,^^
+^Caption_sp_stone_01^,^뭐하나? 어서 지배석을 파괴하게!^,^何をしてる？早く生命石を破壊しろ！^,^^,^Quick! We have to break tHat stone!^,^^,^^
+^Caption_SP_end_0001^,^자네 어디 다친데는 없나?^,^君、怪我とかはないか？^,^^,^Are you hurt?^,^^,^^
+^Caption_SP_end_0002^,^아슬아슬했군요. 공주님께선 어떻게 되셨습니까?^,^ギリギリでしたね。姫様はどうなさいました？^,^^,^Where's the Princess?^,^^,^^
+^Caption_SP_end_0003^,^공주님을 구출하진 못했네. 너무.. 늦었어.^,^姫様の救出は失敗した。遅すぎた。^,^^,^I'm sorry. I've failed. Rondo took her.^,^^,^^
+^Caption_SP_end_0004^,^그렇군요. 그럼, 어떻게 하죠?^,^そうですか。ではどうなさいますか？^,^^,^WHat should we do?^,^^,^^
+^Caption_SP_end_0005^,^서둘러 왕국으로 돌아가 국왕 폐하를 만나야 해. 구해낸 친구들이 상황을 보고 할 걸세.^,^早く王国に帰還し、国王陛下を謁見しないと。助け出したやつらが状況を報告する。^,^^,^We need to inform the king right away.^,^^,^^
+^Caption_SP_end_0006^,^알겠습니다. 항해사! 속도를 올려라!^,^了解しました。航海士!速度を上げろ!^,^^,^Let's move!^,^^,^^
+^Caption_SF_start_0001^,^하카나스 왕국까진 얼마나 남았소?^,^ハカナス王国まではあとどのくらいだ？^,^^,^You're taking us over Brakarr Forest?^,^^,^^
+^Caption_SF_start_0002^,^시간 절약을 위해 우회하지 않고, 브라기 종족이 지배하는 숲 상공을 통과하고 있습니다.^,^時間を短縮するため、正式な航路ではありませんが迂回せずにブラカルの森上空を通過しています。^,^^,^Yes, sir. It's not an official route, but it should save time.^,^^,^^
+^Caption_SF_start_0003^,^쉽진 않겠군.^,^簡単にはいかなそうだな。^,^^,^If we're lucky...^,^^,^^
+^Caption_SF_start_0004^,^브라기들의 공격이다!!^,^敵の攻撃だ！^,^^,^Enemy attack!^,^^,^^
+^Caption_SF_start_0005^,^좌측 엔진이 파괴됐다! 비행선이… 추락한다!^,^フェローが攻撃された…墜落する！^,^^,^We're going down! Hold on!^,^^,^^
+^Caption_SP_start_0001^,^나는 섀도우 클랜의 크로우일세. [UserName], 자네를 구출하러 왔네!^,^私はシャドウクランのクロウだ。 [UserName]、君を助けにきた!^,^^,^I'm Crow, leader of the Onyx Order. I'm here to save you.^,^^,^^
+^Caption_sf_0_1_0010_01^,^브라기 놈들이 저런 물건을 만들다니^,^ブラギのやつらめ、よくもあんなものを作ってくれたな…^,^^,^I don't know where those braghins got their weapons...^,^^,^^
+^Caption_sf_0_1_0010_02^,^아무리 우리 기사단이 용맹하다지만 지금은 많이 지쳐있어서^,^騎士団が勇猛だとは言え、団員が疲弊している今のような状況では…。^,^^,^But they've got us pinned down on open ground.^,^^,^^
+^Caption_sf_0_1_0010_03^,^쉬지 않고 날아오는 저 거대석궁을 상대로는 방법이 없다네^,^矢の雨の中を進軍するのは無謀というものだ。^,^^,^We'll never win this fight as long as the sky is raining hell on us.^,^^,^^
+^Caption_sf_0_1_0010_04^,^자네가 저 석궁을 좀 맡아주지 않겠나?^,^頼む…あのバリスタをどうにかしてきてくれ。^,^^,^I need someone to get behind their lines and take them out. Understood?^,^^,^^
+^Caption_sf_0_1_0011_01^,^브라기의 배후에는 화염골렘이 있다네. 이놈만 아니면 브라기 따위는…^,^ブラギ族の裏にはマグマゴーレムがいる。ゴーレムさえいなければブラギ族なんて…^,^^,^The braghins would be nothing without their golem.^,^^,^^
+^Caption_sf_0_1_0011_02^,^크흠, 화염골렘이 있는 곳은 기사들이 싸우기 어려운 곳이라 피해만 입고 있네.^,^ゴホン、マグマゴーレムがいる場所は戦闘どころじゃない、過酷な環境で、甚大な被害が出ている。^,^^,^But the golem would be hard to battle in its lair. It's been too dangerous...^,^^,^^
+^Caption_sf_0_1_0011_03^,^기사들로는 무리였지만 자네라면 해치울 방법을 찾을 수 있을 것 같군.^,^騎士団は壊滅したが、君なら倒す方法を見つけられる気がするな。^,^^,^Until now. I believe you could defeat it. I think you have the power.^,^^,^^
+^Caption_sf_0_1_0029_01^,^브라기들이 신성시하는 빛나는 크리스탈..^,^ブラギ族が信仰の対象としている輝くクリスタル…^,^^,^The braghins seem to have found some kind of magic crystal.^,^^,^^
+^Caption_sf_0_1_0029_02^,^고대 무기들을 되살릴 마지막 조각이지.^,^結界を解く為に必要な最後の品だ。^,^^,^THat kind of technology must be part of an ancient weapon.^,^^,^^
+^Caption_sf_0_1_0029_03^,^크리스탈을 반드시 손에 넣어야 하네!^,^クリスタルを必ず手に入れなければならない！^,^^,^Let's make sure they don't figure out how to use it.^,^^,^^
+^Caption_hk_0_1_0014_01^,^누가 이런 일을 일으킨 걸까요.^,^誰がこんなことを。^,^^,^Who would do such a thing?^,^^,^^
+^Caption_hk_0_1_0014_02^,^사악한 의도가 느껴집니다.^,^邪悪な意図が感じられます。^,^^,^This is no accident. Someone planned this.^,^^,^^
+^Caption_hk_0_1_0014_03^,^어둡고 잔인한 악의가 넘치고 있어요…^,^どす黒く残忍な悪意で満ちています…^,^^,^This place is full of a dark and cruel energy...^,^^,^^
+^Caption_hk_0_1_0014_04^,^배후에 무엇이 있는지 밝혀내주세요.^,^背後に何があるか明らかにしてください。^,^^,^Help us find out wHat's behind all of this.^,^^,^^
+^Caption_hk_0_1_0047_01^,^최초의 흡혈귀가 발견되고 며칠이 지나지도 않았습니다.^,^最初の吸血鬼が発見されてからまだ数日しか経ってません。^,^^,^It's only been a few days since we found the first body.^,^^,^^
+^Caption_hk_0_1_0047_02^,^그런데, 이미 이곳은 마을이라고 할 수도 없군요.^,^ですが、ここはもう村とも呼べなくなってしましました。^,^^,^Now this place is a den of vampires.^,^^,^^
+^Caption_hk_0_1_0047_03^,^주민 대부분이 흡혈귀가 되었으니 믿을 수가 없습니다.^,^大勢の住民が吸血鬼になったなんて信じれらません。^,^^,^We've lost too many good people.^,^^,^^
+^Caption_hk_0_1_0047_04^,^원인을 밝혀야겠습니다.^,^原因を調べないと。^,^^,^We have to find out wHat's behind this.^,^^,^^
+^Caption_sf_0_1_0001_03_01^,^이봐! 저녀석 또 왔다구. 이번엔 제대로 할까?^,^おい！あいつまた来たんだよ。今回はちゃんとやってくれるな？^,^^,^Look! He's back.^,^^,^^
+^Caption_sf_0_1_0001_03_02^,^이번엔 제대로 하고 있는거 맞아?^,^今回は真面目にやってるか？^,^^,^We have to get it right this time.^,^^,^^
+^Caption_sf_0_1_0001_03_03^,^가만히 좀 있으라니깐! 워워 말 좀 들어!^,^おとなしくしてくれよ！ほら、言うことを聞けよ！^,^^,^I told you to stay still!^,^^,^^
+^Caption_sf_0_1_0001_03_04^,^아! 난 왜 도대체 안되는거야? 이건 뭐…^,^ああ！一体僕はなんで駄目なんだよ？これはまあ…^,^^,^Why isn't this working?!^,^^,^^
+^Caption_sf_0_1_0001_03_05^,^이그… 뒤에서 접근하라고 그렇게 말을 했건만…^,^えぐぐ… 後ろから接近しろとあれほど言ったのに…^,^^,^I told you to approach from behind...^,^^,^^
+^Caption_sf_0_1_0001_03_06^,^날씨도 더운데 보고 있자니 속이 타는군.^,^こんなに蒸し暑い天気なのに見ていられないな。^,^^,^It's hot enough outside, but watching you is making my blood boil.^,^^,^^
+^Caption_sf_0_1_0001_03_07^,^이봐 친구! 자네도 펠로우 하나를 길들이려거든. 자네 수준에 맞는 놈을 잘 선택하라구.^,^おい、あんた！あんたもフェローを捕獲するなら、あんたの身の丈に合う奴をちゃんと選べよ。^,^^,^You should try taming a familiar. Just pick one around your level.^,^^,^^
+^Caption_f00_start_01_01^,^정신이 들었나? 공주님은 이곳에 없는 것 같군.^,^気がついたか? 姫様はここにはいないらしい。^,^^,^Wake up. I'm getting you out of here.^,^^,^^
+^Caption_f00_start_01_02^,^자, 이쪽으로 오게! 공주님의 행방을 알아보도록 하세.^,^さあ、こっちに来い！姫様の行方を捜すぞ。^,^^,^Come this way! Go find the princess.^,^^,^^
+^Caption_f00_lever_01_01^,^내가 처리할테니 서둘러 문을 열게!^,^私が相手をしよう、早く扉を開けるんだ！^,^^,^Get tHat door open. We need to keep moving.^,^^,^^
+^Caption_f00_stone_01_01^,^뭐하나? 어서 지배석을 파괴하게!^,^あの生命石がある限り、奴は倒せない！あれを破壊するんだ！^,^^,^Quick! We have to break tHat stone!^,^^,^^
+^Caption_f00_rex_01_01^,^어리석은 것들! 이 곳에선 쥐새끼 한마리도 빠져나갈 수 없다!^,^愚か者どもが。ここからはネズミ一匹とて逃がしはしない。^,^^,^Puny humans. Your parole has been denied.^,^^,^^
+^Caption_f00_door_01_01^,^탈옥자다! 잡아라!^,^脱走者だ！逃がすな！^,^^,^The prisoners have escaped! After them!^,^^,^^
+^Caption_f00_door_01_02^,^공격을 퍼부어라!^,^総攻撃だ！^,^^,^Attack them!^,^^,^^
+^Caption_f00_door_01_03^,^모두 서둘러!^,^皆、急げ！^,^^,^Hurry up everyone!^,^^,^^
+^Caption_f01_start_01^,^이제 곧 브라카르 숲인가?^,^もうすぐブラカルの森か？^,^^,^You're taking us over Brakarr Forest?^,^^,^^
+^Caption_f01_start_02^,^네. 정식 항로는 아니지만 수도성 도착은 빨라질 겁니다.^,^ええ、正式な航路ではありませんが、城には早く到着できるでしょう。^,^^,^Yes, sir. It's not an official route, but it should save time.^,^^,^^
+^Caption_f01_start_03^,^쉽진 않겠군.^,^簡単にはいかなそうだな。^,^^,^If we're lucky...^,^^,^^
+^Caption_f01_start_04^,^크윽!?^,^くうっ！？^,^^,^Tsch!^,^^,^^
+^Caption_f01_start_05^,^브라기들의 공격이다!!^,^ブラギ族の攻撃だ！^,^^,^Enemy attack!^,^^,^^
+^Caption_f01_start_06^,^적의 공격이다!^,^敵の攻撃だ！^,^^,^Enemy attack!^,^^,^^
+^Caption_f01_start_07^,^모두 추락에 대비하라!!^,^不時着する！全員、態勢を整えろ！^,^^,^We're going down! Hold on!^,^^,^^
+^Caption_f01_start_08^,^모두 꽉 잡아!^,^全員しっかり捕まってろ！^,^^,^Hold on tight!^,^^,^^
+^Caption_f00_princess_01^,^분하다! 공주님을 지키지 못해서… (컷씬 작업중)^,^無念だ!姫様を守り切れず… (カットシーン作業中)^,^^,^I'm so angry! I couldn't rescue princess... (Cutscene in development)^,^^,^^
+^Caption_f00_princess_02^,^반항을 하다니 어리석은 것들. (컷씬 작업중)^,^抵抗するなんて愚かな者ども。 (カットシーン作業中)^,^^,^How dare they rebel. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_03^,^공주는 사란트님에게 데려간다. (컷씬 작업중)^,^姫はサラント様に連れていく。 (カットシーン作業中)^,^^,^Salant will take the princess. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_04^,^공주님!! (컷씬 작업중)^,^姫様!! (カットシーン作業中)^,^^,^Princess!! (Cutscene in development)^,^^,^^
+^Caption_f00_princess_05^,^살아남은 놈들은 감옥에 가둬라! (컷씬 작업중)^,^生き残ったやつらは牢に入れろ! (カットシーン作業中)^,^^,^Put the live ones in the prison! (Cutscene in development)^,^^,^^
+^Caption_f00_princess_06^,^하아… 공주님은 이곳에 안 계십니다. (컷씬 작업중)^,^はあ…姫様はここにはいらっしゃいません。 (カットシーン作業中)^,^^,^Sigh... The princess is not here. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_07^,^공주님은 사란트의 군대에 끌려가셨습니다. (컷씬 작업중)^,^姫様はサラントの軍隊に連れ込まれました。 (カットシーン作業中)^,^^,^The princess was abducted by Salant's army. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A1^,^공주님은 어떻게 된건가? (컷씬 작업중)^,^姫様はどうなさったのか? (カットシーン作業中)^,^^,^WHat happened to the princess? (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A2^,^하아… 공주님께선 이곳에 안 계십니다. (컷씬 작업중)^,^はあ…姫様はここにはいらっしゃいません。 (カットシーン作業中)^,^^,^Sigh... The princess is not here. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A3^,^공주님께선 자신이 가진 힘에 대한 의문으로 목적지로 가던 중이었습니다. (컷씬 작업중)^,^姫様はご自身の力に対する疑問で目的地に向かう途中でした。 (カットシーン作業中)^,^^,^The princess was heading somewhere with the question about her power. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A4^,^우린 공주님을 호위하는 것이 임무였지요. (컷씬 작업중)^,^自分たちは姫様の護衛が任務でした。 (カットシーン作業中)^,^^,^Our role was to protect the princess. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A5^,^공주님은 여신의 힘을 가지고 태어나셨습니다. (컷씬 작업중)^,^姫様は女神の力を持って生まれました。 (カットシーン作業中)^,^^,^The princess was born with a power of goddess. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A6^,^그때 마신을 부활시키려는 마신의 부하들이… 공격해왔습니다! (컷씬 작업중)^,^その時魔神を復活させようとする魔神の部下たちが…攻撃してきました! (カットシーン作業中)^,^^,^At tHat time, the underlings tHat tried to bRing God of Ruin back to life started to.... Attack! (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A7^,^공격하라! (컷씬 작업중)^,^攻撃せよ! (カットシーン作業中)^,^^,^Attack! (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A8^,^습격이다! 공주님을 지켜야 한다. (컷씬 작업중)^,^襲撃だ!姫様を守れ! (カットシーン作業中)^,^^,^Ambush! Protect the princess!^,^^,^^
+^Caption_f00_princess_A9^,^우리는 최선을 다해 싸웠습니다. (컷씬 작업중)^,^自分たちは最善を尽くしました。 (カットシーン作業中)^,^^,^We've done our best to fight. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A10^,^하지만 역부족이었습니다. (컷씬 작업중)^,^でも力不足でした。 (カットシーン作業中)^,^^,^But it was not enough. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A11^,^분하다! 공주님을 지키지 못하다니! (컷씬 작업중)^,^無念だ!姫様を守れないとは! (カットシーン作業中)^,^^,^I'm so angry! I couldn't rescue princess!(Cutscene in development)^,^^,^^
+^Caption_f00_princess_A12^,^반항을 하다니 어리석은 것들.. (컷씬 작업중)^,^抵抗するなんて愚かなやつらめ (カットシーン作業中)^,^^,^How dare they rebel. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A13^,^공주는 사란트님에게 데려간다. (컷씬 작업중)^,^姫はサラント様に連れていく。(カットシーン作業中)^,^^,^Salant will take the princess. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A14^,^공주님!! (컷씬 작업중)^,^姫様!! (カットシーン作業中)^,^^,^Princess!! (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A15^,^살아남은 놈들은 감옥에 가둬라! (컷씬 작업중)^,^生き残ったやつらは牢に入れろ!(カットシーン作業中)^,^^,^Put the live ones in the prison! (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A16^,^그게 공주님의 마지막 모습이었습니다. (컷씬 작업중)^,^それが姫様の最後の姿でした。 (カットシーン作業中)^,^^,^THat was the last of our princess. (Cutscene in development)^,^^,^^
+^Caption_f00_princess_A17^,^음..큰일이군. 이 소식을 서둘러 전해야 해. 어서 왕국으로!^,^うん…大変だな。このことを早く知らせないと!早く王国へ!^,^^,^We must deliver this news as quickly as we can. To the capital!^,^^,^^
+^Caption_f02_g_boss_in^,^화가나서 포효하는 소리^,^怒りの咆哮の声^,^^,^Raaarr!^,^^,^^
+^Caption_f02_g_boss_die^,^사망하는 소리^,^倒れる音^,^^,^Hurrk!^,^^,^^
+^Caption_c01_fellow_01^,^펠로우 길들이기를 가르쳐줄게. 스노우벨!^,^フェロー捕獲の仕方を教えてやる。スノーベール！^,^^,^I'll teach you how to tame a familiar. Sovell!^,^^,^^
+^Caption_c01_fellow_02^,^왜? 무슨 일이야?^,^何？何のこと？^,^^,^WHat? WHat's happening?^,^^,^^
+^Caption_c01_fellow_03^,^이 친구에게 실력 한번 보여줘!^,^こいつに実力を見せてやれ！^,^^,^Show him wHat you've got!^,^^,^^
+^Caption_c01_fellow_04^,^그야 어렵지 않지.^,^そりゃ簡単だな。^,^^,^It's easy.^,^^,^^
+^Caption_c01_fellow_05^,^일단 대상을 선택하고 길들이기 스킬을 사용하는거야.^,^まずは対象を選択して捕獲スキルを使用するのよ。^,^^,^First, choose a target. After tHat, use taming skill.^,^^,^^
+^Caption_c01_fellow_06^,^그리고! 점프!!^,^そして…ジャンプ！^,^^,^Then, jump!^,^^,^^
+^Caption_c01_fellow_07^,^일단 올라타면 중심을 잃지 않는게 중요해.^,^いったん乗ったらその後はバランスを取ることが重要だよ。^,^^,^Once you're mount, it's important to stay balanced.^,^^,^^
+^Caption_c01_fellow_08^,^하하하! 성공했다!^,^ははは、成功！^,^^,^Hahaha! Success!^,^^,^^
+^Caption_c01_fellow_09^,^점프를 잊지 말라고.^,^ジャンプを忘れるなよ。^,^^,^Don't forget to jump.^,^^,^^
+^Caption_f01_crow_01^,^늦지않아 다행이군. 덤벼라!^,^間に合ってよかったな。行くぞ！^,^^,^Good, I'm not late. BRing it on!^,^^,^^
+^Caption_f01_destroy_01^,^이제 결계를 파괴해야 해.^,^さあ、いよいよ結界を破壊するぞ！^,^^,^It's time we broke this barrier.^,^^,^^
+^Caption_f01_destroy_02^,^요정의 정이 칼날이 되고, 망치가 봉인을 깨뜨릴 것이다.^,^妖精の錫杖(しゃくじょう)が刃となり、槌が封印を壊すだろう！^,^^,^Once I activate this relic, tHat hammer should sHatter the seal.^,^^,^^
+^Caption_f01_destroy_03^,^서두르게. 우리는 부상자를 챙겨 뒤따라가겠네.^,^君は先に行ってくれ。我々は負傷者を連れていく。^,^^,^Go. Get this news to the king.^,^^,^^
+^Caption_f01_destroy_04^,^이 상황을 어서 폐하께 전해야해.^,^まずは陛下に状況を報告しなければ。^,^^,^I'll follow once the injured are safe.^,^^,^^
+^Caption_f01_ghost_01^,^너도 우리의 보물을 노리는 어리석은 자인가? (컷씬 작업중)^,^貴様も私の宝を狙ってきた愚か者か？^,^^,^You've come to steal my treasures, haven't you?^,^^,^^
+^Caption_f01_ghost_02^,^보물은 절대 줄 수 없다.^,^私の宝は渡さぬ！^,^^,^You won't have them!^,^^,^^
+^Caption_f01_ghost_03^,^어떠냐? 이래도 보물을 계속 원할텐가!^,^どうだ？これでもまだ宝を狙う気か！？^,^^,^You'll never leave these ruins alive!^,^^,^^
+^Caption_f01_ghost_04^,^기다려! 우리가 왔네!^,^待て！私たちが相手だ！^,^^,^Wait!^,^^,^^
+^Caption_f01_ghost_05^,^자! 함께 싸웁시다.^,^早くこちらに来てください！^,^^,^We'll face him together.^,^^,^^
+^Caption_f01_ghost_die^,^내 보물을!! 분하다…^,^無念…^,^^,^My treasures! Stay away from my treasures!^,^^,^^
+^Caption_d01_boss_change^,^뜻밖인걸? 나의 모든 힘을 사용해야겠군. 피의 마법이여! 나에게 힘을!^,^意外にやるようだな。私も本気にならねばならぬようだ。血の魔法を！我に力を！^,^^,^WHat a surprise. Perhaps you deserve to see my true power.^,^^,^^
+^Caption_d01_in_01_1^,^이걸로 너도 영생을 얻겠구나. 내 딸아.^,^これでお前も永遠の命を得るだろう。我が娘よ。^,^^,^My daughter... No longer must you toil from the living...^,^^,^^
+^Caption_d01_in_01_2^,^시작해라!^,^始めよ。^,^^,^Let us begin.^,^^,^^
+^Caption_c01_move_01_1^,^드디어 도착했군요.^,^お待ちしておりました。^,^^,^Crow sends his regards.^,^^,^^
+^Caption_c01_move_01_2^,^크로우 님의 긴급 연락을 받고 기다렸습니다.^,^クロウ団長から緊急連絡をいただき、迎えにきました。行きましょう。^,^^,^Hop on. I'll get you to the capital.^,^^,^^
+^Caption_c01_move_01_3^,^ 폐하께서 공주님 상황을 알고싶어 하십니다. 어서 타시죠.^,^陛下が姫様の近況を心配しています。早く乗ってください。^,^^,^Come. The king wants updates on the princess.^,^^,^^
+^Caption_c01_move_01_4^,^도착했군.^,^来たか。^,^^,^There you are.^,^^,^^
+^caption_f01_Tortus_1^,^공주님은 어디 계신가?^,^姫様はどこにいらっしゃるか？^,^^,^Where's the Princess?^,^^,^^
+^caption_f01_Tortus_2^,^미안하네. 론도에게 공주님을 빼앗기고 말았어.^,^申し訳ない。ロンドに姫様をさらわれてしまった。^,^^,^I'm sorry. I failed. Rondo took her.^,^^,^^
+^caption_f01_Tortus_3^,^공주님이 지닌 여신의 힘…^,^姫様が持つ女神の力…^,^^,^We were taking the princess to a prophet...^,^^,^^
+^caption_f01_Tortus_4^,^우린 그 힘의 비밀을 풀기 위해 목적지로 향하던 중이었지.^,^我々はあの力の秘密を明かすため、目的地に向かっていた…^,^^,^She was supposed to study Ellora's relic, to unlock its powers...^,^^,^^
+^caption_f01_Tortus_5^,^비까지 내려 정찰이 어려웠을텐데,^,^雨で視界が悪く、偵察も簡単ではないはずが…^,^^,^The rain should have masked our tracks...^,^^,^^
+^caption_f01_Tortus_5_1^,^서리군단놈들은 우리가 가는 길을 정확히 알고 있었어.^,^氷雪の魔軍は、我々の向かう先を正確に知っているようだった。^,^^,^But the Frost Guard knew exactly where we were.^,^^,^^
+^caption_f01_Tortus_5_2^,^이 자식들!^,^このおおおお！！^,^^,^Filthy bastards!^,^^,^^
+^caption_f01_Tortus_5_3^,^야아아압!^,^くらえええっ！^,^^,^Hya!^,^^,^^
+^caption_f01_Tortus_5_4^,^꺼져!^,^消えろ！！^,^^,^Die!^,^^,^^
+^caption_f01_Tortus_6^,^크윽..이것이 네놈이 받아들인 어둠의 힘인가?^,^くぅぅ。これが貴様が受け入れた闇の力なのか？^,^^,^This...this is the power you sold yourself for?^,^^,^^
+^caption_f01_Tortus_7^,^로..론도! 공주님을 어쩔 셈이냐?!^,^ロ…ロンド！姫様をどうする気だ！？^,^^,^R-Rondo! Stay away from the princess!^,^^,^^
+^caption_f01_Tortus_8^,^어리석은 놈들.^,^愚かな奴らだ。^,^^,^Stay down, Tortus.^,^^,^^
+^caption_f01_Tortus_9^,^너희가 나를 막을 수 있으리라 생각했느냐.^,^お前達に私を止めることができると思っていたのか…？^,^^,^I'll be sure to make note of your bravery.^,^^,^^
+^caption_f01_Tortus_10^,^공주는..내가 데려간다.^,^姫は…私が預かる。^,^^,^Come, princess... We have business.^,^^,^^
+^caption_f01_Tortus_11^,^아직 끝나지 않았어!^,^まだだ、まだ終わってない！^,^^,^I won't let you take her!^,^^,^^
+^caption_f01_Tortus_12^,^큰일이군. 이 상황을 어서 폐하께 보고해야해.^,^なんと…早急に陛下に報告しなければ…^,^^,^Damn it. We need to get word to the king.^,^^,^^
+^caption_f01_Seal_1^,^이제 결계를 파괴해야 해.^,^これから結界を破壊せねば。^,^^,^It's time we broke this barrier.^,^^,^^
+^caption_f01_Seal_2^,^요정의 정이 칼날이 되고, 망치가 봉인을 깨뜨릴 것이다.^,^妖精の錫杖(しゃくじょう)が刃となり、槌が封印を壊すだろう！^,^^,^Once I activate this relic, tHat hammer should sHatter the seal.^,^^,^^
+^caption_f01_Seal_5^,^서둘러. 우리는 부상자를 챙겨 뒤따라가겠네.^,^君は先に行ってくれ。我々は負傷者を連れていく。^,^^,^Go. Get this news to the king.^,^^,^^
+^caption_f01_Seal_6^,^한시라도 빨리 이 소식을 폐하께 전해야만 해.^,^まずは陛下に状況を報告しなければ。^,^^,^I'll follow once the injured are safe.^,^^,^^
+^caption_D01_boss_1^,^의식을 방해하다니..^,^よくも儀式の邪魔をしてくれたな…^,^^,^How dare you interrupt our ritual?^,^^,^^
+^caption_D01_boss_2^,^보여주마..^,^見るがいい…^,^^,^Insolent wretch!^,^^,^^
+^caption_D01_boss_3^,^너희의 어리석음이 가져온 핏빛의 결말을…^,^お前の愚かさがもたらした、血の結末を！^,^^,^You will die choking on your own blood!^,^^,^^
+^caption_D01_boss_4^,^하압!^,^はあああああっ！^,^^,^Hya!^,^^,^^
+^caption_d03_eye_01_1^,^이제 제물을 바칠 시간이 되었다!^,^もう供物を捧げる時間だ!^,^^,^Our lord demands a sacrifice!^,^^,^^
+^caption_d03_eye_02_1^,^오! 잠에서 깨어나셨다. 신이시여! 성전에 들어온 침입자를 물리쳐주소서!^,^おお!ついにお目覚めました。神様!正殿に土足で入った侵入者を退治して下さい!^,^^,^Great lord! Defilers have entered your sacred grounds! Smite them!^,^^,^^
+^caption_d03_priest_rescue_1^,^앗! 뒤를 보세요! 무러미가 몰려오고 있어요!^,^あっ！後ろをご覧ください！ムラミ族が群れをなして押し寄せてきます！^,^^,^Behind you! The merumis are coming!^,^^,^^
+^caption_d03_priest_fail_1^,^너희들의 피가 라단님의 부활을 앞당길것이다!^,^貴様らの血でラダン様の復活を早めるのだ!^,^^,^Your heathen blood will nourish the mighty Radan!^,^^,^^
+^caption_d04__balbo_advent_1^,^나를 쓰러뜨리기 전에는 론도님께 다가갈 수 없다.^,^俺を倒さなくてはロンド様に近づけない!^,^^,^I'll make you pay in blood for every last one of the men you killed!^,^^,^^
+^caption_d04__balbo_advent_2^,^내가 나설 필요도 없을것 같군.^,^俺が出る必要もなさそうだな。^,^^,^I shall leave you to it, then.^,^^,^^
+^caption_d04__balbo_advent_3^,^나를 만날 자격을 증명해봐라.^,^俺に会う資格を証明して見せろ。^,^^,^We will not meet again.^,^^,^^
+^caption_d04_rondo_mirror_1^,^머리가… 아이샤? ...끄으아아!^,^頭が…アイシャ?クアアア!^,^^,^Aisha... is tHat...^,^^,^^
+^caption_d04__rondo_end_1^,^여기까진가… 어서 끝내라.^,^ここまでか…早く終わらせよ。^,^^,^I submit. Finish me.^,^^,^^
+^caption_d04__rondo_end_2^,^아이샤...? 당신이 어떻게...?^,^アイシャ…?どうしてあなたが…?^,^^,^Aisha? But tHat's impossible...^,^^,^^
+^caption_d04__rondo_end_3^,^그만둬요.. 죽음만이 해결책은 아니에요.^,^やめて…死だけが解決策ではありません。^,^^,^My love. Put an end to this fighting.^,^^,^^
+^caption_d04__rondo_end_4^,^난 지쳤어. 아이샤. 그댈 잃은 아픔에 내 심장은 오래전에 얼어붙었어..^,^俺は疲れたよ。アイシャ。君を失った悲しみに俺の心臓はずっと昔に凍りつけたんだ…^,^^,^I don't know how, Aisha. The day I lost you... is the day I lost my heart.^,^^,^^
+^caption_d04__rondo_end_5^,^론도... 가엾은 사람.. 내가 당신의 심장이 될거에요..^,^ロンド…可哀そうな人…私があなたの心臓になります…^,^^,^Rondo, it's over. We never have to be apart again.^,^^,^^
+^caption_d04__rondo_end_6^,^아이샤..^,^アイシャ…^,^^,^Aisha...^,^^,^^
+^caption_f03_princess_01_1^,^공주님의 행방을 찾아 얼음 성채로 향했습니다.^,^姫様の行方を捜して氷城へ向かいました。^,^^,^I knew Rondo would return to the Frost Keep.^,^^,^^
+^caption_f03_princess_01_2^,^다행히 가증스런 론도를 찾을 수 있었지요.^,^幸いに卑劣なロンドを発見できました。^,^^,^He has the princess under heavy guard.^,^^,^^
+^caption_f03_princess_01_3^,^빨리 가라.^,^早く行け。^,^^,^(Grunts.)^,^^,^^
+^caption_f03_princess_01_4^,^서둘러 공주님을 구해야 합니다!^,^早く姫様を助けないと！^,^^,^They won't get away from us this time.^,^^,^^
+^caption_f03_watertray_01_1^,^은빛 수반 통신? 당신은 시이사가 말한 그 인간입니까?^,^銀の光の台座の通信？ あなたはシイサが言ったその人間ですか？^,^^,^And wHat do we have here? You are not one of Parna's children.^,^^,^^
+^caption_f03_watertray_01_2^,^지금까지 생명의 호수는 인간에게 출입이 금지되어 있었습니다만...^,^今日まで生命の湖には人間の出入りが禁じられていましたが…^,^^,^Siisa told me of you. You helped her.^,^^,^^
+^caption_f03_watertray_01_3^,^해적이 없어진 지금, 대제사장 안타리온님이 다시 인간들의 출입을 허가했습니다.^,^海賊が消えた今、大祭司アンタリオン様が人間の通行を許可しました。^,^^,^With the pirates gone, Antarion has allowed some outsiders into our waters.^,^^,^^
+^caption_f03_watertray_01_4^,^특히 무러미들을 구한 당신이라면 우리를 도와줄 수 있을 것 같군요.^,^特にムラミ族を救ったあなたならば私たちを助けてくれそうですね。^,^^,^The others will be slow to trust, but I believe you can save us.^,^^,^^
+^caption_f03_watertray_01_5^,^지금 즉시 생명의 호수로 와 주시면 됩니다.^,^今すぐ生命の湖に来てください。^,^^,^I will await your arrival in the waters of the merumi.^,^^,^^
+^caption_f03_parna_01_1^,^이 땅을 깨울 영웅이여, 내 이야기를 들어라.^,^この地を目覚めさせる英雄よ、我が声を聞け。^,^^,^Agent of fate. Heed my words and receive my vision.^,^^,^^
+^caption_f03_parna_01_2^,^마신의 후예가 깨어난 뒤 나의 딸은 얼어붙었고, 내 힘은 조각 나 눈보라 속에 갇혀 버렸다.^,^魔神の末裔が目覚めて以降、我が娘は凍りつき、我が力は砕け吹雪の中閉ざされてしまった。^,^^,^My daughter stands frozen by the Scion of Ruin, and my reach within this realm is weakened while my mirror is sundered.^,^^,^^
+^caption_f03_parna_01_3^,^다섯으로 쪼개진 물의 거울이 깨어날 때, 서리는 비로소 녹아 내리리라.^,^五つに割れた水の鏡が復活する時、氷は溶けるだろう。^,^^,^Restore my mirror and put an end to this unnatural winter.^,^^,^^
+^caption_f03_lover_01_1^,^상처를 입고 쓰러져 있던 론도를 생명의 호수에서 처음 만났어요.^,^傷を負い倒れていたロンドに、生命の湖で初めて会いました。^,^^,^I found him one day in the water, on the verge of death.^,^^,^^
+^caption_f03_lover_01_2^,^그는 해적 소탕을 위해 파견된 용병. 제가 처음 본 젊은 인간이었죠.^,^彼は海賊掃討のため派遣された傭兵、私が初めて見た若い人間でした。^,^^,^I'd never met another human before. I was frightened at first.^,^^,^^
+^caption_f03_lover_01_3^,^물의 무녀가 아닌 아이샤로 날 대해준 건 론도뿐이었어요. 그 때도, 지금도..^,^水の巫女としてではなく、アイシャとして見てくれたのはロンドだけでした。あの時も今も…^,^^,^But he showed me I had nothing to fear. He was brave. Gentle. Kind...^,^^,^^
+^caption_f03_lover_01_4^,^제발, 그를 구해주세요.^,^どうか彼を救ってください。^,^^,^Please, save him.^,^^,^^
+^caption_f03_princess_tear_1^,^론도가 당하다니… 다행히 공주를 챙겼군.^,^ロンドがやられるとは…幸いにも姫は奴らの手に渡らなかったか。^,^^,^Rondo's been defeated? Oh, good thing they took care of the princess.^,^^,^^
+^caption_f03_princess_tear_2^,^가자! 사란트 님이 기다리신다!^,^行くぞ！サラント様がお待ちだ！^,^^,^Let's go. Salant is waiting.^,^^,^^
+^caption_f03_princess_tear_3^,^나를 구해줘요.^,^私を助けてよ。^,^^,^Please save me.^,^^,^^
+^Caption_d02_sarant_tears_01^,^어디 아버지를 불러보시지?^,^では、父を呼んでみろ？^,^^,^Why don't you call your daddy for help?^,^^,^^
+^Caption_d02_sarant_tears_02^,^마신의 씨앗은 미리 잘라버려야 해.^,^魔神の種は早めに潰さねば。^,^^,^The God of Ruin's seed must be removed as early as possible.^,^^,^^
+^Caption_d02_sarant_tears_03^,^아버지!^,^お父様！^,^^,^Father!^,^^,^^
+^Caption_d02_sarant_tears_04^,^약해지지 말아라. 너는 위대한 사란트의 아들이다.^,^弱くなるな。貴様は偉大なサラントの息子だ。^,^^,^Don't lose your strength! You are the son of Salant.^,^^,^^
+^Caption_d02_sarant_tears_05^,^네…^,^はい…^,^^,^Yes...^,^^,^^
+^Caption_d02_sarant_tears_06^,^남편과 아버지를 잘못 둔 죄이니 우릴 원망하지 말아라.^,^夫と父のせいなんだから我々を恨むな。^,^^,^Don't resent us. The only fault is in having a poor husband and father.^,^^,^^
+^Caption_d02_sarant_tears_07^,^아들아... 못난 아버지를 용서해라.^,^息子よ…この父を許せ。^,^^,^Dear son... Please forgive your worthless father.^,^^,^^
+^Caption_d02_sarant_tears_08^,^용서하지 않겠다.^,^許さん。^,^^,^Never.^,^^,^^
+^Caption_d02_sarant_tears_09^,^세상이 파멸하는 날까지 너희를 절대 용서하지 않겠다.^,^この世が破滅する日まで貴様らを絶対許さん。^,^^,^I'll carry this grudge to the end of the world.^,^^,^^
+^caption_c01_lena_change_1^,^레나,  당신이 어째서 의식의 마법구를 가지고 있는 것이오?^,^レナ、あなたは一体どうしてその儀式の魔法球を?^,^^,^Rena... WHat are you doing? Return the orb. The king will pardon you.^,^^,^^
+^caption_c01_lena_change_2^,^생각보다 눈치가 빠른 인간들이네.^,^思ったより早かったな。^,^^,^You humans are so gullible...^,^^,^^
+^caption_c01_lena_change_3^,^하지만 이미 늦었어.^,^でも、もう遅い。^,^^,^And utterly useless.^,^^,^^
+^caption_c01_lena_change_4^,^의식의 마법구는 내 마력의 원천. 다시 힘을 손에 넣었으니 너희는 필요 없어.^,^力も取り戻したし…あなた達はもう用済み。^,^^,^The orb is the source of my power. And now tHat it's back in my hands, I don't need you.^,^^,^^
+^caption_c01_lena_change_5^,^영혼까지 타락시켜 줄게. 애송이들.^,^魂まで消滅してやろう。^,^^,^Your souls will feed the fires of my lord... Forever.^,^^,^^
+^caption_c01_general_fight_1^,^러셀 장군. 하카나스를 지켜야 할 그대가 카브임과 결탁해 왕성을 혼란에 빠뜨리다니..^,^ラッセル将軍。ハカナスを守るべきあなたが、カフィン教団と結託して王城を混乱に落とすなんて…^,^^,^General Russell. You were sworn to protect Hakanas, but I find you conspiRing with the Khabim Brotherhood.^,^^,^^
+^caption_c01_general_fight_2^,^진리의 마법사들이 끝까지 모를 것이라 생각했나요?^,^真理の魔法師会が突き止められないとでも思いました？^,^^,^Did you really think the Arcanum wouldn't uncover your treachery?^,^^,^^
+^caption_c01_general_fight_3^,^론 프레인은 무능력해.^,^ロンブレーンは無能だ。^,^^,^Ronfraine is a coward.^,^^,^^
+^caption_c01_general_fight_4^,^그는 그저 수호신룡의 뒤에 숨은 늙은이일 뿐.^,^奴はただ城にこもっているただの老いぼれに過ぎない。^,^^,^He's a useless old man hiding behind his army.^,^^,^^
+^caption_c01_general_fight_5^,^진정한 하카나스는 이제부터 시작된다.^,^真のハカナスはこれから始まる。^,^^,^Hakanas will not survive with him at its head.^,^^,^^
+^caption_c01_general_fight_6^,^평화는 피로 이루어진다.^,^平和は流血の後訪れる。^,^^,^Peace must be bought with blood.^,^^,^^
+^caption_c01_general_fight_7^,^우리는 여기서 새로운 시대를 열 것이다.^,^我々はここで新しい時代を開く。^,^^,^We'll start the new dynasty right here.^,^^,^^
+^caption_c01_general_fight_8^,^우리가 지닌 칼의 힘으로!^,^我々が持つ剣の力で！^,^^,^My blade will free us from his incompetence!^,^^,^^
+^caption_f02_ashuram_01_1^,^살아 있는 놈들이 이곳에 발을 들이다니…^,^生ある者がここに足を踏み入れるとは…^,^^,^How daRing for living creatures to come here...^,^^,^^
+^caption_f02_ashuram_01_2^,^자~! 이곳에서 망자가 되어 나의 충직한 부하가 되거라!^,^さあ、ここで亡者となり、我が下僕と化すのだ！^,^^,^Die here and become my loyal follower!^,^^,^^
+^caption_f02_circle_01_1^,^이 언덕 안에서 벌어지는 일이 알고 싶은가?^,^この丘の上で起こっていることを知りたいか?^,^^,^Have you heard wHat the Khabimists are doing with tHat magic orb?^,^^,^^
+^caption_f02_circle_01_2^,^언덕에는 시체가 쌓여 있어.^,^丘には死体が積っている。^,^^,^They stack corpses by the dozens.^,^^,^^
+^caption_f02_circle_01_3^,^의식 때문에 목숨을 잃은 사람들이지.^,^儀式のせいで命を失った人々だ。^,^^,^Ritual murders, all of them.^,^^,^^
+^caption_f02_circle_01_4^,^카브임 교단은 마법구를 이용해서 사람들을 흡혈귀로 만들고 있다네.^,^カフィン教団は魔法球を使って人々を吸血鬼にしているのだ。^,^^,^Those blaspheming monsters are turning the villagers into creatures of the undead.^,^^,^^
+^caption_f02_circle_01_5^,^저주받은 의식을 중지시키고 마법구를 빼앗아오게.^,^呪われた儀式を阻止し、魔法球を奪って来るのだ。^,^^,^They were good people! They don't deserve to spend eternity in torment!^,^^,^^
+^caption_f02_devy_02_1^,^또 나쁜 녀석들이 우리를 쫓아내려고 왔어!^,^また悪い連中が僕らを追い出そうとしている。^,^^,^Oh no! The bad people are here to hurt us!^,^^,^^
+^caption_f02_devy_02_2^,^우오! 우오!^,^ウオオ！ウオオ！^,^^,^No! Stay away!^,^^,^^
+^caption_f02_devy_02_3^,^여긴 우리 집이야!! 가르므! 저 녀석들을 밟아버려!!^,^ここは僕らの家だ!巨躯のガルム!あいつらを踏み潰せ!!^,^^,^This is my home! Garme! Smash them!^,^^,^^
+^caption_f02_devy_02_4^,^우오오오오!!^,^ウオオオオオ！！^,^^,^No!^,^^,^^
+^caption_f04_Lastfight_01^,^우리는 마침내 여기에 섰다.^,^私たちはついにここに立った。^,^^,^We stand here at last.^,^^,^^
+^caption_f04_Lastfight_02^,^페가수스 기사단은 오늘 이 곳에서 모든 전투를 마치고 집으로 돌아갈 것이다.^,^ペガサス騎士団は今日ここで全ての戦闘を終わらせて故郷へと帰る！^,^^,^Once the Pegasus Knights complete their mission, they will return home.^,^^,^^
+^caption_f04_Lastfight_03^,^이 어둡고 긴 밤을 끝내자! 빛나는 페가수스의 날개를 공역에 펼칠 것이다!^,^この真っ暗で長い夜を終わらせよう！輝くペガサスの翼で空域に羽ばたくのだ！^,^^,^Let us end this long night! Spread your shining wings in the air!^,^^,^^
+^caption_f03_mirror_05^,^자! 거울이 완성됐으니, 가져가게.^,^さあ。鏡が完成した。持っていきな。^,^^,^I've complete this mirror. Here, take it.^,^^,^^
+^caption_f09_princess_01_1^,^하카나스 대해에서 드디어 론도의 행방을 찾았습니다.^,^ハカナス大海でついにロンドの行方が見つかりました。^,^^,^I tracked Rondo over the Sea of Hakanas.^,^^,^^
+^caption_f09_princess_01_2^,^그를 따라가다 발견한 곳은^,^彼を追跡して発見したところは^,^^,^I thought I had the drop on him.^,^^,^^
+^caption_f09_princess_01_3^,^포악한 거신의 안식처..^,^暴悪な巨神の安息所。^,^^,^But he led me straight into a titan.^,^^,^^
+^caption_f09_princess_01_4^,^신의 장벽 안입니다.^,^神の障壁の中です。^,^^,^It waits at the Bulwark.^,^^,^^
+^f09_rondo_01_1^,^어리석기는…^,^愚かな…^,^^,^WHat a waste...^,^^,^^
+^f09_rondo_01_2^,^하카나스의 미래는 이미 정해졌다.^,^ハカナスの未来はすでに決まった。^,^^,^The age of Hakanas is over.^,^^,^^
+^f09_rondo_01_3^,^공주는 마신을 깨우고, 왕국은 멸망한다.^,^姫は魔神を目覚めさせ、王国は滅ぶ。^,^^,^The God of Ruin will awaken, and the kingdom will fall.^,^^,^^
+^f09_rondo_01_4^,^이제야 만났군. 론도.^,^ついに会えたなロンド。^,^^,^You're a hard man to find.^,^^,^^
+^f09_rondo_01_5^,^여기서 공주님을 되돌려 받겠다.^,^ここで姫様を返してもらおう！^,^^,^Hand over the princess.^,^^,^^
+^f09_rondo_01_6^,^각성한 엘로라의 힘은 이미 나와 연결되어 있다.^,^覚醒したエローラの力はすでに私と繋がっている。^,^^,^Careful, now. Her lifeforce is bound with mine.^,^^,^^
+^f09_rondo_01_7^,^공주를 죽이고 싶다면 날 죽여도 좋다.^,^姫を殺したいなら私を殺すがいい。^,^^,^If you kill me, she dies, too.^,^^,^^
+^f09_rondo_01_8^,^곧 다시 만나게 될거야, 론도.^,^もうすぐ、また会えるだろう、ロンド。^,^^,^This isn't over, Rondo.^,^^,^^
+^f09_rondo_01_9^,^..큰일이군.^,^大変だ。^,^^,^This is no good...^,^^,^^
+^f09_princess_02_1^,^엘로라의 힘.. 길들일 수 없다면 굴복시켜야겠지.^,^エローラの力、なじませることが出来ないなら、屈服させるまでだ。^,^^,^The light of Ellora. Such beauty... Such power...^,^^,^^
+^f09_princess_02_2^,^또 너인가?^,^また、お前か？^,^^,^You again?^,^^,^^
+^f09_princess_02_3^,^이미 늦었다. 공주는 4대 주신의 힘을 받아들여 각성할 것이다.^,^もう遅い。姫は４大主神の力を受け入れ覚醒する。^,^^,^You're too late. I've already taken everything I need.^,^^,^^
+^f09_princess_02_4^,^그리고 마신을 깨울 진정한 열쇠가 될 것이다.^,^そして、魔神を起こす真の鍵となるのだ。^,^^,^The age of Ruin is at hand.^,^^,^^
+^c01_king_02_1^,^그대는 고개를 들라.^,^顔をあげなさい。^,^^,^Rise, young warrior.^,^^,^^
+^c01_king_02_2^,^비록 호위기사이긴하나, 왕국을 위해 이만큼 애쓰는 자가 없었다.^,^王国騎士ではないにも関わらず、そなたは誰よりも本気で王国のためを思い、尽力してきた。^,^^,^You have shown us tHat a hero can rise from even the most humble of beginnings.^,^^,^^
+^c01_king_02_3^,^그를 정식 기사로 임명하고 모든 지원을 아끼지 말라!^,^正式な王国騎士に任命し、全力でこの者を支援するように。^,^^,^Leaders of Hakanas, join me in praising this protector of our great kingdom.^,^^,^^
+^caption_c01_fellow01_01^,^선택된 용사만이 펠로우를 길들 일 수 있다는 점을 명심하십시요.^,^選ばれた勇者だけがフェローを捕獲できるということを覚えておいてくださいね。^,^^,^Remember, only the chosen can tame familiars.^,^^,^^
+^caption_c01_fellow01_02^,^그럼 길들이는 방법에 대해 설명드릴게요.^,^今からフェローの捕獲方法について説明します。^,^^,^Well, guess I oughtta show you how to tame a familiar.^,^^,^^
+^caption_c01_fellow01_03^,^먼저 길들이기 스킬을 사용한 뒤, 펠로우에게 조심조심 다가갑니다.^,^まず捕獲スキルを使用してフェローにそっと近づきます。^,^^,^First tip, select a target and sneak up on them if you can. It's easier tHat way.^,^^,^^
+^caption_c01_fellow01_04^,^길들일 대상을 확실하게 타겟으로 지정한 다음... 기회가 오면 놓치지 말고 올라타세요!^,^捕獲する相手をターゲットしてタイミングよくジャンプし飛び乗ってください。^,^^,^Keep low and move in fast. Once you jump on, you'll only have a few seconds to form the bond.^,^^,^^
+^caption_c01_fellow01_05^,^길들일 때는 어떤 상황이 벌어질지 모르니 집중하세요!^,^捕獲の際は何が起きるかわからないので、集中して臨みましょう。^,^^,^It's going to fight back, so you have to fight harder!^,^^,^^
+^caption_c01_fellow01_06^,^성공입니다! 길들이는 타이밍과 펠로우를 억제하는 강인함.^,^成功です!捕獲タイミングとフェローを抑える強さ^,^^,^And tHat's it! Once it's under your spell, it'll never stray.^,^^,^^
+^caption_c01_fellow01_06_1^,^그리고 펠로우와 함께 한다는 교감. 이 세 가지가 무엇보다 중요합니다.^,^これで成功です。捕獲するタイミングとフェローを抑える強さ、最も大事なポイントはこの二つです。^,^^,^Let's see if you can tame one of your own. Just remember, see wHat the animal needs, then react.^,^^,^^
+^caption_c01_fellow01_07^,^ 이 두 가지가 가장 중요합니다.^,^この二つが一番重要です。^,^^,^Wish I could say the same about my boyfriends.^,^^,^^
+^caption_c01_fellow01_08^,^이제 설명은 끝났습니다.^,^以上で説明は終わりです。^,^^,^Okay. Let's see if you can tame one of your own.^,^^,^^
+^caption_c01_fellow01_09^,^래니티를 길들여, 당신이 선택된 용사임을 증명하세요.^,^レニティを捕獲してあなたが捕獲技術を習得したことを証明してください。^,^^,^Just remember, see wHat the animal needs, then react.^,^^,^^
+^caption_f05_chime01^,^그대에게 해줄 이야기가 있습니다.^,^!!^,^^,^I have something to tell you.^,^^,^^
+^caption_f05_chime02^,^하카나스의 운명과 잃어버린 공주...^,^!!^,^^,^The destiny of Hakanas, the lost princess...^,^^,^^
+^caption_f05_chime03^,^불사군단의 진짜 목적에 관하여^,^!!^,^^,^And wHat the Fallen Legion is really up to.^,^^,^^
+^caption_f05_chime04^,^여신이시여...^,^!!^,^^,^Dear goddess...^,^^,^^
+^caption_f05_chime05^,^다시 한번 그 권능을 보여주소서!^,^!!^,^^,^Please show us your power once more...^,^^,^^
+^caption_f05_chime06^,^신성한 여인과 칠흑같은 어둠...^,^!!^,^^,^A holy woman and Helm black darkness...^,^^,^^
+^caption_f05_chime07^,^그 어둠이 왕국을 집어 삼키려 하고 있습니다.^,^!!^,^^,^THat darkness is trying to swallow our kingdom.^,^^,^^
+^caption_f05_chime08^,^보셨습니까? 이 예언이 바로 하카나스에 닥칠 미래입니다.^,^!!^,^^,^Did you see? This is the future of Hakanas.^,^^,^^
+^caption_f05_chime09^,^할 수만 있다면 이 운명을 막아야 합니다.^,^!!^,^^,^We must do everything to stop this.^,^^,^^
+^caption_f05_chime10^,^제 점괘에 의하면 당신이 이 가혹한 운명에 유일한 희망...^,^!!^,^^,^The prophets say tHat you are the only hope to prevent this cruel destiny...^,^^,^^
+^caption_f05_chime11^,^모든 준비가 끝났습니다.^,^!!^,^^,^Preparations are complete.^,^^,^^
+^caption_f05_chime12^,^이제 불사군단 요새를 공격할 때입니다.^,^!!^,^^,^It's time to take the Fortress of Sorrows.^,^^,^^
+^caption_f05_chime13^,^그러기 위해선 결계를 해제하는 것이 우선입니다.^,^!!^,^^,^First, we must disable the barrier.^,^^,^^
+^caption_f05_chime14^,^저희가 적들을 막을 테니, 곧장 결계가 있는 언덕 위로 가세요.^,^!!^,^^,^You disable their defenses. We'll take care of the troops outside.^,^^,^^
+^caption_f05_chime15^,^결계를 해지하고 반드시 길을 열어야 합니다!^,^!!^,^^,^You must disable the barrier and open the path!^,^^,^^
+^caption_f05_chime16^,^예언 속의 인물이여... 지금 하라크로 신전으로 향하십시오.^,^!!^,^^,^Prophecied warrior, go to Haracrow Temple.^,^^,^^
+^caption_f05_chime17^,^부디 하라크로 신전에 있는 타락한 크로쿤들로부터 저를 구해주십시오...^,^!!^,^^,^Save me from the corrupt crokhoons in the Haracrow Temple.^,^^,^^
+^caption_f05_cutis01^,^가고일이 목격된 날 나는 혼자서 끝까지 그들을 쫓았었지...^,^!!^,^^,^THat day, I was chasing after the gargoyles...^,^^,^^
+^caption_f05_cutis02^,^그때, 하늘에서 불사군단 놈들이 나타났네.^,^!!^,^^,^Suddenly, the Fallen Legion appeared from the sky.^,^^,^^
+^caption_f05_cutis03^,^먼 거리였지만, 놈들에게 붙잡혀 있는 건 분명 라니아 공주님이었어!^,^!!^,^^,^I was at a distance, but I saw them kidnapping Princess Lania!^,^^,^^
+^caption_f05_cutis04^,^놈들이 내 쪽으로 날아오길래 황급히 바위 뒤로 몸을 숨겼지.^,^!!^,^^,^When they turned my way, I quickly hid behind the rocks.^,^^,^^
+^caption_f05_cutis05^,^다행히 나를 발견하지 못한 것 같더군.^,^!!^,^^,^Fortunately, they didn't see me.^,^^,^^
+^caption_f05_cutis06^,^몰래 그들의 뒤를 쫓았지만...^,^!!^,^^,^I followed in secret...^,^^,^^
+^caption_f05_cutis07^,^놈들은 불사군단 요새로 사라졌다네.^,^!!^,^^,^But they went into a huge fortress.^,^^,^^
+^caption_f05_cutis08^,^더 이상 공주님의 뒤를 쫓을 수 없었지.^,^!!^,^^,^I couldn't follow any further.^,^^,^^
+^caption_f05_cutis09^,^불사군단 요새는 철옹성과 같은 곳!^,^!!^,^^,^The Fortress of Sorrows is impregnable!^,^^,^^
+^caption_f05_cutis10^,^요새에 진입하는 건 거의 불가능에 가까운 일이야.^,^!!^,^^,^There's no way we can get inside!^,^^,^^
+^caption_f05_princess_lania01^,^안... 돼...^,^!!^,^^,^N-no!^,^^,^^
+^caption_f05_princess_lania02^,^으..으아...아악!^,^!!^,^^,^Ahh!^,^^,^^
+^caption_f05_princess_lania03^,^나의 충실한 종복이여 일어 나거라^,^!!^,^^,^My faithful servants, rise!^,^^,^^
+^caption_f05_princess_lania04^,^멈춰라. 우리의 과업이 우선이다.^,^!!^,^^,^Stop. Remember your duty.^,^^,^^
+^caption_f05_princess_lania05^,^어서 젤나리스님이 잠든곳으로 나를 안내 하거라.^,^!!^,^^,^Take me to Zelnaris.^,^^,^^
+^caption_f05_sarant01^,^너를 초대한 기억은 없다.^,^!!^,^^,^I don't remember inviting you.^,^^,^^
+^caption_f05_jason01^,^환영합니다.^,^!!^,^^,^Welcome.^,^^,^^
+^caption_f07_demonic_1^,^데모닉 스톤... 모든 것은 그것으로부터 시작되었지…^,^^,^^,^Everything started with the demonic stone...^,^^,^^
+^caption_f07_demonic_2^,^빛의 전쟁 시절, 엘로라 여신님은 마신의 혼을 데모닉 스톤에 봉인하셨다네.^,^^,^^,^DuRing the War of Light, Ellora sealed the God of Ruin's soul inside the demonic stone.^,^^,^^
+^caption_f07_demonic_3^,^마신의 수하들로부터 데모닉 스톤을 지킬 것을 우리 빛의 엘프들에게 명하셨지.^,^^,^^,^The elves were ordered to guard this stone against his followers.^,^^,^^
+^caption_f07_demonic_4^,^하지만... 얼마 지나지 않아, 마신을 추종하는 배반자들이 성역으로 쳐들어왔다네.^,^^,^^,^It wan't long after tHat they managed to break into the sanctuary.^,^^,^^
+^caption_f07_demonic_5^,^빛을 외면하고 어둠의 세례를 받은 그들은 무척이나 강했지.^,^^,^^,^They were baptized in darkness and too powerful for us to fight.^,^^,^^
+^caption_f07_demonic_6^,^그때부터 혼돈 엘프와 우리 빛의 엘프들의 끝없는 전쟁이 시작되었다네.^,^^,^^,^THat is when the war with the chaos elves began.^,^^,^^
+^caption_f07_demonic_7^,^신성한 세계수의 가호가 없었다면 데모닉 스톤은 이미 오래 전에 그들의 손에 넘어 갔을 걸세...^,^^,^^,^If we hadn't had the sacred water of the world, they might've taken the demonic stone.^,^^,^^
+^caption_f07_demonic_8^,^하지만... 신성한 세계수도 점점 말라가고 있다네.^,^^,^^,^But now... The holy water is drying up...^,^^,^^
+^caption_f07_demonic_9^,^앞으로 얼마나 더 버틸 수 있을지…^,^^,^^,^We don't know how much longer it can last...^,^^,^^
+^caption_f07_demonic_10^,^대륙과 라니아 공주님의 운명은 이제 자네 손에 달려 있네.^,^^,^^,^This world and Princess Lania's life are now in your hands.^,^^,^^
+^caption_f07_twelve_1^,^성역을 혼돈에서 구할 자여...^,^^,^^,^You are the only one tHat can save this holy ground from chaos.^,^^,^^
+^caption_f07_twelve_2^,^우리는 여신님의 뜻에 따라 빛의 성역을 수호하는 자들.^,^^,^^,^And we are the ones tHat protect the sanctuary as our goddess has willed.^,^^,^^
+^caption_f07_twelve_3^,^데모닉 스톤의 열쇠... 세개의 신석을 적들에게 빼앗기고 말았습니다.^,^^,^^,^The key to the demonic stone... Three holy stones... They took them...^,^^,^^
+^caption_f07_twelve_4^,^비밀리에 진행한 임무를 적들이 알고 있을 줄이야...^,^^,^^,^We didn't see them coming...^,^^,^^
+^caption_f07_twelve_5^,^내부에 스며든 그림자를 찾아내고, 반드시 신석을 확보해야 합니다.^,^^,^^,^We must shine a light on their evil plans and recapture the stones!^,^^,^^
+^caption_f07_twelve_6^,^제가 직접 빛의 사명으로 악을 처벌할 것입니다.^,^^,^^,^I will punish evil!^,^^,^^
+^caption_f07_twelve_7^,^유다스 사도가 그대에게 많은 도움을 줄 것이네.^,^^,^^,^Judas will help you a lot.^,^^,^^
+^caption_f07_twelve_8^,^당신의 여정을 제가 돕겠습니다.^,^^,^^,^I'll help you with your journey.^,^^,^^
+^caption_f07_udas_01_1^,^오.. 오지마!^,^^,^^,^D-don't come near!^,^^,^^
+^caption_f07_udas_01_2^,^함정이다...!^,^^,^^,^It's a trap!^,^^,^^
+^caption_f07_udas_02_1^,^...역시 대단하군요.^,^^,^^,^Amazing...^,^^,^^
+^caption_f07_udas_02_2^,^유다스...^,^^,^^,^Judas...^,^^,^^
+^caption_f07_udas_02_3^,^배신이라...^,^^,^^,^Betrayal?^,^^,^^
+^caption_f07_udas_02_4^,^전 그저 강력한 힘을 따를 뿐입니다.^,^^,^^,^I only serve the mighty.^,^^,^^
+^caption_f07_udas_02_5^,^여신의 신석...^,^^,^^,^With this holy stone...^,^^,^^
+^caption_f07_udas_02_6^,^이것만 있으면 젤라리스님을..^,^^,^^,^Zelnaris will...^,^^,^^
+^caption_f07_udas_02_7^,^유다스..!^,^^,^^,^Judas!^,^^,^^
+^caption_f07_udas_02_8^,^처음부터 나에게 빛은 없었다.^,^^,^^,^The light was never in me.^,^^,^^
+^caption_f07_udas_02_9^,^네가 가지고 있는 용기의 신석을 내게 넘겨라!^,^^,^^,^Hand tHat stone over now!^,^^,^^
+^caption_f07_udas_03_1^,^우선 이곳에서 나가도록 하지...^,^^,^^,^First, let's get out of here.^,^^,^^
+^caption_f07_udas_02_10^,^동족의 배신자가 너였을 줄이야...^,^^,^^,^How could you betray us?^,^^,^^
+^caption_f07_udas_02_11^,^다시 뵐 수 있겠지요.^,^^,^^,^We'll meet again.^,^^,^^
+^caption_d08_escape_1^,^이것이 끝이라고 생각하지 마라.^,^^,^^,^This isn't the end.^,^^,^^
+^caption_d08_change_1^,^진정한 혼돈의 힘을 보여주지.^,^^,^^,^I'll show you the true power of chaos.^,^^,^^
+^caption_f07_twelve_9^,^모든 일은 엘로라 여신님을 위함이니...^,^^,^^,^Everything I do is for the glory of Ellora.^,^^,^^
+^caption_c02_elder_a_1^,^결국 여기까지 찾아왔군.^,^^,^^,^You made it this far at last.^,^^,^^
+^caption_c02_elder_a_2^,^이것이 데모닉 스톤... 강력한 힘이 느껴지는군...^,^^,^^,^So, this is The Demonic Stone... I can sense its power...^,^^,^^
+^caption_c02_elder_a_3^,^여기까지 오느라 수고 많았네.^,^^,^^,^You did a gret job..^,^^,^^
+^caption_c02_elder_a_4^,^이제 그만 편히 쉬게...^,^^,^^,^You can rest now....^,^^,^^
+^caption_c02_elder_a_5^,^감히...^,^^,^^,^How dare...^,^^,^^
+^caption_c02_elder_a_6^,^모두 죽여주마!^,^^,^^,^I am going to kill you all!^,^^,^^
+^caption_c02_elder_b_1^,^크윽… 곧 다시 보게 될 것이다.^,^^,^^,^Aargh… We will see each other soon again.^,^^,^^
+^caption_c02_elder_b_2^,^그때 너희의 목숨을 거둬주마...^,^^,^^,^Then I will take your life...^,^^,^^
+^caption_c02_elder_b_3^,^다시 보는군...^,^^,^^,^Finally, again...^,^^,^^
+^caption_c02_elder_b_4^,^우선 치메르님을 안전한 곳으로 모셔라.^,^^,^^,^Take Chimer to a safe place first.^,^^,^^
+^caption_c02_elorprin_1^,^론도 테라문스...^,^^,^^,^Rondo Terramunce^,^^,^^
+^caption_c02_elorprin_2^,^운명의 파도에 휩쓸린 가여운 자...^,^^,^^,^The unfortunate soul was swept away by the waves of fortune...^,^^,^^
+^caption_c02_elorprin_3^,^엘더에게 붙잡히기 전, 그가 저를 찾아왔었습니다.^,^^,^^,^Before he was caught by Elder, he had visited me once.^,^^,^^
+^caption_c02_elorprin_4^,^당신에게 패배한 후...^,^^,^^,^After he had lost to you...^,^^,^^
+^caption_c02_elorprin_5^,^저주에서 벗어나 기억을 되찾았다고 했습니다.^,^^,^^,^He was realease from the curse, thus his memory came back.^,^^,^^
+^caption_c02_elorprin_6^,^그는 복수를 위해 사란트의 행적을 쫓았고...^,^^,^^,^He tracked down Sarant for revengy...^,^^,^^
+^caption_c02_elorprin_7^,^사란트와 공주님이 어디론가 향하는 걸 목격했다고 합니다.^,^^,^^,^and witnessed Sarant and the princess heading to somewhere.^,^^,^^
+^caption_c02_elorprin_8^,^하지만 혼자 힘으로 사란트를 대적할 수 없었던 그는...^,^^,^^,^However, Sarant was too strong for him to fight against by himself.^,^^,^^
+^caption_c02_elorprin_9^,^당신과 나를 찾아 왔다고 했습니다.^,^^,^^,^THat's why he asked for you and me.^,^^,^^
+^caption_c02_elorprin_10^,^사란트가 본격적으로 움직이기 시작한 것 같습니다.^,^^,^^,^Sarant is finally on the move.^,^^,^^
+^caption_c02_elorprin_11^,^서둘러 데모닉 스톤을 되찾아 사란트의 뒤를 쫓아야 합니다.^,^^,^^,^We must find the Demonic Stone and chase after Sarant.^,^^,^^
+^caption_c02_demonic_1^,^엘로라의 성혈로 데모닉 스톤의 사악한 힘을 잠재웠습니다.^,^^,^^,^The evil power of th Demonic Stone was put asleep by Ellora's sacred blood.^,^^,^^
+^caption_c02_demonic_2^,^데모닉 스톤을 수도성의 엘로라 성소로 가져가세요.^,^^,^^,^Take the Demonic Stone to Ellora Sanctuary in Hakain's Crossing.^,^^,^^
+^caption_c02_tower_1^,^치메르님이 어디 계신지 알아냈다고 합니다.^,^^,^^,^We found out where Chimer is.^,^^,^^
+^caption_c02_tower_2^,^여기 펠로우를 타고 서둘러 폐쇄된 감시탑으로 출발하세요!^,^^,^^,^Ride this familiar and depart for the Closed Watchtower quickly!^,^^,^^
+^caption_c01_hknotice_1^,^하카나스 수도성 내부에 대해 설명해주겠네.^,^^,^^,^Hakain's Crossing, jewel of Hakanas.^,^^,^^
+^caption_c01_hknotice_2^,^수도성 정문을 지나면 먼저 승리의 대광장을 볼 수 있지.^,^^,^^,^The avenue through Noble's Gate leads to Victory Plaza.^,^^,^^
+^caption_c01_hknotice_3^,^이곳은 여러 모험가들이 모이는 곳이라네.^,^^,^^,^It's the social heart of the city, and where you'll find the bank.^,^^,^^
+^caption_c01_hknotice_4^,^공업지구에서는 제작 기술자들을 만나볼 수 있다네.^,^^,^^,^Artisan Square is our crafting district.^,^^,^^
+^caption_c01_hknotice_5^,^그들에게 제작 기술을 배울 수 있을 걸세.^,^^,^^,^The perfect place to ply your trades.^,^^,^^
+^caption_c01_hknotice_6^,^펠로우 연구소는 펠로우에 대해 연구하는 곳이지.^,^^,^^,^The Familiar Academy is a fine place for cavorting with wild beasts.^,^^,^^
+^caption_c01_hknotice_7^,^물건을 구입할 수 있는 상업지구에는 꼭 들러보게나.^,^^,^^,^You'll find only the finest goods in the Market District.^,^^,^^
+^caption_c01_hknotice_8^,^길드를 만들 생각이라면 길드 관리소를 이용하게.^,^^,^^,^And if you plan to form a guild, visit the Guild Hall.^,^^,^^
+^caption_c01_hknotice_9^,^공중 선착장에는 다른 지역으로 갈 수 있는 항해선이 준비되어 있다네.^,^^,^^,^The Titan Platform is the transport hub for the upper class. I doubt you'll need to go there.^,^^,^^
+^caption_c01_hknotice_10^,^자, 이제 대략적인 설명은 끝난 것 같군.^,^^,^^,^Now, if tHat's all...^,^^,^^
+^caption_c01_hknotice_11^,^앞으로의 여정에도 건투를 빌겠네.^,^^,^^,^You're on your own.^,^^,^^
+^caption_c02_demonic_A_1^,^데모닉 스톤에 깃든 마신의 힘이 더욱 강해지고 있네.^,^^,^^,^The power of the drunken Demonic Stone is getting stronger.^,^^,^^
+^caption_c02_demonic_A_2^,^이대로라면 데모닉 스톤은 폭주하고 말걸세. 그러기 전에 데모닉 스톤을 파괴해야 하네.^,^^,^^,^If this is the case, the Demonic Stone will run wild. Before this happens, we have to destroy the Demonic Stone.^,^^,^^
+^caption_c02_demonic_A_3^,^시간이 없네. 서둘러 마그마포라로 가게.^,^^,^^,^There is no time. Hurry up and go to Magmafora.^,^^,^^
+^caption_c02_demonic_A_4^,^자네라면 마그마포라의 용암을 이용해 데모닉 스톤을 파괴할 수 있을거야.^,^^,^^,^You will be able to destroy the Demonic Stone using the lava in Magmafora.^,^^,^^
+^caption_f08_kurodiun_1^,^어머, 이런 곳에서 다시 만나게 될 줄은 몰랐네.^,^^,^^,^Oh, I did not expect to see you again in these places.^,^^,^^
+^caption_f08_kurodiun_2^,^혹시 내가 보고 싶어서 찾아온거야?^,^^,^^,^Did you come here because you wanted to see me?^,^^,^^
+^caption_f08_kurodiun_3^,^그런 이유라면 끈적하게 놀아줄 수 있는데.^,^^,^^,^THat's why I can play sticky.^,^^,^^
+^caption_f08_kurodiun_4^,^그거 알아?^,^^,^^,^You know tHat?^,^^,^^
+^caption_f08_kurodiun_5^,^네가 살자르를 죽여준 바람에 드디어 사란트님의 사랑을 받을 수 있게 되었어.^,^^,^^,^Because you killed Salazar, I can finally get Salant 's love.^,^^,^^
+^caption_f08_kurodiun_6^,^착한 아이에게는 선물을 줘야겠지?^,^^,^^,^Should I give a gift to a good child?^,^^,^^
+^caption_f08_kurodiun_7^,^영원한 쾌락을 말이야.^,^^,^^,^I mean eternal pleasure.^,^^,^^
+^captiont_t01_magician_1^,^당신이 하카나스를 지켜주세요^,^^,^^,^You must protect Hakanas^,^^,^^
+^captiont_t01_magician_2^,^자네의 도움이 필요하네^,^^,^^,^I need your help.^,^^,^^

@@ -1,0 +1,18 @@
+t_key,t_korean
+^eNetFailure_Item_EnergyCharguerMaxGrade^,^The charging pack upgrade level is the maximum level^
+^eNetFailure_Item_InvalidEnergyChargeItem^,^Charging pack is not charged item^
+^eNetFailure_Item_InvalidEnergyChargeGrade^,^It is a grade tHat cannot be used for charging pack charging^
+^eNetFailure_Item_InvalidChargerUpgradeLevel^,^It is an incompetent charging pack grade^
+^eNetFailure_Item_EnergyChargeMaxPoint^,^The charging pack is completely charged^
+^eNetFailure_Item_EnergyChargerEmpty^,^The charging pack is empty^
+^eNetFailure_Item_NotUsealbeCharging^,^It is an item tHat cannot be charged^
+^eNetFailure_Item_MaxEnergyCharging^,^Maximum charging^
+^eNetFailure_Item_NotActivatedCharecterLevel^,^It is an un active character level^
+^eNetFailure_Move_Not_Use_Portal_Observer^,^In watching mode mining portals cannot be used^
+^eNetFailure_Item_Bag_No_Slot^,^There is no slot tHat can be equipped with a bag^
+^eNetFailure_Item_IsRacingFellowItem^,^Racing fellow Equipment^
+^eNetFailure_Item_IsNomalFellowItem^,^It is a general fellow Equipment^
+^eNetFailure_Item_alreadyuseRandombox^,^I am currently using a Random box^
+^eNetFailure_Item_CannotChargeItemInDuelMode^,^You cannot charge/upgrade while dueling.^
+^eNetFailure_Item_CannotChargeEnergyInDuelMode^,^You cannot charge/upgrade while dueling.^
+^eNetFailure_Item_CannotUpgradeEnergyChargeurInDuelMode^,^You cannot charge/upgrade while dueling.^

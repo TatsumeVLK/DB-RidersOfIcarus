@@ -1,0 +1,109 @@
+t_key,t_korean,t_jpn,t_chinese,t_eng,t_eng_2,t_eng_3
+^squest_sf_01^,^Fight the threats around you^,^周りの脅威に立ち向かえ^,^^,^^,^^,^^
+^squest_sf_02^,^Escape the Brakar Forest^,^ブラカルの森を脱出せよ^,^^,^^,^^,^^
+^squest_sf_03_part_01^,^Find Crow^,^クロウを訪ねよう^,^^,^^,^^,^^
+^squest_sf_04^,^How to tame a wild beast^,^野獣を捕まえる方法^,^^,^^,^^,^^
+^squest_sf_04_part_01^,^Learn How to Tame^,^捕獲を習得せよ^,^^,^^,^^,^^
+^squest_sf_04_part_02^,^Get the power of darkness^,^闇の力を手に入れよ^,^^,^^,^^,^^
+^squest_hk_01^,^Get ready to save the kingdom^,^王国を助けるための準備^,^^,^^,^^,^^
+^squest_hk_03^,^Change of Animals^,^動物の異変^,^^,^^,^^,^^
+^squest_hk_02^,^Danger of ruins swallowed by fire^,^灼熱の火山遺跡の危険^,^^,^^,^^,^^
+^squest_hk_021^,^Invasion of the Church of Khabiim^,^カフィン教団の侵入^,^^,^^,^^,^^
+^squest_hk_04^,^Chaos in the north^,^北部の混乱^,^^,^^,^^,^^
+^squest_hk_05^,^Vampire's Secret^,^吸血鬼の秘密^,^^,^^,^^,^^
+^squest_hk_06^,^Those who sow death^,^死を振り撒く者たち^,^^,^^,^^,^^
+^squest_hk_07^,^Sarant's plan^,^サラントの計画^,^^,^^,^^,^^
+^squest_hk_08^,^Face the Storm Dragon^,^暴風の魔軍に立ち向かえ^,^^,^^,^^,^^
+^squest_hk_09^,^Dangers in the Capital City^,^首都城に差し迫った危機^,^^,^^,^^,^^
+^squest_hkd_01^,^Secure a path to^,^大海通路を確保せよ^,^^,^^,^^,^^
+^squest_hkd_02^,^Support the construction site^,^建設現場を応援せよ^,^^,^^,^^,^^
+^squest_hkd_03^,^Confront the Scandal Corps^,^スカン空賊団に立ち向かえ^,^^,^^,^^,^^
+^squest_hkd_04^,^Find the Princess's Traces^,^姫の跡を探せ^,^^,^^,^^,^^
+^squest_hkd_05^,^WHat Happened at Rainbow Coral Reef^,^レインボーサンゴ草での出来事^,^^,^^,^^,^^
+^squest_f02_g_01^,^Escape the turbulent land^,^燃え盛る大地を脱出せよ^,^^,^^,^^,^^
+^squest_st_01^,^The road to the lake of life^,^生命の湖への道^,^^,^^,^^,^^
+^squest_st_01_part_01^,^Closed lake of life^,^閉塞された生命の湖^,^^,^^,^^,^^
+^squest_st_01_part_02^,^Garrison of suffeRing^,^苦難の守備隊^,^^,^^,^^,^^
+^squest_st_02^,^Assassin of darkness^,^黒幕の影^,^^,^^,^^,^^
+^squest_st_02_part_01^,^Destroy the pirate camp^,^海賊団陣地を破壊せよ^,^^,^^,^^,^^
+^squest_st_02_part_02^,^Purpose of the Pirates^,^海賊団の目的^,^^,^^,^^,^^
+^squest_st_03^,^Goddess Parna's Anguish^,^女神パルナの苦悩^,^^,^^,^^,^^
+^squest_st_03_part_01^,^The Fury's Anxiety^,^ムラミ族の悩み^,^^,^^,^^,^^
+^squest_st_03_part_02^,^The division of the Murami^,^ムラミ族の分裂^,^^,^^,^^,^^
+^squest_st_03_part_03^,^Goddess' Blessing^,^女神の祝福^,^^,^^,^^,^^
+^squest_st_04^,^Ice castle attack^,^氷城攻略戦^,^^,^^,^^,^^
+^squest_st_04_part_01^,^Curse of Ice^,^氷の呪い^,^^,^^,^^,^^
+^squest_st_04_part_02^,^Find Princess Rania^,^ラニア姫を探せ^,^^,^^,^^,^^
+^squest_ca_04^,^The airspace of doom^,^滅亡の空域^,^^,^^,^^,^^
+^squest_ca_04_part_01^,^Stranded Whale^,^座礁したくじら^,^^,^^,^^,^^
+^squest_ca_04_part_02^,^Knights of Pegasus^,^ペガサス騎士団^,^^,^^,^^,^^
+^squest_ca_04_part_03^,^Final battle^,^最後の戦闘^,^^,^^,^^,^^
+^squest_pl_01^,^To the land of Parna^,^パルナの地へ^,^^,^^,^^,^^
+^squest_pl_01_part_01^,^To the land of Parna^,^パルナの地へ^,^^,^^,^^,^^
+^squest_pl_02^,^Pirate Scavenger hunt^,^海賊団掃討作戦^,^^,^^,^^,^^
+^squest_pl_02_part_01^,^Pirate Scavenger hunt^,^海賊団掃討作戦^,^^,^^,^^,^^
+^squest_pl_03^,^Fragmented bundles^,^分裂したムラミ^,^^,^^,^^,^^
+^squest_pl_03_part_01^,^Fragmented bundles^,^分裂したムラミ^,^^,^^,^^,^^
+^squest_pl_04^,^Find the mirror of water^,^水の鏡を探して^,^^,^^,^^,^^
+^squest_pl_04_part_01^,^Find the mirror of water^,^水の鏡を探して^,^^,^^,^^,^^
+^squest_pl_05^,^Ruined territory^,^廃墟になった領地^,^^,^^,^^,^^
+^squest_pl_05_part_01^,^Ruined territory^,^廃墟になった領地^,^^,^^,^^,^^
+^squest_ed_01^,^Desert village^,^^,^^,^^,^^,^^
+^squest_ed_01_part_01^,^Attack of the Mojava Mercenaries^,^^,^^,^^,^^,^^
+^squest_ed_02^,^Lost gold mine^,^^,^^,^^,^^,^^
+^squest_ed_02_part_01^,^Destroy the mercenaries^,^^,^^,^^,^^,^^
+^squest_ed_03^,^Desert bragi^,^^,^^,^^,^^,^^
+^squest_ed_03_part_01^,^Or transport jersey^,^^,^^,^^,^^,^^
+^squest_ed_04^,^Golden Griffon Knights^,^^,^^,^^,^^,^^
+^squest_ed_04_part_01^,^Mutant Griffon^,^^,^^,^^,^^,^^
+^squest_ed_05^,^King of the desert^,^^,^^,^^,^^,^^
+^squest_ed_05_part_01^,^Ken Griff Audience^,^^,^^,^^,^^,^^
+^squest_ed_06^,^Crocoon Barracks District^,^^,^^,^^,^^,^^
+^squest_ed_06_part_01^,^Corrupted Desert Crocoon^,^^,^^,^^,^^,^^
+^squest_ed_07^,^Find the prophet^,^^,^^,^^,^^,^^
+^squest_ed_07_part_01^,^The Secret of the Temple of Harak^,^^,^^,^^,^^,^^
+^squest_ed_08^,^Operation start^,^^,^^,^^,^^,^^
+^squest_ed_08_part_01^,^Rescue the princess!^,^^,^^,^^,^^,^^
+^squest_f07_01^,^To Ellora's Sanctuary^,^^,^^,^^,^^,^^
+^squest_f07_01_part_01^,^To Ellora's Sanctuary^,^^,^^,^^,^^,^^
+^squest_f07_02^,^Chaos Elves Attack^,^^,^^,^^,^^,^^
+^squest_f07_02_part_01^,^Chaos Elves Attack^,^^,^^,^^,^^,^^
+^squest_f07_03^,^Canyon of the wind^,^^,^^,^^,^^,^^
+^squest_f07_03_part_01^,^Canyon of the wind^,^^,^^,^^,^^,^^
+^squest_f07_04^,^Warfront of Chaos^,^^,^^,^^,^^,^^
+^squest_f07_04_part_01^,^Warfront of Chaos^,^^,^^,^^,^^,^^
+^squest_f07_05^,^Assassin of betrayal^,^^,^^,^^,^^,^^
+^squest_f07_05_part_01^,^Assassin of betrayal^,^^,^^,^^,^^,^^
+^squest_f07_06^,^Find the Demonic Stone^,^^,^^,^^,^^,^^
+^squest_f07_06_part_01^,^Find the Demonic Stone^,^^,^^,^^,^^,^^
+^squest_c02_01^,^To Accrat Meadow^,^^,^^,^^,^^,^^
+^squest_c02_01_part_01^,^To Accrat Meadow^,^^,^^,^^,^^,^^
+^squest_c02_01_part_02^,^A port of trade in crisis^,^^,^^,^^,^^,^^
+^squest_c02_01_part_03^,^A port of trade in crisis^,^^,^^,^^,^^,^^
+^squest_c02_02^,^Find a prophet^,^^,^^,^^,^^,^^
+^squest_c02_02_part_01^,^Break through the bridge of trade^,^^,^^,^^,^^,^^
+^squest_c02_02_part_02^,^Pirate's Clues^,^^,^^,^^,^^,^^
+^squest_c02_03^,^Occupied Mine^,^^,^^,^^,^^,^^
+^squest_c02_03_part_01^,^The purpose of the bandits^,^^,^^,^^,^^,^^
+^squest_c02_03_part_02^,^Kidnapped Prophet^,^^,^^,^^,^^,^^
+^squest_c02_04^,^To Hastan Village^,^^,^^,^^,^^,^^
+^squest_c02_04_part_01^,^Tragedy in town^,^^,^^,^^,^^,^^
+^squest_c02_04_part_02^,^Suspicious movement^,^^,^^,^^,^^,^^
+^squest_c02_05^,^Where the Prophet Was Arrested^,^^,^^,^^,^^,^^
+^squest_c02_05_part_01^,^Save the prophet^,^^,^^,^^,^^,^^
+^squest_f08_01^,^Road to Magmapora^,^^,^^,^^,^^,^^
+^squest_f08_01_part_01^,^Before going to Magmapora^,^^,^^,^^,^^,^^
+^squest_f08_01_part_02^,^Road to Magmapora^,^^,^^,^^,^^,^^
+^squest_f08_02^,^Demonic Stone's Whereabouts^,^^,^^,^^,^^,^^
+^squest_f08_02_part_01^,^First record^,^^,^^,^^,^^,^^
+^squest_f08_02_part_02^,^Second record^,^^,^^,^^,^^,^^
+^squest_f08_02_part_03^,^Light of my soul^,^^,^^,^^,^^,^^
+^squest_f08_03^,^Rift of the Insect Kingdom^,^^,^^,^^,^^,^^
+^squest_f08_03_part_01^,^Darkness left behind^,^^,^^,^^,^^,^^
+^squest_f08_04^,^Demon's Resurrection^,^^,^^,^^,^^,^^
+^squest_f08_04_part_01^,^Princess Awakening^,^^,^^,^^,^^,^^
+^squest_f08_04_part_02^,^another black spot^,^^,^^,^^,^^,^^
+^squest_sf_05^,^Bragi Grand Shaman Yatuman^,^^,^^,^^,^^,^^
+^squest_sf_05_part_01^,^Darkness over Brakar Forest^,^^,^^,^^,^^,^^
+^squest_sf_05_part_02^,^A magic circle tHat weakens Yatuman^,^^,^^,^^,^^,^^
+^squest_sf_05_part_03^,^Legendary Heroes and Second Awakening^,^^,^^,^^,^^,^^

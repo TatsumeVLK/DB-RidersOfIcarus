@@ -1,0 +1,289 @@
+t_key,t_korean
+^WE7_001_0_2101_EV3_Name^,^Hero's Shortbow I^
+^WE7_002_0_2102_EV3_Name^,^Hero's Shortbow II^
+^WE7_015_0_2151_EV3_Name^,^Hero's Shortbow III^
+^WE7_004_0_2202_EV3_Name^,^Hero's Shortbow IV^
+^WE7_018_0_3281_EV3_Name^,^Hero's Shortbow V^
+^WE7_010_0_3282_EV3_Name^,^Hero's Shortbow VI^
+^WE7_009_0_3301_EV3_Name^,^Hero's Shortbow VII^
+^WE7_008_0_3351_EV3_Name^,^Hero's Shortbow VIII^
+^EW2_045_0_0003_Name^,^Maid Devy Weapon^
+^WE0_400_6000_Name^,^Alsas Sword^
+^WE1_400_6001_Name^,^Alsas Greatsword^
+^WE2_400_6002_Name^,^Alsas Dagger^
+^WE3_400_6003_Name^,^Alsas Scepter^
+^WE4_400_6004_Name^,^Alsas Staff^
+^WE5_400_6005_Name^,^Alsas Lance^
+^WE6_400_6006_Name^,^Alsas Crossbow^
+^WE6_400_6007_Name^,^Alsas Shortbow^
+^WE0_CA2_5000_Name^,^2nd Year Anniversary Ellora's Sword^
+^WE1_CA2_5001_Name^,^2nd Year Anniversary Ellora's Greatsword^
+^WE4_CA2_5002_Name^,^2nd Year Anniversary Ellora's Dagger^
+^WE5_CA2_5003_Name^,^2nd Year Anniversary Ellora's Scepter^
+^WE6_CA2_5004_Name^,^2nd Year Anniversary Ellora's Staff^
+^WE8_CA2_5005_Name^,^2nd Year Anniversary Ellora's Lance^
+^WE9_CA2_5006_Name^,^2nd Year Anniversary Ellora's Crossbow^
+^WE7_CA2_5007_Name^,^2nd Year Anniversary Ellora's Shortbow^
+^PVP_WE0_400_6000_Name^,^Teleo's Dark Sword^
+^PVP_WE1_400_6001_Name^,^Teleo's Dark Greatsword^
+^PVP_WE2_400_6002_Name^,^Teleo's Dark Dagger^
+^PVP_WE3_400_6003_Name^,^Teleo's Dark Scepter^
+^PVP_WE4_400_6004_Name^,^Teleo's Dark Staff^
+^PVP_WE5_400_6005_Name^,^Teleo's Dark Lance^
+^PVP_WE6_400_6006_Name^,^Teleo's Dark Crossbow^
+^PVP_WE6_400_6007_Name^,^Teleo's Dark Shortbow^
+^WE11_001_0_0000_Name^,^Lobby Scepter^
+^WE11_101_0_0000_Name^,^Rusty Magic Wand^
+^WE11_101_0_0004_Name^,^Dragon Knights' Magic Wand^
+^WE11_101_0_0006_Name^,^Forest's Magic Wand^
+^WE11_101_0_0008_Name^,^Fairy's Magic Wand^
+^WE11_110_0_0009_Name^,^Detachment Magic Wand^
+^WE11_110_0_0013_Name^,^Dead Magic Wand^
+^WE11_110_1_0013_Name^,^Marauding Knight's Magic Wand^
+^WE11_110_0_0018_Name^,^The Count's Magic Wand^
+^WE11_120_0_0022_Name^,^Garrison's Magic Wand^
+^WE11_120_0_0023_Name^,^Azure Magic Wand^
+^WE11_120_0_0025_Name^,^Snowfield Magic Wand^
+^WE11_120_0_0028_Name^,^Merumi's Magic Wand^
+^WE11_120_0_0029_Name^,^Zealot's Magic Wand^
+^WE11_001_0_0030_Name^,^Tempered Mithril Magic Wand^
+^WE11_001_1_0030_Name^,^Crude Hunting Magic Wand^
+^WE11_001_2_0030_Name^,^Shining Mithril Magic Wand^
+^WE11_001_3_0030_Name^,^Corrupted Follower Magic Wand^
+^WE11_001_0_0031_Name^,^Crokhoon Magic Wand^
+^WE11_001_0_0035_Name^,^Blessed Aisha's Magic Wand^
+^WE11_001_1_0035_Name^,^Perfected Mithril Magic Wand^
+^WE11_001_2_0035_Name^,^Ruinous Magic Wand^
+^WE11_002_0_0040_Name^,^Blessed Supreme Commander's Magic Wand^
+^PVPWE11_p001_0_040_Name^,^Embellished Hunting Magic Wand^
+^WE11_002_1_0040_Name^,^Alseik Guard Magic Wand^
+^WE11_002_2_0040_Name^,^Shining Turalium Magic Wand^
+^WE11_002_3_0040_Name^,^Blessed Leader Magic Wand^
+^WE11_200_0_0040_Name^,^Karasha Magic Wand^
+^WE11_002_0_0043_Name^,^Griffon Knights Magic Wand^
+^PVPWE11_p001_0_045_Name^,^Crude Slayer Magic Wand^
+^WE11_002_0_0045_Name^,^Shining Adamantite Magic Wand^
+^WE11_002_0_0047_Name^,^Hermit's Magic Wand^
+^WE11_002_0_0049_Name^,^Dark Corps Officer's Magic Wand^
+^PVPWE11_p002_0_050_Name^,^Sturdy Slayer Magic Wand^
+^WE11_003_0_0050_Name^,^Shining Tempered Adamantite Magic Wand^
+^WE11_003_1_0050_Name^,^Blessed Dark Corps Commander Magic Wand^
+^WE11_201_2_0050_Name^,^Ellora Magic Wand^
+^WE11_003_0_0053_Name^,^Elgaden Officer's Magic Wand^
+^WE11_003_1_0055_Name^,^Dragonium Magic Wand^
+^WE11_003_0_0055_Name^,^Hallucination Magic Wand^
+^PVPWE11_p002_0_055_Name^,^Masterful Slayer Magic Wand^
+^WE11_004_0_0060_Name^,^Red Revolutionaries' Magic Wand^
+^WE11_004_10_0060_Name^,^Deep Green Magic Wand^
+^WE11_004_2_0060_Name^,^Blessed Deep Green Magic Wand^
+^WE11_202_0_0060_Name^,^Alsas Magic Wand^
+^WE11_S001_0_0060_Name^,^Zelnaris Magic Wand^
+^PVPWE11_p003_1_060_Name^,^Teleo's Dark Magic Wand^
+^WE11_110_2_0013_Name^,^Royal Guards Magic Wand^
+^WE11_110_1_0018_Name^,^Militia's Magic Wand^
+^WE11_110_2_0018_Name^,^Vampire's Magic Wand^
+^WE11_120_1_0022_Name^,^Garrison's Magic Wand^
+^WE11_120_1_0026_Name^,^Wind Militia's Magic Wand^
+^WE11_003_2_0050_Name^,^Ravager's Magic Wand^
+^WE11_001_0_0037_Name^,^Pegasus Knights' Magic Wand^
+^WE11_003_0_005_EV2_Name^,^Hero's Magic Wand I^
+^WE11_004_0_010_EV2_Name^,^Hero's Magic Wand II^
+^WE11_005_0_015_EV2_Name^,^Hero's Magic Wand III^
+^WE11_006_0_020_EV2_Name^,^Hero's Magic Wand IV^
+^WE11_009_0_025_EV2_Name^,^Hero's Magic Wand V^
+^WE11_010_0_030_EV2_Name^,^Hero's Magic Wand VI^
+^WE11_012_0_035_EV2_Name^,^Hero's Magic Wand VII^
+^WE11_018_0_040_EV2_Name^,^Hero's Magic Wand VIII^
+^WE11_ev2_4_040_EV2_Name^,^Karasha Hope Magic Wand (30 days)^
+^WE11_ev1_1_0040_Name^,^(PC Cafe) Karasha Magic Wand (6 hrs.)^
+^WE11_ev1_2_0040_Name^,^(PC Cafe) Karasha Magic Wand (1 day)^
+^WE11_ev1_3_0040_Name^,^(Quest) Karasha Magic Wand (14 days)^
+^WE11_ev1_4_0040_Name^,^(Event) Karasha Magic Wand (30 days)^
+^WE11_Tower_1_0040_Name^,^Karasha Tower of Challenge Magic Wand (2 weeks)^
+^WE11_ca1_4_0040_Name^,^(Rental) Karasha Magic Wand (7 days)^
+^WE11_ca2_4_0040_Name^,^(Rental) Karasha Magic Wand (1 day)^
+^WE11_002_2_0001_Name^,^Sturdy Hunting Magic Wand^
+^BX_WE11_0_0_0000_Name^,^Crescent Merchants Simple Magic Wand^
+^BX_WE11_0_0_0001_Name^,^Crescent Merchants Sharp Magic Wand^
+^BX_WE11_0_0_0002_Name^,^Crescent Merchants Tempered Magic Wand^
+^BX_WE11_0_0_0003_Name^,^Crescent Merchants Shining Magic Wand^
+^WE11_110_0_0016_Name^,^Emberstone Magic Wand^
+^WE11_120_0_0020_Name^,^Cursed Magic Wand^
+^WE11_120_1_0025_Name^,^Frost Magic Wand^
+^WE11_120_2_0025_Name^,^Attaius's Magic Wand^
+^BX_WE11_0_0_0000_1_Name^,^Test Magic Wand^
+^PVPWE11_p002_1_055_Name^,^Manastone Master Magic Wand^
+^WE0_ca2_4_0001_Name^,^(Permanent) Karasha's Sword^
+^WE4_ca2_4_0001_Name^,^(Permanent) Karasha's Dagger^
+^WE6_ca2_4_0001_Name^,^(Permanent) Karasha's Staff^
+^WE1_ca2_4_0001_Name^,^(Permanent) Karasha's Greatsword^
+^WE5_ca2_4_0001_Name^,^(Permanent) Karasha's Scepter^
+^WE7_ca2_4_0001_Name^,^(Permanent) Karasha's Shortbow^
+^WE11_ca2_4_0001_Name^,^(Permanent) Karasha's Magic Wand^
+^CA_WE6_600_0001_Name^,^Reaper's Crossbow^
+^CA_WE5_600_0002_Name^,^Reaper's Lance^
+^WE0_EV_4_0001_Name^,^Evolving Counterattack Sword^
+^WE4_EV_4_0001_Name^,^Evolving Counterattack Dagger^
+^WE6_EV_4_0001_Name^,^Evolving Counterattack Staff^
+^WE7_EV_4_0001_Name^,^Evolving Counterattack Shortbow^
+^WE1_EV_4_0001_Name^,^Evolving Counterattack Greatsword^
+^WE5_EV_4_0001_Name^,^Evolving Counterattack Scepter^
+^WE11_EV_4_0001_Name^,^Evolving Counterattack Magic Wand^
+^EV0_001_5_6001_Name^,^Zelnaris Sword (Event)^
+^EV4_002_5_6001_Name^,^Zelnaris Dagger (Event)^
+^EV6_003_5_6001_Name^,^Zelnaris Staff (Event)^
+^EV1_004_5_6001_Name^,^Zelnaris Greatsword (Event)^
+^EV5_005_5_6001_Name^,^Zelnaris Scepter (Event)^
+^EV7_006_5_6001_Name^,^Zelnaris Shortbow (Event)^
+^EV11_S001_0_0060_Name^,^Zelnaris Magic Wand (Event)^
+^WE0_400_6500_Name^,^Temain's Sword^
+^WE1_400_6501_Name^,^Temain's Greatsword^
+^WE2_400_6502_Name^,^Temain's Dagger^
+^WE3_400_6503_Name^,^Temain's Scepter^
+^WE4_400_6504_Name^,^Temain's Staff^
+^WE5_400_6505_Name^,^Temain's Lance^
+^WE6_400_6506_Name^,^Temain's Crossbow^
+^WE6_400_6507_Name^,^Temain's Shortbow^
+^WE11_400_6508_Name^,^Temain's Magic Wand^
+^WE0_300_6500_Name^,^Lazard's Sword^
+^WE1_300_6501_Name^,^Lazard's Greatsword^
+^WE2_300_6502_Name^,^Lazard's Dagger^
+^WE3_300_6503_Name^,^Lazard's Scepter^
+^WE4_300_6504_Name^,^Lazard's Staff^
+^WE5_300_6505_Name^,^Lazard's Lance^
+^WE6_300_6506_Name^,^Lazard's Crossbow^
+^WE6_300_6507_Name^,^Lazard's Shortbow^
+^WE11_300_6508_Name^,^Lazard's Magic Wand^
+^WE0_500_6500_Name^,^Sophisticated Genazone's Sword^
+^WE1_500_6501_Name^,^Sophisticated Genazone's Greatsword^
+^WE2_500_6502_Name^,^Sophisticated Genazone's Dagger^
+^WE3_500_6503_Name^,^Sophisticated Genazone's Scepter^
+^WE4_500_6504_Name^,^Sophisticated Genazone's Staff^
+^WE6_500_6507_Name^,^Sophisticated Genazone's Shortbow^
+^WE11_500_6508_Name^,^Sophisticated Genazone's Magic Wand^
+^WE0_500_6509_Name^,^Genazone's Sword^
+^WE1_500_6510_Name^,^Genazone's Greatsword^
+^WE2_500_6511_Name^,^Genazone's Dagger^
+^WE3_500_6512_Name^,^Genazone's Scepter^
+^WE4_500_6513_Name^,^Genazone's Staff^
+^WE6_500_6514_Name^,^Genazone's Shortbow^
+^WE11_500_6515_Name^,^Genazone's Magic Wand^
+^EV_WE0_400_6000_Name^,^Teleo's Dark Sword (Rental)^
+^EV_WE1_400_6001_Name^,^Teleo's Dark Greatsword (Rental)^
+^EV_WE2_400_6002_Name^,^Teleo's Dark Dagger (Rental)^
+^EV_WE3_400_6003_Name^,^Teleo's Dark Scepter (Rental)^
+^EV_WE4_400_6004_Name^,^Teleo's Dark Staff (Rental)^
+^EV_WE5_400_6005_Name^,^Teleo's Dark Lance (Rental)^
+^EV_WE6_400_6006_Name^,^Teleo's Dark Crossbow (Rental)^
+^EV_WE6_400_6007_Name^,^Teleo's Dark Shortbow (Rental)^
+^EV_WE11_400_6008_Name^,^Teleo's Dark Magic Wand (Rental)^
+^EV0_504_2103_Name^,^Ellora's Sword (Rental)^
+^EV1_504_2103_Name^,^Ellora's Greatsword (Rental)^
+^EV4_504_2103_Name^,^Ellora's Dagger (Rental)^
+^EV5_504_2103_Name^,^Ellora's Scepter (Rental)^
+^EV6_504_2103_Name^,^Ellora's Staff (Rental)^
+^EV8_504_2103_Name^,^Ellora's Lance (Rental)^
+^EV9_504_2103_Name^,^Ellora's Crossbow (Rental)^
+^EV7_504_2103_Name^,^Ellora's Shortbow (Rental)^
+^EV11_201_2_0050_Name^,^Ellora's Magic Wand (Rental)^
+^EV9_055_2_0001_Name^,^Enlightened Growth Crossbow^
+^EV8_055_2_0002_Name^,^Enlightened Growth Lance^
+^WE0_EV_3_0001_Name^,^Enlightened Growth Sword^
+^WE4_EV_3_0001_Name^,^Enlightened Growth Dagger^
+^WE6_EV_3_0001_Name^,^Enlightened Growth Staff^
+^WE7_EV_3_0001_Name^,^Enlightened Growth Shortbow^
+^WE1_EV_3_0001_Name^,^Enlightened Growth Greatsword^
+^WE5_EV_3_0001_Name^,^Enlightened Growth Scepter^
+^WE11_EV_3_0001_Name^,^Enlightened Growth Magic Wand^
+^WE8_504_2103_00_Name^,^Ellora's Crossbow^
+^WE9_504_2103_00_Name^,^Ellora's Lance^
+^EV_WE0_1_00000_Name^,^Ellora's Sword (30 days)^
+^EV_WE1_1_00000_Name^,^Ellora's Greatsword (30 days)^
+^EV_WE3_1_00000_Name^,^Ellora's Dagger (30 days)^
+^EV_WE5_1_00000_Name^,^Ellora's Scepter (30 days)^
+^EV_WE4_1_00000_Name^,^Ellora's Staff (30 days)^
+^EV_WE2_1_00000_Name^,^Ellora's Shortbow (30 days)^
+^EV_WE10_1_00000_Name^,^Ellora's Magic Wand (30 days)^
+^EV_WE6_1_00000_Name^,^Ellora's Lance (30 days)^
+^EV_WE7_1_00000_Name^,^Ellora's Crossbow (30 days)^
+^EV0_400_6000_Name^,^(PC방) 알사스의 한손 검(1일)^
+^EV1_400_6001_Name^,^Alsas Greatword (Rental)^
+^EV2_400_6002_Name^,^Alsas Dagger (Rental)^
+^EV3_400_6003_Name^,^Alsas Scepter (Rental)^
+^EV4_400_6004_Name^,^Alsas Staff (Rental)^
+^EV5_400_6005_Name^,^Alsas Lance (Rental)^
+^EV6_400_6006_Name^,^Alsas Crossbow (Rental)^
+^EV6_400_6007_Name^,^Alsas Shortbow (Rental)^
+^EV11_202_0_0060_Name^,^Alsas Magic Wand (Rental)^
+^WE0_EV_3_0002_Name^,^Enlightened Growth Sword^
+^WE2_EV_3_0002_Name^,^Enlightened Growth Dagger^
+^WE4_EV_3_0002_Name^,^Enlightened Growth Staff^
+^WE6_EV_3_0002_Name^,^Enlightened Growth Shortbow^
+^WE1_EV_3_0002_Name^,^Enlightened Growth Greatsword^
+^WE3_EV_3_0002_Name^,^Enlightened Growth Scepter^
+^WE11_EV_3_0002_Name^,^Enlightened Growth Magic Wand^
+^WE6_EV_3_0003_Name^,^Enlightened Growth Crossbow^
+^WE7_EV_3_0002_Name^,^Enlightened Growth Lance^
+^EV0_400_6000_1_Name^,^Alsas Sword (1 day)^
+^EV1_400_6001_1_Name^,^Alsas Greatsword (1 day)^
+^EV2_400_6002_1_Name^,^Alsas Dagger (1 day)^
+^EV3_400_6003_1_Name^,^Alsas Scepter (1 day)^
+^EV4_400_6004_1_Name^,^Alsas Staff (1 day)^
+^EV5_400_6005_1_Name^,^Alsas Lance (1 day)^
+^EV6_400_6006_1_Name^,^Alsas Crossbow (1 day)^
+^EV6_400_6007_1_Name^,^Alsas Shortbow (1 day)^
+^EV11_202_0_0060_1_Name^,^Alsas Magic Wand (1 day)^
+^EV_WE0_400_6000_1_Name^,^McBain's Dark Sword^
+^EV_WE1_400_6001_1_Name^,^McBain's Dark Greatsword^
+^EV_WE2_400_6002_1_Name^,^McBain's Dark Dagger^
+^EV_WE3_400_6003_1_Name^,^McBain's Dark Scepter^
+^EV_WE4_400_6004_1_Name^,^McBain's Dark Staff^
+^EV_WE6_400_6006_1_Name^,^McBain's Dark Crossbow^
+^EV_WE6_400_6007_1_Name^,^McBain's Dark Shortbow^
+^EV_WE11_400_6008_1_Name^,^McBain's Dark Magic Wand^
+^EV0_001_5_6002_name^,^Zelnaris Rental Sword (1 Day)^
+^EV4_002_5_6002_name^,^Zelnaris Rental Dagger (1 Day)^
+^EV6_003_5_6002_name^,^Zelnaris Rental Staff (1 Day)^
+^EV1_004_5_6002_name^,^Zelnaris Rental Greatsword (1 Day)^
+^EV5_005_5_6002_name^,^Zelnaris Rental Scepter (1 Day)^
+^EV7_006_5_6002_name^,^Zelnaris Rental Shortbow (1 Day)^
+^EV11_S001_0_0061_name^,^Zelnaris Rental Magic Wand (1 Day)^
+^EV0_001_5_6003_name^,^Zelnaris Rental Sword (30 Days)^
+^EV4_002_5_6003_name^,^Zelnaris Rental Dagger (30 Days)^
+^EV6_003_5_6003_name^,^Zelnaris Rental Staff (30 Days)^
+^EV1_004_5_6003_name^,^Zelnaris Rental Greatsword (30 Days)^
+^EV5_005_5_6003_name^,^Zelnaris Rental Scepter (30 Days)^
+^EV7_006_5_6003_name^,^Zelnaris Rental Shortbow (30 Days)^
+^EV11_S001_0_0062_name^,^Zelnaris Rental Magic Wand (30 Days)^
+^WE0_001_5_7001_name^,^Bloodless Sword^
+^WE4_002_5_7001_name^,^Bloodless Dagger^
+^WE6_003_5_7001_name^,^Bloodless Staff^
+^WE1_004_5_7001_name^,^Bloodless Greatsword^
+^WE5_005_5_7001_name^,^Bloodless Scepter^
+^WE7_006_5_7001_name^,^Bloodless Shortbow^
+^WE9_006_5_7001_name^,^Bloodless Crossbow^
+^WE8_007_5_7001_name^,^Bloodless Lance^
+^WE11_008_5_7001_name^,^Bloodless Magic Wand^
+^EV0_001_5_6004_name^,^Zelnaris Rental Sword(3 hours)^
+^EV4_002_5_6004_name^,^Zelnaris Rental Dagger(3 hours)^
+^EV6_003_5_6004_name^,^Zelnaris Rental Staff(3 hours)^
+^EV1_004_5_6004_name^,^Zelnaris Rental Greatsword (3 hours)^
+^EV5_005_5_6004_name^,^Zelnaris Rental Scepter (3 hours)^
+^EV7_006_5_6004_name^,^Zelnaris Rental Shortbow (3 hours)^
+^EV11_S001_0_0063_name^,^Zelnaris Rental Magic Wand (3 hours)^
+^EV0_001_5_6005_name^,^Zelnaris Rental Sword(7 days)^
+^EV4_002_5_6005_name^,^Zelnaris Rental Dagger(7 days)^
+^EV6_003_5_6005_name^,^Zelnaris Rental Staff(7 days)^
+^EV1_004_5_6005_name^,^Zelnaris Rental Greatsword(7 days)^
+^EV5_005_5_6005_name^,^Zelnaris Rental Scepter(7 days)^
+^EV7_006_5_6005_name^,^Zelnaris Rental Shortbow(7 days)^
+^EV11_S001_0_0064_name^,^Zelnaris Rental Magic Wand(7 days)^
+^WE0_001_5_8001_Name^,^Velzeroth Sword^
+^WE4_002_5_8001_Name^,^Velzeroth Dagger^
+^WE6_003_5_8001_Name^,^Velzeroth Staff^
+^WE1_004_5_8001_Name^,^Velzeroth Greatsword^
+^WE5_005_5_8001_Name^,^Velzeroth Scepter^
+^WE7_006_5_8001_Name^,^Velzeroth Shortbow^
+^WE9_006_5_8001_Name^,^Velzeroth Crossbow^
+^WE8_007_5_8001_Name^,^Velzeroth Lance^
+^WE11_008_5_8001_Name^,^Velzeroth Magic Wand^

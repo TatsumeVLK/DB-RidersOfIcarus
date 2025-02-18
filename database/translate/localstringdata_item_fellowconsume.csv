@@ -1,0 +1,747 @@
+t_key,t_korean
+^FM_000_0000_name^,^Common Pet Scroll^
+^FM_000_0000_Description^,^A scroll tHat can transform common mount familiars into pets, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^FM_000_0001_name^,^Elite Pet Scroll^
+^FM_000_0001_Description^,^A scroll tHat can transform elite mount familiars into pets, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^FM_000_0002_name^,^Heroic Pet Scroll^
+^FM_000_0002_Description^,^A scroll tHat can transform heroic mount familiars into pets, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^FM_000_0014_name^,^Legendary Pet Scroll^
+^FM_000_0014_Description^,^A scroll tHat can transform legendary mount familiars into pets, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^FM_000_0003_name^,^Exarahn Heroic Pet Scroll^
+^FM_000_0003_Description^,^A scroll tHat can transform heroic mount familiars into pets, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^FM_000_0004_name^,^Lv. 25 Pet Scroll^
+^FM_000_0004_Description^,^A scroll tHat can transform Lv. 1-25 common familiars.
+Right-click a familiar you wish to change into a pet
+(Only for those at a lower level than the character's)
+
+<It_G> - Must have the same grade as the familiar's in order to use it</It_G>
+<It_G> - Once a familiar has been changed into a pet, it cannot change back to a familiar</It_G>^
+^FM_000_0005_name^,^Lv. 25 Pet Scroll^
+^FM_000_0005_Description^,^A scroll tHat can transform Lv. 1-25 elite familiars.
+Right-click a familiar you wish to change into a pet
+(Only for those at a lower level than the character's)
+
+<It_G> - Must have the same grade as the familiar's in order to use it</It_G>
+<It_G> - Once a familiar has been changed into a pet, cannot return as a familiar</It_G>^
+^FM_000_0006_name^,^Lv. 30 Pet Scroll^
+^FM_000_0006_Description^,^A scroll tHat can transform Lv. 1-30 common familiars.
+Right-click a familiar you wish to change into a pet
+(Only for those at a lower level than the character's)
+
+<It_G> - Must have the same grade as the familiar's in order to use it</It_G>
+<It_G> - Once a familiar has been changed into a pet, cannot return as a familiar</It_G>^
+^FM_000_0007_name^,^Lv. 30 Pet Scroll^
+^FM_000_0007_Description^,^A scroll tHat can transform Lv. 1-30 elite familiars.
+Right-click a familiar you wish to change into a pet
+(Only for those at a lower level than the character's)
+
+<It_G> - Must have the same grade as the familiar's in order to use it</It_G>
+<It_G> - Once a familiar has been changed into a pet, cannot return as a familiar</It_G>^
+^FM_000_0008_name^,^Lv. 30 Pet Scroll^
+^FM_000_0008_Description^,^A scroll tHat can transform Lv. 1-30 heroic familiars.
+Right-click a familiar you wish to change into a pet/familiar
+(Only for those at a lower level than the character's)
+
+<It_G> - Must have the same grade as the familiar's in order to use it</It_G>
+<It_G> - Once a familiar has been changed into a pet, cannot return as a familiar</It_G>^
+^SF1_0_000_0000_name^,^Lv. 10 Common Seal Stone^
+^SF1_0_000_0000_Description^,^Used to seal Lv. 1-10 common familiars.
+
+<It_G> - Can only be used on familiars of the same grade as this item.</It_G>
+<It_G> - Sealed familiars can be used to improve gear and increase talent power.</It_G>
+<It_G> - Once sealed, a familiar cannot be unsealed.</It_G>^
+^SF1_0_000_0001_name^,^Elite Seal Stone^
+^SF1_0_000_0001_Description^,^A stone tHat can seal elite familiars so tHat they can be socketed onto Equipment or consumed to increase talent points.
+
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^SF1_1_000_0000_name^,^Heroic Seal Stone^
+^SF1_1_000_0000_Description^,^A stone tHat can seal heroic familiars so tHat they can be socketed onto Equipment or consumed to increase talent points.
+
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^SF1_4_000_0000_name^,^Legendary Seal Stone^
+^SF1_4_000_0000_Description^,^A stone tHat can seal level legendary familiars so tHat they can be socketed onto Equipment or consumed to increase talent points.
+
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^SF1_1_000_0001_name^,^Lv. 40 Common Seal Stone^
+^SF1_1_000_0001_Description^,^Used to seal Lv. 1-40 common familiars.
+
+<It_G> - Can only be used on familiars of the same grade as this item.</It_G>
+<It_G> - Sealed familiars can be used to improve gear and increase talent power.</It_G>
+<It_G> - Once sealed, a familiar cannot be unsealed.</It_G>^
+^SF1_1_000_0002_name^,^Lv. 50 Common Seal Stone^
+^SF1_1_000_0002_Description^,^Used to seal Lv. 1-50 common familiars.
+
+<It_G> - Can only be used on familiars of the same grade as this item.</It_G>
+<It_G> - Sealed familiars can be used to improve gear and increase talent power.</It_G>
+<It_G> - Once sealed, a familiar cannot be unsealed.</It_G>^
+^SF1_2_000_0000_name^,^Lv. 20 Common Seal Stone^
+^SF1_2_000_0000_Description^,^Used to seal Lv. 1-20 common familiars.
+
+<It_G> - Can only be used on familiars of the same grade as this item.</It_G>
+<It_G> - Sealed familiars can be used to improve gear and increase talent power.</It_G>
+<It_G> - Once sealed, a familiar cannot be unsealed.</It_G>^
+^SF1_2_000_0001_name^,^Lv. 25 Seal Stone^
+^SF1_2_000_0001_Description^,^Used to seal Lv. 1-25 elite familiars.
+
+<It_G> - Can only be used on familiars of the same grade as this item.</It_G>
+<It_G> - Sealed familiars can be used to improve gear and increase talent power.</It_G>
+<It_G> - Once sealed, a familiar cannot be unsealed.</It_G>^
+^SF1_3_000_0000_name^,^Lv. 30 Common Seal Stone^
+^SF1_3_000_0000_Description^,^Used to seal Lv. 1-30 common familiars.
+
+<It_G> - Can only be used on familiars of the same grade as this item.</It_G>
+<It_G> - Sealed familiars can be used to improve gear and increase talent power.</It_G>
+<It_G> - Once sealed, a familiar cannot be unsealed.</It_G>^
+^SF1_3_000_0001_name^,^Lv. 30 Seal Stone^
+^SF1_3_000_0001_Description^,^Used to seal Lv. 1-30 common familiars.
+
+<It_G> - Can only be used on familiars of the same grade as this item.</It_G>
+<It_G> - Sealed familiars can be used to improve gear and increase talent power.</It_G>
+<It_G> - Once sealed, a familiar cannot be unsealed.</It_G>^
+^FM_000_9000_name^,^Experience: Lv. 20 Pet Scroll^
+^FM_000_9000_Description^,^Used to turn a Lv. 1-20 common familiar into a pet.
+
+<It_G> - Can only be used on familiars of the same grade as this item.</It_G>
+<It_G> - Once converted, a pet cannot be turned back into a mount.</It_G>^
+^SF1_1_000_9000_name^,^Experience: Lv. 20 Seal Stone^
+^SF1_1_000_9000_Description^,^Used to seal Lv. 1-30 common familiars.
+
+<It_G> - Can only be used on familiars of the same grade as this item.</It_G>
+<It_G> - Sealed familiars can be used to improve gear and increase talent power.</It_G>
+<It_G> - Once sealed, a familiar cannot be unsealed.</It_G>^
+^FM_000_0009_Name^,^Common Mount Scroll^
+^FM_000_0009_Description^,^A scroll tHat can transform common pet familiars into mounts, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a mount.</It_G>^
+^FM_000_0011_Name^,^Elite Mount Scroll^
+^FM_000_0011_Description^,^A scroll tHat can transform elite pet familiars into mounts, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a mount.</It_G>^
+^FM_000_0012_Name^,^Heroic Mount Scroll^
+^FM_000_0012_Description^,^A scroll tHat can transform heroic pet familiars into mounts, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a mount.</It_G>^
+^FM_000_0013_Name^,^Legendary Mount Scroll^
+^FM_000_0013_Description^,^A scroll tHat can transform legendary pet familiars into mounts, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a mount.</It_G>^
+^FM_000_0010_Name^,^Pet Conversion Item (Test)^
+^FM_000_0010_Description^,^This item is for testing tHat can change a familiar into a pet.^
+^SF1_1_000_0003_Name^,^Exarahn Heroic Seal Stone^
+^SF1_1_000_0003_Description^,^A stone tHat can seal heroic familiars so tHat they can be socketed onto Equipment or consumed to increase talent points.
+
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^IT_FE_UF_0000_Name^,^Elite Unseal Stone^
+^IT_FE_UF_0000_Description^,^A stone tHat can unseal familiars below elite grade.
+
+<O_Y>When unsealed, the familiar is stored as a pet.</O_Y>
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^IT_FE_UF_0001_Name^,^Heroic Unseal Stone^
+^IT_FE_UF_0001_Description^,^A stone tHat can unseal familiars below heroic grade.
+
+<O_Y>When unsealed, the familiar is stored as a pet.</O_Y>
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^CA_FE_UF_0000_Name^,^Elite Unseal Stone^
+^CA_FE_UF_0000_Description^,^A stone tHat can unseal familiars below elite grade.
+
+<O_Y>When unsealed, the familiar is stored as a pet.</O_Y>
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^CA_FE_UF_0001_Name^,^Heroic Unseal Stone^
+^CA_FE_UF_0001_Description^,^A stone tHat can unseal familiars below heroic grade.
+
+<O_Y>When unsealed, the familiar is stored as a pet.</O_Y>
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^IT_FE_EF_0000_Name^,^Elite Seal Stone Extractor^
+^IT_FE_EF_0000_Description^,^Allows you to extract an elite or below sealed familiar from an elite or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item.^
+^IT_FE_EF_0001_Name^,^Akeron Elite Seal Stone Extractor^
+^IT_FE_EF_0001_Description^,^Allows you to extract an elite or below sealed familiar from an elite or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item.^
+^IT_FE_EF_0002_Name^,^Elite Seal Stone Extractor III^
+^IT_FE_EF_0002_Description^,^Elite Seal Stone Extractor III^
+^IT_FE_EF_0003_Name^,^Elite Seal Stone Extractor IV^
+^IT_FE_EF_0003_Description^,^Elite Seal Stone Extractor IV^
+^IT_FE_EF_0004_Name^,^Elite Seal Stone Extractor V^
+^IT_FE_EF_0004_Description^,^Elite Seal Stone Extractor V^
+^IT_FE_EF_0005_Name^,^Heroic Seal Stone Extractor^
+^IT_FE_EF_0005_Description^,^Allows you to extract a heroic or below sealed familiar from a heroic or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item.^
+^IT_FE_EF_0006_Name^,^Akeron Heroic Seal Stone Extractor^
+^IT_FE_EF_0006_Description^,^Allows you to extract a heroic or below sealed familiar from a heroic or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item.^
+^IT_FE_EF_0007_Name^,^Heroic Seal Stone Extractor III^
+^IT_FE_EF_0007_Description^,^Heroic Seal Stone Extractor III^
+^IT_FE_EF_0008_Name^,^Heroic Seal Stone Extractor IV^
+^IT_FE_EF_0008_Description^,^Heroic Seal Stone Extractor IV^
+^IT_FE_EF_0009_Name^,^Heroic Seal Stone Extractor V^
+^IT_FE_EF_0009_Description^,^Heroic Seal Stone Extractor V^
+^CA_FE_EF_0000_Name^,^Blessed Elite Seal Stone Extractor^
+^CA_FE_EF_0000_Description^,^Allows you to extract an elite or below sealed familiar from an elite or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item.^
+^CA_FE_EF_0001_Name^,^Elite Seal Stone Extractor II^
+^CA_FE_EF_0001_Description^,^Elite Seal Stone Extractor II^
+^CA_FE_EF_0002_Name^,^Elite Seal Stone Extractor III^
+^CA_FE_EF_0002_Description^,^Elite Seal Stone Extractor III^
+^CA_FE_EF_0003_Name^,^Elite Seal Stone Extractor IV^
+^CA_FE_EF_0003_Description^,^Elite Seal Stone Extractor IV^
+^CA_FE_EF_0004_Name^,^Heroic Seal Stone Extractor^
+^CA_FE_EF_0004_Description^,^Used to extract a heroic or lower familiar seal stone from a piece of gear. Once extracted, the familiar will be stored as a level 1 pet with its enhancement level and effects reset. 
+
+Your seal stone extractor must be the same grade as the familiar you're trying to extract.^
+^CA_FE_EF_0005_Name^,^Blessed Heroic Seal Stone Extractor^
+^CA_FE_EF_0005_Description^,^Allows you to extract a heroic or below sealed familiar from a heroic or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item.^
+^CA_FE_EF_0006_Name^,^Heroic Seal Stone Extractor II^
+^CA_FE_EF_0006_Description^,^Heroic Seal Stone Extractor II^
+^CA_FE_EF_0007_Name^,^Heroic Seal Stone Extractor III^
+^CA_FE_EF_0007_Description^,^Heroic Seal Stone Extractor III^
+^CA_FE_EF_0008_Name^,^Heroic Seal Stone Extractor IV^
+^CA_FE_EF_0008_Description^,^Heroic Seal Stone Extractor IV^
+^CA_FE_EF_0009_Name^,^Legendary Seal Stone Extractor^
+^CA_FE_EF_0009_Description^,^Used to extract a legendary or lower familiar seal stone from a piece of gear. Once extracted, the familiar will be stored as a level 1 pet with its tempeRing level and effects reset. 
+
+Your seal stone extractor must be the same grade as the familiar you're trying to extract.^
+^CA_FE_EF_0010_Name^,^Blessed Legendary Seal Stone Extractor^
+^CA_FE_EF_0010_Description^,^Allows you to extract a legendary or below sealed familiar from a legendary or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any tempeRing levels and effects on the item.^
+^CA_FE_FB_0098_Name^,^Familiar FosteRing 2x EXP Booster (3 Hour)^
+^CA_FE_FB_0098_Description^,^Familiar x2 EXP Booster for Testing^
+^CA_FE_FB_0099_Name^,^Familiar FosteRing 4x EXP Booster (3 Hour)^
+^CA_FE_FB_0099_Description^,^Familiar x4 EXP Booster for Testing^
+^CA_FE_FB_0100_Name^,^Foster Familiar x500 EXP Booster (5m)^
+^CA_FE_FB_0100_Description^,^Familiar x2 EXP Booster for Testing^
+^CA_FE_FB_0101_Name^,^Foster Familiar x1000 EXP Booster (5m)^
+^CA_FE_FB_0101_Description^,^Familiar x4 EXP Booster for Testing^
+^CA_FE_FB_0000_Name^,^Familiar EXP Booster (1 Hour)^
+^CA_FE_FB_0000_Description^,^Used to foster a familiar. Doubles your familiar foster EXP rate for 1 hour(s).
+
+!R_Y!Cannot be canceled once used. When you retrieve your fostered familiar, this item will be consumed.!/R_Y!^
+^CA_FE_FB_0001_Name^,^Familiar EXP Booster (3 Hour)^
+^CA_FE_FB_0001_Description^,^Used to foster a familiar. Doubles your familiar foster EXP rate for 3 hour(s).
+
+!R_Y!Cannot be canceled once used. When you retrieve your fostered familiar, this item will be consumed.!/R_Y!^
+^CA_FE_FB_0002_Name^,^Familiar EXP Booster (6 Hour)^
+^CA_FE_FB_0002_Description^,^Used to foster a familiar. Doubles your familiar foster EXP rate for 6 hour(s).
+
+!R_Y!Cannot be canceled once used. When you retrieve your fostered familiar, this item will be consumed.!/R_Y!^
+^CA_FE_FB_0003_Name^,^Rapid Familiar EXP Booster (1 Hour)^
+^CA_FE_FB_0003_Description^,^Used to foster a familiar. Quadruples your familiar foster EXP rate for 1 hour(s).
+
+!R_Y!Cannot be canceled once used. When you retrieve your fostered familiar, this item will be consumed.!/R_Y!^
+^CA_FE_FB_0004_Name^,^Rapid Familiar EXP Booster (3 Hour)^
+^CA_FE_FB_0004_Description^,^Used to foster a familiar. Quadruples your familiar foster EXP rate for 3 hour(s).
+
+!R_Y!Cannot be canceled once used. When you retrieve your fostered familiar, this item will be consumed.!/R_Y!^
+^CA_FE_FB_0005_Name^,^Rapid Familiar EXP Booster (6 Hour)^
+^CA_FE_FB_0005_Description^,^Used to foster a familiar. Quadruples your familiar foster EXP rate for 6 hour(s).
+
+!R_Y!Cannot be canceled once used. When you retrieve your fostered familiar, this item will be consumed.!/R_Y!^
+^IT_FE_TS_0001_Name^,^Seal Stone Extraction Test (Elite)^
+^IT_FE_TS_0002_Name^,^Seal Stone Extraction Test (Elite)^
+^IT_FE_TS_0003_Name^,^Seal Stone Extraction Test (Elite)^
+^IT_FE_TS_0004_Name^,^Seal Stone Extraction Test (+1)^
+^IT_FE_TS_0005_Name^,^Seal Stone Extraction Test (+2)^
+^IT_FE_TS_0006_Name^,^Seal Stone Extraction Test (+3)^
+^IT_FE_TS_0007_Name^,^Seal Stone Extraction Test (+4)^
+^IT_FE_TS_0008_Name^,^Seal Stone Extraction Test (+5)^
+^IT_FE_TS_0001_Description^,^This is for testing^
+^IT_FE_TS_0002_Description^,^This is for testing^
+^IT_FE_TS_0003_Description^,^This is for testing^
+^IT_FE_TS_0004_Description^,^This is for testing^
+^IT_FE_TS_0005_Description^,^This is for testing^
+^IT_FE_TS_0006_Description^,^This is for testing^
+^IT_FE_TS_0007_Description^,^This is for testing^
+^IT_FE_TS_0008_Description^,^This is for testing^
+^SF1_1_000_0004_Name^,^Lv. 60 Common Seal Stone^
+^SF1_1_000_0004_Description^,^Used to seal Lv. 1-60 common familiars.
+
+<It_G> - Can only be used on familiars of the same grade as this item.</It_G>
+<It_G> - Sealed familiars can be used to improve gear and increase talent power.</It_G>
+<It_G> - Once sealed, a familiar cannot be unsealed.</It_G>^
+^IT_FE_EF_0010_Name^,^Legendary Seal Stone Extractor^
+^IT_FE_EF_0010_Description^,^Allows you to extract a legendary or below sealed familiar from a legendary or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item.^
+^CA_FE_ES_0000_Name^,^Test Familiar Engraving Tool (1 min)^
+^CA_FE_ES_0000_Description^,^Test Familiar Engraving Tool (1 min)^
+^CA_FE_ES_0001_Name^,^Test Familiar Engraving Tool (10 min)^
+^CA_FE_ES_0001_Description^,^Test Familiar Engraving Tool (10 min)^
+^IT_FE_ES_0000_Name^,^Familiar Engraving Tool (1 Day)^
+^IT_FE_ES_0000_Description^,^Engraves a familiar for 1 day.
+
+<O_Y>An engraved familiar cannot be freed or sealed.</O_Y>^
+^IT_FE_ES_0001_Name^,^Familiar Engraving Tool (7 Day)^
+^IT_FE_ES_0001_Description^,^Engraves a familiar for 7 days.
+
+<O_Y>An engraved familiar cannot be freed or sealed.</O_Y>^
+^IT_FE_ES_0002_Name^,^Familiar Engraving Tool (15 Day)^
+^IT_FE_ES_0002_Description^,^Engraves a familiar for 15 days.
+
+<O_Y>An engraved familiar cannot be freed or sealed.</O_Y>^
+^IT_FE_ES_0003_Name^,^Familiar Engraving Tool (30 Day)^
+^IT_FE_ES_0003_Description^,^Engraves a familiar for 30 days.
+
+<O_Y>An engraved familiar cannot be freed or sealed.</O_Y>^
+^CA_FE_EM_0000_Name^,^+5 Heroic Seal Stone Extractor^
+^CA_FE_EM_0000_Description^,^Used to extract a heroic or lower familiar seal stone from a piece of gear enhanced up to +5. Once extracted, the familiar will be stored as a level 1 pet with +5 added to its max level.
+
+Your character level must be higher than the familiar's max level.
+
+Your seal stone extractor must be the same grade as the familiar you're trying to extract.^
+^CA_FE_EM_0001_Name^,^+5 Legendary Seal Stone Extractor^
+^CA_FE_EM_0001_Description^,^Used to extract a legendary or lower familiar seal stone from a piece of gear enhanced up to +5. Once extracted, the familiar will be stored as a max. level pet with +5 tempeRing level.
+
+Your character level must be higher than the familiar's max level.
+
+Your seal stone extractor must be the same grade as the familiar you're trying to extract.^
+^CA_FE_EM_0002_Name^,^+5 Heroic Seal Stone Extractor^
+^CA_FE_EM_0002_Description^,^Allows you to extract a heroic or below sealed familiar from a heroic or below +5 item. Your character level must be at least as high as the familiar max level to perform the extraction. Once extracted, the familiar will be stored as a max. level pet with +5 tempeRing level.^
+^CA_FE_EM_0003_Name^,^+5 Legendary Seal Stone Extractor^
+^CA_FE_EM_0003_Description^,^Allows you to extract a legendary or below sealed familiar from a legendary or below +5 item. Your character level must be at least as high as the familiar max level to perform the extraction. Once extracted, the familiar will be stored as a max. level pet with +5 tempeRing level.^
+^FM_000_0015_name^,^Legendary Pet Scroll^
+^FM_000_0015_Description^,^A scroll tHat can transform legendary mount familiars into pets, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^FM_000_0101_name^,^Legendary Bestiary Mount Scroll^
+^FM_000_0101_Description^,^Transforms legendary and below pets into mounts. The target pet must be at least 1 level below you. The transformed familiar will be automatically added to your bestiary.
+
+Right-click, then select the pet you wish the transform int a mount. The transformed mount will be added to your bestiary.^
+^FM_000_0016_name^,^Legendary Mount Scroll^
+^FM_000_0016_Description^,^A scroll tHat can transform legendary pet familiars into mounts, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a mount.</It_G>^
+^FM_000_0102_name^,^Collector's Legendary Familiar Scroll^
+^FM_000_0102_Description^,^Transforms legendary and below pets into mounts
+The transformed familiar will be automatically added to your bestiary.
+
+<It_G>Right-click, then select the familiar you wish to change into a mount familiar</It_G>
+<It_G>Can be registered on collection when transformed using the item.</It_G>^
+^FM_000_0103_name^,^Collector's Heroic Familiar Scroll^
+^FM_000_0103_Description^,^Transforms heroic and below pets into mounts
+The transformed familiar will be automatically added to your bestiary.
+
+<It_G>Right-click, then select the pet you wish the transform int a mount familiar</It_G>
+<It_G>Can be registered on collection when transformed using the item</It_G>^
+^CA_FE_FB_0006_name^,^Familiar x24 EXP Booster (1hrs.)^
+^CA_FE_FB_0007_name^,^Familiar x24 EXP Booster (3hrs.)^
+^CA_FE_FB_0006_description^,^Item used to foster a familiar
+Can be used on fostered familiar and the fosteRing speed will be increased by 24 times for 1 hour.
+!R_Y!Cannot cancel the item tHat has been applied. When the fostered familiar is retrieved, the item will disappear.!/R_Y!^
+^CA_FE_FB_0007_description^,^Item used to foster a familiar
+Can be used on fostered familiar and the fosteRing speed will be increased by 24 times for 3 hours.
+!R_Y!Cannot cancel the item tHat has been applied. When the fostered familiar is retrieved, the item will disappear.!/R_Y!^
+^SF1_1_000_1001_name^,^Heroic Seal Stone^
+^SF1_4_000_4001_name^,^Legendary Seal Stone^
+^IT_FE_EF_1000_name^,^Legendary Seal Stone Extractor^
+^SF1_1_000_1001_description^,^A stone tHat can seal heroic familiars so tHat they can be socketed onto Equipment or consumed to increase talent points.
+
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^SF1_4_000_4001_description^,^A stone tHat can seal level legendary familiars so tHat they can be socketed onto Equipment or consumed to increase talent points.
+
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^IT_FE_EF_1000_description^,^Allows you to extract a legendary or below sealed familiar from a legendary or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item.^
+^FM_000_0017_Name^,^Common Mount Scroll^
+^FM_000_0017_Description^,^A scroll tHat can transform common pet familiars into mounts, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a mount.</It_G>^
+^FM_000_0018_Name^,^Elite Mount Scroll^
+^FM_000_0018_Description^,^A scroll tHat can transform elite pet familiars into mounts, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a mount.</It_G>^
+^FM_000_0019_Name^,^Heroic Mount Scroll^
+^FM_000_0019_Description^,^A scroll tHat can transform heroic pet familiars into mounts, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a mount.</It_G>^
+^FM_000_0020_Name^,^Legendary Mount Scroll^
+^FM_000_0020_Description^,^A scroll tHat can transform legendary pet familiars into mounts, so long as their level is at least 1 below yours.
+
+<It_G>Right-click, then select the familiar you wish to change into a mount.</It_G>^
+^SF1_0_000_0101_name^,^Elite Seal Stone^
+^SF1_0_000_0101_Description^,^A stone tHat can seal elite familiars so tHat they can be socketed onto Equipment or consumed to increase talent points.
+
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^SF1_1_000_0100_name^,^Heroic Seal Stone^
+^SF1_1_000_0100_Description^,^A stone tHat can seal heroic familiars so tHat they can be socketed onto Equipment or consumed to increase talent points.
+
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^SF1_4_000_0100_name^,^Legendary Seal Stone^
+^SF1_4_000_0100_Description^,^A stone tHat can seal level legendary familiars so tHat they can be socketed onto Equipment or consumed to increase talent points.
+
+<It_G>The familiar must be the same grade as the stone.</It_G>
+<It_G>The familiar must be lower level than your character.</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed.</It_G>
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^SF1_4_000_0101_name^,^Modest Legendary Seal Stone^
+^SF1_4_000_0101_Description^,^Lv.45 or Below Legendary Grade Familiar Seal Stone, Including Lower Grade, Familiars at the Chracter's Level or Lv.45 or below can be sealed.
+
+<It_G>Right-click, then select a familiar/pet to seal</It_G>
+<It_G>Seal familiars give extra Equipment properties and increases Sealed familiars can be used to improve Equipment and increase talent power</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed</It_G>^
+^SF1_4_000_0102_name^,^Modest Legendary Seal Stone^
+^SF1_4_000_0102_Description^,^Lv.45 or Below Legendary Grade Familiar Seal Stone, Including Lower Grade, Familiars at the Chracter's Level or Lv.45 or below can be sealed.
+
+<It_G>Right-click, then select a familiar/pet to seal</It_G>
+<It_G>Sealed familiars can be used to improve Equipment and increase talent power</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed</It_G>^
+^CA_FE_FC_0000_name^,^Familiar Collection Initialization Scroll^
+^CA_FE_FC_0000_Description^,^Can initialize special collections.
+Can Initialize without consuming Accomplishment Points and Elluns.
+
+<O_Y>Can be used in the middle of cooldown time. The cooldown time will be initialized.</O_Y>^
+^CA_FE_FC_0001_name^,^Familiar Collection Initialization Scroll^
+^CA_FE_FC_0001_Description^,^Can initialize special collections.
+Can Initialize without consuming Accomplishment Points and Elluns.
+
+<O_Y>Can be used in the middle of cooldown time. The cooldown time will be initialized.</O_Y>^
+^SF1_4_001_0000_Name^,^Legendary Seal Stone^
+^SF1_4_001_0000_Description^,^Legendary Grade Familiar Seal Stone
+Including lower grade only the familiars at the character's level or below can be sealed.
+
+<It_G>Right-click, then select a familiar/pet to seal</It_G>
+<It_G>Sealed familiars can be used to improve Equipment and increase talent power</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed</It_G>^
+^PvP_CO_FE_0001_Name^,^Legendary Seal Stone Extractor^
+^PvP_CO_FE_0001_Description^,^Extracts the Legendary Familiar attached to an item. Only legendary or below familiars are viable.
+<O_Y>When extracted, a Lv.1 pet is registered in the familiar storage</O_Y>
+<O_Y>When extracted, tempered values and effects are initialized.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^FI_FE_EM_0001_Name^,^+5 Tempered Heroic Extractor^
+^FI_FE_EM_0001_Description^,^Extracts the Heroic Familiar seal stone at +5 Tempered status. Only heroic or below familiars are viable.
+<O_Y>When extracted, a Max. level +5 Tempered pet is registered in the familiar storage</O_Y>
+<O_Y>The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^FI_FE_EM_0002_Name^,^+5 Tempered Legendary Extractor^
+^FI_FE_EM_0002_Description^,^Extracts the Legendary Familiar seal stone at +5 Tempered status. Only legendary or below familiars are viable.
+<O_Y>When extracted, Max. level +5 Tempered pet is registered in the familiar storage</O_Y>
+<O_Y>The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^IT_FE_EF_0011_Name^,^+5 Tempered Legendary Extractor^
+^IT_FE_EF_0011_Description^,^Extracts the Legendary Familiar seal stone at +5 Tempered status. Only legendary or below familiars are viable.
+<O_Y>When extracted, Max. level +5 Tempered pet is registered in the familiar storage</O_Y>
+<O_Y>The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^CA_FE_EM_0004_Name^,^+7 Tempered Heroic Extractor^
+^CA_FE_EM_0004_Description^,^Extracts the Heroic Familiar seal stone at +7 Tempered status. Only heroic or below familiars are viable.
+<O_Y>When extracted, Max. level +7 Tempered pet is registered in the familiar storage</O_Y>
+<O_Y>The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^CA_FE_EM_0005_Name^,^+7 Tempered Legendary Extractor^
+^CA_FE_EM_0005_Description^,^Extracts the Legendary Familiar seal stone at +7 Tempered status. Only legendary or below familiars are viable.
+<O_Y>When extracted, Max. level +7 Tempered pet is registered in the familiar storage</O_Y>
+<O_Y>The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^CA_FE_EM_0006_Name^,^+7 Tempered Heroic Extractor^
+^CA_FE_EM_0006_Description^,^Extracts the Heroic Familiar seal stone at +7 Tempered status. Only heroic or below familiars are viable.
+<O_Y>When extracted, Max. level +7 Tempered pet is registered in the familiar storage</O_Y>
+<O_Y>The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^CA_FE_EM_0007_Name^,^+7 Tempered Legendary Extractor^
+^CA_FE_EM_0007_Description^,^Extracts the Legendary Familiar seal stone at +7 Tempered status. Only legendary or below familiars are viable.
+<O_Y>When extracted, Max. level +7 Tempered pet is registered in the familiar storage</O_Y>
+<O_Y>The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^CA_FE_EM_0008_Name^,^+6 Tempered Heroic Extractor^
+^CA_FE_EM_0008_Description^,^Extracts the Heroic Familiar seal stone at +6 Tempered status. Only heroic or below familiars are viable.
+<O_Y>When extracted, Max. level +6 Tempered pet is registered in the familiar storage</O_Y>
+<O_Y>The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^CA_FE_EM_0009_Name^,^+6 Tempered Legendary Extractor^
+^CA_FE_EM_0009_Description^,^Extracts the Legendary Familiar seal stone at +6 Tempered status. Only legendary or below familiars are viable.
+<O_Y>When extracted, Max. level +6 Tempered pet is registered in the familiar storage</O_Y>
+<O_Y>The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^CA_FE_EM_0010_Name^,^+6 Tempered Heroic Extractor^
+^CA_FE_EM_0010_Description^,^Extracts the Heroic Familiar seal stone at +6 Tempered status. Only heroic or below familiars are viable.
+<O_Y>When extracted, Max. level +6 Tempered pet is registered in the familiar storage</O_Y>
+<O_Y>The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^CA_FE_EM_0011_Name^,^+6 Tempered Legendary Extractor^
+^CA_FE_EM_0011_Description^,^Extracts the Legendary Familiar seal stone at +6 Tempered status. Only legendary or below familiars are viable.
+<O_Y>When extracted, Max. level +6 Tempered pet is registered in the familiar storage</O_Y>
+<O_Y>The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^TS_FA_FB_0999_Name^,^Familiar Adventure Boost Talisman (Test)^
+^TS_FA_FB_0999_Description^,^Test Familiar Adventure Boost Talisman^
+^PvP_CO_FE_0002_Name^,^+5 Tempered Legendary Extractor^
+^PvP_CO_FE_0002_Description^,^Extracts the Legendary Familiar seal stone at +5 Tempered status. Only legendary or below familiars are viable.
+<O_Y>When extracted, Max. level +5 Tempered pet is registered in the familiar storage</O_Y>
+<O_Y>The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^CA_FE_FB_0008_Name^,^Growth Boost Talisman (1hrs.)^
+^CA_FE_FB_0008_Description^,^An item used for familiar obedience training
+Can be used on a familiar at obedience training. When used, effects are doubled for 1hr.
+!R_Y!Items applied cannot be canceled. When the familiar at training is returned, the item disappears.!/R_Y!^
+^CA_FE_FB_0009_Name^,^Growth Boost Talisman (3hrs.)^
+^CA_FE_FB_0009_Description^,^An item used for familiar obedience training
+Can be used on a familiar at obedience training. When used, effects are doubled for 3hrs.
+!R_Y!Items applied cannot be canceled. When the familiar at training is returned, the item disappears.!/R_Y!^
+^CA_FE_FB_0010_Name^,^Growth Boost Talisman (6hrs.)^
+^CA_FE_FB_0010_Description^,^An item used for familiar obedience training
+Can be used on a familiar at obedience training. When used, effects are doubled for 6hrs.
+!R_Y!Items applied cannot be canceled. When the familiar at training is returned, the item disappears.!/R_Y!^
+^IT_FE_EF_0012_Name^,^Legendary Seal Stone Extractor^
+^IT_FE_EF_0012_Description^,^Extracts the Legendary Familiar attached to an item. Only legendary or below familiars are viable.
+<O_Y>When extracted, Lv.1 pet is registered in the familiar storage</O_Y>
+<O_Y>When extracted, tempered values and effects are initialized.</O_Y>
+
+<It_G> - Familiar's grade should be matched</It_G>^
+^SF1_4_000_0103_Name^,^Legendary Seal Stone^
+^SF1_4_000_0103_Description^,^Legendary Grade Familiar Seal Stone
+Including lower grade only the familiars at the character's level or below can be sealed.
+
+<It_G>Right-click, then select a familiar/pet to seal</It_G>
+<It_G>Sealed familiars can be used to improve Equipment and increase talent power</It_G>
+<It_G>Once a familiar is sealed, cannot be unsealed</It_G>^
+^EV_FE_FC_0001_Name^,^Familiar Collection Initialization Scroll^
+^EV_FE_FC_0001_Description^,^Can initialize special collections.
+Can Initialize without consuming Accomplishment Points and Elluns.
+
+<O_Y>Can be used in the middle of cooldown time. The cooldown time will be initialized.</O_Y>^
+^IT_FA_FB_0001_Name^,^Fellow Adventure Booster I^
+^IT_FA_FB_0002_Name^,^Fellow Adventure Booster II^
+^IT_FA_FB_0003_Name^,^Fellow Adventure Booster (60%)^
+^IT_FA_FB_0004_Name^,^Fellow Adventure Booster (80%)^
+^IT_FA_FB_0005_Name^,^Fellow Adventure Booster (100%)^
+^IT_FA_FB_0006_Name^,^Fellow Adventure Booster (200%)^
+^IT_FA_FB_0001_Description^,^The time required to take a Fellow Adventure is reduced by 10%.
+ 
+  <R_Y> Items used in the adventure play are not recyclable and will be applied throughout the adventure time. </R_Y>^
+^IT_FA_FB_0002_Description^,^The time required to take a Fellow Adventure is reduced by 30%.
+ 
+  <R_Y> Items used in the adventure play are not recyclable and will be applied throughout the adventure time. </R_Y>^
+^IT_FA_FB_0003_Description^,^<O_Y>The time required to take a Fellow Adventure is reduced by 60%.</O_Y>
+  <R_Y> Items used in the adventure play are not recyclable and will be applied throughout the adventure time. </R_Y>^
+^IT_FA_FB_0004_Description^,^<O_Y>The time required to take a Fellow Adventure is reduced by 80%.</O_Y>
+  <R_Y> Items used in the adventure play are not recyclable and will be applied throughout the adventure time. </R_Y>^
+^IT_FA_FB_0005_Description^,^<O_Y>The time required to take a Fellow Adventure is reduced by 100%.</O_Y>
+  <R_Y> Items used in the adventure play are not recyclable and will be applied throughout the adventure time. </R_Y>^
+^IT_FA_FB_0006_Description^,^<O_Y>The time required to take a Fellow Adventure is reduced by 200%.</O_Y>
+  <R_Y> Items used in the adventure play are not recyclable and will be applied throughout the adventure time. </R_Y>^
+^IT_FE_FB_0000_Name^,^Growth booster (2 hours)^
+^IT_FE_FB_0001_Name^,^High-Speed Growth Booster (2 hours)^
+^IT_FE_FB_0000_Description^,^Items used for Familiar ForsteRing
+  It can be used for the familair who is fostered, and twice the effect is applied for 2 hours when applied.
+  <R_Y> Applied items can not be canceled, and items will disappear when recalling the fostered familiar. </R_Y>^
+^IT_FE_FB_0001_Description^,^Items used for Familiar ForsteRing
+  It can be used for the familair who is fostered, and 4 times the effect is applied for 2 hours when applied.
+  <R_Y> Applied items can not be canceled, and items will disappear when recalling the fostered familiar. </R_Y>^
+^IT_FE_CA_0004_Name^,^Capture card^
+^IT_FE_CA_0005_Name^,^Shining Capture Card^
+^IT_FE_CA_0006_Name^,^Blessed Capture card^
+^IT_FE_CA_0004_Description^,^You can capture a monster by summoning a capture magic with a card with magical power.
+ 
+  - <It_G> Used by positioning over pet you want to capture after right-clicking </It_G>
+  - <It_G> The item will not be consumed if there is no target to capture. </It_G>^
+^IT_FE_CA_0005_Description^,^You can capture a monster by summoning a capture magic with a card with magical power.
+ 
+- <It_G> Used by positioning over pet you want to capture after right-clicking </It_G>
+  - <It_G> The item will not be consumed if there is no target to capture. </It_G>^
+^IT_FE_CA_0006_Description^,^You can capture a monster by summoning a capture magic with a card with magical power.
+ 
+  It has a higher success probability than other capture cards.
+
+- <It_G> Used by positioning over pet you want to capture after right-clicking </It_G>
+  - <It_G> The item will not be consumed if there is no target to capture. </It_G>^
+^IT_FE_CA_0007_Name^,^Practice Capture Card^
+^IT_FE_CA_0007_Description^,^You can capture a monster by summoning a capture magic with a card with magical power.
+ 
+- <It_G> Used by positioning over pet you want to capture after right-clicking </It_G>
+  - <It_G> The item will not be consumed if there is no target to capture. </It_G>^
+^IT_FE_CA_0008_Name^,^Blessed Capture card^
+^IT_FE_CA_0008_Description^,^You can capture a monster by summoning a capture-circle with the Capture Card.
+ 
+  It has a higher success probability than other capture cards.
+
+- <It_G> Used by positioning over pet you want to capture after right-clicking </It_G>
+  - <It_G> The item will not be consumed if there is no target to capture. </It_G>^
+^FM_000_0002_1_Name^,^Heroic Pet Scroll^
+^FM_000_0002_1_Description^,^A scroll tHat can transform heroic mount familiars into pets, so long as their level is the smae as yours or below.
+
+<It_G>Right-click, then select the familiar you wish to change into a pet.</It_G>^
+^IT_FE_CA_0009_Name^,^Shining Capture Card^
+^IT_FE_CA_0009_Description^,^You can capture a monster by summoning a capture-circle with the Capture Card.
+ 
+- <It_G> Used by positioning over pet you want to capture after right-clicking </It_G>
+  - <It_G> The item will not be consumed if there is no target to capture. </It_G>^
+^IT_FA_FB_0007_name^,^Fellow Adventure Booster (5%)^
+^IT_FA_FB_0008_name^,^Fellow Adventure Booster (15%)^
+^IT_FA_FB_0009_name^,^Fellow Adventure Booster (20%)^
+^IT_FA_FB_0010_name^,^Fellow Adventure Booster (25%)^
+^IT_FA_FB_0011_name^,^Fellow Adventure Booster (35%)^
+^IT_FA_FB_0012_name^,^Fellow Adventure Booster (40%)^
+^IT_FA_FB_0013_name^,^Fellow Adventure Booster (45%)^
+^IT_FA_FB_0014_name^,^Fellow Adventure Booster (55%)^
+^IT_FA_FB_0015_name^,^Fellow Adventure Booster (65%)^
+^IT_FA_FB_0016_name^,^Fellow Adventure Booster (70%)^
+^IT_FA_FB_0017_name^,^Fellow Adventure Booster (75%)^
+^IT_FA_FB_0018_name^,^Fellow Adventure Booster (85%)^
+^IT_FA_FB_0019_name^,^Fellow Adventure Booster (90%)^
+^IT_FA_FB_0020_name^,^Fellow Adventure Booster (95%)^
+^IT_FA_FB_0021_name^,^Fellow Adventure Booster (10 minutes)^
+^IT_FA_FB_0022_name^,^Fellow Adventure Booster (15 minutes)^
+^IT_FA_FB_0023_name^,^Fellow Adventure Booster (20 minutes)^
+^IT_FA_FB_0024_name^,^Fellow Adventure Booster (25 minutes)^
+^IT_FA_FB_0025_name^,^Fellow Adventure Booster (30 minutes)^
+^IT_FA_FB_0026_name^,^Fellow Adventure Booster (35 minutes)^
+^IT_FA_FB_0027_name^,^Fellow Adventure Booster (40 minutes)^
+^IT_FA_FB_0028_name^,^Fellow Adventure Booster (45 minutes)^
+^IT_FA_FB_0029_name^,^Fellow Adventure Booster (50 minutes)^
+^IT_FA_FB_0030_name^,^Fellow Adventure Booster (55 minutes)^
+^IT_FA_FB_0031_name^,^Fellow Adventure Booster (60 mins)^
+^IT_FA_FB_0032_name^,^Fellow Adventure Booster (65 minutes)^
+^IT_FA_FB_0033_name^,^Fellow Adventure Booster (70 minutes)^
+^IT_FA_FB_0034_name^,^Fellow Adventure Booster (75 minutes)^
+^IT_FA_FB_0035_name^,^Fellow Adventure Booster (80 minutes)^
+^IT_FA_FB_0036_name^,^Fellow Adventure Booster (85 minutes)^
+^IT_FA_FB_0037_name^,^Fellow Adventure Booster (90 minutes)^
+^IT_FA_FB_0038_name^,^Fellow Adventure Booster (95 minutes)^
+^IT_FA_FB_0039_name^,^Fellow Adventure Booster (100 minutes)^
+^IT_FA_FB_0040_name^,^Fellow Adventure Booster (105 minutes)^
+^IT_FA_FB_0007_Description^,^When used, Fellow adventure time is reduced by 5%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0008_Description^,^When used, Fellow adventure time is reduced by 15%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0009_Description^,^When used, Fellow adventure time is reduced by 20%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0010_Description^,^When used, Fellow adventure time is reduced by 25%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0011_Description^,^When used, Fellow adventure time is reduced by 35%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0012_Description^,^When used, Fellow adventure time is reduced by 40%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0013_Description^,^When used, Fellow adventure time is reduced by 45%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0014_Description^,^When used, Fellow adventure time is reduced by 55%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0015_Description^,^When used, Fellow adventure time is reduced by 65%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0016_Description^,^When used, Fellow adventure time is reduced by 70%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0017_Description^,^When used, Fellow adventure time is reduced by 75%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0018_Description^,^When used, Fellow adventure time is reduced by 85%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0019_Description^,^When used, Fellow adventure time is reduced by 90%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0020_Description^,^When used, Fellow adventure time is reduced by 95%.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0021_Description^,^When used, the Fellow adventure time is shortened by 10 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0022_Description^,^When used, the Fellow adventure time is shortened by 15 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0023_Description^,^When used, the Fellow adventure time is reduced by 20 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0024_Description^,^When used, the Fellow adventure time is reduced by 25 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0025_Description^,^When used, the fellow adventure time is shortened by 30 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0026_Description^,^When used, the Fellow adventure time is shortened by 35 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0027_Description^,^When used, the Fellow adventure time is reduced by 40 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0028_Description^,^When used, the Fellow adventure time is shortened by 45 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0029_Description^,^When used, the Fellow adventure time is shortened by 50 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0030_Description^,^When used, the Fellow adventure time is shortened by 55 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0031_Description^,^When used, the Fellow adventure time is reduced by 60 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0032_Description^,^When used, the Fellow adventure time is shortened by 65 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0033_Description^,^When used, the Fellow adventure time is shortened by 70 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0034_Description^,^When used, the Fellow adventure time is shortened by 75 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0035_Description^,^When used, the Fellow adventure time is reduced by 80 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0036_Description^,^When used, the Fellow adventure time is shortened by 85 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0037_Description^,^When used, the Fellow adventure time is shortened by 90 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0038_Description^,^When used, the Fellow adventure time is shortened by 95 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0039_Description^,^When used, the Fellow adventure time is reduced by 100 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^
+^IT_FA_FB_0040_Description^,^When used, the Fellow adventure time is shortened by 105 minutes.
+
+<R_Y>Items used in the adventure cannot be retrieved, and they are applied throughout the adventure.</R_Y>^

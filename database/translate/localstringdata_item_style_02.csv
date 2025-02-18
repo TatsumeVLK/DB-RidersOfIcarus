@@ -1,0 +1,1599 @@
+t_key,t_korean
+^CA_ST_CM_0231_Name^,^Taegeuk Cloak (30 days)^
+^CA_ST_CM_0231_Description^,^<r_y> Taegeuk caps (30 days) can be worn for 30 days and then automatically disappears The taekwondo cloak (30 days) is consumed from the moment you enter the bag </R_Y>^
+^MS_ST_CM_0006_Name^,^Pure weapon of Archeron Conqueror (6 days)^
+^MS_ST_CM_0006_Description^,^<R_Y> The pure weapon (6 days) of the Archeron conqueror can be worn for 6 days and then automatically disappears The pure weapon (6 days) of the Archeron conqueror is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0258_Name^,^Ellora's Wings (3 days)^
+^CA_ST_CM_0259_Name^,^White Pentagram (3 days)^
+^CA_ST_CM_0260_Name^,^Academic goods weapon costumes (3 days)^
+^CA_ST_CM_0258_Description^,^<r_y> Ellora's wings (3 days) can be worn for 3 days and then automatically disappeared Ellora's wings (3 days) spend time from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0259_Description^,^<r_y> White pentagram (3 days) can be worn for 3 days and then automatically disappears White pentagram (3 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0260_Description^,^<R_Y> School supplies weapon costumes (3 days) can be worn for 3 days and automatically disappeared Academic goods weapon costumes (3 days) are consumed from the moment they enter the bag </R_Y>^
+^EV_ST_DO_0001_Name^,^Pure costume of ancient golden horse dragons (7 days)^
+^EV_ST_DO_0001_Description^,^Time is spent from the moment you enter the bag and you can wear it for 7 days When the period expires it automatically disappears </R_Y>^
+^IT_ST_DO_0002_Name^,^One -handed magic rod of ancient golden horse dragons (30 days)^
+^IT_ST_DO_0002_Description^,^Time is spent from the moment you enter the bag and you can wear it for 30 days When the period expires it automatically disappears </R_Y>^
+^EV_ST_DO_0003_Name^,^Pure costume of ancient golden horse dragons (30 days)^
+^EV_ST_DO_0003_Description^,^Time is spent from the moment you enter the bag and you can wear it for 30 days When the period expires it automatically disappears </R_Y>^
+^CA_ST_CM_0264_Name^,^Hakanas Student Uniform (3 days)^
+^CA_ST_CM_0265_Name^,^Hakanas Student Uniform (7th)^
+^CA_ST_CM_0264_Description^,^<r_y> Hakanas Student Uniform (3 days) can be worn for 3 days and then automatically disappears <br> The new school year Hakanas student uniform (3 days) is spent from the moment you enter the bag </R_y </r_y >^
+^CA_ST_CM_0265_Description^,^<r_y> Hakanas Student Uniform (7 days) can be worn for 7 days and automatically disappears <br> The new school year Hakanas student uniform (7 days) is consumed from the moment you enter the bag </R_y </r_y >^
+^CA_ST_CM_0278_Name^,^Red Cape (7th)^
+^CA_ST_CM_0278_Description^,^<r_y> Red Cape (7 days) can be worn for 7 days and then automatically disappears <br> Red Cape (7 days) is consumed from the moment you enter the bag </R_Y>^
+^PvP_FI_CM_0001_Name^,^(PVP) Inorganic costumes of fishing light (3 days)^
+^PvP_FI_CM_0001_Description^,^<r_y> (PvP) The inorganic costume (3 days) of the fishing light can be worn for 3 days and then automatically disappears It is consumed </R_y>^
+^CA_ST_CM_0282_Name^,^Ice cream weapon costume (15 days)^
+^CA_ST_CM_0283_Name^,^White Blooming (15th)^
+^CA_ST_CM_0284_Name^,^Cat Summer Chacha (15th)^
+^CA_ST_CM_0285_Name^,^Sunglasses (15th)^
+^CA_ST_CM_0282_Description^,^<R_Y> Ice cream weapon costumes (15 days) can be worn for 15 days and then automatically disappeared Ice cream weapon costumes (15 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0283_Description^,^<r_y> White blooming (15 days) can be worn for 15 days and then automatically disappears White blooming (15 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0284_Description^,^<r_y> Cat Summer Chacha (15 days) can be worn for 15 days and then automatically disappears <br> Cat Summer Cha (15 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0285_Description^,^<r_y> sunglasses (15 days) can be worn for 15 days and then automatically disappeared <br> Sunglasses (15 days) takes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0006_Name^,^Special title: Icarus Exorcist^
+^tt_1_0_0006_Description^,^<UI_G> [Sad Ghost Casper] </ui_g> Special title^
+^CA_ST_CM_0286_Name^,^Hopi -patterned swimsuit (30 days)^
+^CA_ST_CM_0287_Name^,^Hopi -patterned swimsuit (7 days)^
+^CA_ST_CM_0288_Name^,^Water diameter (30 days)^
+^CA_ST_CM_0286_Description^,^<r_y> Hopi -patterned swimsuit (30 days) can be worn for 30 days and automatically disappears Hopi -patterned swimsuit (30 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0287_Description^,^<r_y> Hopi -patterned swimsuit (7 days) can be worn for 7 days and automatically disappears Hopi -patterned swimsuit (7 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0288_Description^,^<R_y> water diameter (30 days) can be worn for 30 days and then automatically disappears Water diameter (30 days) spends time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0100_Name^,^Red witch hat (4 days)^
+^EV_ST_CM_0101_Name^,^Green Witch Hat (4 days)^
+^EV_ST_CM_0102_Name^,^Orange Witch Hat (4th)^
+^EV_ST_CM_0100_Description^,^<r_y> Red witch hat (4 days) can be worn for 4 days and then automatically disappears <br> The red witch hat (4 days) is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0101_Description^,^<r_y> Green Witch Hat (4 days) can be worn for 4 days and then automatically disappears <br> Green witch hat (4 days) is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0102_Description^,^<r_y> The orange witch hat (4 days) can be worn for 4 days and then automatically disappears <br> The orange witch hat (4 days) is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0289_Name^,^Mountain communication (30 days)^
+^CA_ST_CM_0289_Description^,^<r_y> Mountain Communication (30 days) can be worn for 30 days and then automatically disappears Mountain communication (30 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0290_Name^,^Cat vacation chacha (30 days)^
+^CA_ST_CM_0290_Description^,^<r_y> Cat Vacial Chacha (30 days) can be worn for 30 days and automatically disappears Cat vacation chacha (30 days) is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0291_Name^,^Water diameter (7 days)^
+^CA_ST_CM_0291_Description^,^<R_y> water diameter (7 days) can be worn for 7 days and then automatically disappears Water diameter (7 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0292_Name^,^Mountain communication (7 days)^
+^CA_ST_CM_0292_Description^,^<r_y> Mountain Communication (7 days) can be worn for 7 days and then automatically disappears Mountain communication (7 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0293_Name^,^Cat Vacation Chacha (7th)^
+^CA_ST_CM_0293_Description^,^<r_y> Cat Vacial Chacha (7 days) can be worn for 7 days and automatically disappears Cat vacation chacha (7 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0294_Name^,^(Appearance) Moon Night Training Dress (3 days)^
+^CA_ST_CM_0294_Description^,^<r_y> Moon Night Training Works (3 days) can be worn for 3 days and will be automatically disappeared </R_Y> <Ui_g>^
+^CA_ST_CM_0295_Name^,^(Appearance) Uniform Martini (3 days)^
+^CA_ST_CM_0295_Description^,^<r_y> Uniform Martini (3 days) can be worn for 3 days and then automatically disappears </R_Y> <UI_G>^
+^CA_ST_CM_0296_Name^,^(Appearance) Hakanas Student Uniform (7th)^
+^CA_ST_CM_0296_Description^,^<r_y> The new school year Hakanas student uniform (7 days) can be worn for 7 days and then automatically disappears^
+^CA_ST_CM_0297_Name^,^(Appearance) Lovely Made and butler (3 days)^
+^CA_ST_CM_0297_Description^,^<r_y> Lovely Made and Deacon (3 days) can be worn for 3 days and then automatically disappeared^
+^CA_ST_CM_0298_Name^,^(Appearance) Star Night Training Dress (3 days)^
+^CA_ST_CM_0298_Description^,^<r_y> Star Night Training Works (3 days) can be worn for 3 days and will be automatically disappeared^
+^CA_ST_CM_0299_Name^,^(Appearance) Made and butler (3 days)^
+^CA_ST_CM_0299_Description^,^<r_y> Made and the butler (3 days) can be worn for 3 days and then automatically disappeared </R_Y> <Ui_g>^
+^CA_ST_CM_0300_Name^,^(Appearance) Military X (3 days)^
+^CA_ST_CM_0300_Description^,^<r_y> Military X (3 days) can be worn for 3 days and will be automatically disappeared^
+^tt_1_0_0007_Name^,^Special title: Red Revolutionary Master^
+^tt_1_0_0007_Description^,^Title to the hero who first cleared the red innovation list^
+^EV_ST_CM_0103_Name^,^Hakanas cheering suit (7 days)^
+^EV_ST_CM_0103_Description^,^<r_y> Hakanas cheering clothes (7 days) can be worn for 7 days and then automatically disappeared <br> Hakanas cheering clothes (7 days) are consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0302_Name^,^Ika Sports Weapon Costume (30 days)^
+^CA_ST_CM_0303_Name^,^Ica Sports Costume Costume (30 days)^
+^CA_ST_CM_0302_Description^,^<r_y> Ika Sports Weapon Costume (30 days) can be worn for 30 days and then automatically disappears <BR> Ika Sports Weapon Costume (30 days) is spent from the moment you enter the bag </ R_y>^
+^CA_ST_CM_0303_Description^,^<r_y> Ika Sports costume costumes (30 days) can be worn for 30 days and then automatically disappeared <br> Ika Sports costume costume (30 days) is consumed from the moment you enter the bag </ R_y>^
+^CA_ST_CM_0304_Name^,^Ellora's Wings (14th)^
+^CA_ST_CM_0305_Name^,^Wings of Gelaris (14th)^
+^CA_ST_CM_0307_Name^,^Ika Sports Weapon Costume (14th)^
+^CA_ST_CM_0308_Name^,^Ica Sports Costume Costume (14th)^
+^CA_ST_CM_0304_Description^,^<r_y> Ellora's wings (14 days) can be worn for 14 days and then automatically disappeared Ellora's wings (14 days) spend time from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0305_Description^,^<R_Y> Wings of Gelaris (14 days) can be worn for 14 days and then automatically disappeared The wings of the gelaris (14 days) are spent from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0307_Description^,^<r_y> Ika Sports Weapon Costume (14 days) can be worn for 14 days and then automatically disappears <br> Ika Sports Weapon Costume (14 days) is consumed from the moment you enter the bag </ R_y>^
+^CA_ST_CM_0308_Description^,^<r_y> Ika Sports costume costumes (14 days) can be worn for 14 days and then automatically disappeared <br> Ika Sports costume costumes (14 days) are consumed from the moment you enter the bag </ R_y>^
+^EV_ST_CM_0104_Name^,^Cat awakening tea (7 days)^
+^EV_ST_CM_0104_Description^,^<r_y> Cat awakening tea (7 days) can be worn for 7 days and then automatically disappears <br> Cat Awakening Cha (7 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0309_Name^,^Growth Meadow Fox (14th)^
+^CA_ST_CM_0309_Description^,^<R_Y> Growth Meadow Fox (14 days) can be worn for 14 days and then automatically disappears <br> Growth meadow fox (14 days) is spent from the moment you enter the bag The experience increase options up to 500% </R_Y>^
+^CA_ST_CM_0310_Name^,^Red Square (14th)^
+^CA_ST_CM_0310_Description^,^<R_Y> Red Square (14 days) can be worn for 14 days and then automatically disappears <br> Red Square (14 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0311_Name^,^Cat Bobo (14th)^
+^CA_ST_CM_0311_Description^,^<r_y> Cat Bobo (14 days) can be worn for 14 days and then automatically disappears <br> Cats (14 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0312_Name^,^(Appearance) Hakanas Student Uniform^
+^CA_ST_CM_0313_Name^,^(Appearance) Pegasus robes^
+^CA_ST_CM_0314_Name^,^(Appearance) Kingdom Training Bok^
+^CA_ST_CM_0315_Name^,^(Appearance) Hakanas robes^
+^CA_ST_CM_0316_Name^,^(Appearance) Lavini costume^
+^CA_ST_CM_0317_Name^,^(Appearance) Uniform Martini^
+^CA_ST_CM_0318_Name^,^(Appearance) Military X^
+^CA_ST_CM_0319_Name^,^(Appearance) White Skeleton Costume^
+^CA_ST_CM_0320_Name^,^(Appearance) Blue Skeleton Costume^
+^CA_ST_CM_0321_Name^,^(Appearance) Black Vampire^
+^CA_ST_CM_0322_Name^,^(Appearance) White vampire^
+^CA_ST_CM_0323_Name^,^(Appearance) Bainder's cheongsu^
+^CA_ST_CM_0324_Name^,^(Appearance) Armor of Jecheon University^
+^CA_ST_CM_0325_Name^,^(Appearance) Lovely Made and Deacon^
+^CA_ST_CM_0326_Name^,^(Appearance) Wikid costumes^
+^CA_ST_CM_0327_Name^,^(Appearance) White Blooming^
+^CA_ST_CM_0328_Name^,^(Appearance) Student swimsuit^
+^CA_ST_CM_0329_Name^,^(Appearance) Red Blooming^
+^CA_ST_CM_0330_Name^,^(Appearance) Blue Blooming^
+^CA_ST_CM_0331_Name^,^(Appearance) Hakanas Student Uniform^
+^CA_ST_CM_0332_Name^,^(Appearance) Hopi -patterned swimsuit^
+^CA_ST_CM_0333_Name^,^(Appearance) Japanese warrior costumes^
+^CA_ST_CM_0334_Name^,^(Appearance) Man of Lavini^
+^CA_ST_CM_0312_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0313_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0314_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0315_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0316_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0317_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0318_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0319_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0320_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0321_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0322_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0323_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0324_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0325_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0326_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0327_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0328_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0329_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0330_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0331_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0332_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0333_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0334_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0335_Name^,^Meadow Wings (30 days)^
+^CA_ST_CM_0335_Description^,^<r_y> The wings of the meadow (30 days) can be worn for 30 days and then automatically disappeared The wings of the meadow (30 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0336_Name^,^(Appearance) Kung later^
+^CA_ST_CM_0336_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0337_Name^,^Lovely Night (15th)^
+^CA_ST_CM_0337_Description^,^<r_y> Lovely Night (15 days) can be worn for 15 days and then automatically disappears Lovely Night (15th) is spent from the moment you enter the bag </R_Y>^
+^tt_1_0_0008_Name^,^Special title: Guardian Icarus (15th)^
+^tt_1_0_0008_Description^,^<r_y> Guardian Icarus (15 days) can be used for 15 days and automatically disappears Icarus Guardian (15 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0338_Name^,^(Appearance) Traditional costumes^
+^CA_ST_CM_0338_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0339_Name^,^Traditional weapon costumes (30 days)^
+^CA_ST_CM_0339_Description^,^<r_y> Traditional weapon costumes (30 days) can be worn for 30 days and then automatically disappeared <br> Traditional weapon costumes (30 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0340_Name^,^Traditional costumes (30 days)^
+^CA_ST_CM_0340_Description^,^<r_y> Traditional costumes (30 days) can be worn for 30 days and then automatically disappeared <br> Traditional costumes (30 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0341_Name^,^(Appearance) Wikid costumes^
+^CA_ST_CM_0341_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0342_Name^,^Meadow Wings (14th)^
+^CA_ST_CM_0342_Description^,^<r_y> The wing of the meadow (14 days) can be worn for 14 days and automatically disappears The wings of the meadow (14 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0343_Name^,^Cat Vacation Chacha (14th)^
+^CA_ST_CM_0343_Description^,^<r_y> Cat Vacial Chacha (14 days) can be worn for 14 days and then automatically disappears Cat vacation chacha (14 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0344_Name^,^Monkey of Jecheon University (14th)^
+^CA_ST_CM_0344_Description^,^<r_y> The monkey of the Jecheon Dae Province (14 days) can be worn for 14 days and then automatically disappears The monkey of the Jecheon Dae Province (14 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0345_Name^,^Conqueror's Wiki Costume (14th)^
+^CA_ST_CM_0345_Description^,^<R_Y> Wikid costumes (14 days) of the conqueror can be worn for 14 days and then automatically disappeared <br> The conqueror's Wikid costume (14 days) is consumed from the moment you enter the bag </R_Y >^
+^CA_ST_CM_0346_Name^,^Conqueror's Wiki Weapon Costume (14th)^
+^CA_ST_CM_0346_Description^,^<R_Y> Wikid weapon costumes (14 days) of the conqueror can be worn for 14 days and then automatically disappeared /R_y>^
+^CA_ST_CM_0347_Name^,^Awakening of the conqueror (14 days)^
+^CA_ST_CM_0347_Description^,^<r_y> Awakening Momo (14 days) of the conqueror can be worn for 14 days and then automatically disappears >^
+^CA_ST_CM_0348_Name^,^Armor of Jecheon University (14th)^
+^CA_ST_CM_0348_Description^,^<r_y> The Armor of Jecheon Daeseong (14 days) can be worn for 14 days and will automatically disappear The armor of Jecheon Daeseong (14 days) is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0349_Name^,^Yeouibong of Jecheon University (14th)^
+^CA_ST_CM_0349_Description^,^<r_y> Yeouibong (14 days) of Jecheon Daeseong can be worn for 14 days and then automatically disappears Yeouibong (14 days) of Jecheon Daeseong is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0350_Name^,^Traditional weapon costumes (14 days)^
+^CA_ST_CM_0350_Description^,^<r_y> Traditional weapon costumes (14 days) can be worn for 14 days and then automatically disappeared <br> Traditional weapons costumes (14 days) are consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0351_Name^,^Traditional costumes (14 days)^
+^CA_ST_CM_0351_Description^,^<r_y> Traditional costumes (14 days) can be worn for 14 days and then automatically disappeared <br> Traditional costumes (14 days) are consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0352_Name^,^(Appearance) Cream Cookie Lavini Costume^
+^CA_ST_CM_0352_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0353_Name^,^(Appearance) Wizard costume^
+^CA_ST_CM_0353_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0354_Name^,^Wizard costume (30 days)^
+^CA_ST_CM_0354_Description^,^<r_y> Wizard costume (30 days) can be worn for 30 days and then automatically disappears <br> The Wizard Costume (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0355_Name^,^(Appearance) Purple Vampire^
+^CA_ST_CM_0355_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0356_Name^,^Purple Vampire (30 days)^
+^CA_ST_CM_0356_Description^,^<r_y> Purple vampires (30 days) can be worn for 30 days and then automatically disappeared^
+^CA_ST_CM_0357_Name^,^Halloween Weapon Costume (30 days)^
+^CA_ST_CM_0357_Description^,^<r_y> Halloween weapon costumes (30 days) can be worn for 30 days and then automatically disappeared <br> Halloween inorganic costume (30 days) consumes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0358_Name^,^(Appearance) Halloween's reaper^
+^CA_ST_CM_0358_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^CA_ST_CM_0359_Name^,^Halloween Reaper (30 days)^
+^CA_ST_CM_0359_Description^,^<r_y> Halloween reaper (30 days) can be worn for 30 days and then automatically disappears <br> Halloween's reaper (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0360_Name^,^Wizard costume (14 days)^
+^CA_ST_CM_0360_Description^,^<r_y> Wizard costume (14 days) can be worn for 14 days and then automatically disappears <br> The Wizard Costume (14 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0361_Name^,^Purple Vampire (14th)^
+^CA_ST_CM_0361_Description^,^<r_y> Purple vampires (14 days) can be worn for 14 days and then automatically disappeared^
+^CA_ST_CM_0362_Name^,^Halloween Reaper (14th)^
+^CA_ST_CM_0362_Description^,^<r_y> Halloween reaper (14 days) can be worn for 14 days and then automatically disappears <br> Halloween's reaper (14 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0363_Name^,^Halloween Weapon Costume (14th)^
+^CA_ST_CM_0363_Description^,^<r_y> Halloween weapon costumes (14 days) can be worn for 14 days and then automatically disappeared <br> Halloween inorganic costumes (14 days) are consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0105_Name^,^Valor Cape (7 days)^
+^EV_ST_CM_0105_Description^,^<r_y> Cape of Valor (7 days) can be worn for 7 days and automatically disappears Valor Cape (7 days) takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0106_Name^,^Cool pumpkin hat (7 days)^
+^EV_ST_CM_0106_Description^,^<r_y> A wonderful pumpkin hat (7 days) can be worn for 7 days and then automatically disappears <br> The wonderful pumpkin hat (7 days) is spent from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0107_Name^,^Sad pumpkin hat (7 days)^
+^EV_ST_CM_0107_Description^,^<r_y> Sad pumpkin hats (7 days) can be worn for 7 days and then automatically disappeared <br> The sad pumpkin hat (7 days) is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0108_Name^,^Happy pumpkin hat (7 days)^
+^EV_ST_CM_0108_Description^,^<r_y> A pleasant pumpkin hat (7 days) can be worn for 7 days and then automatically disappears <br> A pleasant pumpkin hat (7 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0364_Name^,^(Appearance) Hakanas cheering clothes^
+^EV_ST_CM_0109_Name^,^Halloween knife^
+^CA_ST_CM_0365_Name^,^(Appearance) Costumes in the middle of winter^
+^CA_ST_CM_0366_Name^,^Midwinter costume (30 days)^
+^CA_ST_CM_0366_Description^,^<r_y> The winter winter costume (30 days) can be worn for 30 days and then automatically disappears <br> The winter costume (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0367_Name^,^Ice weapon costume (30 days)^
+^CA_ST_CM_0367_Description^,^<r_y> Ice weapon costumes (30 days) can be worn for 30 days and then automatically disappeared <br> Ice weapon costume (30 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0368_Name^,^Wiki Costume of the Slaughter (14th)^
+^CA_ST_CM_0368_Description^,^<R_Y> Wikid costumes (14 days) of the slaughter can be worn for 14 days and then automatically disappeared <br> The slaughterer's Wikid costume (14 days) is consumed from the moment you enter the bag </R_Y >^
+^CA_ST_CM_0369_Name^,^Wikid weapon costumes of the slaughter (14 days)^
+^CA_ST_CM_0369_Description^,^<R_Y> Wikid weapon costumes (14 days) can be worn for 14 days and then automatically disappeared /R_y>^
+^CA_ST_CM_0370_Name^,^Massacre's Awakening Momo (14th)^
+^CA_ST_CM_0370_Description^,^<r_y> The awakening mumo (14 days) of the massacre can be worn for 14 days and then automatically disappears >^
+^CA_ST_CM_0371_Name^,^The slaughterer's anger (1 day)^
+^CA_ST_CM_0371_Description^,^<r_y> The anger of the massacre (1 day) can be worn for one day and then automatically disappears The anger of the massacre (1 day) is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0372_Name^,^(Appearance) Torkai's fate of fate^
+^EV_ST_CM_0110_Name^,^Rudolph costume (1 day)^
+^EV_ST_CM_0110_Description^,^<r_y> Rudolph costume (1 day) can be worn for one day and then automatically disappears <br> Rudolph costume (1 day) is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0111_Name^,^Event Devil's Mask (1 Day)^
+^EV_ST_CM_0111_Description^,^Time is spent from the moment you enter the bag and you can wear it for 1 day When the period expires it automatically disappears </R_Y>^
+^EV_ST_CM_0112_Name^,^Event Olaffu Shoulder Decoration (1 Day)^
+^EV_ST_CM_0112_Description^,^Time is spent from the moment you enter the bag and you can wear it for 1 day When the period expires it automatically disappears </R_Y>^
+^CA_ST_CM_0378_Name^,^Christmas party (30 days)^
+^CA_ST_CM_0378_Description^,^<r_y> Christmas party (30 days) can be worn for 30 days and then automatically disappears <br> The Christmas party (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0379_Name^,^Christmas weapon costume (30 days)^
+^CA_ST_CM_0379_Description^,^<r_y> Christmas weapon costumes (30 days) can be worn for 30 days and then automatically disappeared <br> Christmas weapons costume (30 days) consumes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0380_Name^,^White Pentagram (7 days)^
+^CA_ST_CM_0380_Description^,^<r_y> White pentagram (7 days) can be worn for 7 days and automatically disappears White pentagram (7 days) takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0113_Name^,^Turimran royal cloak^
+^EV_ST_CM_0113_Description^,^A gift of gratitude to a user who achieved level 67^
+^PvP_ST_CM_001_Name^,^The wings of the Ju (7 days)^
+^PvP_ST_CM_002_Name^,^Corridor's Wings (7th)^
+^PvP_ST_CM_003_Name^,^Wings of the battlefield (7 days)^
+^PvP_ST_CM_001_Description^,^The wings of the <r_y> can be worn for 7 days and then automatically disappeared Ellora's wings (7 days) spend time from the moment they enter the bag </R_Y>^
+^PvP_ST_CM_002_Description^,^<r_y> Wings of the corridor (7 days) can be worn for 7 days and then automatically disappeared The wings of the gelaris (7 days) are spent from the moment they enter the bag </R_Y>^
+^PvP_ST_CM_003_Description^,^<r_y> Wings on the battlefield (7 days) can be worn for 7 days and then automatically disappeared The wings of the gelaris (7 days) are spent from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0382_Name^,^Wikid costumes of the massacre (3 days)^
+^CA_ST_CM_0382_Description^,^<R_Y> Wikid costumes (3 days) of the massacre can be worn for 3 days and automatically disappeared >^
+^CA_ST_CM_0383_Name^,^Slaughter Wikid Weapon Costume (3 Days)^
+^CA_ST_CM_0383_Description^,^<R_Y> Wikid weapon costumes (3 days) of the slaughter can be worn for 3 days and then automatically disappeared /R_y>^
+^CA_ST_CM_0384_Name^,^Kurodian Wings^
+^CA_ST_CM_0385_Name^,^Kurodian^
+^CA_ST_CM_0381_Name^,^(Appearance) Red Winter Costume^
+^CA_ST_CM_0386_Name^,^(Appearance) Hangawi Dasom^
+^CA_ST_CM_0387_Name^,^Wooden Spirit Weapon Costume (30 days)^
+^CA_ST_CM_0388_Name^,^2017 glasses (30 days)^
+^CA_ST_CM_0387_Description^,^<r_y> Tree Elemental Weapon Costumes (30 days) can be worn for 30 days and then automatically disappeared <br> Tree spirit weapons costumes (30 days) are consumed from the moment you enter the bag </ R_y>^
+^CA_ST_CM_0388_Description^,^<r_y> 2017 glasses (30 days) can be worn for 30 days and then automatically disappeared <br> 2017 glasses (30 days) spend time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0389_Name^,^Conqueror's energy (1 day)^
+^CA_ST_CM_0389_Description^,^<r_y> The energy (1 day) of the conqueror can be worn for one day and then automatically disappears <br> The conqueror's energy (1 day) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0009_Name^,^Special title: Ellora's Gift^
+^tt_1_0_0009_Description^,^It can be used during the use of premium service <O_Y> The item is deleted when the premium service ends <O_Y>^
+^CA_ST_CM_0390_Name^,^Bingryong costume (30 days)^
+^CA_ST_CM_0391_Name^,^Ice Dragon Weapon Costume (30 days)^
+^CA_ST_CM_0392_Name^,^Bingryong Wings (30 days)^
+^CA_ST_CM_0390_Description^,^<r_y> Bingryong costume (30 days) can be worn for 30 days and then automatically disappears <br> The ice dragon costume (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0391_Description^,^<r_y> Bingryong weapon costume (30 days) can be worn for 30 days and then automatically disappears <br> The ice dragon weapon costume (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0392_Description^,^<r_y> Bingryong wing (30 days) can be worn for 30 days and then automatically disappears <br> The ice dragon wing (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0393_Name^,^Bainder's cheongsam (14th)^
+^CA_ST_CM_0393_Description^,^<r_y> Bainder's cheongsa (14 days) can be worn for 14 days and then automatically disappears <br> Bainder's cheongpao (14 days) is spent from the moment he enters the bag </ R_y>^
+^EV_ST_CM_0114_Name^,^P will^
+^EV_ST_CM_0114_Description^,^Shoulder decoration modeled after the image of a bell pepper brand^
+^EV_ST_CM_0115_Name^,^(Appearance) Red Vampire^
+^CA_ST_CM_0394_Name^,^Candy weapon costume (14 days)^
+^CA_ST_CM_0394_Description^,^<r_y> Candy weapon costumes (14 days) can be worn for 14 days and then automatically disappeared Candy weapons costumes (14 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0395_Name^,^Lovely Made and Butler (14th)^
+^CA_ST_CM_0395_Description^,^<R_Y> Lovely Made and Deacon (14 days) can be worn for 14 days and then automatically disappeared <br> Lovely maid and deacon (14 days) are consumed from the moment you enter the bag </R_Y >^
+^CA_ST_CM_0396_Name^,^Bingryong costume (14 days)^
+^CA_ST_CM_0396_Description^,^<r_y> Bingryong costume (14 days) can be worn for 14 days and then automatically disappears <br> The ice dragon costume (14 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0397_Name^,^Ice Dragon Weapon Costume (14th)^
+^CA_ST_CM_0397_Description^,^<r_y> Bingryong Weapon Costume (14 days) can be worn for 14 days and then automatically disappears <br> The ice dragon weapon costume (14 days) consumes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0398_Name^,^Ice Dragon Wings (14th)^
+^CA_ST_CM_0398_Description^,^<r_y> Bingryong wing (14 days) can be worn for 14 days and then automatically disappears <br> The ice dragon wing (14 days) is consumed from the moment you enter the bag </R_Y>^
+^IT_PK_CM_1000_Name^,^Master's elemental armor (6 days)^
+^IT_PK_CM_1000_Description^,^<r_y> The elemental armor of the dominant ruler (6 days) can be worn for 6 days and automatically disappears /R_y>^
+^MS_ST_CM_1001_Name^,^Elemental Weapon of Archeron Conqueror (6 days)^
+^MS_ST_CM_1001_Description^,^<R_y> Archon conqueror's elemental weapon (6 days) can be worn for 6 days and automatically disappears The elemental weapon of the Archeron conqueror (6 days) is consumed from the moment you enter the bag </R_Y>^
+^MS_ST_CM_1002_Name^,^The massacre of the lawless zone (6 days) (Magician)^
+^MS_ST_CM_1002_Description^,^<r_y> The massacre (6 days) (Magician) of the lawless zone can be worn for 6 days and automatically disappears It is consumed </R_y>^
+^MS_ST_CM_1003_Name^,^Elemental Costume of ancient Golden Horse Dragon (7 days)^
+^MS_ST_CM_1004_Name^,^Two -handed cane of ancient golden horse dragons (30 days)^
+^MS_ST_CM_1003_Description^,^Time is spent from the moment you enter the bag and you can wear it for 7 days When the period expires it automatically disappears </R_Y>^
+^MS_ST_CM_1004_Description^,^Time is spent from the moment you enter the bag and you can wear it for 30 days When the period expires it automatically disappears </R_Y>^
+^MS_ST_CM_1005_Name^,^Elemental Costume of ancient Golden Horse Dragon (30 days)^
+^MS_ST_CM_1005_Description^,^Time is spent from the moment you enter the bag and you can wear it for 30 days When the period expires it automatically disappears </R_Y>^
+^CA_ST_CM_0399_Name^,^(Appearance) Bingryong costume^
+^EV_ST_CM_0116_Name^,^Red Pentagram (3 days)^
+^EV_ST_CM_0116_Description^,^Time is spent from the moment you enter the bag and you can wear it for 3 days When the period expires it automatically disappears </R_Y>^
+^EV_ST_CM_0117_Name^,^Event devil's mask (30 days)^
+^EV_ST_CM_0118_Name^,^Event devil's mask (15 days)^
+^EV_ST_CM_0119_Name^,^Event devil's mask (7 days)^
+^EV_ST_CM_0120_Name^,^Event devil's mask (3 days)^
+^EV_ST_CM_0117_Description^,^Time is spent from the moment you enter the bag and you can wear it for 30 days When the period expires it automatically disappears </R_Y>^
+^EV_ST_CM_0118_Description^,^Time is spent from the moment you enter the bag and you can wear it for 15 days When the period expires it automatically disappears </R_Y>^
+^EV_ST_CM_0119_Description^,^Time is spent from the moment you enter the bag and you can wear it for 7 days When the period expires it automatically disappears </R_Y>^
+^EV_ST_CM_0120_Description^,^Time is spent from the moment you enter the bag and you can wear it for 3 days When the period expires it automatically disappears </R_Y>^
+^tt_1_0_0011_Name^,^Special title: Bare -handed Troaz (7 days)^
+^tt_1_0_0012_Name^,^Special title: Massacing Kinuzak Hat (7 days)^
+^tt_1_0_0013_Name^,^Special title: Conquered Kurodian (7 days)^
+^tt_1_0_0011_Description^,^Title to the hero who defeated Troaz^
+^tt_1_0_0012_Description^,^Title to the hero who defeated the Kinuzak hat^
+^tt_1_0_0013_Description^,^Title to the hero who conquered the Kurodian^
+^EV_ST_CM_0121_Name^,^Advanced black glasses (6 hours)^
+^EV_ST_CM_0122_name^,^Black glasses (6 hours)^
+^EV_ST_CM_0121_Description^,^Time is spent from the moment you enter the bag and you can wear it for 6 hours When the period expires it automatically disappears </R_Y>^
+^EV_ST_CM_0122_Description^,^Time is spent from the moment you enter the bag and you can wear it for 6 hours When the period expires it automatically disappears </R_Y>^
+^CA_ST_CM_0404_Name^,^White Wikid Costume (1 Day)^
+^CA_ST_CM_0404_Description^,^<r_y> White Wikid Costume (1 day) can be worn for one day and then automatically disappears <br> White Wikid Costume (1 day) takes time from the moment you enter the bag </R_y </r_y >^
+^CA_ST_CM_0405_Name^,^White Wikid Costume (3 days)^
+^CA_ST_CM_0405_Description^,^<r_y> White Wikid Costume (3 days) can be worn for 3 days and then automatically disappears <br> White wikid costumes (3 days) consumes time from the moment you enter the bag </R_y </r_y >^
+^CA_ST_CM_0406_Name^,^White Wikid Costume (7 days)^
+^CA_ST_CM_0406_Description^,^<r_y> White Wikid Costume (7 days) can be worn for 7 days and then automatically disappears <BR> White Wikid Costume (7 days) takes time from the moment you enter the bag </R_y </r_y >^
+^CA_ST_CM_0407_Name^,^White Wikid Costume (30 days)^
+^CA_ST_CM_0407_Description^,^<r_y> White Wikid Costume (30 days) can be worn for 30 days and then automatically disappears <br> White Wikid Costume (30 days) is consumed from the moment you enter the bag </R_y </r_y >^
+^CA_ST_CM_0408_Name^,^(Appearance) White wikid costumes^
+^CA_ST_CM_0400_Name^,^Darkness Costume (30 days)^
+^CA_ST_CM_0400_Description^,^<r_y> Darkness costume (30 days) can be worn for 30 days and then automatically disappears <br> Darkness costume (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0401_Name^,^Darkness Weapon Costume (30 days)^
+^CA_ST_CM_0401_Description^,^<R_Y> Darkness Weapon Costume (30 days) can be worn for 30 days and then automatically disappears Darkness weapon costumes (30 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0402_Name^,^Darkness Wings (30 days)^
+^CA_ST_CM_0402_Description^,^<r_y> Darkness wing (30 days) can be worn for 30 days and then automatically disappears <br> Darkness wing (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0403_Name^,^(Appearance) Darkness costume^
+^CA_ST_CM_0409_Name^,^Wooden Spirit Weapon Costume (1 Day)^
+^CA_ST_CM_0409_Description^,^<r_y> Tree Elemental Weapon Costume (1 day) can be worn for one day and then automatically disappears <br> The wooden spirit weapon costume (1 day) is consumed from the moment you enter the bag </ R_y>^
+^CA_ST_CM_0410_Name^,^Event Demon Mask (14th)^
+^CA_ST_CM_0410_Description^,^Time is spent from the moment you enter the bag and you can wear it for 14 days When the period expires it automatically disappears </R_Y>^
+^EV_ST_CM_0123_Name^,^Lavini of Bayer (3 days)^
+^EV_ST_CM_0124_Name^,^Cream Cookie Lavini (3 days)^
+^EV_ST_CM_0125_Name^,^Pokipoki Lavini (3 days)^
+^EV_ST_CM_0126_Name^,^Torto Hat (3 days)^
+^EV_ST_CM_0123_Description^,^<r_y> Vander Lavini (3 days) can be worn for 3 days and then automatically disappears /R_y>^
+^EV_ST_CM_0124_Description^,^<r_y> Cream Cookie Lavini (3 days) can be worn for 3 days and then automatically disappears <br> Cream Cookie Lavini (3 days) spends time from the moment you enter the bag </R_Y >^
+^EV_ST_CM_0125_Description^,^<r_y> Poki Poki Lavini (3 days) can be worn for 3 days and then automatically disappears <br> Poki Poki Lavini (3 days) is consumed from the moment you enter the bag </R_y </r_y >^
+^EV_ST_CM_0126_Description^,^<r_y> Tortor Hat (3 days) can be worn for 3 days and then automatically disappears <br> Tortor Hat (3 days) spends time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0127_Name^,^Neur's crown (15th)^
+^EV_ST_CM_0127_Description^,^<r_y> Noiir's crown (15 days) can be worn for 15 days and automatically disappears Neur's crown (15 days) takes time from the moment he enters the bag </R_Y>^
+^CA_ST_CM_0411_Name^,^White Skeleton Costume (7 days)^
+^CA_ST_CM_0411_Description^,^<r_y> White Skeleton Costume (7 days) can be worn for 7 days and then automatically disappears <br> White skull costume (7 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0412_Name^,^Blue Skeleton Costume (7 days)^
+^CA_ST_CM_0412_Description^,^<r_y> Blue Skeleton Costume (7 days) can be worn for 7 days and then automatically disappears <br> Blue Skeleton Costume (7 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0413_Name^,^Kung Patriot (7 days)^
+^CA_ST_CM_0413_Description^,^<r_y> Kung post (7 days) can be worn for 7 days and then automatically disappears <br> The kung post (7 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0414_Name^,^Ravini costume (7 days)^
+^CA_ST_CM_0414_Description^,^<r_y> Lavini costumes (7 days) can be worn for 7 days and then automatically disappeared <br> Ravini costume (7 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0415_Name^,^Conqueror's Wiki Costume (1 Day)^
+^CA_ST_CM_0415_Description^,^<R_Y> Wikid costumes (1 day) of the conqueror can be worn for one day and then automatically disappeared >^
+^CA_ST_CM_0416_Name^,^Conqueror's Wiki Weapon Costume (1 Day)^
+^CA_ST_CM_0416_Description^,^<R_Y> Wikid weapon costumes (1 day) of the conqueror can be worn for one day and then automatically disappeared /R_y>^
+^CA_ST_CM_0417_Name^,^Awakening of the conqueror (1 day)^
+^CA_ST_CM_0417_Description^,^<r_y> Awakening Momo (1 day) of the conqueror can be worn for one day and then automatically disappears >^
+^CA_ST_CM_0418_Name^,^Darkness Costume (14th)^
+^CA_ST_CM_0418_Description^,^<r_y> Darkness costume (14 days) can be worn for 14 days and then automatically disappears <br> Darkness costume (14 days) consumes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0419_Name^,^Darkness Weapon Costume (14th)^
+^CA_ST_CM_0419_Description^,^<R_Y> Darkness Weapon Costume (14 days) can be worn for 14 days and then automatically disappears Darkness weapon costumes (14 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0420_Name^,^Darkness Wings (14th)^
+^CA_ST_CM_0420_Description^,^<r_y> Darkness wing (14 days) can be worn for 14 days and then automatically disappears <br> Darkness wing (14 days) is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0128_Name^,^Mountain communication (3 days)^
+^EV_ST_CM_0129_Name^,^Cat vacation chacha (3 days)^
+^EV_ST_CM_0128_Description^,^<r_y> Mountain Communication (3 days) can be worn for 3 days and then automatically disappears Mountain communication (3 days) spends time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0129_Description^,^<r_y> Cat Vacial Chacha (3 days) can be worn for 3 days and automatically disappears Cat vacation chacha (3 days) spends time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0130_Name^,^Icarus Eternal Ring (former)^
+^EV_ST_CM_0130_Description^,^You can get <r_y> level 70 achievement reward vouchers <r_y> to the store's gift to a user who achieved level 70 <br> <UI_G> Lavini Ruluping <Ui_g> do^
+^CA_ST_CM_0421_Name^,^(Appearance) White Blooming^
+^CA_ST_CM_0422_Name^,^(Appearance) Red Blooming^
+^CA_ST_CM_0423_Name^,^(Appearance) Blue Blooming^
+^CA_ST_CM_0424_Name^,^Blue Blooming (30 days)^
+^CA_ST_CM_0424_Description^,^<r_y> Blue Blooming (30 days) can be worn for 30 days and then automatically disappears Blue Blooming (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0425_Name^,^Cat Summer Chacha (14th)^
+^CA_ST_CM_0425_Description^,^<r_y> Cat Summer Chacha (14 days) can be worn for 14 days and then automatically disappears Cat Summer Chacha (14 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0426_Name^,^Mountain communication (14 days)^
+^CA_ST_CM_0426_Description^,^<r_y> Mountain Communication (14 days) can be worn for 14 days and then automatically disappears Mountain communication (14 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0427_Name^,^Wooden Spirit Weapon Costume (14th)^
+^CA_ST_CM_0427_Description^,^<r_y> Wooden Spirit Weapon Costume (14 days) can be worn for 14 days and then automatically disappears <br> Wooden Spirit Weapon Costume (14 days) is consumed from the moment you enter the bag </ R_y>^
+^CA_ST_CM_0428_Name^,^White Wikid Costume (14th)^
+^CA_ST_CM_0428_Description^,^<r_y> White Wikid Costume (14 days) can be worn for 14 days and then automatically disappears <br> White wikid costumes (14 days) are consumed from the moment you enter the bag </R_Y >^
+^EV_ST_CM_0131_Name^,^Victory new pore shoulder decoration^
+^EV_ST_CM_0131_Description^,^A new poe of victory sitting on the shoulder of the warrior who killed the brazi shaman^
+^CA_ST_CM_0429_Name^,^(Appearance) Barney Girl & Barney Boy^
+^CA_ST_CM_0430_Name^,^Barney Girl & Barney Boy (30 days)^
+^CA_ST_CM_0430_Description^,^<r_y> Barney Girl & Bunny Boy (30 days) can be worn for 30 days and then automatically disappears <br> Barney Girl & Bunny Boy (30 days) is spent from the moment you enter the bag /R_y>^
+^CA_ST_CM_0431_Name^,^(Appearance) Priest^
+^CA_ST_CM_0432_Name^,^Priest (30 days)^
+^CA_ST_CM_0432_Description^,^<r_y> Clergy (30 days) can be worn for 30 days and then automatically disappears <br> The clergy (30 days) spend time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0132_Name^,^Tshanan shoulder decoration^
+^EV_ST_CM_0132_Description^,^Tshanan a rich lion who is floating on the shoulder of the angler who knows the taste^
+^EV_ST_CM_0133_Name^,^(Appearance) Dark St Costume^
+^CA_ST_CM_0433_Name^,^White Pentagram (1 Day)^
+^CA_ST_CM_0433_Description^,^<r_y> White pentagram (1 day) can be worn for one day and then automatically disappears White pentagram (1 day) takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0134_Name^,^(Appearance) Tongbok Narin^
+^EV_ST_CM_0135_Name^,^Jeon Tongbok Narin (30 days)^
+^EV_ST_CM_0135_Description^,^<r_y> Tongboknarin (30 days) can be worn for 30 days and then automatically disappears <br> The whole boknarin (30 days) is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0136_Name^,^Jeon Tongbok Narin (5th)^
+^EV_ST_CM_0136_Description^,^<r_y> Tongbok Narin (5 days) can be worn for 5 days and then automatically disappears <br> The whole boknarin (5 days) is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0137_Name^,^(Appearance) Red Dragon Costume^
+^EV_ST_CM_0139_Name^,^Taegeuk Cloak (3 days)^
+^EV_ST_CM_0139_Description^,^<r_y> Taegeuk cloak (3 days) can be worn for 3 days and then automatically disappears The taekwondo cloak (3 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0014_Name^,^Special title: Lower Soldier^
+^tt_1_0_0015_Name^,^Special title: Elite Knight^
+^tt_1_0_0016_Name^,^Special title: Knights Director^
+^tt_1_0_0017_Name^,^Special title: Commander^
+^tt_1_0_0018_Name^,^Special title: Hero of the battlefield^
+^tt_1_0_0014_Description^,^It can be exchanged for a top -level title through the title McBane mission bulletin board acquired using McBain coins^
+^tt_1_0_0015_Description^,^It can be exchanged for a top -level title through the title McBane mission bulletin board acquired using McBain coins^
+^tt_1_0_0016_Description^,^It can be exchanged for a top -level title through the title McBane mission bulletin board acquired using McBain coins^
+^tt_1_0_0017_Description^,^It can be exchanged for a top -level title through the title McBane mission bulletin board acquired using McBain coins^
+^tt_1_0_0018_Description^,^Title acquired using MacBane coins^
+^EV_ST_CM_0138_Name^,^(Appearance) Blaze costume^
+^EV_ST_CM_0140_Name^,^robe^
+^EV_ST_CM_0141_Name^,^Honor of Honor (2 days)^
+^EV_ST_CM_0141_Description^,^<r_y> The insignia of honor (2 days) can be worn for two days and automatically disappears The insignia of honor (2 days) is spent from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0142_Name^,^(Appearance) Small demon costume^
+^EV_ST_CM_0143_Name^,^Horn^
+^EV_ST_CM_0144_Name^,^Tail^
+^EV_ST_CM_0145_Name^,^Pet Lahab (7th)^
+^EV_ST_CM_0146_Name^,^Shoulder pet Torkai (1 day)^
+^EV_ST_CM_0142_Description^,^Need for supplementation^
+^EV_ST_CM_0143_Description^,^Need for supplementation^
+^EV_ST_CM_0144_Description^,^Need for supplementation^
+^EV_ST_CM_0145_Description^,^Pet Lahab dedicated to the warrior who received the Majung Stone every month in the base of the base^
+^EV_ST_CM_0146_Description^,^Torkai a shoulder pet dedicated to a warrior who received a great place every week in the base^
+^EV_ST_CM_0147_Name^,^(Appearance) Mysterious costume before the base^
+^EV_ST_CM_0148_Name^,^Mysterious weapon costumes before the base^
+^EV_ST_CM_0147_Description^,^Mysterious appearance costume dedicated to a warrior who played an active role in the base^
+^EV_ST_CM_0148_Description^,^Mysterious weapon costumes that match the weapons that killed numerous enemies in the base^
+^CA_ST_CM_0434_Name^,^Event devil's mask (30 days)^
+^CA_ST_CM_0434_Description^,^Time is spent from the moment you enter the bag and you can wear it for 30 days When the period expires it automatically disappears </R_Y>^
+^CA_ST_CM_0435_Name^,^Ice weapon costume (30 days)^
+^CA_ST_CM_0435_Description^,^<r_y> Ice weapon costumes (30 days) can be worn for 30 days and then automatically disappeared <br> Ice weapon costume (30 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0436_Name^,^(Appearance) Fashion model^
+^CA_ST_CM_0437_Name^,^Fashion model (30 days)^
+^CA_ST_CM_0437_Description^,^<R_Y> Fashion model (30 days) can be worn for 30 days and then automatically disappears The fashion model (30 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0438_Name^,^Red Flame Wings (30 days)^
+^CA_ST_CM_0438_Description^,^<r_y> Red Flame Wings (30 days) can be worn for 30 days and then automatically disappears The wings of red flames (30 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0439_Name^,^Blue Flame Wings (30 days)^
+^CA_ST_CM_0439_Description^,^<r_y> Blue Flame Wings (30 days) can be worn for 30 days and automatically disappears The wing of the blue flame (30 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0440_Name^,^Angel's Wings (30 days)^
+^CA_ST_CM_0440_Description^,^<r_y> The wing of the angel (30 days) can be worn for 30 days and then automatically disappears Angel's wings (30 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0441_Name^,^Pure white angel ring (30 days)^
+^CA_ST_CM_0441_Description^,^<r_y> Pure white angel ring (30 days) can be worn for 30 days and automatically disappears Pure white angel ring (30 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0442_Name^,^Golden Angel Ring (30 days)^
+^CA_ST_CM_0442_Description^,^<r_y> Golden Angel Ring (30 days) can be worn for 30 days and automatically disappears The golden angel ring (30 days) is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0149_Name^,^(Appearance) Black Christmas Party^
+^EV_ST_CM_0150_Name^,^Christmas weapon costume (1 day)^
+^EV_ST_CM_0150_Description^,^<r_y> Christmas weapon costumes (1 day) can be worn for one day and then automatically disappeared <br> Christmas weapons costume (1 day) consumes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0443_Name^,^Christmas party (14th)^
+^CA_ST_CM_0444_Name^,^Christmas weapon costume (14th)^
+^CA_ST_CM_0443_Description^,^<r_y> Christmas party (14 days) can be worn for 14 days and then automatically disappears <br> The Christmas party (14 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0444_Description^,^<r_y> Christmas weapon costumes (14 days) can be worn for 14 days and then automatically disappeared <br> Christmas weapons costumes (14 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0445_Name^,^Red Flame Wings (30 days)^
+^CA_ST_CM_0446_Name^,^Blue Flame Wings (30 days)^
+^CA_ST_CM_0447_Name^,^Red Flame Wings (45 days)^
+^CA_ST_CM_0448_Name^,^Blue Flame Wings (45 days)^
+^CA_ST_CM_0449_Name^,^(Appearance) Orange Skeleton Costume^
+^CA_ST_CM_0445_Description^,^<r_y> Red Flame Wings (30 days) can be worn for 30 days and then automatically disappears The wings of red flames (30 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0446_Description^,^<r_y> Blue Flame Wings (30 days) can be worn for 30 days and automatically disappears The wing of the blue flame (30 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0447_Description^,^<r_y> Red Flame Wings (45 days) can be worn for 45 days and then automatically disappears The wings of red flames (45 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0448_Description^,^<r_y> Blue Flame Wings (45 days) can be worn for 45 days and automatically disappears The wing of the blue flame (45 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0450_Name^,^(Appearance) Costumes in the middle of winter^
+^CA_ST_CM_0451_Name^,^(Appearance) Red Winter Costume^
+^CA_ST_CM_0452_Name^,^(Appearance) Bingryong costume^
+^CA_ST_CM_0453_Name^,^(Appearance) Darkness costume^
+^CA_ST_CM_0454_Name^,^(Appearance) White wikid costumes^
+^CA_ST_CM_0455_Name^,^(Appearance) Barney Girl & Barney Boy^
+^CA_ST_CM_0456_Name^,^(Appearance) Tongbok Narin^
+^CA_ST_CM_0457_Name^,^(Appearance) Fashion model^
+^CA_ST_CM_0458_Name^,^(Appearance) Traditional costumes^
+^CA_ST_CM_0459_Name^,^(Appearance) Kung later^
+^CA_ST_CM_0460_Name^,^(Appearance) Red Vampire^
+^CA_ST_CM_0461_Name^,^(Appearance) Purple Vampire^
+^CA_ST_CM_0462_Name^,^(Appearance) Black Vampire^
+^CA_ST_CM_0463_Name^,^(Appearance) White vampire^
+^CA_ST_CM_0464_Name^,^(Appearance) Halloween's reaper^
+^CA_ST_CM_0465_Name^,^(Appearance) Wizard costume^
+^CA_ST_CM_0466_Name^,^(Appearance) Wikid costumes^
+^CA_ST_CM_0467_Name^,^(Appearance) Japanese warrior costumes^
+^CA_ST_CM_0468_Name^,^(Appearance) Man of Lavini^
+^CA_ST_CM_0469_Name^,^(Appearance) Lovely Made and Deacon^
+^CA_ST_CM_0470_Name^,^(Appearance) China dress^
+^CA_ST_CM_0471_Name^,^(Appearance) Red Kung Fu^
+^CA_ST_CM_0472_Name^,^(Appearance) White kungfu^
+^EV_ST_CM_0151_Name^,^ICA white long padding costume (7 days)^
+^EV_ST_CM_0152_Name^,^ICA Black long padding costume (7 days)^
+^EV_ST_CM_0153_Name^,^(Appearance) ICA white long padding costume^
+^EV_ST_CM_0154_Name^,^(Appearance) ICA black long padding costume^
+^EV_ST_CM_0151_Description^,^ICA white long padding costumes (7 days) can be worn for 7 days and then automatically disappeared ICA white long padding costumes (7 days) are consumed from the moment they enter the bag </R_Y>^
+^EV_ST_CM_0152_Description^,^ICA black long padding costumes (7 days) can be worn for 7 days and then automatically disappeared ICA black long padding costume (7 days) is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0155_Name^,^(Appearance) Winter Armor Costume^
+^EV_ST_CM_0156_Name^,^(Appearance) Russian traditional costumes^
+^CA_ST_CM_0473_Name^,^(Appearance) Cute -dong costume in spring day^
+^CA_ST_CM_0474_Name^,^(Appearance) Chic -dong costumes in spring day^
+^tt_1_0_0019_Name^,^Special title: Welcome to Icarus (15th)^
+^tt_1_0_0019_Description^,^Welcome to Icarus (15 days) that can be used for 15 days and automatically disappears Welcome to Icarus (15 days) takes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0020_Name^,^Special title: 4 years old^
+^tt_1_0_0021_Name^,^Special title: Fellowship flows overflowing^
+^CA_ST_CM_0475_Name^,^Horns of the Evil Head (14 days)^
+^CA_ST_CM_0476_Name^,^Horned headdress^
+^CA_ST_CM_0477_Name^,^Available costume (30 days)^
+^CA_ST_CM_0478_Name^,^Horns of the Evil (30 days)^
+^tt_1_0_0022_Name^,^Special title: 4 Lang Icarus (14th)^
+^CA_ST_CM_0480_Name^,^Event Devil's Mask (4 days)^
+^CA_ST_CM_0481_Name^,^Red Square (7th)^
+^CA_ST_CM_0482_Name^,^4th anniversary sunglasses (14th)^
+^CA_ST_CM_0483_Name^,^4th Anniversary Yellow Blossom (14th)^
+^CA_ST_CM_0484_Name^,^Red Flame Wings (14 days)^
+^CA_ST_CM_0485_Name^,^Blue Flame Wings (14 days)^
+^CA_ST_CM_0475_Description^,^The horned headdress (14 days) of the evil can be worn for 14 days and then automatically disappears The horned headdress (14 days) of the evil is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0477_Description^,^A bad copy costume (30 days) can be worn for 30 days and then automatically disappears A bad cost (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0478_Description^,^The horned headdress (30 days) of the evil can be worn for 30 days and then automatically disappears The horned headdress (30 days) of the evil is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0022_Description^,^<R_y> 4 Langs Icarus (14 days) can be used for 14 days and then automatically disappears 4 Langs Icarus (14 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0480_Description^,^Time is spent from the moment you enter the bag and you can wear it for 4 days When the period expires it automatically disappears </R_Y>^
+^CA_ST_CM_0481_Description^,^Red Square (7 days) can be worn for 7 days and then automatically disappears Red Square (7 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0482_Description^,^The 4th anniversary sunglasses (14 days) can be worn for 14 days and will be automatically disappeared The 4th anniversary sunglasses (14 days) are spent from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0483_Description^,^The 4th Anniversary Yellow Blossom (14th) can be worn for 14 days and will automatically disappear The 4th Anniversary Yellow Blossom (14th) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0484_Description^,^The wing of the red flame (14 days) can be worn for 14 days and then automatically disappears The wings of red flames (14 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0485_Description^,^Blue Flame Wings (14 days) can be worn for 14 days and then automatically disappears The wing of the blue flame (14 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0486_Name^,^May Day Angelic Wings (30 days)^
+^CA_ST_CM_0487_Name^,^Mayday pure white angeling (30 days)^
+^CA_ST_CM_0488_Name^,^May Day Golden Angeling (30 days)^
+^CA_ST_CM_0486_Description^,^May Day Angelic Wings (30 days) can be worn for 14 days and then automatically disappears May Day Angelic Wings (30 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0487_Description^,^Mayday pure white angeling (30 days) can be worn for 14 days and then automatically disappears Mayday pure white angeling (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0488_Description^,^Mayday Golden Angeling (30 days) can be worn for 14 days and then automatically disappears Mayday Golden Angeling (30 days) takes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0023_Name^,^Title: Argentina Team! Fighting! (30 days)^
+^tt_1_0_0024_Name^,^Title: Brazil Team! Fighting! (30 days)^
+^tt_1_0_0025_Name^,^Title: Colombia Team! Fighting! (30 days)^
+^tt_1_0_0026_Name^,^Title: Peru Team! Fighting! (30 days)^
+^tt_1_0_0027_Name^,^Title: Uruguay Team! Fighting! (30 days)^
+^tt_1_0_0028_Name^,^Title: Costa Rica Team! Fighting! (30 days)^
+^tt_1_0_0029_Name^,^Title: MEXICO TEAM! Fighting! (30 days)^
+^tt_1_0_0030_Name^,^Title: Panama Team! Fighting! (30 days)^
+^tt_1_0_0031_Name^,^Title: Belgium Team! Fighting! (30 days)^
+^tt_1_0_0032_Name^,^Title: croatia Team! Fighting! (30 days)^
+^tt_1_0_0033_Name^,^Title: Denmark Team! Fighting! (30 days)^
+^tt_1_0_0034_Name^,^Title: English Team! Fighting! (30 days)^
+^tt_1_0_0035_Name^,^Title: France Team! Fighting! (30 days)^
+^tt_1_0_0036_Name^,^Title: Germany Team! Fighting! (30 days)^
+^tt_1_0_0037_Name^,^Title: iceland Team! Fighting! (30 days)^
+^tt_1_0_0038_Name^,^Title: Poland Team! Fighting! (30 days)^
+^tt_1_0_0039_Name^,^Title: Portugal Team! Fighting! (30 days)^
+^tt_1_0_0040_Name^,^Title: Russia Team! Fighting! (30 days)^
+^tt_1_0_0041_Name^,^Title: Serbia Team! Fighting! (30 days)^
+^tt_1_0_0042_Name^,^Title: Spain Team! Fighting! (30 days)^
+^tt_1_0_0043_Name^,^Title: Sweden Team! Fighting! (30 days)^
+^tt_1_0_0044_Name^,^Title: Switzerland Team! Fighting! (30 days)^
+^tt_1_0_0045_Name^,^Title: Australia Team! Fighting! (30 days)^
+^tt_1_0_0046_Name^,^Title: IR IRAN TEAM! Fighting! (30 days)^
+^tt_1_0_0047_Name^,^Title: JAPAN TEAM! Fighting! (30 days)^
+^tt_1_0_0048_Name^,^Title: KOREA TEAM! Fighting! (30 days)^
+^tt_1_0_0049_Name^,^Title: Saudi Arabia Team! Fighting! (30 days)^
+^tt_1_0_0050_Name^,^Title: Egypt Team! Fighting! (30 days)^
+^tt_1_0_0051_Name^,^Title: Morocco Team! Fighting! (30 days)^
+^tt_1_0_0052_Name^,^Title: Nigeria Team! Fighting! (30 days)^
+^tt_1_0_0053_Name^,^Title: Senegal Team! Fighting! (30 days)^
+^tt_1_0_0054_Name^,^Title: Tunisia Team! Fighting! (30 days)^
+^tt_1_0_0023_Description^,^<r_y> Title: Argentina Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Argentina Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0024_Description^,^<r_y> Title: Brazil Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Brazil Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0025_Description^,^<r_y> Title: Colombia Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Colombia Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0026_Description^,^<r_y> Title: Peru Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Peru Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0027_Description^,^<r_y> Title: Uruguay Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Uruguay Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0028_Description^,^<r_y> Title: Costa Rica Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Costa Rica Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0029_Description^,^<r_y> title: Mexico Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: MEXICO TEAM! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0030_Description^,^<r_y> Title: Panama Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Panama Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0031_Description^,^<r_y> title: Belgium Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Belgium Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0032_Description^,^<r_y> Title: CrOATIA TEAM! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: croatia Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0033_Description^,^<r_y> Title: Denmark Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Denmark Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0034_Description^,^<r_y> Title: English Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: English Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0035_Description^,^<r_y> Title: France Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: France Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0036_Description^,^<r_y> title: Germany Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Germany Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0037_Description^,^<r_y> Title: iceland Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: iceland Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0038_Description^,^<r_y> Title: Poland Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Poland Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0039_Description^,^<r_y> Title: Portugal Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Portugal Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0040_Description^,^<r_y> Title: Russia Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Russia Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0041_Description^,^<r_y> Title: Serbia Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Serbia Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0042_Description^,^<r_y> Title: Spain Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Spain Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0043_Description^,^<r_y> Title: Sweden Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Sweden Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0044_Description^,^<r_y> title: Switzerland Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Switzerland Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0045_Description^,^<r_y> Title: Australia Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Australia Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0046_Description^,^<r_y> Title: IR IRAN TEAM! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: IR IRAN TEAM! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0047_Description^,^<r_y> Title: Japan Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: JAPAN TEAM! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0048_Description^,^<r_y> Title: KOREA TEAM! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: KOREA TEAM! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0049_Description^,^<r_y> Title: Saudi Arabia Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Saudi Arabia Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0050_Description^,^<r_y> Title: Egypt Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Egypt Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0051_Description^,^<r_y> Title: Morocco Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Morocco Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0052_Description^,^<r_y> Title: Nigeria Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Nigeria Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0053_Description^,^<r_y> title: Senegal Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Senegal Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0054_Description^,^<r_y> title: Tunisia Team! Fighting! (30 days) can be used for 30 days and then automatically disappears Title: Tunisia Team! Fighting! (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0489_Name^,^Egg sushi (30 days)^
+^CA_ST_CM_0490_Name^,^Test only^
+^CA_ST_CM_0491_Name^,^Darkness Costume S (14th)^
+^CA_ST_CM_0492_Name^,^Darkness Wings S (14th)^
+^CA_ST_CM_0493_Name^,^Darkness Weapon Costume S (14th)^
+^CA_ST_CM_0494_Name^,^Ice Dragon Costume S (14th)^
+^CA_ST_CM_0495_Name^,^Ice Dragon Wings S (14th)^
+^CA_ST_CM_0496_Name^,^Ice Dragon Weapon Costume S (14th)^
+^CA_ST_CM_0497_Name^,^Gapju S (14th) of Jecheon University (14th)^
+^CA_ST_CM_0498_Name^,^Monkey S of Jecheon University (14th)^
+^CA_ST_CM_0499_Name^,^Yeouibong S of Jecheon University (14th)^
+^CA_ST_CM_0500_Name^,^Costume S of Sassine Kurodian (14th)^
+^CA_ST_CM_0501_Name^,^Sasin Kurodian's Wings S (14th)^
+^CA_ST_CM_0502_Name^,^Sasin Kurodian's Horn S (14th)^
+^CA_ST_CM_0503_Name^,^Shadow Costume S (14th)^
+^CA_ST_CM_0504_Name^,^Shadow Cruo S (14th)^
+^CA_ST_CM_0505_Name^,^Shadow Mask S (14th)^
+^CA_ST_CM_0506_Name^,^Costume S of the Ghost (14th)^
+^CA_ST_CM_0507_Name^,^Wings of Wings (14th)^
+^CA_ST_CM_0508_Name^,^Ring S (14th)^
+^CA_ST_CM_0489_Description^,^Egg sushi (30 days) can be worn for 30 days and then automatically disappears Egg sushi (30 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0490_Description^,^Test only^
+^CA_ST_CM_0491_Description^,^Darkness Costume S (14 days) can be worn for 14 days and then automatically disappears Darkness Costume S (14 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0492_Description^,^Darkness Wings S (14 days) can be worn for 14 days and then automatically disappears Darkness Wings S (14 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0493_Description^,^The Darkness Weapon Costume S (14 days) can be worn for 14 days and then automatically disappears Darkness Weapon Costume S (14 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0494_Description^,^Bingryong Costume S (14 days) can be worn for 14 days and then automatically disappears Bingryong costume S (14 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0495_Description^,^Bingryong Wings S (14 days) can be worn for 14 days and then automatically disappears Bingryong Wings S (14 days) is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0496_Description^,^Bingryong Weapon Costume S (14 days) can be worn for 14 days and then automatically disappears Bingryong Weapon Costume S (14 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0497_Description^,^The Jecheon Daegung S (14th) can be worn for 14 days and will automatically disappear Jecheon Daegung S (14th) is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0498_Description^,^The monkey S (14 days) of the Jecheon Daeseong can be worn for 14 days and then automatically disappears The monkey S (14 days) of the Jecheon Dae -seong is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0499_Description^,^Yeouibong S (14 days) of Jecheon Daeseong can be worn for 14 days and will automatically disappear Yeouibong S (14 days) of Jecheon Daeseong is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0500_Description^,^Sassine Kurodian's costume S (14 days) can be worn for 14 days and then automatically disappears Sasine Kurodian's costume S (14 days) is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0501_Description^,^Sasin Kurodian's Wings S (14th) can be worn for 14 days and automatically disappears Sasine Kurodian's wing S (14 days) is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0502_Description^,^Sasin Kurodian's horn S (14 days) can be worn for 14 days and automatically disappears Sasine Kurodian's horn S (14 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0503_Description^,^Shadow Costume S (14 days) can be worn for 14 days and then automatically disappears Shadow Costume S (14 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0504_Description^,^Shadow Cruo S (14 days) can be worn for 14 days and then automatically disappears Shadow Cruo S (14 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0505_Description^,^Shadow mask S (14 days) can be worn for 14 days and will automatically disappear If you go to shadow S (14 days) will spend time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0506_Description^,^Costume S (14 days) of the ghost can be worn for 14 days and then automatically disappears The costume S (14 days) of the ghost is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0507_Description^,^Wings S (14 days) can be worn for 14 days and will automatically disappear Wings S (14th) of the ghosts spend time from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0508_Description^,^Ring S's Ring S (14 days) can be worn for 14 days and then automatically disappears Ring S's Ring S (14 days) is spent from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0157_Name^,^Blue Oriental Swimsuit (30 days)^
+^EV_ST_CM_0158_Name^,^Ice cream weapon costume (30 days)^
+^EV_ST_CM_0159_Name^,^Straw hat (30 days)^
+^EV_ST_CM_0160_Name^,^Pet Lahab (30 days)^
+^EV_ST_CM_0161_Name^,^Egg sushi (30 days)^
+^EV_ST_CM_0162_Name^,^Egg sushi (14 days)^
+^EV_ST_CM_0163_Name^,^Egg sushi (7 days)^
+^EV_ST_CM_0164_Name^,^Egg sushi (3 days)^
+^EV_ST_CM_0165_Name^,^Francan Dog (30 days)^
+^EV_ST_CM_0166_Name^,^Francan Dog (14th)^
+^EV_ST_CM_0167_Name^,^Francan Dog (7th)^
+^EV_ST_CM_0168_Name^,^Francan Dog (3 days)^
+^EV_ST_CM_0157_Description^,^Blue Oriental Swimwear (30 days) can be worn for 30 days and will automatically disappear Blue Oriental Swimwear (30 days) spends time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0158_Description^,^Ice cream weapon costumes (30 days) can be worn for 30 days and then automatically disappeared Ice cream weapon costumes (30 days) are consumed from the moment they enter the bag </R_Y>^
+^EV_ST_CM_0159_Description^,^Straw hats (30 days) can be worn for 30 days and then automatically disappeared Straw hats (30 days) are consumed from the moment they enter the bag </R_Y>^
+^EV_ST_CM_0160_Description^,^Pet Lahab (30 days) can be worn for 30 days and then automatically disappears Pet Lahab (30 days) is spent from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0161_Description^,^Egg sushi (30 days) can be worn for 30 days and then automatically disappears Egg sushi (30 days) spends time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0162_Description^,^Egg sushi (14 days) can be worn for 14 days and then automatically disappears Egg sushi (14 days) spends time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0163_Description^,^Egg sushi (7 days) can be worn for 7 days and then automatically disappears Egg sushi (7 days) is spent from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0164_Description^,^Egg sushi (3 days) can be worn for 3 days and then automatically disappears Egg sushi (3 days) spends time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0165_Description^,^Francan Dock (30 days) can be worn for 30 days and then automatically disappears Francan Dock (30 days) is spent from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0166_Description^,^Francan Dock (14 days) can be worn for 14 days and then automatically disappears Francan Dock (14 days) is spent from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0167_Description^,^Francan Dock (7 days) can be worn for 7 days and then automatically disappears Francan Dock (7 days) is spent from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0168_Description^,^Francan Dock (3 days) can be worn for 3 days and then automatically disappears Francan Dock (3 days) is spent from the moment you enter the bag </R_Y>^
+^tt_1_0_0055_Name^,^Step 1 Title: Start Start^
+^tt_1_0_0056_Name^,^Step 2 title: A person who receives love of love^
+^tt_1_0_0057_Name^,^Step 3 title: A person who is protected by pink^
+^tt_1_0_0058_Name^,^Step 4 titles: Those who are favored by ice^
+^tt_1_0_0059_Name^,^Step 5 title: A person who rules the cold^
+^tt_1_0_0060_Name^,^Step 6 title: A person who rules the starlight^
+^tt_1_0_0061_Name^,^Step 7 title: A person who rules the moonlight^
+^tt_1_0_0055_Description^,^You can exchange them with a top -level title through quests that can be supplied to the first stage title [UI_G> Lavini Mini </ui_g> which was acquired by participating in the 2018 Summer Event^
+^tt_1_0_0056_Description^,^You can exchange them with a top -level title through quests that can be supplied to the second stage title [UI_G> Lavini Mini </ui_g>^
+^tt_1_0_0057_Description^,^You can exchange them with a top -level title through quests that can be supplied to the 3rd stage title [UI_G> Lavini Mini </ui_g> which was acquired by participating in the 2018 Summer Event^
+^tt_1_0_0058_Description^,^You can exchange them with a top -level title through quests that can be supplied to the four -stage title [UI_G> Lavini Mini </ui_g> which was acquired by participating in the 2018 Summer Event^
+^tt_1_0_0059_Description^,^You can exchange them with a top -level title through quests that can be supplied to the 5th stage title [UI_G> Lavini Mini </ui_g> which was acquired by participating in the 2018 Summer Event^
+^tt_1_0_0060_Description^,^You can exchange them with a top -level title through quests that can be supplied to the six -stage title [UI_G> Lavini Mini </ui_g>^
+^tt_1_0_0061_Description^,^The 7th stage titles acquired by participating in the 2018 Summer Event^
+^EV_ST_CM_0169_Name^,^Halloween pumpkin (30 days)^
+^CA_ST_CM_0509_Name^,^Halloween Weapon Costume (30 days)^
+^EV_ST_CM_0169_Description^,^Halloween pumpkin (30 days) can be worn for 30 days and then automatically disappears Halloween pumpkin (30 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0509_Description^,^Halloween weapons costumes (30 days) can be worn for 30 days and then automatically disappeared Halloween weapons costumes (30 days) are consumed from the moment they enter the bag </R_Y>^
+^CA_ST_CM_0510_Name^,^Spirun deer nose ~^
+^CA_ST_CM_0511_Name^,^Spirurn shoulder decoration (1 day)^
+^CA_ST_CM_0512_Name^,^Spirurn shoulder decoration (3 days)^
+^CA_ST_CM_0513_Name^,^Spirurn shoulder decoration (7 days)^
+^CA_ST_CM_0514_Name^,^Spirurn shoulder decoration (14 days)^
+^CA_ST_CM_0515_Name^,^Spirurn shoulder decoration (30 days)^
+^CA_ST_CM_0516_Name^,^Spirurn shoulder decoration s (unlimited)^
+^CA_ST_CM_0510_Description^,^Very shiny nose ~^
+^CA_ST_CM_0511_Description^,^<r_y> Spirul shoulder decoration (1 day) can be worn for 1 day and then automatically disappears Spirurn shoulder decoration (1 day) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0512_Description^,^<r_y> Spirul shoulder decoration (3 days) can be worn for 3 days and automatically disappears Spirurn shoulder decoration (3 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0513_Description^,^<r_y> Spirurn shoulder decoration (7 days) can be worn for 7 days and automatically disappears Spirewrun shoulder decoration (7 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0514_Description^,^<r_y> Spirurn shoulder decoration (14 days) can be worn for 14 days and then automatically disappears Spirurn shoulder decoration (14 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0515_Description^,^<r_y> Spirul shoulder decoration (30 days) can be worn for 30 days and automatically disappears Spirurn shoulder decoration (30 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0516_Description^,^<r_y> Spirul shoulder decoration S (unlimited) can be worn without a period of time </R_Y>^
+^CA_ST_CM_0517_Name^,^2019 glasses (30 days)^
+^CA_ST_CM_0518_Name^,^Man of Lavini (7th)^
+^CA_ST_CM_0519_Name^,^Ice Dragon Weapon Costume (7th)^
+^CA_ST_CM_0517_Description^,^<r_y> 2019 glasses (30 days) can be worn for 30 days and then automatically disappeared <br> 2019 glasses (30 days) spend time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0518_Description^,^<r_y> Man O'Blavini (7 days) can be worn for 7 days and then automatically disappears <br> Man Obravini (7 days) is spent from the moment you enter the bag </ R_y>^
+^CA_ST_CM_0519_Description^,^<r_y> Bingryong Weapon Costume (7 days) can be worn for 7 days and then automatically disappears <br> The ice dragon weapon costume (7 days) is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0520_Name^,^Traditional costumes (14 days)^
+^CA_ST_CM_0520_Description^,^<r_y> Traditional costumes (14 days) can be worn for 14 days and then automatically disappeared Traditional costumes (14 days) are consumed from the moment they enter the bag </R_Y>^
+^tt_1_0_0062_Name^,^Large candy (3 days)^
+^tt_1_0_0063_Name^,^Candyers who do some (7 days)^
+^tt_1_0_0064_Name^,^Profitable candy (14 days)^
+^tt_1_0_0065_Name^,^Professional candy (30 days)^
+^tt_1_0_0062_Description^,^<r_y> The sloppy candy (3 days) can be worn for 3 days and then automatically disappears The poor candy (3 days) spends time from the moment you enter the bag </R_Y>^
+^tt_1_0_0063_Description^,^<r_y> A candy who is a bit of a candy (7 days) can be worn for 7 days and then automatically disappears A candy who does a while (7 days) spends time from the moment he enters the bag </R_Y>^
+^tt_1_0_0064_Description^,^<r_y> The skillful candy (14 days) can be worn for 14 days and then automatically disappears The skilled candy (14 days) spends time from the moment you enter the bag </R_Y>^
+^tt_1_0_0065_Description^,^<r_y> Professional candy (30 days) can be worn for 30 days and then automatically disappears Professional candy (30 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0521_Name^,^Candy weapon costume (30 days)^
+^CA_ST_CM_0521_Description^,^<r_y> Candy weapon costumes (30 days) can be worn for 30 days and then automatically disappeared Candy weapons costumes (30 days) are consumed from the moment they enter the bag </R_Y>^
+^tt_1_0_0066_Name^,^Taming Master 1^
+^tt_1_0_0066_Description^,^If you complete the local collection once you can exchange it with a top -level title through quests that can be supplied to the first stage title [UI_G> Collection Quest Ravini </ui_g>^
+^tt_1_0_0067_Name^,^Taming Master 2^
+^tt_1_0_0067_Description^,^If you complete the local collection twice you can exchange it with a top -level title through quests that can be supplied to the second stage title [UI_G> Collection Quest Ravini </ui_g>^
+^tt_1_0_0068_Name^,^Taming Master 3^
+^tt_1_0_0068_Description^,^If you complete the regional collection three times you can exchange it with a top -level title through the quest that can be supplied to the three -stage title [UI_G> Collection Quest Ravini </ui_g>^
+^tt_1_0_0069_Name^,^Taming Master 10^
+^tt_1_0_0069_Description^,^If you complete the local collection 10 times you can exchange it with a top -level title through the quest that can be supplied to the four -stage title [UI_G> Collection Quest Ravini </ui_g>^
+^tt_1_0_0070_Name^,^Taming Master 20^
+^tt_1_0_0070_Description^,^If you complete 20 local collections you can exchange them with a top -level title through quests that can be supplied to the 5th stage title [UI_G> Collection Quest Ravini </ui_g>^
+^tt_1_0_0071_Name^,^Taming Master 30^
+^tt_1_0_0071_Description^,^If you complete 30 local collections you can exchange it with a top -level title through quests that can be supplied to the six -stage title [UI_G> Collection Quest Ravini </ui_g>^
+^tt_1_0_0072_Name^,^Taming Master 40^
+^tt_1_0_0072_Description^,^If you complete the local collection 40 times you can exchange it with a top -level title through quests that can be supplied to the seven -stage title [UI_G> Collection Quest Ravini </ui_g>^
+^tt_1_0_0073_Name^,^Taming Master 50^
+^tt_1_0_0073_Description^,^If you complete the local collection 50 times you can exchange it with a top -level title through the quest that can be supplied to the 8th stage title [UI_G> Collection Quest Ravini </ui_g>^
+^tt_1_0_0074_Name^,^Taming Master 70^
+^tt_1_0_0074_Description^,^If you complete the local collection 70 times you can exchange it with a top -level title through the quest that can be supplied to the 9th stage title [UI_G> Collection Quest Ravini </ui_g>^
+^tt_1_0_0075_Name^,^Taming Master 100^
+^tt_1_0_0075_Description^,^If you complete 100 local collections you can exchange them with a top -level title through the quest that can be supplied to the 10 -stage title [UI_G> Collection Quest Ravini </ui_g>^
+^CA_ST_CM_0522_Name^,^Wings of Cooperation (3 days)^
+^CA_ST_CM_0523_Name^,^Wings of Cooperation (7 days)^
+^CA_ST_CM_0524_Name^,^Wings of Cooperation (14th)^
+^CA_ST_CM_0525_Name^,^Wings of Cooperation (30 days)^
+^CA_ST_CM_0526_Name^,^Academic goods weapon costumes (30 days)^
+^CA_ST_CM_0522_Description^,^<r_y> Wings of Cooperation (3 days) can be worn for 3 days and then automatically disappeared  </R_Y>^
+^CA_ST_CM_0523_Description^,^<R_Y> Wings of Cooperation (7 days) can be worn for 7 days and then automatically disappears  </R_Y>^
+^CA_ST_CM_0524_Description^,^<R_Y> Wings of Cooperation (14 days) can be worn for 14 days and then automatically disappeared  </R_Y>^
+^CA_ST_CM_0525_Description^,^<R_Y> Wings of Cooperation (30 days) can be worn for 30 days and then automatically disappears  </R_Y>^
+^CA_ST_CM_0526_Description^,^<r_y> School supplies weapon costumes (30 days) can be worn for 30 days and it will automatically disappear after <br> <BR> School Weapon Costume (30 days) is consumed from the moment you enter the bag  </R_Y>^
+^EV_ST_CM_0170_Name^,^Guardian's insignia (3 days)^
+^EV_ST_CM_0171_Name^,^Guardian's insignia (7 days)^
+^EV_ST_CM_0172_Name^,^Guardian's insignia (14th)^
+^EV_ST_CM_0173_Name^,^Guardian's insignia (30 days)^
+^CA_ST_CM_0527_Name^,^Mask of patience (30 days)^
+^EV_ST_CM_0170_Description^,^<r_y> The insignia of the guardian (3 days) can be worn for 3 days and then it will automatically disappear  </R_Y>^
+^EV_ST_CM_0171_Description^,^<r_y> The insignia of the guardian (7 days) can be worn for 7 days and then it will automatically disappear  </R_Y>^
+^EV_ST_CM_0172_Description^,^<r_y> The insignia of the guardian (14 days) can be worn for 14 days and then it will automatically disappear  </R_Y>^
+^EV_ST_CM_0173_Description^,^<r_y> The insignia of the guardian (30 days) can be worn for 30 days and then it will automatically disappear  </R_Y>^
+^CA_ST_CM_0527_Description^,^<R_Y> Mask (30 days) of patience (30 days) can be worn for 30 days and it automatically disappears after <br>  </R_Y>^
+^CA_ST_CM_0528_Name^,^Cat mask^
+^CA_ST_CM_0529_Name^,^Skeleton mask^
+^CA_ST_CM_0530_Name^,^Mask^
+^CA_ST_CM_0531_Name^,^Half goblin half^
+^CA_ST_CM_0532_Name^,^Half of old goblin^
+^CA_ST_CM_0533_Name^,^If you go to Buddha^
+^CA_ST_CM_0534_Name^,^Buddha mask^
+^CA_ST_CM_0535_Name^,^Golden ball mask^
+^CA_ST_CM_0536_Name^,^Mirror ball^
+^CA_ST_CM_0537_Name^,^Horse hair (brown)^
+^CA_ST_CM_0538_Name^,^Horse hair (black)^
+^CA_ST_CM_0539_Name^,^Fox mask (white)^
+^CA_ST_CM_0540_Name^,^Fox mask (black)^
+^CA_ST_CM_0541_Name^,^Black mask^
+^CA_ST_CM_0542_Name^,^White mask^
+^CA_ST_CM_0543_Name^,^Nose housewife^
+^CA_ST_CM_0544_Name^,^X Table Mask^
+^CA_ST_CM_0545_Name^,^Valov costume^
+^CA_ST_CM_0546_Name^,^Summer festival swimsuit! (30 days)^
+^CA_ST_CM_0546_Description^,^<r_y> Summer Festival Swimsuit! (30 days) can be worn for 30 days and then automatically disappears <br> Summer Festival Swimsuit! (30 days) consumes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0547_Name^,^Rash guard swimsuit (blue)^
+^CA_ST_CM_0548_Name^,^Rash guard swimsuit (county color)^
+^CA_ST_CM_0549_Name^,^Rash guard swimsuit (white)^
+^CA_ST_CM_0550_Name^,^Rash guard swimsuit (black)^
+^tt_1_0_0079_Name^,^Heat Scouts (3 days)^
+^tt_1_0_0080_Name^,^Heat Hunter (7th)^
+^tt_1_0_0081_Name^,^Heat Tracker (14th)^
+^tt_1_0_0082_Name^,^Heat terminator (30 days)^
+^EV_ST_CM_0174_Name^,^Blue Sky Swimsuit (14th)^
+^tt_1_0_0079_Description^,^<r_y> The heat reconnaissance (3 days) can be worn for 3 days and then it will automatically disappear  </R_Y>^
+^tt_1_0_0080_Description^,^<r_y> The heat hunter (7 days) can be worn for 7 days and then it will automatically disappear /R_y>^
+^tt_1_0_0081_Description^,^<r_y> The heat tracker (14 days) can be worn for 14 days and then it will automatically disappear <br> The heat tracker (14 days) is consumed from the moment you enter the bag /R_y>^
+^tt_1_0_0082_Description^,^<r_y> The heat terminator (30 days) can be worn for 30 days and then automatically disappears  </R_Y>^
+^EV_ST_CM_0174_Description^,^<r_y> Blue Sky Swimwear (14 days) can be worn for 14 days and then automatically disappears  </R_Y>^
+^CA_ST_CM_0551_Name^,^(Appearance) Green Oriental Swimsuit (30 days)^
+^CA_ST_CM_0552_Name^,^(Appearance) Blue Oriental Swimsuit (30 days)^
+^CA_ST_CM_0553_Name^,^(Appearance) Red Oriental Swimsuit (30 days)^
+^CA_ST_CM_0554_Name^,^(Appearance) Red Sunset Swimwear (30 days)^
+^CA_ST_CM_0555_Name^,^(Appearance) White Summer Swimwear (30 days)^
+^CA_ST_CM_0556_Name^,^(Appearance) Hopi -patterned swimsuit (30 days)^
+^CA_ST_CM_0557_Name^,^(Appearance) Witch & Wizard Costume (30 days)^
+^CA_ST_CM_0558_Name^,^(Appearance) Black Vampire Costume (30 days)^
+^CA_ST_CM_0559_Name^,^(Appearance) White Vampire Costume (30 days)^
+^CA_ST_CM_0560_Name^,^(Appearance) Purple Vampire Costume (30 days)^
+^CA_ST_CM_0561_Name^,^(Appearance) Red Vampire Costume (30 days)^
+^CA_ST_CM_0562_Name^,^(Appearance) Orange Skeleton Costume (30 days)^
+^CA_ST_CM_0563_Name^,^(Appearance) Red Christmas Party Costume (30 days)^
+^CA_ST_CM_0564_Name^,^(Appearance) Black Christmas Party Costume (30 days)^
+^CA_ST_CM_0565_Name^,^(Appearance) White Christmas Party Costume (30 days)^
+^CA_ST_CM_0566_Name^,^(Appearance) Rudolph costume (30 days)^
+^CA_ST_CM_0567_Name^,^(Appearance) Costume in the middle of winter (30 days)^
+^CA_ST_CM_0568_Name^,^(Appearance) Red Winter Costume (30 days)^
+^CA_ST_CM_0569_Name^,^(Appearance) White long padding costume (30 days)^
+^CA_ST_CM_0570_Name^,^(Appearance) Black long padding costume (30 days)^
+^CA_ST_CM_0571_Name^,^(Appearance) Winter Armor Costume (30 days)^
+^CA_ST_CM_0572_Name^,^(Appearance) Shadow Clan Costume (30 days)^
+^CA_ST_CM_0573_Name^,^(Appearance) Cream Cookie Lavini Costume (30 days)^
+^CA_ST_CM_0574_Name^,^(Appearance)^
+^CA_ST_CM_0575_Name^,^(Appearance) Collector's maid & deacons (30 days)^
+^CA_ST_CM_0576_Name^,^(Appearance) Lovely Maid & Deacon Costume (30 days)^
+^CA_ST_CM_0577_Name^,^(Appearance) Barney Girl & Barney Boy Costume (30 days)^
+^CA_ST_CM_0578_Name^,^(Appearance) Priest Costume (30 days)^
+^CA_ST_CM_0579_Name^,^(Appearance) Fashion model suit (30 days)^
+^CA_ST_CM_0580_Name^,^(Appearance) Hakanas Student Uniform (30 days)^
+^CA_ST_CM_0581_Name^,^(Appearance) Purple costume (30 days)^
+^CA_ST_CM_0582_Name^,^(Appearance) Red Kung Later (30 days)^
+^CA_ST_CM_0583_Name^,^(Appearance) Traditional costumes (30 days)^
+^CA_ST_CM_0584_Name^,^(Appearance) Russian traditional costumes (30 days)^
+^CA_ST_CM_0585_Name^,^(Appearance) Red cheering suit (30 days)^
+^CA_ST_CM_0586_Name^,^(Appearance) Sports Package costume (30 days)^
+^CA_ST_CM_0587_Name^,^(Appearance) Hakanas cheering suit (30 days)^
+^CA_ST_CM_0589_name^,^(Accessories) Cat mask (30 days)^
+^CA_ST_CM_0590_name^,^(Accessories) Skeleton Mask (30 days)^
+^CA_ST_CM_0591_name^,^(Accessories) Mask (30 days)^
+^CA_ST_CM_0592_name^,^(Accessories) Goblin half mask (30 days)^
+^CA_ST_CM_0593_name^,^(Accessories) Old goblin half mask (30 days)^
+^CA_ST_CM_0594_name^,^(Accessories) Golden Ball Mask (30 days)^
+^CA_ST_CM_0595_name^,^(Accessories) Mirror ball mask (30 days)^
+^CA_ST_CM_0596_name^,^(Accessories) Brown horse hair (30 days)^
+^CA_ST_CM_0597_name^,^(Accessories) Black horse hair mask (30 days)^
+^CA_ST_CM_0598_name^,^(Accessories) Black Mask (30 days)^
+^CA_ST_CM_0599_name^,^(Accessories) White mask (30 days)^
+^CA_ST_CM_0600_name^,^(Accessories) Housewife glasses (30 days)^
+^CA_ST_CM_0601_name^,^(Accessories) X Table Mask (30 days)^
+^CA_ST_CM_0602_Name^,^Spirurn mask^
+^CA_ST_CM_0603_Name^,^Water Dragon Mask^
+^CA_ST_CM_0604_Name^,^Paradise^
+^EV_ST_CM_0175_Name^,^Halloween Most of the Best Meeting (3 days)^
+^EV_ST_CM_0176_Name^,^Halloween Most Monster Meeting (7 days)^
+^EV_ST_CM_0177_Name^,^Halloween Most Monster Mask (14th)^
+^EV_ST_CM_0178_Name^,^Halloween Most of the Best Meeting (30 days)^
+^EV_ST_CM_0175_Description^,^<R_Y> Halloween's most masked sashimi (3 days) can be worn for 3 days and <br> automatically disappears It is consumed </R_y>^
+^EV_ST_CM_0176_Description^,^<R_Y> Halloween's most masked sashimi (7 days) can be worn for 7 days and <br> automatically disappears It is consumed </R_y>^
+^EV_ST_CM_0177_Description^,^<r_y> Halloween's most untimely mask (14 days) can be worn for 14 days and it automatically disappears after <br> The most unbidden mask of Halloween (14 days) is <br> time from the moment you enter the bag It is consumed </R_y>^
+^EV_ST_CM_0178_Description^,^<R_Y> Halloween's most masked sashimi (30 days) can be worn for 30 days and <br> automatically disappears It is consumed </R_y>^
+^CA_ST_CM_0606_Name^,^Spirun mask (30 days)^
+^CA_ST_CM_0606_Description^,^<r_y> Spirun mask (30 days) can be worn for 30 days and it automatically disappears after <br>  </R_Y>^
+^CA_ST_CM_0607_name^,^Santa Big Bird Shoulder Decoration (3 Days)^
+^CA_ST_CM_0608_name^,^Santa Big Bird Shoulder Decoration (7 days)^
+^CA_ST_CM_0609_name^,^Santa Big Bird Shoulder Decoration (14th)^
+^CA_ST_CM_0610_name^,^Santa Big Bird Shoulder Decoration (30 days)^
+^CA_ST_CM_0611_name^,^Christmas weapon decoration (30 days)^
+^CA_ST_CM_0607_Description^,^<r_y> Santa Big Bird Shoulder Decoration (3 Days) can be worn for 3 days and it will automatically disappear after <br> <br> <br> Santa's tigership shoulder decoration (3 days) enters the bag From the moment <br> time is consumed </R_Y>^
+^CA_ST_CM_0608_Description^,^<r_y> Santa Big Bird Shoulder Decoration (7 Days) can be worn for 7 days and it will automatically disappear after <br> <br> <br> Santa's tigership shoulder decoration (7 days) enters the bag From the moment <br> time is consumed </R_Y>^
+^CA_ST_CM_0609_Description^,^<r_y> Santa Targe Bird Shoulder Decoration (14 days) can be worn for 14 days and it will automatically disappear after <br> <br> <br> Santa Targe Bird Shoulder Decorations (14 days) enter the bag From the moment <br> time is consumed </R_Y>^
+^CA_ST_CM_0610_Description^,^<r_y> Santa Big Bird Shoulder Decoration (30 Days) can be worn for 30 days and it will automatically disappear after <br> <br> <br> Santa's tigership shoulder decoration (30 days) enters the bag From the moment <br> time is consumed </R_Y>^
+^CA_ST_CM_0611_Description^,^<r_y> Christmas weapon decoration (30 days) can be worn for 30 days and it will automatically disappear after <br> <br> <br> Christmas weapon decoration (30 days) comes from the moment you enter the bag from <br> This is consumed </R_Y>^
+^CA_ST_CM_0614_Name^,^2020 glasses (30 days)^
+^CA_ST_CM_0614_Description^,^<r_y> 2020 glasses (30 days) can be worn for 30 days and after <br> it automatically disappears <br> 2020 glasses (30 days) are consumed from the moment you enter the bag /R_y>^
+^tt_1_0_0086_Name^,^Suma between (3 days)^
+^tt_1_0_0087_Name^,^Confession success! (7 days)^
+^tt_1_0_0088_Name^,^I confess and get confused! (14th)^
+^tt_1_0_0089_Name^,^day 1 from today! (30 days)^
+^EV_ST_CM_0179_Name^,^(Appearance) Vandal Gom Bark and Goodnight^
+^EV_ST_CM_0180_Name^,^(Appearance) Unicorn and Goodnight^
+^CA_ST_CM_0615_Name^,^(Appearance) Vandal Gom Bark and Goodnight (30 days)^
+^CA_ST_CM_0616_Name^,^(Appearance) Unicorn and Goodnight (30 days)^
+^tt_1_0_0086_Description^,^<r_y> Sumta can be worn between three days (3 days) and it automatically disappears after <br> <br> <br> Suma (3 days) is from the moment you enter the bag This is consumed </R_Y>^
+^tt_1_0_0087_Description^,^<r_y> Confession of success! (7 days) can be worn for 7 days and automatically disappears after <br> <br> <br> Confession success! (7 days) consumes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0088_Description^,^<r_y> Confession and confess! (14 days) can be worn for 14 days and it will automatically disappear after <br> <br> <br> confesses and confesses! (14 days) consumes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0089_Description^,^<r_y> 1 day from today! (30 days) can be worn for 30 days and automatically disappears after <br> <br> <br> From today! (30 days) consumes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0615_Description^,^<r_y> (Appearance) Vandal Gombak and Goodnight (30 days) can be worn for 30 days and automatically disappear after <br> <br> <br> From the moment you come in <br> time is spent </R_Y>^
+^CA_ST_CM_0616_Description^,^<r_y> (Appearance) Unicorn and Goodnight (30 days) can be worn for 30 days and <br> automatically disappears From the moment <br> time is consumed </R_Y>^
+^EV_ST_CM_0181_Name^,^Spring day! (3 days)^
+^EV_ST_CM_0182_Name^,^Spring day! (7 days)^
+^EV_ST_CM_0183_Name^,^Spring day! (14th)^
+^EV_ST_CM_0184_Name^,^Spring day! (30 days)^
+^CA_ST_CM_0617_Name^,^Spring hunting spring spring! (30 days)^
+^tt_1_0_0090_Name^,^Ipchundae -gil! (30 days)^
+^EV_ST_CM_0181_Description^,^<r_y> Spring day! (3 days) can be worn for 3 days and automatically disappears after <br> <br> <br> Spring day! (3 days) consumes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0182_Description^,^<r_y> Spring day! (7 days) can be worn for 7 days and automatically disappears after <br> <br> <br> Spring day! (7 days) consumes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0183_Description^,^<r_y> Spring day! (14th) can be worn for 14 days and automatically disappears after <br> Spring day! (14 days) consumes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0184_Description^,^<r_y> Spring day! (30 days) can be worn for 30 days and automatically disappears after <br> <br> <br> Spring day! (30 days) consumes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0617_Description^,^<r_y> spring hunting spring spring! (30 days) can be worn for 30 days and it will automatically disappear after <br> Spring spring spring! (30 days) consumes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0090_Description^,^<r_y> Ipchun Dae -gil! (30 days) can be worn for 30 days and automatically disappears after <br> <br> <br> (30 days) consumes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0618_Name^,^Valov costume (3 days)^
+^CA_ST_CM_0618_Description^,^<r_y> Ballov costume (3 days) can be worn for 3 days and it will automatically disappear after <br> <br> <br> Ballov costume (3 days) is the moment of entering the bag This is consumed </R_Y>^
+^CA_ST_CM_0619_Name^,^Valov costume (30 days)^
+^CA_ST_CM_0619_Description^,^<r_y> Ballov costume (30 days) can be worn for 30 days and it will automatically disappear after <br> <br> <br> Ballov costume (30 days) is the moment of entering the bag This is consumed </R_Y>^
+^CA_ST_CM_0620_Name^,^Balloon weapon costume (30 days)^
+^CA_ST_CM_0620_Description^,^<r_y> Balloon weapon costumes (30 days) can be worn for 30 days and it will automatically disappear after <br> <br> <br> Balloon weapon costume (30 days) is the moment you enter the bag from <br> time <br> time This is consumed </R_Y>^
+^tt_1_0_0093_Name^,^Level up! Spec up! Power -up! (30 days)^
+^tt_1_0_0093_Description^,^<r_y> level up! Spec up! Power -up! (30 days) can be worn for 30 days and automatically disappears after <br> <br> <br> level up! Spec up! Power -up! (30 days) consumes time from the moment you enter the bag </R_Y>^
+^IT_ST_CM_0013_Name^,^Dragon God Armor (3 days)^
+^IT_ST_CM_0013_Description^,^<r_y> Armor (3 days) of the Yong Shin can be worn for 3 days and then automatically disappears The Armor of the Yongsin (3 days) is spent from the moment you enter the bag </R_Y>^
+^IT_ST_CM_0012_Name^,^Dragon God Mask (3 days)^
+^IT_ST_CM_0012_Description^,^Time is spent from the moment you enter the bag and you can wear it for 3 days When the period expires it automatically disappears </R_Y>^
+^tt_1_0_0094_Name^,^Cool summer! (3 days)^
+^CA_ST_CM_0621_Name^,^(Appearance) Summer swimsuit with a feeling (30 days)^
+^CA_ST_CM_0622_Name^,^(Appearance) Summer swimsuit with edges (30 days)^
+^tt_1_0_0094_Description^,^<r_y> Cool summer! (3 days) can be worn for 3 days and it will automatically disappear after <br> <br> <br> Cool summer! (3 days) consumes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0621_Description^,^<R_Y> (Appearance) Summer new swimsuit (30 days) can be worn for 30 days and it will automatically disappear afterwards <br> <br> Time is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0622_Description^,^<r_y> (Appearance) The summer new swimsuit (30 days) can be worn for 30 days and it will automatically disappear afterwards <br> <br> Time is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0623_Name^,^(Appearance) Green Hawaiian swimsuit (30 days)^
+^CA_ST_CM_0624_Name^,^(Appearance) Blue Sky Swimwear (30 days)^
+^CA_ST_CM_0625_Name^,^(Appearance) Red Sunshine (30 days)^
+^CA_ST_CM_0626_Name^,^(Appearance) White Beach (30 days)^
+^CA_ST_CM_0627_Name^,^(Appearance) School Swimwear (30 days)^
+^CA_ST_CM_0628_Name^,^(Appearance) White Blooming (30 days)^
+^CA_ST_CM_0629_Name^,^(Appearance) Blue Blooming (30 days)^
+^CA_ST_CM_0630_Name^,^(Appearance) Blue Marine Look (30 days)^
+^CA_ST_CM_0631_Name^,^(Appearance) White Marine Look (30 days)^
+^EV_ST_CM_0185_Name^,^(Appearance) Red Blooming Swimwear (14th)^
+^EV_ST_CM_0186_Name^,^(Appearance) Navy Blue Marine Look^
+^CA_ST_CM_0630_Description^,^<r_y> (Appearance) Blue Marine Look (30 days) can be worn for 30 days and it will automatically disappear <br> <br> (appearance) Blue Marine Look (30 days) Time is consumed from the moment you come in </R_Y>^
+^CA_ST_CM_0631_Description^,^<r_y> (Appearance) White Marine Look (30 days) can be worn for 30 days and automatically disappears <br> <br> (appearance) White Marine Look (30 days) in the bag Time is consumed from the moment you come in </R_Y>^
+^EV_ST_CM_0185_Description^,^<r_y> (Appearance) Red Blooming Swimwear (14th) can be worn for 14 days and it will automatically disappear afterwards <br> <br> BR> Time is consumed from the moment you come in </R_Y>^
+^CA_ST_CM_0632_Name^,^Ice cream weapon costume (30 days)^
+^CA_ST_CM_0632_Description^,^<r_y> Ice cream weapon costumes (30 days) can be worn for 30 days and will be automatically disappeared This is consumed </R_Y>^
+^EV_ST_CM_0187_Name^,^(Appearance) Tongbok Ara (30 days)^
+^EV_ST_CM_0187_Description^,^<r_y> Tongbok Ara (30 days) can be worn for 30 days and it automatically disappears after <br> <br> <br> This is consumed </R_Y>^
+^EV_ST_CM_0188_Name^,^(Appearance) All Tongbok Yun Seul (30 days)^
+^EV_ST_CM_0188_Description^,^<r_y> Tongbok Yun Seul (30 days) can be worn for 30 days and it automatically disappears after <br> <br> <br> This is consumed </R_Y>^
+^EV_ST_CM_0189_Name^,^(Appearance) Tongbok Dasom (30 days)^
+^EV_ST_CM_0189_Description^,^<r_y> Tongbok Dasom (30 days) can be worn for 30 days and it will automatically disappear after <br> <br> <br> Tongbok Dasom (30 days) comes from the moment of entering the bag This is consumed </R_Y>^
+^tt_1_0_0095_Name^,^2020 Songpyeon (3 days)^
+^tt_1_0_0095_Description^,^<R_Y> 2020 Songpyeon (3 days) can be worn for 3 days and it will automatically disappear after <br> <br> <br> Create Songpyeon (3 days) is the time of entering the bag It is consumed </R_y>^
+^EV_ST_CM_0190_Name^,^Experience support cloak (3 days)^
+^EV_ST_CM_0190_Description^,^<R_Y> Experience support cloak (3 days) can be worn for 3 days and it will automatically disappear after <br> <br> <br> experience support cloak (3 days) comes from the moment of entering the bag This is consumed </R_Y>^
+^EV_ST_CM_0191_Name^,^Fishing support cloak (3 days)^
+^EV_ST_CM_0191_Description^,^<r_y> Fishing support cloak (3 days) can be worn for 3 days and it will automatically disappear after <br> <br> <br> Fishing support cloak (3 days) comes from the moment of entering the bag This is consumed </R_Y>^
+^EV_ST_CM_0192_Name^,^Item support cloak (3 days)^
+^EV_ST_CM_0192_Description^,^<r_y> Item support cloak (3 days) can be worn for 3 days and it will automatically disappear after <br> <br> <br> Item support cloak (3 days) is the moment you enter the bag This is consumed </R_Y>^
+^EV_ST_CM_0193_Name^,^Taming support cloak (3 days)^
+^EV_ST_CM_0193_Description^,^<r_y> Taming support cloak (3 days) can be worn for 3 days and it will automatically disappear after <br> <br> <br> Taming support cloak (3 days) comes from the moment you enter the bag This is consumed </R_Y>^
+^EV_ST_CM_0194_Name^,^Fellowship experience support cloak (3 days)^
+^EV_ST_CM_0194_Description^,^<r_y> Fellowship experience cloak (3 days) can be worn for 3 days and it automatically disappears after <br> <br> <br> Fellowship experience support cloak (3 days) is from the moment you enter the bag > Time is consumed </R_Y>^
+^EV_ST_CM_0195_Name^,^Production support cloak (3 days)^
+^EV_ST_CM_0195_Description^,^<r_y> Production support cloak (3 days) can be worn for 3 days and it will automatically disappear after <br> <br> <br> Production support cloak (3 days) is the moment of entering the bag This is consumed </R_Y>^
+^EV_ST_CM_0196_Name^,^Combat support cloak (3 days)^
+^EV_ST_CM_0196_Description^,^<r_y> Combat support cloak (3 days) can be worn for 3 days and it automatically disappears after <br> <br> <br> Combat support cloak (3 days) This is consumed </R_Y>^
+^EV_ST_CM_0197_Name^,^Halloween pumpkin (30 days)^
+^EV_ST_CM_0197_Description^,^<r_y> Halloween pumpkin (30 days) can be worn for 30 days and it automatically disappears after <br> <br> <br> Halloween pumpkin (30 days) is consumed from the moment you enter the bag It is </R_Y>^
+^EV_ST_CM_0198_Name^,^Halloween's Maduity (30 days)^
+^EV_ST_CM_0198_Description^,^<R_Y> Halloween's most vice martial arts (30 days) can be worn for 30 days and it will automatically disappear after <br> <br> <br> Halloween's most martial arts association (30 days) is from the moment you enter the bag This is consumed </R_Y>^
+^EV_ST_CM_0199_Name^,^Cool pumpkin hat (4 hours)^
+^EV_ST_CM_0199_Description^,^<r_y> A wonderful pumpkin hat (4 hours) can be worn for 4 hours and it automatically disappears after <br> <br> <br> The wonderful pumpkin hat (4 hours) comes from the moment of entering the bag Time is consumed </R_Y>^
+^EV_ST_CM_0200_Name^,^Sad pumpkin hat (4 hours)^
+^EV_ST_CM_0200_Description^,^<r_y> Sad pumpkin hats (4 hours) can be worn for 4 hours and it will automatically disappear after <br> <br> <br> Sad pumpkin hat (4 hours) comes from the moment of entering the bag Time is consumed </R_Y>^
+^EV_ST_CM_0201_Name^,^Happy pumpkin hat (4 hours)^
+^EV_ST_CM_0201_Description^,^<R_Y> A pleasant pumpkin hat (4 hours) can be worn for 4 hours and it will automatically disappear after <br> <br> <br> A pleasant pumpkin hat (4 hours) comes from the moment you enter the bag from <br> Time is consumed </R_Y>^
+^EV_ST_CM_0202_Name^,^Ordinary pumpkin hat (4 hours)^
+^EV_ST_CM_0202_Description^,^<r_y> An ordinary pumpkin hat (4 hours) can be worn for 4 hours and it automatically disappears after <br> <br> <br> The ordinary pumpkin hat (4 hours) comes from the moment you enter the bag Time is consumed </R_Y>^
+^EV_ST_CM_0203_Name^,^Very nice pumpkin hat (4 hours)^
+^EV_ST_CM_0203_Description^,^<r_y> Very wonderful pumpkin hats (4 hours) can be worn for 4 hours and after <br> it automatically disappears BR> Time is consumed </R_Y>^
+^EV_ST_CM_0204_Name^,^Very sad pumpkin hat (4 hours)^
+^EV_ST_CM_0204_Description^,^<r_y> Very sad pumpkin hats (4 hours) can be worn for 4 hours and after <br> it automatically disappears <br> <br> The very sad pumpkin hat (4 hours) is from the moment you enter the bag BR> Time is consumed </R_Y>^
+^EV_ST_CM_0205_Name^,^Very pleasant pumpkin hat (4 hours)^
+^EV_ST_CM_0205_Description^,^<r_y> Very pleasant pumpkin hats (4 hours) can be worn for 4 hours and after <br> it automatically disappears <br> <br> The very pleasant pumpkin hat (4 hours) comes from the moment you enter the bag BR> Time is consumed </R_Y>^
+^EV_ST_CM_0206_Name^,^Very ordinary pumpkin hat (4 hours)^
+^EV_ST_CM_0206_Description^,^<r_y> Very ordinary pumpkin hat (4 hours) can be worn for 4 hours and it automatically disappears after <br> BR> Time is consumed </R_Y>^
+^EV_ST_CM_0207_Name^,^A nice pumpkin hat^
+^EV_ST_CM_0207_Description^,^Among the 100 pumpkin it is selected as the most beautiful pumpkin carved with the hands of a famous sculpture craftsman and then a wonderful pumpkin hat that can be used for a lifetime <br> Makes you wonderful^
+^EV_ST_CM_0208_Name^,^Sad pumpkin hat^
+^EV_ST_CM_0208_Description^,^Among the 100 pumpkin it is selected as the most sad mood of pumpkin carved with the hands of a famous sculpture craftsman and then a magical treatment by a famous wizard and can be owned for a lifetime <br> You can express your sadness better than anyone^
+^EV_ST_CM_0209_Name^,^A pleasant pumpkin hat^
+^EV_ST_CM_0209_Description^,^Among the 100 pumpkin it is selected as the most enjoyable pumpkin and carved with the hands of a famous sculpture craftsman and after being sculpted by a magical wizard it can be used for a lifetime <br> I think I can always live happily^
+^EV_ST_CM_0210_Name^,^Ordinary pumpkin hat^
+^EV_ST_CM_0210_Description^,^Among the 100 pumpkin it is selected as the most ordinary pumpkin carved with the hands of a famous sculpture of Hakanas and can be used for a lifetime <br> A true adherence to know the value of ordinary^
+^EV_ST_CM_0211_Name^,^Very nice pumpkin hat^
+^EV_ST_CM_0211_Description^,^Among the 10000 pumpkin it is selected as the most beautiful pumpkin carved with the hands of a famous sculpture of Hakanas and then a wonderful pumpkin hat that can be collected for a lifetime <br> Makes you wonderful^
+^EV_ST_CM_0212_Name^,^A very sad pumpkin hat^
+^EV_ST_CM_0212_Description^,^The sad pumpkin hat is selected as a pumpkin that makes you feel the saddest of the 10000 pumpkin carved with the hands of a famous sculpture craftsman and can be owned by a famous wizard <br> You can express your sadness better than anyone^
+^EV_ST_CM_0213_Name^,^Very pleasant pumpkin hat^
+^EV_ST_CM_0213_Description^,^Among the 10000 pumpkin it is selected as the most enjoyable pumpkin and carved with the hands of a famous sculpture craftsman and after being sculpted by a magical wizard it can be used for a lifetime <br> I think I can always live happily^
+^EV_ST_CM_0214_Name^,^Very ordinary pumpkin hat^
+^EV_ST_CM_0214_Description^,^Among the 10000 pumpkin it is selected as the most ordinary pumpkin carved with the hands of a famous sculpture of Hakanas and can be used for a lifetime <br> A true adherence to know the value of ordinary^
+^EV_ST_CM_0215_Name^,^Dad's ghost cloak^
+^EV_ST_CM_0215_Description^,^It is dyed with the soul of the dad's ghost <br> It is hard to find a case where the soul is in a cloak so it is very rare so it is said to be legend to the nurses^
+^EV_ST_CM_0216_Name^,^Mom's ghost cloak^
+^EV_ST_CM_0216_Description^,^It is dyed with the soul of the mother's ghost <br> It is hard to find a case where the soul is in a cloak so it is very rare so it is said to be legend to the nurses^
+^EV_ST_CM_0217_Name^,^Baby ghost cloak^
+^EV_ST_CM_0217_Description^,^It is dyed with the soul of the baby ghost <br> It is hard to find a case where the soul is in a cloak so it is very rare so it is said to be legend to the nurses^
+^EV_ST_CM_0218_Name^,^Halloween penetrating knife (30 days)^
+^EV_ST_CM_0218_Description^,^<r_y> Halloween penetrating sword (30 days) can be worn for 30 days and it automatically disappears after <br> <br> <br> Halloween penetrating sword (30 days) comes from the moment of entering the bag This is consumed </R_Y>^
+^EV_ST_CM_0219_Name^,^Halloween Witch & Wizard Costume (30 days)^
+^EV_ST_CM_0219_Description^,^<r_y> Halloween Witch & Wizard Costume (30 days) can be worn for 30 days and it will automatically disappear after <br> <br> Time is spent </R_Y>^
+^CA_ST_CM_0633_Name^,^Ellora's Wings (14th)^
+^CA_ST_CM_0633_Description^,^<r_y> Ellora's wings (14 days) can be worn for 14 days and it will automatically disappear after <br> <br> <br> Ellora's wings (14 days) from the moment they enter the bag from <br> time This is consumed </R_Y>^
+^CA_ST_CM_0634_Name^,^Wings of Gelaris (14th)^
+^CA_ST_CM_0634_Description^,^<r_y> Wings of Gelaris (14 days) can be worn for 14 days and it will automatically disappear after <br> <br> <br> The wing of the gelaris (14 days) comes from the moment when entering the bag > Time is consumed </R_Y>^
+^tt_1_0_0096_Name^,^Special title: chilly wind (3 days)^
+^tt_1_0_0096_Description^,^<r_y> Special title: Chilly wind (3 days) can be worn for 3 days and it will automatically disappear after <br> <br> <br> Special title: Chilly wind (3 days) comes from the moment you enter the bag from the moment you enter the bag <br> Time is spent </R_Y>^
+^tt_1_0_0098_Name^,^Special title: Goodbye Science Gong (3 days)^
+^tt_1_0_0098_Description^,^<r_y> Special Title: Goodbye Science (3 days) can be worn for 3 days and it will automatically disappear after <br> <br> <br> The time of entering the bag is consumed </R_y>^
+^tt_1_0_0099_Name^,^Special title: Artist who embodied a creation^
+^tt_1_0_0099_Description^,^<r_y> Special title: The artist who embodies the creation is the title given to the person who created a wonderful creation <br> Praise your work!^
+^CA_ST_CM_0636_Name^,^Midwinter costume (30 days)^
+^CA_ST_CM_0636_Description^,^<r_y> The winter winter costume (30 days) can be worn for 30 days and it will automatically disappear after <br> <br> <br> <br> The winter winter costume (30 days) is consumed in the bag It is </R_Y>^
+^CA_ST_CM_0637_Name^,^Red Winter Costume (30 days)^
+^CA_ST_CM_0637_Description^,^<r_y> Red winter costumes (30 days) can be worn for 30 days and it will automatically disappear after <br> <br> <br> Red Winter Costume (30 days) is the moment you enter the bag This is consumed </R_Y>^
+^CA_ST_CM_0638_Name^,^Rudolph costume (30 days)^
+^CA_ST_CM_0638_Description^,^<r_y> Rudolph costume (30 days) can be worn for 30 days and it automatically disappears after <br> <br> <br> Rudolph costume (30 days) is consumed from the moment of entering the bag It is </R_Y>^
+^CA_ST_CM_0247_Name^,^Yellow Blossom (30 days)^
+^CA_ST_CM_0247_Description^,^<r_y> Yellow Blossom (30 days) can be worn for 30 days and automatically disappears Yellow Blossom (30 days) spends time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0234_Name^,^Lovely Night (30 days)^
+^CA_ST_CM_0234_Description^,^<r_y> Lovely Night (30 days) can be worn for 30 days and automatically disappears Lovely Night (30 days) takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0639_Name^,^Steampunk costume (7 days)^
+^CA_ST_CM_0639_Description^,^<r_y> Steampunk costume (7 days) can be worn for 7 days and it will automatically disappear after <br> <br> Steampunk costume (7 days) is consumed from the moment you enter the bag  </R_Y>^
+^CA_ST_CM_0640_Name^,^Steampunk costume (30 days)^
+^CA_ST_CM_0640_Description^,^<r_y> Steampunk costume (30 days) can be worn for 30 days and it will automatically disappear after <br> <br> Steampunk costume (30 days) is consumed from the moment you enter the bag  </R_Y>^
+^CA_ST_CM_0641_Name^,^2021 glasses (30 days)^
+^CA_ST_CM_0641_Description^,^<r_y> 2021 glasses (30 days) can be worn for 30 days and after <br> it automatically disappears <br> 2021 glasses (30 days) are consumed from the moment you enter the bag /R_y>^
+^tt_1_0_0100_Name^,^Special title: Come on 2021! (7 days)^
+^tt_1_0_0100_Description^,^<r_y> Special title: Come and 2021! (7 days) can be worn for 7 days and automatically disappears <br> <br> Special Title: Come on and 2021! (7 days) consumes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0101_Name^,^Malangmalang (3 days)^
+^tt_1_0_0101_Description^,^<r_y> Special title: Malangmarang (3 days) can be worn for 3 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0642_Name^,^Appearance: The training suit of the day^
+^CA_ST_CM_0642_Description^,^We will make memories of the day for everyone wearing this sweatshirt! The product that was famous for the advertisement It is said that the price of the fairies is made in the hands of the fairy and the price is astronomical After a few years the light is not faded and there is a magic that maintains cleanliness^
+^CA_ST_CM_0643_Name^,^Appearance: Western (30 days)^
+^CA_ST_CM_0644_Name^,^Appearance: Summer Festival Swimsuit! (30 days)^
+^CA_ST_CM_0645_Name^,^Appearance: Velop Costume (30 days)^
+^CA_ST_CM_0646_Name^,^Appearance: Tongbok Narin (30 days)^
+^CA_ST_CM_0647_Name^,^Appearance: Darkness Costume (30 days)^
+^CA_ST_CM_0643_Description^,^<r_y> Appearance: Western (30 days) can be worn for 30 days and it will automatically disappear after <br> From <br> Time is spent </R_Y>^
+^CA_ST_CM_0644_Description^,^<r_y> Appearance: Summer Festival Swimwear (30 days) can be worn for 30 days and it will automatically disappear after <br> From the moment you come in <br> time is spent </R_Y>^
+^CA_ST_CM_0645_Description^,^<r_y> Appearance: Velop Costume (30 days) can be worn for 30 days and it will be automatically disappeared after <br> From the moment you come in <br> time is spent </R_Y>^
+^CA_ST_CM_0646_Description^,^<r_y> Appearance: Tongbok Narin (30 days) can be worn for 30 days and it will automatically disappear after <br> From the moment you come in <br> time is spent </R_Y>^
+^CA_ST_CM_0647_Description^,^<r_y> Appearance: Darkness costumes (30 days) can be worn for 30 days and it will automatically disappear after <br> <br> <UI_G> The slot is mounted From the moment <br> time is consumed </R_Y>^
+^CA_ST_CM_0648_Name^,^Costume: half -axis costume (14 days)^
+^CA_ST_CM_0648_Description^,^<r_y> Costume: The half -axis costumes (14 days) can be worn for 14 days and it will automatically disappear after <br> <br> The time of entering the bag is consumed^
+^CA_ST_CM_0649_Name^,^Appearance: Bull Pajamas (14th)^
+^CA_ST_CM_0650_Name^,^Valope shoulder decoration^
+^CA_ST_CM_0651_Name^,^VALOFE bag^
+^CA_ST_CM_0652_Name^,^VALOFE Weapon (30 days) (Guardian)^
+^CA_ST_CM_0653_Name^,^VALOFE Weapon (30 days) (Berserker)^
+^CA_ST_CM_0654_Name^,^VALOFE Weapon (30 days) (Assassin)^
+^CA_ST_CM_0655_Name^,^VALOFE Weapon (30 days) (Wizard)^
+^CA_ST_CM_0656_Name^,^VALOFE Weapon (30 Days) (Priest)^
+^CA_ST_CM_0657_Name^,^VALOFE Weapon (30 days) (Ranger)^
+^CA_ST_CM_0658_Name^,^VLAOFE Weapon (30 days) (Idol)^
+^CA_ST_CM_0649_Description^,^<r_y> Appearance: The bull pajamas (14 days) can be worn for 14 days and it will automatically disappear after <br> From the moment <br> time is consumed </R_Y>^
+^CA_ST_CM_0650_Description^,^Shoulder decoration with a iconic iconic iconic iconic^
+^CA_ST_CM_0651_Description^,^It is a bag with a symbol of the ? ? giving it a unique feeling^
+^CA_ST_CM_0652_Description^,^<r_y> Valofe weapon (30 days) (Guardian) can be worn for 30 days and automatically disappears after <br> <br> <UI_G> Weapon slot </Ui_g> <br> From the moment you come in <br> time is spent </R_Y>^
+^CA_ST_CM_0653_Description^,^<r_y> Valofe weapon (30 days) (Berserker) can be worn for 30 days and automatically disappears after <br> <br> <UI_G> Weapon slot From the moment you come in <br> time is spent </R_Y>^
+^CA_ST_CM_0654_Description^,^<r_y> Valofe weapon (30 days) (Assassin) can be worn for 30 days and automatically disappears after <br> <br> <UI_G> Weapon slot </Ui_g> <br> From the moment you come in <br> time is spent </R_Y>^
+^CA_ST_CM_0655_Description^,^<r_y> Valofe weapon (30 days) (Wizard) can be worn for 30 days and automatically disappears after <br> <br> <UI_G> Weapon slot From the moment you come in <br> time is spent </R_Y>^
+^CA_ST_CM_0656_Description^,^<r_y> Valofe weapon (30 days) (Priest) can be worn for 30 days and automatically disappears after <br> <br> <UI_G> Weapon slot </Ui_g> <br> From the moment you come in <br> time is spent </R_Y>^
+^CA_ST_CM_0657_Description^,^<r_y> Valofe weapon (30 days) (Ranger) can be worn for 30 days and automatically disappears after <br> <br> <UI_G> Weapon slot </Ui_g> <br> From the moment you come in <br> time is spent </R_Y>^
+^CA_ST_CM_0658_Description^,^<r_y> Valofe weapon (30 days) (Idol) can be worn for 30 days and automatically disappears after <br> <br> <UI_G> Weapon slot From the moment you come in <br> time is spent </R_Y>^
+^tt_1_0_0102_Name^,^Special title: The 7th Anniversary (7th)^
+^tt_1_0_0103_Name^,^Special title: 7777777 (30 days)^
+^tt_1_0_0102_Description^,^<r_y> Special title: The 7th anniversary (7 days) can be worn for 7 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0103_Description^,^<r_y> Special title: 7777777 (30 days) can be worn for 30 days and automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0665_Name^,^Western costume (7 days)^
+^CA_ST_CM_0665_Description^,^<R_Y> Western costumes (7 days) can be worn for 7 days and then automatically disappeared Time is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0666_Name^,^Jecheon Dae Province Costume (7th)^
+^CA_ST_CM_0667_Name^,^Reaper Costume (7th)^
+^CA_ST_CM_0668_Name^,^Valov costume (7 days)^
+^CA_ST_CM_0669_Name^,^Vandal bear costume (7 days)^
+^CA_ST_CM_0670_Name^,^Unicorn costume (7 days)^
+^CA_ST_CM_0671_Name^,^Dignity costume (7 days)^
+^CA_ST_CM_0672_Name^,^Darkness Costume (7 days)^
+^CA_ST_CM_0666_Description^,^<r_y> Jecheon Daebong Costume (7 days) can be worn for 7 days and automatically disappears Time is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0667_Description^,^<r_y> Reaper Costume (7 days) can be worn for 7 days and then automatically disappears Time is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0668_Description^,^<r_y> Ballov costume (7 days) can be worn for 7 days and then automatically disappears Time is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0669_Description^,^<r_y> Vandal bear costume (7 days) can be worn for 7 days and automatically disappears Time is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0670_Description^,^<r_y> Unicorn costumes (7 days) can be worn for 7 days and then automatically disappeared Time is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0671_Description^,^<r_y> Dignity costumes (7 days) can be worn for 7 days and will be automatically disappeared Time is spent from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0672_Description^,^<r_y> Darkness costume (7 days) can be worn for 7 days and automatically disappears Time is spent from the moment you enter the bag </R_Y>^
+^tt_1_0_0010_Name^,^Special title: The ruler of the battlefield^
+^tt_1_0_0010_Description^,^Title obtained by collecting all battlefield fellows^
+^CA_ST_CM_0674_Name^,^Appearance: fishing swimsuit (blue) (7 days)^
+^CA_ST_CM_0675_Name^,^Appearance: Fishing Suit Swimsuit (County Color) (7th)^
+^CA_ST_CM_0676_Name^,^Appearance: fishing swimsuit (white) (7 days)^
+^CA_ST_CM_0677_Name^,^Appearance: fishing swimsuit (black) (7 days)^
+^CA_ST_CM_0674_Description^,^<r_y> Appearance: Fishing swimsuit (blue) (7 days) can be worn for 7 days and then automatically disappears <br> <UI_G> It is mounted on the slot </UI_G> <br> Time is spent from the moment </R_Y>^
+^CA_ST_CM_0675_Description^,^<r_y> Appearance: Fishing Swimsuit (7 days) (7 days) can be worn for 7 days and it will be automatically disappeared Time is spent from the moment </R_Y>^
+^CA_ST_CM_0676_Description^,^<r_y> Appearance: The fishing swimsuit (white) (7 days) can be worn for 7 days and then automatically disappears <br> <UI_G> It is mounted on the slot </Ui_g> <br> Time is spent from the moment </R_Y>^
+^CA_ST_CM_0677_Description^,^<r_y> Appearance: Fishing swimsuit (black) (7 days) can be worn for 7 days and then automatically disappears Time is consumed from the moment you come in </R_Y>^
+^tt_1_0_0104_Name^,^Special title: Feng Pung (14th)^
+^tt_1_0_0105_Name^,^Appearance: balloon costume (1 day)^
+^tt_1_0_0106_Name^,^Appearance: balloon costume (14 days)^
+^tt_1_0_0107_Name^,^Appearance: Balloon costume (indefinite)^
+^tt_1_0_0104_Description^,^<r_y> Special title: Feng Pung (14 days) can be worn for 14 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0105_Description^,^<r_y> Appearance: The balloon costume (1 day) can be worn for one day and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0106_Description^,^<r_y> Appearance: The balloon costume (14 days) can be worn for 14 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0107_Description^,^At the moment of wearing the body feels transparent with the power of magic My body is a balloon and the balloon is my body I have a body like this Everybody is looking at me I believe that there will never be a bursting or winding^
+^CA_ST_CM_0681_Name^,^Appearance: balloon costume (1 day)^
+^CA_ST_CM_0682_Name^,^Appearance: balloon costume (14 days)^
+^CA_ST_CM_0683_Name^,^Appearance: Balloon costume (indefinite)^
+^CA_ST_CM_0681_Description^,^<r_y> Appearance: The balloon costume (1 day) can be worn for one day and then automatically disappears <br> <UI_G> It is mounted on the appearance slot </UI_G> <br> This is consumed </R_Y>^
+^CA_ST_CM_0682_Description^,^<r_y> Appearance: The balloon costume (7 days) can be worn for 7 days and then automatically disappears <br> <UI_G> It is mounted on the appearance slot </UI_G> <br> This is consumed </R_Y>^
+^CA_ST_CM_0683_Description^,^<UI_G> It is mounted on the appearance slot and can be used indefinitely  </ui_g>^
+^EV_ST_CM_0220_Name^,^Icarus Eternal Ring (God)^
+^EV_ST_CM_0220_Description^,^A gift of gratitude to a user who achieved level 70^
+^tt_1_0_0108_Name^,^Special Title: Robot Maker (14th)^
+^EV_ST_CM_0221_Name^,^Appearance: Ika Sports Jersey (indefinitely)^
+^EV_ST_CM_0222_Name^,^Appearance: Ruth Sports jersey (indefinite)^
+^EV_ST_CM_0223_Name^,^Appearance: cheering clothes (14 days)^
+^EV_ST_CM_0221_Description^,^The sports spirit rises at the moment of wearing^
+^EV_ST_CM_0222_Description^,^The sports spirit rises at the moment of wearing^
+^EV_ST_CM_0223_Description^,^<r_y> Appearance: The cheering suit (14 days) can be worn for 14 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0108_Description^,^<r_y> Special title: The robot maker (14 days) can be worn for 14 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0268_Name^,^Cat awakening tea (14 days)^
+^CA_ST_CM_0268_Description^,^<r_y> Cat awakening tea (14 days) can be worn for 14 days and then automatically disappears <br> Time is consumed from the moment you enter the bag^
+^CA_ST_CM_0269_Name^,^Cat Awakening Kiki (14th)^
+^CA_ST_CM_0269_Description^,^<r_y> Cat Awakening Kiki (14 days) can be worn for 14 days and then automatically disappears <br> Time is consumed from the moment you enter the bag^
+^CA_ST_CM_0270_Name^,^Cat Awakening Lara (14th)^
+^CA_ST_CM_0270_Description^,^<r_y> Cat Awakening Lara (14 days) can be worn for 14 days and then automatically disappears <br> Time is consumed from the moment you enter the bag^
+^CA_ST_CM_0684_Name^,^Valov costume (15 days)^
+^CA_ST_CM_0684_Description^,^<r_y> Ballov costume (15 days) can be worn for 15 days and then automatically disappears <br> The time is consumed from the moment you enter the bag^
+^ca_st_cm_0261_Name^,^Sunglasses (30 days)^
+^ca_st_cm_0261_Description^,^<r_y> sunglasses (30 days) can be worn for 30 days and then automatically disappeared <br> The time is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0659_Name^,^Morning Duck Tube (10 minutes)^
+^CA_ST_CM_0660_Name^,^Sunset Duck Tube (10 minutes)^
+^CA_ST_CM_0661_Name^,^Ocean Duck Tube (10 minutes)^
+^CA_ST_CM_0659_Description^,^<r_y> Morning Duck Tube (10 minutes) can be worn for 10 minutes and then automatically disappears <br> The time is consumed from the moment you enter the bag^
+^CA_ST_CM_0660_Description^,^<r_y> Sunset Duck Tube (10 minutes) can be worn for 10 minutes and then automatically disappears <br> The time is consumed from the moment you enter the bag^
+^CA_ST_CM_0661_Description^,^<r_y> Ocean Duck Tube (10 minutes) can be worn for 10 minutes and then automatically disappears <br> The time is consumed from the moment you enter the bag^
+^tt_1_0_0109_Name^,^Special Title: Today I'm a chef (14th)^
+^tt_1_0_0109_Description^,^<r_y> Special Title: Today I can wear a chef (14 days) for 14 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0685_Name^,^Appearance: Blooming Shark^
+^CA_ST_CM_0685_Description^,^A swimsuit made with the outer shell of the Blooming Shark with a violent sexuality of the deep sea It boasts a strong elasticity^
+^CA_ST_CM_0686_Name^,^Appearance: White Blooming (30 days)^
+^CA_ST_CM_0686_Description^,^<r_y> Appearance: White Blooming (30 days) can be worn for 30 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^PA_ST_0001_Name^,^Icarus wing of power (30 days)^
+^PA_ST_0002_Name^,^Icarus Halo of Power (30 days)^
+^PA_ST_0003_Name^,^Bikini Armor of Power (30 days)^
+^tt_1_0_0110_Name^,^Special title: with Funny (14th)^
+^tt_1_0_0111_Name^,^Special title: Alphaeny's friend (14th)^
+^EV_ST_CM_0687_Name^,^Gangsi Hat (14th)^
+^EV_ST_CM_0688_Name^,^Halloween Reaper (14th)^
+^EV_ST_CM_0689_Name^,^Red Witch Hat (14th)^
+^EV_ST_CM_0690_Name^,^Green Witch Hat (14th)^
+^EV_ST_CM_0691_Name^,^Orange Witch Hat (14th)^
+^EV_ST_CM_0692_Name^,^Witch Wizard Costume (30 days)^
+^EV_ST_CM_0693_Name^,^Halloween Weapon Costume (30 days)^
+^tt_1_0_0112_Name^,^Special title: Fun for me (10 minutes)^
+^tt_1_0_0113_Name^,^Special title: Fun for you (10 minutes)^
+^tt_1_0_0114_Name^,^Special title: We are Fun (10 minutes)^
+^PA_ST_0001_Description^,^<r_y> Icarus wings (30 days) of power can be worn for 30 days and then automatically disappeared <br> <br> Time is consumed from the moment you enter the bag </R_Y>^
+^PA_ST_0002_Description^,^<r_y> Icarus Halo (30 days) of power can be worn for 30 days and automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^PA_ST_0003_Description^,^<r_y> Bikini armor (30 days) of power can be worn for 30 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0110_Description^,^<r_y> Special Title: With Funny (14 days) you can wear it for 14 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0111_Description^,^<r_y> Special Title: Alphaeny's friend (14 days) can be worn for 14 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0687_Description^,^<r_y> Kang City Hat (14 days) can be worn for 14 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0688_Description^,^<r_y> Halloween reaper (14 days) can be worn for 14 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0689_Description^,^<r_y> The red witch hat (14 days) can be worn for 14 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0690_Description^,^<r_y> Green Witch Hat (14 days) can be worn for 14 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0691_Description^,^<r_y> The orange witch hat (14 days) can be worn for 14 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0692_Description^,^<r_y> Witch Witch Water Costume (30 days) can be worn for 30 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0693_Description^,^<r_y> Halloween weapon costumes (30 days) can be worn for 30 days and then automatically disappeared <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0112_Description^,^<r_y> Special title: Fun for me (10 minutes) can be worn for 10 minutes and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0113_Description^,^<r_y> Special title: Fun for you (10 minutes) can be worn for 10 minutes and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0114_Description^,^<r_y> Special title: We are Fun (10 minutes) can be worn for 10 minutes and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0115_Name^,^Special Title: Racing Mania! (30 days)^
+^tt_1_0_0115_Description^,^<r_y> Special Title: Racing Mania! (30 days) can be worn for 30 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^PA_ST_0004_Name^,^Icarus Wings of Intelligence (30 days)^
+^PA_ST_0005_Name^,^Icarus Halo of Intelligence (30 days)^
+^PA_ST_0006_Name^,^Intelligent Bikini Armor (30 days)^
+^PA_ST_0004_Description^,^<r_y> Icarus wings (30 days) of intelligence can be worn for 30 days and then automatically disappeared <br> <br> Time is consumed from the moment you enter the bag </R_Y>^
+^PA_ST_0005_Description^,^<r_y> Icarus Halo (30 days) of intelligence can be worn for 30 days and automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^PA_ST_0006_Description^,^<r_y> Bikini armor (30 days) of intelligence can be worn for 30 days and then automatically disappears <br> <br> Time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0694_Name^,^Halloween penetrating knife (14 days)^
+^EV_ST_CM_0694_Description^,^<r_y> Halloween penetrating knife (14 days) can be worn for 14 days and automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0695_Name^,^Happy pumpkin hat (14th)^
+^EV_ST_CM_0695_Description^,^<r_y> A pleasant pumpkin hat (14 days) can be worn for 14 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0696_Name^,^Burning crow (14 days)^
+^EV_ST_CM_0697_Name^,^Burning helmet (14 days)^
+^EV_ST_CM_0698_Name^,^Burning armor (14 days)^
+^EV_ST_CM_0696_Description^,^Let's fight hotly with the power of the burning crow! <r_y> You can wear it for 14 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0697_Description^,^Let's fight hotly with the power of the burning helmet! <r_y> You can wear it for 14 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0698_Description^,^Let's fight hotly with the power of the burning armor! <r_y> You can wear it for 14 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0116_Name^,^Special title: Endure trials (14 days)^
+^tt_1_0_0116_Description^,^<r_y> You can wear it for 14 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0117_Name^,^Special title: Kaliba Ago Example (14th)^
+^tt_1_0_0117_Description^,^<r_y> You can wear it for 14 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0694_Name^,^Victorian Detective Style (30 days)^
+^CA_ST_CM_0694_Description^,^<r_y> You can wear it for 30 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0118_Name^,^Special title: Apostle of Goddess Parna (14th)^
+^tt_1_0_0118_Description^,^<r_y> You can wear it for 14 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0700_Name^,^Red Santa hat (1 day)^
+^EV_ST_CM_0700_Description^,^<r_y> Red Santa hat (1 day) can be worn for one day and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0701_Name^,^Black Santa Hat (1 Day)^
+^EV_ST_CM_0701_Description^,^<r_y> Black Santa Hat (1 day) can be worn for one day and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0702_Name^,^White Santa Hat (1 Day)^
+^EV_ST_CM_0702_Description^,^<r_y> WHITE Santa Hat (1 day) can be worn for one day and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0695_Name^,^2023 Glasses (30 days)^
+^CA_ST_CM_0695_Description^,^<r_y> 2023 Glasses (30 days) can be worn for 30 days and then automatically disappeared <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0119_Name^,^Special title: National Treasure Artisan (14th)^
+^tt_1_0_0119_Description^,^<r_y> You can wear it for 14 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0703_Name^,^Appearance: White Pajama (1 Day)^
+^EV_ST_CM_0704_Name^,^Appearance: White Pajama (7th)^
+^EV_ST_CM_0705_Name^,^Appearance: White Pajama (14th)^
+^EV_ST_CM_0706_Name^,^Appearance: White Pajama (Unlimited)^
+^EV_ST_CM_0707_Name^,^Appearance: Black Pajama (1 Day)^
+^EV_ST_CM_0708_Name^,^Appearance: Black Pajama (7th)^
+^EV_ST_CM_0709_Name^,^Appearance: Black Pajama (14th)^
+^EV_ST_CM_0710_Name^,^Appearance: Black Pajama (Unlimited)^
+^EV_ST_CM_0703_Description^,^<r_y> Appearance: White Pajama (1 day) can be worn for one day and then automatically disappears <br> <UI_G> It is mounted on the slot </UI_G> <br> This is consumed </R_Y>^
+^EV_ST_CM_0704_Description^,^<r_y> Appearance: The white tiger pajama (7 days) can be worn for 7 days and then automatically disappears <br> <UI_G> It is mounted on the slot </Ui_g> <br> This is consumed </R_Y>^
+^EV_ST_CM_0705_Description^,^<r_y> Appearance: White Pajama (14 days) can be worn for 14 days and then automatically disappears This is consumed </R_Y>^
+^EV_ST_CM_0706_Description^,^<r_y> Appearance: White Pajama (unlimited) can be worn without a period of time </R_Y>^
+^EV_ST_CM_0707_Description^,^<r_y> Appearance: Black Pajamas (1 day) can be worn for 1 day and then automatically disappears This is consumed </R_Y>^
+^EV_ST_CM_0708_Description^,^<r_y> Appearance: Black Pajama (7 days) can be worn for 7 days and then automatically disappears This is consumed </R_Y>^
+^EV_ST_CM_0709_Description^,^<r_y> Appearance: Black Pajama (14 days) can be worn for 14 days and then automatically disappears This is consumed </R_Y>^
+^EV_ST_CM_0710_Description^,^<r_y> Appearance: Black Pajama (unlimited) can be worn without a period limit </R_Y>^
+^tt_1_0_0120_Name^,^Special Title: Thorough preparation (7 days)^
+^tt_1_0_0120_Description^,^<r_y> You can wear it for 7 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0711_Name^,^Appearance Hanbok_Tae (30 days)^
+^EV_ST_CM_0712_Name^,^Appearance hanbok_Jung (30 days)^
+^EV_ST_CM_0713_Name^,^Appearance Hanbok_Lim (30 days)^
+^EV_ST_CM_0714_Name^,^Appearance Hanbok_Male (30 days)^
+^EV_ST_CM_0715_Name^,^Appearance hanbok_huang (30 days)^
+^EV_ST_CM_0711_Description^,^<r_y> Appearance: Hanbok_Tae (30 days) can be worn for 30 days and can be worn It is automatically disappeared Time is consumed from the moment you enter </R_Y>^
+^EV_ST_CM_0712_Description^,^<r_y> Appearance: Hanbok_Middle (30 days) can be worn for 30 days and can be worn It is automatically disappeared Time is consumed from the moment you enter </R_Y>^
+^EV_ST_CM_0713_Description^,^<r_y> Appearance: Hanbok_Im (30 days) can be worn for 30 days and can be worn It is automatically disappeared Time is consumed from the moment you enter </R_Y>^
+^EV_ST_CM_0714_Description^,^<r_y> Appearance: Hanbok_Name (30 days) can be worn for 30 days and can be worn It is automatically disappeared Time is consumed from the moment you enter </R_Y>^
+^EV_ST_CM_0715_Description^,^<r_y> Appearance: Hanbok_ Hwang (30 days) can be worn for 30 days and can be worn It is automatically disappeared Time is consumed from the moment you enter </R_Y>^
+^tt_1_0_0121_Name^,^Special title: Foolish lover (3 days)^
+^tt_1_0_0121_Description^,^<r_y> You can wear it for 3 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0122_Name^,^Special title: Prepared Lovers (7th)^
+^tt_1_0_0122_Description^,^<r_y> You can wear it for 7 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0123_Name^,^Special title: Perfect Lover (14th)^
+^tt_1_0_0123_Description^,^<r_y> You can wear it for 14 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^CA_ST_CM_0700_Name^,^Candy weapon costume (3 days)^
+^CA_ST_CM_0700_Description^,^<r_y> Candy weapon costumes (3 days) can be worn for 3 days and can be worn and will be automatically disappeared <br> <UI_G> Weapon slot Time is spent from the moment </R_Y>^
+^CA_ST_CM_0701_Name^,^Candy weapon costume (7 days)^
+^CA_ST_CM_0701_Description^,^<r_y> Candy weapon costumes (7 days) can be worn for 7 days and can be worn and will be automatically disappeared <br> <UI_G> Weapon slot Time is spent from the moment </R_Y>^
+^CA_ST_CM_0702_Name^,^Candy weapon costume (14 days)^
+^CA_ST_CM_0702_Description^,^<r_y> Candy Weapon Costume (14 days) can be worn for 14 days and can be worn and it will be automatically disappeared <br> <UI_G> Weapon slots Time is spent from the moment </R_Y>^
+^CA_ST_CM_0703_Name^,^Candy weapon costume (30 days)^
+^CA_ST_CM_0703_Description^,^<r_y> Candy weapon costumes (30 days) can be worn for 30 days and can be worn and will be automatically disappeared <br> <UI_G> Weapon slots Time is spent from the moment </R_Y>^
+^CA_ST_CM_0704_Name^,^Cupid Ring (3 days)^
+^CA_ST_CM_0704_Description^,^<R_Y> Cupid ring (3 days) can be worn for 3 days and can be worn and it will be automatically disappeared <br> <UI_G> It is mounted on the subcase slot </UI_G> <br> Time is spent from the moment </R_Y>^
+^CA_ST_CM_0705_Name^,^Cupid Ring (7 days)^
+^CA_ST_CM_0705_Description^,^<R_Y> Cupid Ring (7 days) can be worn for 7 days and can be worn and it will be automatically disappeared <br> <UI_G> It is mounted on the subcase slot </UI_G> <br> Time is spent from the moment </R_Y>^
+^CA_ST_CM_0706_Name^,^Cupid Ring (14th)^
+^CA_ST_CM_0706_Description^,^<R_Y> Cupid Ring (14 days) can be worn for 14 days and can be worn and it will be automatically disappeared <br> <UI_G> It is mounted on the slot </Ui_g> <br> Time is spent from the moment </R_Y>^
+^EV_ST_CM_0721_Name^,^Appearance: golden sheet metal armor^
+^EV_ST_CM_0721_Description^,^<UI_G> It is mounted on the appearance slot </UI_G>^
+^EV_ST_CM_0722_Name^,^Other case (14 days)^
+^EV_ST_CM_0722_Description^,^<r_y> Other cases (14 days) can be worn for 14 days and then automatically disappeared <br> <UI_G> It is consumed </R_y>^
+^EV_ST_CM_0723_Name^,^Valube shoulder decoration (14 days)^
+^EV_ST_CM_0723_Description^,^<r_y> Valofe shoulder decoration (14 days) can be worn for 14 days and then automatically disappears <br> <UI_G> The shoulder decoration slot is mounted </Ui_g> <br> This is consumed </R_Y>^
+^EV_ST_CM_0724_Name^,^VALOFE Bag (14th)^
+^EV_ST_CM_0724_Description^,^<r_y> Valofe bag (14 days) can be worn for 14 days and then automatically disappears <br> <UI_G> It is consumed </R_y>^
+^EV_ST_CM_0725_Name^,^VALOFE costume (14 days)^
+^EV_ST_CM_0725_Description^,^<r_y> Valope costume (14 days) can be worn for 14 days and then automatically disappears <br> <UI_G> It is mounted on the appearance slot It is </R_Y>^
+^EV_ST_CM_0726_Name^,^Lucky Goyang (14th)^
+^EV_ST_CM_0726_Description^,^<r_y> The lucky luck (14 days) can be worn for 14 days and then automatically disappears Time is consumed </R_Y>^
+^tt_1_0_0124_Name^,^Special Title: Today I am a magical girl (14th)^
+^tt_1_0_0124_Description^,^<r_y> You can wear it for 14 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0727_Name^,^Silver Igum Armor (30 days)^
+^EV_ST_CM_0728_Name^,^Bikini Armor (30 days)^
+^EV_ST_CM_0727_Description^,^<r_y> You can wear it for 30 days and then automatically disappears <br> <UI_G> It is mounted on the appearance decorative slot^
+^EV_ST_CM_0728_Description^,^<r_y> You can wear it for 30 days and then automatically disappears <br> <UI_G> The underwear decorative slot is mounted^
+^EV_ST_CM_0729_Name^,^Appearance: Fashionista (7 days)^
+^EV_ST_CM_0729_Description^,^<r_y> Appearance: Fashionista (7 days) can be worn for 7 days and then automatically disappears <br> <br> Time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0730_Name^,^Head: Sungrass (7 days)^
+^EV_ST_CM_0730_Description^,^<r_y> Head: Sunglass (7 days) can be worn for 7 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0731_Name^,^Ceremony: Emergency Wings (7 days)^
+^EV_ST_CM_0731_Description^,^<r_y> Ceremony: Emergency Wings (7 days) can be worn for 7 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0732_Name^,^Appearance: Blue Blooming (7 days)^
+^EV_ST_CM_0732_Description^,^<r_y> Appearance: Blue Blooming (7 days) can be worn for 7 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0733_Name^,^Ceremony: Ocean Duck Tube (7th)^
+^EV_ST_CM_0733_Description^,^<r_y> Ceremony: Ocean Duck Tube (7 days) can be worn for 7 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0734_Name^,^Weapon: Ice Cream Weapon Costume (7 days)^
+^EV_ST_CM_0734_Description^,^<r_y> Weapon: Ice Cream Weapon Costume (7 days) can be worn for 7 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0735_Name^,^Appearance: Darkness (7 days)^
+^EV_ST_CM_0735_Description^,^<r_y> Appearance: Darkness (7 days) can be worn for 7 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0736_Name^,^Shoulder decoration: crow (7 days)^
+^EV_ST_CM_0736_Description^,^<r_y> Shoulder Decoration: The crow (7 days) can be worn for 7 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0737_Name^,^Ceremony: Darkness Wings (7 days)^
+^EV_ST_CM_0737_Description^,^<r_y> Ceremony: Darkness Wings (7 days) can be worn for 7 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0738_Name^,^Appearance: Warm padding (7 days)^
+^EV_ST_CM_0738_Description^,^<r_y> Appearance: Warm padding (7 days) can be worn for 7 days and then automatically disappears <br> <br> Time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0739_Name^,^Shoulder decoration: Olafu (7 days)^
+^EV_ST_CM_0739_Description^,^<r_y> Shoulder Decoration: Olaffu (7 days) can be worn for 7 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0740_Name^,^Head: Black Mask (7 days)^
+^EV_ST_CM_0740_Description^,^<r_y> Head: The black mask (7 days) can be worn for 7 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0741_Name^,^Appearance: Hangawijeon Tongbok (7 days)^
+^EV_ST_CM_0741_Description^,^<r_y> Appearance: Hangawi Tongbok (7 days) can be worn for 7 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0742_Name^,^Head: Taegeuk Hood (7 days)^
+^EV_ST_CM_0742_Description^,^<r_y> Head: The Taegeuk Hood (7 days) can be worn for 7 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0743_Name^,^Weapon: Traditional weapon costume (7 days)^
+^EV_ST_CM_0743_Description^,^<r_y> Weapon: Traditional weapon costumes (7 days) can be worn for 7 days and then automatically disappeared <br> <br> Time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0744_Name^,^Appearance: White Pajama^
+^EV_ST_CM_0744_Description^,^A warm and powerful pajamida flows overflowing with the energy of the white tiger It's not your head^
+^EV_ST_CM_0745_Name^,^Appearance: Black Pajama^
+^EV_ST_CM_0745_Description^,^A warm and powerful pajamida flows overflowing with the energy of black It's not your head^
+^EV_ST_CM_0746_Name^,^Etcutation: Morning Duck Tube^
+^EV_ST_CM_0746_Description^,^It is a duck tube full of excitement from fresh air and travel in summer morning! I want to run to the sea right now^
+^EV_ST_CM_0747_Name^,^Etc^
+^EV_ST_CM_0747_Description^,^The sunset is a duck tube full of warm air and a relaxed time! I want to be relaxed on the water right now^
+^EV_ST_CM_0748_Name^,^Etc^
+^EV_ST_CM_0748_Description^,^It is a duck tube full of glitter and joy of the green sea! I want to go to play with my friends^
+^tt_1_0_0125_Name^,^Special Title: VIP member of Andore (3 days)^
+^tt_1_0_0125_Description^,^<r_y> Special Title: Andore's VIP member (3 days) can be worn for 3 days and then automatically disappears <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0749_Name^,^Appearance: Wedding Machi (30 days)^
+^EV_ST_CM_0749_Description^,^<r_y> Appearance: Traditional weapon costumes (30 days) can be worn for 30 days and then automatically disappeared <br> <br> Time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0750_Name^,^Appearance: Moon Night's Training Dress^
+^EV_ST_CM_0750_Description^,^I feel like I want to run with a loved one on the night of the moon^
+^EV_ST_CM_0751_Name^,^Appearance: Star Night Training Suit^
+^EV_ST_CM_0751_Description^,^I feel like I want to run with a loved one on a starry night^
+^EV_ST_CM_0752_Name^,^Appearance: Uniform Martini^
+^EV_ST_CM_0752_Description^,^The psychiatric and bodies are unified by just an angle^
+^EV_ST_CM_0753_Name^,^Appearance: Military X^
+^EV_ST_CM_0753_Description^,^Natural -friendly costumes that become one with nature make the great nature^
+^EV_ST_CM_0754_Name^,^Appearance: Icaman Red^
+^EV_ST_CM_0754_Description^,^From today I will be Ikaman Red!^
+^EV_ST_CM_0755_Name^,^Appearance: Icaman Black^
+^EV_ST_CM_0755_Description^,^From today I will be Ikaman Black!^
+^EV_ST_CM_0756_Name^,^Appearance: Icaman Blue^
+^EV_ST_CM_0756_Description^,^From today I will be Ikaman Blue!^
+^EV_ST_CM_0757_Name^,^Appearance: Icaman Yellow^
+^EV_ST_CM_0757_Description^,^Starting today I am Ikamen Yellow!^
+^EV_ST_CM_0758_Name^,^Appearance: Icaman Pink^
+^EV_ST_CM_0758_Description^,^From today I will be Ikaman Pink!^
+^EV_ST_CM_0759_Name^,^Appearance: Icaman White^
+^EV_ST_CM_0759_Description^,^From today I will be Ikaman White!^
+^EV_ST_CM_0760_Name^,^Appearance: Icaman Purple^
+^EV_ST_CM_0760_Description^,^Starting today I will be Ika Man Purple!^
+^EV_ST_CM_0761_Name^,^Appearance: Icaman Green^
+^EV_ST_CM_0761_Description^,^Starting today I am Ikaman Green!^
+^EV_ST_CM_0762_Name^,^Vandal Gom Bark and Goodnight (7th)^
+^EV_ST_CM_0762_Description^,^<r_y> Vandal Gombak and Goodnight can be worn for 7 days and then automatically disappeared <br> <br> Time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0763_Name^,^Academic goods weapon costumes (7 days)^
+^EV_ST_CM_0763_Description^,^<r_y> School supplies weapon costumes can be worn for 7 days and then automatically disappeared <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0764_Name^,^Unicorn and Goodnight (7th)^
+^EV_ST_CM_0764_Description^,^<r_y> Unicorn and Goodnight can be worn for 7 days and then automatically disappeared <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0126_Name^,^Special Title: Original Master of origami (7 days)^
+^tt_1_0_0126_Description^,^<r_y> Special Title: The origami master can be used for 7 days and then automatically disappears The origami master (7 days) is consumed from the moment you enter the bag </R_Y>^
+^tt_1_0_0127_Name^,^Special Title: Constellation Keeper (14th)^
+^tt_1_0_0127_Description^,^<r_y> Special Title: The constellation geographic can be used for 14 days and then automatically disappears <br> <br> The time is consumed from the moment you enter the bag </R_Y>^
+^EV_ST_CM_0765_Name^,^Aloha coconut costume^
+^EV_ST_CM_0765_Description^,^If you hang a hula with a coconut flavored flowers this is a paradise on earth?! <br> After installing the action costume the character takes a special pose by using the <UI_G> [Costume Pose] </ui_g> in the emotional expression of <UI_G> action (L) </ui_g>^
+^EV_ST_CM_0766_Name^,^Aloha Jabotikaba Costume^
+^EV_ST_CM_0766_Description^,^If you hang a hula dancing with a flower with a jabotikaba flavor this is a paradise on earth?! <br> After installing the action costume the character takes a special pose by using the <UI_G> [Costume Pose] </ui_g> in the emotional expression of <UI_G> action (L) </ui_g>^
+^EV_ST_CM_0767_Name^,^Aloha Rich Costume^
+^EV_ST_CM_0767_Description^,^If you hang a hula dancing with a rich flowers around your neck this is a paradise on earth?! <br> After installing the action costume the character takes a special pose by using the <UI_G> [Costume Pose] </ui_g> in the emotional expression of <UI_G> action (L) </ui_g>^
+^EV_ST_CM_0768_Name^,^Appearance: Desert Exploration Costume^
+^EV_ST_CM_0768_Description^,^Dress of Icarus Desert Exploration Can you find the desert treasure better?^
+^EV_ST_CM_0769_Name^,^Appearance: Sea Exploration Costume^
+^EV_ST_CM_0769_Description^,^Dress of Icarus Sea Expedition Can you find the treasure of the sea better?^
+^EV_ST_CM_0770_Name^,^Appearance: Jungle Exploration Costume^
+^EV_ST_CM_0770_Description^,^Icarus Jungle Exploration Dress Can you find the treasure of the jungle better?^
+^tt_1_0_0128_Name^,^Special Title: Lavini Town Chuseok Festival (3 days)^
+^tt_1_0_0128_Description^,^<r_y> Special Title: Lavini Town Chuseok Festival is available for 3 days and it will automatically disappear <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0129_Name^,^Special Title: Lavini Town Chuseok Festival (7th)^
+^tt_1_0_0129_Description^,^<r_y> Special Title: Lavini Town Chuseok Festival is available for 7 days and it will automatically disappear <br> <br> It takes time from the moment you enter the bag </R_Y>^
+^tt_1_0_0130_Name^,^Título especial: O primeiro passo do exorcista (14º)^
+^tt_1_0_0130_Description^,^<R_Y>Título especial: o primeiro passo do Exorcista pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^tt_1_0_0131_Name^,^Título Especial: Novo Exorcista (14º)^
+^tt_1_0_0131_Description^,^<R_Y>Título especial: o novo Exorcista pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que ele entra na bolsa.</R_Y>^
+^tt_1_0_0132_Name^,^Título Especial: Exorcista Profissional (14 dias)^
+^tt_1_0_0132_Description^,^<R_Y>Título especial: O Exorcista Profissional pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^tt_1_0_0133_Name^,^Título Especial: Exorcista Lendário (14º)^
+^tt_1_0_0133_Description^,^<R_Y>Título especial: O Exorcista Lendário pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0771_Name^,^Capa de Combate (30 dias)^
+^EV_ST_CM_0771_Description^,^<R_Y>A Capa do Oficial de Combate pode ser usada por 30 dias e desaparecerá automaticamente depois disso.<br><br>O tempo é consumido no momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0772_Name^,^Capa de produção (30 dias)^
+^EV_ST_CM_0772_Description^,^<R_Y>O Crafting Officer's Cloak pode ser usado por 30 dias e desaparecerá automaticamente depois disso.<br><br>O tempo é consumido no momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0773_Name^,^Capa de promoção (30 dias)^
+^EV_ST_CM_0773_Description^,^<R_Y>A capa de passeio do oficial de treinamento pode ser usada por 30 dias e depois desaparece automaticamente.<br><br>O tempo é consumido no momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0774_Name^,^Manto Fantasma (7 dias)^
+^EV_ST_CM_0774_Description^,^<R_Y>O manto gótico pode ser usado por 7 dias e desaparecerá automaticamente depois disso.<br><br>O tempo é consumido no momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0775_Name^,^Manto Fantasma (14 dias)^
+^EV_ST_CM_0775_Description^,^<R_Y>O manto gótico pode ser usado por 14 dias, após o qual desaparecerá automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0776_Name^,^Kiki (espírito de guardião de batalha enfraquecido) (14 dias)^
+^EV_ST_CM_0776_Description^,^<R_Y>Kiki (espírito guardião de batalha enfraquecido) pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0777_Name^,^Kiki (Espírito Guardião de Combate Recuperado) (14 dias)^
+^EV_ST_CM_0777_Description^,^<R_Y>Kiki (Espírito Guardião de Combate Recuperado) pode ser usado por 14 dias e desaparecerá automaticamente depois disso.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0778_Name^,^Kiki (O Espírito do Espírito de Luta) (14º)^
+^EV_ST_CM_0778_Description^,^<R_Y>Kiki (Espírito Guardião Energético de Combate) pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0779_Name^,^Kiki (espírito lendário do guardião da batalha) (14 dias)^
+^EV_ST_CM_0779_Description^,^<R_Y>Kiki (Legendary Combat Guardian Spirit) pode ser usado por 14 dias e desaparecerá automaticamente depois disso.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0780_Name^,^Cha Cha (Espírito Guardião Nutritivo Enfraquecido) (14 dias)^
+^EV_ST_CM_0780_Description^,^<R_Y>Cha Cha (espírito guardião nutridor enfraquecido) pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0781_Name^,^Cha Cha (Espírito Guardião Nutritivo Restaurado) (14 dias)^
+^EV_ST_CM_0781_Description^,^<R_Y>Cha Cha (Restored Nurturing Guardian Spirit) pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0782_Name^,^Cha Cha (o espírito guardião de Ki Woon-chan) (14º)^
+^EV_ST_CM_0782_Description^,^<R_Y>Cha-Cha (Empowering Nurturing Guardian Spirit) pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y> ^
+^EV_ST_CM_0783_Name^,^Cha Cha (Legendary Nurturing Guardian Spirit) (14 dias)^
+^EV_ST_CM_0783_Description^,^<R_Y>Cha Cha (Legendary Nurturing Guardian Spirit) pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0784_Name^,^ Didi (espírito guardião da produção enfraquecido) (14º)^
+^EV_ST_CM_0784_Description^,^<R_Y>Didi (espírito guardião de fabricação enfraquecido) pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0785_Name^,^Dedee (espírito guardião de criação recuperado) (14 dias)^
+^EV_ST_CM_0785_Description^,^<R_Y>Didi (Recovered Crafting Guardian Spirit) pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0786_Name^,^Diddy (espírito guardião da produção de Ki Woon-chan) (14º)^
+^EV_ST_CM_0786_Description^,^<R_Y>Dedee (Espírito Guardião de Criação Energética) pode ser usado por 14 dias e desaparecerá automaticamente depois disso.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0787_Name^,^Diddy (Lendário Crafting Guardian Spirit) (14º)^
+^EV_ST_CM_0787_Description^,^<R_Y>Didi (Legendary Crafting Guardian Spirit) pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0788_Name^,^Paper Bag :D^
+^EV_ST_CM_0788_Description^,^<R_Y>Um saco de papel com um rosto cheio de felicidade.</R_Y>^
+^EV_ST_CM_0789_Name^,^Paper Bag :|^
+^EV_ST_CM_0789_Description^,^<R_Y>Saco de papel com formato de rosto fino.</R_Y>^
+^EV_ST_CM_0790_Name^,^Paper Bag >(^
+^EV_ST_CM_0790_Description^,^<R_Y>Saco de papel com cara de raiva intacto.</R_Y>^
+^EV_ST_CM_0791_Name^,^Paper Bag :X^
+^EV_ST_CM_0791_Description^,^<R_Y>Um saco de papel com a forma de uma cara feia.</R_Y>^
+^EV_ST_CM_0792_Name^,^Paper Bag :O^
+^EV_ST_CM_0792_Description^,^<R_Y>Um saco de papel com o formato de um rosto surpreso.</R_Y>^
+^EV_ST_CM_0793_Name^,^Paper Bag ;)^
+^EV_ST_CM_0793_Description^,^<R_Y>Um saco de papel com um rosto piscando intacto.</R_Y>^
+^EV_ST_CM_0794_Name^,^Traje de expedição no deserto (14 dias)^
+^EV_ST_CM_0794_Description^,^<R_Y>O Traje de Expedição no Deserto (14 dias) pode ser usado por 14 dias, após os quais desaparecerá automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0795_Name^,^Traje de Expedição do Prado (14º)^
+^EV_ST_CM_0795_Description^,^<R_Y>O Traje de Expedição do Prado (14 dias) pode ser usado por 14 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0796_Name^,^Traje da Expedição do Abismo (14º)^
+^EV_ST_CM_0796_Description^,^<R_Y>O Traje de Expedição do Abismo (14 dias) pode ser usado por 14 dias, após os quais desaparecerá automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa..</R_Y>^
+^EV_ST_CM_0797_Name^,^Aparência: Explorador Antigo (3 dias)^
+^EV_ST_CM_0797_Description^,^<R_Y>Aparência: Ancient Explorer (3 dias) pode ser usado por 3 dias e depois desaparece automaticamente.<br><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0798_Name^,^Decoração do ombro: Adorável pyoyo (3 dias)^
+^EV_ST_CM_0798_Description^,^<R_Y>Decoração do ombro: O lindo macacão (3 dias) pode ser usado por 3 dias e depois desaparece automaticamente.<br><br>O tempo é consumido desde o momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0720_Name^,^Roupa interior: Asas Douradas com Bênção da Deusa (7º)^
+^EV_ST_CM_0720_Description^,^Asas douradas feitas com poder mágico para louvar aqueles que colecionaram todos os três tipos de dragões de fadas queridos pela deusa.<br>
+<R_Y>Pode ser usado por 7 dias, depois desaparece automaticamente.
+<UI_G>Equipado no slot de decoração de roupas íntimas.</UI_G><br>O tempo é consumido a partir do momento em que entra na bolsa.</R_Y>^
+^EV_ST_CM_0799_Name^,^Shoulder Ornament: Red Santa Sparrow (1 day)^
+^EV_ST_CM_0799_Description^,^<R_Y>Shoulder Ornament: Red Santa Sparrow can be used for 1 day, after which it automatically disappears.<br><br>Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0800_Name^,^Shoulder Ornament: Blue Santa Sparrow (1 day)^
+^EV_ST_CM_0800_Description^,^<R_Y>Shoulder Ornament: The blue Santa Sparrow can be used for 1 day and then automatically disappears.<br><br>Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0801_Name^,^Shoulder Ornament: Golden Santa Sparrow (1 day)^
+^EV_ST_CM_0801_Description^,^<R_Y>Shoulder Ornament: Golden Santa Sparrow can be used for 1 day, after which it automatically disappears.<br><br>Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0802_Name^,^Shoulder Ornament: Golden Santa Sparrow (7 days)^
+^EV_ST_CM_0802_Description^,^<R_Y>Shoulder Ornament: Golden Santa Sparrow can be used for 7 days, after which it automatically disappears.<br><br>Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0803_Name^,^Shoulder Ornament: Golden Santa Sparrow (14 days)^
+^EV_ST_CM_0803_Description^,^<R_Y>Shoulder Ornament: Golden Santa Sparrow can be used for 14 days, after which it automatically disappears.<br><br>Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0804_Name^,^Shoulder Ornament: Dark Santa Sparrow (1 day)^
+^EV_ST_CM_0804_Description^,^<R_Y>Shoulder Ornament: Dark Santa Sparrow can be used for 1 day, after which it automatically disappears.<br><br>Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0805_Name^,^Shoulder Ornament: Dark Santa Sparrow (7 days)^
+^EV_ST_CM_0805_Description^,^<R_Y>Shoulder Ornament: Dark Santa Sparrow can be used for 7 days, after which it automatically disappears.<br><br>Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0806_Name^,^Shoulder Ornament: Dark Santa Sparrow (14 days)^
+^EV_ST_CM_0806_Description^,^<R_Y>Shoulder Ornament: Dark Santa Sparrow can be used for 14 days, after which it automatically disappears.<br><br>Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0807_Name^,^Shoulder Ornament: Golden Santa Sparrow (30 days)^
+^EV_ST_CM_0807_Description^,^<R_Y>Shoulder Ornament: Golden Santa Sparrow can be used for 30 days, after which it automatically disappears.<br><br>Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0808_Name^,^Shoulder Ornament: Dark Santa Sparrow (30 days)^
+^EV_ST_CM_0808_Description^,^<R_Y>Shoulder Ornament: Dark Santa Sparrow can be used for 30 days, after which it automatically disappears.<br><br>Time is consumed from the moment it is placed in the bag.</R_Y>^
+^tt_1_0_0134_Name^,^Special Title: Snowball Drawing Expert (7 days)^
+^tt_1_0_0134_Description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^tt_1_0_0135_Name^,^Special Title: Rice Cake Rabbit Helper (7 days)^
+^tt_1_0_0135_Description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0809_Name^,^Black Rice Cake Rabbit Pajamas (30 Days)^
+^EV_ST_CM_0809_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0810_Name^,^White rice cake rabbit pajamas (30 days)^
+^EV_ST_CM_0810_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0811_Name^,^Pink rabbit pajamas (30 days)^
+^EV_ST_CM_0811_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0812_Name^,^Black rice cake rabbit pajamas (1 day)^
+^EV_ST_CM_0812_Description^,^<R_Y>Can be worn for 1 day, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0813_Name^,^White rice cake rabbit pajamas (1 day)^
+^EV_ST_CM_0813_Description^,^<R_Y>Can be worn for 1 day, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0814_Name^,^Pink rabbit pajamas (1 day)^
+^EV_ST_CM_0814_Description^,^<R_Y>Can be worn for 1 day, then disappears automatically.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^CA_ST_CM_0707_Name^,^2023 Glasses (30 days)^
+^CA_ST_CM_0707_Description^,^<R_Y>The 2023 Glasses (30 days) can be worn for 30 days, after which they disappear automatically.<br><br> Time is consumed from the moment they are placed in the bag.</R_Y>^
+^tt_1_0_0136_name^,^Special title: The one who walks in memories (7 days)^
+^tt_1_0_0136_description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0815_Name^,^Spring Wreath of the Festival (1 day)^
+^EV_ST_CM_0815_Description^,^<R_Y>Can be worn for 1 day, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0816_Name^,^Summer Wreath of the Festival (1 day)^
+^EV_ST_CM_0816_Description^,^<R_Y>Can be worn for 1 day, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0817_Name^,^Autumn Wreath of the Festival (1 day)^
+^EV_ST_CM_0817_Description^,^<R_Y>Can be worn for 1 day, then disappears automatically.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0818_Name^,^Winter Wreath of the Festival (1 day)^
+^EV_ST_CM_0818_Description^,^<R_Y>Can be worn for 1 day, then disappears automatically.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0823_Name^,^Spring Wreath of the Festival (30 days)^
+^EV_ST_CM_0823_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0824_Name^,^Summer Wreath of the Festival (30 days)^
+^EV_ST_CM_0824_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0825_Name^,^Autumn Wreath of the Festival (30 days)^
+^EV_ST_CM_0825_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0826_Name^,^Winter Wreath of the Festival (30 days)^
+^EV_ST_CM_0826_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0827_Name^,^Spring Wreath of the Festival (Unlimited)^
+^EV_ST_CM_0827_Description^,^<R_Y>The Spring Wreath of the Festival (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0828_Name^,^Summer Wreath of Festival (Unlimited)^
+^EV_ST_CM_0828_Description^,^<R_Y>The Festival of Summer Wreath (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0829_Name^,^Autumn Wreath of Festival (Unlimited)^
+^EV_ST_CM_0829_Description^,^<R_Y>Festival Fall Wreath (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0830_Name^,^Festival Winter Wreath (Unlimited)^
+^EV_ST_CM_0830_Description^,^<R_Y>Festive Winter Wreath (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^tt_1_0_0137_name^,^Special title: The one who bloomed (7 days)^
+^tt_1_0_0137_description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0831_name^,^Cherry Blossom Weapon Costume (30 Days)^
+^EV_ST_CM_0832_name^,^Rainbow Wreath (Unlimited)^
+^EV_ST_CM_0833_name^,^Blue Corolla (Unlimited)^
+^EV_ST_CM_0834_name^,^Cherry Blossom Weapon Costume (1 day)^
+^EV_ST_CM_0835_name^,^Cherry Blossom Weapon Costume (7 days)^
+^EV_ST_CM_0831_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0832_Description^,^<R_Y>Rainbow Wreath (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0833_Description^,^<R_Y>The blue corolla (unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0834_Description^,^<R_Y>Can be worn for 1 day, then automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0835_Description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0836_name^,^9th anniversary costume (male) (1 day)^
+^EV_ST_CM_0837_name^,^9th anniversary costume (male) (7 days)^
+^EV_ST_CM_0838_name^,^9th anniversary costume (male) (14 days)^
+^EV_ST_CM_0839_name^,^9th anniversary costume (male) (30 days)^
+^EV_ST_CM_0840_name^,^9th anniversary costume (male)^
+^EV_ST_CM_0841_name^,^9th anniversary costume (female) (1 day)^
+^EV_ST_CM_0842_name^,^9th anniversary costume (female) (7 days)^
+^EV_ST_CM_0843_name^,^9th anniversary costume (female) (14 days)^
+^EV_ST_CM_0844_name^,^9th anniversary costume (female) (30 days)^
+^EV_ST_CM_0845_name^,^9th anniversary costume (female)^
+^EV_ST_CM_0846_name^,^9th anniversary weapon costume (1 day)^
+^EV_ST_CM_0847_name^,^9th anniversary weapon costume (7 days)^
+^EV_ST_CM_0848_name^,^9th anniversary weapon costume (14 days)^
+^EV_ST_CM_0849_name^,^9th anniversary weapon costume (30 days)^
+^EV_ST_CM_0850_name^,^9th anniversary weapon costume^
+^tt_1_0_0138_name^,^Special title: Regular customer (14 days)^
+^tt_1_0_0139_name^,^Special Title: Ecosystem Protector (7 days)^
+^EV_ST_CM_0851_name^,^9th anniversary costume (male)^
+^EV_ST_CM_0852_name^,^9th anniversary weapon costume^
+^EV_ST_CM_0853_name^,^9th anniversary costume (female)^
+^EV_ST_CM_0836_Description^,^<R_Y>Can be worn for 1 day, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0837_Description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0838_Description^,^<R_Y>Can be worn for 14 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0839_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0840_Description^,^<R_Y>The 9th Anniversary Costume (Male) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0841_Description^,^<R_Y>Can be worn for 1 day, then automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0842_Description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0843_Description^,^<R_Y>Can be worn for 14 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0844_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0845_Description^,^<R_Y>The 9th anniversary costume (female) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0846_Description^,^<R_Y>Can be worn for 1 day, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0847_Description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0848_Description^,^<R_Y>Can be worn for 14 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0849_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0850_Description^,^<R_Y>You can wear the 9th anniversary weapon costume for an unlimited period.</R_Y>^
+^tt_1_0_0138_Description^,^<R_Y>Can be worn for 14 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^tt_1_0_0139_Description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0851_Description^,^<R_Y>The 9th anniversary costume (male) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0852_Description^,^<R_Y>The 9th anniversary weapon costume can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0853_Description^,^<R_Y>The 9th Anniversary Costume (Female) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0854_name^,^9th Anniversary Lineta Silver Costume (Female) (1 Day)^
+^EV_ST_CM_0855_name^,^9th Anniversary Lineta Silver Costume (Female) (7 Days)^
+^EV_ST_CM_0856_name^,^9th Anniversary Lineta Silver Costume (Female) (14 Days)^
+^EV_ST_CM_0857_name^,^9th Anniversary Lineta Silver Costume (Female) (30 Days)^
+^EV_ST_CM_0858_name^,^9th Anniversary Lineta Silver Costume (Female) (Unlimited)^
+^EV_ST_CM_0859_name^,^9th Anniversary Lineta Silver Color Costume (Female) (Unlimited)^
+^EV_ST_CM_0860_name^,^9th Anniversary Lineta Wine Costume (Female) (1 Day)^
+^EV_ST_CM_0861_name^,^9th Anniversary Lineta Wine Costume (Female) (7 Days)^
+^EV_ST_CM_0862_name^,^9th anniversary Lineta wine costume (female) (14 days)^
+^EV_ST_CM_0863_name^,^9th Anniversary Lineta Wine Costume (Female) (30 Days)^
+^EV_ST_CM_0864_name^,^9th Anniversary Lineta Wine Costume (Female) (Unlimited)^
+^EV_ST_CM_0865_name^,^9th Anniversary Lineta Wine Costume (Female) (Unlimited)^
+^EV_ST_CM_0866_name^,^9th Anniversary Lineta Aqua Costume (Female) (1 Day)^
+^EV_ST_CM_0867_name^,^9th Anniversary Lineta Aqua Costume (Female) (7 Days)^
+^EV_ST_CM_0868_name^,^9th Anniversary Lineta Aqua Costume (Female) (14th)^
+^EV_ST_CM_0869_name^,^9th Anniversary Lineta Aqua Costume (Female) (30 Days)^
+^EV_ST_CM_0870_name^,^9th Anniversary Lineta Aqua Costume (Female) (Unlimited)^
+^EV_ST_CM_0871_name^,^9th Anniversary Lineta Aqua Costume (Female) (Unlimited)^
+^EV_ST_CM_0872_name^,^ID's Cloud Costume (30 days)^
+^EV_ST_CM_0873_name^,^ID's Milk Costume (30 days)^
+^EV_ST_CM_0874_name^,^ID's Shadow Costume (30 days)^
+^EV_ST_CM_0875_name^,^ID's violet costume (30 days)^
+^EV_ST_CM_0876_name^,^ID's crimson costume (30 days)^
+^EV_ST_CM_0877_name^,^9th Anniversary Crow Costume (Male) (1 Day)^
+^EV_ST_CM_0878_name^,^9th Anniversary Crow Costume (Male) (7 Days)^
+^EV_ST_CM_0879_name^,^9th Anniversary Crow Costume (Male) (14 Days)^
+^EV_ST_CM_0880_name^,^9th Anniversary Crow Costume (Male) (30 Days)^
+^EV_ST_CM_0881_name^,^9th Anniversary Crow Costume (Male) (Unlimited)^
+^EV_ST_CM_0882_name^,^9th Anniversary Crow Costume (Male) (Unlimited)^
+^EV_ST_CM_0883_name^,^Purple ladies and gentleman costume (1 day)^
+^EV_ST_CM_0884_name^,^Carat Ladies Costume (1 Day)^
+^EV_ST_CM_0885_name^,^Sky Lady Costume (1 Day)^
+^EV_ST_CM_0854_Description^,^<R_Y>Can be worn for 1 day, then automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0855_Description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0856_Description^,^<R_Y>Can be worn for 14 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0857_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0858_Description^,^<R_Y>The 9th anniversary Linetta Silver Costume (Female) (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0859_Description^,^<R_Y>The 9th anniversary Linetta Silver Costume (Female) (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0860_Description^,^<R_Y>Can be worn for 1 day, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0861_Description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0862_Description^,^<R_Y>Can be worn for 14 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0863_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0864_Description^,^<R_Y>The 9th Anniversary Linetta Wine Costume (Female) (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0865_Description^,^<R_Y>The 9th Anniversary Linetta Wine Costume (Female) (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0866_Description^,^<R_Y>Can be worn for 1 day, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0867_Description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0868_Description^,^<R_Y>Can be worn for 14 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0869_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0870_Description^,^<R_Y>9th Anniversary Lineta Aqua Costume (Female) (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0871_Description^,^<R_Y>The 9th anniversary Linetta Aqua Costume (Female) (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0872_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0873_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0874_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0875_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0876_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0877_Description^,^<R_Y>Can be worn for 1 day, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0878_Description^,^<R_Y>Can be worn for 7 days, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0879_Description^,^<R_Y>Can be worn for 14 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0880_Description^,^<R_Y>Can be worn for 30 days, after which it automatically disappears.<br><br> Time is consumed from the moment it enters the bag.</R_Y>^
+^EV_ST_CM_0881_Description^,^<R_Y>The 9th Anniversary Crow Costume (Male) (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0882_Description^,^<R_Y>The 9th Anniversary Crow Costume (Male) (Unlimited) can be worn for an unlimited period of time.</R_Y>^
+^EV_ST_CM_0883_Description^,^<R_Y>Can be worn for 1 day, then automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0884_Description^,^<R_Y>Can be worn for 1 day, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^
+^EV_ST_CM_0885_Description^,^<R_Y>Can be worn for one day, after which it automatically disappears.<br><br> Time is consumed from the moment it is placed in the bag.</R_Y>^

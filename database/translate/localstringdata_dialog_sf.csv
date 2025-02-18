@@ -1,0 +1,1023 @@
+t_key,t_korean
+^Dialog_1010000_Title^,^1.2345678901E+22^
+^Dialog_Answer_Common_Title_0^,^End Conversation^
+^Dialog_1010001_Title^,^I'm Crow, head of the Onyx Order. I'm getting you out of here.^
+^Dialog_1010001_Text0^,^I'm Crow, head of the Onyx Order. I'm getting you out of here.^
+^Dialog_1010001_Answer_0_Text^,^To Arms^
+^Dialog_1010001_Answer_1_Text^,^Soul of Ice^
+^Dialog_1010001_Answer_2_Text^,^Titans of the Sky^
+^Dialog_1030001_Title^,^Private Louie^
+^Dialog_1030001_Text0^,^You're our reinforcements? Well, I'll take what I can get...<br><br>This is the Shimmerwood. It may look nice, but it's very close to a braghin camp. With all the noise they're making, I think they're getting ready for an attack.^
+^Dialog_1030001_Answer_0_Text^,^Surviving Elemental^
+^Dialog_1030001_Answer_1_Text^,^Spore Spring Water Town's Crisis^
+^Dialog_1030001_Answer_2_Text^,^Commander Akrashin^
+^Dialog_1030001_Answer_3_Text^,^Return to Start^
+^Dialog_1030001_Answer_10_Text^,^The Braghin^
+^Dialog_1030001_Answer_11_Text^,^The Fairies^
+^Dialog_1030002_Title^,^Elisha^
+^Dialog_1030002_Text0^,^Are you here to save me? Thank Ellora!^
+^Dialog_1030002_Answer_0_Text^,^Realize the race's power^
+^Dialog_1030003_Title^,^Alex the Survivor^
+^Dialog_1030003_Text0^,^Listen to my tale and avenge me. We were lowly assassins scavenging mushrooms in Morenta, until that cursed thing appeared...^
+^Dialog_1030003_Answer_0_Text^,^Truth of the Cold Mines^
+^Dialog_1030004_Title^,^Wise Bagulagul^
+^Dialog_1030004_Text0^,^The mushes of Morenta had to abandon our ancestral home because of a mind disease that spread amongst us. Now we live by the grace of our human protectors, but someday we will return to our home.^
+^Dialog_1030004_Answer_0_Text^,^Akrashin's Treasure Chest^
+^Dialog_2020002_Title^,^Food Shopkeep^
+^Dialog_2020002_Text0^,^I have lots of cheap goods.^
+^Dialog_2020002_Answer_0_Text^,^Food Shop^
+^Dialog_2020002_Answer_1_Text^,^General Goods^
+^Dialog_1020001_Title^,^Sky Titan Captain Prengel^
+^Dialog_1020001_Text0^,^The braghin are behind this attack! I should be back in the capital safe and sound, but no, I had to help Crow break you out of prison. I can't believe we escaped that terrible place just to get shot down by the braghin over Brakarr Forest! We have too many wounded here. We need to set up camp and defend ourselves against the beasts of the forest.^
+^Dialog_1020002_Title^,^Engineer Tragu'Rhan^
+^Dialog_1020002_Text0^,^[THIS IS A BUG] I'm repairing the key components to get the Sky Titan operational.<br><br>
+The engine cylinder is broken and it will be difficult to completely repair the Drive Shaft Steam Pipe because its bent out of shape.<br><br>
+I'll need the core parts fixed to have the engine operational again. It won't be easy will it?^
+^Dialog_1020003_Title^,^Crow^
+^Dialog_1020003_Text0^,^I hope you're ready for a fight. With all these wounded, we're going to need to every strong arm we've got.^
+^Dialog_1020003_Answer_0_Text^,^^
+^Dialog_1020003_Answer_10_Text^,^Brakarr Forest^
+^Dialog_1020003_Answer_11_Text^,^Reaching the Capital^
+^Dialog_1020003_Answer_12_Text^,^Princess Lania^
+^Dialog_1020004_Title^,^Elf Child^
+^Dialog_1020004_Text0^,^Will you play with me?^
+^Dialog_1020005_Title^,^Elf Woman^
+^Dialog_1020005_Text0^,^Hello.^
+^Dialog_1020006_Title^,^Guard Familiar^
+^Dialog_1020006_Text0^,^Not all familiars can become guards.^
+^Dialog_1020007_Title^,^Elf Man^
+^Dialog_1020007_Text0^,^There must be a town nearby. We can't stay here.^
+^Dialog_1020009_Title^,^Ruins Specter^
+^Dialog_1020009_Text0^,^The braghin have complicated our survey. There's still so much to do. ^
+^Dialog_1020010_Title^,^Research Scholar^
+^Dialog_1020010_Text0^,^Where did I put that report...?^
+^Dialog_1020011_Title^,^Royal Investigator^
+^Dialog_1020011_Text0^,^There's still much to learn about Brakarr Forest. Hakanas has an interest in this region.^
+^Dialog_1010003_Title^,^Sky Titan Pilot^
+^Dialog_1010003_Text0^,^We need to hurry.^
+^Dialog_1020012_Title^,^Crow^
+^Dialog_1020012_Text0^,^You've arrived at a good time. I must remain here to hold off the golems and the braghin. You must make it to the capital and alert the king of Princess Lania's fate. ^
+^Dialog_1020013_Title^,^Foreman Allen^
+^Dialog_1020013_Text0^,^This is no time for chit-chat! Help me with this fire!^
+^Dialog_1020013_answer_5_text^,^Lestin^
+^Dialog_1020013_answer_6_text^,^Fire^
+^Dialog_1020098_answer_0_text^,^Timber Lake^
+^Dialog_1020098_answer_1_text^,^Hard Landing^
+^Dialog_1020014_Title^,^Forest Guide Elf^
+^Dialog_1020014_Text0^,^Be careful! The near by forest is total covered with a dangerous power. May the blessings of Ellora be with you. ^
+^Dialog_1020014_Answer_0_Text^,^Go to Lavalight Cave^
+^Dialog_1020014_Answer_1_Text^,^To the Cold Mines^
+^Dialog_1020014_Answer_2_Text^,^About Lavalight Cave^
+^Dialog_1020014_Answer_3_Text^,^About the the Cold Mines^
+^Dialog_1020015_Title^,^Ruins Specter^
+^Dialog_1020015_Text0^,^But I saw the Carendia's Relic, changed my mind, and ended up stealing it.^
+^Dialog_1020015_Answer_0_Text^,^What an interesting story.^
+^Dialog_1020016_Title^,^Ruins Specter^
+^Dialog_1020016_Text0^,^The more I think about it, the more upset I get.^
+^Dialog_1020016_Answer_0_Text^,^Carendia's Relic^
+^Dialog_1020017_Title^,^Ruins Specter^
+^Dialog_1020017_Text0^,^I heard you recovered the relic. Let's have a look.^
+^Dialog_1020017_Answer_0_Text^,^Here it is.^
+^Dialog_1020018_Title^,^Ruins Specter^
+^Dialog_1020018_Text0^,^Ah! This is indeed Carendia's Relic.^
+^Dialog_1020018_Answer_0_Text^,^Yes.^
+^Dialog_1020019_Title^,^Ruins Specter^
+^Dialog_1020019_Text0^,^I'm glad you taught that braghin shaman a lesson.^
+^Dialog_1020019_Answer_0_Text^,^Carendia's Relic^
+^Dialog_1020020_Title^,^Expedition Traitor^
+^Dialog_1020020_Text0^,^If I return now, they'll throw me in the stocks. If I'm lucky.^
+^Dialog_1020020_Answer_2_Text^,^What will it take for you to give me the relic?^
+^Dialog_1020022_Title^,^Expedition Traitor^
+^Dialog_1020022_Text0^,^Ugh... I give up. I lost. Here, I'll return Carendia's Relic.^
+^Dialog_1020022_Answer_0_Text^,^Good thinking.^
+^Dialog_1020091_Title^,^Blacksmith Gialon^
+^Dialog_1020091_Text0^,^Would you like me to take a look at your weapon?^
+^Dialog_1020092_Title^,^Hakanas Knight^
+^Dialog_1020092_Text0^,^We need to find out what is in the cave.^
+^Dialog_1020093_Title^,^Hakanas Outpost Soldier^
+^Dialog_1020093_Text0^,^My commander is looking for someone to scout out the cave.^
+^Dialog_1020021_Title^,^Elemental Spirit^
+^Dialog_1020021_Text0^,^I sense another power inside of you.^
+^Dialog_1020025_Title^,^[BUG] Beginner Berserker Skill Master^
+^Dialog_1020025_Text0^,^[BUG] If you train hard regularly, you will be brave in even the most dire situations! Do you need a book on Berserker training?^
+^Dialog_1020026_Title^,^[BUG] Beginner Priest Skill Master^
+^Dialog_1020026_Text0^,^[BUG] We were on our way to Hakanas as well. We must carry out our duties where ever and whenever, even in these situations. Do you need a book on Priest training?^
+^Dialog_1020027_Title^,^Chief Engineer Hama'Rahn^
+^Dialog_1020027_Text0^,^I've heard of braghin taking potshots at anyone who flies over Brakarr Forest. We should've been more careful. Our altitude was too low. If we can't get the titan up in the air before they find us...^
+^Dialog_1020029_Title^,^Boman^
+^Dialog_1020029_Text0^,^Trapped by the braghin with nothing to eat but soup. If it weren't for Noiman, this wouldn't be half-bad. He's always complaining about the food... and I'm the one who makes the soup!^
+^Dialog_1020030_Title^,^Noiman^
+^Dialog_1020030_Text0^,^I'm sick of Boman's soup. Just the smell of it makes me throw up! Try some for yourself. You'll understand.^
+^Dialog_1020031_Title^,^Engineer^
+^Dialog_1020031_Text0^,^This is a mess... I don't know where to start.^
+^Dialog_1020032_Title^,^Leo^
+^Dialog_1020032_Text0^,^Grr... Sniff sniff!^
+^Dialog_1020033_Title^,^Archaeologist^
+^Dialog_1020033_Text0^,^Judging by the ancient elven engraving on these ruins... Whoa! You scared me. Who are you? ^
+^Dialog_1020034_Title^,^Mendiom Merchant Trainee^
+^Dialog_1020034_Text0^,^Welcome to the crash site branch of the Mendiom Merchant Society. It may seem odd that we have a branch here, but the world is an odd place.^
+^Dialog_1020035_Title^,^Mendiom Greeter^
+^Dialog_1020035_Text0^,^Right this way! No matter how dire the situation, the society will always put customer convenience first!^
+^Dialog_1020038_Title^,^Sir Paolo Roaman^
+^Dialog_1020038_Text0^,^The Dragon Knights were sent to destroy the braghin. We may be trapped here, but that just means the braghin are trapped with us. Join the fight!^
+^Dialog_1020038_Text0_F_attach_0^,^The braghins have been firing their siege weapons at our camp nonstop. We can hold the line, but it's difficult for us to close in and do something about their weapons. If you help us, we'll help you.^
+^Dialog_1020038_Text1^,^The Dragon Knights were sent to destroy the braghin. We may be trapped here, but that just means the braghin are trapped with us. Join the fight!^
+^Dialog_1020038_Answer_8_Text^,^An Old Fight^
+^Dialog_1020038_Answer_9_Text^,^Ballista^
+^Dialog_1020039_Title^,^Braghin Expedition Member^
+^Dialog_1020039_Text0^,^I haven't seen you before. Are you with the research team?^
+^Dialog_1020040_Title^,^Braghin Expedition Member^
+^Dialog_1020040_Text0^,^Forget the braghin. I'm more worried about the ghosts!^
+^Dialog_1020041_Title^,^Smillan^
+^Dialog_1020041_Text0^,^A real smith doesn't need a proper forge to work his craft. Our steel is so good, you'll think it was forged by crokhoons.^
+^Dialog_1020042_Title^,^Mendiom Wagon Merchant^
+^Dialog_1020042_Text0^,^How can I help you?^
+^Dialog_1020043_Title^,^[BUG] Intermediate Berserker Skill Master^
+^Dialog_1020043_Text0^,^[BUG] If you wish to learn powerful skills that will empower your sword, my books will be a great help!^
+^Dialog_1020044_Title^,^[BUG] Intermediate Priest Skill Master^
+^Dialog_1020044_Text0^,^[BUG] Help from the holy book is absolutely needed in order to become a powerful priest.^
+^Dialog_1020045_Title^,^Archaeologist^
+^Dialog_1020045_Text0^,^There's so much to discover! And yet... I'm bored.^
+^Dialog_1020046_Title^,^Archaeologist^
+^Dialog_1020046_Text0^,^There's no shortage of ruins in Brakarr Forest. That's why we're here.^
+^Dialog_1020047_Title^,^Cullaghan^
+^Dialog_1020047_Text0^,^Damn braghin stole my hammer. Sure, I've got a spare, but it's MY hammer! It's special. I've had that thing since I was a boy!^
+^Dialog_1020047_Answer_7_Text^,^Talk to the blacksmith.^
+^Dialog_1020047_Answer_8_Text^,^Talk to the blacksmith.^
+^Dialog_1020047_Answer_9_Text^,^Boar Meat^
+^Dialog_1020048_Title^,^Barrivus^
+^Dialog_1020048_Text0^,^I assist the Dragon Knights in these wild places of the world. The braghins of Brakarr Forest turn their minds to greedy, violent thoughts. They destroy the forest, kill the wildlife, and squander all the blessings the gods have given us. I fight the braghins to protect these things.^
+^Dialog_1020048_Answer_6_Text^,^Elves^
+^Dialog_1020048_Answer_7_Text^,^Princess Lania^
+^Dialog_1020049_Title^,^Archaeologist^
+^Dialog_1020049_Text0^,^How obnoxious! We were hard at work, when these strangers burst in and disrupted everything! ^
+^Dialog_1020050_Title^,^Sir Paolo Roaman^
+^Dialog_1020050_Text0^,^You must be strong indeed, to make it all this way alone. This is where it all began! ^
+^Dialog_1020050_Answer_0_Text^,^Emberstone Minion^
+^Dialog_1020050_Answer_1_Text^,^Emberstone Golem^
+^Dialog_1020050_Answer_2_Text^,^Return to Start^
+^Dialog_1020051_Title^,^Transportation Manager^
+^Dialog_1020051_Text0^,^I sell familiar rides to other towns. Of course, since I don't have any mounts on hand, I'm not currently offering service. ^
+^Dialog_1020052_Title^,^Romero^
+^Dialog_1020052_Text0^,^These transit shrines can instantly teleport you to any other shrine that you've previously visited.^
+^Dialog_1020052_Answer_0_Text^,^Fast Travel^
+^Dialog_1020053_Title^,^Lieutenant Alex^
+^Dialog_1020053_Text0^,^There are dark creatures in the ruins here. The ghosts of those who died with bitterness in their hearts, they attack anything that breathes. It has my men on edge, to say the least.^
+^Dialog_1020053_Answer_6_Text^,^Potion^
+^Dialog_1020053_Answer_18_Text^,^Princess Lania^
+^Dialog_1020053_Answer_19_Text^,^Ruins^
+^Dialog_1020054_Title^,^Private Boris^
+^Dialog_1020054_Text0^,^Guard duty wouldn't be so bad if it weren't for the ghosts. Every night when I go to sleep, I'm terrified they'll show up in my dreams...^
+^Dialog_1020056_Title^,^Dame Celine^
+^Dialog_1020056_Text0^,^We're busy fighting evil fairies, but don't think we've forgotten about the braghins just over the hill.^
+^Dialog_1020056_Answer_16_Text^,^Monster Affinity^
+^Dialog_1020056_Answer_17_Text^,^Item Affinity  ^
+^Dialog_1020057_Title^,^Kylas^
+^Dialog_1020057_Text0^,^In the ancient times, we could hear the voice of every tree, every stone, and every spirit. But now that the fairies have fallen to corruption, no sound can be heard at all.^
+^Dialog_1020059_Title^,^Dame Rena^
+^Dialog_1020059_Text0^,^Good to see you on your feet again. We need all the help we can get with the wounded.^
+^Dialog_1020059_answer_5_text^,^Princess Lania^
+^Dialog_1020059_answer_6_text^,^Survivors^
+^Dialog_1020059_answer_9_text^,^The Lost Ring^
+^Dialog_1020060_Title^,^Tortus^
+^Dialog_1020060_Text0^,^Crow set out to save Princess Lania, but all he found was our sorry hides. I'm glad to be out of that prison, but we need to tell the king what happened to his daughter. ^
+^Dialog_1020061_Title^,^Sir Rolen^
+^Dialog_1020061_Text0^,^Get down! Do you want to take a ballista bolt to the head? The braghins realized that they couldn't take us in a fair fight, so they've been raining siege fire on us nonstop. If this doesn't stop soon, we'll have to fall back... and there's nowhere for us to fall back to! ^
+^Dialog_1020061_Answer_1_Text^,^Princess Lania^
+^Dialog_1020071_Title^,^Lavalight Cave Shrine^
+^Dialog_1020071_Text0^,^This shrine can transport you to Lavalight Cave.^
+^Dialog_1020071_answer_0_text^,^Enter Lavalight Cave^
+^Dialog_1020072_Title^,^Brakarr Forest Shrine^
+^Dialog_1020072_Text0^,^This shrine can transport you to Brakarr Forest.^
+^Dialog_1020072_answer_0_text^,^Return to Brakarr Forest^
+^Dialog_1020073_Title^,^Private Nills^
+^Dialog_1020073_Text0^,^I've been fighting the braghins here for a long time. No matter how many I kill, this battle seems like it will never end. Grandfather was a soldier before me, but I don't recall him ever getting trapped in a forest like this.^
+^Dialog_1020073_answer_0_text^,^Princess Lania^
+^Dialog_1020073_answer_1_text^,^Braghins^
+^Dialog_1020074_Title^,^Sir Marcus^
+^Dialog_1020074_Text0^,^The Order of Velzeroth reports directly to the king, and most of Hakanas's military reports to us. That's why folks tend to refer to soldiers in general as "Dragon Knights," even the troopers who've never been properly knighted. We were founded by General Akaldus himself, the great hero of the War of Light. ^
+^Dialog_1020074_Answer_0_Text^,^Dragon Knight^
+^Dialog_1020074_Answer_1_Text^,^Princess Lania^
+^Dialog_1020075_Title^,^Private Numerick^
+^Dialog_1020075_Text0^,^Salant's behind the braghin attack. I'm sure of it. The bastard posed as an Arcanum mage for years before he showed his true self, and now he leads an army of demons and monsters. They say he's the God of Ruin incarnate!^
+^Dialog_1020075_Answer_2_Text^,^Salant^
+^Dialog_1020075_Answer_3_Text^,^Princess Lania^
+^Dialog_1020076_Title^,^Private Florick^
+^Dialog_1020076_Text0^,^We can't beat the braghins as long as they have those ballistae. Just down the road, my comrades are getting pinned down by those awful machines.^
+^Dialog_1020076_answer_0_text^,^Dragon Knight Scouts^
+^Dialog_1020077_Title^,^Private Illias^
+^Dialog_1020077_Text0^,^Leave the braghins to us for now. This road will take you around the braghin outpost. Get to the ruins and find Private Boris.^
+^Dialog_1020077_Answer_4_Text^,^Ruins^
+^Dialog_1020077_Answer_5_Text^,^Private Boris^
+^Dialog_1020078_Title^,^Private Curtis^
+^Dialog_1020078_Text0^,^What are you doing here? This is a battlefield! If you catch a ballista bolt to the chest, don't say I didn't warn you!  ^
+^Dialog_1020078_Answer_4_Text^,^Hakain's Crossing^
+^Dialog_1020079_Title^,^Private Kahntaris^
+^Dialog_1020079_Text0^,^Be careful if you get anywhere near the ruins. The ghosts that reside there cannot be seen by mortals, but they can still cause plenty of bodily harm. We're lucky they haven't figured out how to get outside...^
+^Dialog_1020080_Title^,^Priestess Chapley Singer^
+^Dialog_1020080_Text0^,^P-please... H-help?^
+^Dialog_1020080_Text1^,^The evil golem of Lavalight Cave have been defeated! We did it, thanks to you!^
+^Dialog_1020080_Text2^,^The evil golem of Lavalight Cave have been defeated! We did it, thanks to you!^
+^Dialog_1020080_Text3^,^The evil golem of Lavalight Cave have been defeated! We did it, thanks to you!^
+^Dialog_1020080_Text4^,^The evil golem of Lavalight Cave have been defeated! We did it, thanks to you!^
+^Dialog_1020081_Title^,^Private Corrance^
+^Dialog_1020081_Text0^,^Who are you...? P-please, help me...^
+^Dialog_1020082_Title^,^Inugi^
+^Dialog_1020082_Text0^,^(He says nothing.)<br><br>^
+^Dialog_1020083_Title^,^Aksel^
+^Dialog_1020083_Text0^,^Aksel's the name. Are you here to learn how to commune with the beasts?^
+^Dialog_1020083_Answer_5_Text^,^Taming Familiars^
+^Dialog_1020083_Answer_6_Text^,^Familiar Shop^
+^Dialog_1020083_Answer_7_Text^,^Unlock Familiar Growth^
+^Dialog_1020083_Answer_11_Text^,^Unlock Familiar Slots^
+^Dialog_1020083_Answer_12_Text^,^Taming Conditions^
+^Dialog_1020083_Answer_13_Text^,^About Familiars^
+^Dialog_1020084_Title^,^Romlin^
+^Dialog_1020084_Text0^,^I'm busy just now! ^
+^Dialog_1020085_Title^,^Pigman^
+^Dialog_1020085_Text0^,^Being a swineherd used to mean something in these lands. I'd let the pigs roam, they'd get up to some kind of trouble, and some passing adventurer would get a little free-range excitement in exchange for whatever I had lying around... Then one day I get a message from the higher-ups ordering me to stop pestering people. They tell me, "Just stand there, Pigman. Stand there and do nothing."^
+^Dialog_1020085_Answer_2_Text^,^Favorite Sow^
+^Dialog_4020001_Title^,^Bag Merchant^
+^Dialog_4020001_Text0^,^Welcome. How may I help you?^
+^Dialog_4020001_Answer_0_Text^,^I would like to expand my bag.^
+^Dialog_2020004_Title^,^Skill Master^
+^Dialog_2020004_Text0^,^[BUG] Hey, you. Do you want to be enlightened? Here are some books that could be useful for you.^
+^Dialog_2020004_Answer_0_Text^,^[BUG] Purchase Skill Book^
+^Dialog_2021001_Title^,^Mendiom Equipment Merchant^
+^Dialog_2021001_Text0^,^A little thing like a sky titan crash can't slow me down. That's the creed of the Mendiom!^
+^Dialog_2021001_Answer_0_Text^,^Equipment Item^
+^Dialog_2023001_Title^,^Kenny ^
+^Dialog_2023001_Text0^,^Hi. I was on my way to the capital to sell my wares, but I don't think I'll be able to take this with me on foot. Can I interest you in my wares?^
+^Dialog_2023001_Answer_4_Text^,^Equipment Item^
+^Dialog_2024001_Title^,^Parvang^
+^Dialog_2024001_Text0^,^Are you all right? I'm sorry... If I'd been more in control, this wouldn't have happened...^
+^Dialog_2024001_Answer_2_Text^,^The Journey Ahead^
+^Dialog_2024001_Answer_3_Text^,^Fallen Sky Titan^
+^Dialog_2024001_Answer_0_Text^,^I want to learn a skill.^
+^Dialog_2024001_Answer_1_Text^,^Tell me about the Skill Book.^
+^Dialog_2026001_Title^,^Familiar Breeder^
+^Dialog_2026001_Text0^,^Your companions are valuable so treat them accordingly.^
+^Dialog_2026001_Answer_0_Text^,^Exchange familiar egg^
+^Dialog_2021002_Title^,^Glen^
+^Dialog_2021002_Text0^,^They say war is good for business, but these soldiers aren't buying my goods! Hey, can I interest you in this fine weapon? It's not as good as what you'll find in Hakain's Crossing, but then again, we aren't in Hakain's Crossing, are we?<br><br>^
+^Dialog_2021002_Answer_0_Text^,^Weapons^
+^Dialog_2023002_Title^,^Adina^
+^Dialog_2023002_Text0^,^I know the situation is bad, but at least we have good food to eat! Would you like some? It's all very reasonably priced, I assure you!^
+^Dialog_2023002_Answer_3_Text^,^General Goods, Food^
+^Dialog_2026002_Title^,^Familiar Breeder^
+^Dialog_2026002_Text0^,^Your companions are valuable so treat them accordingly.^
+^Dialog_2026002_Answer_0_Text^,^Exchange familiar egg^
+^Dialog_2024002_Title^,^[BUG] Combat Skill Master Douglas^
+^Dialog_2024002_Text0^,^When the enemy comes charging, I say come and get it! If you want to learn how to take a hit, I can teach you.^
+^Dialog_2024002_Answer_0_Text^,^I want to learn a skill.^
+^Dialog_2024002_Answer_2_Text^,^Princess Lania^
+^Dialog_2025001_Title^,^Bag Merchant^
+^Dialog_2025001_Text0^,^Welcome. How may I help you?^
+^Dialog_2025001_Answer_0_Text^,^I would like to expand my bag.^
+^Dialog_2024003_Title^,^[BUG] Advanced Berserker Skill Master^
+^Dialog_2024003_Text0^,^[BUG] Hey, you. Do you want to be enlightened? Here are some books that could be useful for you.^
+^Dialog_2024003_Answer_0_Text^,^[BUG] Purchase Skill Book^
+^Dialog_2021003_Title^,^Amarran^
+^Dialog_2021003_Text0^,^Get your armor here! You won't find better gear outside the capital. Don't go into battle without it!^
+^Dialog_2021003_Answer_4_Text^,^Armor^
+^Dialog_2023003_Title^,^Coleman^
+^Dialog_2023003_Text0^,^You want to buy some potions? I'm the only apothecary in the whole forest. I'll have you know that my potions save lives. Stock up now or regret it later.^
+^Dialog_2023003_Answer_2_Text^,^Potions^
+^Dialog_2023004_Title^,^Jennie^
+^Dialog_2023004_Text0^,^Thanks to the Dragon Knights, I'm able to come all the way out here and do business. Take a look at my wares. I'm sure you'll find something you need.^
+^Dialog_2023004_Answer_3_Text^,^General Goods, Food^
+^Dialog_2023004_Answer_4_Text^,^Fairies and Princess Lania^
+^Dialog_2023004_Answer_5_Text^,^Fairies and Princess Lania 2^
+^Dialog_2026003_Title^,^Familiar Breeder^
+^Dialog_2026003_Text0^,^Your companions are valuable so treat them accordingly.^
+^Dialog_2026003_Answer_0_Text^,^Exchange familiar egg^
+^Dialog_2025002_Title^,^Bag Merchant^
+^Dialog_2025002_Text0^,^Welcome. How may I help you?^
+^Dialog_2025002_Answer_0_Text^,^I would like to expand my bag.^
+^Dialog_2024004_Title^,^[BUG] Beginner Priest Skill Master^
+^Dialog_2024004_Text0^,^[BUG] We were on our way to Hakanas as well. We must carry out our duties where ever and whenever, even in these situations. Do you need a book on Priest training?^
+^Dialog_2024004_Answer_4_Text^,^I want to learn a skill.^
+^Dialog_2024004_Answer_3_Text^,^Tell me about the Skill Book.^
+^Dialog_2024005_Title^,^[BUG] Mage Skill Master Elina^
+^Dialog_2024005_Text0^,^Those of us with the gift of healing must do what we can in these troubled times.^
+^Dialog_2024005_Answer_0_Text^,^I want to learn a skill.^
+^Dialog_2024005_Answer_4_Text^,^Mana^
+^Dialog_2024005_Answer_6_Text^,^Concerns^
+^Dialog_2024006_Title^,^[BUG] Advanced Priest Skill Master^
+^Dialog_2024006_Text0^,^[BUG] The one who chose the path of generosity. I hope you could lots of lives.^
+^Dialog_2024006_Answer_0_Text^,^[BUG] Purchase Skill Book^
+^Dialog_2028001_Title^,^Freud^
+^Dialog_2028001_Text0^,^I can send you anywhere you please. Not for free, of course. Where would you like to go?^
+^Dialog_2028001_Answer_4_Text^,^Fast Travel^
+^Dialog_2028002_Title^,^Spencer^
+^Dialog_2028002_Text0^,^With the power of my magic and this shrine, I can send you anywhere in the world. Anywhere that has a shrine, that is. Where would you like to go?^
+^Dialog_2028002_Answer_0_Text^,^Fast Travel^
+^Dialog_2999998_Title^,^Weapon, Secondary Equipment Merchant^
+^Dialog_2999998_Text0^,^Get your weapons, off-hand gear, and armor here.^
+^Dialog_2999998_Answer_0_Text^,^Weapon, Secondary Equipment Merchant^
+^Dialog_2999999_Title^,^Armorer^
+^Dialog_2999999_Text0^,^Get your armor here.^
+^Dialog_2999999_Answer_0_Text^,^Armor Shop^
+^Dialog_9011001_Title^,^Exchange familiar egg^
+^Dialog_9011001_Text0^,^You need 5 soul energies from each category to get a familiar life marble.^
+^Dialog_9011001_Answer_6_Text^,^Exchange Mammal Life Marble^
+^Dialog_9011001_Answer_7_Text^,^Exchange Gliding Animal Life Marble^
+^Dialog_9011001_Answer_8_Text^,^Exchange Reptile Life Marble^
+^Dialog_9011001_Answer_9_Text^,^Exchange Insect Life Marble^
+^Dialog_9011001_Answer_10_Text^,^Exchange Spirit Life Marble^
+^Dialog_9011002_Title^,^About Lavalight Cave^
+^Dialog_9011002_Text0^,^Lavalight Cave is ruled over by the Emberstone Golem and its underlings, created by the Demonic Stone.^
+^Dialog_9011002_Answer_0_Text^,^Tips for Lavalight Cave^
+^Dialog_9011002_Answer_1_Text^,^Tips for Lavalight Cave Boss^
+^Dialog_9011003_Title^,^Tips for Lavalight Cave^
+^Dialog_9011003_Text0^,^Weapons with ice affinity are more effective against enemies in Lavalight Cave. If you're suffering too much fire damage, the spring at the cave's midpoint can be used to cool off. ^
+^Dialog_9011004_Title^,^Tips for Lavalight Cave Boss^
+^Dialog_9011004_Text0^,^The fire chieftain can be greatly damaged if the Emberstone Golem's minions self-destruct near him. ^
+^Dialog_9011005_Title^,^About the the Cold Mines^
+^Dialog_9011005_Text0^,^The trail that connects Brakarr Forest to Fresh Mushroom Yard has turned to ice. Beastly humans are using the Demonic Stone to do this.^
+^Dialog_9011005_Answer_0_Text^,^Tips for Cold Mines^
+^Dialog_9011005_Answer_1_Text^,^Tips for Cold Mines Boss^
+^Dialog_9011006_Title^,^Tips for Cold Mines^
+^Dialog_9011006_Text0^,^The Cold Mines have been taken over by monsters with ice affinity. Use fire weapons to defeat them more easily. ^
+^Dialog_9011007_Title^,^Tips for Cold Mines Boss^
+^Dialog_9011007_Text0^,^Sinthan can attack with ranged ice attacks. Avoid these attacks while countering with some fire attacks of your own.^
+^Dialog_3020001_Title^,^[BUG] Beginner Berserker Skill Master^
+^Dialog_3020001_Text0^,^[BUG] Skill Book is a book that can either help you learn Berserker Skills or enhancing skills that you have already learned. But to use this book, you need skill points.^
+^Dialog_3020001_Answer_0_Text^,^Okay.^
+^Dialog_3020002_Title^,^[BUG] Beginner Priest Skill Master^
+^Dialog_3020002_Text0^,^[BUG] Skill Book is a book that can either help you learn Priest Skills or enhancing skills that you have already learned. But to use this book, you need skill points.^
+^Dialog_3020002_Answer_0_Text^,^Okay.^
+^Dialog_3020003_Title^,^Expedition Traitor^
+^Dialog_3020003_Text0^,^If you want Carendia's Relic, you'll have to beat it out of me!^
+^Dialog_3020003_Answer_0_Text^,^That's fine.^
+^Dialog_3020004_Title^,^Cullaghan^
+^Dialog_3020004_Text0^,^So, you want to know how to defeat the Emberstone Golem and get out of the tunnel.^
+^Dialog_3020004_Answer_0_Text^,^End Conversation^
+^Dialog_3020005_Title^,^Lieutenant Alex^
+^Dialog_3020005_Text0^,^I wonder if this Truthsight Potion will really help me see ghosts...^
+^Dialog_3020005_Answer_0_Text^,^End Conversation^
+^Dialog_3020006_Title^,^Cullaghan^
+^Dialog_3020006_Text0^,^You have the Chill Frosted Cloth! Well done.^
+^Dialog_3020006_Answer_0_Text^,^End Conversation^
+^Dialog_3020007_Title^,^Dame Celine^
+^Dialog_3020007_Text0^,^I'm glad to hear that my potion worked.^
+^Dialog_3020007_Answer_0_Text^,^End Conversation^
+^Dialog_9014005_Title^,^Storage Master^
+^Dialog_9014005_Text0^,^Doesn't it hurt your back, carrying all that stuff around? Why don't you keep it safe and sound in my storage?^
+^Dialog_9014005_Answer_0_Text^,^Storage^
+^Dialog_9014006_Title^,^Market Broker^
+^Dialog_9014006_Text0^,^If you're looking to sell something, I can find you a buyer. If you want to buy, step right up and see what I've got listed!^
+^Dialog_9014006_Answer_0_Text^,^Marketplace^
+^Dialog_9014007_Title^,^Storage Master Umerr^
+^Dialog_9014007_Text0^,^Sick of carrying all that stuff around? Leave it with me!^
+^Dialog_9014007_Answer_0_Text^,^Storage^
+^Dialog_2024008_Title^,^[BUG] Beginner Mage Skill Master^
+^Dialog_2024008_Text0^,^[BUG] Do you need the Beginner Mage Skill Book?^
+^Dialog_2024008_Answer_0_Text^,^[BUG] Purchase Beginner Mage Skill Book^
+^Dialog_2024009_Title^,^[THIS IS A BUG] Mage Skill Master Dianna^
+^Dialog_2024009_Text0^,^[BUG] Using magic is giving a change to the natural order.<br><br>If you don't understand the true essence of fire, water, and light, you might be in great danger if the nature is out of order.<br><br>Are you ready to use magic? If you're ready, I have something to teach you. ^
+^Dialog_2024009_Answer_2_Text^,^[BUG] Learn Mage Skills^
+^Dialog_2024010_Title^,^[BUG] Beginner Assassin Skill Master^
+^Dialog_2024010_Text0^,^[BUG] Do you need the Beginner Assassin Skill Book?^
+^Dialog_2024010_Answer_0_Text^,^[BUG] Purchase Beginner Assassin Skill Book^
+^Dialog_2024011_Title^,^[BUG] Assassin Skill Master Lance^
+^Dialog_2024011_Text0^,^[BUG] My grandfather, who used to be a famous assassin in the kingdom, has once told me that if I can ambush, giving a little piece of me is worth it. So I'm always ready to face that moment.<br><br>If you want to learn that mysterious skill too, I will let you in a little on that secret as well.^
+^Dialog_2024011_Answer_2_Text^,^[BUG] Learn Assassin Skills^
+^Dialog_2024012_Title^,^[BUG] Beginner Ranger Skill Master^
+^Dialog_2024012_Text0^,^[BUG] Do you need the Beginner Ranger Skill Book?^
+^Dialog_2024012_Answer_0_Text^,^[BUG] Purchase Beginner Ranger Skill Book^
+^Dialog_2024013_Title^,^[BUG] Ranger Skill Master Americks^
+^Dialog_2024013_Text0^,^[BUG] Fate has led you all the way here. Just like how everything on this world flows based on the fundamentals of harmony and balance...<br><br>If you haven't reacher the highest stage as a Ranger, I will help your growth.^
+^Dialog_2024013_Answer_2_Text^,^Learn Ranger Skills^
+^Dialog_3020701_Title^,^Convert Manastone^
+^Dialog_3020701_Text0^,^Welcome. How may I help you?^
+^Dialog_3020701_Answer_1_Text^,^Equip Manastone^
+^Dialog_3020701_Answer_2_Text^,^Remove Manastone^
+^Dialog_3020701_Answer_3_Text^,^Repair Manastone^
+^Dialog_1040001_Title^,^Magren the Pilgrim^
+^Dialog_1040001_Text0^,^You can hear life on the winds... Hello, fellow traveler. I'm Magren the Pilgrim. I've come here to learn about those who came before us. I never expected to find such chaos here...^
+^Dialog_1040002_Title^,^King Ronfraine^
+^Dialog_1040002_Text0^,^Hakanas is threatened from all sides, but we will not yield.^
+^Dialog_1040003_Title^,^Master Yulnus^
+^Dialog_1040003_Text0^,^Let us dispense with the formalities, shall we? In this room, we are equals as servants of the realm.^
+^Dialog_1040003_Answer_14_Text^,^Our preparation is done.^
+^Dialog_1040004_Title^,^[BUG] Berserker Skill Master Blake^
+^Dialog_1040004_Text0^,^[THIS IS A BUG] Where the blade goes the where death is!<br><br>On the right, I hold a sword of righteouness! On the left, I have a shield of guard! In my heart, I have a flower of love!<br><br>Don't lose that heart as a Berserker!^
+^Dialog_1040004_Answer_4_Text^,^Learn Advanced Berserker Skills^
+^Dialog_1040005_Title^,^Mage Skill Master Wizlead^
+^Dialog_1040005_Text0^,^[THIS IS A BUG] If you've got power to spare then use it!<br><br>We will walk with balance and not get away from providence.<br><br>Nothing is given to a mage that makes no effort. What do you want, you naive mage?^
+^Dialog_1040005_Answer_7_Text^,^Learn Advanced Mage Skills^
+^Dialog_1040006_Title^,^Priest Skill Master Millia^
+^Dialog_1040006_Text0^,^[THIS IS A BUG] Exalt all the things in this world...<br><br>Do you believe in regeneration in the midst of destruction? Do you believe in all things coming back to life?<br><br>If so, I can help you.^
+^Dialog_1040006_Answer_4_Text^,^Learn Advanced Priest Skills^
+^Dialog_1040007_Title^,^Assassin Skill Master Seed^
+^Dialog_1040007_Text0^,^[THIS IS A BUG] For the light in the dark.<br><br>Dear brother, how are you today? Dear brother, how will tomorrow be?<br><br>Even if things are terrible, if we live for tomorrow there will be no regrets. So yes, what's up?^
+^Dialog_1040007_Answer_4_Text^,^Learn Advanced Assassin Skills^
+^Dialog_1040008_Title^,^Ranger Skill Master Ian^
+^Dialog_1040008_Text0^,^[THIS IS A BUG] Prosperity comes from sharing and giving.<br><br>What's obtained from nature is to nature. Don't force it, but let it be.<br><br>If you try your best for what you want, that's enough. Everything else will happen by the law of nature. As someone that has started to walk first, I'll tell you everything I know.^
+^Dialog_1040008_Answer_4_Text^,^Learn Advanced Ranger Skills^
+^Dialog_1040009_Title^,^Velzeroth^
+^Dialog_1040009_Text0^,^I have waited long in this place, bound to my pledge. What fate brings you before me?^
+^Dialog_1040010_Title^,^General Goods & Food Merchant Mac^
+^Dialog_1040010_Text0^,^Welcome. We have everything of everything and nothing of nothing!^
+^Dialog_1040011_Title^,^Danzuul^
+^Dialog_1040011_Text0^,^I survived the werewolves... barely. But if we don't get the ranch back, we'll all starve to death.^
+^Dialog_1040012_Title^,^Mariel^
+^Dialog_1040012_Text0^,^H-Hi... How are you? I've heard this place is pretty dangerous. 
+<br><br>I should have trained when I had the chance. Maybe I would have been able to protect Magren.^
+^Dialog_1040013_Title^,^Ruins Soldier Carel^
+^Dialog_1040013_Text0^,^Hello! I'm the residing force at the Ruins!<br><br>Yep, I am a force of one. Apparently, this post wasn't important enough for more than one soldier. Sure, there are all sorts of monsters and ghosts and horrible things, but no, let's send one person. Carel Squad, at your service.^
+^Dialog_1040014_Title^,^Maria^
+^Dialog_1040014_Text0^,^Light's blessing, stranger. You're very brave to come to a place like this. I am Maria, and I care for the wounded here.^
+^Dialog_1040015_Title^,^Rancher Herbert^
+^Dialog_1040015_Text0^,^Never seen you 'round these parts before. Might as well make yourself useful. ^
+^Dialog_1040016_Title^,^Wolf Hunter Amos^
+^Dialog_1040016_Text0^,^You've got guts, strolling through a ranch full of werewolves. ^
+^Dialog_1040017_Title^,^Ralf^
+^Dialog_1040017_Text0^,^Hey. I'm Ralf. If you're here to cause trouble, you're answering to me.^
+^Dialog_1040018_Title^,^Jensen^
+^Dialog_1040018_Text0^,^I've been a rancher a long time, but I've never seen nothing like that wolf attack. The herd is scattered all over and I don't know how many people have died. What is this world coming to?^
+^Dialog_1040019_Title^,^Migran^
+^Dialog_1040019_Text0^,^You're talking to the head of the Black and Tan Traders, I'll have you know. I'm flattered that you want to deal, but I doubt you could handle the volume I'm used to trading in.^
+^Dialog_1040020_Title^,^Nikam^
+^Dialog_1040020_Text0^,^You think I make a lot of money, don't you? That's wrong. My margins are terrible. Let's face it, running a business in a dangerous place like this is not really for profit. More like a sense of duty.^
+^Dialog_1040020_answer_0_text^,^General Shop^
+^Dialog_1040021_Title^,^Duke^
+^Dialog_1040021_Text0^,^So long as you got someone to love, you can get through anything. Just be happy to be alive.^
+^Dialog_1040022_Title^,^Derick^
+^Dialog_1040022_Text0^,^We're good citizens. We pay our taxes. So how is it the kingdom could let a bunch of Rabbini march in and take over our home, huh?^
+^Dialog_1040023_Title^,^Sophia^
+^Dialog_1040023_Text0^,^My father-in-law and husband barely escaped with their lives. ^
+^Dialog_1040024_Title^,^Lauren^
+^Dialog_1040024_Text0^,^I suppose I could set up shop here, but it feels a little predatory. ^
+^Dialog_1040025_Title^,^Crow^
+^Dialog_1040025_Text0^,^Nice to see you outside of an operation. You're keeping busy, from what I've heard.<br><br>^
+^Dialog_1040025_Text0_attach_0^,^My work has been a little easier since you showed up. Keep it up and I may have to force you to join the Order.^
+^Dialog_1040026_Title^,^Virtue Eldred^
+^Dialog_1040026_Text0^,^As a Virtue of the Arcanum, my highest duty is the pursuit of learning. Our mages should not sully themselves with dreams of glory or wealth. We must yearn for knowledge and nothing else. Who is more suited to such pursuits than a mage?^
+^Dialog_1040027_Title^,^Leila the Fair^
+^Dialog_1040027_Text0^,^Coming to the bar in the middle of the day, huh? I see we've landed another real winner of a customer.<br><br>The pub's been full of scoundrels and roustabouts lately, all of them complaining about mercenaries taking their work. I wouldn't mind it if they weren't all drinking the cheapest swill they could get hold of.^
+^Dialog_1040028_Title^,^Mrs. Barelli^
+^Dialog_1040028_Text0^,^You must be some sort of mercenary, swaggering about like that. My son is a soldier, you know. I told him to be a farmer, but he doesn't listen to me. Now he's stationed in Sansupus, facing Ellora-knows-what.<br><br>I lay awake every night worried about him.^
+^Dialog_1040029_Title^,^Howard^
+^Dialog_1040029_Text0^,^Private Howard, first infantry. Your cooperation is appreciated.^
+^Dialog_1040030_Title^,^Initiate Charlotte^
+^Dialog_1040030_Text0^,^If it's not one thing, it's another. My beloved was sent on a really dangerous assignment and I haven't heard from him in weeks. I spent all night on this letter, but I'm not even allowed to leave the capital until I finish my studies! How am I supposed to get my letter to him in a battle zone?^
+^Dialog_1040031_Title^,^Stuart^
+^Dialog_1040031_Text0^,^If you have a complaint, you've come to the right man. Not that I can do anything to help, of course. You see, I thought it was my job to make sure the kingdom runs smoothly. But no, no, clearly I'm here to listen to every single petty complaint the citizens of Hakanas care to speak aloud. Never mind the fact that I've no budget to actually fix anything! So please, please, let it all out.^
+^Dialog_1040032_Title^,^Captain Melvin Haan^
+^Dialog_1040032_Text0^,^I'm the watch captain here. You made it past all the wild beasts all on your own? I admit, I'm impressed.^
+^Dialog_1040033_Title^,^Guardsman Lucas^
+^Dialog_1040033_Text0^,^Is it true what they say about Sansupus? That the whole ranch is overrun with werewolves?<br><br>Jack and I were going to try hunting werewolves, but my family talked me out of it. Nerhes's breath, I should've gone with him! What an adventure I've missed out on!^
+^Dialog_1040034_Title^,^Hunter Kaal^
+^Dialog_1040034_Text0^,^Werewolves...? How can this be?^
+^Dialog_1040035_Title^,^Liam^
+^Dialog_1040035_Text0^,^Not so fast! Salant's magic has tainted this land. If you must pass through the highlands, take the south road.<br><br>Wait, you're one of those knights from the capital! In that case, just try not to die.^
+^Dialog_1040036_Title^,^Craftsman Iliad^
+^Dialog_1040036_Text0^,^I came here to gather materials, but I can barely leave the shore without something trying to nip my hand off... ^
+^Dialog_1040037_Title^,^Thomas^
+^Dialog_1040037_Text0^,^Sure, I used to run headlong into battle without a fear in the world. But these monsters? They're fiercer than anything I've ever seen!^
+^Dialog_1040038_Title^,^Lokke^
+^Dialog_1040038_Text0^,^They say fishing is more about learning from tranquility than it is about catching fish, but you know what? That's just what amateurs say.^
+^Dialog_1040039_Title^,^Aspirant Azalia^
+^Dialog_1040039_Text0^,^I'm Azalia, an Aspirant in the Arcanum. Secret orders from Commander Crow can only mean one thing: you are on a very important mission. <br><br>That means we must be quick.^
+^Dialog_1040039_Answer_11_Text^,^I want to learn a skill.^
+^Dialog_1040040_Title^,^Elder James^
+^Dialog_1040040_Text0^,^This little town may not seem much, but our farms supply nearly half of Hakanas's food. At least, we used to...<br><br>Truth be told, we'd be preparing for next year's harvest if it weren't for these vampires.^
+^Dialog_1040041_Title^,^Farmer Matthew^
+^Dialog_1040041_Text0^,^I don't care about them vampires. I've got farming to do! That's all I live for. I don't know who is doing what, but they're gonna get theirs for involving innocent people like me.<br><br>My parents taught me to be mindful of other folks. I don't understand how these learned people don't know something as simple as that.^
+^Dialog_1040042_Title^,^Aurelia^
+^Dialog_1040042_Text0^,^Do you need something? I can make you anything, if you supply the ingredients.^
+^Dialog_1040043_Title^,^Militiaman Drex^
+^Dialog_1040043_Text0^,^Huh?!^
+^Dialog_1040044_Title^,^Guardsman Logan^
+^Dialog_1040044_Text0^,^You have some nerve marching in here like that.^
+^Dialog_1040045_Title^,^Jessica^
+^Dialog_1040045_Text0^,^How did you get here? ^
+^Dialog_1040046_Title^,^Lady Godiva^
+^Dialog_1040046_Text0^,^How did we come to this...?<br><br>I will not hide from my father's sins. If the king will allow me to redeem my family name, I will do whatever it takes. And if he wishes to strip me of my title, then I shall not challenge him. ^
+^Dialog_1040047_Title^,^Sir Leto^
+^Dialog_1040047_Text0^,^H-halt! This is the estate of Count Carleon, Lord of the Highlands! You can't just barge in here!^
+^Dialog_1040048_Title^,^Private Austin^
+^Dialog_1040048_Text0^,^Salant's evil magic has turned the wildlife against us. Something in the forest is driving them crazy! ^
+^Dialog_1040049_Title^,^Layla^
+^Dialog_1040049_Text0^,^They say you've been helping out in the highlands, but my memory isn't so short. Princess Lania was lost on your watch. There won't be any mistakes like that here.^
+^Dialog_1040050_Title^,^Captain Rostham^
+^Dialog_1040050_Text0^,^We must stop the Khabimist threat. Anything else is only a distraction.^
+^Dialog_1040051_Title^,^Phillip^
+^Dialog_1040051_Text0^,^The Royal Institute of Science is dedicated to unlocking the secrets of the natural world. I wasn't actually meant to be here, but I'm glad I am... ^
+^Dialog_1040052_Title^,^Natalie^
+^Dialog_1040052_Text0^,^I don't care what anyone says. I will not leave here until I know what's become of my dear husband!^
+^Dialog_1040053_Title^,^August^
+^Dialog_1040053_Text0^,^Following these soldiers around is good for business, but I've never been so bored in my life! The same routine, the same faces, and the same ruin-touched food, EVERY! SINGLE! DAY!<br><br>But enough about me. Can I get you something?^
+^Dialog_1040053_Answer_2_text^,^Weapon Shop^
+^Dialog_1040054_Title^,^Zeloth^
+^Dialog_1040054_Text0^,^It's too cold here. I hate seeing my own breath. I hate the crunch of my feet in the snow. And I hate the nasty beasts who call the cold their home. This place used to be so much warmer than this!^
+^Dialog_1040055_Title^,^Aspirant Edgar^
+^Dialog_1040055_Text0^,^This world is full of wonders, and I intend to uncover them all. Hello, my new friend. Will you help me build a legacy that lasts a thousand years?^
+^Dialog_1040056_Title^,^Syven^
+^Dialog_1040056_Text0^,^Welcome. I don't have much variety, but I've got all the necessities.^
+^Dialog_1040056_answer_1_text^,^General Shop^
+^Dialog_1040057_Title^,^Ilvar^
+^Dialog_1040057_Text0^,^I've been a miner for all my life. Used to work with the Crokhoons to find great minerals. I've got a great gift for finding ore, but not so much for mining. <br><br>I'm really hoping to get back into the Cold Mines one day...^
+^Dialog_1040058_Title^,^Corporal Cosette^
+^Dialog_1040058_Text0^,^Did Captain Rostham send you? Welcome to the camp.<br><br>The good captain recruited me, you know. Caught me trying to pick his pocket, and instead of turning me in he put my talents to work for the Dragon Knights.^
+^Dialog_1040058_Answer_1_Text^,^I want to learn a skill.^
+^Dialog_1040059_Title^,^Dragon Knight Infiltrator^
+^Dialog_1040059_Text0^,^Shh!<br><br>We're on a secret mission. Don't come up and talk to us like that!^
+^Dialog_1040060_Title^,^Virtue Baros^
+^Dialog_1040060_Text0^,^Khabimist fiends. They drag corpses from the grave and twist innocent townspeople into werewolves and vampires. We should have destroyed them long ago.^
+^Dialog_1040060_Answer_9_Text^,^I want to learn a skill.^
+^Dialog_1040061_Title^,^Jeffy^
+^Dialog_1040061_Text0^,^I... I don't feel so good... ^
+^Dialog_1040062_Title^,^Werewolf Jeffy^
+^Dialog_1040062_Text0^,^How...  Did I become so monstrous? What happened?^
+^Dialog_1040063_Title^,^Hakanas Kingdom Transit Shrine^
+^Dialog_1040063_Text0^,^This transit shrine will take you to Hakain's Crossing.^
+^Dialog_1040063_Answer_0_Text^,^Travel to Hakain's Crossing^
+^Dialog_1040064_Title^,^Brakarr Forest Transit Shrine^
+^Dialog_1040064_Text0^,^This transit shrine will take you to Brakarr Forest.^
+^Dialog_1040064_Answer_0_Text^,^Travel to Brakarr Forest ^
+^Dialog_1040065_Title^,^Hugh^
+^Dialog_1040065_Text0^,^What did we do to deserve this?^
+^Dialog_1050100_Title^,^Parvang^
+^Dialog_1050100_Text0^,^Are you all right? I'm sorry... If I'd been more in control, this wouldn't have happened...^
+^Dialog_2023005_title^,^Mac the Merchant^
+^Dialog_2023005_text0^,^Welcome.<br><br>We have everything of everything and nothing of nothing!^
+^Dialog_2023005_answer_2_text^,^General Shop^
+^Dialog_2023006_title^,^Outfitter Bolt^
+^Dialog_2023006_text0^,^We have all the equipment in the world! Sort of!^
+^Dialog_2023006_answer_2_text^,^Equipment Shop^
+^Dialog_2023007_title^,^Arms Dealer Robun^
+^Dialog_2023007_text0^,^A weapon you can trust your life with! You can't just get that anywhere except here!^
+^Dialog_2023007_answer_0_text^,^Weapon Shop^
+^Dialog_2023008_title^,^Paul^
+^Dialog_2023008_text0^,^One-handed or two-handed, I've got you covered. Just name your weapon!^
+^Dialog_2023008_answer_2_text^,^Weapon Shop^
+^Dialog_2023009_title^,^Arms Dealer Feighan^
+^Dialog_2023009_text0^,^Weapons need to be replaced, like any other tool. And don't buy cheap weapons. It just isn't worth risking your life over.^
+^Dialog_2023009_answer_0_text^,^Weapon Shop^
+^Dialog_2023010_title^,^Armorer Rolinoa^
+^Dialog_2023010_text0^,^Defense is the best offense, and don't let anyone tell you otherwise!^
+^Dialog_2023010_answer_0_text^,^Armor Shop^
+^Dialog_2023011_title^,^Armorer Clark^
+^Dialog_2023011_text0^,^Look at you! I bet most enemies can't even land one hit on you. But, for the rare enemy that does get a lucky shot in, wouldn't you like some fine armor? Please, browse my wares.^
+^Dialog_2023011_answer_0_text^,^Armor Shop^
+^Dialog_2023012_title^,^Shopkeep Benjamin^
+^Dialog_2023012_text0^,^I've got all sorts of useful things for sale. Don't go to those other shops. Please!^
+^Dialog_2023012_answer_0_text^,^General Shop^
+^Dialog_2023013_title^,^Outfitter Jeff^
+^Dialog_2023013_text0^,^Even the smallest thing can make a difference on the battlefield. So why take a chance on your armor?^
+^Dialog_2023013_answer_2_text^,^Equipment Shop^
+^Dialog_2023014_title^,^Apothecary Roland^
+^Dialog_2023014_text0^,^In an emergency, there's nothing like a potion. My goods aren't cheap, but you'll be happy to have them!^
+^Dialog_2023014_answer_2_text^,^Potion Shop^
+^Dialog_2023015_title^,^Armorer Cron^
+^Dialog_2023015_text0^,^Real men are picky about their armor. Sure, survival is important, but is that all you need?^
+^Dialog_2023015_answer_0_text^,^Armor Shop^
+^Dialog_2023016_title^,^Arms Merchant Beck^
+^Dialog_2023016_text0^,^You looking for a weapon out here? It's none of my business, but that seems pretty unprepared.<br><br>I've got a few things to look at, if you're desperate.^
+^Dialog_2023016_answer_2_text^,^Weapon Shop^
+^Dialog_2023017_title^,^Amorer Svent^
+^Dialog_2023017_text0^,^Great masters know great things!<br><br>I have some great things. You can have them all, as long as you have money.^
+^Dialog_2023017_answer_0_text^,^Armor Shop^
+^Dialog_2023018_title^,^Bentley^
+^Dialog_2023018_text0^,^If you want to survive the wild, you need protection. Is there something you're looking for?^
+^Dialog_2023018_answer_2_text^,^Armor Shop^
+^Dialog_2023019_title^,^Lina^
+^Dialog_2023019_text0^,^Take a look around. I hope you find what you're looking for.^
+^Dialog_2023019_answer_2_text^,^General Shop^
+^Dialog_2023020_title^,^Maggie^
+^Dialog_2023020_text0^,^Even adventurers must eat. You can't have an empty stomach when you go fighting and wrestling and what not!^
+^Dialog_2023020_answer_2_text^,^Grocer^
+^Dialog_2023021_title^,^Grocer Gina^
+^Dialog_2023021_text0^,^Delicious food! What more could you possibly need?^
+^Dialog_2023021_answer_0_text^,^Grocer^
+^Dialog_2023022_title^,^Shopkeep Molly^
+^Dialog_2023022_text0^,^Steer clear of the farms, stranger. The vampires aren't playing around.<br><br>Luckily for us, the capital sent some soldiers to keep us safe. They aren't bad to look at, either.^
+^Dialog_2023022_text0_0_text^,^<br><br>Too bad the vampires aren't more friendly. Could you imagine falling in love... for all eternity?^
+^Dialog_2023022_answer_2_text^,^General Shop^
+^Dialog_2023023_title^,^Grocer Peggy^
+^Dialog_2023023_text0^,^Nutritious and tasty! If you want both, you've come to the right gal.^
+^Dialog_2023023_answer_2_text^,^Grocer^
+^Dialog_2023024_title^,^Grocer Laura^
+^Dialog_2023024_text0^,^Great food is all about preparation and love, and I've got both in spades. Care to buy something?^
+^Dialog_2023024_answer_0_text^,^Grocer^
+^Dialog_2023025_title^,^Potion Seller Elina^
+^Dialog_2023025_text0^,^Damned Alchemists are always so stingy. I buy so many potions off of them and they never give me a discount! Still...what can I do?^
+^Dialog_2023025_answer_0_text^,^Potion Shop^
+^Dialog_1040066_title^,^Shrine Keeper Afris^
+^Dialog_1040066_text0^,^You can use this transit shrine to teleport to other shrines within the region. You'll find world shrines in larger hubs that can travel between continents, but I'm not qualified to operate those yet. ^
+^Dialog_1040066_answer_0_text^,^Fast Travel^
+^Dialog_1040068_title^,^Advanced Transit Shrine Keeper Antelope^
+^Dialog_1040068_text0^,^This shrine can take you to a number of other shrines, including faraway continents. ^
+^Dialog_1040068_answer_0_text^,^Fast Travel^
+^Dialog_1040069_title^,^Shrine Keeper Aronward^
+^Dialog_1040069_text0^,^This shrine can transport you just about anywhere in the world.<br><br>Of course, there's a small fee for jumping through time and space.^
+^Dialog_1040069_answer_0_text^,^Fast Travel^
+^Dialog_1040070_title^,^Captain Levin Kotter^
+^Dialog_1040070_text0^,^It's been a little wild around here lately, but we're trying our best to protect this place.^
+^Dialog_1040070_Answer_1_Text^,^I want to learn a skill.^
+^Dialog_1040071_title^,^Lord Balleroa^
+^Dialog_1040071_text0^,^The courtiers look down on a highlands noble like me, but I'm just the man to save Hakain's Crossing from itself. We need country values! Piety, charity for the poor, and the expulsion of all non-human foreigners!^
+^Dialog_1040072_title^,^Sir San Garlen^
+^Dialog_1040072_text0^,^Do you have something to tell me?^
+^Dialog_1040073_title^,^Market Broker Harridman^
+^Dialog_1040073_text0^,^If you're here to buy or sell, then speak. I've got no time for small talk!^
+^Dialog_1040073_answer_1_text^,^Marketplace^
+^Dialog_1040074_title^,^Vessel Captain Yorof^
+^Dialog_1040074_text0^,^I'll head out anywhere for a fare. Where did you have in mind?^
+^Dialog_1040075_title^,^Sky Titan Captain Spinit^
+^Dialog_1040075_text0^,^Wait a minute. We're still waiting on some other passengers.^
+^Dialog_1040076_title^,^Royal Treasurer Trisen^
+^Dialog_1040076_text0^,^If you want to be wealthy, you have to look at the forest, not the tree. Look for cash flows and make the right investments. And never be afraid of a little advice.^
+^Dialog_1040077_title^,^Virtue Linetta^
+^Dialog_1040077_text0^,^In spite of what some of my colleagues would have you believe, the Virtues exist first and foremost to uphold justice in the face of evil. A studious mind and a knack for magic alone won't get you into the Arcanum.^
+^Dialog_1040078_title^,^Master Blacksmith Tuhorin^
+^Dialog_1040078_text0^,^You! Are you interested in becoming a blacksmith? That's all you need!^
+^Dialog_1040079_title^,^Haslem^
+^Dialog_1040079_text0^,^Hakain's ghost! You scared me! Don't creep up on a guy so quiet, would ya? I thought some zombie had snuck into the camp!^
+^Dialog_1040080_title^,^Master Armorsmith Swin^
+^Dialog_1040080_text0^,^Hmm... I can't believe you put those rags on... You know, the world is not always about being efficient and practical.^
+^Dialog_1040080_text0_attach_0^,^<br><br>I suppose practicality is important. Armor is for defense, after all. But don't you think you should care about how others see you?^
+^Dialog_1040081_title^,^Guardsman Diego^
+^Dialog_1040081_text0^,^Be careful, traveler. The roads aren't safe anymore. I've even heard reports of dragons nearby.^
+^Dialog_1040082_title^,^Brody^
+^Dialog_1040082_text0^,^The Dragon Knights have a camp not far from here. I wonder if they'd ever let me join up? My friends say I should be happy in the city guard, but I don't know...^
+^Dialog_1040083_title^,^Aida^
+^Dialog_1040083_text0^,^Who... Who are you? Where am I? <br><br>My son, where is my son Jeffy?^
+^Dialog_1040084_title^,^Queen Veneficia^
+^Dialog_1040084_text0^,^My daughter is a gentle soul, but the blood of Hakain runs through her veins. I have faith that she will hold strong until you rescue her.^
+^Dialog_9011008_title^,^Taming  Guide^
+^Dialog_9011008_text0^,^Let's learn how to tame animals.<br><br>First, select an animal that can be tamed.<br><br>Second, get close and use your taming skills.<br><br>^
+^Dialog_9011008_text0_attach_0^,^Finally, approach carefully and jump! Make sure you aim properly, or you'll be in for fight.<br><br>Balance yourself and do your best to hang on until it calms down.<br><br>If you succeed, you'll have yourself a new familiar.^
+^Dialog_3020702_Title^,^Dyer Lables^
+^Dialog_3020702_Text0^,^Welcome. How may I help you?^
+^Dialog_3020702_Answer_0_Text^,^I'd like to dye an item.^
+^Dialog_3020702_Answer_1_Text^,^I'd like to dye my hair.^
+^Dialog_3020901_Title^,^Mender^
+^Dialog_3020901_Text0^,^Be at ease. You're safe here.^
+^Dialog_3020901_Answer_0_Text^,^Cure Dire Wounds^
+^Dialog_3020901_Answer_1_Text^,^About Dire Wounds^
+^Dialog_3020902_Title^,^Mender^
+^Dialog_3020902_Text0^,^Be at ease. You're safe here.^
+^Dialog_3020902_Answer_0_Text^,^Cure Dire Wounds^
+^Dialog_3020902_Answer_1_Text^,^About Dire Wounds^
+^Dialog_9999999_Title^,^Last Number of Dialogue^
+^Dialog_9999999_Text0^,^Last Number of Dialogue^
+^Dialog_3020703_Title^,^Dyer Irina^
+^Dialog_3020703_Text0^,^Welcome. How may I help you?^
+^Dialog_3020703_Answer_0_Text^,^I'd like to dye an item.^
+^Dialog_3020703_Answer_1_Text^,^I'd like to dye my hair.^
+^Dialog_3020704_Title^,^Dyer Rose^
+^Dialog_3020704_Text0^,^Welcome. How may I help you?^
+^Dialog_3020704_Answer_0_Text^,^I'd like to dye an item.^
+^Dialog_3020704_Answer_1_Text^,^I'd like to dye my hair.^
+^Dialog_1000001_Title^,^[THIS IS A BUG]  G☆STAR The Eventsman^
+^Dialog_1000001_Text0^,^[THIS IS A BUG] Welcome!<br><br>G☆STAR 2010! Are you having fun?<br><br>Have more fun with NED!^
+^Dialog_1040085_Title^,^Transit Mage Dyran^
+^Dialog_1040085_Text0^,^The Hall of Knowledge is hidden within Hakanas castle. You will need help from a mage like myself to get there. Would you like to go?^
+^Dialog_1040085_Answer_0_Text^,^I'd like to go to the Hall of Knowledge.^
+^Dialog_1040086_Title^,^Transit Mage Lucos^
+^Dialog_1040086_Text0^,^You will need our help to leave here as well. Would you like to go back to the castle now?^
+^Dialog_1040086_Answer_0_Text^,^I'd like to go back to the castle.^
+^Dialog_1040087_Title^,^Ander Pilgrim^
+^Dialog_1040087_Text0^,^...^
+^Dialog_1040088_Title^,^Behain^
+^Dialog_1040088_Text0^,^Keep your voice down.^
+^Dialog_1040089_Title^,^Sir Ripley^
+^Dialog_1040089_Text0^,^What business do you have talking to a knight?^
+^Dialog_1040090_Title^,^Strongarm Stevens^
+^Dialog_1040090_Text0^,^Leave me alone. I can be as drunk as I wanna drunk!^
+^Dialog_1040091_Title^,^Celene^
+^Dialog_1040091_Text0^,^I really hope my dear princess is safe.^
+^Dialog_1040092_Title^,^Lady Ekaterina^
+^Dialog_1040092_Text0^,^How dare you talk to me, you peasant?!^
+^Dialog_1040092_answer_0_Text^,^You're acting suspicious. Why are you here?^
+^Dialog_1040093_Title^,^Lis^
+^Dialog_1040093_Text0^,^Thank the light you aren't one of them! My friends... the guards and the maids, they all turned into vampires! I'm so scared. I can't handle this anymore!^
+^Dialog_9011009_Title^,^Lady Ekaterina^
+^Dialog_9011009_Text0^,^Why do you ask? Are you going to tell Princess Lania?<br><br>Go ahead! Tell her! Tell her, if you can still find her here!<br><br>Wait, that's right. You can't because you will be disappearing soon!^
+^Dialog_2021101_Title^,^Kyklop^
+^Dialog_2021101_Text0^,^Weapon crafting isn't for everyone!^
+^Dialog_2021101_Answer_2_Text^,^Train Weapon Crafting^
+^Dialog_2021101_Answer_1_Text^,^Crafting Weapons^
+^Dialog_2021101_Answer_9_Text^,^Raising Your Weapon Crafting Level^
+^Dialog_2021101_Answer_10_Text^,^How can I be successful in weapon crafting?^
+^Dialog_2021101_Answer_11_Text^,^What materials do I need for weapon crafting?^
+^Dialog_2021101_Answer_12_Text^,^Weapon Anvils^
+^Dialog_2021201_Title^,^Joyce^
+^Dialog_2021201_Text0^,^I feel blessed to be able to make such fine armors.^
+^Dialog_2021201_Answer_2_Text^,^Train Armor Crafting^
+^Dialog_2021201_Answer_1_Text^,^Crafting Armor^
+^Dialog_2021201_Answer_10_Text^,^Raising Your Armor Crafting Level^
+^Dialog_2021201_Answer_11_Text^,^How can I be successful in armor crafting?^
+^Dialog_2021201_Answer_12_Text^,^What materials do I need for armor crafting?^
+^Dialog_2021201_Answer_13_Text^,^Armor Anvils^
+^Dialog_2021301_Title^,^Chef Thomas^
+^Dialog_2021301_Text0^,^A great dish is more than just great food. It can lift spirits, inspire hope, even grant new strength! Everyone should know how to cook.^
+^Dialog_2021301_Answer_3_Text^,^Train Cooking^
+^Dialog_2021301_Answer_4_Text^,^Cooking Food^
+^Dialog_2021301_Answer_5_Text^,^Increasing Your Cooking Level^
+^Dialog_2021301_Answer_6_Text^,^How can I be successful in cooking?^
+^Dialog_2021301_Answer_7_Text^,^What do I need to cook?^
+^Dialog_2021301_Answer_8_Text^,^Cooking Stations^
+^Dialog_2021401_Title^,^Hooban^
+^Dialog_2021401_Text0^,^Alchemy is the science of creation! Everything that exists in this world can be made or unmade with the power we wield!^
+^Dialog_2021401_Answer_3_Text^,^Train Alchemy^
+^Dialog_2021401_Answer_4_Text^,^Mixing Potions^
+^Dialog_2021401_Answer_5_Text^,^Raising Your Alchemy Level^
+^Dialog_2021401_Answer_6_Text^,^How can I be successful in alchemy?^
+^Dialog_2021401_Answer_7_Text^,^What do I need to perform alchemy?^
+^Dialog_2021401_Answer_8_Text^,^Alchemy Labs^
+^Dialog_2021501_Title^,^Corinne Bouvier^
+^Dialog_2021501_Text0^,^A good weapon and trusty armor is fine, darling, but a fine ring does so much more for you! You want to look good when you're out, right?^
+^Dialog_2021501_Answer_0_Text^,^Train Jewelry Crafting^
+^Dialog_2021501_Answer_1_Text^,^Crafting Jewelry^
+^Dialog_2021501_Answer_10_Text^,^Increasing Your Jewelry Craft Level^
+^Dialog_2021501_Answer_11_Text^,^How can I be successful in jeweling?^
+^Dialog_2021501_Answer_12_Text^,^What do I need to work on jeweling?^
+^Dialog_2021501_Answer_13_Text^,^Jewelry Craft Stations^
+^Dialog_2021601_Title^,^John Henry Barbre^
+^Dialog_2021601_Text0^,^Your familiars are every bit as deserving of equipment as you are. You wouldn't run into battle naked, would you?^
+^Dialog_2021601_Answer_2_Text^,^Train Barder Craft^
+^Dialog_2021601_Answer_1_Text^,^Crafting Barding^
+^Dialog_2021601_Answer_5_Text^,^Increasing Your Barder Craft Level^
+^Dialog_2021601_Answer_6_Text^,^How can I be successful in barder craft?^
+^Dialog_2021601_Answer_7_Text^,^What do I need to work on barder craft?^
+^Dialog_2021601_Answer_8_Text^,^Barder Craft Tables^
+^Dialog_2021601_Answer_10_Text^,^Hakain's Crossing Ground Familiars^
+^Dialog_2021601_Answer_11_Text^,^Hakain's Crossing Air Familiar^
+^Dialog_2020401_Title^,^Avarice Sea Bulletin Board^
+^Dialog_2020401_Text0^,^Acts of vandalism on this board will be considered treason against King Ronfraine III and will be punished to the full extent of Hakanas law.^
+^Dialog_2020401_Answer_0_Text^,^I want to learn a skill.^
+^Dialog_3020801_Title^,^Victory Shrine^
+^Dialog_3020801_Text0^,^Teleports you to safety. ^
+^Dialog_3020801_Answer_0_Text^,^Exit Lavalight Cave^
+^Dialog_1020086_Title^,^Crow^
+^Dialog_1020086_Text0^,^Where could they have taken the princess? The highlands? Parna's Coast?^
+^Dialog_1020086_Text0_attach_0^,^<br><br>Bah. We'll concern ourselves with that later. For now, we need to get free of this place.^
+^Dialog_1020087_Title^,^Cullaghan^
+^Dialog_1020087_Text0^,^That Emberstone Golem will take you apart unless you're prepared. You need four items for me to help you, and Frosted Cloth is the first.^
+^Dialog_1020088_Title^,^Crow^
+^Dialog_1020088_Text0^,^The mages of the Khabim Brotherhood aren't going to wait around for us to figure out how to stop them. We need to act quickly or we'll never get out of this forest. ^
+^Dialog_1020089_Title^,^Private Alloce^
+^Dialog_1020089_Text0^,^My current duty is to look after Lead Archaeologist Rehan and keep an eye on the Northern Ruins. Honestly, I'd rather be on the front lines than babysitting.^
+^Dialog_1020090_Title^,^Lead Archaeologist Rehan^
+^Dialog_1020090_Text0^,^The Northern Ruins are all that remain of a place destroyed by Zelnaris during the War of Light. It has been forgotten by so many... which means there may yet be secrets to uncover there.^
+^Dialog_9011011_Title^,^Monster Affinity^
+^Dialog_9011011_Text0^,^I'll send you where you need to go. Seek out Commander Garland straight away.^
+^Dialog_9011012_Title^,^Item Affinity  ^
+^Dialog_9011012_Text0^,^You can buy affinity items from some merchants. More powerful affinity items can be crafted or purchased from the marketplace.^
+^Dialog_9015030_Title^,^Fallen Sky Titan^
+^Dialog_9015030_Text0^,^The sky titan took a direct hit. I'll do everything I can for her, but I don't think she's going to make it...^
+^Dialog_9015040_Title^,^The Journey Ahead^
+^Dialog_9015040_Text0^,^It sounds like the way to Hakain's Crossing is blocked. I don't know the details, myself.^
+^Dialog_9015050_Title^,^Survivors^
+^Dialog_9015050_Text0^,^We lost a few good engineers in the crash, but it looks like most of the crew made it. I only hope we have enough blades to carve a path out of this accursed forest.^
+^Dialog_9015060_Title^,^Brakarr Forest^
+^Dialog_9015060_Text0^,^Brakarr Forest is dense and wild, thanks in large part to the braghins. They've turned this quiet grove into a death trap.^
+^Dialog_9015070_Title^,^Reaching the Capital^
+^Dialog_9015070_Text0^,^Normally we could teleport straight to the capital, but Lestin here tells me that the forest transit shrines have been deactivated. Sounds like we'll have to fight our way out.^
+^Dialog_9015080_Title^,^Princess Lania^
+^Dialog_9015080_Text0^,^The sooner we can reach the capital, the sooner we can track down the princess. Rondo and his Frost Guard are living on borrowed time...and I'm itching to collect. ^
+^Dialog_9015090_Title^,^Timber Lake^
+^Dialog_9015090_Text0^,^The lumber here is top-notch, but Brakarr Forest has its fair share of danger. The braghins don't cut down many trees, but they sure like to go after our loggers...^
+^Dialog_9015100_Title^,^Hard Landing^
+^Dialog_9015100_Text0^,^It all happened so fast. I've never seen a sky titan fall out of the sky like that. I hope that was the last time I see it, too.^
+^Dialog_9015110_Title^,^Princess Lania^
+^Dialog_9015110_Text0^,^The princess wields the power of Ellora. Perhaps Salant is fearful of that power.^
+^Dialog_9015120_Title^,^Survivors^
+^Dialog_9015120_Text0^,^These people need help. Quickly! There's no time to waste!^
+^Dialog_9015130_Title^,^Lestin^
+^Dialog_9015130_Text0^,^Lestin was the best woodcutter around until he saved up his gold and bought the camp outright. Now he's rolling in cash, but what good is that if he's trapped here with the rest of us?^
+^Dialog_9015140_Title^,^Fire^
+^Dialog_9015140_Text0^,^Your sky titan started this! A fire like this could completely destroy our livelihood. Even if we survive, we're ruined if we don't put out these flames.^
+^Dialog_9015150_Title^,^Princess Lania^
+^Dialog_9015150_Text0^,^Poor Princess Lania. She barely escaped from Duke Elder's plot, just to run into the very descendant of the God of Ruin... Such a shame.^
+^Dialog_9015160_Title^,^Princess Lania^
+^Dialog_9015160_Text0^,^Princess Lania visited Brakarr Forest in secret once. She wanted to rally us soldiers fighting the braghins, and that's just what she did.^
+^Dialog_9015170_Title^,^Braghins^
+^Dialog_9015170_Text0^,^The braghins came out of nowhere. The fact that the mustered so close to Hakain's Crossing is a mark against the Dragon Knights.^
+^Dialog_9015180_Title^,^Taming Methods^
+^Dialog_9015180_Text0^,^I studied at the Familiar Academy, and let me tell you, we take taming very seriously. To tame the beast, you must think like the beast, respect the beast, love the beast...^
+^Dialog_9015190_Title^,^About Familiars^
+^Dialog_9015190_Text0^,^Just about everything that can be mounted can be tamed. However, that doesn't mean that they are EASY to tame.^
+^Dialog_9015200_Title^,^An Old Fight^
+^Dialog_9015200_Text0^,^I never thought the campaign against the braghins would be so drawn out. Of course, no one foresaw the barrier complicating matters. But as Dragon Knights, retreat is never an option.^
+^Dialog_9015210_Title^,^Ballista^
+^Dialog_9015210_Text0^,^Those walking rugs didn't make their own siege weapons, I'll tell you that. Whoever supplied the braghins with ballistae is next on my list.^
+^Dialog_9015220_Title^,^Mana^
+^Dialog_9015220_Text0^,^The unseen forces of this world come in many varieties, as do the sources from which we draw them. One must be careful not to dip into the magic of devils, lest it overtake everything they do.^
+^Dialog_9015230_Title^,^Princess Lania^
+^Dialog_9015230_Text0^,^I, too, have met Princess Lania. She is the very vision of our sacred Ellora... Well, I assume she is. Being in the presence of the princess is such a moving experience.^
+^Dialog_9015240_Title^,^Elves^
+^Dialog_9015240_Text0^,^The elves were the first of the three races Ellora created. In fact, the word "elf" is derived from Ellora's name. That is why we are among her most devout worshipers. ^
+^Dialog_9015250_Title^,^Hakain's Crossing^
+^Dialog_9015250_Text0^,^The capital is a beautiful place. When I was there for the Knight's Inauguration, I felt like I was surrounded by gold and white jade... I even acted like I was friends with the Princess's Guard Knight.^
+^Dialog_9015260_Title^,^Princess Lania^
+^Dialog_9015260_Text0^,^ALL members of the Dragon Knights know the princess! She's the one we're fighting for, after all!^
+^Dialog_9015270_Title^,^Dragon Knight Scouts^
+^Dialog_9015270_Text0^,^The Dragon Knights are divided into two squads. I'm part of the scouting squad and Rolen is part of the main force. There used to be a distinction between the two, but since the war, we've all been battling on the front lines.^
+^Dialog_9015280_Title^,^Ruins^
+^Dialog_9015280_Text0^,^They say the forest ruins are haunted. Some of the Dragon Knights who went in still haven't returned. Still, it's our only chance to break the barrier. ^
+^Dialog_9015290_Title^,^Private Boris^
+^Dialog_9015290_Text0^,^Boris is the best scout in the Dragon Knights! He's the only one who's made it out of the ruins. He's certain to be of help.^
+^Dialog_9015300_Title^,^Salant^
+^Dialog_9015300_Text0^,^You heard me. Salant is the great-great-great-great grandson of the God of Ruin. That's what my buddies say, anyway. The older knights refuse to talk about him...^
+^Dialog_9015310_Title^,^Princess Lania^
+^Dialog_9015310_Text0^,^Princess Lania brought peace to this treacherous place. After her visit, the fairies of the Shimmerwood calmed down for a time. If only she could have done the same for the braghins...^
+^Dialog_9015320_Title^,^Princess Lania^
+^Dialog_9015320_Text0^,^Only Princess Lania was able to communicate with the ghosts of the ruins. If only she were here today...^
+^Dialog_9015330_Title^,^Ruins^
+^Dialog_9015330_Text0^,^There's no time to waste here. The ghost of the ruins grows stronger and more cruel with each moment. Let us end his reign and return to the capital, shall we?^
+^Dialog_9015340_Title^,^Braghins^
+^Dialog_9015340_Text0^,^I heard that braghins like shiny objects such as crystals and jewels. So even braghins have a sense of beauty, huh?^
+^Dialog_9015350_Title^,^Fairies^
+^Dialog_9015350_Text0^,^The fairies here are way different from the fairies I read about in my youth. They were supposed to be playful and gentle, but all of them, including Elquines, are filled with hate and rage. They want to kill us whenever they see us. Princess Lania was the only person the fairies didn't attack.^
+^Dialog_9015360_Title^,^Taming Conditions^
+^Dialog_9015360_Text0^,^I'm sorry, but I can't teach you the taming skill. Researchers of the Familiar Academy will be able to teach it to you. It's to the west of Hakain's Crossing, so I suggest you pay it a visit.^
+^Dialog_9015370_Title^,^About Familiars^
+^Dialog_9015370_Text0^,^It's possible to tame a familiar that will one day learn to fly. The Pegasus is one such familiar, the very same that the Pegasus Knights ride. They're so majestic!^
+^Dialog_9015380_Title^,^Dragon Knight^
+^Dialog_9015380_Text0^,^The Order of Velzeroth is considered the true founders of Hakanas... But don't try to convince the Pegasus Knights of that. It'd be a waste of breath.^
+^Dialog_9015390_Title^,^Princess Lania^
+^Dialog_9015390_Text0^,^Princess Lania is the pride of Hakanas. She's blessed by Ellora, and she used that blessing to help the people. She would've made a fine queen... Sorry, she WILL make a fine queen.^
+^Dialog_9015400_Title^,^Princess Lania and the Fairies^
+^Dialog_9015400_Text0^,^Princess Lania was the first Hakanasian to open dialogue with the fairies. They attacked her when she approached, but she ignored it. Even when they hurt her, she kept walking forward, one foot in front of the other...^
+^Dialog_9015410_Title^,^Princess Lania and the Fairies 2^
+^Dialog_9015410_Text0^,^Princess Lania spoke with the fairies and made a promise to Queen Elquines. For a while, the fairies stopped attacking humans... until now.^
+^Dialog_9015420_Title^,^Princess Lania and the Fairies^
+^Dialog_9015420_Text0^,^People used to view fairies as common monsters. Princess Lania, on the other hand, recognized the beauty of the Shimmerwood and its caretakers.^
+^Dialog_9015430_Title^,^Princess Lania's Promise^
+^Dialog_9015430_Text0^,^I'm not sure what it could have been. Perhaps she wanted to give her something. Maybe she promised Elquines a husband!^
+^Dialog_9015440_Title^,^Princess Lania^
+^Dialog_9015440_Text0^,^In all my life, I've never seen someone as beautiful as Princess Lania! Her elegant face and full... never mind. Most of all, I'm impressed by her kind heart. Once these braghins are taken care of, I'm sure she'll be priority number one!^
+^Dialog_9015450_Title^,^Odd Name^
+^Dialog_9015450_Text0^,^Should I have a nice Exarahnian name, like Krazahlad? Or maybe a Rodun name, like Magicus? Or I could go Dalgatan and call myself Jones!<br><br>Folks in the capital love to trace their names back to the old kingdoms, but when good old Hakain I united mankind two centuries back, he also accepted a bunch of smaller tribes into Hakanas. I'm proud of my name, even if it comes from some backwater nobody ever heard of.^
+^Dialog_9015460_Title^,^Favorite Sow^
+^Dialog_9015460_Text0^,^My favorite sow, Mio, used to get herself into all sorts of mischief. One time, she found herself surrounded by pig-eating fairies and I had to send a naive young ranger to lead her back here. What a quest that was! Sorry you'll never get to see it, but the higher-ups seemed to think jobs like that weren't worthy of adventurers like yourself.^
+^Dialog_9015470_Title^,^Boar Meat^
+^Dialog_9015470_Text0^,^There's a boar that walked into the station all on its own, already cooked. He was plump and delicious. We don't know where he came from. A pre-cooked boar is a rare thing, right?^
+^Dialog_9015480_Title^,^Wolf^
+^Dialog_9015480_Text0^,^My name is Wolfrick because my pop had a run-in with a wolf in the mountains when my ma was pregnant. If he'd run into a pig, I'd be Pigrick, or if it was a cow I'd be Cowrick. I guess I should be thankful it was a wolf.^
+^Dialog_3020802_Title^,^Victory Shrine^
+^Dialog_3020802_Text0^,^Teleports you to safety. ^
+^Dialog_3020802_Answer_0_Text^,^Exit Carleon Manor^
+^Dialog_3020803_Title^,^Victory Shrine^
+^Dialog_3020803_Text0^,^Teleports you to safety. ^
+^Dialog_3020803_Answer_0_Text^,^Exit Cold Mines^
+^Dialog_3020804_Title^,^Victory Shrine^
+^Dialog_3020804_Text0^,^Teleports you to safety. ^
+^Dialog_3020804_Answer_0_Text^,^Exit Cavern of the Veil^
+^Dialog_3020805_Title^,^Victory Shrine^
+^Dialog_3020805_Text0^,^Teleports you to safety. ^
+^Dialog_3020805_Answer_0_Text^,^Exit Frost Keep^
+^Dialog_1020094_Title^,^Beast Trainer Blanc^
+^Dialog_1020094_Text0^,^I'm Blanc. Me and Aksel can tell you all about beast taming.^
+^Dialog_1020094_Answer_5_Text^,^Taming Conditions^
+^Dialog_1020094_Answer_6_Text^,^About Familiars^
+^Dialog_1020095_Title^,^Tortus^
+^Dialog_1020095_Text0^,^Why did it have to be Brakarr Forest? This place is crawling with braghins. Next time someone suggests a shortcut, I'm going to cave their head in.^
+^Dialog_1020095_Answer_2_Text^,^Survivors^
+^Dialog_1020096_Title^,^Tortus^
+^Dialog_1020096_Text0^,^The braghins aren't going to let us waltz through their territory. If we want to reach the capital, we'll have to fight.^
+^Dialog_1020096_Answer_0_Text^,^Princess Lania^
+^Dialog_1020094_Answer_0_Text^,^Taming Familiars^
+^Dialog_1020094_Answer_1_Text^,^Familiar Shop^
+^Dialog_1020094_Answer_2_Text^,^Unlock Familiar Growth^
+^Dialog_1020094_Answer_3_Text^,^Learn Mount Skill^
+^Dialog_1020094_Answer_4_Text^,^Unlock Familiar Slots^
+^Dialog_1020097_Title^,^Private Wolfrick^
+^Dialog_1020097_Text0^,^I'm not slacking off! What can I do for you?^
+^Dialog_1020097_Answer_6_Text^,^Odd Name^
+^Dialog_1020097_Answer_7_Text^,^Wolfrick^
+^Dialog_1020098_Title^,^Lestin^
+^Dialog_1020098_Text0^,^I'm Lestin, and this is my logging camp. You crashed with the rest of these folks?^
+^Dialog_1020099_Title^,^Chiki the Tree Fairy^
+^Dialog_1020099_Text0^,^Hi there! I'm Chiki the fairy! Nice to meet you. Is this your first time in our forest? ^
+^Dialog_1020100_Title^,^Chiki the Tree Fairy^
+^Dialog_1020100_Text0^,^Isn't the Shimmerwood pretty? I don't want to leave here ever. There's probably nowhere as beautiful as this in the whole wide world!^
+^Dialog_1420010_Title^,^Tortus^
+^Dialog_1420010_Text0^,^You'd better hurry. The king must know what's happened here.^
+^Dialog_1420011_Title^,^Dame Rena^
+^Dialog_1420011_Text0^,^Finally, the Northern Ruins. We'll enter the capital by passing through here and destroying the barrier.^
+^Dialog_2021005_Title^,^Dahf^
+^Dialog_2021005_Text0^,^Your weapons aren't in the best condition. Why don't you browse through the weapons I have for sale? I guarantee you won't leave here without one!^
+^Dialog_2021005_Answer_7_Text^,^Weapons^
+^Dialog_2021005_Answer_8_Text^,^Princess Lania and the Fairies^
+^Dialog_2021005_Answer_9_Text^,^Princess Lania's Promise^
+^Dialog_1040000_Title^,^Private Curtis^
+^Dialog_1040000_Text0^,^What are you doing here? This is a battlefield! If you catch a ballista bolt to the chest, don't say I didn't warn you!  ^
+^Dialog_1030099_Title^,^Curtis's Panther Luna^
+^Dialog_1030099_Text0^,^Grr... Grrrrrr... RAAAWR! (Luna cowers and looks agitated)^
+^Dialog_1030098_Title^,^Slow-Roasted Boar^
+^Dialog_1030098_Text0^,^(A scrumptious, golden-brown boar.)^
+^Dialog_1030097_Title^,^Curtis's Panther Luna^
+^Dialog_1030097_Text0^,^(The panther purrs and nips playfully at your legs.)^
+^Dialog_1104000_Title^,^Private Curtis^
+^Dialog_1104000_Text0^,^You're the one who brought back my dear Luna... <br><br>Thank you so much! If we return to the capital, I will be sure to repay you! <br><br>Please take care of yourself, and try not to stand where the ballista is firing.  ^
+^Dialog_1040123_Title^,^Zeloth^
+^Dialog_1040123_Text0^,^You've completed the mission!^
+^Dialog_9015490_Title^,^Little Bird^
+^Dialog_9015490_Text0^,^Help! If anyone can see me, please help!^
+^Dialog_9015490_Answer_5_Text^,^Becoming a Bird^
+^Dialog_9015490_Answer_6_Text^,^Father's Absence^
+^Dialog_9015490_Answer_7_Text^,^The Reason for Being^
+^Dialog_9015500_Title^,^Recruit Elsar^
+^Dialog_9015500_Text0^,^Is... Is something wrong?!^
+^Dialog_9015510_Title^,^Narin^
+^Dialog_9015510_Text0^,^There! Just a little more! You'll be able to fly soon, little birdie!^
+^Dialog_9015520_Title^,^Keersha^
+^Dialog_9015520_Text0^,^What are you looking at? I'm just a wanderer willing to face any challenger. Sure, it MIGHT have been a bit dangerous THIS time, but there is no reward without great risk. I don't have much to offer... except for my signature. Do you want it? You won't be able to afford it when I become famous! HAHA! ^
+^Dialog_9015530_Title^,^Truth-Seer^
+^Dialog_9015530_Text0^,^There is so much to discover in this world. It takes hard work, but learning is its own reward, isn't it?^
+^Dialog_9015530_answer_11_text^,^Explorations^
+^Dialog_9015540_Title^,^Narin's Familiar^
+^Dialog_9015540_Text0^,^(The familiar makes a tired noise.)^
+^Dialog_9015550_Title^,^Recruit Elsar^
+^Dialog_9015550_Text0^,^It's cursed again! Cursed!^
+^Dialog_9015560_Title^,^Becoming a Bird^
+^Dialog_9015560_Text0^,^I was very young when I died, so the other ghosts made me do all the grunt work. But my mother managed to get my urn sanctified by a priest of Ellora, and I was reborn as a bird. But now the ghosts have killed my mother and she's become a demon! ^
+^Dialog_9015570_Title^,^Father's Absence^
+^Dialog_9015570_Text0^,^My father was a woodcutter. While he was away for work, I got very, very sick...^
+^Dialog_9015580_Title^,^The Reason for Being^
+^Dialog_9015580_Text0^,^If I look my father, I don't know what the ghosts will do with my remains. If I touched my own body, I might be able to take it back, but I can't exactly share that fact...^
+^Dialog_9015590_Title^,^Rentie^
+^Dialog_9015590_Text0^,^I know all about mushrooms! Fungus is... something between a rock and a plant, right? Like a zombie!^
+^Dialog_9015591_Title^,^The Lost Ring^
+^Dialog_9015591_Text0^,^Have you seen my ring? It has the royal words on it. The princess gave it to me as a gift. I must've lost it when I fell... When I'm done here, I'll go look for it.^
+^Dialog_9015592_Title^,^Concerns^
+^Dialog_9015592_Text0^,^I strive to be a kind soul, but as an advisor to the Dragon Knights, sometimes I must be... callous. We're at war, but seeing the dying braghin is a trying experience. Perhaps Ellora is testing my commitment to kindness.^
+^Dialog_9015593_Title^,^Exploration^
+^Dialog_9015593_Text0^,^The world is full of mystery. Take these ruins, for instance. It seems as if many of the ghosts are still performing the duties they performed in life...^
+^Dialog_9015729_Title^,^Narion^
+^Dialog_9015729_Text0^,^Want to learn about the familiars in Brakarr Forest? You've come to the right gal.^
+^Dialog_9015729_answer_0_text^,^Brakarr Forest Ground Familiars^
+^Dialog_9015729_answer_1_text^,^Familiar Fostering^
+^Dialog_9015730_Title^,^Brakarr Forest Ground Familiars^
+^Dialog_9015730_Text0^,^[Common Ground Familiars]<br>Feral Boar<br>Gray Wolf<br>Savage Gray Wolf<br>Ruins Gray Wolf<br>Gray Wolf Alpha<br>Fury Boar<br>Black Wolf<br>Ruins Tarantula<br><br>[Elite Ground Familiars]<br>Pritsha the Cannibal<br>Taslan the Devourer<br>Cold-Tusk^
+^Dialog_9015731_Title^,^Hakain's Crossing Ground Familiars^
+^Dialog_9015731_Text0^,^[Common Ground Familiars]<br>Brakarr Gallant<br>Hakanian Rouncey<br>Crossing Palfrey<br>Verdant Caribou<br>Elder Caribou<br>Barios<br>Feral Leopard<br>Skar<br>Bakkhus<br>King's Caribou^
+^Dialog_9015732_Title^,^Hakain's Crossing Air Familiar^
+^Dialog_9015732_Text0^,^[Elite Air Familiars]<br>Windrunner 550m^
+^Dialog_1430001_Title^,^Private Corrance^
+^Dialog_1430001_Text0^,^Who are you...? P-please, help me...^
+^Dialog_1430002_Title^,^Evelyn^
+^Dialog_1430002_Text0^,^How did you get here? ^
+^Dialog_1430003_Title^,^Evelyn^
+^Dialog_1430003_Text0^,^It's too cold here. I hate seeing my own breath. I hate the crunch of my feet in the snow. And I hate the nasty beasts who call the cold their home. This place used to be so much warmer than this!^
+^Dialog_1020101_Title^,^Gresky^
+^Dialog_1020101_Text0^,^I'm Gresky, with the Arcanum. After the nasty business with the stranded Dragon Knights, I was sent here to make sure nobody else puts up any pesky barriers. Is there any way I can help you?^
+^Dialog_1020102_title^,^Lotea^
+^Dialog_1020102_Text0^,^Sure, we don't have any of the comforts of the city out here. But I'm happy to rough it a little if it means getting to study all the unique familiars of the forest!^
+^Dialog_1020103_title^,^Jaden^
+^Dialog_1020103_Text0^,^Urgh... Please, help me...^
+^Dialog_9015964_title^,^Familiar Researcher Rottia^
+^Dialog_9015964_text0^,^Nice to meet you. I am Rottia, a Hakanas Capital Castle Familiar Researcher.<br>I can't make my way back to the Capital Castle. I am stuck in Brakarr Forest. I see some precious familiars here.<br>If you have a chance, tame your own familiar.^
+^Dialog_2021102_Title^,^Master Weaponsmith Frank^
+^Dialog_2021102_Text0^,^Weapon crafting isn't for everyone!^
+^Dialog_2021102_Answer_0_Text^,^Train Weapon Crafting^
+^Dialog_2021202_Title^,^Armorer Mallick^
+^Dialog_2021202_Text0^,^I feel blessed to be able to make such fine armors.^
+^Dialog_2021202_Answer_0_Text^,^Train Armor Crafting^
+^Dialog_2021302_Title^,^Master Chef Karl Burr^
+^Dialog_2021302_Text0^,^A great dish is more than just great food. It can lift spirits, inspire hope, even grant new strength! Everyone should know how to cook.^
+^Dialog_2021302_Answer_0_Text^,^Train Cooking^
+^Dialog_2021402_Title^,^Experiment Master Alrok^
+^Dialog_2021402_Text0^,^Alchemy is the science of creation! Everything that exists in this world can be made or unmade with the power we wield!^
+^Dialog_2021402_Answer_0_Text^,^Train Alchemy^
+^Dialog_2021502_Title^,^Jewelry Master Celine^
+^Dialog_2021502_Text0^,^A good weapon and trusty armor is fine, darling, but a fine ring does so much more for you! You want to look good when you're out, right?^
+^Dialog_2021502_Answer_0_Text^,^Train Jewelry Crafting^
+^Dialog_2021606_Title^,^Master Barder Crafter Zamek^
+^Dialog_2021606_Text0^,^Your familiars are every bit as deserving of equipment as you are. You wouldn't run into battle naked, would you?^
+^Dialog_2021606_Answer_0_Text^,^Train Barder Craft^
+^Dialog_1020104_Title^,^Margot <Dragon Knights Advisor>^
+^Dialog_1020104_Text0^,^There is no shortage of troops compared to the current number of braghins, <br>but we will find a way. <br><br> That's why I'm here.^
+^Dialog_1020107_Title^,^Tradie <Hunter of Legends>^
+^Dialog_1020107_Text0^,^I hunt legends, think of it as an investigation of legends of the Hakanas Kingdom. <br>Our achievements will forever be recorded on the Libraries of Hakanas.^
+^Dialog_1020108_Title^,^Zion <Hunter of Legends>^
+^Dialog_1020108_Text0^,^It's been more than a decade since Tradie's suggested to hunt legends. <br>Back then, we all thought everything was just a myth, then a plethora of truths start to unravel. <br><br> The feeling of our childhood fantasies become reality, I will never forget it until I die.^
+^Dialog_1020106_Title^,^Velzera <War Hero>^
+^Dialog_1020106_Text0^,^Do you know the story of the heroes that saved Midellas from the God of Ruin?<br>Yeah, I know, it's a very old story.<br><br>Midellas needs a new hero now…<br><br>Are you ready to be a hero?^
+^Dialog_1020105_Title^,^Crow^
+^Dialog_1020105_Text0^,^I've been searching for the fairy chisel and the ancient hammer for so long.<br>It's quite a burden.<br><br>It's time to break the bonds between us and the Khabim Church^
+^Dialog_1020109_Title^,^Marcci <Chef>^
+^Dialog_1020109_Text0^,^You must be a very hungry! It's going to be mealtime soon, just be patient. <br><br> If you are too hungry, here's some bread to nibble on.^
+^Dialog_1020110_Title^,^Mibi <Nursing Officer>^
+^Dialog_1020110_Text0^,^You need to live!!^
+^Dialog_1020111_Title^,^Udan <Horse Stableman>^
+^Dialog_1020111_Text0^,^Communicating to animals might be a pretty tough job, <br> getting close to them might be scary<br> <br> But if you try to approach them with care and patience, it might consider you as a better friend than anyone else^
+^Dialog_1020112_Title^,^Douglas <Assault Captain>^
+^Dialog_1020112_Text0^,^We will win!<br> I will drive those savage braghins out of this land!^
+^Dialog_1020113_Title^,^Amanette <Field Commander>^
+^Dialog_1020113_Text0^,^You'll die if you keep on spacing like that!<br>Keep your head straight and keep a close eye on your rear!<br>The braghin's cunning is beyond what we have expected.<br><br>Don't throw away your life soldier, wake up!^
+^Dialog_1020114_Title^,^Athma <Military Officer>^
+^Dialog_1020114_Text0^,^Oh my...<br>Our supplies are getting consumed faster than I thought. <br><br>Perhaps there's a rat inside, a big rat.<br><br> I guess we need to set up a big trap for the big rodent^
+^Dialog_1020115_Title^,^Madiv <Supply Captain>^
+^Dialog_1020115_Text0^,^I heard a giant fellow has fallen<br>I'm doing my best to help this place recover as fast as I can, but the situation here isn't helping much.^
+^Dialog_1020116_Title^,^Irene <Nursing Officer>^
+^Dialog_1020116_Text0^,^I heard something big fell earlier. <br>Are you okay? <br>All the patients are in critical condition. <br><br>I just hope there will be no additional casualties.^
+^Dialog_1020117_Title^,^Terrence <Subdual Captain>^
+^Dialog_1020117_Text0^,^Those terrible braghins! <br>They should have surrendered by now, but they kept on resisting!<br><br> There must be some thing that controls them!^

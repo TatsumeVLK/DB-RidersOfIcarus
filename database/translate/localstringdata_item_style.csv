@@ -1,0 +1,1308 @@
+t_key,t_eng,t_jpn,t_chinese,t_korean,t_eng_2,t_eng_3
+^AR9_001_0001_Name^,^모노 세라 동복^,^^,^^,^Mono Sera Winter Outfit^,^^,^^
+^AR9_001_0001_Description^,^모노 세라 동복^,^^,^^,^Mono Sera Winter Outfit^,^^,^^
+^AR9_001_0002_Name^,^러스티 로즈^,^^,^^,^Rusty Rose^,^^,^^
+^AR9_001_0002_Description^,^러스티 로즈^,^^,^^,^Rusty Rose^,^^,^^
+^AR9_001_0003_Name^,^미작업 아이템^,^^,^^,^Item in development^,^^,^^
+^AR9_001_0003_Description^,^미작업 아이템^,^^,^^,^Item in development^,^^,^^
+^CA_ST_CM_0001_Name^,^(외형) 하카나스 학생복^,^^,^^,^(Appearance) Hakanas School Uniform^,^^,^^
+^CA_ST_CM_0001_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0002_Name^,^(외형) 페가수스 예복^,^^,^^,^(Appearance) Pegasus Suit^,^^,^^
+^CA_ST_CM_0002_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0003_Name^,^(외형) 왕국 연수복^,^^,^^,^(Appearance) Training Uniform^,^^,^^
+^CA_ST_CM_0003_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0004_Name^,^(외형) 하카나스 예복^,^^,^^,^(Appearance) Hakanas Suit^,^^,^^
+^CA_ST_CM_0004_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0005_Name^,^(외형) 라비니 의상^,^^,^^,^(Appearance) Rabbini Outfit^,^^,^^
+^CA_ST_CM_0005_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0006_Name^,^(외형) 밀리터리 세트 01^,^^,^^,^(Appearance) Military Set 01^,^^,^^
+^CA_ST_CM_0006_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0007_Name^,^(외형) 밀리터리 세트 02^,^^,^^,^(Appearance) Military Set 02^,^^,^^
+^CA_ST_CM_0007_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0008_Name^,^악마의 머리띠^,^^,^^,^Devil Horn Headband^,^^,^^
+^CA_ST_CM_0009_Name^,^고양이 인형^,^^,^^,^Plush Cat^,^^,^^
+^EV_ST_CM_0000_Name^,^태극 두건^,^^,^^,^Korean Flag Bandana^,^^,^^
+^EV_ST_CM_0000_Description^,^<O_Y>아이템은 이벤트 종료 후 삭제 됩니다.</O_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>^,^^,^^
+^EV_ST_CM_0001_Name^,^붉은 응원 머리띠^,^^,^^,^Be the Reds Headband^,^^,^^
+^EV_ST_CM_0001_Description^,^<O_Y>아이템은 이벤트 종료 후 삭제 됩니다.</O_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>^,^^,^^
+^EV_ST_CM_0002_Name^,^붉은 응원복 세트^,^^,^^,^Be the Reds Cheerleader Uniform^,^^,^^
+^EV_ST_CM_0002_Description^,^<O_Y>아이템은 이벤트 종료 후 삭제 됩니다.</O_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>^,^^,^^
+^EV_ST_CM_0003_Name^,^그린 오리엔탈^,^^,^^,^Green Oriental (3 Day)^,^^,^^
+^EV_ST_CM_0003_Description^,^<R_Y>그린 오리엔탈은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 오리엔탈은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0004_Name^,^블루 오리엔탈^,^^,^^,^Blue Oriental (3 Day)^,^^,^^
+^EV_ST_CM_0004_Description^,^<R_Y>블루 오리엔탈은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 오리엔탈은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0005_Name^,^레드 오리엔탈^,^^,^^,^Red Oriental (3 Day)^,^^,^^
+^EV_ST_CM_0005_Description^,^<R_Y>레드 오리엔탈은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 오리엔탈은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0010_Name^,^그린 하와이안(7일)^,^^,^^,^Green Tropics Swimwear (7 Day)^,^^,^^
+^CA_ST_CM_0010_Description^,^<R_Y>그린 하와이안(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 하와이안(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0011_Name^,^레드 선셋(7일)^,^^,^^,^Red Sunset Swimwear (7 Day)^,^^,^^
+^CA_ST_CM_0011_Description^,^<R_Y>레드 선셋(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 선셋(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0012_Name^,^블루 스카이(7일)^,^^,^^,^Blue Sky Swimwear (7 Day)^,^^,^^
+^CA_ST_CM_0012_Description^,^<R_Y>블루 스카이(7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 스카이(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0013_Name^,^화이트 썸머(7일)^,^^,^^,^White Summer Swimwear (7 Day)^,^^,^^
+^CA_ST_CM_0013_Description^,^<R_Y>화이트 썸머(7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+화이트 썸머(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0014_Name^,^전통복 아라(1일)^,^^,^^,^Traditional Ara (1 Day)^,^^,^^
+^CA_ST_CM_0014_Description^,^<R_Y>전통복 아라(1일)은 1일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 아라(1일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 1 day after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0015_Name^,^전통복 아라(7일)^,^^,^^,^Traditional Ara (7 Day)^,^^,^^
+^CA_ST_CM_0015_Description^,^<R_Y>전통복 아라(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 아라(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0016_Name^,^전통복 아라(30일)^,^^,^^,^Traditional Ara (30 Day)^,^^,^^
+^CA_ST_CM_0016_Description^,^<R_Y>전통복 아라(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 아라(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0017_Name^,^전통복 윤슬(1일)^,^^,^^,^Traditional Yoonsul (1 Day)^,^^,^^
+^CA_ST_CM_0017_Description^,^<R_Y>전통복 윤슬(1일)은 1일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 윤슬(1일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 1 day after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0018_Name^,^전통복 윤슬(7일)^,^^,^^,^Traditional Yoonsul (7 Day)^,^^,^^
+^CA_ST_CM_0018_Description^,^<R_Y>전통복 윤슬(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 윤슬(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0019_Name^,^전통복 윤슬(30일)^,^^,^^,^Traditional Yoonsul (30 Day)^,^^,^^
+^CA_ST_CM_0019_Description^,^<R_Y>전통복 윤슬(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 윤슬(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0020_Name^,^전통복 다솜(1일)^,^^,^^,^Traditional Dasom (1 Day)^,^^,^^
+^CA_ST_CM_0020_Description^,^<R_Y>전통복 다솜(1일)은 1일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 다솜(1일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 1 day after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0021_Name^,^전통복 다솜(7일)^,^^,^^,^Traditional Dasom (7 Day)^,^^,^^
+^CA_ST_CM_0021_Description^,^<R_Y>전통복 다솜(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 다솜(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0022_Name^,^전통복 다솜(30일)^,^^,^^,^Traditional Dasom (30 Days)^,^^,^^
+^CA_ST_CM_0022_Description^,^<R_Y>전통복 다솜(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 다솜(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0023_Name^,^하카나스 학생복(7일)^,^^,^^,^Hakanas School Uniform (7 Day)^,^^,^^
+^CA_ST_CM_0023_Description^,^<R_Y>하카나스 학생복(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 학생복(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0024_Name^,^하카나스 학생복(30일)^,^^,^^,^Hakanas School Uniform (30 Days)^,^^,^^
+^CA_ST_CM_0024_Description^,^<R_Y>하카나스 학생복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 학생복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0025_Name^,^페가수스 예복(7일)^,^^,^^,^Pegasus Suit (7 Day)^,^^,^^
+^CA_ST_CM_0025_Description^,^<R_Y>페가수스 예복(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>페가수스 예복(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0026_Name^,^페가수스 예복(30일)^,^^,^^,^Pegasus Robes (30)^,^^,^^
+^CA_ST_CM_0026_Description^,^<R_Y>페가수스 예복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>페가수스 예복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<R_Y> Pegasus Robes (30) can be worn 30 days after automatically disappear. <br> Pegasus Robes (30) is two hours will be consumed from the moment coming in the bag. </R_Y>^,^^,^^
+^CA_ST_CM_0027_Name^,^왕국 연수복(7일)^,^^,^^,^Royal Training Uniform (7 Day)^,^^,^^
+^CA_ST_CM_0027_Description^,^<R_Y>왕국 연수복(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>왕국 연수복(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0028_Name^,^왕국 연수복(30일)^,^^,^^,^Royal Training Uniform (30 Days)^,^^,^^
+^CA_ST_CM_0028_Description^,^<R_Y>왕국 연수복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>왕국 연수복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0029_Name^,^하카나스 예복(7일)^,^^,^^,^Hakanas Suit (7 Day)^,^^,^^
+^CA_ST_CM_0029_Description^,^<R_Y>하카나스 예복(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 예복(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0030_Name^,^하카나스 예복(30일)^,^^,^^,^Hakanas Suit (30 Days)^,^^,^^
+^CA_ST_CM_0030_Description^,^<R_Y>하카나스 예복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 예복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0031_Name^,^라비니 의상(7일)^,^^,^^,^Rabbini Outfit (7 Day)^,^^,^^
+^CA_ST_CM_0031_Description^,^<R_Y>라비니 의상(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>라비니 의상(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0032_Name^,^라비니 의상(30일)^,^^,^^,^Rabbini Outfit (30 Days)^,^^,^^
+^CA_ST_CM_0032_Description^,^<R_Y>라비니 의상(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>라비니 의상(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0033_Name^,^(외형) 제복 마티니^,^^,^^,^(Appearance) Captain Uniform^,^^,^^
+^CA_ST_CM_0033_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0034_Name^,^제복 마티니(7일)^,^^,^^,^Marine Uniform (7 Days)^,^^,^^
+^CA_ST_CM_0034_Description^,^<R_Y>제복 마티니(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>제복 마티니(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0035_Name^,^제복 마티니(30일)^,^^,^^,^Marine Uniform (30 Days)^,^^,^^
+^CA_ST_CM_0035_Description^,^<R_Y>제복 마티니(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>제복 마티니(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0036_Name^,^(외형) 밀리터리 엑스^,^^,^^,^(Appearance) Military X^,^^,^^
+^CA_ST_CM_0036_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0037_Name^,^밀리터리 엑스(7일)^,^^,^^,^Military X (7 Days)^,^^,^^
+^CA_ST_CM_0037_Description^,^<R_Y>밀리터리 엑스(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>밀리터리 엑스(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0038_Name^,^밀리터리 엑스(30일)^,^^,^^,^Military X (30 Days)^,^^,^^
+^CA_ST_CM_0038_Description^,^<R_Y>밀리터리 엑스(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>밀리터리 엑스(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0039_Name^,^페가수스 예복(15일)^,^^,^^,^Pegasus Suit (15 Days)^,^^,^^
+^CA_ST_CM_0039_Description^,^<R_Y>페가수스 예복(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>페가수스 예복(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0040_Name^,^하카나스 예복(15일)^,^^,^^,^Hakanas Suit (15 Days)^,^^,^^
+^CA_ST_CM_0040_Description^,^<R_Y>하카나스 예복(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 예복(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0041_Name^,^하카나스 학생복(15일)^,^^,^^,^Hakanas School Uniform (15 Days)^,^^,^^
+^CA_ST_CM_0041_Description^,^<R_Y>하카나스 학생복(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 학생복(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0042_Name^,^왕국 연수복(15일)^,^^,^^,^Royal Training Uniform (15 Days)^,^^,^^
+^CA_ST_CM_0042_Description^,^<R_Y>왕국 연수복(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>왕국 연수복(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0043_Name^,^라비니 의상(15일)^,^^,^^,^Rabbini Outfit (15 Days)^,^^,^^
+^CA_ST_CM_0043_Description^,^<R_Y>라비니 의상(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>라비니 의상(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0044_Name^,^제복 마티니(15일)^,^^,^^,^Marine Uniform (15 Days)^,^^,^^
+^CA_ST_CM_0044_Description^,^<R_Y>제복 마티니(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>제복 마티니(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0045_Name^,^밀리터리 엑스(15일)^,^^,^^,^Military X (15 Days)^,^^,^^
+^CA_ST_CM_0045_Description^,^<R_Y>밀리터리 엑스(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>밀리터리 엑스(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0006_Name^,^빨강 마녀 모자(4시간)^,^^,^^,^Red Witch Hat (4 Hours)^,^^,^^
+^EV_ST_CM_0006_Description^,^<R_Y>빨강 마녀 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>빨강 마녀 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 4 hours after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0007_Name^,^초록 마녀 모자(4시간)^,^^,^^,^Green Witch Hat (4 Hours)^,^^,^^
+^EV_ST_CM_0007_Description^,^<R_Y>초록마녀 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>초록마녀 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 4 hours after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0008_Name^,^주황 마녀 모자(4시간)^,^^,^^,^Orange Witch Hat (4 Hours)^,^^,^^
+^EV_ST_CM_0008_Description^,^<R_Y>주황 마녀 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>주황 마녀 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 4 hours after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0009_Name^,^멋진 호박 모자(4시간)^,^^,^^,^Fabulous Pumpkin Hat (4 Hours)^,^^,^^
+^EV_ST_CM_0009_Description^,^<R_Y>멋진 호박 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>멋진 호박 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 4 hours after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0010_Name^,^슬픈 호박 모자(4시간)^,^^,^^,^Sad Pumpkin Hat (4 Hours)^,^^,^^
+^EV_ST_CM_0010_Description^,^<R_Y>슬픈 호박 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>슬픈 호박 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 4 hours after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0011_Name^,^즐거운 호박 모자(4시간)^,^^,^^,^Fun Pumpkin Hat (4 Hours)^,^^,^^
+^EV_ST_CM_0011_Description^,^<R_Y>즐거운 호박 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>즐거운 호박 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 4 hours after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0012_Name^,^호박 모자(4시간)^,^^,^^,^Pumpkin Hat (4 Hours)^,^^,^^
+^EV_ST_CM_0012_Description^,^<R_Y>호박 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>호박 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 4 hours after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0013_Name^,^(외형) 하얀 해골 의상^,^^,^^,^(Appearance) White Skeleton Outfit^,^^,^^
+^EV_ST_CM_0013_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>^,^^,^^
+^EV_ST_CM_0014_Name^,^(외형) 파란 해골 의상^,^^,^^,^(Appearance) Blue Skeleton Outfit^,^^,^^
+^EV_ST_CM_0014_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0046_Name^,^블랙 뱀파이어(7일)^,^^,^^,^Black Vampire Outfit (7 Day)^,^^,^^
+^CA_ST_CM_0046_Description^,^<R_Y>블랙 뱀파이어(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>블랙 뱀파이어(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0047_Name^,^블랙 뱀파이어(30일)^,^^,^^,^Black Vampire Outfit (30 Days)^,^^,^^
+^CA_ST_CM_0047_Description^,^<R_Y>블랙 뱀파이어(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>블랙 뱀파이어(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0048_Name^,^화이트 뱀파이어(7일)^,^^,^^,^White Vampire Outfit (7 Day)^,^^,^^
+^CA_ST_CM_0048_Description^,^<R_Y>화이트 뱀파이어(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>화이트 뱀파이어(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0049_Name^,^화이트 뱀파이어(30일)^,^^,^^,^White Vampire Outfit (30 Days)^,^^,^^
+^CA_ST_CM_0049_Description^,^<R_Y>화이트 뱀파이어(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>화이트 뱀파이어(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0015_Name^,^블랙 뱀파이어(3일)^,^^,^^,^Black Vampire Outfit (3 Days)^,^^,^^
+^EV_ST_CM_0015_Description^,^<R_Y>블랙 뱀파이어(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>블랙 뱀파이어(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0016_Name^,^화이트 뱀파이어(3일)^,^^,^^,^White Vampire Outfit (3 Days)^,^^,^^
+^EV_ST_CM_0016_Description^,^<R_Y>화이트 뱀파이어(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>화이트 뱀파이어(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0017_Name^,^레드 선셋(3일)^,^^,^^,^Red Sunset (3 Days)^,^^,^^
+^EV_ST_CM_0017_Description^,^<R_Y>레드 선셋(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 선셋(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0018_Name^,^블루 스카이(3일)^,^^,^^,^Blue Sky (3 Days)^,^^,^^
+^EV_ST_CM_0018_Description^,^<R_Y>블루 스카이(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 스카이(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0019_Name^,^화이트 썸머(3일)^,^^,^^,^White Summer (3 Days)^,^^,^^
+^EV_ST_CM_0019_Description^,^<R_Y>화이트 썸머(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+화이트 썸머(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0020_Name^,^그린 하와이안(3일)^,^^,^^,^Green Tropics (3 Days)^,^^,^^
+^EV_ST_CM_0020_Description^,^<R_Y>그린 하와이안(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 하와이안(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0021_Name^,^전통복 다솜(3일)^,^^,^^,^Traditional Dasom (3 Days)^,^^,^^
+^EV_ST_CM_0021_Description^,^<R_Y>전통복 다솜(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 다솜(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0022_Name^,^전통복 아라(3일)^,^^,^^,^Traditional Ara (3 Days)^,^^,^^
+^EV_ST_CM_0022_Description^,^<R_Y>전통복 아라(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 아라(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0023_Name^,^불사의 사막 여우^,^^,^^,^Cloying Wastes Fox^,^^,^^
+^EV_ST_CM_0024_Name^,^하카나스 예복(7일)^,^^,^^,^Hakanas Suit (7 Days)^,^^,^^
+^EV_ST_CM_0024_Description^,^<R_Y>하카나스 예복(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 예복(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0050_Name^,^크리스마스 파티(7일)^,^^,^^,^Christmas Party Outfit (7 Day)^,^^,^^
+^CA_ST_CM_0050_Description^,^<R_Y>크리스마스 파티(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>크리스마스 파티(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0051_Name^,^크리스마스 파티(30일)^,^^,^^,^Christmas Party (30 Days)^,^^,^^
+^CA_ST_CM_0051_Description^,^<R_Y>크리스마스 파티(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>크리스마스 파티(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0025_Name^,^루돌프 의상(3일)^,^^,^^,^Rudolph Outfit (3 Days)^,^^,^^
+^EV_ST_CM_0025_Description^,^<R_Y>루돌프 의상(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>루돌프 의상(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0052_Name^,^고양이 차차(30일)^,^^,^^,^Chacha the Shoulder Cat (30 Day)^,^^,^^
+^CA_ST_CM_0052_Description^,^<R_Y>고양이 차차(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 차차(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0053_Name^,^고양이 키키(30일)^,^^,^^,^Kiki the Shoulder Cat (30 Day)^,^^,^^
+^CA_ST_CM_0053_Description^,^<R_Y>고양이 키키(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 키키(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0054_Name^,^하얀 해골 의상(15일)^,^^,^^,^White Skeleton Outfit (15 Days)^,^^,^^
+^CA_ST_CM_0054_Description^,^<R_Y>하얀 해골 의상(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하얀 해골 의상(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0055_Name^,^파란 해골 의상(15일)^,^^,^^,^Blue Skeleton Outfit (15 Days)^,^^,^^
+^CA_ST_CM_0055_Description^,^<R_Y>파란 해골 의상(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>파란 해골 의상(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0056_Name^,^블랙 뱀파이어(15일)^,^^,^^,^Black Vampire Outfit (15 Days)^,^^,^^
+^CA_ST_CM_0056_Description^,^<R_Y>블랙 뱀파이어(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>블랙 뱀파이어(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0057_Name^,^화이트 뱀파이어(15일)^,^^,^^,^White Vampire Outfit (15 Days)^,^^,^^
+^CA_ST_CM_0057_Description^,^<R_Y>화이트 뱀파이어(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>화이트 뱀파이어(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0058_Name^,^레드 선셋(15일)^,^^,^^,^Red Sunset (15 Days)^,^^,^^
+^CA_ST_CM_0058_Description^,^<R_Y>레드 선셋(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 선셋(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0059_Name^,^블루 스카이(15일)^,^^,^^,^Blue Sky (15 Days)^,^^,^^
+^CA_ST_CM_0059_Description^,^<R_Y>블루 스카이(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 스카이(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0060_Name^,^화이트 썸머(15일)^,^^,^^,^White Summer (15 Days)^,^^,^^
+^CA_ST_CM_0060_Description^,^<R_Y>화이트 썸머(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+화이트 썸머(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0061_Name^,^그린 하와이안(15일)^,^^,^^,^Green Tropics (15 Days)^,^^,^^
+^CA_ST_CM_0061_Description^,^<R_Y>그린 하와이안(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 하와이안(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0062_Name^,^그린 오리엔탈(15일)^,^^,^^,^Green Oriental (15 Days)^,^^,^^
+^CA_ST_CM_0062_Description^,^<R_Y>그린 오리엔탈(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 오리엔탈(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0063_Name^,^블루 오리엔탈(15일)^,^^,^^,^Blue Eastern Outfit (15 Days)^,^^,^^
+^CA_ST_CM_0063_Description^,^<R_Y>블루 오리엔탈(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 오리엔탈(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0064_Name^,^레드 오리엔탈(15일)^,^^,^^,^Red Eastern Outfit (15 Days)^,^^,^^
+^CA_ST_CM_0064_Description^,^<R_Y>레드 오리엔탈(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 오리엔탈(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0065_Name^,^하얀 해골 의상(7일)^,^^,^^,^White Skeleton Outfit (7 Days)^,^^,^^
+^CA_ST_CM_0065_Description^,^<R_Y>하얀 해골 의상(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하얀 해골 의상(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0066_Name^,^파란 해골 의상(7일)^,^^,^^,^Blue Skeleton Outfit (7 Days)^,^^,^^
+^CA_ST_CM_0066_Description^,^<R_Y>파란 해골 의상(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>파란 해골 의상(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0067_Name^,^그린 오리엔탈(7일)^,^^,^^,^Green Eastern Outfit (7 Days)^,^^,^^
+^CA_ST_CM_0067_Description^,^<R_Y>그린 오리엔탈(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 오리엔탈(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0068_Name^,^블루 오리엔탈(7일)^,^^,^^,^Blue Eastern Outfit (7 Days)^,^^,^^
+^CA_ST_CM_0068_Description^,^<R_Y>블루 오리엔탈(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 오리엔탈(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0069_Name^,^레드 오리엔탈(7일)^,^^,^^,^Red Eastern Outfit (7 Days)^,^^,^^
+^CA_ST_CM_0069_Description^,^<R_Y>레드 오리엔탈(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 오리엔탈(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0070_Name^,^고양이 차차(3일)^,^^,^^,^Chacha the Shoulder Cat (3 Day)^,^^,^^
+^CA_ST_CM_0070_Description^,^<R_Y>고양이 차차(3일)는 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 차차(3일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0071_Name^,^고양이 키키(3일)^,^^,^^,^Kiki the Shoulder Cat (3 Day)^,^^,^^
+^CA_ST_CM_0071_Description^,^<R_Y>고양이 키키(3일)는 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 키키(3일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0072_Name^,^전통복 윤슬(3일)^,^^,^^,^Traditional Yoonsul (3 Days)^,^^,^^
+^CA_ST_CM_0072_Description^,^<R_Y>전통복 윤슬(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 윤슬(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0073_Name^,^하카나스 학생복(3일)^,^^,^^,^Hakanas School Uniform (3 Days)^,^^,^^
+^CA_ST_CM_0073_Description^,^<R_Y>하카나스 학생복(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 학생복(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0074_Name^,^페가수스 예복(3일)^,^^,^^,^Pegasus Suit (3 Days)^,^^,^^
+^CA_ST_CM_0074_Description^,^<R_Y>페가수스 예복(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>페가수스 예복(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0075_Name^,^왕국 연수복(3일)^,^^,^^,^Royal Training Uniform (3 Days)^,^^,^^
+^CA_ST_CM_0075_Description^,^<R_Y>왕국 연수복(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>왕국 연수복(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0076_Name^,^하카나스 예복(3일)^,^^,^^,^Hakanas Suit (3 Days)^,^^,^^
+^CA_ST_CM_0076_Description^,^<R_Y>하카나스 예복(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 예복(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0077_Name^,^라비니 의상(3일)^,^^,^^,^Rabbini Outfit (3 Days)^,^^,^^
+^CA_ST_CM_0077_Description^,^<R_Y>라비니 의상(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>라비니 의상(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0078_Name^,^제복 마티니(3일)^,^^,^^,^Captain Uniform (3 Day)^,^^,^^
+^CA_ST_CM_0078_Description^,^<R_Y>제복 마티니(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>제복 마티니(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0079_Name^,^밀리터리 엑스(3일)^,^^,^^,^Commander Uniform (3 Day)^,^^,^^
+^CA_ST_CM_0079_Description^,^<R_Y>밀리터리 엑스(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>밀리터리 엑스(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0080_Name^,^크리스마스 파티(3일)^,^^,^^,^Christmas Party (3 Days)^,^^,^^
+^CA_ST_CM_0080_Description^,^<R_Y>크리스마스 파티(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>크리스마스 파티(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0081_Name^,^그린 하와이안(30일)^,^^,^^,^Green Tropics (30 Days)^,^^,^^
+^CA_ST_CM_0081_Description^,^<R_Y>그린 하와이안(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 하와이안(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0082_Name^,^레드 선셋(30일)^,^^,^^,^Red Sunset (30 Days)^,^^,^^
+^CA_ST_CM_0082_Description^,^<R_Y>레드 선셋(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 선셋(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0083_Name^,^블루 스카이(30일)^,^^,^^,^Blue Sky (30 Days)^,^^,^^
+^CA_ST_CM_0083_Description^,^<R_Y>블루 스카이(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 스카이(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0084_Name^,^화이트 썸머(30일)^,^^,^^,^White Summer (30 Days)^,^^,^^
+^CA_ST_CM_0084_Description^,^<R_Y>화이트 썸머(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+화이트 썸머(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_5000_Name^,^(일본용)쉐도우 클랜 의상^,^^,^^,^(Japan Only) Onyx Order Outfit^,^^,^^
+^CA_ST_CM_0085_Name^,^라이더용^,^^,^^,^Rider Only^,^^,^^
+^CA_ST_CM_0086_Name^,^이카맨 레드^,^^,^^,^Ikamen Red^,^^,^^
+^CA_ST_CM_0086_Description^,^액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.^,^^,^^
+^CA_ST_CM_0087_Name^,^이카맨 블랙^,^^,^^,^Ikamen Black^,^^,^^
+^CA_ST_CM_0087_Description^,^액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.^,^^,^^
+^CA_ST_CM_0088_Name^,^이카맨 블루^,^^,^^,^Ikamen Blue^,^^,^^
+^CA_ST_CM_0088_Description^,^액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.^,^^,^^
+^CA_ST_CM_0089_Name^,^이카맨 옐로우^,^^,^^,^Ikamen Yellow^,^^,^^
+^CA_ST_CM_0089_Description^,^액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.^,^^,^^
+^CA_ST_CM_0090_Name^,^이카맨 핑크^,^^,^^,^Ikamen Pink^,^^,^^
+^CA_ST_CM_0090_Description^,^액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.^,^^,^^
+^CA_ST_CM_0091_Name^,^이카맨 화이트^,^^,^^,^Ikamen White^,^^,^^
+^CA_ST_CM_0091_Description^,^액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.^,^^,^^
+^CA_ST_CM_0092_Name^,^이카맨 퍼플^,^^,^^,^Ikamen Purple^,^^,^^
+^CA_ST_CM_0092_Description^,^액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.^,^^,^^
+^CA_ST_CM_0093_Name^,^이카맨 그린^,^^,^^,^Ikamen Green^,^^,^^
+^CA_ST_CM_0093_Description^,^액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.^,^^,^^
+^EV_ST_CM_0026_Name^,^이카맨 퍼플^,^^,^^,^Ikamen Purple^,^^,^^
+^EV_ST_CM_0027_Name^,^이카맨 그린^,^^,^^,^Ikamen Green^,^^,^^
+^EV_ST_CM_0028_Name^,^이카맨 화이트^,^^,^^,^Ikamen White^,^^,^^
+^EV_ST_CM_0029_Name^,^고대 황금마룡의 수호 코스튬(7일)^,^^,^^,^Ancient Gold Dragon Guard Costume (7 Days)^,^^,^^
+^EV_ST_CM_0030_Name^,^고대 황금마룡의 광폭 코스튬(7일)^,^^,^^,^Ancient Gold Dragon Fury Costume (7 Days)^,^^,^^
+^EV_ST_CM_0031_Name^,^고대 황금마룡의 그림자 코스튬(7일)^,^^,^^,^Ancient Gold Dragon Assassin Costume (7 Days)^,^^,^^
+^EV_ST_CM_0032_Name^,^고대 황금마룡의 원소 코스튬(7일)^,^^,^^,^Ancient Gold Dragon Element Costume (7 Days)^,^^,^^
+^EV_ST_CM_0033_Name^,^고대 황금마룡의 신념 코스튬(7일)^,^^,^^,^Ancient Gold Dragon Conviction Costume (7 Days)^,^^,^^
+^EV_ST_CM_0034_Name^,^고대 황금마룡의 수호 갑주 II^,^^,^^,^Ancient Gold Dragon Guard Armor II (7 Days)^,^^,^^
+^EV_ST_CM_0035_Name^,^고대 황금마룡의 광폭 갑주 II^,^^,^^,^Ancient Gold Dragon Fury Armor II (7 Days)^,^^,^^
+^EV_ST_CM_0036_Name^,^고대 황금마룡의 그림자 갑주 II^,^^,^^,^Ancient Gold Dragon Assassin Armor II (7 Days)^,^^,^^
+^EV_ST_CM_0037_Name^,^고대 황금마룡의 원소 갑주 II^,^^,^^,^Ancient Gold Dragon Element Armor II (7 Days)^,^^,^^
+^EV_ST_CM_0038_Name^,^고대 황금마룡의 신념 갑주 II^,^^,^^,^Ancient Gold Dragon Conviction Armor II (7 Days)^,^^,^^
+^EV_ST_CM_0039_Name^,^고대 황금마룡의 수호 갑주 I^,^^,^^,^Ancient Gold Dragon Guard Armor I (7 Days)^,^^,^^
+^EV_ST_CM_0040_Name^,^고대 황금마룡의 광폭 갑주 I^,^^,^^,^Ancient Gold Dragon Fury Armor I (7 Days)^,^^,^^
+^EV_ST_CM_0041_Name^,^고대 황금마룡의 그림자 갑주 I^,^^,^^,^Ancient Gold Dragon Assassin Armor I (7 Days)^,^^,^^
+^EV_ST_CM_0042_Name^,^고대 황금마룡의 원소 갑주 I^,^^,^^,^Ancient Gold Dragon Element Armor I (7 Days)^,^^,^^
+^EV_ST_CM_0043_Name^,^고대 황금마룡의 신념 갑주 I^,^^,^^,^Ancient Gold Dragon Conviction Armor I (7 Days)^,^^,^^
+^EV_ST_CM_0044_Name^,^까마귀 가면(7일)^,^^,^^,^Raven Mask (7 Days)^,^^,^^
+^EV_ST_CM_0045_Name^,^악마의 복면(3일)^,^^,^^,^Devil Mask (3 Days)^,^^,^^
+^EV_ST_CM_0046_Name^,^올라푸(7일)^,^^,^^,^Olaf (7 Days)^,^^,^^
+^EV_ST_CM_0047_Name^,^크루오(7일)^,^^,^^,^Cruwoh (7 Days)^,^^,^^
+^EV_ST_CM_0029_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0030_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0031_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0032_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0033_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0034_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0035_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0036_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0037_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0038_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0039_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0040_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0041_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0042_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0043_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0044_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0045_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 3일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0046_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0047_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0048_Name^,^하얀 해골 의상(3일)^,^^,^^,^White Skeleton Outfit (3 Days)^,^^,^^
+^EV_ST_CM_0048_Description^,^<R_Y>하얀 해골 의상(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하얀 해골 의상(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0049_Name^,^파란 해골 의상(3일)^,^^,^^,^Blue Skeleton Outfit (3 Days)^,^^,^^
+^EV_ST_CM_0049_Description^,^<R_Y>파란 해골 의상(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>파란 해골 의상(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0050_Name^,^루돌프 의상(7일)^,^^,^^,^Rudolph Outfit (7 Days)^,^^,^^
+^EV_ST_CM_0050_Description^,^<R_Y>루돌프 의상(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>루돌프 의상(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0094_Name^,^이카맨 레드(30일)^,^^,^^,^Ikamen Red (30 Days)^,^^,^^
+^CA_ST_CM_0094_Description^,^<R_Y>이카맨 레드(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카맨 레드(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>
+
+액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.
+<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0095_Name^,^이카맨 블랙(30일)^,^^,^^,^Ikamen Black (30 Days)^,^^,^^
+^CA_ST_CM_0095_Description^,^<R_Y>이카맨 블랙(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카맨 블랙(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>
+
+액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.
+<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0096_Name^,^이카맨 블루(30일)^,^^,^^,^Ikamen Blue (30 Days)^,^^,^^
+^CA_ST_CM_0096_Description^,^<R_Y>이카맨 블루(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카맨 블루(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>
+
+액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.
+<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0097_Name^,^이카맨 옐로우(30일)^,^^,^^,^Ikamen Yellow (30 Days)^,^^,^^
+^CA_ST_CM_0097_Description^,^<R_Y>이카맨 옐로우(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카맨 옐로우(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>
+
+액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.
+<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0098_Name^,^이카맨 핑크(30일)^,^^,^^,^Ikamen Pink (30 Days)^,^^,^^
+^CA_ST_CM_0098_Description^,^<R_Y>이카맨 핑크(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카맨 핑크(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>
+
+액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.
+<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0099_Name^,^이카맨 핑크test^,^^,^^,^Ikamen Pink Test^,^^,^^
+^CA_ST_CM_0099_Description^,^<R_Y>이카맨 핑크(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카맨 핑크(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>
+
+액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.
+<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0100_Name^,^(외형) 클래식 메이드와 집사^,^^,^^,^(Appearance) Classic Maid and Butler^,^^,^^
+^CA_ST_CM_0100_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0101_Name^,^크림쿠키 라비니 의상 (1일)^,^^,^^,^Cream Cookie Rabbini Outfit (1 Day)^,^^,^^
+^CA_ST_CM_0102_Name^,^포키포키 라비니 의상 (1일)^,^^,^^,^Pokey Pokey Rabbini Outfit (1 Day)^,^^,^^
+^CA_ST_CM_0101_Description^,^<R_Y>크림쿠키 라비니 의상 (1일)은 1일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>크림쿠키 라비니 의상 (1일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 1 day after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0102_Description^,^<R_Y>포키포키 라비니 의상 (1일)은 1일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>포키포키 라비니 의상 (1일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 1 day after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0103_Name^,^포키포키 라비니 의상(30일)^,^^,^^,^Pokey Pokey Rabbini Outfit (30-Day)^,^^,^^
+^CA_ST_CM_0103_Description^,^<R_Y>포키포키 라비니 의상 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>포키포키 라비니 의상 (30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0104_Name^,^(외형) 그린 하와이안^,^^,^^,^(Appearance) Green Hawaiian^,^^,^^
+^CA_ST_CM_0104_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0105_Name^,^(외형) 레드 선셋^,^^,^^,^(Appearance) Red Sunset^,^^,^^
+^CA_ST_CM_0105_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0106_Name^,^(외형) 블루 스카이^,^^,^^,^(Appearance) Blue Sky^,^^,^^
+^CA_ST_CM_0106_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0107_Name^,^(외형) 화이트 썸머^,^^,^^,^(Appearance) White Summer^,^^,^^
+^CA_ST_CM_0107_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0108_Name^,^(외형) 레드 선샤인^,^^,^^,^(Appearance) Red Sunshine^,^^,^^
+^CA_ST_CM_0108_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0109_Name^,^(외형) 화이트 비치^,^^,^^,^(Appearance) White Beach^,^^,^^
+^CA_ST_CM_0109_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0110_Name^,^그린 하와이안(30일)^,^^,^^,^Green Tropics (30 Days)^,^^,^^
+^CA_ST_CM_0110_Description^,^<R_Y>그린 하와이안(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 하와이안(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0111_Name^,^레드 선셋(30일)^,^^,^^,^Red Sunset (30 Days)^,^^,^^
+^CA_ST_CM_0111_Description^,^<R_Y>레드 선셋(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 선셋(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0112_Name^,^블루 스카이(30일)^,^^,^^,^Blue Sky (30 Days)^,^^,^^
+^CA_ST_CM_0112_Description^,^<R_Y>블루 스카이(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 스카이(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0113_Name^,^화이트 썸머(30일)^,^^,^^,^White Summer (30 Days)^,^^,^^
+^CA_ST_CM_0113_Description^,^<R_Y>화이트 썸머(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+화이트 썸머(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0114_Name^,^레드 선샤인(30일)^,^^,^^,^Red Sunshine(30 days)^,^^,^^
+^CA_ST_CM_0114_Description^,^<R_Y>레드 선샤인(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 선샤인(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0115_Name^,^화이트 비치(30일)^,^^,^^,^White Beach(30 days)^,^^,^^
+^CA_ST_CM_0115_Description^,^<R_Y>화이트 비치(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+화이트 비치(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0051_Name^,^그린 오리엔탈(3일)^,^^,^^,^Green Oriental(3 days)^,^^,^^
+^EV_ST_CM_0051_Description^,^<R_Y>그린 오리엔탈(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 오리엔탈(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0052_Name^,^블루 오리엔탈(3일)^,^^,^^,^Blue Oriental(3 days)^,^^,^^
+^EV_ST_CM_0052_Description^,^<R_Y>블루 오리엔탈(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 오리엔탈(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0053_Name^,^레드 오리엔탈(3일)^,^^,^^,^Red Oriental(3 days)^,^^,^^
+^EV_ST_CM_0053_Description^,^<R_Y>레드 오리엔탈(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 오리엔탈(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0116_Name^,^달밤의 트레이닝복(30일)^,^^,^^,^Moonlight Sweats (30 Day)^,^^,^^
+^CA_ST_CM_0116_Description^,^<R_Y>달밤의 트레이닝복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+달밤의 트레이닝복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0117_Name^,^별밤의 트레이닝복(30일)^,^^,^^,^Starlight Sweats (30 Day)^,^^,^^
+^CA_ST_CM_0117_Description^,^<R_Y>별밤의 트레이닝복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+별밤의 트레이닝복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0057_Name^,^(외형) 그린 하와이안^,^^,^^,^(Appearance) Green Hawaiian^,^^,^^
+^EV_ST_CM_0057_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^EV_ST_CM_0058_Name^,^(외형) 레드 선셋^,^^,^^,^(Appearance) Red Sunset^,^^,^^
+^EV_ST_CM_0058_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^EV_ST_CM_0059_Name^,^(외형) 블루 스카이^,^^,^^,^(Appearance) Blue Sky^,^^,^^
+^EV_ST_CM_0059_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^EV_ST_CM_0060_Name^,^(외형) 화이트 썸머^,^^,^^,^(Appearance) White Summer^,^^,^^
+^EV_ST_CM_0060_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^EV_ST_CM_0061_Name^,^(외형) 레드 선샤인^,^^,^^,^(Appearance) Red Sunshine^,^^,^^
+^EV_ST_CM_0061_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^EV_ST_CM_0062_Name^,^(외형) 화이트 비치^,^^,^^,^(Appearance) White Beach^,^^,^^
+^EV_ST_CM_0062_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^EV_ST_CM_0063_Name^,^(외형) 클래식 메이드와 집사^,^^,^^,^(Appearance) Classic Maid and Butler^,^^,^^
+^EV_ST_CM_0063_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0118_Name^,^달밤의 트레이닝복(15일)^,^^,^^,^Moon Night Tracksuit(15 days)^,^^,^^
+^CA_ST_CM_0118_Description^,^<R_Y>달밤의 트레이닝복(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+달밤의 트레이닝복(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0119_Name^,^별밤의 트레이닝복(15일)^,^^,^^,^Starry Night Tracksuit(15 days)^,^^,^^
+^CA_ST_CM_0119_Description^,^<R_Y>별밤의 트레이닝복(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+별밤의 트레이닝복(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0120_Name^,^고양이 각성 차차(30일)^,^^,^^,^Cat Awakened Chacha(30 days)^,^^,^^
+^CA_ST_CM_0120_Description^,^<R_Y>고양이 각성 차차(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 각성 차차(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0121_Name^,^고양이 각성 키키(30일)^,^^,^^,^Cat Awakened Kiki(30 days)^,^^,^^
+^CA_ST_CM_0121_Description^,^<R_Y>고양이 각성 키키(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 각성 키키(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0064_Name^,^고양이  차차(7일)^,^^,^^,^Cat Chacha(7 days)^,^^,^^
+^EV_ST_CM_0064_Description^,^<R_Y>고양이  차차7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이  차차(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0065_Name^,^고양이  키키(7일)^,^^,^^,^Kiki The Shoulder Cat(7 days)^,^^,^^
+^EV_ST_CM_0065_Description^,^<R_Y>고양이  키키(7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이  키키(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0066_Name^,^고양이  차차(15일)^,^^,^^,^Cat Chacha(15 days)^,^^,^^
+^EV_ST_CM_0066_Description^,^<R_Y>고양이  차차(15일)는 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이  차차(15일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0067_Name^,^고양이  키키(15일)^,^^,^^,^Kiki The Shoulder Cat(15 days)^,^^,^^
+^EV_ST_CM_0067_Description^,^<R_Y>고양이  키키(15일)는 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이  키키(15일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0122_Name^,^쉐도우 클랜(15일)^,^^,^^,^Onyx Order(15 days)^,^^,^^
+^CA_ST_CM_0122_Description^,^<R_Y>쉐도우 클랜(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+쉐도우 클랜(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0069_Name^,^신념의 카라샤(30일)^,^^,^^,^Devout Karasha (30 Day)^,^^,^^
+^EV_ST_CM_0069_Description^,^<R_Y>신념의 카라샤(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>신념의 카라샤(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^ev_st_cm_0054_name^,^고대 황금마룡의 냉정 코스튬(7일)^,^^,^^,^Ancient Golden Dragon's Wild Costume (7 days)^,^^,^^
+^ev_st_cm_0055_name^,^고대 황금마룡의 냉정 갑주 II^,^^,^^,^Ancient Golden Dragon's Wild Armor II (7 days)^,^^,^^
+^ev_st_cm_0056_name^,^고대 황금마룡의 냉정 갑주 I^,^^,^^,^Ancient Golden Dragon's Wild Armor I (7 days)^,^^,^^
+^ev_st_cm_0054_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^ev_st_cm_0055_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^ev_st_cm_0056_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^PC_ST_CM_0000_Name^,^(PC방) 달밤의 트레이닝복 (30일)^,^^,^^,^(PC Cafe) Moon Night Tracksuit (30 days)^,^^,^^
+^PC_ST_CM_0000_Description^,^<R_Y>(PC방) 달밤의 트레이닝복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+(PC방) 달밤의 트레이닝복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^PC_ST_CM_0001_Name^,^(PC방) 별밤의 트레이닝복 (30일)^,^^,^^,^(PC Cafe) Starry Night Tracksuit (30 days)^,^^,^^
+^PC_ST_CM_0001_Description^,^<R_Y>(PC방) 별밤의 트레이닝복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+(PC방) 별밤의 트레이닝복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^ca_st_cm_0123_Name^,^쉐도우 클랜(30일)^,^^,^^,^Onyx Order(30 days)^,^^,^^
+^ca_st_cm_0123_Description^,^<R_Y>쉐도우 클랜(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+쉐도우 클랜(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0068_Name^,^월간 업적 까마귀 가면(15일)^,^^,^^,^Monthly Achievement Crow Mask (15 Day)^,^^,^^
+^EV_ST_CM_0068_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 15일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^ca_st_cm_0124_Name^,^콜렉터의 메이드와 집사(30일)^,^^,^^,^Collector's Maid Butler(30 days)^,^^,^^
+^ca_st_cm_0124_Description^,^<R_Y>콜렉터의 메이드와 집사(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+콜렉터의 메이드와 집사(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^IT_ST_CM_0000_Name^,^(외형) GM의 위상^,^^,^^,^(Appearance) Glorious Fantasy^,^^,^^
+^IT_ST_CM_0000_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^Random Effects: <br>1. Divine Wing. <br>2. Glory Effect. <br><UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0125_Name^,^한가위 아라(30일)^,^^,^^,^Moon Festival Ahra(30 days)^,^^,^^
+^CA_ST_CM_0125_Description^,^<R_Y>한가위 아라(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>한가위 아라(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0126_Name^,^한가위 윤슬(30일)^,^^,^^,^Moon Festival Yunseul(30 days)^,^^,^^
+^CA_ST_CM_0126_Description^,^<R_Y>한가위 윤슬(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>한가위 윤슬(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0127_Name^,^한가위 다솜(30일)^,^^,^^,^Moon Festival Dasom(30 days)^,^^,^^
+^CA_ST_CM_0127_Description^,^<R_Y>한가위 다솜(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>한가위 다솜(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0128_Name^,^(외형) 한가위 아라^,^^,^^,^(Appearance) Moon Festival Ahra^,^^,^^
+^CA_ST_CM_0128_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0129_Name^,^(외형) 한가위 윤슬^,^^,^^,^(Appearance) Moon Festival Yunseul^,^^,^^
+^CA_ST_CM_0129_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0130_Name^,^(외형) 한가위 다솜^,^^,^^,^(Appearance) Moon Festival Dasom^,^^,^^
+^CA_ST_CM_0130_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^CA_ST_CM_0131_Name^,^(외형) 신념의 카라샤^,^^,^^,^(Appearance) Devout Karasha^,^^,^^
+^CA_ST_CM_0131_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Apperance slot. </UI_G>^,^^,^^
+^IT_ST_CM_0002_name^,^고대 황금마룡의 한손검(30일)^,^^,^^,^Ancient Gold Dragon's Sword (30 days)^,^^,^^
+^IT_ST_CM_0003_name^,^고대 황금마룡의 양손검(30일)^,^^,^^,^Ancient Gold Dragon's GreatSword (30 days)^,^^,^^
+^IT_ST_CM_0004_name^,^고대 황금마룡의 단검(30일)^,^^,^^,^Ancient Gold Dragon's Dagger (30 days)^,^^,^^
+^IT_ST_CM_0005_name^,^고대 황금마룡의 양손 지팡이(30일)^,^^,^^,^Ancient Gold Dragon's Staff (30 days)^,^^,^^
+^IT_ST_CM_0006_name^,^고대 황금마룡의 한손 지팡이(30일)^,^^,^^,^Ancient Gold Dragon's Scepter (30 days)^,^^,^^
+^IT_ST_CM_0007_name^,^고대 황금마룡의 단궁(30일)^,^^,^^,^Ancient Gold Dragon's Shortbow (30 days)^,^^,^^
+^EV_ST_CM_0070_name^,^고대 황금마룡의 수호 코스튬(30일)^,^^,^^,^Ancient Gold Dragon Stalwart Costume (7 Days)^,^^,^^
+^EV_ST_CM_0071_name^,^고대 황금마룡의 광폭 코스튬(30일)^,^^,^^,^Ancient Gold Dragon Brutal Costume (7 Days)^,^^,^^
+^EV_ST_CM_0072_name^,^고대 황금마룡의 그림자 코스튬(30일)^,^^,^^,^Ancient Gold Dragon Veiled Costume (7 Days)^,^^,^^
+^EV_ST_CM_0073_name^,^고대 황금마룡의 원소 코스튬(30일)^,^^,^^,^Ancient Gold Dragon Arcane Costume (7 Days)^,^^,^^
+^EV_ST_CM_0074_name^,^고대 황금마룡의 신념 코스튬(30일)^,^^,^^,^Ancient Gold Dragon Devout Costume (7 Days)^,^^,^^
+^EV_ST_CM_0075_name^,^고대 황금마룡의 냉정 코스튬(30일)^,^^,^^,^Ancient Gold Dragon Wild Costume (7 days)^,^^,^^
+^EV_ST_CM_0076_name^,^까마귀 가면(30일)^,^^,^^,^Crow Mask(30 days)^,^^,^^
+^EV_ST_CM_0077_name^,^크루오(30일)^,^^,^^,^Cruwoh (30 days)^,^^,^^
+^IT_ST_CM_0002_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^IT_ST_CM_0003_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^IT_ST_CM_0004_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^IT_ST_CM_0005_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^IT_ST_CM_0006_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^IT_ST_CM_0007_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0070_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0071_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0072_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0073_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0074_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0075_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0076_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0077_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0132_name^,^크림쿠키 라비니 의상 (30일)^,^^,^^,^Cream Cookie Rabbini Costume (30 days)^,^^,^^
+^CA_ST_CM_0132_description^,^<R_Y>크림쿠키 라비니 의상 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+크림쿠키 라비니 의상(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0000_Name^,^마석 지배자의 마스크(6일)^,^^,^^,^Manastone Master Mask (6 Day)^,^^,^^
+^IT_PK_CM_0000_Description^,^<R_Y>마석 지배자의 마스크(6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>마석 지배자의 마스크(6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0001_Name^,^마석 지배자의 수호 갑주(6일)^,^^,^^,^Manastone Master Stalwart Armor (6 Day)^,^^,^^
+^IT_PK_CM_0001_Description^,^<R_Y>마석 지배자의 수호 갑주(6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>마석 지배자의 수호 갑주(6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0002_Name^,^마석 지배자의 광폭 갑주(6일)^,^^,^^,^Manastone Master Brutal Armor (6 Day)^,^^,^^
+^IT_PK_CM_0002_Description^,^<R_Y>마석 지배자의 광폭 갑주(6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>마석 지배자의 광폭 갑주(6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0003_Name^,^마석 지배자의 그림자 갑주(6일)^,^^,^^,^Manastone Master Veiled Armor (6 Day)^,^^,^^
+^IT_PK_CM_0003_Description^,^<R_Y>마석 지배자의 그림자 갑주(6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>마석 지배자의 그림자 갑주(6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0004_Name^,^마석 지배자의 신념 갑주(6일)^,^^,^^,^Manastone Master Devout Armor (6 Day)^,^^,^^
+^IT_PK_CM_0004_Description^,^<R_Y>마석 지배자의 신념 갑주(6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>마석 지배자의 신념 갑주(6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0005_Name^,^마석 지배자의 원소 갑주(6일)^,^^,^^,^Manastone Master Arcane Armor (6 Day)^,^^,^^
+^IT_PK_CM_0005_Description^,^<R_Y>마석 지배자의 원소 갑주(6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>마석 지배자의 원소 갑주(6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0006_Name^,^마석 지배자의 냉정 갑주(6일)^,^^,^^,^Manastone Master Wild Armor (6 Day)^,^^,^^
+^IT_PK_CM_0006_Description^,^<R_Y>마석 지배자의 냉정 갑주(6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>마석 지배자의 냉정 갑주(6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0133_name^,^학살자의 분노 (30일)^,^^,^^,^Slayer Fury (30 days)^,^^,^^
+^CA_ST_CM_0133_description^,^<R_Y>학살자의 분노 (30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+학살자의 분노 (30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0134_name^,^정복자의 기운 (30일)^,^^,^^,^Conqueror's Energy (30 days)^,^^,^^
+^CA_ST_CM_0134_description^,^<R_Y>정복자의 기운 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+정복자의 기운 (30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0135_name^,^학살자의 분노 (7일)^,^^,^^,^Slayer Fury (7 days)^,^^,^^
+^CA_ST_CM_0135_description^,^<R_Y>학살자의 분노 (7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+학살자의 분노 (7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0136_name^,^정복자의 기운 (7일)^,^^,^^,^Conqueror's Energy (7 days)^,^^,^^
+^CA_ST_CM_0136_description^,^<R_Y>정복자의 기운 (7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+정복자의 기운 (7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^IT_ST_CM_0009_name^,^테스트용 어깨 장식^,^^,^^,^Test Pauldron Outfit^,^^,^^
+^EV_ST_CM_0078_name^,^크루오(30일)^,^^,^^,^Cruwoh (30 days)^,^^,^^
+^EV_ST_CM_0078_description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0137_name^,^테스트 (30일)^,^^,^^,^Test (30)^,^^,^^
+^CA_ST_CM_0137_description^,^<R_Y>테스트 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+테스트 (30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0079_name^,^봉구비어 꿀맥^,^^,^^,^Bongu Beer Honey Beer^,^^,^^
+^EV_ST_CM_0080_name^,^하얀 해골 의상(4시간)^,^^,^^,^White Skeleton Costume(4hrs.)^,^^,^^
+^EV_ST_CM_0080_description^,^<R_Y>하얀 해골 의상(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하얀 해골 의상(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 4 hours after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0081_name^,^파란 해골 의상(4시간)^,^^,^^,^Blue Skeleton Costume(4hrs.)^,^^,^^
+^EV_ST_CM_0081_description^,^<R_Y>파란 해골 의상(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>파란 해골 의상(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 4 hours after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0138_name^,^학살자의 할로윈 무기 코스튬 (30일)^,^^,^^,^Slayer Halloween Weapon Costume (30 days)^,^^,^^
+^CA_ST_CM_0138_description^,^<R_Y>학살자의 할로윈 무기 코스튬 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+학살자의 할로윈 무기 코스튬 (30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0139_name^,^정복자의 할로윈 무기 코스튬 (30일)^,^^,^^,^Conqueror's Halloween Weapon Costume (30 days)^,^^,^^
+^CA_ST_CM_0139_description^,^<R_Y>정복자의 할로윈 무기 코스튬 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+정복자의 할로윈 무기 코스튬 (30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0140_name^,^할로윈 무기 코스튬 (30일)^,^^,^^,^Halloween Weapon Costume (30 days)^,^^,^^
+^CA_ST_CM_0140_description^,^<R_Y>할로윈 무기 코스튬 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+할로윈 무기 코스튬 (30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0141_name^,^블랙 뱀파이어(30일)^,^^,^^,^Black Vampire Outfit (30 Days)^,^^,^^
+^CA_ST_CM_0141_description^,^<R_Y>블랙 뱀파이어(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>블랙 뱀파이어(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0142_name^,^이카 데이 블랙 뱀파이어(30일)^,^^,^^,^Ica Day Black Vampire(30 days)^,^^,^^
+^CA_ST_CM_0142_description^,^<R_Y>이카 데이 블랙 뱀파이어(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카 데이 블랙 뱀파이어(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0143_name^,^화이트 뱀파이어(30일)^,^^,^^,^White Vampire Outfit (30 Days)^,^^,^^
+^CA_ST_CM_0143_description^,^<R_Y>화이트 뱀파이어(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>화이트 뱀파이어(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0144_name^,^하얀 해골 의상(30일)^,^^,^^,^White Skeleton Costume(30 days)^,^^,^^
+^CA_ST_CM_0144_description^,^<R_Y>하얀 해골 의상(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하얀 해골 의상(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0145_name^,^파란 해골 의상(30일)^,^^,^^,^Blue Skeleton Costume(30 days)^,^^,^^
+^CA_ST_CM_0145_description^,^<R_Y>파란 해골 의상(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>파란 해골 의상(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0146_name^,^(외형) 블랙 뱀파이어^,^^,^^,^(Appearance) Black Vampire^,^^,^^
+^CA_ST_CM_0146_description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>!^,^^,^^
+^CA_ST_CM_0147_name^,^(외형) 화이트 뱀파이어^,^^,^^,^(Appearance) White Vampire^,^^,^^
+^CA_ST_CM_0147_description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>!^,^^,^^
+^CA_ST_CM_0148_Name^,^초보자용 페가수스 예복(30일)^,^^,^^,^Beginner Pegasus Formal Dress(30 days)^,^^,^^
+^CA_ST_CM_0148_Description^,^<R_Y>초보자용 페가수스 예복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>초보자용 페가수스 예복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.
+경험치 증가 옵션은 최대 500% 까지 적용 됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0149_Name^,^초보자용 불사의 사막 여우(30일)^,^^,^^,^Beginner Cloying Wastes Fox(30 days)^,^^,^^
+^CA_ST_CM_0149_Description^,^<R_Y>초보자용 불사의 사막 여우(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>초보자용 불사의 사막 여우(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.
+경험치 증가 옵션은 최대 500% 까지 적용 됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0150_Name^,^학살자의 분노 (3일)^,^^,^^,^Slayer Fury (3 days)^,^^,^^
+^CA_ST_CM_0150_Description^,^<R_Y>학살자의 분노 (3일)는 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+학살자의 분노 (3일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0151_Name^,^정복자의 기운 (3일)^,^^,^^,^Conqueror's Energy (3 days)^,^^,^^
+^CA_ST_CM_0151_Description^,^<R_Y>정복자의 기운 (3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+정복자의 기운 (3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0082_Name^,^포키포키 라비니 의상(30일)^,^^,^^,^Pokey Pokey Rabbini Outfit (30-Day)^,^^,^^
+^EV_ST_CM_0082_Description^,^<R_Y>포키포키 라비니 의상 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>포키포키 라비니 의상 (30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0152_Name^,^이카 데이 크리스마스 파티(30일)^,^^,^^,^Ica Day Christmas Party(30 days)^,^^,^^
+^CA_ST_CM_0152_Description^,^<R_Y>이카 데이 크리스마스 파티(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카 데이 크리스마스 파티(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0153_Name^,^학살자의 분노 (15일)^,^^,^^,^Slayer Fury (15 days)^,^^,^^
+^CA_ST_CM_0153_Description^,^<R_Y>학살자의 분노 (15일)는 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+학살자의 분노 (15일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0154_Name^,^제복 마티니(30일)^,^^,^^,^Captain Uniform (30 Days)^,^^,^^
+^CA_ST_CM_0154_Description^,^<R_Y>제복 마티니(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>제복 마티니(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0155_Name^,^밀리터리 엑스(30일)^,^^,^^,^Military X (30 Days)^,^^,^^
+^CA_ST_CM_0155_Description^,^<R_Y>밀리터리 엑스(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>밀리터리 엑스(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0156_Name^,^라비니 의상(30일)^,^^,^^,^Rabbini Outfit (30 Day)^,^^,^^
+^CA_ST_CM_0156_Description^,^<R_Y>라비니 의상(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>라비니 의상(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0157_Name^,^하카나스 학생복(30일)^,^^,^^,^Hakanas School Uniform (30 Day)^,^^,^^
+^CA_ST_CM_0157_Description^,^<R_Y>하카나스 학생복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 학생복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0158_Name^,^왕국 연수복(30일)^,^^,^^,^Royal Training Uniform (30 Day)^,^^,^^
+^CA_ST_CM_0158_Description^,^<R_Y>왕국 연수복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>왕국 연수복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0159_Name^,^페가수스 예복(30일)^,^^,^^,^Pegasus Suit (30 Day)^,^^,^^
+^CA_ST_CM_0159_Description^,^<R_Y>페가수스 예복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>페가수스 예복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0160_Name^,^하카나스 예복(30일)^,^^,^^,^Hakanas Suit (30 Day)^,^^,^^
+^CA_ST_CM_0160_Description^,^<R_Y>하카나스 예복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 예복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0161_Name^,^이카맨 레드(30일)^,^^,^^,^Ikamen Red (30 Day)^,^^,^^
+^CA_ST_CM_0161_Description^,^<R_Y>이카맨 레드(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카맨 레드(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>
+
+액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.
+<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0162_Name^,^이카맨 블랙(30일)^,^^,^^,^Ikamen Black (30 Day)^,^^,^^
+^CA_ST_CM_0162_Description^,^<R_Y>이카맨 블랙(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카맨 블랙(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>
+
+액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.
+<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0163_Name^,^이카맨 블루(30일)^,^^,^^,^Ikamen Blue (30 Day)^,^^,^^
+^CA_ST_CM_0163_Description^,^<R_Y>이카맨 블루(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카맨 블루(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>
+
+액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.
+<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0164_Name^,^이카맨 옐로우(30일)^,^^,^^,^Ikamen Yellow (30 Day)^,^^,^^
+^CA_ST_CM_0164_Description^,^<R_Y>이카맨 옐로우(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카맨 옐로우(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>
+
+액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.
+<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0165_Name^,^이카맨 핑크(30일)^,^^,^^,^Ikamen Pink (30 Day)^,^^,^^
+^CA_ST_CM_0165_Description^,^<R_Y>이카맨 핑크(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>이카맨 핑크(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>
+
+액션 코스튬 장착 후 <UI_G>액션(L)</UI_G>의 감정표현에서 <UI_G>[코스튬 포즈]</UI_G>를 사용하면 캐릭터가 특수한 포즈를 취합니다.^,^^,^^,^Use the costume pose emote in the Action Menu (L) to strike a special pose while donning this costume.
+<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0166_Name^,^(외형) 달밤의 트레이닝복^,^^,^^,^(Appearance) Moonlight Sweats^,^^,^^
+^CA_ST_CM_0166_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>!^,^^,^^
+^CA_ST_CM_0167_Name^,^(외형) 별밤의 트레이닝복^,^^,^^,^(Appearance) Starlight Sweats^,^^,^^
+^CA_ST_CM_0167_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>!^,^^,^^
+^CA_ST_CM_0168_Name^,^아케론 지배자의 무기 (6일)^,^^,^^,^Stygaea Ruler's Weapon (6 days)^,^^,^^
+^CA_ST_CM_0168_Description^,^<R_Y>아케론 지배자의 무기 (6일)는 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+아케론 지배자의 무기 (6일) (6일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0169_Name^,^아케론 정복자의 무기 (6일)^,^^,^^,^Stygaea Conqueror's Weapon (6 days)^,^^,^^
+^CA_ST_CM_0169_Description^,^<R_Y>아케론 정복자의 무기 (6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+아케론 정복자의 무기 (6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0083_Name^,^그림자의 카라샤(15일)^,^^,^^,^Veiled Karasha(15 days)^,^^,^^
+^EV_ST_CM_0083_Description^,^<R_Y>그림자의 카라샤(15일)는 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>그림자의 카라샤(15일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^MS_ST_CM_0000_Name^,^아케론 정복자의 수호 무기 (6일)^,^^,^^,^Stygaea Conqueror's Stalwart Weapon (6 days)^,^^,^^
+^MS_ST_CM_0000_Description^,^<R_Y>아케론 정복자의 수호 무기 (6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+아케론 정복자의 수호 무기 (6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^MS_ST_CM_0001_Name^,^아케론 정복자의 광폭 무기 (6일)^,^^,^^,^Stygaea Conqueror's Brutal Weapon (6 days)^,^^,^^
+^MS_ST_CM_0001_Description^,^<R_Y>아케론 정복자의 광폭 무기 (6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+아케론 정복자의 광폭 무기 (6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^MS_ST_CM_0002_Name^,^아케론 정복자의 그림자 무기 (6일)^,^^,^^,^Stygaea Conqueror's Veiled Weapon (6 days)^,^^,^^
+^MS_ST_CM_0002_Description^,^<R_Y>아케론 정복자의 그림자 무기 (6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+아케론 정복자의 그림자 무기 (6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^MS_ST_CM_0003_Name^,^아케론 정복자의 원소 무기 (6일)^,^^,^^,^Stygaea Conqueror's Arcane Weapon (6 days)^,^^,^^
+^MS_ST_CM_0003_Description^,^<R_Y>아케론 정복자의 원소 무기 (6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+아케론 정복자의 원소 무기 (6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^MS_ST_CM_0004_Name^,^아케론 정복자의 신념 무기 (6일)^,^^,^^,^Stygaea Conqueror's Devout Weapon (6 days)^,^^,^^
+^MS_ST_CM_0004_Description^,^<R_Y>아케론 정복자의 신념 무기 (6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+아케론 정복자의 신념 무기 (6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^MS_ST_CM_0005_Name^,^아케론 정복자의 냉정 무기 (6일)^,^^,^^,^Stygaea Conqueror's Wild Weapon (6 days)^,^^,^^
+^MS_ST_CM_0005_Description^,^<R_Y>아케론 정복자의 냉정 무기 (6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+아케론 정복자의 냉정 무기 (6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0170_Name^,^(외형) 차이나 드레스^,^^,^^,^(Appearance) China Dress^,^^,^^
+^CA_ST_CM_0170_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>!^,^^,^^
+^CA_ST_CM_0171_Name^,^(외형) 붉은 쿵후^,^^,^^,^(Appearance) Red Kungfu^,^^,^^
+^CA_ST_CM_0171_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>!^,^^,^^
+^CA_ST_CM_0172_Name^,^(외형) 하얀 쿵후^,^^,^^,^(Appearance) White Kungfu^,^^,^^
+^CA_ST_CM_0172_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>!^,^^,^^
+^CA_ST_CM_0173_Name^,^바인데르의 치파오(30일)^,^^,^^,^Bynder's Qipao(30 days)^,^^,^^
+^CA_ST_CM_0173_Description^,^<R_Y>바인데르의 치파오(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>바인데르의 치파오(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0174_Name^,^붉은 쿵후(30일)^,^^,^^,^Red Kungfu(30 days)^,^^,^^
+^CA_ST_CM_0174_Description^,^<R_Y>붉은 쿵후(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>붉은 쿵후(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0175_Name^,^하얀 쿵후(30일)^,^^,^^,^White Kungfu(30 days)^,^^,^^
+^CA_ST_CM_0175_Description^,^<R_Y>하얀 쿵후(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하얀 쿵후(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0176_Name^,^학살자의 치파오(30일)^,^^,^^,^Slayer Qipao(30 days)^,^^,^^
+^CA_ST_CM_0176_Description^,^<R_Y>학살자의 치파오(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>학살자의 치파오(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0007_Name^,^마석 지배자의 마스크(3일)^,^^,^^,^Manastone Master Mask (3 Day)^,^^,^^
+^IT_PK_CM_0007_Description^,^<R_Y>마석 지배자의 마스크(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>마석 지배자의 마스크(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0177_Name^,^(외형) 크리스마스 파티^,^^,^^,^(Appearance) Christmas Party^,^^,^^
+^CA_ST_CM_0177_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>!^,^^,^^
+^CA_ST_CM_0178_Name^,^학살자의 크리스마스 무기 코스튬 (30일)^,^^,^^,^Slayer Christmas Weapon Costume (30 days)^,^^,^^
+^CA_ST_CM_0178_Description^,^<R_Y>학살자의 크리스마스 무기 코스튬 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+학살자의 크리스마스 무기 코스튬 (30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0179_Name^,^정복자의 크리스마스 무기 코스튬 (30일)^,^^,^^,^Conqueror's Christmas Weapon Costume (30 days)^,^^,^^
+^CA_ST_CM_0179_Description^,^<R_Y>정복자의 크리스마스 무기 코스튬 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+정복자의 크리스마스 무기 코스튬 (30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0084_Name^,^(외형) 루돌프 의상^,^^,^^,^(Appearance) Rudolph Costume^,^^,^^
+^EV_ST_CM_0084_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>!^,^^,^^
+^EV_ST_CM_0085_Name^,^루돌프 의상(30일)^,^^,^^,^Rudolph Costume(30 days)^,^^,^^
+^EV_ST_CM_0085_Description^,^<R_Y>루돌프 의상(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>루돌프 의상(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0086_Name^,^고양이 디디(7일)^,^^,^^,^Didi The Shoulder Cat(7 days)^,^^,^^
+^EV_ST_CM_0086_Description^,^<R_Y>고양이 디디(7일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 디디(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0087_Name^,^고양이 디디(30일)^,^^,^^,^Didi The Shoulder Cat(30 days)^,^^,^^
+^EV_ST_CM_0087_Description^,^<R_Y>고양이 디디(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 디디(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0180_Name^,^성장용 초원 여우(30일)^,^^,^^,^Grassland Fox For Growth(30 days)^,^^,^^
+^CA_ST_CM_0180_Description^,^<R_Y>성장용 초원 여우(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>성장용 초원 여우(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.
+경험치 증가 옵션은 최대 500% 까지 적용 됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0181_Name^,^그레이 케이프(30일)^,^^,^^,^Gray Cape(30 days)^,^^,^^
+^CA_ST_CM_0181_Description^,^<R_Y>그레이 케이프(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>그레이 케이프(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0182_Name^,^블랙 케이프(30일)^,^^,^^,^Black Cape(30 days)^,^^,^^
+^CA_ST_CM_0182_Description^,^<R_Y>블랙 케이프(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>블랙 케이프(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0183_Name^,^레드 케이프(30일)^,^^,^^,^Red Cape(30 days)^,^^,^^
+^CA_ST_CM_0183_Description^,^<R_Y>레드 케이프(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>레드 케이프(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0184_Name^,^블루 케이프(30일)^,^^,^^,^Blue Cape(30 days)^,^^,^^
+^CA_ST_CM_0184_Description^,^<R_Y>블루 케이프(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>블루 케이프(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0185_Name^,^에메랄드 케이프(30일)^,^^,^^,^Emerald Cape(30 days)^,^^,^^
+^CA_ST_CM_0185_Description^,^<R_Y>에메랄드 케이프(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>에메랄드 케이프(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^tt_1_0_0000_Name^,^칭호 테스트용 아이템^,^^,^^,^Title Test Item^,^^,^^
+^CA_ST_CM_0186_Name^,^학살자의 위키드 코스튬(30일)^,^^,^^,^Slayer's Wicked Costume (30 days)^,^^,^^
+^CA_ST_CM_0186_Description^,^<R_Y>학살자의 위키드 코스튬(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>학살자의 위키드 코스튬(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0187_Name^,^정복자의 위키드 코스튬(30일)^,^^,^^,^Conqueror's Wicked Costume (30 days)^,^^,^^
+^CA_ST_CM_0187_Description^,^<R_Y>정복자의 위키드 코스튬(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>정복자의 위키드 코스튬(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0188_Name^,^학살자의 위키드 무기 코스튬(30일)^,^^,^^,^Slayer's Wicked Weapon Costume (30 days)^,^^,^^
+^CA_ST_CM_0188_Description^,^<R_Y>학살자의 위키드 무기 코스튬(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>학살자의 위키드 무기 코스튬(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0189_Name^,^정복자의 위키드 무기 코스튬(30일)^,^^,^^,^Conqueror's Wicked Weapon Costume (30 days)^,^^,^^
+^CA_ST_CM_0189_Description^,^<R_Y>정복자의 위키드 무기 코스튬(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>정복자의 위키드 무기 코스튬(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0190_Name^,^학살자의 각성 모모(30일)^,^^,^^,^Slayer Awakened Momo(30 days)^,^^,^^
+^CA_ST_CM_0190_Description^,^<R_Y>학살자의 각성 모모(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>학살자의 각성 모모(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0191_Name^,^정복자의 각성 모모(30일)^,^^,^^,^Conqueror's Awakened Momo(30 days)^,^^,^^
+^CA_ST_CM_0191_Description^,^<R_Y>정복자의 각성 모모(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>정복자의 각성 모모(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0192_Name^,^고양이 각성 라라(30일)^,^^,^^,^^,^^,^^
+^CA_ST_CM_0192_Description^,^<R_Y>고양이 각성 라라(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 각성 라라(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^^,^^,^^
+^CA_ST_CM_0193_Name^,^고양이 보보(30일)^,^^,^^,^Bobo the Shoulder Cat(30 days)^,^^,^^
+^CA_ST_CM_0193_Description^,^<R_Y>고양이 보보(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 보보(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0194_Name^,^2016안경(15일)^,^^,^^,^2016 Glasses(15 days)^,^^,^^
+^CA_ST_CM_0194_Description^,^<R_Y>2016안경(15일)는 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>2016안경(15일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Accessory slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0088_Name^,^전통복 아라(15일)^,^^,^^,^Traditional Costume Ahra(15 days)^,^^,^^
+^EV_ST_CM_0088_Description^,^<R_Y>전통복 아라(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 아라(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 15 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0195_Name^,^검정 안경(30일)^,^^,^^,^Black Glasses(30 days)^,^^,^^
+^CA_ST_CM_0195_Description^,^<R_Y>검정 안경(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>검정 안경(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0196_Name^,^레드 스퀘어(30일)^,^^,^^,^Red Glasses(30 days)^,^^,^^
+^CA_ST_CM_0196_Description^,^<R_Y>레드 스퀘어(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>레드 스퀘어(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0197_Name^,^둥근 안경(30일)^,^^,^^,^Round Glasses(30 days)^,^^,^^
+^CA_ST_CM_0197_Description^,^<R_Y>둥근 안경(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>둥근 안경(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0089_Name^,^메이드와 집사(30일)^,^^,^^,^Maid Butler(30 days)^,^^,^^
+^EV_ST_CM_0089_Description^,^<R_Y>메이드와 집사(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+메이드와 집사(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0198_Name^,^옐로우 펜타그램(30일)^,^^,^^,^Yellow Pentagram(30 days)^,^^,^^
+^CA_ST_CM_0198_Description^,^<R_Y>옐로우 펜타그램(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+옐로우 펜타그램(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0199_Name^,^레드 펜타그램(30일)^,^^,^^,^Red Pentagram(30 days)^,^^,^^
+^CA_ST_CM_0199_Description^,^<R_Y>레드 펜타그램(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 펜타그램(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0200_Name^,^화이트 펜타그램(30일)^,^^,^^,^White Pentagram(30 days)^,^^,^^
+^CA_ST_CM_0200_Description^,^<R_Y>화이트 펜타그램(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+화이트 펜타그램(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0090_Name^,^고양이 보보(7일)^,^^,^^,^Bobo the Shoulder Cat(7 days)^,^^,^^
+^EV_ST_CM_0090_Description^,^<R_Y>고양이 보보(7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 보보(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0091_Name^,^빨강 마녀 모자(7일)^,^^,^^,^Red Witch Hat(7 days)^,^^,^^
+^EV_ST_CM_0091_Description^,^<R_Y>빨강 마녀 모자(7일)은 7일 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>빨강 마녀 모자(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0201_Name^,^황금 마스크(30일)^,^^,^^,^Golden Mask(30 days)^,^^,^^
+^CA_ST_CM_0201_Description^,^<R_Y>황금 마스크(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+황금 마스크(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0202_Name^,^제천대성의 갑주(30일)^,^^,^^,^Sun Wukong's Armor(30 days)^,^^,^^
+^CA_ST_CM_0202_Description^,^<R_Y>제천대성의 갑주(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+제천대성의 갑주(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0203_Name^,^제천대성의 여의봉(30일)^,^^,^^,^Sun Wukong's Ruyi Bang(30 days)^,^^,^^
+^CA_ST_CM_0203_Description^,^<R_Y>제천대성의 여의봉(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+제천대성의 여의봉(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0204_Name^,^제천대성의 원숭이(30일)^,^^,^^,^Sun Wukong's Monkey(30 days)^,^^,^^
+^CA_ST_CM_0204_Description^,^<R_Y>제천대성의 원숭이(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+제천대성의 원숭이(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0008_Name^,^무법지대의 학살자 (6일)^,^^,^^,^Badlands Slayer (6 days)^,^^,^^
+^IT_PK_CM_0009_Name^,^무법지대의 학살자 (6일)(버서커)^,^^,^^,^Badlands Slayer (6 days)(Berserker)^,^^,^^
+^IT_PK_CM_0010_Name^,^무법지대의 학살자 (6일)(위자드)^,^^,^^,^Badlands Slayer (6 days)(Wizard)^,^^,^^
+^IT_PK_CM_0011_Name^,^무법지대의 학살자 (6일)(레인저)^,^^,^^,^Badlands Slayer (6 days)(Ranger)^,^^,^^
+^IT_PK_CM_0008_Description^,^<R_Y>무법지대의 학살자(6일)는 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+무법지대의 학살자(6일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0009_Description^,^<R_Y>무법지대의 학살자(6일)는 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+무법지대의 학살자(6일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0010_Description^,^<R_Y>무법지대의 학살자(6일)는 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+무법지대의 학살자(6일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0011_Description^,^<R_Y>무법지대의 학살자(6일)는 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+무법지대의 학살자(6일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0205_Name^,^(외형) 제천대성의 갑주^,^^,^^,^(Appearance) Sun Wukong's Armor^,^^,^^
+^CA_ST_CM_0205_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>!^,^^,^^
+^CA_ST_CM_0206_Name^,^제천대성의 여의봉^,^^,^^,^Sun Wukong's Ruyi Bang^,^^,^^
+^CA_ST_CM_0207_Name^,^제천대성의 원숭이^,^^,^^,^Sun Wukong's Monkey^,^^,^^
+^IT_FI_CM_0001_Name^,^낚시광의 무기 코스튬(3일)^,^^,^^,^Fishing Maniac's Weapon Costume (3 days)^,^^,^^
+^IT_FI_CM_0002_Name^,^빛나는 낚시광의 무기 코스튬(7일)^,^^,^^,^Shining Fishing Maniac's Weapon Costume (7 days)^,^^,^^
+^IT_FI_CM_0001_Description^,^<R_Y>낚시광의 무기 코스튬(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+낚시광의 무기 코스튬(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^IT_FI_CM_0002_Description^,^<R_Y>빛나는 낚시광의 무기 코스튬(7일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+낚시광의 무기 코스튬(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0092_Name^,^전통복 윤슬(7일)^,^^,^^,^Traditional Costume Yunseul(7 days)^,^^,^^
+^EV_ST_CM_0092_Description^,^<R_Y>전통복 윤슬(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 윤슬(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0208_Name^,^맨 오브 라비니(30일)^,^^,^^,^Man of Rabbini(30 days)^,^^,^^
+^CA_ST_CM_0208_Description^,^<R_Y>맨 오브 라비니(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+맨 오브 라비니(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^tt_1_0_0001_Name^,^특수 칭호 : 시간을 달려서^,^^,^^,^Special Title : Rough^,^^,^^
+^tt_1_0_0001_Description^,^여자친구 팬이라는 증거^,^^,^^,^GFriend Fandom^,^^,^^
+^CA_ST_CM_0209_Name^,^맨 오브 라비니(14일)^,^^,^^,^Man of Rabbini(14 days)^,^^,^^
+^CA_ST_CM_0209_Description^,^<R_Y>맨 오브 라비니(14일)는 14일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+맨 오브 라비니(14일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 14 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0210_Name^,^하케인의 각성 차차(7일)^,^^,^^,^Hakain's Awakened Chacha(7 days)^,^^,^^
+^CA_ST_CM_0210_Description^,^<R_Y>하케인의 각성 차차(7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하케인의 각성 차차(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0211_Name^,^론도의 얼음 망토(7일)^,^^,^^,^Rondo's Ice Cloak(7 days)^,^^,^^
+^CA_ST_CM_0211_Description^,^<R_Y>론도의 얼음 망토(7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+론도의 얼음 망토(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0093_Name^,^태극 망토(7일)^,^^,^^,^Taegeuk Cloak(7 days)^,^^,^^
+^EV_ST_CM_0093_Description^,^<R_Y>태극 망토(7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+태극 망토(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0212_Name^,^하케인의 왕관(7일)^,^^,^^,^Hakain's Crown(7 days)^,^^,^^
+^CA_ST_CM_0212_Description^,^<R_Y>하케인의 왕관(7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+하케인의 왕관(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Accessory slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^tt_1_0_0002_Name^,^특수 칭호 : 전설을 넘어서^,^^,^^,^Special Title : Over The Legend^,^^,^^
+^tt_1_0_0002_Description^,^스페셜 콜렉션 <UI_G>[새로운 전설]</UI_G>을 완료하여 획득한 특수 칭호^,^^,^^,^The special title obtained by completing the Special Collection <UI_G>[New Legend]</UI_G>.^,^^,^^
+^CA_ST_CM_0213_Name^,^레드 스퀘어(3일)^,^^,^^,^Red Glasses(3 days)^,^^,^^
+^CA_ST_CM_0213_Description^,^<R_Y>레드 스퀘어(3일)는 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>레드 스퀘어(3일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Accessory slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0214_Name^,^고양이 보보(3일)^,^^,^^,^Bobo the Shoulder Cat(3 days)^,^^,^^
+^CA_ST_CM_0214_Description^,^<R_Y>고양이 보보(3일)는 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 보보(3일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0215_Name^,^유주 어깨장식^,^^,^^,^Yuju Pauldron Epaulette^,^^,^^
+^CA_ST_CM_0216_Name^,^소원 어깨장식^,^^,^^,^Lindinha Pauldron Epaulette^,^^,^^
+^CA_ST_CM_0217_Name^,^은하 어깨장식^,^^,^^,^Docinho Pauldron Epaulette^,^^,^^
+^CA_ST_CM_0218_Name^,^예린 어깨장식^,^^,^^,^Florzinha Pauldron Epaulette^,^^,^^
+^CA_ST_CM_0219_Name^,^유주 어깨장식(45일)^,^^,^^,^Yuju Pauldron Epaulette(45 days)^,^^,^^
+^CA_ST_CM_0219_Description^,^<R_Y>유주 어깨장식(45일)은 45일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>유주 어깨장식(45일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 45 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0220_Name^,^소원 어깨장식(45일)^,^^,^^,^Lindinha Pauldron Epaulette(45 days)^,^^,^^
+^CA_ST_CM_0220_Description^,^<R_Y>소원 어깨장식(45일)은 45일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>소원 어깨장식(45일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 45 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0221_Name^,^은하 어깨장식(45일)^,^^,^^,^Docinho Pauldron Epaulette(45 days)^,^^,^^
+^CA_ST_CM_0221_Description^,^<R_Y>은하 어깨장식(45일)은 45일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>은하 어깨장식(45일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 45 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0222_Name^,^예린 어깨장식(45일)^,^^,^^,^Florzinha Pauldron Epaulette(45 days)^,^^,^^
+^CA_ST_CM_0222_Description^,^<R_Y>예린 어깨장식(45일)은 45일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>예린 어깨장식(45일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 45 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0223_Name^,^유주 어깨장식(30일)^,^^,^^,^Yuju Pauldron Epaulette(30 days)^,^^,^^
+^CA_ST_CM_0223_Description^,^<R_Y>유주 어깨장식(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>유주 어깨장식(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0224_Name^,^소원 어깨장식(30일)^,^^,^^,^Lindinha Pauldron Epaulette(30 days)^,^^,^^
+^CA_ST_CM_0224_Description^,^<R_Y>소원 어깨장식(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>소원 어깨장식(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0225_Name^,^은하 어깨장식(30일)^,^^,^^,^Docinho Pauldron Epaulette(30 days)^,^^,^^
+^CA_ST_CM_0225_Description^,^<R_Y>은하 어깨장식(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>은하 어깨장식(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0226_Name^,^예린 어깨장식(30일)^,^^,^^,^Florzinha Pauldron Epaulette(30 days)^,^^,^^
+^CA_ST_CM_0226_Description^,^<R_Y>예린 어깨장식(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>예린 어깨장식(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^tt_1_0_0003_Name^,^특수 칭호 : 오늘부터 우리는^,^^,^^,^Special Title : Me Gustas Tu^,^^,^^
+^tt_1_0_0003_Description^,^여자친구 팬이라는 증거^,^^,^^,^Proof of GFriend Fandom^,^^,^^
+^CA_ST_CM_0227_Name^,^러블리 메이드와 집사(30일)^,^^,^^,^Lovely Maid Butler(30 days)^,^^,^^
+^CA_ST_CM_0227_Description^,^<R_Y>러블리 메이드와 집사(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>러블리 메이드와 집사(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0228_Name^,^사탕 무기 코스튬 (30일)^,^^,^^,^Candy Weapon Costume (30 days)^,^^,^^
+^CA_ST_CM_0228_Description^,^<R_Y>사탕 무기 코스튬 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+사탕 무기 코스튬 (30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0229_Name^,^(외형) 러블리 메이드와 집사^,^^,^^,^(Appearance) Lovely Maid Butler^,^^,^^
+^CA_ST_CM_0229_Description^,^<UI_G>외형 슬롯에 장착 됩니다.</UI_G>^,^^,^^,^<UI_G> Mounts in the Appearance slot. </UI_G>!^,^^,^^
+^CA_ST_CM_0230_Name^,^사탕 무기 코스튬^,^^,^^,^Candy Weapon Costume^,^^,^^
+^CA_ST_CM_0231_Name^,^태극 망토(30일)^,^^,^^,^Taegeuk Cloak(30 days)^,^^,^^
+^CA_ST_CM_0231_Description^,^<R_Y>태극 망토(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+태극 망토(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0232_Name^,^바인데르의 치파오(3일)^,^^,^^,^Bynder's Qipao(3 days)^,^^,^^
+^CA_ST_CM_0232_Description^,^<R_Y>바인데르의 치파오(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>바인데르의 치파오(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0233_Name^,^속옷 1(30일)^,^^,^^,^Underwear 1(30 days)^,^^,^^
+^CA_ST_CM_0233_Description^,^<R_Y>속옷1(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+속옷1(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Underwear slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0234_Name^,^러블리 나잇(30일)^,^^,^^,^Lovely Night(30 days)^,^^,^^
+^CA_ST_CM_0234_Description^,^<R_Y>러블리 나잇(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+러블리 나잇(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0235_Name^,^파르나의 날개(30일)^,^^,^^,^Parna's Wings(30 days)^,^^,^^
+^CA_ST_CM_0235_Description^,^<R_Y>파르나의 날개(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+파르나의 날개(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^tt_1_0_0004_Name^,^특수 칭호 : 이카루스 수호자(30일)^,^^,^^,^Special Title : Riders of Icarus Guardian(30 days)^,^^,^^
+^tt_1_0_0004_Description^,^<R_Y>이카루스 수호자(30일)는 30일간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+이카루스 수호자(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Title slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0236_Name^,^날개(30일)^,^^,^^,^White Wings(30 days)^,^^,^^
+^CA_ST_CM_0236_Description^,^<R_Y>날개(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+날개(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0237_Name^,^날개(30일)^,^^,^^,^Blue Wings(30 days)^,^^,^^
+^CA_ST_CM_0237_Description^,^<R_Y>날개(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+날개(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0238_Name^,^러블리 나잇(3일)^,^^,^^,^Lovely Night(3 days)^,^^,^^
+^CA_ST_CM_0238_Description^,^<R_Y>러블리 나잇(3일)는 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+러블리 나잇(3일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0239_Name^,^러블리 나잇(7일)^,^^,^^,^Lovely Night(7 days)^,^^,^^
+^CA_ST_CM_0239_Description^,^<R_Y>러블리 나잇(7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+러블리 나잇(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0240_Name^,^러블리 나잇(14일)^,^^,^^,^Lovely Night(14 days)^,^^,^^
+^CA_ST_CM_0240_Description^,^<R_Y>러블리 나잇(14일)는 14일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+러블리 나잇(14일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 14 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0241_Name^,^러블리 나잇(45일)^,^^,^^,^Lovely Night(45 days)^,^^,^^
+^CA_ST_CM_0241_Description^,^<R_Y>러블리 나잇(45일)는 45일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+러블리 나잇(45일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 45 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0242_Name^,^옐로우 블러썸 테스트용(30일)^,^^,^^,^Yellow Blossom Test(30 days)^,^^,^^
+^CA_ST_CM_0243_Name^,^레드 샤인 테스트용(30일)^,^^,^^,^Red Shine Test(30 days)^,^^,^^
+^CA_ST_CM_0244_Name^,^옐로우 블러썸(3일)^,^^,^^,^Yellow Blossom(3 days)^,^^,^^
+^CA_ST_CM_0244_Description^,^<R_Y>옐로우 블러썸(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+옐로우 블러썸(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Underwear slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0245_Name^,^옐로우 블러썸(7일)^,^^,^^,^Yellow Blossom(7 days)^,^^,^^
+^CA_ST_CM_0245_Description^,^<R_Y>옐로우 블러썸(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+옐로우 블러썸(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Underwear slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0246_Name^,^옐로우 블러썸(14일)^,^^,^^,^Yellow Blossom(14 days)^,^^,^^
+^CA_ST_CM_0246_Description^,^<R_Y>옐로우 블러썸(14일)은 14일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+옐로우 블러썸(14일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Underwear slot. </UI_G>
+<R_Y>This item will disappear 14 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0247_Name^,^옐로우 블러썸(30일)^,^^,^^,^Yellow Blossom(30 days)^,^^,^^
+^CA_ST_CM_0247_Description^,^<R_Y>옐로우 블러썸(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+옐로우 블러썸(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Underwear slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0248_Name^,^옐로우 블러썸(45일)^,^^,^^,^Yellow Blossom(45 days)^,^^,^^
+^CA_ST_CM_0248_Description^,^<R_Y>옐로우 블러썸(45일)은 45일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+옐로우 블러썸(45일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Underwear slot. </UI_G>
+<R_Y>This item will disappear 45 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0249_Name^,^옐로우 블러썸^,^^,^^,^Yellow Blossom^,^^,^^
+^CA_ST_CM_0250_Name^,^파르나의 날개(14일)^,^^,^^,^Parna's Wings(14 days)^,^^,^^
+^CA_ST_CM_0250_Description^,^<R_Y>파르나의 날개(14일)는 14일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+파르나의 날개(14일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 14 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0094_Name^,^용맹의 케이프(30일)^,^^,^^,^Dauntless Cape(30 days)^,^^,^^
+^EV_ST_CM_0094_Description^,^<R_Y>용맹의 케이프(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+용맹의 케이프(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0251_Name^,^엘로라의 날개(30일)^,^^,^^,^Ellora's Wings(30 days)^,^^,^^
+^CA_ST_CM_0251_Description^,^<R_Y>엘로라의 날개(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+엘로라의 날개(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0252_Name^,^젤나리스의 날개(30일)^,^^,^^,^Zelnaris Wings(30 days)^,^^,^^
+^CA_ST_CM_0252_Description^,^<R_Y>젤나리스의 날개(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+젤나리스의 날개(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0253_Name^,^파르나의 날개3(30일)^,^^,^^,^Parna's Wings3(30 days)^,^^,^^
+^CA_ST_CM_0253_Description^,^<R_Y>파르나의 날개3(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+파르나의 날개3(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0254_Name^,^학용품 무기 코스튬 (30일)^,^^,^^,^Stationery Weapon Costume (30 days)^,^^,^^
+^CA_ST_CM_0254_Description^,^<R_Y>학용품 무기 코스튬 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+학용품 무기 코스튬 (30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0255_Name^,^신학기 하카나스 학생복(30일)^,^^,^^,^Back to School Hakanas School Uniform(30 days)^,^^,^^
+^CA_ST_CM_0255_Description^,^<R_Y>신학기 하카나스 학생복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>신학기 하카나스 학생복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^tt_1_0_0005_Name^,^특수 칭호 : 붉은 혁명단 기지 정복자^,^^,^^,^Special Title : Red Revolutionaries Base Conqueror^,^^,^^
+^tt_1_0_0005_Description^,^붉은 혁명단 기지를 클리어하여 획득한 칭호^,^^,^^,^Obtained by cleaRing Red Revolutionaries Base^,^^,^^
+^CA_ST_CM_0256_Name^,^러블리 메이드와 집사(3일)^,^^,^^,^Lovely Maid Butler(3 days)^,^^,^^
+^CA_ST_CM_0256_Description^,^<R_Y>러블리 메이드와 집사(3일)는 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>러블리 메이드와 집사(3일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0257_Name^,^사탕 무기 코스튬 (3일)^,^^,^^,^Candy Weapon Costume (3 days)^,^^,^^
+^CA_ST_CM_0257_Description^,^<R_Y>사탕 무기 코스튬 (3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>사탕 무기 코스튬 (3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0095_Name^,^N과 최고의 즐거움^,^^,^^,^Nexon's Idea of a Shoulder Pet^,^^,^^
+^CA_ST_CM_0261_Name^,^선글라스(30일)^,^^,^^,^Sunglasses(30 days)^,^^,^^
+^CA_ST_CM_0261_Description^,^<R_Y>선글라스(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>선글라스(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0262_Name^,^샤링의 퍼플 코스튬(30일)^,^^,^^,^Shahling's Purple Costume (30 days)^,^^,^^
+^CA_ST_CM_0262_Description^,^<R_Y>샤링의 퍼플 코스튬(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>샤링의 퍼플 코스튬(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0263_Name^,^초보자용 왕국 연수복(30일)^,^^,^^,^Beginner Kingdom Trainee Uniform(30 days)^,^^,^^
+^CA_ST_CM_0263_Description^,^<R_Y>초보자용 왕국 연수복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>초보자용 왕국 연수복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.
+경험치 증가 옵션은 최대 500% 까지 적용 됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^MS_ST_CM_0006_Name^,^아케론 정복자의 순수 무기 (6일)^,^^,^^,^Stygaea Conqueror's Genuine Weapon (6 days)^,^^,^^
+^MS_ST_CM_0006_Description^,^<R_Y>아케론 정복자의 순수 무기 (6일)는 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+아케론 정복자의 순수 무기 (6일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_DO_0001_Name^,^고대 황금마룡의 순수 코스튬(7일)^,^^,^^,^Ancient Golden Dragon's Genuine Costume (7 days)^,^^,^^
+^EV_ST_DO_0001_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^IT_ST_DO_0002_Name^,^고대 황금마룡의 한손 마법봉(30일)^,^^,^^,^Ancient Golden Dragon's Magic Wand(30 days)^,^^,^^
+^IT_ST_DO_0002_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_DO_0003_Name^,^고대 황금마룡의 순수 코스튬(30일)^,^^,^^,^Ancient Golden Dragon's Genuine Costume (30 days)^,^^,^^
+^EV_ST_DO_0003_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 30일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0096_Name^,^고대 황금마룡의 순수 갑주 I^,^^,^^,^Ancient Golden Dragon's Genuine Armor I(7 days)^,^^,^^
+^EV_ST_CM_0096_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0097_Name^,^고대 황금마룡의 순수 갑주 II^,^^,^^,^Ancient Golden Dragon's Genuine Armor II(7 days)^,^^,^^
+^EV_ST_CM_0097_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 7일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 7 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0012_Name^,^마석 지배자의 순수 갑주(6일)^,^^,^^,^Manastone Conqueror's Genuine Armor(6 days)^,^^,^^
+^IT_PK_CM_0012_Description^,^<R_Y>마석 지배자의 순수 갑주(6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>마석 지배자의 순수 갑주(6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0266_Name^,^신학기 하카나스 학생복(14일)^,^^,^^,^Back to School Hakanas School Uniform(14 days)^,^^,^^
+^CA_ST_CM_0266_Description^,^<R_Y>신학기 하카나스 학생복(14일)은 14일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>신학기 하카나스 학생복(14일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 14 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0267_Name^,^학용품 무기 코스튬 (14일)^,^^,^^,^Stationery Weapon Costume (14 days)^,^^,^^
+^CA_ST_CM_0267_Description^,^<R_Y>학용품 무기 코스튬 (14일)은 14일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+학용품 무기 코스튬 (14일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 14 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0268_Name^,^고양이 각성 차차(14일)^,^^,^^,^Cat Awakened Chacha(14 days)^,^^,^^
+^CA_ST_CM_0268_Description^,^<R_Y>고양이 각성 차차(14일)는 14일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 각성 차차(14일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 14 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0269_Name^,^고양이 각성 키키(14일)^,^^,^^,^Cat Awakened Kiki(14 days)^,^^,^^
+^CA_ST_CM_0269_Description^,^<R_Y>고양이 각성 키키(14일)는 14일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 각성 키키(14일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 14 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0270_Name^,^고양이 각성 라라(14일)^,^^,^^,^Cat Awakened Lara(14 days)^,^^,^^
+^CA_ST_CM_0270_Description^,^<R_Y>고양이 각성 라라(14일)는 14일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 각성 라라(14일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 14 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0271_Name^,^화이트 펜타그램(14일)^,^^,^^,^White Pentagram(14 days)^,^^,^^
+^CA_ST_CM_0271_Description^,^<R_Y>화이트 펜타그램(14일)는 14일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+화이트 펜타그램(14일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Back Accessory slot. </UI_G>
+<R_Y>This item will disappear 14 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0272_Name^,^아이스크림 무기 코스튬 (30일)^,^^,^^,^Ice Cream Weapon Costume (30 days)^,^^,^^
+^CA_ST_CM_0272_Description^,^<R_Y>아이스크림 무기 코스튬 (30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+아이스크림 무기 코스튬 (30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0273_Name^,^화이트 블루밍(30일)^,^^,^^,^White Blooming (30 days)^,^^,^^
+^CA_ST_CM_0273_Description^,^<R_Y>화이트 블루밍(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+화이트 블루밍(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0274_Name^,^스쿨 미즈(30일)^,^^,^^,^School Miz(30 days)^,^^,^^
+^CA_ST_CM_0274_Description^,^<R_Y>스쿨 미즈(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+스쿨 미즈(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0275_Name^,^레드 블루밍(30일)^,^^,^^,^Lace Swimwear3(30 days)^,^^,^^
+^CA_ST_CM_0275_Description^,^<R_Y>레드 블루밍(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 블루밍(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0276_Name^,^블루 블루밍(30일)^,^^,^^,^Lace Swimwear4(30 days)^,^^,^^
+^CA_ST_CM_0276_Description^,^<R_Y>블루 블루밍(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 블루밍(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0277_Name^,^고양이 썸머 차차(30일)^,^^,^^,^Cat Summer Chacha(30 days)^,^^,^^
+^CA_ST_CM_0277_Description^,^<R_Y>고양이 썸머 차차(30일)는 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>고양이 썸머 차차(30일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 30 days after it enters your bag.</R_Y>^,^^,^^
+^IT_PK_CM_0013_Name^,^마석 도전자의 마스크(6일)^,^^,^^,^Manastone Challenger's Mask(6 days)^,^^,^^
+^IT_PK_CM_0013_Description^,^<R_Y>마석 도전자의 마스크(6일)은 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>마석 도전자의 마스크(6일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Shoulder Accessory slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^CA_ST_CM_0281_Name^,^아케론 도전자의 무기 (6일)^,^^,^^,^Stygaea Challenger's Weapon (6 days)^,^^,^^
+^CA_ST_CM_0281_Description^,^<R_Y>아케론 도전자의 무기 (6일)는 6일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+아케론 도전자의 무기 (6일) (6일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Weapon Costume slot. </UI_G>
+<R_Y>This item will disappear 6 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0098_Name^,^주간 업적 크루오(3일)^,^^,^^,^Weekly Achievement Cruwoh (3 days)^,^^,^^
+^EV_ST_CM_0098_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 3일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 3 days after it enters your bag.</R_Y>^,^^,^^
+^EV_ST_CM_0099_Name^,^주간 업적 악마의 복면(1일)^,^^,^^,^Weekly Achievement Devil Mask(1 day)^,^^,^^
+^EV_ST_CM_0099_Description^,^<R_Y>가방에 들어오는 순간부터 시간이 소비되며, 1일간 착용 할 수 있습니다. 기간이 만료되면 자동으로 사라집니다.</R_Y>^,^^,^^,^<UI_G> Mounts in the Costume slot. </UI_G>
+<R_Y>This item will disappear 1 days after it enters your bag.</R_Y>^,^^,^^
+^tt_1_0_0010_Name^,^특수 칭호 : 투쟁의 펠로우^,^^,^^,^Special Title: Fellows of struggle^,^^,^^
+^tt_1_0_0010_Description^,^스페셜 콜렉션 <UI_G>[전장의 지배자]</UI_G>를 완료하여 획득한 특수 칭호^,^^,^^,^Special collection <UI_G> [Master of Battlefields] </UI_G>^,^^,^^

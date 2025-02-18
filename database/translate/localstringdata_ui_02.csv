@@ -1,0 +1,654 @@
+t_key,t_korean
+^getitemruleunique^,^Unique^
+^ui_autolooting_Unique^,^Earn a unique rank or higher^
+^quick_request_mentor^,^Mentor request^
+^quick_invite_mentee^,^Invite mentee^
+^ui_tab_friendlist_mentoring^,^Mentoring^
+^ui_title_mentoring_invite_mentee^,^Invite mentee^
+^ui_title_mentoring_request_mentor^,^Request Mentor^
+^ui_title_mentoring_reward^,^Mentoring Reward^
+^ui_desc_mentoring_invite_mentee^,^Enter the name of the mentee you want to invite.^
+^ui_desc_mentoring_request_mentor^,^Enter the name of the mentor you want to request.^
+^ui_desc_release_mentoring^,^When you release a mentoring relationship, you cannot enter into a mentoring relationship for 24 hours.
+Do you really want to release a mentoring relationship? ^
+^ou can graduate by achieving the level ^ui_desc_mentoring_request_graduate^,^.
+Ask your mentor to graduate?
+
+<G_Y>(The graduation request cannot be canceled and the mentoring relationship will be automatically terminated if there is no approval from the mentor for 3 days after request.)</G_Y>^
+^ui_mentoring_person^,^person^
+^ui_mentoring_level_reward_label^,^Level up reward^
+^ui_mentoring_mentee_reward_label^,^mentee reward^
+^ui_mentoring_mentor_reward_label^,^Mentor Reward^
+^ui_mentoring_buff_reward_label^,^Buff reward^
+^ui_mentoring_move_label^,^Move Convenience Functions^
+^ui_mentoring_reward_desc^,^Having a mentoring relationship will give you special benefits.^
+^ui_mentoring_level_reward_desc1^,^Rewards are given when the mentee reaches level 20, 30, 40, 50, 55, or 60.^
+^ui_mentoring_level_reward_desc2^,^Rewards are sent to Elora's storage box after the mentee achieves the conditional level.
+(If not received within 7 days, the reward will be deleted.)^
+^ui_mentoring_buff_reward_desc^,^When a mentor and a mentee connect at the same time, a special buff is applied.^
+^ui_mentoring_move_desc^,^A character who has a mentoring relationship can summon an opponent without consuming Elune.^
+^ui_mentoring_graduation_label^,^graduation^
+^ui_mentoring_mentee_buff_label^,^mentee buff^
+^ui_mentoring_mentor_buff_label^,^Mentor Buff^
+^shop_tab_alsas^,^Alsace^
+^shop_tab_telio^,^Telio^
+^ui_arena_grade_table_info^,^Show rank information window^
+^ui_arena_no_record^,^No record^
+^ui_arena_rank^,^rank rank^
+^ui_gameoption_fishingmsg_onoff^,^Print out the message of getting a great fishing fish^
+^ui_tooltip_set_fishingmsg_onoff^,^If selected, a message will be displayed in the cHat window when another person acquires a large fish through fishing.^
+^FeBuff015^,^Beginning of Turimnan Journey^
+^FeBuff016^,^Responsible for your vitality^
+^FeBuff017^,^Glare tHat cuts through the darkness^
+^FeBuff018^,^Divine Intelligence^
+^FeBuff019^,^Heavenly Power^
+^FeBuff015desc^,^100% of character acquisition experience (1 hour)^
+^FeBuff016desc^,^Life absorption rate +30%, Efficiency +10%, Health +50% (1 hour)^
+^FeBuff017desc^,^All State 15% (2 hours)^
+^FeBuff018desc^,^Intellect +500 (2 hours)^
+^FeBuff019desc^,^Strength+500 (2 hours)^
+^FeBuff015_desc^,^100% of character acquisition experience (1 hour)^
+^FeBuff016_desc^,^Life absorption rate +30%, Efficiency +10%, Health +50% (1 hour)^
+^FeBuff017_desc^,^All State 15% (2 hours)^
+^FeBuff018_desc^,^Intellect +500 (2 hours)^
+^FeBuff019_desc^,^Strength+500 (2 hours)^
+^ui_partyboard_list_hidetext^,^The list is not displayed duRing the ranking match^
+^ui_mentoring_mentor^,^멘토^
+^ui_mentoring_mentee^,^멘티^
+^ui_friendlist_friendlist_relation^,^relationship^
+^ui_graduate_mentee^,^mentee who graduated^
+^ui_possess_mentee^,^Retained mentee^
+^ui_mentoring_reward_btn^,^reward^
+^ui_mentoring_graduation_btn^,^Graduation Request^
+^ui_last_login^,^Last login^
+^ui_gameoption_requestmentoring_msg_onoff^,^Output mentoring request message^
+^ui_tooltip_set_requestmentoring_msg_onoff^,^When used, the mentoring request message I received is displayed in the chat window.^
+^ui_title_mentoring_manage^,^멘토링 관리^
+^ui_mentee_manage^,^MentoRing management^
+^ui_mentor_manage^,^MentoRing management^
+^ui_mentee_guide_title^,^Mentee Guide^
+^ui_mentor_guide_title^,^Mentor Guide^
+^ui_mentee_guide_desc^,^1. You can only have one mentor.
+2. When the mentoRing relationship is canceled, there will be a waiting time of 24 hours for the application.
+3. Acceptance/request waiting list can be checked in the mentoRing management window.
+4. You can find a mentor more easily through the mentor recommendation function.
+5. Level up rewards will be sent to Ellora's storage box.
+6. MentoRing related functions are not available on the integrated server.^
+^ui_mentor_guide_desc^,^1. You can receive up to 3 mentees.
+2. When the mentoRing relationship is canceled, there will be a waiting time of 24 hours for the application.
+3. Acceptance/request waiting list can be checked in the mentoRing management window.
+4. You can find a mentee more easily through the mentee recommendation function.
+5. Level-up rewards will be sent to Ellora's inventory when reconnecting.
+6. MentoRing related functions are not available on the integrated server.^
+^o you want to approve ^ui_desc_mentoring_approve_graduation^,^'s mentor graduation?
+
+<G_Y>(The mentoring relationship will be terminated after graduation.)</G_Y>^
+^ui_tab_mentoring_recommend_mentor^,^Recommend Mentor^
+^ui_tab_mentoring_recommend_mentee^,^Recommended mentee^
+^ui_accept_hold_on^,^Wait for acceptance^
+^ui_request_hold_on^,^Wait for request^
+^ui_mentoring_refresh_btn^,^새로고침^
+^ui_hours_ago^,^<UI_G>hours ago</UI_G>^
+^ui_minutes_ago^,^<UI_G>minutes ago</UI_G>^
+^ui_mentoring_request_cancel^,^요청 취소^
+^ui_graduaion_hold_on^,^Wait for graduation^
+^ui_btn_graduation_ok^,^Graduation approval^
+^remain_approve_time^,^Remaining approval time^
+^ui_succes_appraisal^,^success^
+^ui_failure_appraisal^,^failure^
+^ui_desc_mentoring_request_summon^,^님에게 소환 요청을 하시겠습니까?^
+^ui_title_arena_lobby_move^,^Move battlefield^
+^ui_tab_mentoring_release^,^Release mentoring^
+^ui_tab_mentoring_suggest_graduation^,^Graduation approval^
+^ui_mentoring_guide_title^,^Mentoring Guide^
+^ui_mentoring_guide_desc^,^The mentoring system is available after level 10.^
+^ui_title_mentoring_request_graduate^,^Graduation request^
+^na_premium^,^premium^
+^ui_cashshop_listdesc_na_premium^,^This is a shop where you can purchase premium service products.^
+^ui_aprecovery_premiumservice^,^Premium free recovery^
+^ui_premium_move_inventory^,^After moving to the in-game inventory, it cannot be withdrawn.<br>In addition, premium service items are automatically used when moved to the in-game inventory.<br>Do you want to move them to your inventory?^
+^premiumservice_remaintime^,^Remaining time for premium service^
+^dailysupplies_remaintime^,^You can receive Ellun again after 04:00 the day after receiving it^
+^premiumservice_title^,^Premium service benefits^
+^premiumservice_active^,^1. 34 Elluns are paid every day duRing the service period
+ 2. 30% discount on content Ellun consumption (except when purchasing Ellun products and using Ellun as materials)
+ 3. Premium buff <UI_G>
+    Increases all attack power by 10%
+    All defense increased by 10%
+    Life increased by 10.00%
+    Increases the drop rate of advanced items by 20%
+    30% increase in character acquisition experience</UI_G>
+ 4. Premium special title
+ 5. Portal Free Pass^
+^premiumservice_deactive^,^You are not using the premium service.
+ <Y_Y>Click the icon to go to the premium service purchase screen.</Y_Y>^
+^ui_ousidestorage_reward_sub_default^,^event reward^
+^ui_ousidestorage_reward_sub_gmpayment^,^event reward^
+^ui_ousidestorage_reward_sub_gmevent^,^Event reward^
+^ui_ousidestorage_reward_sub_timeevent^,^Access event reward^
+^ui_ousidestorage_reward_sub_pccafepayment^,^Online Reward^
+^ui_ousidestorage_reward_sub_coupon^,^Home page coupon entry reward^
+^ui_ousidestorage_reward_sub_achievementsreward^,^achievements reward^
+^ui_ousidestorage_reward_sub_levelup^,^Level up reward^
+^ui_ousidestorage_reward_sub_mentoringlevelup^,^Mentoring reward^
+^ui_ousidestorage_reward_sub_fellowfarmcoin^,^Fellow Farm Reward^
+^ui_ousidestorage_reward_sub_mapItempayemnt^,^Entrance reward^
+^ui_ousidestorage_reward_sub_infiniteranking^,^Challenge Top Ranking Reward^
+^ui_ousidestorage_reward_sub_pkranking^,^Duel ranking reward^
+^ui_ousidestorage_reward_sub_battlefieldranking^,^Battlefield ranking reward^
+^ui_tooltip_rankarena_desc^,^Click to move to the battlefield lobby.<br>Cannot be used in the battlefield lobby.^
+^shop_tab_box_magician^,^Magician^
+^ui_lobbycharcreate_explain_origin_magician_1^,^Based on the infused magical energy, it uses magic to bind the enemy, and converts the magic to magical energy to inflict additional damage to the imprisoned enemy, boasting great firepower.^
+^ui_lobbycharcreate_explain_difficulty_magician^,^It is possible to bind or damage enemies with magical energy, and convert magic to magical energy to create light to inflict powerful damage, but it is a class tHat requires control so tHat continuous battles can take place while always paying attention to magic management.^
+^ui_customize_class_magician^,^Magician^
+^lobby_createmagician_btn^,^Magician pre-creation^
+^ui_premium_dailysupplies_remaintime_desc^,^<O_Y>Ellun will expire if not received by the daily reset time, and the benefits will be available duRing the service period.</O_Y>^
+^ui_mentoring_guide_integration_title^,^Mentoring Guide^
+^ui_mentoring_guide_integration_desc^,^1. Functions related to the mentoring system are not available on the integrated server (dungeon, lobby).
+2. Mentoring buff is applied when mentor/mentee are on the integrated server together.^
+^ui_ousidestorage_reward_sub_ruby^,^Purchase Elune Items^
+^ui_mentoring_notice_desc^,^You have a mentoring request waiting for a response.
+Would you like to check immediately?^
+^ui_fellowgrow_finish_pccoingold^,^Would you like to withdraw a Fellow?<br>You can withdraw a Fellow with Gold or Fish Bani Coins.^
+^ui_fellowgrow_finish_pccoinrubygold^,^Would you like to withdraw a Fellow?<br>You can redeem a Fellow<br>with one of Gold, Ellun, or Fishvani coins.^
+^ui_fellowgrow_pcroombtn^,^Collect Fishbani Coins^
+^ui_cash100418^,^bell pepper cache^
+^ui_fellowlist_evolve^,^Fellow Evolution^
+^ui_btn_fellow_evolve^,^Evolution^
+^ui_btn_fellow_reevolve^,^Reevolve^
+^ui_fellow_evlove_addfellow^,^Please register a fellow to evolve.^
+^ui_fellow_evlovelist_btn_notice^,^Fellows who can evolve can be checked with the button at the top<br>.^
+^ui_fellow_evlove_success^,^Evolution succeeded.^
+^ui_fellow_evlove_fail^,^Evolution failed.^
+^ui_fellow_evlove_grade^,^evolution grade^
+^ui_fellow_evlove_cost^,^Evolution cost^
+^ui_fellow_evlove_fail_warning^,^If evolution fails, some fellows will disappear.^
+^ui_fellow_evlove_ruby_protect^,^Reduces the destruction of some materials^
+^ui_fellow_evolve_possible^,^Evolvable Fellow^
+^ui_fellow_evolve_info^,^Detailed evolution information^
+^ui_fellow_evolve_detail_desc^,^Click the Fellow icon to view evolution details.^
+^ui_fellow_evolve_acquire^,^Acquire a Fellow^
+^ui_fellow_evolve_maxlevel^,^max growth level^
+^ui_fellow_evolve_cant_evolve_desc^,^This class cannot be evolved.^
+^fellow_cash^,^Common Fellow^
+^fellow_c01^,^Boarding Fellow^
+^ui_fellow_evolve_impossible^,^This rank cannot be evolved.^
+^ui_fellow_evlove_ruby_protect_desc^,^Use Ellun to prevent at most 1 Fellow from being destroyed when evolution fails.^
+^ui_leftcard_open_enable^,^Open number of times^
+^ui_mulrandom_more^,^한번 더 뽑기^
+^ui_mulrandom_close^,^닫기^
+^ui_mulrandom_auto^,^자동선택^
+^ui_item_grow^,^Item Forge^
+^ui_levelup_btn_ok^,^level up^
+^ui_levelup_Btn_mass_enrollment^,^Batch registration^
+^all_item_grade^,^all^
+^hero_item_grade^,^Below hero grade^
+^rare_item_grade^,^Elite grade or lower^
+^normal_item_grade^,^Below normal grade^
+^ui_item_levelup_desc^,^Insert the Equipment to level up.<br><font color="#8d9a8e">The higher the Equipment level, the better the performance.</font>^
+^ui_item_reinforce^,^Reinforce Equipment^
+^ui_select_reinforcestone^,^Please select a reinforcement stone^
+^ui_target_item_max_level^,^max level of enhancement^
+^ui_insert_target_item^,^Insert the target item^
+^ui_renew_reinforce_btnok^,^Reinforce Equipment^
+^ui_premium_cant_move_inventory^,^You cannot receive more than <br>2 premium service items at the same time.^
+^ui_ancient_skill^,^[Ancient] skill type^
+^ui_clear_floor2^,^Best cleaRing room at Hastan's Secret Training Center^
+^ui_infinite_ranking_clear_floor2^,^The standard for cleaRing is by killing key monsters.^
+^ui_infinitetower_result_title^,^Challenge Tower Results^
+^ui_hastantraing_result_title^,^Hastan secret training center results^
+^pet_c01^,^Pet - Common^
+^ui_gameoption_item_sysmsg^,^Print item acquisition message^
+^ui_gameoption_fellow_sysmsg^,^Print Fellow Taming Message^
+^ui_itemcompose_title^,^Equipment composition^
+^ui_itemcompose_gold_title^,^Required Goods^
+^ui_itemcompose_insert_mainslot^,^Please insert the main ingredient item.^
+^ui_itemcompose_insert_subslot^,^Please insert an auxiliary material item.^
+^ui_composeinfodesc_desc^,^Main material enhancement values ​​and options are maintained.^
+^ui_title_itemcompose^,^Acquired items^
+^ui_option_count^,^number of options^
+^ui_slot_count^,^Number of slots^
+^ui_item_count^,^counts^
+^ui_itemreforge_title^,^Refining Equipment^
+^ui_itemreforge_gold_title^,^Required Goods^
+^ui_itemreforge_insert_mainslot^,^Please insert the main ingredient item.^
+^ui_itemreforge_insert_subslot^,^Please insert an auxiliary material item.^
+^ui_reforgeinfodesc_desc^,^Reinforcement values ​​of the main material and optional items are maintained.^
+^ui_title_itemreforge^,^Item to be obtained^
+^uncommon_item_grade^,^Less than rare^
+^ui_item_gradeup_title^,^Upgrade item^
+^ui_item_gradeup_desc^,^Insert the Equipment to be upgraded.<br><font color="#8d9a8e">Consuming Upgrade Stones to obtain a higher item with a probability.</font>^
+^ui_item_gradeup_sub_desc^,^Weapon Upgrade Seats^
+^item_gradeup_result^,^Upgrade result^
+^item_gradeup^,^Upgrade^
+^random_option_count^,^옵션개수^
+^sealed_fellow_slot_count^,^Sealed stone slot^
+^ui_grade_up_ok^,^Upgrade^
+^ui_reinforce_needgold^,^Necessary goods^
+^ui_reinforce_destroy^,^DESTROY^
+^ui_reinforce_reset^,^RESET^
+^ui_reinforce_fail^,^FAIL^
+^ui_reinforce_succeess^,^SUCCESS^
+^ui_reinforce_successrate^,^Success rate^
+^ui_game_systemmessage^,^full screen message^
+^getitemruleuncommon^,^Rare^
+^ui_rare^,^Rare grade or higher^
+^ui_uncommon^,^Rare or higher^
+^ui_hero^,^Hero level or higher^
+^ui_legend^,^Legendary or higher^
+^ui_itemgrow_btn_tooltip_levelup^,^level up^
+^ui_itemgrow_btn_tooltip_compose^,^composite^
+^ui_itemgrow_btn_tooltip_gradeup^,^upgrade^
+^ui_itemgrow_btn_tooltip_reinforce^,^reinforce^
+^ui_itemgrow_btn_tooltip_reforge^,^smelting^
+^ui_itemgrow_levelup_enchantlevel_subitem^,^When used as a material item, the item will be exhausted. Would you like to continue?^
+^ui_item_levelup_title^,^Level up item^
+^ui_need_cost^,^Needed goods^
+^ui_tooltip_itemcompose_title^,^Composite^
+^ui_tooltip_itemreforge_title^,^Smelt^
+^ui_tooltip_itemcompose_desc^,^Randomly obtains one of the higher-grade items when compositing.^
+^ui_tooltip_itemreforge_desc^,^When refining, Randomly obtains one of the same grade items.^
+^ui_reinforce_successrate_perfect^,^100%^
+^ui_reinforce_successrate_zero^,^0%^
+^ui_itemgrow_level^,^Lv^
+^ui_itemgrow_max^,^Max^
+^ui_pccafe^,^PC room^
+^ui_using_roulette^,^Using roulette^
+^ui_time_remaining_until_next_ticket^,^Time remaining until next pass^
+^ui_remaining_ticket^,^Remaining tickets^
+^ui_start^,^start^
+^ui_title_roulette^,^PC room roulette^
+^ui_tooltip_pccafe_item^,^button to receive a PC room access item.
+If your inventory is full, you will not receive an item, so please empty your inventory. (at least 2 spaces)
+
+item to be paid
+<UI_G> - 10 HP 100% Carrot Potions
+ - Fish Bunny Booster (3 hours) </UI_G>
+<Y_Y>※ Note: The maximum number of 100% HP carrot potions is 10. If you have more than 1 item in your bag, you will receive less than 10.</Y_Y>^
+^ui_title_roulette_desc^,^PC room benefits information^
+^ui_premiumbox_disable^,^The PC room is not in use.
+<Y_Y>Click the icon to see the benefits of the PC room.</Y_Y>^
+^ui_premiumbox_enable^,^icon disappears, you can receive Fish Bunny's Ellun Package.<br>The Fish Bunny's Ellun Package is delivered to Ellora's inventory.
+<Y_Y>Click the icon to see the benefits of the PC room.</Y_Y>^
+^ui_tooltip_pccafe_item_disable^,^<G_Y>Items can be picked up after 04.00 AM the next day.<G_Y>^
+^ui_pccafe_only^,^PC room only^
+^ui_tooltip_ruolette^,^PC room roulette is available from May 31st.^
+^shop_tab_box_coin^,^Exchange for coins^
+^ui_gameoption_shortcut_fellowpccafeslot_1^,^PC room pet^
+^ui_gameoption_shortcut_fellowpccafeslot_2^,^PC Room Aerial Fellow^
+^ui_gameoption_shortcut_fellowpccafeslot_3^,^PC Room Ground Fellow^
+^ui_shortcut_fellowpccafeslot^,^PC Room Fellow Shortcuts^
+^ui_pccafe_roulette_close_msg^,^Roulette is running. <br>Are you sure you want to quit?^
+^ui_tooltip_help_url_open^,^Click to open the game guide on the official website.^
+^ui_gameoption_shortcut_basicquickslot_25^,^default slot 25^
+^ui_gameoption_shortcut_basicquickslot_26^,^default slot 26^
+^ui_gameoption_shortcut_basicquickslot_27^,^default slot 27^
+^ui_gameoption_shortcut_basicquickslot_28^,^default slot 28^
+^ui_gameoption_shortcut_basicquickslot_29^,^Default slot 29^
+^ui_gameoption_shortcut_basicquickslot_30^,^Default slot 30^
+^ui_gameoption_shortcut_basicquickslot_31^,^default slot 31^
+^ui_gameoption_shortcut_basicquickslot_32^,^default slot 32^
+^ui_gameoption_shortcut_extendquickslot_13^,^Expansion slots 13^
+^ui_gameoption_shortcut_extendquickslot_14^,^Expansion slots 14^
+^ui_gameoption_shortcut_extendquickslot_15^,^Expansion slots 15^
+^ui_gameoption_shortcut_extendquickslot_16^,^Expansion slots 16^
+^ui_gamemenu_game_option^,^Game settings^
+^ui_meter^,^m^
+^ui_gameoption_actionmode_normal^,^normal mode^
+^ui_tooltip_action_normalmode^,^This is a method of fighting by directly designating a target.^
+^ui_gameoption_actionmode_action^,^action targeting mode^
+^ui_tooltip_action_actionmode^,^This is how the target is automatically assigned to battle.^
+^ui_gameoption_actionmode_no_fixtarget^,^Action cross hair mode^
+^ui_tooltip_action_actionmode_no_fixtarget^,^The battle proceeds based on the cross hair.^
+^ui_game_keycontrol^,^Operation mode^
+^ui_title_action_select^,^Select operation mode^
+^ui_title_normalmode^,^Standard mode^
+^ui_title_actionmode^,^Action targeting mode^
+^ui_normalmode_explain^,^This is the operation mode of the existing MMORPG. target using mouse
+Precise manipulation is possible by specifying and then using the skill.^
+^ui_actionmode_explain^,^This is an operation mode tHat emphasizes the action. You can specify the target through the aiming point located in the center of the screen, and you can use the skill by clicking the left/right mouse button.^
+^ui_recommend_class^,^Recommended class^
+^ui_btn_normal_selection^,^Select standard mode^
+^ui_btn_action_selection^,^select action targeting mode^
+^ui_mode_change_explain^,^The operation mode can be changed in the environment settings.^
+^ui_lobby_title_movielist^,^Icarus cinematic video^
+^ui_lobby_btn_movielist^,^Movie List^
+^ui_btn_shuffle^,^Reshuffle^
+^ui_rbox_shuffle_msg^,^Reshuffle?^
+^ui_timeevent_title^,^Special support every day!! Don't miss it!^
+^ui_timeevent_desc^,^Take today's attendance and vitality box rewards. Come every day! promise!^
+^ui_logout_nextday^,^Tomorrow's login reward^
+^ui_logout_today^,^Today's login reward^
+^ui_tooltip_attendance_title^,^Attendance Rewards^
+^ui_tooltip_vitality_title^,^Vitality Rewards^
+^ui_tooltip_special_attendance_title^,^Special attendance reward^
+^ui_gamemenu_daily_achievement^,^Achievements (shortcut: [ )^
+^ui_gameoption_community_chatemotion^,^채팅 이모션 사용^
+^ui_tooltip_set_chatemotion^,^특정 단어를 채팅창에 입력 시 이모션이 발생 합니다.
+체크 해제 시 채팅 이모션이 발생 하지 않습니다.^
+^tooltip_title_movielist_1^,^2014 OBT Launch Trailer^
+^tooltip_time_movielist_1^,^2 minutes 20 seconds^
+^tooltip_desc_movielist_1^,^A trailer video depicting the story of Princess Rania waiting for a hero to protect Hakanas, and a hero who confronts Sarant, a descendant of demons^
+^tooltip_title_movielist_2^,^Icarus Fantastic 4 [Fellows]^
+^tooltip_time_movielist_2^,^1 minute 27 seconds^
+^tooltip_desc_movielist_2^,^Icarusman's adventure companion!
+Promotional video featuRing the colorful and lovely side of the Fellow^
+^tooltip_title_movielist_3^,^Icarus Fantastic 4 [Battle of the Giants]^
+^tooltip_time_movielist_3^,^1 minute 19 seconds^
+^tooltip_desc_movielist_3^,^The overwhelming scale of Icarus!
+Promotional video tHat vividly captures the raid battle against the giant^
+^tooltip_title_movielist_4^,^Icarus Fantastic 4 [PvP]^
+^tooltip_time_movielist_4^,^1 minute 31 seconds^
+^tooltip_desc_movielist_4^,^Icarus' unique action full of excitement!
+Promotional video with a different level of large-scale PVP^
+^tooltip_title_movielist_5^,^Icarus Fantastic 4 [Air Combat]^
+^tooltip_time_movielist_5^,^1 minute 1 second^
+^tooltip_desc_movielist_5^,^The unique thrill of Icarus!
+Promotional video featuRing aerial battles tHat cross the sky and the earth^
+^tooltip_title_movielist_6^,^Immortal Desert Update Teaser^
+^tooltip_time_movielist_6^,^0 minutes 51 seconds^
+^tooltip_desc_movielist_6^,^The flight of the Pegasus Knights against the Immortal Legion!
+An update teaser video featuRing the battle with the large raid boss Sandstorm^
+^ui_cg_gauge_text_before_awaken^,^After reaching level 70, when the Hero's Call quest is completed, the transformation (evolution awakening) gauge is activated, and evolution awakening is possible.^
+^ui_cg_gauge_text_after_awaken^,^You can use the [Transformation] Evolution Awakening by consuming the Evolution Awakening Gauge, and you can use the combo skills of each class duRing Evolution Awakening. Gauge is restored by 2 every 5 seconds when attacking.^
+^ui_customize_itemgroup_muscle^,^muscle^
+^muscle^,^muscle^
+^ui_gameoption_shortcut_combat_14^,^Evolution awakening skill^
+^ui_awakenskill_edittitle^,^Evolution Awakening Skill Slot^
+^ui_label_option_shortcutkey_actionmode^,^Change operation mode^
+^ui_tooltip_set_autoskillcontrol^,^If the option is unchecked, it will not automatically attack the target after using the skill. <UI_G>[Some skills do not apply.]</UI_G>^
+^ui_gameoption_camera_dialogeffect^,^Directing NPC dialogue^
+^ui_tooltip_set_dislogeffect^,^When the option is checked, the camera changes to the front of the NPC when talking to the NPC so you can focus on the conversation.^
+^ui_guild_appoint_knight^,^Appointed Knights^
+^ui_guild_appoint_dismissal^,^Appoint/dismiss^
+^ui_tab_guildknight^,^Knights^
+^ui_appoint^,^installation^
+^ui_dismissal^,^dismissal^
+^ui_character_server_move_state^,^Server is moving.^
+^ui_title_server_change^,^move server^
+^shop_tab_other_item^,^Other items^
+^shop_tab_golden_bass^,^Golden Bass Shop^
+^shop_tab_roulette^,^PC room roulette^
+^shop_tab_ica^,^Ikadei^
+^ui_arena_killinfo^,^Battlefield kill info^
+^ui_tab_guildmasterskill^,^Guildmaster skill^
+^ui_cost^,^cost^
+^ui_guildranking_title^,^Guild Ranking^
+^ui_spotbattle_penalty_msg^,^I applied for the previous Node War, but I did not participate <font color="#b28a0e">Penalty</font>.<br><font color="#b28a0e">You cannot participate in this Node War. None.</font>^
+^ui_spotbattle_can_not_apply_msg^,^You cannot apply for Node War for the following reasons.<br><font color="#b28a0e">▶ Less than 5 knights</font><br><font color="#b28a0e">▶ You can apply Exceeding the number of guilds (30)</font>^
+^shop_tab_temain^,^Temmain^
+^ui_enter^,^Entry^
+^ui_not_occupied_guild^,^No occupied guild^
+^Spot_f02_001^,^Kellwoods Point^
+^Spot_f02_002^,^Roar Point^
+^Spot_f02_003^,^Shinryong Base^
+^Spot_f02_004^,^Growing stronghold^
+^Spot_f02_005^,^Sansurfs base^
+^Post_f02_101^,^Kellwoods Farm^
+^Post_f02_102^,^Lake Morine^
+^Post_f02_103^,^Guardian God Dragon's Gateway^
+^Post_f02_201^,^Cemetery^
+^Post_f02_202^,^Forest of RoaRing^
+^Post_f02_203^,^Whirlwind Hill^
+^Post_f02_301^,^Seaside of Shinryong^
+^Post_f02_302^,^Shinryong Fishing Site^
+^Post_f02_303^,^The turbulent land^
+^Post_f02_401^,^Jadaran Village^
+^Post_f02_402^,^evacuation camp^
+^Post_f02_403^,^Forest of Abundance^
+^Post_f02_501^,^Sansurfs Ranch^
+^Post_f02_502^,^Abandoned Ruins^
+^Post_f02_503^,^Lake Morine^
+^ui_under attack^,^Under attack^
+^ui_title_fellowinfo_and_ranking^,^Fellows & Ranking^
+^dungeon_grade_info^,^Dungeon information^
+^dungeon_recommand_info^,^Recommended to use^
+^dungeon_grade_recommand_equip^,^Recommended Equipment^
+^ui_ousidestorage_reward_sub_spotbattleapplication^,^Base war participation reward^
+^ui_ousidestorage_reward_sub_spotbattleoccupy^,^Node war occupation reward^
+^shop_tab_temain_recipe^,^Temmain recipes^
+^shop_tab_alsas_recipe^,^Alsatian recipe^
+^shop_tab_exchange_40^,^Reach level 40^
+^shop_tab_exchange_50^,^Reach level 50^
+^shop_tab_exchange_60^,^Reach level 60^
+^spotbattle_information_1^,^<font color="#ff0000">※ After applying, rewards cannot be obtained if you do not participate in the base battle<br>(Compensation details: Check the base icon on the left)</font><br><br>^
+^spotbattle_information_2^,^1. Application period: the end of the base battle ~ the application deadline 1 hour before the start of the next session<br>^
+^spotbattle_information_3^,^2. Venue: Hakanas Direct Control Map PVP Channel<br>^
+^spotbattle_information_4^,^3. Maximum number of participating guilds: 30<br>^
+^spotbattle_information_5^,^4. Application conditions: A guild with 5 to 10 knights<br>^
+^spotbattle_information_6^,^5. <font color="#ffff00">[win condition]</font><br> 5-1. At the end of the game, capture 2 or more Magical Stones within a base.<br> 5-2. If the above conditions are not fulfilled, the most accumulated occupation time is retained.<br>^
+^spotbattle_information_7^,^<font color="#ffff00">※ Accumulated Occupation Time</font> : Accumulated time when occupied by each Node. br>^
+^spotbattle_information_8^,^<font color="#ffff00">Tip. We recommend tHat you form a raid with the knights and proceed!</font><br>^
+^spotbattle_information_9^,^<br>^
+^spotbattle_information_10^,^<br>^
+^ui_spotbattle_observer^,^Applying spectator mode^
+^shop_tab_token^,^token with sunshine^
+^shop_tab_gold^,^Gold^
+^ui_order^,^Order number^
+^ui_guildrangking_noresult^,^no results.^
+^ui_gameoption_shortcut_party_6^,^Select 5 party members^
+^ui_gameoption_shortcut_party_7^,^Select party member 6^
+^ui_gameoption_shortcut_party_8^,^Select party member 7^
+^ui_gameoption_shortcut_party_9^,^Select 8 party members^
+^ui_gameoption_shortcut_party_10^,^Select party member 9^
+^ui_equip_sealedfellow_succession^,^Succession of equipped sealing stone^
+^ui_sealedfellow_succession^,^Succession Sealed Stone^
+^ui_charnamechange_title^,^Notes^
+^ui_charnamechange_textline^,^1. When changing a character name, it is displayed on the item created before the name change.
+&nbsp;&nbsp;&nbsp; The published name does not change.
+2. After changing the character name, <Y_Y> cannot be changed for 2 months.
+&nbsp;&nbsp;&nbsp; </Y_Y>
+3. The character name before the change cannot be used for <Y_Y>2 months.</Y_Y>
+4. <Y_Y>If you apply for a character name change, the character will move to the lobby.</Y_Y>^
+^ui_charnamechange_description^,^Enter the name you want to change.^
+^ui_charnamechange_wintitle^,^Change character name^
+^ui_charnamechange_btn_duplication^,^check for duplicates^
+^ui_charnamechange_btn_change^,^change name^
+^shop_tab_ancient^,^Demon Xelnaris^
+^shop_tab_shop_tab_ancientrecipe^,^Drink recipe^
+^ui_spotbattle_minimap_timer_description^,^<R_Y>Update status time every 5 minutes</R_Y>^
+^shop_tab_shop_tab_ancientrecipe2^,^Cold Blood Recipe^
+^ui_apply^,^accept^
+^ui_refuse^,^reject^
+^ui_guild_promote_type_normal^,^Normal^
+^ui_guild_promote_type_pvp^,^pvp^
+^ui_guild_promote_type_pve^,^pve^
+^ui_guild_promote_type_friendship^,^Fellowship^
+^ui_guild_promote_type_all^,^all^
+^ui_title_guild_join_apply^,^Apply to join^
+^ui_title_guild_join_cancel^,^Cancel subscription^
+^ui_title_guild_promote^,^Promote the guild^
+^ui_title_guild_promote_delete^,^Delete post^
+^ui_guild_join_manager^,^Manage subscriptions^
+^ui_guild_join_stand^,^Wait to join^
+^ui_title_guild_comunity^,^Guild Community^
+^ui_guild_promote_detail_info^,^Details^
+^ui_guild_promote_initilize_notify^,^You can apply for guild membership through the guild promotion post.^
+^ui_btn_guild_notice_regist^,^Register a post^
+^ui_btn_guild_notice_delete^,^Delete post^
+^ui_all_knight_summon^,^Summon all knights^
+^ui_all_knight_summon_request^,^Request to summon all knights^
+^ui_btn_guild_join_apply^,^Register a post^
+^ui_btn_request_guild_join^,^Request to join^
+^ui_achievements_spotbattle^,^Node Battle^
+^ui_sealedfellow_succession_check_tooltip^,^If checked, you can inherit the sealing stone mounted on the material Equipment. (Crystals cannot be inherited.)
+A separate fee is required to inherit the Sealing Stone.^
+^ui_spot_reward_0_0^,^McBain Coin x 7<br>Sarant's Magic Fragment x 7<br>Head of Doom x 6<br>Insignia of Fame (2 Days) x 1<br>Kell's Mine Admission Ticket x 3<br> ><br>^
+^ui_spot_reward_0_1^,^<font color="#ff0000">Node occupation benefits</font><br><font color="#ffff00">[All benefits of occupation guild members]</font><br>Available villages: Kell's Village <br>Available NPCs: Yongir <br>^
+^ui_spot_reward_0_2^,^Available mines: Kell's Mine<br>^
+^ui_spot_reward_1_0^,^McBain Coin x 5<br>Sarant's Magic Fragment x 4<br>Head of Doom x 4<br>Roar Mine Ticket x3<br><br>^
+^ui_spot_reward_1_1^,^<font color="#ff0000">Node Occupation Benefits</font><br><font color="#ffff00">[All Occupied Guild Benefits]</font><br>Available villages: RoaRing Forest Garrison<br>Available NPCs: Kyusan<br>^
+^ui_spot_reward_1_2^,^Available mines: Roar Mine<br>^
+^ui_spot_reward_2_0^,^McBain Coin x 5<br>Sarant's Magic Fragment x 4<br>Head of Doom x 4<br>Zaran Mine Ticket x3<br><br>^
+^ui_spot_reward_2_1^,^<font color="#ff0000">Node Occupation Benefits</font><br><font color="#ffff00">[All Occupied Guild Members Benefits]</font><br>Available villages: Zadaran Evacuation Camp <br>Available NPC: Henjins<br>^
+^ui_spot_reward_2_2^,^Available mines: Grown Mines<br>^
+^ui_occupied^,^occupied^
+^ui_participation_tooltip^,^Paid to the Knights who participated in the Node War
+<R_Y>If you apply but do not participate, you cannot receive it.</R_Y>^
+^ui_spotbattle_start_time^,^Node battle start time^
+^ui_day_of_the_week^,^Day of the week^
+^ui_occupy_success^,^Occupation success^
+^ui_guild_occupy^,^Guild occupation^
+^ui_no_occupy^,^Unoccupied land^
+^ui_score^,^dot^
+^shop_tab_Newrecipe^,^New recipe^
+^ui_fellow_soul_charge^,^grant soul^
+^ui_fellow_soul_charge_title^,^Energy Transformation^
+^shop_tab_newitem^,^New item^
+^ui_guild_joinlist_whisper^,^Whisper^
+^ui_guildranking_point^,^<UI_Y>How to learn</UI_Y><br>1. Hunting monsters tHat match the level of the guild member<br>2. Level up of guild members<br>3. Participation and progress in Node Wars<br><br><UI_Y>Fame points are reset to 0 points on the 1st of every month.</UI_Y>^
+^ui_guild_auto_join_apply^,^Accept auto-join^
+^ui_tooltip_need_tamingitem^,^condition1^
+^ui_tooltip_state_taminghp^,^condition2^
+^ui_tooltip_state_taminghp_desc^,^below can be tamed^
+^ui_tooltip_cant_taming^,^Untamed^
+^ui_fellow_soul_charge_pack_btn^,^Charge^
+^ui_fellow_soul_charge_weapon_btn^,^grant weapon^
+^ui_fellow_soul_charge_auto_title^,^grant automatic weapon^
+^ui_fellow_soul_charge_pack_desc^,^Upgrade zip packs. Do you want to proceed?^
+^ui_fellow_soul_charge_autolevel_0^,^Soul level 0^
+^ui_fellow_soul_charge_autolevel_1^,^Soul Level 1^
+^ui_fellow_soul_charge_autolevel_2^,^Soul Level 2^
+^ui_fellow_soul_charge_autolevel_3^,^Soul Level 3^
+^ui_fellow_soul_charge_autolevel_4^,^Soul level 4^
+^ui_fellow_soul_charge_autolevel_5^,^Soul level 5^
+^ui_fellow_soul_charge_reinforce_warning_desc^,^+6 or more fellows (seal stones) are selected. Do you want to proceed?^
+^ui_fellow_soul_charge_weapon_desc^,^Currently equipped item^
+^ui_tooltip_hp_state^,^Health^
+^ui_fellow_soul_charge_helper_btn^,^Help^
+^ui_quickslot_soulcharge_edittitle^,^Fellow Seals^
+^ui_achievements_secretroom^,^Tower of the Unknown^
+^ui_death_title^,^Wait for automatic exit^
+^ui_death_msg^,^The surviving party members are automatically revived when cleared, and the normal respawn button is clicked to move to the dungeon entrance.^
+^ui_dungeon_out_msg^,^Exit^
+^ui_partytower_requestexit_msg^,^<font color="#ff3636">Warning!</font><br>If you leave, you will not receive your reward.^
+^ui_tooltip_soulcharge_weapon^,^When the button is clicked while the gauge is charged, the <br>worn <UI_G>main weapon</UI_G> is charged with a seal round.^
+^ui_tooltip_soulcharge_upgrade^,^button, gold or Ellun is consumed to increase the maximum capacity of the charge pack.^
+^ui_death_msg_solo^,^The surviving party members are automatically revived when cleared, and the normal respawn button is clicked to move to the dungeon entrance.^
+^ui_ousidestorage_reward_sub_dungeonstagereward^,^무명의 탑 클리어 보상^
+^ui_party_dungeon_reward_party^,^Reward for party of 3 people^
+^ui_party_dungeon_reward_party_explain^,^The three-person party reward has been delivered to Ellora's inventory!^
+^ui_party_dungeon_reward_solo^,^Reward for a party of 1 or 2 people^
+^ui_party_dungeon_reward_solo_explain^,^The party reward for 1 / 2 has been delivered to Ellora's inventory!^
+^ui_difficulty^,^Difficulty^
+^ui_attendancecheck_dicesystem^,^Dice^
+^ui_dicesystem_normall_reward_title^,^Completion reward^
+^ui_dicesystem_special_reward_title^,^Special reward^
+^ui_btn_dicesystem_normal^,^Roll the dice^
+^ui_btn_dicesystem_free^,^Free dice^
+^ui_msg_dicesystem_disable^,^Additional dice can be obtained through daily quests.^
+^ui_msg_dicesystem_move_front^,^move forward^
+^ui_msg_dicesystem_move_back^,^space^
+^ui_msg_dicesystem_move_jump^,^jump^
+^ui_msg_dicesystem_random^,^랜덤보상^
+^ui_msg_dicesystem_plus_dice^,^Add dice^
+^ui_tooltip_dicesystem_normal_finish^,^You can obtain a completion reward according to the number of dice completed, and the current number of completions is displayed as a border.^
+^ui_tooltip_dicesystem_special_finish^,^This is an additional reward tHat can be obtained when all the completion rewards are obtained.^
+^ui_text_dicesystem_count_1^,^1 time^
+^ui_text_dicesystem_count_2^,^2 times^
+^ui_text_dicesystem_count_3^,^3 times^
+^ui_text_dicesystem_count_4^,^4 times^
+^ui_text_dicesystem_count_5^,^5 times^
+^ui_text_dicesystem_count_6^,^6 times^
+^ui_text_dicesystem_count_7^,^7 times^
+^ui_tooltip_dicesystem_type_start^,^This is the starting position of the dice game.^
+^ui_tooltip_dicesystem_type_jump^,^Moves once more as much as the value displayed upon arrival.^
+^ui_tooltip_dicesystem_type_back^,^Moves back 4 spaces.^
+^ui_tooltip_dicesystem_type_random^,^랜덤 보상을 선택하여 획득한다.^
+^ui_tooltip_dicesystem_type_bouns^,^Obtain 1 die.^
+^ui_tooltip_dicesystem_event_period^,^event period
+<MAP_Y>From January 30, 2023 to February 13, 2023</MAP_Y>^
+^ui_title_auto_open^,^Automatically open Random box^
+^ui_dragonhideout_result_title^,^Result of the dragon god's hideout^
+^ui_infinitetower_out_msg^,^All party members move out of the dungeon, and the dungeon is destroyed. Do you want to exit the dungeon?^
+^shop_tab_month_1^,^January^
+^shop_tab_month_2^,^February^
+^shop_tab_month_3^,^March^
+^shop_tab_month_4^,^April^
+^shop_tab_month_5^,^May^
+^shop_tab_month_6^,^June^
+^shop_tab_month_7^,^July^
+^shop_tab_month_8^,^August^
+^shop_tab_month_9^,^September^
+^shop_tab_month_10^,^October^
+^shop_tab_month_11^,^November^
+^shop_tab_month_12^,^December^
+^shop_tab_ribini_exchange1^,^Exchange for Rabini silver coins^
+^shop_tab_ribini_exchange2^,^Rabini fairy tale exchange^
+^shop_tab_acheron_exchange^,^Exchange Acheron Coins^
+^shop_tab_exjaran_exchange1^,^Exchange for Exjaran Coins^
+^shop_tab_exjaran_exchange2^,^Exchange for Exjaran Gold Coins^
+^shop_tab_special^,^Special items^
+^shop_tab_ruby_recipe^,^Ellun Recipe^
+^shop_tab_exchange_70^,^Reach level 70^
+^use_premium_bag^,^indefinitely^
+^FeBuff020^,^ICA-WPG^
+^FeBuff020desc^,^Crafting Jackpot Chance 5% (2 hours)^
+^shop_tab_quality^,^Quality improvement recipe^
+^ui_fellowracing_rank^,^Leaderboards^
+^ui_fellowracing_record^,^record^
+^ui_fellowracing_exit^,^exit^
+^ui_fellowracing_select_fellow^,^Fellow selection^
+^ui_fellowracing_join_tooltip^,^Entry to Fellow Racing^
+^ui_fellowracing^,^Fellowracing^
+^ui_fellowracing_join^,^Register a match^
+^ui_fellowracing_result_notice^,^seconds.^
+^shop_tab_evfrcoin^,^FR Coin^
+^ui_fellowracing_casting^,^Waiting for summons^
+^ui_fellowracing_notallowed_function^,^Cannot be run in this region.^
+^ui_tooltip_effectgroup_03^,^get one option Randomly
++500-750 to Critical Damage Defense
+Physical Critical Damage Increase +500-750
+Max HP 15%~20%
+All defense 10%~15%
+Physical attack power 11%~15%^
+^ui_tooltip_effectgroup_04^,^get one option Randomly
++500-750 to Critical Damage Defense
+Magic Critical Damage Increase +500-750
+Max HP 15%~20%
+All defense 10%~15%
+Magic attack power 11%~15%^
+^ui_sealedfellow_expand_view_title^,^View sealing stone options^
+^ui_sealedfellow_expand_view_tooltip^,^Allows you to hide or view the sealing stone options.^
+^ui_setoption_expand_view_title^,^View set options^
+^ui_setoption_expand_view_tooltip^,^Allows you to hide or view set options.^
+^ui_comparison_expand_view_title^,^View device comparison^
+^ui_comparison_expand_view_tooltip^,^Hide or view the Equipment comparison window.^
+^ui_expand_view_on^,^View information^
+^ui_expand_view_off^,^Collapse information^
+^shop_tab_icarusgem^,^Jewel of Icarus^
+^shop_tab_ruby^,^Ellun goods^
+^ui_compose_grade_text^,^group^
+^ui_notice_homepage_grade^,^Please refer to the homepage for the odds within the group^
+^shop_preview_text_zoom^,^You can preview the appearance of your fellows by left-clicking.^
+^shop_preview_text_rotate^,^You can check the appearance of the Fellow from various angles by dragging the mouse.^
+^ui_critical_produce^,^Jackpot probability:^
+^ui_destory_rate_fail^,^Destruction probability on failure^
+^ui_destory_rate_fail_base^,^Default jackpot probability:^
+^ui_destory_rate_fail_add^,^additional jackpot probability:^
+^ui_destory_rate_fail_dec^,^The increase jackpot chance option only applies to the default jackpot chance.^
+^shop_tab_ribini_exchange3^,^Exchange for Rabini Gold Coins^
+^ui_brstone_tooltip^,^This enhancement stone applies 20% of the buff effect of the enhancement success rate increase.^
+^ui_title_auto_open_package^,^Open package automatically^
+^ui_tooltip_item_buffcount_info^,^<UI_Y>Total number of currently applied item buffs<UI_Y>^
+^ui_tooltip_player_buffcount_info^,^<UI_Y>Total number of skill buffs currently being applied<UI_Y>^
+^ui_tooltip_set_buffopacitylevel^,^You can adjust the opacity of the buff icon. (If it is 100%, the buff icon is not displayed.)^
+^dotdamagerecurtion^,^Reduce continuous damage^
+^dotdamagerecurtionrate^,^Continuous damage reduction rate^
+^tooltip_character_dotdamagerecurtion^,^Reduces damage over time by a value.^
+^tooltip_character_dotdamagerecurtionrate^,^Reduces damage over time by a percentage.^
+^ui_tooltip_eggs^,^Developer's note^
+^ui_qualityup_requestinfo^,^Por favor, registre o equipamento mito para melhorar a qualidade
+Os materiais necessários são os seguintes.
+Intermediário -> Avançado: Essência da Melhoria de Qualidade Avançada x1
+Avançado -> Melhor: Essência da Melhoria da Mais Alta Qualidade x1
+É grau mitico ou superior e só pode ser equipado com pelo menos 11 equipamentos de aprimoramento.
+O nível de qualidade só pode ser aumentado um nível de cada vez.^
+^ui_tooltip_qualityup_main_equipment^,^Requires mythic equipment of 11 or higher.^
+^ui_tooltip_qualityup_mtl^,^Por favor, registre o material.^
+^comm_advan_item_name^,^em andamento^
+^FeBuff021^,^Legal, legal e quente^
+^FeBuff021desc^,^Força+777, Inteligência+777 (2 horas)^
+^FeBuff022^,^Não estou satisfeito com apenas um ^
+^FeBuff022desc^,^Aumente a taxa de sucesso de criação, grande sucesso e aprimoramento em 12% (2 horas)^
+^cponattackplus^,^Magic Additional Rise^

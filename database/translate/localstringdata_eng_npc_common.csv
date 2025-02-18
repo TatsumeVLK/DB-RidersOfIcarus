@@ -1,0 +1,1395 @@
+t_type,t_typename,t_key,t_eng
+^Co^,^Common^,^N_02_1^,^Leo^
+^Co^,^Common^,^n_99_0_0002_0000_name^,^Crow^
+^Co^,^Common^,^n_99_0_0002_0000_namedetail^,^Onyx Order Commander^
+^Co^,^Common^,^n_99_0_0003_0000_name^,^Cyneth^
+^Co^,^Common^,^n_99_0_0003_0000_namedetail^,^Cynth^
+^Co^,^Common^,^n_99_0_0007_0000_name^,^Onyx Order Agent^
+^Co^,^Common^,^n_99_0_0007_0000_namedetail^,^Dragon Knight^
+^Co^,^Common^,^n_99_0_0006_0000_name^,^Skirmisher^
+^Co^,^Common^,^n_99_0_0006_0000_namedetail^,^Dragon Knight^
+^Co^,^Common^,^n_99_0_0004_0000_name^,^Paolo Roaman^
+^Co^,^Common^,^n_99_0_0004_0000_namedetail^,^Dragon Knight Captain^
+^Co^,^Common^,^n_99_0_0005_0000_name^,^Guardian^
+^Co^,^Common^,^n_99_0_0005_0000_namedetail^,^Dragon Knight^
+^Co^,^Common^,^N_f04_0_0001_0001_name^,^Poe^
+^Co^,^Common^,^N_f04_0_0001_0001_namedetail^,^HST Gorkahn Captain^
+^Co^,^Common^,^N_f04_0_0001_0002_name^,^Jody^
+^Co^,^Common^,^N_f04_0_0001_0002_namedetail^,^Pegasus Knight^
+^Co^,^Common^,^N_f04_0_0001_0003_name^,^Errol^
+^Co^,^Common^,^N_f04_0_0001_0003_namedetail^,^Pegasus Knight Captain^
+^Co^,^Common^,^N_f04_0_0001_0004_name^,^Oscar^
+^Co^,^Common^,^N_f04_0_0001_0004_namedetail^,^Pegasus Knight Lieutenant^
+^Co^,^Common^,^N_f04_0_0001_0005_name^,^Mullec^
+^Co^,^Common^,^N_f04_0_0001_0005_namedetail^,^Virtue^
+^Co^,^Common^,^N_f04_0_0001_0006_name^,^Quanomar^
+^Co^,^Common^,^N_f04_0_0001_0006_namedetail^,^Familiar Trapper^
+^Co^,^Common^,^N_f04_0_0001_0007_name^,^Zelluchs^
+^Co^,^Common^,^N_f04_0_0001_0007_namedetail^,^Adventure King^
+^Co^,^Common^,^N_f04_0_0001_0008_name^,^Achul^
+^Co^,^Common^,^N_f04_0_0001_0008_namedetail^,^Cloying Wastes Scout^
+^Co^,^Common^,^N_f04_0_0001_0009_name^,^Malba^
+^Co^,^Common^,^N_f04_0_0001_0009_namedetail^,^Transit Shrine Keeper^
+^Co^,^Common^,^N_f04_0_0001_0010_name^,^Bennan^
+^Co^,^Common^,^N_f04_0_0001_0010_namedetail^,^World Shrine Keeper^
+^Co^,^Common^,^N_f04_0_0001_0011_name^,^Barick^
+^Co^,^Common^,^N_f04_0_0001_0011_namedetail^,^Transit Shrine Keeper^
+^Co^,^Common^,^N_f04_0_0001_0012_name^,^Recall Stone^
+^Co^,^Common^,^N_f04_0_0001_0012_namedetail^,^^
+^Co^,^Common^,^N_f04_0_0001_0013_name^,^Recall Stone^
+^Co^,^Common^,^N_f04_0_0001_0013_namedetail^,^^
+^Co^,^Common^,^N_f04_0_0001_0014_name^,^Recall Stone^
+^Co^,^Common^,^N_f04_0_0001_0014_namedetail^,^^
+^Co^,^Common^,^N_f04_0_0001_0015_name^,^Gillian^
+^Co^,^Common^,^N_f04_0_0001_0015_namedetail^,^Mender^
+^Co^,^Common^,^N_f04_0_0001_0016_name^,^Jordi^
+^Co^,^Common^,^N_f04_0_0001_0016_namedetail^,^Mender^
+^Co^,^Common^,^N_f04_0_0001_0017_name^,^Fade^
+^Co^,^Common^,^N_f04_0_0001_0017_namedetail^,^Mender^
+^Co^,^Common^,^N_f04_0_0001_0058_name^,^Tillet^
+^Co^,^Common^,^N_f04_0_0001_0058_namedetail^,^HST Gorkahn First Mate^
+^Co^,^Common^,^N_f04_elora_001_name^,^Ellora's Energy^
+^Co^,^Common^,^N_f04_elora_001_namedetail^,^^
+^Co^,^Common^,^N_f04_HuMSol_B_001_name^,^Ground Trooper^
+^Co^,^Common^,^N_f04_HuMSol_B_001_namedetail^,^Pegasus Knight^
+^Co^,^Common^,^N_f04_Whale_001_name^,^Sky Titan^
+^Co^,^Common^,^N_f04_Whale_001_namedetail^,^^
+^Co^,^Common^,^N_f02_HuMLib01_001_Name^,^DeGrasse^
+^Co^,^Common^,^N_f02_HuMLib01_001_NameDetail^,^Royal Comptroller^
+^Co^,^Common^,^N_f02_HuMEli01_001_Name^,^Bartan^
+^Co^,^Common^,^N_f02_HuMEli01_001_NameDetail^,^Rabat Garrison Master^
+^Co^,^Common^,^N_f03_HuMLib01_001_Name^,^Nerheim^
+^Co^,^Common^,^N_f03_HuMLib01_001_NameDetail^,^Royal Comptroller^
+^Co^,^Common^,^N_f03_HuMEli01_001_Name^,^Schutemann^
+^Co^,^Common^,^N_f03_HuMEli01_001_NameDetail^,^Silverwhite Valley Garrison Master^
+^Co^,^Common^,^N_dportal_001_Name^,^Prast^
+^Co^,^Common^,^N_dportal_001_NameDetail^,^Capital Shrine Keeper^
+^Co^,^Common^,^N_dportal_002_Name^,^Bierce^
+^Co^,^Common^,^N_dportal_002_NameDetail^,^Sansupus Shrine Keeper^
+^Co^,^Common^,^N_P01_0_0001_0001_Name^,^Maia^
+^Co^,^Common^,^N_P01_0_0001_0001_NameDetail^,^Initiate^
+^Co^,^Common^,^N_P01_0_0001_0002_Name^,^Rodham^
+^Co^,^Common^,^N_P01_0_0001_0002_NameDetail^,^Initiate^
+^Co^,^Common^,^N_P01_0_0001_0003_Name^,^Louiche^
+^Co^,^Common^,^N_P01_0_0001_0003_NameDetail^,^Spacetime Researcher^
+^Co^,^Common^,^N_P01_0_0001_0004_Name^,^Chaney Rabbini^
+^Co^,^Common^,^N_P01_0_0001_0004_NameDetail^,^Crescent Merchants^
+^Co^,^Common^,^N_P01_0_0001_0005_Name^,^Paul Rabbini^
+^Co^,^Common^,^N_P01_0_0001_0005_NameDetail^,^Captive^
+^Co^,^Common^,^N_P01_0_0001_0006_Name^,^Ruth Rabbini^
+^Co^,^Common^,^N_P01_0_0001_0006_NameDetail^,^Blacktongue Trader^
+^Co^,^Common^,^N_P01_0_0001_0007_Name^,^Gorash^
+^Co^,^Common^,^N_P01_0_0001_0007_NameDetail^,^Beast Trainer^
+^Co^,^Common^,^N_P01_0_0001_0008_Name^,^Escadel^
+^Co^,^Common^,^N_P01_0_0001_0008_NameDetail^,^Mender^
+^Co^,^Common^,^N_P01_0_0001_0009_Name^,^Hayk^
+^Co^,^Common^,^N_P01_0_0001_0009_NameDetail^,^Storage Master^
+^Co^,^Common^,^N_P01_0_0001_0010_Name^,^Guilver^
+^Co^,^Common^,^N_P01_0_0001_0010_NameDetail^,^Recipe Merchant^
+^Co^,^Common^,^N_P01_0_0001_0011_Name^,^Latlan^
+^Co^,^Common^,^N_P01_0_0001_0011_NameDetail^,^Consumable Coin Dealer^
+^Co^,^Common^,^N_P01_returnp_001_Name^,^Recall Stone^
+^Co^,^Common^,^N_P01_returnp_001_NameDetail^,^^
+^Co^,^Common^,^N_P01_0_0001_0012_Name^,^Schutein^
+^Co^,^Common^,^N_P01_0_0001_0012_NameDetail^,^Mercenary^
+^Co^,^Common^,^N_p01_ReturnP_002_Name^,^Recall Stone^
+^Co^,^Common^,^N_p01_ReturnP_002_NameDetail^,^^
+^Co^,^Common^,^N_p01_ReturnP_003_Name^,^Recall Stone^
+^Co^,^Common^,^N_p01_ReturnP_003_NameDetail^,^^
+^Co^,^Common^,^N_p01_HuFFar01_001_Name^,^Dahlia^
+^Co^,^Common^,^N_p01_HuFFar01_001_NameDetail^,^Beast Trainer^
+^Co^,^Common^,^N_p01_HuMPri03_001_Name^,^Raymond^
+^Co^,^Common^,^N_p01_HuMPri03_001_NameDetail^,^Mender^
+^Co^,^Common^,^N_p01_HuFPub02_001_Name^,^Phillia^
+^Co^,^Common^,^N_p01_HuFPub02_001_NameDetail^,^Storage Master^
+^Co^,^Common^,^N_p01_rabinis1_001_Name^,^Charleston Rabbini^
+^Co^,^Common^,^N_p01_rabinis1_001_NameDetail^,^Crescent Merchants^
+^Co^,^Common^,^N_p01_HuMMil02_001_Name^,^Heckart^
+^Co^,^Common^,^N_p01_HuMMil02_001_NameDetail^,^Beast Trainer^
+^Co^,^Common^,^N_p01_hufkep01_001_Name^,^Kaiyu^
+^Co^,^Common^,^N_p01_hufkep01_001_NameDetail^,^Mender^
+^Co^,^Common^,^N_p01_HuFFar02_001_Name^,^Landuil^
+^Co^,^Common^,^N_p01_HuFFar02_001_NameDetail^,^Storage Master^
+^Co^,^Common^,^N_p01_rabinis1_002_Name^,^Charlotte Rabbini^
+^Co^,^Common^,^N_p01_rabinis1_002_NameDetail^,^Crescent Merchants^
+^Co^,^Common^,^N_p01_HuMEli01_001_Name^,^Stein^
+^Co^,^Common^,^N_p01_HuMEli01_001_NameDetail^,^Mercenary^
+^Co^,^Common^,^N_p01_HuFKni01_001_Name^,^Rodain^
+^Co^,^Common^,^N_p01_HuFKni01_001_NameDetail^,^Mercenary^
+^Co^,^Common^,^N_p01_SpirWB2_001_Name^,^Kiki^
+^Co^,^Common^,^N_p01_SpirWB2_001_NameDetail^,^Tree Fairy^
+^Co^,^Common^,^N_p01_HuFServ01_001_Name^,^Leica^
+^Co^,^Common^,^N_p01_HuFServ01_001_NameDetail^,^Maid^
+^Co^,^Common^,^N_p01_HuMCrew02_001_Name^,^Lima^
+^Co^,^Common^,^N_p01_HuMCrew02_001_NameDetail^,^Drunk^
+^Co^,^Common^,^N_P01_0_0001_0013_Name^,^Restless Ghost^
+^Co^,^Common^,^N_P01_0_0001_0013_NameDetail^,^Sleep Deprived^
+^Co^,^Common^,^N_P01_0_0001_0014_Name^,^Cauldron^
+^Co^,^Common^,^N_P01_0_0001_0014_NameDetail^,^^
+^Co^,^Common^,^N_f02_dummy_001_Name^,^Blazing Fire^
+^Co^,^Common^,^N_f02_dummy_001_NameDetail^,^^
+^Co^,^Common^,^N_F01_Portal_100_Name^,^World Shrine^
+^Co^,^Common^,^N_F01_Portal_100_NameDetail^,^^
+^Co^,^Common^,^N_F01_Portal_001_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F01_Portal_001_NameDetail^,^^
+^Co^,^Common^,^N_F01_Portal_002_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F01_Portal_002_NameDetail^,^^
+^Co^,^Common^,^N_F01_Portal_003_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F01_Portal_003_NameDetail^,^^
+^Co^,^Common^,^N_F01_Portal_004_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F01_Portal_004_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_100_Name^,^World Shrine^
+^Co^,^Common^,^N_C01_Portal_100_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_001_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_001_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_002_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_002_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_003_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_003_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_004_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_004_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_005_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_005_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_006_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_006_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_007_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_007_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_008_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_008_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_009_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_009_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_010_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_010_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_011_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_011_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_012_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_012_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_013_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_013_NameDetail^,^^
+^Co^,^Common^,^N_C01_Portal_014_Name^,^Transit Shrine^
+^Co^,^Common^,^N_C01_Portal_014_NameDetail^,^^
+^Co^,^Common^,^N_F02_Portal_100_Name^,^World Shrine^
+^Co^,^Common^,^N_F02_Portal_100_NameDetail^,^^
+^Co^,^Common^,^N_F02_Portal_001_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F02_Portal_001_NameDetail^,^^
+^Co^,^Common^,^N_F02_Portal_002_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F02_Portal_002_NameDetail^,^^
+^Co^,^Common^,^N_F02_Portal_003_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F02_Portal_003_NameDetail^,^^
+^Co^,^Common^,^N_F02_Portal_004_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F02_Portal_004_NameDetail^,^^
+^Co^,^Common^,^N_F02_Portal_005_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F02_Portal_005_NameDetail^,^^
+^Co^,^Common^,^N_F02_Portal_006_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F02_Portal_006_NameDetail^,^^
+^Co^,^Common^,^N_F02_Portal_007_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F02_Portal_007_NameDetail^,^^
+^Co^,^Common^,^N_F09_Portal_100_Name^,^World Shrine^
+^Co^,^Common^,^N_F09_Portal_100_NameDetail^,^^
+^Co^,^Common^,^N_F09_Portal_001_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F09_Portal_001_NameDetail^,^^
+^Co^,^Common^,^N_F09_Portal_002_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F09_Portal_002_NameDetail^,^^
+^Co^,^Common^,^N_F09_Portal_003_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F09_Portal_003_NameDetail^,^^
+^Co^,^Common^,^N_F09_Portal_004_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F09_Portal_004_NameDetail^,^^
+^Co^,^Common^,^N_F03_Portal_100_Name^,^World Shrine^
+^Co^,^Common^,^N_F03_Portal_100_NameDetail^,^^
+^Co^,^Common^,^N_F03_Portal_001_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F03_Portal_001_NameDetail^,^^
+^Co^,^Common^,^N_F03_Portal_002_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F03_Portal_002_NameDetail^,^^
+^Co^,^Common^,^N_F03_Portal_003_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F03_Portal_003_NameDetail^,^^
+^Co^,^Common^,^N_F03_Portal_004_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F03_Portal_004_NameDetail^,^^
+^Co^,^Common^,^N_F03_Portal_005_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F03_Portal_005_NameDetail^,^^
+^Co^,^Common^,^N_F03_Portal_006_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F03_Portal_006_NameDetail^,^^
+^Co^,^Common^,^N_F03_Portal_007_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F03_Portal_007_NameDetail^,^^
+^Co^,^Common^,^N_F03_Portal_008_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F03_Portal_008_NameDetail^,^^
+^Co^,^Common^,^N_F04_Portal_100_Name^,^World Shrine^
+^Co^,^Common^,^N_F04_Portal_100_NameDetail^,^^
+^Co^,^Common^,^N_F04_Portal_001_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F04_Portal_001_NameDetail^,^^
+^Co^,^Common^,^N_F04_Portal_002_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F04_Portal_002_NameDetail^,^^
+^Co^,^Common^,^N_F04_Portal_003_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F04_Portal_003_NameDetail^,^^
+^Co^,^Common^,^N_F04_Portal_004_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F04_Portal_004_NameDetail^,^^
+^Co^,^Common^,^N_F04_Portal_005_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F04_Portal_005_NameDetail^,^^
+^Co^,^Common^,^N_F04_Portal_006_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F04_Portal_006_NameDetail^,^^
+^Co^,^Common^,^N_P01_Portal_001_Name^,^Transit Shrine^
+^Co^,^Common^,^N_P01_Portal_001_NameDetail^,^^
+^Co^,^Common^,^N_P01_Portal_002_Name^,^Transit Shrine^
+^Co^,^Common^,^N_P01_Portal_002_NameDetail^,^^
+^Co^,^Common^,^N_P01_Portal_003_Name^,^Transit Shrine^
+^Co^,^Common^,^N_P01_Portal_003_NameDetail^,^^
+^Co^,^Common^,^N_P01_HuMsol_001_Name^,^Guardian Infantry^
+^Co^,^Common^,^N_P01_HuMsol_001_NameDetail^,^Exarahn Knights^
+^Co^,^Common^,^N_P01_HuMsol_002_Name^,^Guardian Mounted Brigade^
+^Co^,^Common^,^N_P01_HuMsol_002_NameDetail^,^Exarahn Knights^
+^Co^,^Common^,^N_P01_Board_001_Name^,^Conqueror's Gate Mission Board^
+^Co^,^Common^,^N_P01_Board_001_NameDetail^,^^
+^Co^,^Common^,^N_P01_Board_002_Name^,^Bloodmoon Camp Mission Board^
+^Co^,^Common^,^N_P01_Board_002_NameDetail^,^^
+^Co^,^Common^,^N_P01_Board_003_Name^,^Crimsonreach Camp Mission Board^
+^Co^,^Common^,^N_P01_Board_003_NameDetail^,^^
+^Co^,^Common^,^N_P01_Board_004_Name^,^Ashwind Camp Mission Board^
+^Co^,^Common^,^N_P01_Board_004_NameDetail^,^^
+^Co^,^Common^,^N_F04_Portal_007_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F04_Portal_007_NameDetail^,^^
+^Co^,^Common^,^N_P01_Portal_004_Name^,^Transit Shrine^
+^Co^,^Common^,^N_P01_Portal_004_NameDetail^,^^
+^Co^,^Common^,^N_P01_0_0001_0015_Name^,^Breeze^
+^Co^,^Common^,^N_P01_0_0001_0015_NameDetail^,^Mender^
+^Co^,^Common^,^N_P01_0_0001_0016_Name^,^Snicket^
+^Co^,^Common^,^N_P01_0_0001_0016_NameDetail^,^Beast Trainer^
+^Co^,^Common^,^N_P01_0_0001_0017_Name^,^Tamed Rage^
+^Co^,^Common^,^N_P01_0_0001_0017_NameDetail^,^^
+^Co^,^Common^,^N_P01_0_0001_0018_Name^,^Pan^
+^Co^,^Common^,^N_P01_0_0001_0018_NameDetail^,^Storage Master^
+^Co^,^Common^,^N_P01_0_0001_0019_Name^,^Kona^
+^Co^,^Common^,^N_P01_0_0001_0019_NameDetail^,^Shopkeep^
+^Co^,^Common^,^N_P01_0_0001_0020_Name^,^Tuark^
+^Co^,^Common^,^N_P01_0_0001_0020_NameDetail^,^Recipe Merchant^
+^Co^,^Common^,^N_P01_0_0001_0021_Name^,^Rachiel^
+^Co^,^Common^,^N_P01_0_0001_0021_NameDetail^,^Enigma Chest Coin Dealer^
+^Co^,^Common^,^N_P01_0_0001_0022_Name^,^Torune^
+^Co^,^Common^,^N_P01_0_0001_0022_NameDetail^,^Consumable Coin Dealer^
+^Co^,^Common^,^N_p01_Smith_001_Name^,^Weapon Anvil^
+^Co^,^Common^,^N_p01_Smith_001_NameDetail^,^^
+^Co^,^Common^,^N_p01_Smith_002_Name^,^Armor Anvil^
+^Co^,^Common^,^N_p01_Smith_002_NameDetail^,^^
+^Co^,^Common^,^N_p01_Cook_001_Name^,^Cooking Station^
+^Co^,^Common^,^N_p01_Cook_001_NameDetail^,^^
+^Co^,^Common^,^N_p01_Alchemy_001_Name^,^Alchemy Lab^
+^Co^,^Common^,^N_p01_Alchemy_001_NameDetail^,^^
+^Co^,^Common^,^N_p01_Accessory_001_Name^,^Jewelry Table^
+^Co^,^Common^,^N_p01_Accessory_001_NameDetail^,^^
+^Co^,^Common^,^N_p01_Fellow_001_Name^,^Barder Craft Table^
+^Co^,^Common^,^N_p01_Fellow_001_NameDetail^,^^
+^Co^,^Common^,^N_p01_HuMSmi_001_Name^,^Yashi^
+^Co^,^Common^,^N_p01_HuMSmi_001_NameDetail^,^Weaponsmith^
+^Co^,^Common^,^N_p01_HuMSmi_002_Name^,^Zachery^
+^Co^,^Common^,^N_p01_HuMSmi_002_NameDetail^,^Armorsmith^
+^Co^,^Common^,^N_p01_HuMarmE_001_Name^,^Xavier^
+^Co^,^Common^,^N_p01_HuMarmE_001_NameDetail^,^Chef^
+^Co^,^Common^,^N_p01_HuMDmag_001_Name^,^Xander^
+^Co^,^Common^,^N_p01_HuMDmag_001_NameDetail^,^Alchemist^
+^Co^,^Common^,^N_p01_HuFFar_001_Name^,^Tracy^
+^Co^,^Common^,^N_p01_HuFFar_001_NameDetail^,^Jewelry Crafter^
+^Co^,^Common^,^N_p01_HuMMer_001_Name^,^Shane^
+^Co^,^Common^,^N_p01_HuMMer_001_NameDetail^,^Barder Crafter^
+^Co^,^Common^,^N_03_0_0002_0083_Name^,^Penelope^
+^Co^,^Common^,^N_03_0_0002_0083_NameDetail^,^Crescent Merchants^
+^Co^,^Common^,^N_P01_HuMsol_003_Name^,^Guardian Footsoldier^
+^Co^,^Common^,^N_P01_HuMsol_003_NameDetail^,^Exarahn Knights^
+^Co^,^Common^,^N_P01_HuMsol_004_Name^,^Guardian Footsoldier^
+^Co^,^Common^,^N_P01_HuMsol_004_NameDetail^,^Exarahn Knights^
+^Co^,^Common^,^N_P01_HuMNob_001_Name^,^Kaleb^
+^Co^,^Common^,^N_P01_HuMNob_001_NameDetail^,^Market Broker^
+^Co^,^Common^,^N_P01_DarkHound_01_Name^,^Tamed Grudd^
+^Co^,^Common^,^N_P01_DarkHound_01_NameDetail^,^^
+^Co^,^Common^,^N_P01_BlackSauru_01_Name^,^Tamed Sonos^
+^Co^,^Common^,^N_P01_BlackSauru_01_NameDetail^,^^
+^Co^,^Common^,^N_P01_0_0001_0023_Name^,^Batel^
+^Co^,^Common^,^N_P01_0_0001_0023_NameDetail^,^Enigma Chest Coin Dealer^
+^Co^,^Common^,^N_P01_0_0001_0024_Name^,^Shumer^
+^Co^,^Common^,^N_P01_0_0001_0024_NameDetail^,^Consumable Coin Dealer^
+^Co^,^Common^,^N_F04_Portal_900_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F04_Portal_900_NameDetail^,^^
+^Co^,^Common^,^N_F04_Portal_901_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F04_Portal_901_NameDetail^,^^
+^Co^,^Common^,^N_P01_DraYoung_01_Name^,^Tamed Ura^
+^Co^,^Common^,^N_P01_DraYoung_01_NameDetail^,^^
+^Co^,^Common^,^N_c01_Event_100_Name^,^Glass^
+^Co^,^Common^,^N_c01_Event_100_NameDetail^,^1 Year Anniversary Event^
+^Co^,^Common^,^N_c01_Event_Pc_Name^,^PCbunny^
+^Co^,^Common^,^N_c01_Event_Pc_NameDetail^,^PC Room Event^
+^Co^,^Common^,^N_p01_UniteLeader_01_Name^,^Gleon^
+^Co^,^Common^,^N_p01_UniteLeader_01_NameDetail^,^Exarahn Militia Chief^
+^Co^,^Common^,^N_c01_RabMer01_003_Name^,^Christoph Rabbini^
+^Co^,^Common^,^N_c01_RabMer01_003_NameDetail^,^Attendance Check Event^
+^Co^,^Common^,^N_f04_HuMFar_103_Name^,^Zeron^
+^Co^,^Common^,^N_f04_HuMFar_103_NameDetail^,^Storage Master^
+^Co^,^Common^,^N_f04_HuMNob_002_Name^,^Nadan^
+^Co^,^Common^,^N_f04_HuMNob_002_NameDetail^,^Market Broker^
+^Co^,^Common^,^N_p01_hum_01_Name^,^Zako^
+^Co^,^Common^,^N_p01_hum_01_NameDetail^,^Exarahn Gold Coin Dealer^
+^Co^,^Common^,^N_C01_CoinEx_01_Name^,^Goldie Rabbini^
+^Co^,^Common^,^N_C01_CoinEx_01_NameDetail^,^Crescent Merchants^
+^Co^,^Common^,^N_C01_BoxSell_01_Name^,^Eddy Smith^
+^Co^,^Common^,^N_C01_BoxSell_01_NameDetail^,^Gold Coin Dealer^
+^Co^,^Common^,^N_C01_BoxSell_02_Name^,^John Smith^
+^Co^,^Common^,^N_C01_BoxSell_02_NameDetail^,^Premium Gold Coin Dealer^
+^Co^,^Common^,^N_c01_Event_Hal_1_Name^,^Bones^
+^Co^,^Common^,^N_c01_Event_Hal_1_NameDetail^,^Hadakhan's Haunting^
+^Co^,^Common^,^N_c01_Event_Hal_2_Name^,^Pumpkin^
+^Co^,^Common^,^N_c01_Event_Hal_2_NameDetail^,^Hadakhan's Haunting^
+^Co^,^Common^,^N_C01_CoinEx_02_Name^,^Jacob Rabbini^
+^Co^,^Common^,^N_C01_CoinEx_02_NameDetail^,^Crescent Merchants^
+^Co^,^Common^,^N_C01_BoxSell_03_Name^,^Justice Taylor^
+^Co^,^Common^,^N_C01_BoxSell_03_NameDetail^,^Gold Coin Dealer^
+^Co^,^Common^,^N_C01_BoxSell_04_Name^,^Harold Taylor^
+^Co^,^Common^,^N_C01_BoxSell_04_NameDetail^,^Premium Gold Coin Dealer^
+^Co^,^Common^,^N_F98_Portal_100_Name^,^World Shrine^
+^Co^,^Common^,^N_F98_Portal_100_NameDetail^,^^
+^Co^,^Common^,^N_p01_UniteLeader_02_Name^,^Palas^
+^Co^,^Common^,^N_p01_UniteLeader_02_NameDetail^,^Exarahn Militia^
+^Co^,^Common^,^N_p01_UniteLeader_03_Name^,^Alace^
+^Co^,^Common^,^N_p01_UniteLeader_03_NameDetail^,^Exarahn Militia^
+^Co^,^Common^,^N_p01_UniteLeader_04_Name^,^Akatos^
+^Co^,^Common^,^N_p01_UniteLeader_04_NameDetail^,^Exarahn Militia^
+^Co^,^Common^,^N_C01_Custom_1_Name^,^Edie^
+^Co^,^Common^,^N_C01_Custom_1_NameDetail^,^Beautician^
+^Co^,^Common^,^N_P02_Board_01_Name^,^Freemen Village Mission Board^
+^Co^,^Common^,^N_P02_Board_01_NameDetail^,^^
+^Co^,^Common^,^N_P02_Board_02_Name^,^Trigg's Pub Mission Board^
+^Co^,^Common^,^N_P02_Board_02_NameDetail^,^^
+^Co^,^Common^,^N_P02_Board_03_Name^,^Midnight Lighthouse Mission Board^
+^Co^,^Common^,^N_P02_Board_03_NameDetail^,^^
+^Co^,^Common^,^N_P02_Board_04_Name^,^Eternity Lake Mission Board^
+^Co^,^Common^,^N_P02_Board_04_NameDetail^,^^
+^Co^,^Common^,^N_P02_Portal_01_Name^,^Transit Shrine^
+^Co^,^Common^,^N_P02_Portal_01_NameDetail^,^^
+^Co^,^Common^,^N_P02_Portal_02_Name^,^Transit Shrine^
+^Co^,^Common^,^N_P02_Portal_02_NameDetail^,^^
+^Co^,^Common^,^N_P02_Portal_03_Name^,^Transit Shrine^
+^Co^,^Common^,^N_P02_Portal_03_NameDetail^,^^
+^Co^,^Common^,^N_P02_Storage_01_Name^,^Toze^
+^Co^,^Common^,^N_P02_Storage_01_NameDetail^,^Storage Master^
+^Co^,^Common^,^N_P02_Stroage_02_Name^,^Kello^
+^Co^,^Common^,^N_P02_Stroage_02_NameDetail^,^Storage Master^
+^Co^,^Common^,^N_P02_Arti_weapon_Name^,^Hefler^
+^Co^,^Common^,^N_P02_Arti_weapon_NameDetail^,^Master Weaponsmith^
+^Co^,^Common^,^N_P02_Arti_Armor_Name^,^Stark^
+^Co^,^Common^,^N_P02_Arti_Armor_NameDetail^,^Master Armorsmith^
+^Co^,^Common^,^N_P02_Arti_Fellow_Name^,^Giselle^
+^Co^,^Common^,^N_P02_Arti_Fellow_NameDetail^,^Master Barder Crafter^
+^Co^,^Common^,^N_P02_Arti_Acc_Name^,^Gomez^
+^Co^,^Common^,^N_P02_Arti_Acc_NameDetail^,^Master Jeweler^
+^Co^,^Common^,^N_P02_Arti_Arch_Name^,^Terracci^
+^Co^,^Common^,^N_P02_Arti_Arch_NameDetail^,^Master Alchemist^
+^Co^,^Common^,^N_P02_arti_Cook_Name^,^Bernyn^
+^Co^,^Common^,^N_P02_arti_Cook_NameDetail^,^Master Chef^
+^Co^,^Common^,^N_P02_UnitLeader_01_Name^,^Felix^
+^Co^,^Common^,^N_P02_UnitLeader_01_NameDetail^,^Alliance War Counsel^
+^Co^,^Common^,^N_P02_Consume_01_Name^,^Ritia^
+^Co^,^Common^,^N_P02_Consume_01_NameDetail^,^General Merchant^
+^Co^,^Common^,^N_P02_Consume_02_Name^,^Sen^
+^Co^,^Common^,^N_P02_Consume_02_NameDetail^,^General Merchant^
+^Co^,^Common^,^N_P02_Consume_03_Name^,^Truk^
+^Co^,^Common^,^N_P02_Consume_03_NameDetail^,^General Merchant^
+^Co^,^Common^,^N_P02_Guard_01_Name^,^Zealem^
+^Co^,^Common^,^N_P02_Guard_01_NameDetail^,^Civil Militia Chief^
+^Co^,^Common^,^N_P02_Guard_02_Name^,^Civil Militiaman^
+^Co^,^Common^,^N_P02_Guard_02_NameDetail^,^^
+^Co^,^Common^,^N_P02_Guard_03_Name^,^Zapata^
+^Co^,^Common^,^N_P02_Guard_03_NameDetail^,^Gatekeeper^
+^Co^,^Common^,^N_P02_Guard_04_Name^,^Batan^
+^Co^,^Common^,^N_P02_Guard_04_NameDetail^,^Gatekeeper^
+^Co^,^Common^,^N_P02_UnitLeader_02_Name^,^Frantz^
+^Co^,^Common^,^N_P02_UnitLeader_02_NameDetail^,^Stygaean Militia^
+^Co^,^Common^,^N_P02_UnitLeader_03_Name^,^Hanin^
+^Co^,^Common^,^N_P02_UnitLeader_03_NameDetail^,^Stygaean Militia^
+^Co^,^Common^,^N_P02_UnitLeader_04_Name^,^Jamir^
+^Co^,^Common^,^N_P02_UnitLeader_04_NameDetail^,^Stygaean Militia^
+^Co^,^Common^,^N_P02_Lightman_Name^,^Robinson^
+^Co^,^Common^,^N_P02_Lightman_NameDetail^,^Midnight Lighthouse Keeper^
+^Co^,^Common^,^N_P02_Heal_01_Name^,^Neth^
+^Co^,^Common^,^N_P02_Heal_01_NameDetail^,^Mender^
+^Co^,^Common^,^N_P02_Heal_02_Name^,^Karienne^
+^Co^,^Common^,^N_P02_Heal_02_NameDetail^,^Mender^
+^Co^,^Common^,^N_P02_Heal_03_Name^,^Ghulam^
+^Co^,^Common^,^N_P02_Heal_03_NameDetail^,^Mender^
+^Co^,^Common^,^N_P02_Coin_1_Name^,^Johannes^
+^Co^,^Common^,^N_P02_Coin_1_NameDetail^,^PvP Enigma Chest Merchant^
+^Co^,^Common^,^N_P02_Coin_2_Name^,^Strobble^
+^Co^,^Common^,^N_P02_Coin_2_NameDetail^,^PvP Consumables Merchant^
+^Co^,^Common^,^N_P02_Town_Name^,^Vlaar^
+^Co^,^Common^,^N_P02_Town_NameDetail^,^Freemen Village Chief^
+^Co^,^Common^,^N_P02_Cooker_Name^,^Nader^
+^Co^,^Common^,^N_P02_Cooker_NameDetail^,^Cook^
+^Co^,^Common^,^N_P02_Fellow_1_Name^,^Flanc^
+^Co^,^Common^,^N_P02_Fellow_1_NameDetail^,^Beast Trainer^
+^Co^,^Common^,^N_P02_Fellow_2_Name^,^Weisser^
+^Co^,^Common^,^N_P02_Fellow_2_NameDetail^,^Flanc's Familiar^
+^Co^,^Common^,^N_P02_Fellow_3_Name^,^Khahou^
+^Co^,^Common^,^N_P02_Fellow_3_NameDetail^,^Beast Trainer^
+^Co^,^Common^,^N_P02_Fellow_4_Name^,^Idrisi^
+^Co^,^Common^,^N_P02_Fellow_4_NameDetail^,^Khahou's Familiar^
+^Co^,^Common^,^N_P02_Sell_1_Name^,^Beck^
+^Co^,^Common^,^N_P02_Sell_1_NameDetail^,^Market Broker^
+^Co^,^Common^,^N_P02_Sell_2_Name^,^Napeau^
+^Co^,^Common^,^N_P02_Sell_2_NameDetail^,^Market Broker^
+^Co^,^Common^,^N_P02_Bartender_Name^,^Trigg^
+^Co^,^Common^,^N_P02_Bartender_NameDetail^,^Pubmaster^
+^Co^,^Common^,^N_P02_Coin_3_Name^,^Pecan^
+^Co^,^Common^,^N_P02_Coin_3_NameDetail^,^PvP Enigma Chest Merchant^
+^Co^,^Common^,^N_P02_coin_4_Name^,^Warinus Rabbini^
+^Co^,^Common^,^N_P02_coin_4_NameDetail^,^PvP Consumables Merchant^
+^Co^,^Common^,^N_P01_parbri_Name^,^Fabri^
+^Co^,^Common^,^N_P01_parbri_NameDetail^,^Arcanum Mage^
+^Co^,^Common^,^N_P02_bashu_Name^,^Bashu of the Round Table^
+^Co^,^Common^,^N_P02_bashu_NameDetail^,^Arcanum Mage^
+^Co^,^Common^,^N_P02_oilet_01_Name^,^Ollet^
+^Co^,^Common^,^N_P02_oilet_01_NameDetail^,^Shadow Walker^
+^Co^,^Common^,^N_P02_oilet_02_Name^,^Ollet^
+^Co^,^Common^,^N_P02_oilet_02_NameDetail^,^Shadow Walker^
+^Co^,^Common^,^N_P02_tara_Name^,^Taracio^
+^Co^,^Common^,^N_P02_tara_NameDetail^,^Shadow Hunter^
+^Co^,^Common^,^N_P02_peria_Name^,^Peria^
+^Co^,^Common^,^N_P02_peria_NameDetail^,^Stygaea Explorer^
+^Co^,^Common^,^N_P02_tabram_Name^,^Tabram of the Round Table^
+^Co^,^Common^,^N_P02_tabram_NameDetail^,^Arcanum Mage^
+^Co^,^Common^,^N_P02_ciel_Name^,^Cielle of the Round Table^
+^Co^,^Common^,^N_P02_ciel_NameDetail^,^Arcanum Mage^
+^Co^,^Common^,^N_P02_jass_Name^,^Jass^
+^Co^,^Common^,^N_P02_jass_NameDetail^,^Stygaea Explorer^
+^Co^,^Common^,^N_P02_baros_Name^,^Baros of the Round Table^
+^Co^,^Common^,^N_P02_baros_NameDetail^,^Arcanum Mage^
+^Co^,^Common^,^N_P02_orneta_Name^,^Ornetta^
+^Co^,^Common^,^N_P02_orneta_NameDetail^,^Pupil of Baros^
+^Co^,^Common^,^N_P02_rineta_Name^,^Linetta of the Round Table^
+^Co^,^Common^,^N_P02_rineta_NameDetail^,^Arcanum Mage^
+^Co^,^Common^,^N_P02_hagmaja_01_Name^,^Hagmaza of the Round Table^
+^Co^,^Common^,^N_P02_hagmaja_01_NameDetail^,^Arcanum Mage^
+^Co^,^Common^,^N_P02_hagmaja_02_Name^,^Hagmaza of the Round Table^
+^Co^,^Common^,^N_P02_hagmaja_02_NameDetail^,^Arcanum Mage^
+^Co^,^Common^,^N_P02_yusei_Name^,^Yusei^
+^Co^,^Common^,^N_P02_yusei_NameDetail^,^Unenlightened Soul^
+^Co^,^Common^,^N_P02_Portal_04_Name^,^Transit Shrine^
+^Co^,^Common^,^N_P02_Portal_04_NameDetail^,^^
+^Co^,^Common^,^N_P02_Heal_04_Name^,^Maian^
+^Co^,^Common^,^N_P02_Heal_04_NameDetail^,^Mender^
+^Co^,^Common^,^N_P02_Consume_04_Name^,^Mekkel^
+^Co^,^Common^,^N_P02_Consume_04_NameDetail^,^Shopkeep^
+^Co^,^Common^,^N_P02_Coin_5_Name^,^Aslehmann^
+^Co^,^Common^,^N_P02_Coin_5_NameDetail^,^PvP Recipe Merchant^
+^Co^,^Common^,^N_P02_coin_6_Name^,^Lazet^
+^Co^,^Common^,^N_P02_coin_6_NameDetail^,^PvP Recipe Merchant^
+^Co^,^Common^,^n_c01_whiterab_01_Name^,^Riley Rabbini^
+^Co^,^Common^,^n_c01_whiterab_01_NameDetail^,^1 Year Anniversary Event^
+^Co^,^Common^,^N_C01_Collect_01_Name^,^Deskar^
+^Co^,^Common^,^N_C01_Collect_01_NameDetail^,^Collector Coin Merchant^
+^Co^,^Common^,^N_f02_Collect_01_Name^,^Terond^
+^Co^,^Common^,^N_f02_Collect_01_NameDetail^,^Collector Coin Dealer^
+^Co^,^Common^,^N_f09_Collect_01_Name^,^Hark^
+^Co^,^Common^,^N_f09_Collect_01_NameDetail^,^Collector Coin Dealer^
+^Co^,^Common^,^N_f03_Collect_01_Name^,^Jaoulin^
+^Co^,^Common^,^N_f03_Collect_01_NameDetail^,^Collector Coin Dealer^
+^Co^,^Common^,^N_f04_Collect_01_Name^,^Beredot^
+^Co^,^Common^,^N_f04_Collect_01_NameDetail^,^Collector Coin Dealer^
+^Co^,^Common^,^N_f05_Collect_03_Name^,^Touliol^
+^Co^,^Common^,^N_f05_Collect_03_NameDetail^,^Collector Coin Dealer^
+^Co^,^Common^,^N_f07_Collect_08_Name^,^Darencha^
+^Co^,^Common^,^N_f07_Collect_08_NameDetail^,^Collector Coin Dealer^
+^Co^,^Common^,^N_P02_Narudu_01_Name^,^Narru^
+^Co^,^Common^,^N_P02_Narudu_01_NameDetail^,^Mender^
+^Co^,^Common^,^N_P02_Portal_05_Name^,^Transit Shrine^
+^Co^,^Common^,^N_P02_Portal_05_NameDetail^,^^
+^Co^,^Common^,^N_P02_Seaana_01_Name^,^Ceanna^
+^Co^,^Common^,^N_P02_Seaana_01_NameDetail^,^Shopkeep^
+^Co^,^Common^,^N_P02_Nesco_01_Name^,^Nestor^
+^Co^,^Common^,^N_P02_Nesco_01_NameDetail^,^Beast Trainer^
+^Co^,^Common^,^N_P02_Coolrash_01_Name^,^Kulashi^
+^Co^,^Common^,^N_P02_Coolrash_01_NameDetail^,^Nestor's Familiar^
+^Co^,^Common^,^N_P02_Board_05_Name^,^Mission Board^
+^Co^,^Common^,^N_P02_Board_05_NameDetail^,^^
+^Co^,^Common^,^N_P02_RabMer01_01_Name^,^Eleanor Rabbini^
+^Co^,^Common^,^N_P02_RabMer01_01_NameDetail^,^Ellun Merchant^
+^Co^,^Common^,^N_P02_Sell_02_Name^,^Noel^
+^Co^,^Common^,^N_P02_Sell_02_NameDetail^,^Market Broker^
+^Co^,^Common^,^N_P02_Stroage_03_Name^,^Everett^
+^Co^,^Common^,^N_P02_Stroage_03_NameDetail^,^Storage Master^
+^Co^,^Common^,^N_P02_Coin_7_Name^,^Karoth^
+^Co^,^Common^,^N_P02_Coin_7_NameDetail^,^PvP Enigma Chest Merchant^
+^Co^,^Common^,^N_P02_Coin_8_Name^,^Chervin^
+^Co^,^Common^,^N_P02_Coin_8_NameDetail^,^PvP Consumables Merchant^
+^Co^,^Common^,^N_P02_UnitLeader_05_Name^,^Granthis^
+^Co^,^Common^,^N_P02_UnitLeader_05_NameDetail^,^Alliance War Counsel^
+^Co^,^Common^,^N_P02_UnitLeader_06_Name^,^Yoran^
+^Co^,^Common^,^N_P02_UnitLeader_06_NameDetail^,^Stygaean Militia^
+^Co^,^Common^,^N_P02_Guard_05_Name^,^Civil Militia Member^
+^Co^,^Common^,^N_P02_Guard_05_NameDetail^,^^
+^Co^,^Common^,^N_P02_Scaan_01_Name^,^Stan^
+^Co^,^Common^,^N_P02_Scaan_01_NameDetail^,^Grimvale Chief^
+^Co^,^Common^,^N_P02_Scaan_02_Name^,^Stan^
+^Co^,^Common^,^N_P02_Scaan_02_NameDetail^,^Grimvale Chief^
+^Co^,^Common^,^N_P02_Panney_01_Name^,^Penny^
+^Co^,^Common^,^N_P02_Panney_01_NameDetail^,^Grimvale Resident^
+^Co^,^Common^,^N_P02_Panney_02_Name^,^Penny^
+^Co^,^Common^,^N_P02_Panney_02_NameDetail^,^Grimvale Resident^
+^Co^,^Common^,^N_P02_Roberee_01_Name^,^Robertson^
+^Co^,^Common^,^N_P02_Roberee_01_NameDetail^,^Civil Militia Member^
+^Co^,^Common^,^N_P02_Alpaes_01_Name^,^Alveress^
+^Co^,^Common^,^N_P02_Alpaes_01_NameDetail^,^Civil Militia Member^
+^Co^,^Common^,^N_P02_Anna_01_Name^,^Enna^
+^Co^,^Common^,^N_P02_Anna_01_NameDetail^,^Grimvale Resident^
+^Co^,^Common^,^N_P02_Baros_02_Name^,^Baros of the Round Table^
+^Co^,^Common^,^N_P02_Baros_02_NameDetail^,^Arcanum Mage^
+^Co^,^Common^,^N_P02_Menov_01_Name^,^Menera^
+^Co^,^Common^,^N_P02_Menov_01_NameDetail^,^Stygaea Explorer^
+^Co^,^Common^,^N_P02_rineta_02_Name^,^Linetta of the Round Table^
+^Co^,^Common^,^N_P02_rineta_02_NameDetail^,^Arcanum Mage^
+^Co^,^Common^,^N_P02_toruba_01_Name^,^Torva^
+^Co^,^Common^,^N_P02_toruba_01_NameDetail^,^Stygaea Explorer^
+^Co^,^Common^,^N_P02_Coin_9_Name^,^Farkhan^
+^Co^,^Common^,^N_P02_Coin_9_NameDetail^,^PvP Recipe Merchant^
+^Co^,^Common^,^N_C01_Rabisow_01_Name^,^^
+^Co^,^Common^,^N_C01_Rabisow_01_NameDetail^,^^
+^Co^,^Common^,^N_D00_RabiNina_01_Name^,^^
+^Co^,^Common^,^N_D00_RabiNina_01_NameDetail^,^^
+^Co^,^Common^,^N_D02_RabiNina_02_Name^,^^
+^Co^,^Common^,^N_D02_RabiNina_02_NameDetail^,^^
+^Co^,^Common^,^N_D01_RabiNina_03_Name^,^^
+^Co^,^Common^,^N_D01_RabiNina_03_NameDetail^,^^
+^Co^,^Common^,^N_c01_Event_103_Name^,^Glass^
+^Co^,^Common^,^N_c01_Event_103_NameDetail^,^^
+^Co^,^Common^,^N_C01_Rabieve_01_Name^,^^
+^Co^,^Common^,^N_C01_Rabieve_01_NameDetail^,^^
+^Co^,^Common^,^N_C01_Rabieve_02_Name^,^^
+^Co^,^Common^,^N_C01_Rabieve_02_NameDetail^,^^
+^Co^,^Common^,^N_F02_Mstone_01_Name^,^Vantara Manastone Oracle^
+^Co^,^Common^,^N_F02_Mstone_01_NameDetail^,^^
+^Co^,^Common^,^N_C01_Daily_001_Name^,^Elle^
+^Co^,^Common^,^N_C01_Daily_001_NameDetail^,^Attendance Certificate^
+^Co^,^Common^,^N_C01_Custom_2_Name^,^Casey^
+^Co^,^Common^,^N_C01_Custom_2_NameDetail^,^Item Refiner^
+^Co^,^Common^,^N_p02_bantara_01_Name^,^Arbiter of Courage^
+^Co^,^Common^,^N_p02_bantara_01_NameDetail^,^Stygaean Militia^
+^Co^,^Common^,^N_c01_Event_102_Name^,^Glass^
+^Co^,^Common^,^N_c01_Event_102_NameDetail^,^Pro Fisherman^
+^Co^,^Common^,^n_c01_hufyd_03_Name^,^Asteria^
+^Co^,^Common^,^n_c01_hufyd_03_NameDetail^,^Expert Fisherman^
+^Co^,^Common^,^N_C01_FishShop_01_Name^,^Lessair^
+^Co^,^Common^,^N_C01_FishShop_01_NameDetail^,^Creel Sundries Merchant^
+^Co^,^Common^,^N_C01_FishQuest_01_Name^,^Noel^
+^Co^,^Common^,^N_C01_FishQuest_01_NameDetail^,^Divinity Fishery Manager^
+^Co^,^Common^,^N_C01_FishBoard_01_Name^,^Fishing Board^
+^Co^,^Common^,^N_C01_FishBoard_01_NameDetail^,^^
+^Co^,^Common^,^N_C01_FishShop_02_Name^,^Lessair^
+^Co^,^Common^,^N_C01_FishShop_02_NameDetail^,^Creel Sundries Merchant^
+^Co^,^Common^,^N_C01_FishQuest_02_Name^,^Noel^
+^Co^,^Common^,^N_C01_FishQuest_02_NameDetail^,^Coral Fishery Manager^
+^Co^,^Common^,^N_C01_FishShop_03_Name^,^Lessair^
+^Co^,^Common^,^N_C01_FishShop_03_NameDetail^,^Creel Sundries Merchant^
+^Co^,^Common^,^N_C01_FishQuest_03_Name^,^Noel^
+^Co^,^Common^,^N_C01_FishQuest_03_NameDetail^,^Philosopher's Fishery Manager^
+^Co^,^Common^,^N_C01_FishShop_04_Name^,^Lessair^
+^Co^,^Common^,^N_C01_FishShop_04_NameDetail^,^Creel Sundries Merchant^
+^Co^,^Common^,^N_C01_FishQuest_04_Name^,^Noel^
+^Co^,^Common^,^N_C01_FishQuest_04_NameDetail^,^Elgaden Fishery Manager^
+^Co^,^Common^,^N_C01_FishShop_05_Name^,^Aileen^
+^Co^,^Common^,^N_C01_FishShop_05_NameDetail^,^Pro Creel Merchant^
+^Co^,^Common^,^N_C01_FishShop_06_Name^,^Aileen^
+^Co^,^Common^,^N_C01_FishShop_06_NameDetail^,^Pro Creel Merchant^
+^Co^,^Common^,^N_C01_FishShop_07_Name^,^Aileen^
+^Co^,^Common^,^N_C01_FishShop_07_NameDetail^,^Pro Creel Merchant^
+^Co^,^Common^,^N_C01_FishShop_08_Name^,^Aileen^
+^Co^,^Common^,^N_C01_FishShop_08_NameDetail^,^Pro Creel Merchant^
+^Co^,^Common^,^N_C01_Daily_002_Name^,^Belle^
+^Co^,^Common^,^N_C01_Daily_002_NameDetail^,^December Rewards Merchant^
+^Co^,^Common^,^N_C01_QuestDevy_01_Name^,^^
+^Co^,^Common^,^N_C01_QuestDevy_01_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_001_Name^,^Dungeon Lobby (Lv. 15-25)^
+^Co^,^Common^,^N_I01_Portal_001_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_002_Name^,^Dungeon Lobby (Lv. 35-40)^
+^Co^,^Common^,^N_I01_Portal_002_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_003_Name^,^Dungeon Lobby (Lv. 50)^
+^Co^,^Common^,^N_I01_Portal_003_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_004_Name^,^Dungeon Lobby (Raid)^
+^Co^,^Common^,^N_I01_Portal_004_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_005_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_005_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_006_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_006_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_007_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_007_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_008_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_008_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_009_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_009_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_010_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_010_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_011_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_011_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_012_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_012_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_013_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_013_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_101_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_101_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_102_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_102_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_103_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_103_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_104_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_104_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_105_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_105_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_106_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_106_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_107_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_107_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_108_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_108_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_109_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_109_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_110_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_110_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_111_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_111_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_112_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_112_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_113_Name^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_113_NameDetail^,^^
+^Co^,^Common^,^N_I01_Portal_201_Name^,^Carleon Manor^
+^Co^,^Common^,^N_I01_Portal_201_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_202_Name^,^Ruins of Matren^
+^Co^,^Common^,^N_I01_Portal_202_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_203_Name^,^Lavalight Cave^
+^Co^,^Common^,^N_I01_Portal_203_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_204_Name^,^Ruins of Matren^
+^Co^,^Common^,^N_I01_Portal_204_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_205_Name^,^Lavalight Cave^
+^Co^,^Common^,^N_I01_Portal_205_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_206_Name^,^Carleon Manor^
+^Co^,^Common^,^N_I01_Portal_206_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_211_Name^,^Frost Keep^
+^Co^,^Common^,^N_I01_Portal_211_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_212_Name^,^The Breach^
+^Co^,^Common^,^N_I01_Portal_212_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_213_Name^,^Cavern of the Veil^
+^Co^,^Common^,^N_I01_Portal_213_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_214_Name^,^The Breach^
+^Co^,^Common^,^N_I01_Portal_214_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_215_Name^,^Cavern of the Veil^
+^Co^,^Common^,^N_I01_Portal_215_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_216_Name^,^Frost Keep^
+^Co^,^Common^,^N_I01_Portal_216_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_221_Name^,^Fortress of Sorrows^
+^Co^,^Common^,^N_I01_Portal_221_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_222_Name^,^Forgotten Shrine^
+^Co^,^Common^,^N_I01_Portal_222_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_223_Name^,^Temple of Sands^
+^Co^,^Common^,^N_I01_Portal_223_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_224_Name^,^Forgotten Shrine^
+^Co^,^Common^,^N_I01_Portal_224_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_225_Name^,^Temple of Sands^
+^Co^,^Common^,^N_I01_Portal_225_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_226_Name^,^Fortress of Sorrows^
+^Co^,^Common^,^N_I01_Portal_226_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_231_Name^,^Gustling Isle^
+^Co^,^Common^,^N_I01_Portal_231_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_232_Name^,^Fractura^
+^Co^,^Common^,^N_I01_Portal_232_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_233_Name^,^Attaius Peak^
+^Co^,^Common^,^N_I01_Portal_233_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_234_Name^,^Fractura^
+^Co^,^Common^,^N_I01_Portal_234_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_235_Name^,^Attaius Peak^
+^Co^,^Common^,^N_I01_Portal_235_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_I01_Portal_236_Name^,^Gustling Isle^
+^Co^,^Common^,^N_I01_Portal_236_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_F02_Mstone_02_Name^,^Aramath^
+^Co^,^Common^,^N_F02_Mstone_02_NameDetail^,^Arcanum Mage^
+^Co^,^Common^,^N_P02_bantara_02_Name^,^Arbiter of Courage^
+^Co^,^Common^,^N_P02_bantara_02_NameDetail^,^Exarahn Militia^
+^Co^,^Common^,^N_p01_raramis_01_Name^,^Lalamin^
+^Co^,^Common^,^N_p01_raramis_01_NameDetail^,^Elite Musketeer^
+^Co^,^Common^,^N_I01_ratana_01_Name^,^Latanyan^
+^Co^,^Common^,^N_I01_ratana_01_NameDetail^,^^
+^Co^,^Common^,^N_G01_HuMMer_001_Name^,^Jayde^
+^Co^,^Common^,^N_G01_HuMMer_001_NameDetail^,^Armor Craft Merchant^
+^Co^,^Common^,^N_G01_HuMMer_002_Name^,^Redrick^
+^Co^,^Common^,^N_G01_HuMMer_002_NameDetail^,^Alchemy Merchant^
+^Co^,^Common^,^N_G01_hufpub_001_Name^,^Raydran^
+^Co^,^Common^,^N_G01_hufpub_001_NameDetail^,^Cooking Merchant^
+^Co^,^Common^,^N_G01_HuMMer_003_Name^,^Jason^
+^Co^,^Common^,^N_G01_HuMMer_003_NameDetail^,^Weapon Craft Merchant^
+^Co^,^Common^,^N_G01_HuMMer_004_Name^,^Hendrick^
+^Co^,^Common^,^N_G01_HuMMer_004_NameDetail^,^Barder Craft Merchant^
+^Co^,^Common^,^N_G01_hufmer_001_Name^,^Lalia^
+^Co^,^Common^,^N_G01_hufmer_001_NameDetail^,^Jewelry Craft Merchant^
+^Co^,^Common^,^n_i01_zportal_40_Name^,^Cross-Server Dungeon Lobby^
+^Co^,^Common^,^n_i01_zportal_40_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_i01_zportal_50_Name^,^Cross-Server Dungeon Lobby^
+^Co^,^Common^,^n_i01_zportal_50_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_i01_zportal_60_Name^,^Cross-Server Dungeon Lobby^
+^Co^,^Common^,^n_i01_zportal_60_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_i01_raid_Name^,^Cross-Server Dungeon Lobby^
+^Co^,^Common^,^n_i01_raid_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_c01_total_Name^,^Cross-Server Dungeon Lobby (All)^
+^Co^,^Common^,^n_c01_total_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_i01_40out_Name^,^Outer Rift Shrine^
+^Co^,^Common^,^n_i01_40out_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_i01_50out_Name^,^Outer Rift Shrine^
+^Co^,^Common^,^n_i01_50out_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_i01_60out_Name^,^Outer Rift Shrine^
+^Co^,^Common^,^n_i01_60out_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_i01_raidout_Name^,^Outer Rift Shrine^
+^Co^,^Common^,^n_i01_raidout_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_C01_FishShop_09_Name^,^Smith^
+^Co^,^Common^,^N_C01_FishShop_09_NameDetail^,^Extra Large Fish Merchant^
+^Co^,^Common^,^N_C01_FishShop_10_Name^,^Smith^
+^Co^,^Common^,^N_C01_FishShop_10_NameDetail^,^Extra Large Fish Merchant^
+^Co^,^Common^,^N_C01_FishShop_11_Name^,^Smith^
+^Co^,^Common^,^N_C01_FishShop_11_NameDetail^,^Extra Large Fish Merchant^
+^Co^,^Common^,^N_C01_FishShop_12_Name^,^Smith^
+^Co^,^Common^,^N_C01_FishShop_12_NameDetail^,^Extra Large Fish Merchant^
+^Co^,^Common^,^N_NA_Founders_1_Name^,^Wandering Rabbini Storage^
+^Co^,^Common^,^N_NA_Founders_1_NameDetail^,^Storage Master^
+^Co^,^Common^,^N_NA_Founders_2_Name^,^Wandering Rabbini Market Broker^
+^Co^,^Common^,^N_NA_Founders_2_NameDetail^,^Market Broker^
+^Co^,^Common^,^n_d24_portal_0_Name^,^Transit Shrine^
+^Co^,^Common^,^n_d24_portal_0_NameDetail^,^^
+^Co^,^Common^,^N_F03_Portal_009_Name^,^Transit Shrine^
+^Co^,^Common^,^N_F03_Portal_009_NameDetail^,^^
+^Co^,^Common^,^n_p02_coinex_01_Name^,^Rowena Rabbini^
+^Co^,^Common^,^n_p02_coinex_01_NameDetail^,^Stygaea Coin Merchant^
+^Co^,^Common^,^n_d97_portal_1_Name^,^Victory Shrine^
+^Co^,^Common^,^n_d97_portal_1_NameDetail^,^Exit Dungeon^
+^Co^,^Common^,^n_d97_fish_1_Name^,^Fizz^
+^Co^,^Common^,^n_d97_fish_1_NameDetail^,^Midellas Chief Boatman^
+^Co^,^Common^,^n_d97_fish_2_Name^,^Moses^
+^Co^,^Common^,^n_d97_fish_2_NameDetail^,^Bigmouth Fishery Merchant^
+^Co^,^Common^,^n_d97_fish_3_Name^,^Willy^
+^Co^,^Common^,^n_d97_fish_3_NameDetail^,^Creel Sundries Merchant^
+^Co^,^Common^,^n_d97_fish_4_Name^,^Molly^
+^Co^,^Common^,^n_d97_fish_4_NameDetail^,^Charming Fishery Caretaker^
+^Co^,^Common^,^n_d97_fish_5_Name^,^Paradise Island Board^
+^Co^,^Common^,^n_d97_fish_5_NameDetail^,^^
+^Co^,^Common^,^N_i01_Portal_Ak_Name^,^Cross-Server Lobby (Akrat)^
+^Co^,^Common^,^N_i01_Portal_Ak_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_i01_Akout_Name^,^Outer Rift Shrine^
+^Co^,^Common^,^N_i01_Akout_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^N_C01_FishShop_13_Name^,^Lessair^
+^Co^,^Common^,^N_C01_FishShop_13_NameDetail^,^Creel Sundries Merchant^
+^Co^,^Common^,^N_C01_FishShop_14_Name^,^Aileen^
+^Co^,^Common^,^N_C01_FishShop_14_NameDetail^,^Pro Creel Merchant^
+^Co^,^Common^,^N_C01_FishQuest_06_Name^,^Noel^
+^Co^,^Common^,^N_C01_FishQuest_06_NameDetail^,^Fishery Keeper^
+^Co^,^Common^,^N_P02_Coin_Special_Name^,^Kingston Rabbini^
+^Co^,^Common^,^N_P02_Coin_Special_NameDetail^,^Manastone Exchange Merchant^
+^Co^,^Common^,^N_C01_FishShop_15_Name^,^Arthur^
+^Co^,^Common^,^N_C01_FishShop_15_NameDetail^,^Legendary Dace Collector^
+^Co^,^Common^,^N_F96_weapon_02_Name^,^Frank^
+^Co^,^Common^,^N_F96_weapon_02_NameDetail^,^Weapon Master Craftsman^
+^Co^,^Common^,^N_F96_amor_02_Name^,^Mallick^
+^Co^,^Common^,^N_F96_amor_02_NameDetail^,^Master Armorsmith^
+^Co^,^Common^,^N_F96_Cook_02_Name^,^Karl Burr^
+^Co^,^Common^,^N_F96_Cook_02_NameDetail^,^Master Chef^
+^Co^,^Common^,^N_F96_Alchemy_02_Name^,^Alrok^
+^Co^,^Common^,^N_F96_Alchemy_02_NameDetail^,^Master Alchemist^
+^Co^,^Common^,^N_F96_Accessory_02_Name^,^Celine^
+^Co^,^Common^,^N_F96_Accessory_02_NameDetail^,^Master Jeweler^
+^Co^,^Common^,^N_F96_Fellow_03_Name^,^Zamek^
+^Co^,^Common^,^N_F96_Fellow_03_NameDetail^,^Master Barder Crafter^
+^Co^,^Common^,^N_F96_HuMMer_001_Name^,^Jess^
+^Co^,^Common^,^N_F96_HuMMer_001_NameDetail^,^Armor Craft Merchant^
+^Co^,^Common^,^N_F96_HuMMer_002_Name^,^Winston^
+^Co^,^Common^,^N_F96_HuMMer_002_NameDetail^,^Alchemy Merchant^
+^Co^,^Common^,^N_F96_hufpub_001_Name^,^Aryl^
+^Co^,^Common^,^N_F96_hufpub_001_NameDetail^,^Cooking Merchant^
+^Co^,^Common^,^N_F96_HuMMer_003_Name^,^Ellion^
+^Co^,^Common^,^N_F96_HuMMer_003_NameDetail^,^Weapon Craft Merchant^
+^Co^,^Common^,^N_F96_HuMMer_004_Name^,^Kallis^
+^Co^,^Common^,^N_F96_HuMMer_004_NameDetail^,^Barder Craft Merchant^
+^Co^,^Common^,^N_F96_hufmer_001_Name^,^Allack^
+^Co^,^Common^,^N_F96_hufmer_001_NameDetail^,^Jewelry Craft Merchant^
+^Co^,^Common^,^N_F96_weapon_01_Name^,^Weapon Anvil^
+^Co^,^Common^,^N_F96_weapon_01_NameDetail^,^^
+^Co^,^Common^,^N_F96_amor_01_Name^,^Armor Anvil^
+^Co^,^Common^,^N_F96_amor_01_NameDetail^,^^
+^Co^,^Common^,^N_F96_Cook_01_Name^,^Cooking Station^
+^Co^,^Common^,^N_F96_Cook_01_NameDetail^,^^
+^Co^,^Common^,^N_F96_Alchemy_01_Name^,^Alchemy Lab^
+^Co^,^Common^,^N_F96_Alchemy_01_NameDetail^,^^
+^Co^,^Common^,^N_F96_Accessory_01_Name^,^Jewelry Table^
+^Co^,^Common^,^N_F96_Accessory_01_NameDetail^,^^
+^Co^,^Common^,^N_F96_Fellow_02_Name^,^Barder Craft Table^
+^Co^,^Common^,^N_F96_Fellow_02_NameDetail^,^^
+^Co^,^Common^,^N_F96_Fishshop_01_Name^,^Reath^
+^Co^,^Common^,^N_F96_Fishshop_01_NameDetail^,^Farm Fisherman^
+^Co^,^Common^,^N_F96_Sell_01_Name^,^Dafarr^
+^Co^,^Common^,^N_F96_Sell_01_NameDetail^,^Market Broker^
+^Co^,^Common^,^n_F96_portal_100_Name^,^World Shrine^
+^Co^,^Common^,^n_F96_portal_100_NameDetail^,^^
+^Co^,^Common^,^N_p01_HuMEli01_100_Name^,^Stenn^
+^Co^,^Common^,^N_p01_HuMEli01_100_NameDetail^,^Retired Mercenary^
+^Co^,^Common^,^N_C01_hallowpum_1_Name^,^Wee o' Lantern^
+^Co^,^Common^,^N_C01_hallowpum_11_Name^,^Gigant o' Lantern^
+^Co^,^Common^,^N_C01_hallowpum_111_Name^,^Gigant o' Lantern^
+^Co^,^Common^,^N_C01_hallowpum_2_Name^,^Stink o' Lantern^
+^Co^,^Common^,^N_C01_hallowpum_22_Name^,^Rot o' Lantern^
+^Co^,^Common^,^n_c01_Middle_01_Name^,^Tagris^
+^Co^,^Common^,^n_c01_Middle_01_NameDetail^,^Tyrant of Midellas^
+^Co^,^Common^,^n_c01_Middle_02_Name^,^Traes^
+^Co^,^Common^,^n_c01_Middle_02_NameDetail^,^Tyrant of Midellas^
+^Co^,^Common^,^N_C01_Objectpack_1_name^,^Stack of Luggage^
+^Co^,^Common^,^N_C01_Objectpack_2_name^,^Full Bag^
+^Co^,^Common^,^N_C01_Objectpack_3_name^,^Stack of Luggage^
+^Co^,^Common^,^N_C01_IcePega_1_Name^,^Hameon^
+^Co^,^Common^,^n_c01_invitro_1_Name^,^Magic Supply Device^
+^Co^,^Common^,^N_F96_nacoin_001_Name^,^Prezia^
+^Co^,^Common^,^N_F96_nacoin_001_NameDetail^,^Familiar Coin Dealer^
+^Co^,^Common^,^n_c01_SnowGman_01_Name^,^Gleeful Snowman^
+^Co^,^Common^,^n_c01_SnowGman_01_NameDetail^,^Ellandfel Event^
+^Co^,^Common^,^n_c01_SnowBman_01_Name^,^Murderous Snowman^
+^Co^,^Common^,^n_c01_SnowBman_01_NameDetail^,^Ellandfel Event^
+^Co^,^Common^,^n_c01_ReinxmasA_01_Name^,^Festive Reindeer^
+^Co^,^Common^,^n_c01_ReinxmasA_01_NameDetail^,^Ellandfel Event^
+^Co^,^Common^,^N_c01_vineder_01_name^,^Cole^
+^Co^,^Common^,^N_c01_vineder_01_namedetail^,^Bynder Coin Merchant^
+^Co^,^Common^,^N_c01_vineder_02_name^,^Barlo^
+^Co^,^Common^,^N_c01_vineder_02_namedetail^,^Bynder Coin Merchant^
+^Co^,^Common^,^n_c01_varsia_01_name^,^Barsia^
+^Co^,^Common^,^n_c01_varsia_01_namedetail^,^Cross-Server Event^
+^Co^,^Common^,^n_c01_vint_01_name^,^Bennet^
+^Co^,^Common^,^n_c01_vint_01_namedetail^,^Unity Mark Merchant^
+^Co^,^Common^,^n_d25_portal_0_Name^,^Transit Shrine^
+^Co^,^Common^,^N_P02_Coin_10_Name^,^Trevan^
+^Co^,^Common^,^N_P02_Coin_10_NameDetail^,^PvP Recipe Merchant^
+^map_c01^,^Hakain's Crossing^,^n_c01_gart_01_Name^,^Ga'art^
+^map_c01^,^Hakain's Crossing^,^n_c01_gart_01_NameDetail^,^Hakanas Voucher Trade^
+^map_f04^,^Collapse_Airspace^,^n_f04_parnunt_01_Name^,^Panult^
+^map_f04^,^Collapse_Airspace^,^n_f04_parnunt_01_NameDetail^,^Hakanas Voucher Trade^
+^map_f05^,^Evil_Desert^,^n_f05_karjant_01_Name^,^Kazant^
+^map_f05^,^Evil_Desert^,^n_f05_karjant_01_NameDetail^,^Hakanas Voucher Trade^
+^map_f07^,^Elora_Sanctuary^,^n_f07_rument_01_Name^,^Rumant^
+^map_f07^,^Elora_Sanctuary^,^n_f07_rument_01_NameDetail^,^Hakanas Voucher Trade^
+^map_p02^,^Parna_Bfield^,^n_p02_durst_01_Name^,^Durst^
+^map_p02^,^Parna_Bfield^,^n_p02_durst_01_NameDetail^,^Stygaea Voucher Trade^
+^map_c01^,^Hakain's Crossing^,^n_c01_deotore_01_Name^,^Deotor^
+^map_c01^,^Hakain's Crossing^,^n_c01_deotore_01_NameDetail^,^Aegis Voucher Trade^
+^Co^,^Common^,^n_ev_fish_01_Name^,^Angler^
+^Co^,^Common^,^n_ev_fish_01_NameDetail^,^Fishing Frenzy^
+^Co^,^Common^,^n_ev_fish_02_Name^,^Woden^
+^Co^,^Common^,^n_ev_fish_02_NameDetail^,^Fishing Event Shop^
+^Co^,^Common^,^n_f01_5_0001_Name^,^Injured Woodcutter^
+^map_p02^,^Parna_Bfield^,^N_P02_pvpshop_001_Name^,^John MacBain^
+^map_p02^,^Parna_Bfield^,^N_P02_pvpshop_001_NameDetail^,^MacBain Merchants^
+^map_e02^,^Xmasdungeon^,^n_e02_portal_1_name^,^Victory Shrine^
+^Co^,^Common^,^n_c01_olympic_001_Name^,^Half-Moon^
+^Co^,^Common^,^n_c01_olympic_001_NameDetail^,^Winter Sports Tourney^
+^Co^,^Common^,^n_c01_olympic_002_Name^,^Tiger^
+^Co^,^Common^,^n_c01_olympic_002_NameDetail^,^Winter Sports Tourney^
+^Co^,^Common^,^n_c01_olympic_003_Name^,^Yuunda^
+^Co^,^Common^,^n_c01_olympic_003_NameDetail^,^Winter Sports Tourney^
+^Co^,^Common^,^n_c01_olympic_004_Name^,^Daphne^
+^Co^,^Common^,^n_c01_olympic_004_NameDetail^,^Winter Sports Tourney^
+^Co^,^Common^,^n_c01_olympic_005_Name^,^Half-Moon^
+^Co^,^Common^,^n_c01_olympic_005_NameDetail^,^Torch Relay Runner^
+^Co^,^Common^,^n_c01_olympic_006_Name^,^Half-Moon^
+^Co^,^Common^,^n_c01_olympic_006_NameDetail^,^Torch Relay Runner^
+^Co^,^Common^,^n_c01_olympic_007_Name^,^Hakanas Banquet^
+^Co^,^Common^,^n_c01_olympic_007_NameDetail^,^Winter Sports Tourney^
+^Co^,^Common^,^n_ev_eggshop_1_Name^,^Easter^
+^Co^,^Common^,^n_ev_eggshop_1_NameDetail^,^Easter Day Event^
+^Co^,^Common^,^n_ev_eggshop_2_Name^,^Sunday^
+^Co^,^Common^,^n_ev_eggshop_2_NameDetail^,^Easter Day Event Shop^
+^map_p02^,^Parna_Bfield^,^N_c01_pvpboard_001_Name^,^MacBain Mission Board^
+^map_p02^,^Parna_Bfield^,^N_c01_pvpboard_001_NameDetail^,^^
+^Co^,^Common^,^n_c01_mayo_001_Name^,^Jones^
+^Co^,^Common^,^n_c01_mayo_001_NameDetail^,^Veteran Soldier^
+^Co^,^Common^,^n_c01_mayo_002_Name^,^Gift Shop Merchant^
+^Co^,^Common^,^n_c01_mayo_002_NameDetail^,^Memorial Day Merchant^
+^Co^,^Common^,^n_c01_wc_a_Name^,^Rabbini A^
+^Co^,^Common^,^n_c01_wc_a_NameDetail^,^Rabbini Cup Event^
+^Co^,^Common^,^n_c01_wc_b_Name^,^Rabbini B^
+^Co^,^Common^,^n_c01_wc_b_NameDetail^,^Rabbini Cup Event^
+^Co^,^Common^,^n_c01_wc_c_Name^,^Rabbini C^
+^Co^,^Common^,^n_c01_wc_c_NameDetail^,^Rabbini Cup Event^
+^Co^,^Common^,^n_c01_wc_d_Name^,^Rabbini D^
+^Co^,^Common^,^n_c01_wc_d_NameDetail^,^Rabbini Cup Event^
+^Co^,^Common^,^n_c01_wc_e_Name^,^Rabbini E^
+^Co^,^Common^,^n_c01_wc_e_NameDetail^,^Rabbini Cup Event^
+^Co^,^Common^,^n_c01_wc_f_Name^,^Rabbini F^
+^Co^,^Common^,^n_c01_wc_f_NameDetail^,^Rabbini Cup Event^
+^Co^,^Common^,^n_c01_wc_g_Name^,^Rabbini G^
+^Co^,^Common^,^n_c01_wc_g_NameDetail^,^Rabbini Cup Event^
+^Co^,^Common^,^n_c01_wc_h_Name^,^Rabbini H^
+^Co^,^Common^,^n_c01_wc_h_NameDetail^,^Rabbini Cup Event^
+^Co^,^Common^,^n_c01_wc_shop_Name^,^Rabbini Sporty^
+^Co^,^Common^,^n_c01_wc_shop_NameDetail^,^Victorious Energy Shop^
+^Co^,^Common^,^n_worldraid_1_name^,^Crow^
+^Co^,^Common^,^n_worldraid_1_namedetail^,^Onyx Order Commander^
+^Co^,^Common^,^n_worldraid_2_name^,^Crow^
+^Co^,^Common^,^n_worldraid_2_namedetail^,^Onyx Order Commander^
+^Co^,^Common^,^n_worldraid_icon_Name^,^World Raid^
+^Co^,^Common^,^n_worldraid_icon_NameDetail^,^^
+^Co^,^Common^,^n_worldraid_add1_name^,^Flier^
+^Co^,^Common^,^n_worldraid_add1_namedetail^,^Subdual Captain^
+^Co^,^Common^,^n_worldraid_add2_name^,^Flier^
+^Co^,^Common^,^n_worldraid_add2_namedetail^,^Subdual Captain^
+^Co^,^Common^,^n_na_founders_0_name^,^Mailbox^
+^Co^,^Common^,^n_na_founders_0_namedetail^,^^
+^Co^,^Common^,^n_f02_magi_pro_01_name^,^Nasey the Magician^
+^Co^,^Common^,^n_f02_magi_pro_01_namedetail^,^Magician Specialist^
+^Co^,^Common^,^n_c01_se_2018_01_name^,^Haley^
+^Co^,^Common^,^n_c01_se_2018_01_namedetail^,^Summer Event^
+^Co^,^Common^,^n_f02_se_2018_02_name^,^Popeye Rabbini^
+^Co^,^Common^,^n_f02_se_2018_02_namedetail^,^Summer Event^
+^Co^,^Common^,^n_c01_se_2018_03_name^,^Summer Banquet^
+^Co^,^Common^,^n_c01_se_2018_03_namedetail^,^Summer Event^
+^Co^,^Common^,^n_c01_se_2018_04_Name^,^Celina^
+^Co^,^Common^,^n_c01_se_2018_04_NameDetail^,^Dice Event Host^
+^Co^,^Common^,^n_c01_se_2018_05_Name^,^Bernadette^
+^Co^,^Common^,^n_c01_se_2018_05_NameDetail^,^Title Master Crafter^
+^Co^,^Common^,^n_c01_arousal_01_Name^,^Aaru^
+^Co^,^Common^,^n_c01_arousal_01_NameDetail^,^Awakened Blacksmith^
+^Co^,^Common^,^n_i01_turim_portal_Name^,^Cross-Server Lobby (Turimnan)^
+^Co^,^Common^,^n_i01_turim_portal_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_i01_turimout_Name^,^Outer Rift Shrine^
+^Co^,^Common^,^n_i01_turimout_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_c01_tgd_2018_01_name^,^Joan^
+^Co^,^Common^,^n_c01_tgd_2018_01_namedetail^,^Harvest Festival Organizer^
+^Co^,^Common^,^n_c01_chri_2018_1_name^,^Jasper^
+^Co^,^Common^,^n_c01_chri_2018_1_namedetail^,^Ellandfel Event NPC^
+^Co^,^Common^,^n_c01_chri_2018_2_name^,^Matthew^
+^Co^,^Common^,^n_c01_chri_2018_2_namedetail^,^Talking Ellandfel Present^
+^Co^,^Common^,^N_c01_newyear_2019_Name^,^Celeste Rabbini^
+^Co^,^Common^,^N_c01_newyear_2019_NameDetail^,^Celestia's Heart's Joining Chief^
+^Co^,^Common^,^N_c01_march_2019_Name^,^Pat Rabbini^
+^Co^,^Common^,^N_c01_march_2019_NameDetail^,^St. Patrick's Day Event Shop^
+^Co^,^Common^,^N_c01_April_2019_Name^,^Bunny^
+^Co^,^Common^,^N_c01_April_2019_NameDetail^,^Elgaden Rabbini^
+^Co^,^Common^,^N_c01_May_2019_Name^,^Happi^
+^Co^,^Common^,^N_c01_May_2019_NameDetail^,^Loving Daughter^
+^Co^,^Common^,^n_c01_ev_sakura_01_Name^,^Cherry Blossom Rabbini^
+^Co^,^Common^,^n_c01_ev_sakura_01_NameDetail^,^Cherry Blossom Shop^
+^Co^,^Common^,^N_F99_CryTest_01_Name^,^Eris^
+^Co^,^Common^,^N_F99_CryTest_01_NameDetail^,^Cryonize's Pet^
+^Co^,^Common^,^N_F99_CryTest_02_Name^,^GM Mewo^
+^Co^,^Common^,^N_F99_CryTest_02_NameDetail^,^Brakarr Gallant^
+^Co^,^Common^,^N_F99_CryTest_03_Name^,^GM Archangel^
+^Co^,^Common^,^N_F99_CryTest_03_NameDetail^,^Brakarr Gallant^
+^Co^,^Common^,^N_F99_CryTest_04_Name^,^GM Phoebe^
+^Co^,^Common^,^N_F99_CryTest_04_NameDetail^,^Starlight Nefira^
+^Co^,^Common^,^n_c01_ev_akhat_01_Name^,^Amier Khat^
+^Co^,^Common^,^n_c01_ev_akhat_01_NameDetail^,^Otherworldy Cato^
+^Co^,^Common^,^n_c01_ev_3_year_Name^,^VION^
+^Co^,^Common^,^n_c01_ev_3_year_NameDetail^,^Mecha Emissary^
+^Co^,^Common^,^n_f02_esumf_01_Name^,^Verleen^
+^Co^,^Common^,^n_f02_esumf_01_NameDetail^,^Summer Fishing Event^
+^Co^,^Common^,^n_f02_esumf_02_Name^,^Sandy^
+^Co^,^Common^,^n_f02_esumf_02_NameDetail^,^Fish Marks Trader^
+^Co^,^Common^,^n_c01_vf_2019_01_Name^,^Linda^
+^Co^,^Common^,^n_c01_vf_2019_01_NameDetail^,^VALOFE Missionary^
+^Co^,^Common^,^n_c01_vf_2019_02_Name^,^Jay^
+^Co^,^Common^,^n_c01_vf_2019_02_NameDetail^,^Linda's Escort^
+^Co^,^Common^,^n_c01_vf_2019_03_Name^,^Jay^
+^Co^,^Common^,^n_c01_vf_2019_03_NameDetail^,^Linda's Escort^
+^Co^,^Common^,^n_c01_vf_2019_04_Name^,^Son^
+^Co^,^Common^,^n_c01_vf_2019_04_NameDetail^,^Linda's Other Escort^
+^Co^,^Common^,^n_c01_vf_2019_05_Name^,^Son^
+^Co^,^Common^,^n_c01_vf_2019_05_NameDetail^,^Linda's Other Escort^
+^Co^,^Common^,^n_c01_vf_2019_06_Name^,^Caterina^
+^Co^,^Common^,^n_c01_vf_2019_06_NameDetail^,^^
+^Co^,^Common^,^n_f96_vfcrow_01_Name^,^Crow^
+^Co^,^Common^,^n_f96_vfcrow_01_NameDetail^,^^
+^Co^,^Common^,^n_d94_i01_enter_Name^,^Cross-Server Lobby (Ellora's Trials)^
+^Co^,^Common^,^n_d94_i01_enter_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_d94_i01_out_Name^,^Outer Rift Shrine^
+^Co^,^Common^,^n_d94_i01_out_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_d94_i01_lobby_Name^,^Cross-Server Lobby (Ellora's Trials)^
+^Co^,^Common^,^n_d94_i01_lobby_NameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_ev_genericman_01_Name^,^Michael Andrew^
+^Co^,^Common^,^n_ev_genericman_01_NameDetail^,^The Generic Man^
+^Co^,^Common^,^n_ev_shineman_01_Name^,^Shine the Dictator^
+^Co^,^Common^,^n_ev_shineman_01_NameDetail^,^Vampire Taskmaster^
+^Co^,^Common^,^n_ev_meowa_01_Name^,^GM MeWo^
+^Co^,^Common^,^n_ev_meowa_01_NameDetail^,^The Quest Giver Expert^
+^Co^,^Common^,^n_ev_psych_01_Name^,^Psycheos^
+^Co^,^Common^,^n_ev_psych_01_NameDetail^,^Death Bringer^
+^Co^,^Common^,^n_f96_vfdah_01_Name^,^Dahrven^
+^Co^,^Common^,^n_f96_vfdah_01_NameDetail^,^Mage Adept^
+^Co^,^Common^,^n_f96_vfdah_02_Name^,^Dahrven^
+^Co^,^Common^,^n_f96_vfdah_02_NameDetail^,^Mage Adept^
+^Co^,^Common^,^n_f96_vfdah_03_Name^,^Dahrven^
+^Co^,^Common^,^n_f96_vfdah_03_NameDetail^,^Mage Adept^
+^Co^,^Common^,^n_f96_vfdah_04_Name^,^Dahrven^
+^Co^,^Common^,^n_f96_vfdah_04_NameDetail^,^Mage Adept^
+^Co^,^Common^,^N_C01_Autumn2019_01_Name^,^Lucia^
+^Co^,^Common^,^N_C01_Autumn2019_01_NameDetail^,^Autumn Ceremonist^
+^Co^,^Common^,^N_C01_Autumn2019_02_Name^,^Autumn Banquet^
+^Co^,^Common^,^N_C01_Autumn2019_02_NameDetail^,^Extravagantly Delicious Food^
+^Co^,^Common^,^n_ev_jackow_Name^,^Jack Ow^
+^Co^,^Common^,^n_ev_jackow_NameDetail^,^Night of the living pumpkin^
+^Co^,^Common^,^N_C01_LuciaTest_01_Name^,^Lucia Everdeen^
+^Co^,^Common^,^N_C01_LuciaTest_01_NameDetail^,^Amazoness^
+^Co^,^Common^,^N_C01_LA_Transfer_01_Name^,^Chapley Singer^
+^Co^,^Common^,^N_C01_LA_Transfer_01_NameDetail^,^Training Academy Representative^
+^Co^,^Common^,^N_C01_LA_Transfer_02_Name^,^Chapley Singer^
+^Co^,^Common^,^N_C01_LA_Transfer_02_NameDetail^,^Training Academy Representative^
+^Co^,^Common^,^N_c01_BFriday19_1_Name^,^Black Friday Rabbini^
+^Co^,^Common^,^N_c01_BFriday19_1_NameDetail^,^Black Friday Event^
+^Co^,^Common^,^N_c01_sgoat_01_Name^,^Kurubo^
+^Co^,^Common^,^N_c01_sgoat_01_NameDetail^,^The Magical Scapegoat^
+^Co^,^Common^,^N_c01_Xmas2019_01_Name^,^Atnis^
+^Co^,^Common^,^N_c01_Xmas2019_01_NameDetail^,^Mr Oflut's Apprentice^
+^Co^,^Common^,^N_c01_EVSnowG_01_Name^,^Agent <New Year's Event>^
+^Co^,^Common^,^N_c01_EVSnowG_01_NameDetail^,^Santa's Secret Agent^
+^Co^,^Common^,^n_c01_EVLunar_01_Name^,^Makino^
+^Co^,^Common^,^n_c01_EVLunar_01_NameDetail^,^New Year's Spirit of Hunting (PVE)^
+^Co^,^Common^,^n_c01_EVLunar_02_Name^,^Nyssa^
+^Co^,^Common^,^n_c01_EVLunar_02_NameDetail^,^New Year's Spirit of Combat (PVP)^
+^Co^,^Common^,^n_c01_skillman_001_Name^,^Maestro^
+^Co^,^Common^,^n_c01_skillman_001_NameDetail^,^The Skilled Master^
+^Co^,^Common^,^n_r01_i01_portal_001_name^,^Cross-Server Lobby (Raid)^
+^Co^,^Common^,^n_r01_i01_portal_001_nameDetail^,^Cross-Server Transit Shrine^
+^Co^,^Common^,^n_c01_stpat20_01_Name^,^Johnsun^
+^Co^,^Common^,^n_c01_stpat20_01_NameDetail^,^Professional Cheer-upper^
+^Co^,^Common^,^N_c01_march_2020_Name^,^Pat Rabbini^
+^Co^,^Common^,^N_c01_march_2020_NameDetail^,^St. Patrick's Day Event Shop^
+^Co^,^Common^,^n_ev_vf_shards_01_Name^,^Angela^
+^Co^,^Common^,^n_ev_vf_shards_01_NameDetail^,^Shard Archaeologist^
+^Co^,^Common^,^N_c01_april_2020_01_Name^,^Arakan^
+^Co^,^Common^,^N_c01_april_2020_01_NameDetail^,^The Chosen One^
+^Co^,^Common^,^N_c01_april_2020_02_Name^,^Hakanas Soldier^
+^Co^,^Common^,^N_c01_april_2020_02_NameDetail^,^Arakan's Captor^
+^Co^,^Common^,^N_C01_TW_Transfer_01_Name^,^Lasley Dancer^
+^Co^,^Common^,^N_C01_TW_Transfer_01_NameDetail^,^Void Transfer Representative^
+^Co^,^Common^,^N_c01_april_2020_Name^,^Gabbyus^
+^Co^,^Common^,^N_c01_april_2020_NameDetail^,^The Hunter of Eggs^
+^Co^,^Common^,^n_c01_archangel_01_Name^,^GM ZeroTwo^
+^Co^,^Common^,^n_c01_archangel_01_NameDetail^,^The Fallen^
+^Co^,^Common^,^n_c01_july2020_01_Name^,^Lilly Penderghast^
+^Co^,^Common^,^n_c01_july2020_01_NameDetail^,^Rebellious Princess^
+^Co^,^Common^,^n_c01_july2020_02_Name^,^Maximillian Penderghast   ^
+^Co^,^Common^,^n_c01_july2020_02_NameDetail^,^Crazy King of the North^
+^Co^,^Common^,^n_ev_smmr2020_01_name^,^Olivia Sunn^
+^Co^,^Common^,^n_ev_smmr2020_01_namedetail^,^Dragon Knight Officer^
+^Co^,^Common^,^n_ev_smmr2020_02_name^,^Summer Banquet^
+^Co^,^Common^,^n_ev_smmr2020_02_namedetail^,^Hakain's Crossing Banquet Table^
+^Co^,^Common^,^n_d95_guide_01_Name^,^Stranger^
+^Co^,^Common^,^n_d95_guide_01_NameDetail^,^Awakened Warlock^
+^Co^,^Common^,^n_d95_singer_Name^,^Chapley Singer^
+^Co^,^Common^,^n_d95_singer_NameDetail^,^Dragon Knight Priest^
+^Co^,^Common^,^N_D95_Portal_001_Name^,^Transit Shrine^
+^Co^,^Common^,^N_D95_Portal_002_Name^,^Transit Shrine^
+^Co^,^Common^,^N_D95_Portal_003_Name^,^Transit Shrine^
+^Co^,^Common^,^N_D95_Portal_004_Name^,^Transit Shrine^
+^Co^,^Common^,^N_D95_Portal_005_Name^,^Transit Shrine^
+^Co^,^Common^,^N_D95_Portal_006_Name^,^Transit Shrine^
+^Co^,^Common^,^N_D95_Portal_007_Name^,^Transit Shrine^
+^Co^,^Common^,^N_D95_Portal_008_Name^,^Transit Shrine^
+^Co^,^Common^,^N_D95_Portal_009_Name^,^Transit Shrine^
+^Co^,^Common^,^n_c01_aug2020_01_Name^,^Tom Crok^
+^Co^,^Common^,^n_c01_aug2020_01_NameDetail^,^Hakain's Entrepreneur^
+^Co^,^Common^,^n_c01_aug2020_02_Name^,^Fleathers ^
+^Co^,^Common^,^n_c01_aug2020_02_NameDetail^,^Animal Expert^
+^Co^,^Common^,^n_c01_sept2020_01_Name^,^Derek^
+^Co^,^Common^,^n_c01_sept2020_01_NameDetail^,^Fish Fanatic^
+^Co^,^Common^,^n_c01_torkus_Name^,^Torkus Vanholme^
+^Co^,^Common^,^n_c01_torkus_NameDetail^,^Forbidden Shopkeeper^
+^Co^,^Common^,^n_c01_vlady_Name^,^Vlady^
+^Co^,^Common^,^n_c01_vlady_NameDetail^,^Professional Dicer^
+^Co^,^Common^,^n_c01_dyvla_Name^,^DyVla^
+^Co^,^Common^,^n_c01_dyvla_NameDetail^,^Vlady's Brother^
+^Co^,^Common^,^n_c01_floret_Name^,^Floret^
+^Co^,^Common^,^n_c01_floret_NameDetail^,^Flower Lover^
+^Co^,^Common^,^n_c01_phoebe_Name^,^Phoebe the Caretaker^
+^Co^,^Common^,^n_c01_phoebe_NameDetail^,^Rider's Caretaker^
+^Co^,^Common^,^N_EV_DamKaos_00_Name^,^Damien Kaos^
+^Co^,^Common^,^N_EV_DamKaos_00_NameDetail^,^Chaos Blacksmith^
+^Co^,^Common^,^N_EV_DamKaos_01_Name^,^Damien Kaos^
+^Co^,^Common^,^N_EV_DamKaos_01_NameDetail^,^Chaos Blacksmith^
+^Co^,^Common^,^N_F02_CBRBounty_01_Name^,^Damien's Bounty Board^
+^Co^,^Common^,^N_F02_CBRBounty_01_NameDetail^,^Quest Hub^
+^Co^,^Common^,^N_C02_CBRBounty_01_Name^,^Damien's Bounty Board^
+^Co^,^Common^,^N_C02_CBRBounty_01_NameDetail^,^Quest Hub^
+^Co^,^Common^,^N_F05_CBRBounty_01_Name^,^Damien's Bounty Board^
+^Co^,^Common^,^N_F05_CBRBounty_01_NameDetail^,^Quest Hub^
+^Co^,^Common^,^n_ev_jmc_Name^,^Jose M.C.^
+^Co^,^Common^,^n_ev_jmc_NameDetail^,^The Spirit Of Ellandfel^
+^Co^,^Common^,^n_ev_newlife_01_Name^,^Lovely Daveen^
+^Co^,^Common^,^n_ev_newlife_01_NameDetail^,^New Life Intervener^
+^Co^,^Common^,^n_ev_xsnowevent_01_Name^,^Nova^
+^Co^,^Common^,^n_ev_xsnowevent_01_NameDetail^,^Emergent Snowman^
+^Co^,^Common^,^n_ev_bull2021_Name^,^Golden Bull^
+^Co^,^Common^,^n_ev_bull2021_NameDetail^,^Lunar Guardian^
+^Co^,^Common^,^n_ev_wf_akiko_Name^,^Akiko^
+^Co^,^Common^,^n_ev_wf_akiko_NameDetail^,^Bright Damsel^
+^Co^,^Common^,^n_ev_wf_chiaki_Name^,^Chiaki^
+^Co^,^Common^,^n_ev_wf_chiaki_NameDetail^,^Brilliant Girl^
+^Co^,^Common^,^n_ev_wf_fumiko_Name^,^Fumiko^
+^Co^,^Common^,^n_ev_wf_fumiko_NameDetail^,^Young Beauty^
+^Co^,^Common^,^N_C01_pvpzone_in_Name^,^Exarahn Badlands / Stygaea Portal^
+^Co^,^Common^,^N_C01_pvpzone_in_NameDetail^,^Travel to PVP Region^
+^Co^,^Common^,^n_p01_pvpzone_out_Name^,^Hakain's Crossing Portal^
+^Co^,^Common^,^n_p01_pvpzone_out_NameDetail^,^Travel to Victory Plaza^
+^Co^,^Common^,^n_p02_pvpzone_out_Name^,^Hakain's Crossing Portal^
+^Co^,^Common^,^n_p02_pvpzone_out_NameDetail^,^Travel to Victory Plaza^
+^Co^,^Common^,^n_f02_in_icon_01_name^,^Carleon Manor Manastone^
+^Co^,^Common^,^n_f02_in_icon_02_name^,^Guardian Dragon Manastone^
+^Co^,^Common^,^n_f02_in_icon_03_name^,^Kellwood Farm Manastone^
+^Co^,^Common^,^n_f02_in_icon_04_name^,^Miller's Hill Manastone^
+^Co^,^Common^,^n_f02_in_icon_05_name^,^Cemetery Manastone^
+^Co^,^Common^,^n_f02_in_icon_06_name^,^Ruins of Matren Manastone^
+^Co^,^Common^,^n_f02_in_icon_07_name^,^Divinity Shore Manastone^
+^Co^,^Common^,^n_f02_in_icon_08_name^,^Divinity Shore Fishery Manastone^
+^Co^,^Common^,^n_f02_in_icon_09_name^,^Broken Caldera Manastone^
+^Co^,^Common^,^n_f02_in_icon_10_name^,^Gilded Woods Manastone^
+^Co^,^Common^,^n_f02_in_icon_11_name^,^Zadaran Camp Manastone^
+^Co^,^Common^,^n_f02_in_icon_12_name^,^South Capital Gate Manastone^
+^Co^,^Common^,^n_f02_in_icon_13_name^,^Forlorn Ruins Manastone^
+^Co^,^Common^,^n_f02_in_icon_14_name^,^Sansupus Ranch Manastone^
+^Co^,^Common^,^n_f02_in_icon_15_name^,^Morineh Lake Manastone^
+^Co^,^Common^,^n_f02_in_icon_16_name^,^Foothills Manastone^
+^Co^,^Common^,^n_f02_in_icon_17_name^,^Zadaran Manastone^
+^Co^,^Common^,^n_m01_mine_01_name^,^Cerman^
+^Co^,^Common^,^n_m01_mine_01_nameDetail^,^Miner^
+^Co^,^Common^,^n_m01_mine_02_name^,^Tvana^
+^Co^,^Common^,^n_m01_mine_02_nameDetail^,^Scholar^
+^Co^,^Common^,^n_m01_mine_03_name^,^Smano^
+^Co^,^Common^,^n_m01_mine_03_nameDetail^,^Guide^
+^Co^,^Common^,^n_m02_mine_03_name^,^Smano^
+^Co^,^Common^,^n_m02_mine_03_nameDetail^,^Guide^
+^Co^,^Common^,^n_m03_mine_03_name^,^Smano^
+^Co^,^Common^,^n_m03_mine_03_nameDetail^,^Guide^
+^Co^,^Common^,^n_m01_portal_001_name^,^Kellwoods Mine Portal^
+^Co^,^Common^,^n_m01_portal_001_nameDetail^,^^
+^Co^,^Common^,^n_m02_portal_001_name^,^Foothills Mine Portal^
+^Co^,^Common^,^n_m02_portal_001_nameDetail^,^^
+^Co^,^Common^,^n_m03_portal_001_name^,^Zadaran Mine Portal^
+^Co^,^Common^,^n_m03_portal_001_nameDetail^,^^
+^Co^,^Common^,^n_m01_board_01_name^,^Kellwoods Mine Board^
+^Co^,^Common^,^n_m01_board_01_nameDetail^,^^
+^Co^,^Common^,^n_m02_board_01_name^,^Foothills Mine Board^
+^Co^,^Common^,^n_m02_board_01_nameDetail^,^^
+^Co^,^Common^,^n_m03_board_01_name^,^Zadaran Mine Board^
+^Co^,^Common^,^n_m03_board_01_nameDetail^,^^
+^Co^,^Common^,^n_ev_cosplay_01_name^,^Maharjohonahel^
+^Co^,^Common^,^n_ev_cosplay_01_nameDetail^,^Velzeroth Cosplayer^
+^Co^,^Common^,^N_P02_pvpshop_002_Name^,^^
+^Co^,^Common^,^N_P02_pvpshop_002_NameDetail^,^^
+^Co^,^Common^,^n_ev_returnee21_01_name^,^Katarina^
+^Co^,^Common^,^n_ev_returnee21_01_nameDetail^,^Riders' Welcome Party^
+^Co^,^Common^,^n_ev_flospring21_01_name^,^Taki^
+^Co^,^Common^,^n_ev_flospring21_01_nameDetail^,^Flourishing Springmeister^
+^Co^,^Common^,^n_ev_flospring21_02_name^,^Grand Banquet^
+^Co^,^Common^,^n_ev_flospring21_02_nameDetail^,^Spring Delicacies^
+^Co^,^Common^,^n_ev_flospring21_11_name^,^Robi Rabbini^
+^Co^,^Common^,^n_ev_flospring21_11_nameDetail^,^^
+^Co^,^Common^,^n_ev_flospring21_12_name^,^Haki Rabbini^
+^Co^,^Common^,^n_ev_flospring21_12_nameDetail^,^^
+^Co^,^Common^,^n_ev_flospring21_13_name^,^Nami Rabbini^
+^Co^,^Common^,^n_ev_flospring21_13_nameDetail^,^^
+^Co^,^Common^,^n_ev_flospring21_14_name^,^Zori Rabbini^
+^Co^,^Common^,^n_ev_flospring21_14_nameDetail^,^^
+^Co^,^Common^,^n_ev_flospring21_15_name^,^Saji Rabbini^
+^Co^,^Common^,^n_ev_flospring21_15_nameDetail^,^^
+^Co^,^Common^,^n_ev_flospring21_16_name^,^Phranki Rabbini^
+^Co^,^Common^,^n_ev_flospring21_16_nameDetail^,^^
+^Co^,^Common^,^n_ev_flospring21_17_name^,^Loofi Rabbini^
+^Co^,^Common^,^n_ev_flospring21_17_nameDetail^,^^
+^Co^,^Common^,^n_ev_summer21_01_name^,^Six^
+^Co^,^Common^,^n_ev_summer21_01_nameDetail^,^Anniversary Festivities Leader^
+^Co^,^Common^,^n_sk01_1_0001_name^,^Order Knight of the Sky God^
+^Co^,^Common^,^n_sk01_1_0002_name^,^Order Knight of the Sky God^
+^Co^,^Common^,^n_sk01_1_0003_name^,^Order Knight of the Sky God^
+^Co^,^Common^,^n_sk01_1_0004_name^,^Sky God's Supper Table^
+^Co^,^Common^,^n_sk01_1_0005_name^,^Knight^
+^Co^,^Common^,^n_e01_0_0006_0001_name^,^Jose Rabbini^
+^Co^,^Common^,^n_e01_0_0006_0001_nameDetail^,^Mecha Logistics Inventor^
+^Co^,^Common^,^n_e01_0_0006_0002_name^,^Gabriel Rabbini^
+^Co^,^Common^,^n_e01_0_0006_0002_nameDetail^,^Inventions QA Engineer^
+^Co^,^Common^,^n_e01_0_0006_0003_name^,^Carefree Rabbini^
+^Co^,^Common^,^n_e01_0_0006_0004_name^,^Mecha Enthusiast Rabbini^
+^Co^,^Common^,^n_e01_0_0006_0005_name^,^Exuberant Rabbini^
+^Co^,^Common^,^n_e01_0_0006_0006_name^,^Motivated Rabbini^
+^Co^,^Common^,^n_e01_0_0006_0007_name^,^Mecha Collector Rabbini^
+^Co^,^Common^,^n_e01_0_0006_0008_name^,^Sporty Rabbini^
+^Co^,^Common^,^n_e01_0_0006_0009_name^,^MachiNeko Type-01^
+^Co^,^Common^,^n_e01_0_0006_0010_name^,^MachiNeko Type-02^
+^Co^,^Common^,^n_e01_0_0006_0011_name^,^MachiNeko Type-03^
+^Co^,^Common^,^n_ev_fishda_01_name^,^Levi Athan^
+^Co^,^Common^,^n_ev_fishda_01_nameDetail^,^Gustling Isle Adventurer^
+^Co^,^Common^,^n_ev_fishda_02_name^,^Levi Athan^
+^Co^,^Common^,^n_ev_fishda_02_nameDetail^,^Gustling Isle Adventurer^
+^Co^,^Common^,^n_ev_fishda_03_name^,^Levi Athan^
+^Co^,^Common^,^n_ev_fishda_03_nameDetail^,^Gustling Isle Adventurer^
+^Co^,^Common^,^n_ev_famtamer21_01_name^,^Dr. Myt o' Kondria^
+^Co^,^Common^,^n_ev_famtamer21_01_nameDetail^,^Familiar Physiologist and Taming Specialist^
+^Co^,^Common^,^n_ev_autumn21_01_name^,^The Reaper Man^
+^Co^,^Common^,^n_ev_autumn21_01_nameDetail^,^The Harbinger of Lost Souls^
+^Co^,^Common^,^n_ev_hallow2021_01_name^,^Sir Bon The Headless^
+^Co^,^Common^,^n_ev_hallow2021_01_nameDetail^,^The Fright of Midellas^
+^Co^,^Common^,^n_ev_bfriday21_01_name^,^Jess the Garnering Rabbini^
+^Co^,^Common^,^n_ev_bfriday21_01_nameDetail^,^Lady of the Harvest Moon^
+^Co^,^Common^,^e_funnyfriend_03_name^,^Funny's Party People^
+^Co^,^Common^,^e_funnyfriend_03_nameDetail^,^^
+^Co^,^Common^,^n_ev_ghostrab_01_name^,^Ghost of Ellandfel Past^
+^Co^,^Common^,^n_ev_ghostrab_01_nameDetail^,^Ellandfel's Chosen^
+^Co^,^Common^,^n_ev_xmas21_01_name^,^Rabbini in Disguise^
+^Co^,^Common^,^n_ev_xmas21_01_nameDetail^,^Bunny-in-disguise^
+^Co^,^Common^,^n_ev_hiden_01_name^,^Sneaky MeWo [Heartless Skeleton]^
+^Co^,^Common^,^n_ev_hiden_01_nameDetail^,^A Heartless Skeleton^
+^Co^,^Common^,^n_ev_dragev_001_name^,^Astra^
+^Co^,^Common^,^n_ev_dragev_001_nameDetail^,^The Aspiring Dragon Tamer^
+^Co^,^Common^,^n_ev_lunarts_01_name^,^Lovely Valerie^
+^Co^,^Common^,^n_ev_lunarts_01_nameDetail^,^Hakain's Sweetheart^
+^Co^,^Common^,^n_ev_lunarts_02_name^,^Caleum^
+^Co^,^Common^,^n_ev_lunarts_02_nameDetail^,^Lovely Man?^
+^Co^,^Common^,^n_ev_sea_2203_01_name^,^Bee^
+^Co^,^Common^,^n_ev_sea_2203_01_description^,^Bumblebee Poyo^
+^Co^,^Common^,^n_ev_sea_2203_02_name^,^Cobby^
+^Co^,^Common^,^n_ev_sea_2203_02_description^,^Cobalt Poyo^
+^Co^,^Common^,^n_ev_sea_2203_03_name^,^Ruby^
+^Co^,^Common^,^n_ev_sea_2203_03_description^,^Crimson Poyo^
+^Co^,^Common^,^n_ev_feshard_01_name^,^Shirai^
+^Co^,^Common^,^n_ev_feshard_01_description^,^Fellow Shard Hobbyist^
+^Co^,^Common^,^n_ev_watrab_01_name^,^Mel Rabbini^
+^Co^,^Common^,^n_ev_watrab_01_description^,^The One that presides over Spring^
+^Co^,^Common^,^N_e01_0_2204_0008_name^,^Unpopular Rabbini^
+^Co^,^Common^,^N_e01_0_2204_0008_namedetail^,^6th Anniversary Event^
+^Co^,^Common^,^N_e01_0_2205_0001_name^,^Designer André^
+^Co^,^Common^,^N_e01_0_2205_0001_namedetail^,^Event^
+^Co^,^Common^,^n_d88_portal_001_Name^,^Gate of Choice^
+^Co^,^Common^,^n_d88_portal_002_Name^,^Gate of Choice^
+^Co^,^Common^,^n_d88_portal_003_Name^,^Gate of Choice^
+^Co^,^Common^,^n_d88_portal_004_Name^,^Gate of Choice^
+^Co^,^Common^,^n_d88_portal_005_Name^,^Gate of Choice^
+^Co^,^Common^,^n_d88_portal_006_Name^,^Gate of Choice^
+^Co^,^Common^,^n_d88_portal_007_Name^,^Dragon Statue^
+^Co^,^Common^,^n_d88_portal_008_Name^,^Dragon Statue^
+^Co^,^Common^,^n_d88_portal_009_Name^,^Dragon Statue^
+^Co^,^Common^,^n_d88_portal_010_Name^,^Dragon Statue^
+^Co^,^Common^,^n_d88_portal_011_Name^,^Burning Gate^
+^Co^,^Common^,^n_d88_portal_012_Name^,^Burning Gate^
+^Co^,^Common^,^n_d88_crow_001_name^,^Crow^
+^Co^,^Common^,^n_d88_crow_001_namedetail^,^Onyx Order Commander^
+^Co^,^Common^,^n_d88_portal_013_name^,^Dragon Statue^
+^Co^,^Common^,^n_d88_portal_013_namedetail^,^^
+^Co^,^Common^,^n_d88_portal_014_name^,^Dragon Statue^
+^Co^,^Common^,^n_d88_portal_014_namedetail^,^^
+^Co^,^Common^,^n_d88_cutwhale_01_name^,^Wounded Floating Whale^
+^Co^,^Common^,^n_d88_cutwhale_01_namedetail^,^^
+^Co^,^Common^,^n_d88_crow_002_name^,^Crow^
+^Co^,^Common^,^n_d88_crow_002_namedetail^,^Onyx Order Commander^
+^Co^,^Common^,^n_ev_feshard_01_name^,^Shirai^
+^Co^,^Common^,^n_ev_feshard_01_description^,^Fellow Shard Hobbyist^
+^Co^,^Common^,^n_ev_spring22_01_name^,^Raddi^
+^Co^,^Common^,^n_ev_spring22_01_description^,^The Spring Bruniche^
+^Co^,^Common^,^N_e01_0_2206_0001_name^,^An Old Man Folding Paper^
+^Co^,^Common^,^N_e01_0_2206_0001_namedetail^,^Event^
+^Co^,^Common^,^N_e01_0_2206_0002_name^,^An Old Man Folding Paper^
+^Co^,^Common^,^N_e01_0_2206_0002_namedetail^,^Event^
+^Co^,^Common^,^N_e01_0_2206_0003_name^,^An Old Man Folding Paper^
+^Co^,^Common^,^N_e01_0_2206_0003_namedetail^,^Event^
+^Co^,^Common^,^N_e01_0_2206_0004_name^,^An Old Man Folding Paper^
+^Co^,^Common^,^N_e01_0_2206_0004_namedetail^,^Event^
+^Co^,^Common^,^N_e01_0_2206_0005_name^,^Fade^
+^Co^,^Common^,^N_e01_0_2206_0005_namedetail^,^Event^
+^Co^,^Common^,^N_e01_0_2206_0006_name^,^Paper Rabbini^
+^Co^,^Common^,^N_e01_0_2206_0006_namedetail^,^Event^
+^Co^,^Common^,^N_e01_0_2204_0001_name^,^Troubadour Lonbo^
+^Co^,^Common^,^N_e01_0_2204_0002_name^,^Witchcraft Blugul^
+^Co^,^Common^,^N_e01_0_2204_0003_name^,^Witchcraft Gregul^
+^Co^,^Common^,^N_e01_0_2204_0004_name^,^Witchcraft Redgul^
+^Co^,^Common^,^N_e01_0_2204_0005_name^,^Game Dodge-inner^
+^Co^,^Common^,^N_e01_0_2204_0006_name^,^Twin Sisters Renia^
+^Co^,^Common^,^N_e01_0_2204_0007_name^,^Twin Sisters Ranea^
+^Co^,^Common^,^N_e01_0_2204_0009_name^,^Lucky Meow^
+^Co^,^Common^,^N_e01_0_2204_0010_name^,^Rich Meow^
+^Co^,^Common^,^N_e01_0_2204_0011_name^,^Ronfraine III^
+^Co^,^Common^,^N_e01_0_2204_0001_namedetail^,^6th Anniversary Event^
+^Co^,^Common^,^N_e01_0_2204_0002_namedetail^,^6th Anniversary Event^
+^Co^,^Common^,^N_e01_0_2204_0003_namedetail^,^6th Anniversary Event^
+^Co^,^Common^,^N_e01_0_2204_0004_namedetail^,^6th Anniversary Event^
+^Co^,^Common^,^N_e01_0_2204_0005_namedetail^,^6th Anniversary Event^
+^Co^,^Common^,^N_e01_0_2204_0006_namedetail^,^6th Anniversary Event^
+^Co^,^Common^,^N_e01_0_2204_0007_namedetail^,^6th Anniversary Event^
+^Co^,^Common^,^N_e01_0_2204_0009_namedetail^,^6th Anniversary Event^
+^Co^,^Common^,^N_e01_0_2204_0010_namedetail^,^6th Anniversary Event^
+^Co^,^Common^,^N_e01_0_2204_0011_namedetail^,^6th Anniversary Event^
+^Co^,^Common^,^N_e01_0_2208_0001_name^,^Tasty Delicious^
+^Co^,^Common^,^N_e01_0_2208_0001_namedetail^,^August Event^
+^Co^,^Common^,^N_e01_0_2208_0002_name^,^Yummy Delicious^
+^Co^,^Common^,^N_e01_0_2208_0002_namedetail^,^August Event^
+^Co^,^Common^,^N_e01_0_2207_0001_name^,^Robert^
+^Co^,^Common^,^N_e01_0_2207_0001_namedetail^,^September Event^
+^Co^,^Common^,^N_e01_0_2207_0002_name^,^Dragon of Lost Stars^
+^Co^,^Common^,^N_e01_0_2207_0002_namedetail^,^September Event^
+^Co^,^Common^,^N_e01_0_2210_0001_name^,^Production Officer^
+^Co^,^Common^,^N_e01_0_2210_0001_namedetail^,^October event^
+^Co^,^Common^,^N_e01_0_2210_0002_name^,^Combat Officer^
+^Co^,^Common^,^N_e01_0_2210_0002_namedetail^,^October event^
+^Co^,^Common^,^N_e01_0_2210_0003_name^,^Fostering Officer^
+^Co^,^Common^,^N_e01_0_2210_0003_namedetail^,^October event^
+^Co^,^Common^,^N_e01_0_2210_0004_name^,^Ghosteng^
+^Co^,^Common^,^N_e01_0_2210_0004_namedetail^,^October event^
+^Co^,^Common^,^N_e01_0_2210_0005_name^,^Halloween Grandmother^
+^Co^,^Common^,^N_e01_0_2210_0005_namedetail^,^October event^
+^Co^,^Common^,^N_sk01_1_0006_name^,^the summoned Knights^
+^Co^,^Common^,^N_e01_0_2211_0001_name^,^Alibabba^
+^Co^,^Common^,^N_e01_0_2211_0001_namedetail^,^November Event^
+^Co^,^Common^,^N_e01_0_2212_0001_name^,^Party planner Mary^
+^Co^,^Common^,^N_e01_0_2212_0001_namedetail^,^a Christmas event^
+^Co^,^Common^,^N_e01_0_2212_0002_name^,^The twins, Yeti and Mao^
+^Co^,^Common^,^N_e01_0_2212_0002_namedetail^,^a Christmas event^
+^Co^,^Common^,^N_e01_0_2212_0003_name^,^The twins, Yeti and Tio^
+^Co^,^Common^,^N_e01_0_2212_0003_namedetail^,^a Christmas event^
+^Co^,^Common^,^N_e01_0_2212_0004_name^,^a milk cow^
+^Co^,^Common^,^N_e01_0_2212_0004_namedetail^,^a Christmas event^
+^Co^,^Common^,^N_e01_0_2301_0001_name^,^Bunny Researcher Kelly^
+^Co^,^Common^,^N_e01_0_2301_0001_namedetail^,^January Event^
+^Co^,^Common^,^N_e01_0_2301_0002_name^,^Tteok Balls^
+^Co^,^Common^,^N_e01_0_2301_0002_namedetail^,^January Event^
+^Co^,^Common^,^N_e01_0_2301_0003_name^,^Rice Baby Pearl^
+^Co^,^Common^,^N_e01_0_2301_0003_namedetail^,^January Event^
+^Co^,^Common^,^N_e01_0_2301_0004_name^,^Peach Baby Pearl^
+^Co^,^Common^,^N_e01_0_2301_0004_namedetail^,^January Event^
+^Co^,^Common^,^N_e01_0_2301_0005_name^,^Herb Baby Pearl^
+^Co^,^Common^,^N_e01_0_2301_0005_namedetail^,^January Event^
+^Co^,^Common^,^N_e01_0_2301_0006_name^,^Blueberry Baby Pearl^
+^Co^,^Common^,^N_e01_0_2301_0006_namedetail^,^January Event^
+^Co^,^Common^,^N_e01_0_2301_0007_name^,^Rice Jumbo Pearl ^
+^Co^,^Common^,^N_e01_0_2301_0007_namedetail^,^January Event^
+^Co^,^Common^,^N_e01_0_2301_0008_name^,^Peach Jumbo Pearl^
+^Co^,^Common^,^N_e01_0_2301_0008_namedetail^,^January Event^
+^Co^,^Common^,^N_e01_0_2301_0009_name^,^Herb Jumbo Pearl^
+^Co^,^Common^,^N_e01_0_2301_0009_namedetail^,^January Event^
+^Co^,^Common^,^N_e01_0_2301_0010_name^,^Blueberry Jumbo Pearl^
+^Co^,^Common^,^N_e01_0_2301_0010_namedetail^,^January Event^
+^Co^,^Common^,^n_d89_portal_001_Name^,^Gate of Choice^
+^Co^,^Common^,^n_d89_portal_002_Name^,^Gate of Choice^
+^Co^,^Common^,^n_d89_portal_003_Name^,^Gate of Choice^
+^Co^,^Common^,^n_d89_portal_004_Name^,^Gate of Choice^
+^Co^,^Common^,^n_d89_portal_005_Name^,^Gate of Choice^
+^Co^,^Common^,^n_d89_portal_006_Name^,^Gate of Choice^
+^Co^,^Common^,^n_d89_portal_007_Name^,^Dragon Statue^
+^Co^,^Common^,^n_d89_portal_008_Name^,^Dragon Statue^
+^Co^,^Common^,^n_d89_portal_009_Name^,^Dragon Statue^
+^Co^,^Common^,^n_d89_portal_010_Name^,^Dragon Statue^
+^Co^,^Common^,^n_d89_portal_011_Name^,^Burning Gate^
+^Co^,^Common^,^n_d89_portal_012_Name^,^Burning Gate^
+^Co^,^Common^,^n_d89_crow_001_name^,^Crow^
+^Co^,^Common^,^n_d89_crow_001_namedetail^,^Onyx Order Commander^
+^Co^,^Common^,^n_d89_portal_013_name^,^Dragon Statue^
+^Co^,^Common^,^n_d89_portal_013_namedetail^,^^
+^Co^,^Common^,^n_d89_portal_014_name^,^Dragon Statue^
+^Co^,^Common^,^n_d89_portal_014_namedetail^,^^
+^Co^,^Common^,^n_d89_cutwhale_01_name^,^Wounded Floating Whale^
+^Co^,^Common^,^n_d89_cutwhale_01_namedetail^,^^
+^Co^,^Common^,^n_d89_crow_002_name^,^Crow^
+^Co^,^Common^,^n_d89_crow_002_namedetail^,^Onyx Order Commander^
+^Co^,^Common^,^n_d89_portal_015_Name^,^Dragon Statue^
+^Co^,^Common^,^n_d89_board_01_name^,^Draconians' Hideout_Cross-Server Board^
+^Co^,^Common^,^n_d89_board_01_namedetail^,^^
+^Co^,^Common^,^N_e01_0_2302_0001_name^,^Jack, The Memory Collector^
+^Co^,^Common^,^N_e01_0_2302_0001_namedetail^,^February Event^
+^Co^,^Common^,^N_e01_0_2302_0002_name^,^Aseop^
+^Co^,^Common^,^N_e01_0_2302_0002_namedetail^,^February Event^
+^Co^,^Common^,^N_e01_0_2302_0003_name^,^Nell, Lost Her memory^
+^Co^,^Common^,^N_e01_0_2302_0003_namedetail^,^February Event^

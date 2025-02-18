@@ -1,0 +1,644 @@
+t_type,t_typename,t_key,t_eng
+^Co^,^Common^,^getitemruleunique^,^Unique^
+^Co^,^Common^,^ui_autolooting_Unique^,^Loot Unique+^
+^Co^,^Common^,^quick_request_mentor^,^Request Mentor^
+^Co^,^Common^,^quick_invite_mentee^,^Invite Protege^
+^Co^,^Common^,^ui_tab_friendlist_mentoring^,^Mentoring^
+^Co^,^Common^,^ui_title_mentoring_invite_mentee^,^Invite Protege^
+^Co^,^Common^,^ui_title_mentoring_request_mentor^,^Request Mentor^
+^Co^,^Common^,^ui_title_mentoring_reward^,^Mentoring Reward^
+^Co^,^Common^,^ui_desc_mentoring_invite_mentee^,^Enter the name of the protege to invite.^
+^Co^,^Common^,^ui_desc_mentoring_request_mentor^,^Enter the name of the mentor to request.^
+^Co^,^Common^,^ui_desc_release_mentoring^,^When you end a mentoring relationship, you can't establish new mentoring relationships for 24 hours.<br>Do you really want to end the mentoring relationship?^
+^Co^,^Common^,^ui_desc_mentoring_request_graduate^,^You achieved the level required for graduation.<br>Do you want to ask your mentor to graduate?<br><br><G_Y>(Graduation requests can't be undone, and if the mentor doesn't approve it within 3 days, the mentoring relationship will be automatically terminated.)</G_Y>^
+^Co^,^Common^,^ui_mentoring_person^,^Name^
+^Co^,^Common^,^ui_mentoring_level_reward_label^,^Level-up Reward^
+^Co^,^Common^,^ui_mentoring_mentee_reward_label^,^Protege Reward^
+^Co^,^Common^,^ui_mentoring_mentor_reward_label^,^Mentor Reward^
+^Co^,^Common^,^ui_mentoring_buff_reward_label^,^Buff Reward^
+^Co^,^Common^,^ui_mentoring_move_label^,^Convenient Mobility Function^
+^Co^,^Common^,^ui_mentoring_reward_desc^,^When you establish a mentoring relationship, you get special perks.^
+^Co^,^Common^,^ui_mentoring_level_reward_desc1^,^When a protege can earn special rewards by achieving levels 20, 30, 40, 50, 55, and 60.^
+^Co^,^Common^,^ui_mentoring_level_reward_desc2^,^Once a protege achieves a specific level, rewards are sent to Ellora's Storage. (Unclaimed items will disappear after 7 days.)^
+^Co^,^Common^,^ui_mentoring_buff_reward_desc^,^When the mentor and protege both log in at the same time, a buff is applied. (Mentors receive better buffs when more proteges are logged in.)^
+^Co^,^Common^,^ui_mentoring_move_desc^,^Characters that have established mentoring relationships can summon the other without consuming elluns.^
+^Co^,^Common^,^ui_mentoring_graduation_label^,^Graduation.^
+^Co^,^Common^,^ui_mentoring_mentee_buff_label^,^Protege Buff.^
+^Co^,^Common^,^ui_mentoring_mentor_buff_label^,^Mentor Buff.^
+^Co^,^Common^,^shop_tab_alsas^,^Alsas^
+^Co^,^Common^,^shop_tab_telio^,^Teleo^
+^Co^,^Common^,^ui_arena_grade_table_info^,^View Rank Info Window^
+^Co^,^Common^,^ui_arena_no_record^,^No Record^
+^Co^,^Common^,^ui_arena_rank^,^Rank Order^
+^Co^,^Common^,^ui_gameoption_fishingmsg_onoff^,^Display Extra Large Fish Acquisition Messages^
+^Co^,^Common^,^ui_tooltip_set_fishingmsg_onoff^,^When someone else reels in an Extra Large Fish, a message will be displayed in the Chat Log.^
+^Co^,^Common^,^FeBuff015^,^Turimnan Journey Begins^
+^Co^,^Common^,^FeBuff016^,^Fit as a Fiddle^
+^Co^,^Common^,^FeBuff017^,^Guiding Light^
+^Co^,^Common^,^FeBuff018^,^Astronomical Intelligence^
+^Co^,^Common^,^FeBuff019^,^Astronomical Strength^
+^Co^,^Common^,^FeBuff015desc^,^Taming Chance +5%, Obtained Character EXP +10% (2 Hour)^
+^Co^,^Common^,^FeBuff016desc^,^Health absorption chance +3%, Health absorption efficiency +1%, Health +10% (2 Hour)^
+^Co^,^Common^,^FeBuff017desc^,^Overall Attack +15%, Overall Defense +15% (2 Hour)^
+^Co^,^Common^,^FeBuff018desc^,^Overall Attack +15%, Intelligence +150 (2 Hour)^
+^Co^,^Common^,^FeBuff019desc^,^Overall Attack +15%, Strength +150 (2 Hour)^
+^Co^,^Common^,^FeBuff015_desc^,^Turimnan Debuff Immunity (2 Hour)^
+^Co^,^Common^,^FeBuff016_desc^,^Health absorption chance +3%, Health absorption efficiency +1%, Health +10% (2 Hour)^
+^Co^,^Common^,^FeBuff017_desc^,^Overall Attack +15%, Overall Defense +15% (2 Hour)^
+^Co^,^Common^,^FeBuff018_desc^,^Overall Attack +15%, Intelligence +150 (2 Hour)^
+^Co^,^Common^,^FeBuff019_desc^,^Overall Attack +15%, Strength +150 (2 Hour)^
+^Co^,^Common^,^ui_partyboard_list_hidetext^,^The list is not displayed when a Ranked Match is in session.^
+^Co^,^Common^,^ui_mentoring_mentor^,^Mentor^
+^Co^,^Common^,^ui_mentoring_mentee^,^Protege^
+^Co^,^Common^,^ui_friendlist_friendlist_relation^,^Relationship^
+^Co^,^Common^,^ui_graduate_mentee^,^Graduated Protege^
+^Co^,^Common^,^ui_possess_mentee^,^Current Proteges^
+^Co^,^Common^,^ui_mentoring_reward_btn^,^Rewards^
+^Co^,^Common^,^ui_mentoring_graduation_btn^,^Request Graduation^
+^Co^,^Common^,^ui_last_login^,^Latest Login^
+^Co^,^Common^,^ui_gameoption_requestmentoring_msg_onoff^,^Display Mentoring Requests^
+^Co^,^Common^,^ui_tooltip_set_requestmentoring_msg_onoff^,^When selected, displays the mentoring request messages you receive in your chat window.^
+^Co^,^Common^,^ui_title_mentoring_manage^,^Mentoring Management^
+^Co^,^Common^,^ui_mentee_manage^,^Mentoring Management^
+^Co^,^Common^,^ui_mentor_manage^,^Mentoring Management^
+^Co^,^Common^,^ui_mentee_guide_title^,^Protege Guide^
+^Co^,^Common^,^ui_mentor_guide_title^,^Mentor Guide^
+^Co^,^Common^,^ui_mentee_guide_desc^,^1. You can only have one mentor.
+2. When you end a mentoring relationship, you must wait 24 hours before you can request another.
+3. The accept/request waiting list can be checked from the Mentoring Management window.
+4. You can find mentors more easily by using the Recommended Mentors function.
+5. Level-up rewards are sent to Ellora's Storage.
+6. Cross-Server characters can't use mentoring-related functions.^
+^Co^,^Common^,^ui_mentor_guide_desc^,^1. You can have up to 3 proteges.
+2. When you end a mentoring relationship, you must wait 24 hours before you can request another.
+3. The accept/request pending list can be checked from the Mentoring Management window.
+4. You can find proteges more easily by using the Recommended Proteges function.
+5. Level-up rewards are sent to Ellora's Storage.
+6. Cross-Servers characters can't use mentoring-related functions.^
+^Co^,^Common^,^ui_desc_mentoring_approve_graduation^,^Do you want to approve your protege's graduation?<br><br><G_Y>(The mentoring relationship will be terminated.)</G_Y>^
+^Co^,^Common^,^ui_tab_mentoring_recommend_mentor^,^Recommended Mentors^
+^Co^,^Common^,^ui_tab_mentoring_recommend_mentee^,^Recommended Proteges^
+^Co^,^Common^,^ui_accept_hold_on^,^Approval Pending^
+^Co^,^Common^,^ui_request_hold_on^,^Request Pending^
+^Co^,^Common^,^ui_mentoring_refresh_btn^,^Refresh^
+^Co^,^Common^,^ui_hours_ago^,^<UI_G>hour(s) before</UI_G>^
+^Co^,^Common^,^ui_minutes_ago^,^<UI_G>minute(s) before</UI_G>^
+^Co^,^Common^,^ui_mentoring_request_cancel^,^Cancel Request^
+^Co^,^Common^,^ui_graduaion_hold_on^,^Graduation Pending^
+^Co^,^Common^,^ui_btn_graduation_ok^,^Approve Graduation^
+^Co^,^Common^,^remain_approve_time^,^Time Left for Approval^
+^Co^,^Common^,^ui_succes_appraisal^,^Success^
+^Co^,^Common^,^ui_failure_appraisal^,^Failed^
+^Co^,^Common^,^ui_desc_mentoring_request_summon^,^Do you want to request a summons?^
+^Co^,^Common^,^ui_title_arena_lobby_move^,^Move Battlefield^
+^Co^,^Common^,^ui_tab_mentoring_release^,^Terminate Mentoring^
+^Co^,^Common^,^ui_tab_mentoring_suggest_graduation^,^Approve Graduation^
+^Co^,^Common^,^ui_mentoring_guide_title^,^Mentoring Guide^
+^Co^,^Common^,^ui_mentoring_guide_desc^,^You can use the mentoring system beginning at Lv. 10.^
+^Co^,^Common^,^ui_title_mentoring_request_graduate^,^Request Graduation^
+^Co^,^Common^,^na_premium^,^Premium^
+^Co^,^Common^,^ui_cashshop_listdesc_na_premium^,^Premium Service can be purchased in this shop.^
+^Co^,^Common^,^ui_aprecovery_premiumservice^,^Premium Free Recovery^
+^Co^,^Common^,^ui_premium_move_inventory^,^This item cannot be refunded once it is moved to your inventory.<br>Premium Service items are also used automatically when they are moved to your inventory.<br>Do you want to continue?^
+^Co^,^Common^,^premiumservice_remaintime^,^Premium Service Time Left^
+^Co^,^Common^,^dailysupplies_remaintime^,^If you've already received elluns, you can get more after 04:00 AM the following day.^
+^Co^,^Common^,^premiumservice_title^,^Premium Service Perks^
+^Co^,^Common^,^premiumservice_active^,^ 1. 5 Spins at the Premium Roulette per day; 1 spin will be given every 30 minutes.
+ 2. A Premium Buff
+   Overall Attack +10%
+   Overall Defense +10%
+   Health +10%
+   Rare Drop Chance +20%
+   Obtained Character EXP +30%
+ 3. Special Premium Title
+ 4. Transit Shrine Pass^
+^Co^,^Common^,^premiumservice_deactive^,^You are not using the Premium Service.<br><Y_Y>Click the icon to go to the Premium Service purchasing screen.</Y_Y>^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_default^,^Event Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_gmpayment^,^Event Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_gmevent^,^Event Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_timeevent^,^Log-in Event Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_pccafepayment^,^Log-in Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_coupon^,^Website Coupon Entry Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_achievementsreward^,^Achievement Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_levelup^,^Level-up Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_mentoringlevelup^,^Mentoring Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_fellowfarmcoin^,^Familiar Farm Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_mapItempayemnt^,^Entry Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_infiniteranking^,^Ellora's Spire Ranking Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_pkranking^,^Duel Ranking Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_battlefieldranking^,^Battlefield Ranking Reward^
+^Co^,^Common^,^ui_tooltip_rankarena_desc^,^When selected, you can move to the Battlefield Lobby.<br>You can't use this in the Battlefield Lobby.^
+^Co^,^Common^,^shop_tab_box_magician^,^Magician^
+^Co^,^Common^,^ui_lobbycharcreate_explain_origin_magician_1^,^The Magician draws on the chaos within herself, using her ancient magical knowledge to transform it into powerful energy. Once gathered, she uses it to restrain her unlucky foes and unleashes a devastating attack.^
+^Co^,^Common^,^ui_lobbycharcreate_explain_difficulty_magician^,^Her chaotic nature, an internal struggle between light and ruin, fuels her ability to restrain and damage enemies. Only adventurers possessing great strength of will can hope to balance and wield such awesome power for extended battles.^
+^Co^,^Common^,^ui_customize_class_magician^,^Magician^
+^Co^,^Common^,^lobby_createmagician_btn^,^Magician Pre-creation^
+^Co^,^Common^,^ui_premium_dailysupplies_remaintime_desc^,^ <O_Y>Elluns are destroyed if you don't claim them before the end of day reset time, and perks can be used during the time of service.</O_Y>^
+^Co^,^Common^,^ui_mentoring_guide_integration_title^,^Mentoring Guide^
+^Co^,^Common^,^ui_mentoring_guide_integration_desc^,^1. Functions related to the mentoring system can't be used on Cross-Servers (Dungeon, Lobby).
+2. When mentors/proteges are both on a Cross-Server, a mentoring buff is applied.^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_ruby^,^Ellun Product Purchase^
+^Co^,^Common^,^ui_mentoring_notice_desc^,^You have a mentoring request.<br>Do you want to check it right now?^
+^Co^,^Common^,^ui_fellowgrow_finish_pccoingold^,^Do you want to retrieve your familiar?<br>You can pay the retrieval fee in gold.^
+^Co^,^Common^,^ui_fellowgrow_finish_pccoinrubygold^,^Do you want to retrieve your familiar?<br>You can pay the retrieval fee with gold or elluns.^
+^Co^,^Common^,^ui_fellowgrow_pcroombtn^,^Coin Retrieval^
+^Co^,^Common^,^ui_cash100418^,^Pmang Cash^
+^Co^,^Common^,^ui_fellowlist_evolve^,^Evolution^
+^Co^,^Common^,^ui_btn_fellow_evolve^,^Evolve^
+^Co^,^Common^,^ui_btn_fellow_reevolve^,^Re-evolve^
+^Co^,^Common^,^ui_fellow_evlove_addfellow^,^Register a familiar you would like to evolve.^
+^Co^,^Common^,^ui_fellow_evlovelist_btn_notice^,^Familiars that can be evolved can be checked<br>using the button at the top.^
+^Co^,^Common^,^ui_fellow_evlove_success^,^The evolution was successful.^
+^Co^,^Common^,^ui_fellow_evlove_fail^,^The evolution failed.^
+^Co^,^Common^,^ui_fellow_evlove_grade^,^Evolution Rank^
+^Co^,^Common^,^ui_fellow_evlove_cost^,^Evolution Cost^
+^Co^,^Common^,^ui_fellow_evlove_fail_warning^,^Some familiars will be destroyed if the evolution fails.^
+^Co^,^Common^,^ui_fellow_evlove_ruby_protect^,^Reduce the chances of some materials being destroyed.^
+^Co^,^Common^,^ui_fellow_evolve_possible^,^Evolvable Familiars^
+^Co^,^Common^,^ui_fellow_evolve_info^,^Evolution Details^
+^Co^,^Common^,^ui_fellow_evolve_detail_desc^,^You can check Evolution details by clicking on the familiar's icon.^
+^Co^,^Common^,^ui_fellow_evolve_acquire^,^Obtain Familiar^
+^Co^,^Common^,^ui_fellow_evolve_maxlevel^,^Maximum Level^
+^Co^,^Common^,^ui_fellow_evolve_cant_evolve_desc^,^Evolution is not possible for this rank.^
+^Co^,^Common^,^fellow_cash^,^Common Familiar^
+^Co^,^Common^,^fellow_c01^,^Familiar Mount^
+^Co^,^Common^,^ui_fellow_evolve_impossible^,^Evolution is not possible for this rank.^
+^Co^,^Common^,^ui_fellow_evlove_ruby_protect_desc^,^When evolution using elluns fails, only a maximum of 1 familiar will be destroyed.^
+^Co^,^Common^,^ui_leftcard_open_enable^,^Available to Open Count^
+^Co^,^Common^,^ui_mulrandom_more^,^Draw One More Time^
+^Co^,^Common^,^ui_mulrandom_close^,^Close^
+^Co^,^Common^,^ui_mulrandom_auto^,^Auto-select^
+^Co^,^Common^,^ui_item_grow^,^Item Smithy^
+^Co^,^Common^,^ui_levelup_btn_ok^,^Level-up^
+^Co^,^Common^,^ui_levelup_Btn_mass_enrollment^,^Batch Register^
+^Co^,^Common^,^all_item_grade^,^All^
+^Co^,^Common^,^hero_item_grade^,^Below Heroic^
+^Co^,^Common^,^rare_item_grade^,^Below Elite^
+^Co^,^Common^,^normal_item_grade^,^Below Normal^
+^Co^,^Common^,^ui_item_levelup_desc^,^Insert the equipment you want to level-up.<br><font color="#8d9a8e">The higher the equipment level is, the more the performance will improve.</font>^
+^Co^,^Common^,^ui_item_reinforce^,^Tempering Equipment^
+^Co^,^Common^,^ui_select_reinforcestone^,^Please select a Tempering Stone.^
+^Co^,^Common^,^ui_target_item_max_level^,^It has reached maximum Tempering.^
+^Co^,^Common^,^ui_insert_target_item^,^Please insert the target item.^
+^Co^,^Common^,^ui_renew_reinforce_btnok^,^Tempering Equipment^
+^Co^,^Common^,^ui_premium_cant_move_inventory^,^You cannot claim more than<br>2 Premium Service items at one time.^
+^Co^,^Common^,^ui_ancient_skill^,^Weapon Awakening Skill^
+^Co^,^Common^,^ui_clear_floor2^,^Hastan Training Grounds Highest Room Cleared^
+^Co^,^Common^,^ui_infinite_ranking_clear_floor2^,^The clearing standard is eliminating the key monsters.^
+^Co^,^Common^,^ui_infinitetower_result_title^,^Ellora's Spire Results^
+^Co^,^Common^,^ui_hastantraing_result_title^,^Hastan Training Grounds Results^
+^Co^,^Common^,^pet_c01^,^Pet - Common^
+^Co^,^Common^,^ui_gameoption_item_sysmsg^,^Displays Item Acquisition Messages^
+^Co^,^Common^,^ui_gameoption_fellow_sysmsg^,^Displays Familiar Taming Messages^
+^Co^,^Common^,^ui_itemcompose_title^,^Equipment Fusion^
+^Co^,^Common^,^ui_itemcompose_gold_title^,^Cost^
+^Co^,^Common^,^ui_itemcompose_insert_mainslot^,^Please insert the primary materials.^
+^Co^,^Common^,^ui_itemcompose_insert_subslot^,^Please insert additional materials.^
+^Co^,^Common^,^ui_composeinfodesc_desc^,^The Temper values and attribute categories remain the same for the primary materials.^
+^Co^,^Common^,^ui_title_itemcompose^,^Acquired Item^
+^Co^,^Common^,^ui_option_count^,^Attribute Count^
+^Co^,^Common^,^ui_slot_count^,^Slot Count^
+^Co^,^Common^,^ui_item_count^,^Count^
+^Co^,^Common^,^ui_itemreforge_title^,^Refine Equipment^
+^Co^,^Common^,^ui_itemreforge_gold_title^,^Cost^
+^Co^,^Common^,^ui_itemreforge_insert_mainslot^,^Please insert the primary materials.^
+^Co^,^Common^,^ui_itemreforge_insert_subslot^,^Please insert additional materials.^
+^Co^,^Common^,^ui_reforgeinfodesc_desc^,^The Temper values and attribute categories remain the same for the primary materials.^
+^Co^,^Common^,^ui_title_itemreforge^,^Acquired Item^
+^Co^,^Common^,^uncommon_item_grade^,^Below Rare^
+^Co^,^Common^,^ui_item_gradeup_title^,^Item Upgrade^
+^Co^,^Common^,^ui_item_gradeup_desc^,^Insert the equipment to upgrade.<br><font color="#8d9a8e">You can improve your chances to het a high-quality item by using an Upgrade Stone.</font>^
+^Co^,^Common^,^ui_item_gradeup_sub_desc^,^Weapon Upgrade Stone^
+^Co^,^Common^,^item_gradeup_result^,^Upgrade Results^
+^Co^,^Common^,^item_gradeup^,^Upgrade^
+^Co^,^Common^,^random_option_count^,^Attribute Count^
+^Co^,^Common^,^sealed_fellow_slot_count^,^Seal Stone Slot^
+^Co^,^Common^,^ui_grade_up_ok^,^Upgrade^
+^Co^,^Common^,^ui_reinforce_needgold^,^Cost^
+^Co^,^Common^,^ui_reinforce_destroy^,^DESTROY^
+^Co^,^Common^,^ui_reinforce_reset^,^RESET^
+^Co^,^Common^,^ui_reinforce_fail^,^FAIL^
+^Co^,^Common^,^ui_reinforce_succeess^,^SUCCESS^
+^Co^,^Common^,^ui_reinforce_successrate^,^Chance of Success^
+^Co^,^Common^,^ui_game_systemmessage^,^Full Screen Message^
+^Co^,^Common^,^getitemruleuncommon^,^Rare^
+^Co^,^Common^,^ui_rare^,^Above Rare^
+^Co^,^Common^,^ui_uncommon^,^Above Rare^
+^Co^,^Common^,^ui_hero^,^Above Heroic^
+^Co^,^Common^,^ui_legend^,^Above Legendary^
+^Co^,^Common^,^ui_itemgrow_btn_tooltip_levelup^,^Level-up^
+^Co^,^Common^,^ui_itemgrow_btn_tooltip_compose^,^Fusion^
+^Co^,^Common^,^ui_itemgrow_btn_tooltip_gradeup^,^Upgrade^
+^Co^,^Common^,^ui_itemgrow_btn_tooltip_reinforce^,^Temper^
+^Co^,^Common^,^ui_itemgrow_btn_tooltip_reforge^,^Refine^
+^Co^,^Common^,^ui_itemgrow_levelup_enchantlevel_subitem^,^If you use this item as material, the item will be consumed. Do you want to continue?^
+^Co^,^Common^,^ui_item_levelup_title^,^Item Level-up^
+^Co^,^Common^,^ui_need_cost^,^Cost^
+^Co^,^Common^,^ui_tooltip_itemcompose_title^,^Fusion^
+^Co^,^Common^,^ui_tooltip_itemreforge_title^,^Refine^
+^Co^,^Common^,^ui_tooltip_itemcompose_desc^,^When fusing, you can acquire a higher-ranked item.^
+^Co^,^Common^,^ui_tooltip_itemreforge_desc^,^When refining, you can acquire an item of the same rank.^
+^Co^,^Common^,^ui_reinforce_successrate_perfect^,^1^
+^Co^,^Common^,^ui_reinforce_successrate_zero^,^0^
+^Co^,^Common^,^ui_itemgrow_level^,^Lv^
+^Co^,^Common^,^ui_itemgrow_max^,^Max^
+^Co^,^Common^,^ui_pccafe^,^PC Café^
+^Co^,^Common^,^ui_using_roulette^,^Spinning the Roulette^
+^Co^,^Common^,^ui_time_remaining_until_next_ticket^,^Time Until Next Ticket^
+^Co^,^Common^,^ui_remaining_ticket^,^Remaining Ticket(s)^
+^Co^,^Common^,^ui_start^,^Spin^
+^Co^,^Common^,^ui_title_roulette^,^Roulette^
+^Co^,^Common^,^ui_tooltip_pccafe_item^,^^
+^Co^,^Common^,^ui_title_roulette_desc^,^Premium Service Feature^
+^Co^,^Common^,^ui_premiumbox_disable^,^^
+^Co^,^Common^,^ui_premiumbox_enable^,^^
+^Co^,^Common^,^ui_tooltip_pccafe_item_disable^,^^
+^Co^,^Common^,^ui_pccafe_only^,^^
+^Co^,^Common^,^ui_tooltip_ruolette^,^The roulette is spinning.<br>Do you want to exit?^
+^Co^,^Common^,^shop_tab_box_coin^,^Coin Exchange^
+^Co^,^Common^,^ui_gameoption_shortcut_fellowpccafeslot_1^,^^
+^Co^,^Common^,^ui_gameoption_shortcut_fellowpccafeslot_2^,^^
+^Co^,^Common^,^ui_gameoption_shortcut_fellowpccafeslot_3^,^^
+^Co^,^Common^,^ui_shortcut_fellowpccafeslot^,^^
+^Co^,^Common^,^ui_pccafe_roulette_close_msg^,^^
+^Co^,^Common^,^ui_tooltip_help_url_open^,^^
+^Co^,^Common^,^ui_gameoption_shortcut_basicquickslot_25^,^Basic Slot 25^
+^Co^,^Common^,^ui_gameoption_shortcut_basicquickslot_26^,^Basic Slot 26^
+^Co^,^Common^,^ui_gameoption_shortcut_basicquickslot_27^,^Basic Slot 27^
+^Co^,^Common^,^ui_gameoption_shortcut_basicquickslot_28^,^Basic Slot 28^
+^Co^,^Common^,^ui_gameoption_shortcut_basicquickslot_29^,^Basic Slot 29^
+^Co^,^Common^,^ui_gameoption_shortcut_basicquickslot_30^,^Basic Slot 30^
+^Co^,^Common^,^ui_gameoption_shortcut_basicquickslot_31^,^Basic Slot 31^
+^Co^,^Common^,^ui_gameoption_shortcut_basicquickslot_32^,^Basic Slot 32^
+^Co^,^Common^,^ui_gameoption_shortcut_extendquickslot_13^,^Expanded Slot 13^
+^Co^,^Common^,^ui_gameoption_shortcut_extendquickslot_14^,^Expanded Slot 14^
+^Co^,^Common^,^ui_gameoption_shortcut_extendquickslot_15^,^Expanded Slot 15^
+^Co^,^Common^,^ui_gameoption_shortcut_extendquickslot_16^,^Expanded Slot 16^
+^Co^,^Common^,^ui_gamemenu_game_option^,^Game Settings^
+^Co^,^Common^,^ui_meter^,^m^
+^Co^,^Common^,^ui_gameoption_actionmode_normal^,^Normal Mode^
+^Co^,^Common^,^ui_tooltip_action_normalmode^,^Control the cursor independently from the camera for a traditional MMO experience.^
+^Co^,^Common^,^ui_gameoption_actionmode_action^,^Action Mode^
+^Co^,^Common^,^ui_tooltip_action_actionmode^,^Enables free look and crosshairs for an action RPG experience.^
+^Co^,^Common^,^ui_gameoption_actionmode_no_fixtarget^,^Action Crosshair Mode^
+^Co^,^Common^,^ui_tooltip_action_actionmode_no_fixtarget^,^Enables crosshairs control during battle.^
+^Co^,^Common^,^ui_game_keycontrol^,^Control Mode^
+^Co^,^Common^,^ui_title_action_select^,^Select Control Mode^
+^Co^,^Common^,^ui_title_normalmode^,^Standard Mode^
+^Co^,^Common^,^ui_title_actionmode^,^Action Mode^
+^Co^,^Common^,^ui_normalmode_explain^,^Choose a target with your cursor and trigger skills with your hotkeys for a traditional MMORPG experience.^
+^Co^,^Common^,^ui_actionmode_explain^,^Enables free look and crosshairs for an action-driven control mode. Use the mouse buttons or hotkeys to cast skills.^
+^Co^,^Common^,^ui_recommend_class^,^Recommended Classes^
+^Co^,^Common^,^ui_btn_normal_selection^,^Select Standard Mode^
+^Co^,^Common^,^ui_btn_action_selection^,^Select Action Mode^
+^Co^,^Common^,^ui_mode_change_explain^,^You can change your control mode at any time in the settings.^
+^Co^,^Common^,^ui_lobby_title_movielist^,^Icarus Trailers^
+^Co^,^Common^,^ui_lobby_btn_movielist^,^Trailers^
+^Co^,^Common^,^ui_btn_shuffle^,^Reshuffle^
+^Co^,^Common^,^ui_rbox_shuffle_msg^,^Do you want to reshuffle?^
+^Co^,^Common^,^ui_timeevent_title^,^Special Daily Rewards! Don't miss out!^
+^Co^,^Common^,^ui_timeevent_desc^,^Be sure to get your Check-in and Vital Box Rewards every day!^
+^Co^,^Common^,^ui_logout_nextday^,^Tomorrow's Log-in Reward^
+^Co^,^Common^,^ui_logout_today^,^Today's Log-in Reward^
+^Co^,^Common^,^ui_tooltip_attendance_title^,^Check-in Reward^
+^Co^,^Common^,^ui_tooltip_vitality_title^,^Vital Reward^
+^Co^,^Common^,^ui_tooltip_special_attendance_title^,^Special Check-in Reward^
+^Co^,^Common^,^ui_gamemenu_daily_achievement^,^Achievement (Hotkey: [ )^
+^Co^,^Common^,^ui_gameoption_community_chatemotion^,^Use Chat Emotion^
+^Co^,^Common^,^ui_tooltip_set_chatemotion^,^When selected, typing certain words into the chat window will cause your character to exhibit a corresponding emotion.^
+^Co^,^Common^,^tooltip_title_movielist_1^,^2014 OBT Launch Trailer^
+^Co^,^Common^,^tooltip_time_movielist_1^,^2 min 20 sec^
+^Co^,^Common^,^tooltip_desc_movielist_1^,^The fight against Salant and all he stands for is an epic journey to save Princess Lania and the kingdom of Hakanas.^
+^Co^,^Common^,^tooltip_title_movielist_2^,^Familiars of Hakanas^
+^Co^,^Common^,^tooltip_time_movielist_2^,^1 min 27 sec^
+^Co^,^Common^,^tooltip_desc_movielist_2^,^The adventurer's companion is found in all shapes and sizes, but the unique bond formed between owner and familiar is the most impressive of all.^
+^Co^,^Common^,^tooltip_title_movielist_3^,^Legendary Titan Combat^
+^Co^,^Common^,^tooltip_time_movielist_3^,^1 min 19 sec^
+^Co^,^Common^,^tooltip_desc_movielist_3^,^The battle against the God of Ruin's most formidable creations, the titans, is the ultimate test of a hero's strength and will to overcome darkness!^
+^Co^,^Common^,^tooltip_title_movielist_4^,^Large-Scale PvP Battles^
+^Co^,^Common^,^tooltip_time_movielist_4^,^1 min 31 sec^
+^Co^,^Common^,^tooltip_desc_movielist_4^,^PvP combat demands heroes of the highest caliber with sharply-honed skills and a will to conquer that rivals the titans themselves.^
+^Co^,^Common^,^tooltip_title_movielist_5^,^Unrivaled Aerial Combat^
+^Co^,^Common^,^tooltip_time_movielist_5^,^1 min 1 sec^
+^Co^,^Common^,^tooltip_desc_movielist_5^,^The excitement of aerial combat offers adventurers a unique opportunity to defend Hakanas. Mounts that range from breathtaking to terrifying are a hero's ultimate fighting companion.^
+^Co^,^Common^,^tooltip_title_movielist_6^,^Battle in the Cloying Wastes!^
+^Co^,^Common^,^tooltip_time_movielist_6^,^0 min 51 sec^
+^Co^,^Common^,^tooltip_desc_movielist_6^,^Engage in a fierce battle with the Fallen Legion! Combat will reach epic proportions when Sandstorm unleashes his mighty power!^
+^Co^,^Common^,^ui_cg_gauge_text_before_awaken^,^When you achieve Lv. 70 and complete the Hero's Calling quest, the transformation gauge will be activated, and you will be able to cast Evolution Awakening.^
+^Co^,^Common^,^ui_cg_gauge_text_after_awaken^,^You can use energy in the gauge to cast Evolution Awakening for Transformation. During the Awakening, you'll be able to use combo skills for each class. The gauge restores 2 every 5 seconds upon a successful hit.^
+^Co^,^Common^,^ui_customize_itemgroup_muscle^,^Muscles^
+^Co^,^Common^,^muscle^,^Muscles^
+^Co^,^Common^,^ui_gameoption_shortcut_combat_14^,^Evolution Awakening Skill^
+^Co^,^Common^,^ui_awakenskill_edittitle^,^Evolution Awakening Skill Slot^
+^Co^,^Common^,^ui_label_option_shortcutkey_actionmode^,^Toggling Control Modes^
+^Co^,^Common^,^ui_tooltip_set_autoskillcontrol^,^When selected, you will automatically cast a normal attack on a target after using a skill.<UI_G>This does not apply to all skills.</UI_G>^
+^Co^,^Common^,^ui_gameoption_camera_dialogeffect^,^Dialogue Zoom^
+^Co^,^Common^,^ui_tooltip_set_dislogeffect^,^When selected, the camera's perspective shifts to a first-person view during conversations.^
+^Co^,^Common^,^ui_guild_appoint_knight^,^Appointed Knights^
+^Co^,^Common^,^ui_guild_appoint_dismissal^,^Appoint/Dismiss^
+^Co^,^Common^,^ui_tab_guildknight^,^Knights^
+^Co^,^Common^,^ui_appoint^,^Appoint^
+^Co^,^Common^,^ui_dismissal^,^Dismiss^
+^Co^,^Common^,^ui_character_server_move_state^,^You are changing servers.^
+^Co^,^Common^,^ui_title_server_change^,^Change Server^
+^Co^,^Common^,^shop_tab_other_item^,^Misc Items^
+^Co^,^Common^,^shop_tab_golden_bass^,^Golden Bass Shop^
+^Co^,^Common^,^shop_tab_roulette^,^Roulette^
+^Co^,^Common^,^shop_tab_ica^,^Icarian Day of Celebration^
+^Co^,^Common^,^ui_arena_killinfo^,^Battlefield Kill Info^
+^Co^,^Common^,^ui_tab_guildmasterskill^,^Guild Leader Skill^
+^Co^,^Common^,^ui_cost^,^Cost^
+^Co^,^Common^,^ui_guildranking_title^,^Guild Rank^
+^Co^,^Common^,^ui_spotbattle_penalty_msg^,^You registered for the previous siege but<br>did not participate. Therefore, you've suffered a <font color="#b28a0e">penalty</font>.<br><font color="#b28a0e">You cannot participate in this siege.</font>^
+^Co^,^Common^,^ui_spotbattle_can_not_apply_msg^,^You cannot register for the siege due to the following reasons.<br><font color="#b28a0e">- Less than 5 knights</font><br><font color="#b28a0e">- Reached the max number of guilds that can register (30)</font>^
+^Co^,^Common^,^shop_tab_temain^,^Temmajin^
+^Co^,^Common^,^ui_enter^,^Enter^
+^Co^,^Common^,^ui_not_occupied_guild^,^No Occupied Guild^
+^Co^,^Common^,^Spot_f02_001^,^Kellwoods Base^
+^Co^,^Common^,^Spot_f02_002^,^Foothills Base^
+^Co^,^Common^,^Spot_f02_003^,^Dragon Base^
+^Co^,^Common^,^Spot_f02_004^,^Zadaran Base^
+^Co^,^Common^,^Spot_f02_005^,^Sansupus Base^
+^Co^,^Common^,^Post_f02_101^,^Kellwoods Farms^
+^Co^,^Common^,^Post_f02_102^,^Morineh Lake^
+^Co^,^Common^,^Post_f02_103^,^The Guardian Dragon's Pass^
+^Co^,^Common^,^Post_f02_201^,^Cemetery^
+^Co^,^Common^,^Post_f02_202^,^Foothills^
+^Co^,^Common^,^Post_f02_203^,^Miller's Hill^
+^Co^,^Common^,^Post_f02_301^,^Divinity Shore^
+^Co^,^Common^,^Post_f02_302^,^Divinity Shore Fishery^
+^Co^,^Common^,^Post_f02_303^,^Broken Caldera^
+^Co^,^Common^,^Post_f02_401^,^Zadaran^
+^Co^,^Common^,^Post_f02_402^,^Zadaran Camp^
+^Co^,^Common^,^Post_f02_403^,^Gilded Woods^
+^Co^,^Common^,^Post_f02_501^,^Sansupus Ranch^
+^Co^,^Common^,^Post_f02_502^,^Forlorn Ruins^
+^Co^,^Common^,^Post_f02_503^,^Morineh Lake^
+^Co^,^Common^,^ui_under attack^,^Under Attack^
+^Co^,^Common^,^ui_title_fellowinfo_and_ranking^,^Familiar & Rank^
+^Co^,^Common^,^dungeon_grade_info^,^Dungeon Info^
+^Co^,^Common^,^dungeon_recommand_info^,^Recommended Use^
+^Co^,^Common^,^dungeon_grade_recommand_equip^,^Recommended Equipment^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_spotbattleapplication^,^Siege Participation Reward^
+^Co^,^Common^,^ui_ousidestorage_reward_sub_spotbattleoccupy^,^Siege Occupation Reward^
+^Co^,^Common^,^shop_tab_temain_recipe^,^Temmajin Recipe^
+^Co^,^Common^,^shop_tab_alsas_recipe^,^Alsacian Recipe^
+^Co^,^Common^,^shop_tab_exchange_40^,^Reach Lv. 40^
+^Co^,^Common^,^shop_tab_exchange_50^,^Reach Lv. 50^
+^Co^,^Common^,^shop_tab_exchange_60^,^Reach Lv. 60^
+^Co^,^Common^,^spotbattle_information_1^,^<font color="#ff0000">* Even though you register, if you don't participate, you can't claim this reward.<br>(Rewards: Check the siege icon on the left)</font><br><br>^
+^Co^,^Common^,^spotbattle_information_2^,^1. Registration Period: Once a siege ends, you have up to 1 hour before the next siege begins.<br>^
+^Co^,^Common^,^spotbattle_information_3^,^2. Location: Hakanas Highlands PvP Channel<br>^
+^Co^,^Common^,^spotbattle_information_4^,^3. Max Participating Guilds: 30<br>^
+^Co^,^Common^,^spotbattle_information_5^,^4. Registration Requirement: A guild with 5-10 knights<br>^
+^Co^,^Common^,^spotbattle_information_6^,^5. <font color="#ffff00">Victory Conditions</font><br> 5-1. Occupy at least 2 Manastones within one base by the end of the siege.<br> 5-2. If the above condition is not met, victory will be awarded to the side with the highest cumulative occupation time.<br>^
+^Co^,^Common^,^spotbattle_information_7^,^<font color="#ffff00">* Cumulative Occupation Time</font>: This is the time that is accumulated when the Manastone is occupied for each base.<br>(The sum is in proportion to the number of Manastones occupied within the base.)<br><br>^
+^Co^,^Common^,^spotbattle_information_8^,^<font color="#ffff00">Tip. Forming a raid with other knights is highly recommended!</font><br>^
+^Co^,^Common^,^spotbattle_information_9^,^  <br>^
+^Co^,^Common^,^spotbattle_information_10^,^  <br>^
+^Co^,^Common^,^ui_spotbattle_observer^,^In Spectator Mode^
+^Co^,^Common^,^shop_tab_token^,^Sunlight Token^
+^Co^,^Common^,^shop_tab_gold^,^Gold^
+^Co^,^Common^,^ui_order^,^Order^
+^Co^,^Common^,^ui_guildrangking_noresult^,^No results.^
+^Co^,^Common^,^ui_gameoption_shortcut_party_6^,^Target Party Member 5^
+^Co^,^Common^,^ui_gameoption_shortcut_party_7^,^Target Party Member 6^
+^Co^,^Common^,^ui_gameoption_shortcut_party_8^,^Target Party Member 7^
+^Co^,^Common^,^ui_gameoption_shortcut_party_9^,^Target Party Member 8^
+^Co^,^Common^,^ui_gameoption_shortcut_party_10^,^Target Party Member 9^
+^Co^,^Common^,^ui_equip_sealedfellow_succession^,^Inherit Equipped Seal Stone^
+^Co^,^Common^,^ui_sealedfellow_succession^,^Inherited Seal Stone^
+^Co^,^Common^,^ui_charnamechange_title^,^Disclaimer^
+^Co^,^Common^,^ui_charnamechange_textline^,^1. The character name displayed on crafted items before the name change will still display the name that was used at the time of crafting.
+2. Changing character names will be be unavailable for a period of <Y_Y>two (2) months</Y_Y> after using the service.
+3. The character name you had before the change <Y_Y>cannot be used for two (2) months</Y_Y>.
+4. <R_Y>Your character will be moved to the lobby when you request a character name change.</R_Y>^
+^Co^,^Common^,^ui_charnamechange_description^,^Please enter the name you would like to change to.^
+^Co^,^Common^,^ui_charnamechange_wintitle^,^Change Character Name^
+^Co^,^Common^,^ui_charnamechange_btn_duplication^,^Verify^
+^Co^,^Common^,^ui_charnamechange_btn_change^,^Okay^
+^Co^,^Common^,^shop_tab_ancient^,^Zelnaris^
+^Co^,^Common^,^shop_tab_shop_tab_ancientrecipe^,^Zelnaris Recipe^
+^Co^,^Common^,^ui_spotbattle_minimap_timer_description^,^<R_Y>The status time is updated every 5 minutes.</R_Y>^
+^Co^,^Common^,^shop_tab_shop_tab_ancientrecipe2^,^Cold Blooded Recipe^
+^Co^,^Common^,^ui_apply^,^Accept^
+^Co^,^Common^,^ui_refuse^,^Decline^
+^Co^,^Common^,^ui_guild_promote_type_normal^,^Common^
+^Co^,^Common^,^ui_guild_promote_type_pvp^,^PvP^
+^Co^,^Common^,^ui_guild_promote_type_pve^,^PvE^
+^Co^,^Common^,^ui_guild_promote_type_friendship^,^Social^
+^Co^,^Common^,^ui_guild_promote_type_all^,^All^
+^Co^,^Common^,^ui_title_guild_join_apply^,^Submit Application^
+^Co^,^Common^,^ui_title_guild_join_cancel^,^Cancel Application^
+^Co^,^Common^,^ui_title_guild_promote^,^Promote Guild^
+^Co^,^Common^,^ui_title_guild_promote_delete^,^Delete Post^
+^Co^,^Common^,^ui_guild_join_manager^,^Manage Applications^
+^Co^,^Common^,^ui_guild_join_stand^,^Suspend Applications^
+^Co^,^Common^,^ui_title_guild_comunity^,^Guild Community^
+^Co^,^Common^,^ui_guild_promote_detail_info^,^Details^
+^Co^,^Common^,^ui_guild_promote_initilize_notify^,^You can apply to a guild through a guild's promotional post.^
+^Co^,^Common^,^ui_btn_guild_notice_regist^,^Submit Post^
+^Co^,^Common^,^ui_btn_guild_notice_delete^,^Delete Post^
+^Co^,^Common^,^ui_all_knight_summon^,^Summon All Knights^
+^Co^,^Common^,^ui_all_knight_summon_request^,^Request Summons for All Knights^
+^Co^,^Common^,^ui_btn_guild_join_apply^,^Submit Post^
+^Co^,^Common^,^ui_btn_request_guild_join^,^Submit Application^
+^Co^,^Common^,^ui_achievements_spotbattle^,^Siege^
+^Co^,^Common^,^ui_sealedfellow_succession_check_tooltip^,^Selecting this will allow the Seal Stone in the material equipment to be inherited. (Soul Crystal cannot be inherited.)<br>There's a separate fee to inherit the Seal Stone.^
+^Co^,^Common^,^ui_spot_reward_0_0^,^MacBain Coin x7<br>Salant's Magic Fragment x7<br>Destructive Manastone x6<br>Honorable Medallion (2 Day)<br>Kellwoods Mine Entry Pass x3<br><br>^
+^Co^,^Common^,^ui_spot_reward_0_1^,^<font color="#ff0000">Base Occupation Benefits</font><br><font color="#ffff00">Benefits for All Occupying Guild Members</font><br>Usable Town: Kellwoods<br>Usable NPC: Yunggir<br>^
+^Co^,^Common^,^ui_spot_reward_0_2^,^Usable Mine: Kellwoods Mine<br>^
+^Co^,^Common^,^ui_spot_reward_1_0^,^MacBain Coin x5<br>Salant's Magic Fragment x4<br>Destructive Manastone x4<br>Roaring Mine Entry Pass x3<br><br>^
+^Co^,^Common^,^ui_spot_reward_1_1^,^<font color="#ff0000">Base Occupation Benefits</font><br><font color="#ffff00">Benefits for All Occupying Guild Members</font><br>Usable Town: Foothills Camp<br>Usable NPC: Kyusan<br>^
+^Co^,^Common^,^ui_spot_reward_1_2^,^Usable Mine: Roaring Mine<br>^
+^Co^,^Common^,^ui_spot_reward_2_0^,^MacBain Coin x5<br>Salant's Magic Fragment x4<br>Destructive Manastone x4<br>Zadaran Mine Entry Pass x3<br><br>^
+^Co^,^Common^,^ui_spot_reward_2_1^,^<font color="#ff0000">Base Occupation Benefits</font><br><font color="#ffff00">Benefits for All Occupying Guild Members</font><br>Usable Town: Zadaran Camp<br>Usable NPC: Henjins<br>^
+^Co^,^Common^,^ui_spot_reward_2_2^,^Usable Mine: Zadaran Mine<br>^
+^Co^,^Common^,^ui_occupied^,^Occupied^
+^Co^,^Common^,^ui_participation_tooltip^,^Given to knights that participated in the siege.<br><R_Y>Even though you registered, if you didn't participate, you can't claim this.</R_Y>^
+^Co^,^Common^,^ui_spotbattle_start_time^,^Siege Start Time^
+^Co^,^Common^,^ui_day_of_the_week^,^Day^
+^Co^,^Common^,^ui_occupy_success^,^Occupation Success^
+^Co^,^Common^,^ui_guild_occupy^,^Guild Occupation^
+^Co^,^Common^,^ui_no_occupy^,^Unoccupied Territory^
+^Co^,^Common^,^ui_score^,^Point^
+^Co^,^Common^,^shop_tab_Newrecipe^,^New Recipe^
+^Co^,^Common^,^ui_fellow_soul_charge^,^Attach Soul^
+^Co^,^Common^,^ui_fellow_soul_charge_title^,^Convert Energy^
+^Co^,^Common^,^shop_tab_newitem^,^New Item^
+^Co^,^Common^,^ui_guild_joinlist_whisper^,^Whisper^
+^Co^,^Common^,^ui_guildranking_point^,^<UI_Y>How to Acquire</UI_Y><br>1. Hunt a monster that suits the guild member's level.<br>2. Level-up a guild member.<br>3. Participate in a siege.<br><br><UI_Y>Honor Points will be reset to 0 every 1st day of the month.</UI_Y>^
+^Co^,^Common^,^ui_guild_auto_join_apply^,^Accept Auto-registration^
+^Co^,^Common^,^ui_tooltip_need_tamingitem^,^Condition 1^
+^Co^,^Common^,^ui_tooltip_state_taminghp^,^Condition 2^
+^Co^,^Common^,^ui_tooltip_state_taminghp_desc^,^Below Taming Possible ^
+^Co^,^Common^,^ui_tooltip_cant_taming^,^Unable to tame^
+^Co^,^Common^,^ui_fellow_soul_charge_pack_btn^,^Charge^
+^Co^,^Common^,^ui_fellow_soul_charge_weapon_btn^,^Equip Weapon^
+^Co^,^Common^,^ui_fellow_soul_charge_auto_title^,^Auto Equip Weapon^
+^Co^,^Common^,^ui_fellow_soul_charge_pack_desc^,^This will upgrade the compressed pack. Do you want to continue?^
+^Co^,^Common^,^ui_fellow_soul_charge_autolevel_0^,^Soul Stage 0^
+^Co^,^Common^,^ui_fellow_soul_charge_autolevel_1^,^Soul Stage 1^
+^Co^,^Common^,^ui_fellow_soul_charge_autolevel_2^,^Soul Stage 2^
+^Co^,^Common^,^ui_fellow_soul_charge_autolevel_3^,^Soul Stage 3^
+^Co^,^Common^,^ui_fellow_soul_charge_autolevel_4^,^Soul Stage 4^
+^Co^,^Common^,^ui_fellow_soul_charge_autolevel_5^,^Soul Stage 5^
+^Co^,^Common^,^ui_fellow_soul_charge_reinforce_warning_desc^,^You've selected a +6 Familiar Seal Stone. Do you want to continue?^
+^Co^,^Common^,^ui_fellow_soul_charge_weapon_desc^,^Currently Equipped Item^
+^Co^,^Common^,^ui_tooltip_hp_state^,^Health^
+^Co^,^Common^,^ui_fellow_soul_charge_helper_btn^,^Help^
+^Co^,^Common^,^ui_quickslot_soulcharge_edittitle^,^Familiar Sealed Bomb^
+^Co^,^Common^,^ui_hours^,^hours^
+^Co^,^Common^,^ui_minutes^,^minutes^
+^Co^,^Common^,^ui_seconds^,^seconds^
+^Co^,^Common^,^Hydra_type^,^Hydra^
+^Co^,^Common^,^ui_title_auto_open^,^Multi-item Usage^
+^Co^,^Common^,^shop_tab_tw1^,^Untameable Familiar^
+^Co^,^Common^,^shop_tab_tw2^,^Tameable Familiar^
+^Co^,^Common^,^shop_tab_tw3^,^Equipment^
+^Co^,^Common^,^shop_tab_tw4^,^Weapons^
+^Co^,^Common^,^shop_tab_tw5^,^Special^
+^Co^,^Common^,^Spiroon_type^,^Spiroon^
+^Co^,^Common^,^ui_roulettebutton^,^Premium Service Roulette^
+^Co^,^Common^,^ui_premium_roulette_close_msg^,^The roulette is spinning.<br>Do you want to exit?^
+^Co^,^Common^,^ui_guildranking_point_title^,^Honor Points^
+^Co^,^Common^,^ui_spotbattlemap_name^,^Hakanas Highlands PvP^
+^Co^,^Common^,^ui_spotbattle_liveinfo^,^Manastone Invasion Status^
+^Co^,^Common^,^ui_renewal_information^,^Renewal Guide^
+^Co^,^Common^,^ui_Guild_Month_Ranking^,^Monthly Ranking^
+^Co^,^Common^,^ui_guildranking_monthresettext^,^Guild Ranking is reset on the 1st of each month.^
+^Co^,^Common^,^ui_googleotp^,^Google OTP^
+^Co^,^Common^,^ui_trycount^,^ Attempts^
+^Co^,^Common^,^ui_difficulty^,^Difficulty Level^
+^Co^,^Common^,^ui_expand_view_on^,^View Information^
+^Co^,^Common^,^ui_expand_view_off^,^Hide Information^
+^Co^,^Common^,^ui_sealedfellow_expand_view_title^,^View Seal Stone Information^
+^Co^,^Common^,^ui_sealedfellow_expand_view_tooltip^,^Hide/View Seal Stone Options^
+^Co^,^Common^,^ui_setoption_expand_view_title^,^View Set Options^
+^Co^,^Common^,^ui_setoption_expand_view_tooltip^,^Hide/View Set Options^
+^Co^,^Common^,^ui_comparison_expand_view_title^,^View Equipment Comparison^
+^Co^,^Common^,^ui_comparison_expand_view_tooltip^,^Hide/View Equipment Comparison Window^
+^Co^,^Common^,^ui_ancient_skill_lv^,^Level^
+^Co^,^Common^,^ui_dragonhideout_result_title^,^Draconians' Hideout Results^
+^Co^,^Common^,^ui_infinitetower_out_msg^,^Whole party members will get out of dungeon, and dugeon will disappear. Do you really want to get out of the dungeon?^
+^Co^,^Common^,^shop_tab_icarusgem^,^Icarus Jewel^
+^Co^,^Common^,^shop_tab_ruby^,^Ellun Merchandise^
+^Co^,^Common^,^ui_red^,^Red^
+^Co^,^Common^,^ui_green^,^Green^
+^Co^,^Common^,^ui_orange^,^Orange^
+^Co^,^Common^,^ui_yellow^,^Yellow^
+^Co^,^Common^,^ui_purple^,^Purple^
+^Co^,^Common^,^ui_blue^,^Blue^
+^Co^,^Common^,^captcha_judge_auto^,^Notice Of absence^
+^Co^,^Common^,^ui_Autogather_auto_title^,^Lucid Stone Auto Mining^
+^Co^,^Common^,^action_tooltip_lucid_0001^,^Mine Lucid Stone^
+^Co^,^Common^,^Ui_LucidExchange_title^,^RANIA exchanges^
+^Co^,^Common^,^ExchangeRate^,^Exchange ratio^
+^Co^,^Common^,^ui_CoinHave^,^RANIA you have^
+^Co^,^Common^,^ui_LucidHave^,^Lucid Stone you have^
+^Co^,^Common^,^ui_lobby_title_nftexchange^,^RANIA Exchanges^
+^Co^,^Common^,^refreshtext ^,^Wallet Refresh^
+^Co^,^Common^,^mytokencount^,^MY RANIA^
+^Co^,^Common^,^exchangenoticetext^,^Please link the WEMIX Wallet.<br>You need to work with WEMIX Wallet.^
+^Co^,^Common^,^exchangeratio^,^Exchange ratio^
+^Co^,^Common^,^totokenexchanghing^,^When RANIA exchanging^
+^Co^,^Common^,^tolucidestoneexchanghing^,^When Princess Coin exchanging^
+^Co^,^Common^,^ui_token_exchange^,^Exchange to RANIA^
+^Co^,^Common^,^ui_lucidstone_exchange^,^Exchange to Princess Coin^
+^Co^,^Common^,^tokenexchangecountnoticetext^,^The daily limitation of RANIA trade quantity is 1,000,000 for each server.^
+^Co^,^Common^,^lucidstoneexchangecountnoticetext^,^There is no limit to the request for a Princess Coin exchange.^
+^Co^,^Common^,^ui_nftexchangetotokentitle^,^Exchange to RANIA^
+^Co^,^Common^,^ui_nftexchangetotokentext^,^Do you really want to exchange?^
+^Co^,^Common^,^ui_nftexchangetolucidstonetitle^,^Exchange to Lucid Stone^
+^Co^,^Common^,^ui_nftexchangetolucidstonetext^,^Do you really want to exchange?^
+^Co^,^Common^,^ui_nft_msg_success^,^Processing succeeded normally.^
+^Co^,^Common^,^ui_nft_msg_connectwallet^,^Please link the WEMIX Wallet.^
+^Co^,^Common^,^ui_nft_msg_cancle^,^Canceled^
+^Co^,^Common^,^ui_nft_msg_systemerror^,^Processing failed^
+^Co^,^Common^,^ui_nft_msg_ned_token^,^Your goods are not enough.^
+^Co^,^Common^,^ui_nft_msg_ned_lucidstone^,^Your Lucid Stones are not enough.^
+^Co^,^Common^,^ui_lobby_title_nftstore^,^RANIA STORE^
+^Co^,^Common^,^totalusercounttext^,^Hello, Account owner!^
+^Co^,^Common^,^ui_totaltext^,^Total^
+^Co^,^Common^,^ui_nft_exchange^,^Go exchanges^
+^Co^,^Common^,^ui_nft_storage^,^RANIA^
+^Co^,^Common^,^ui_nftbutton_tooltip^,^RANIA Exchanges^
+^Co^,^Common^,^ui_lucidstone_inventory^,^Treasure Pocket^
+^Co^,^Common^,^ui_AutoGather_auto_title^,^Notice of Auto Mining^
+^Co^,^Common^,^ui_AutoGather_auto_msg^,^Choose your mining method^
+^Co^,^Common^,^ui_AutoGather_auto^,^Auto^
+^Co^,^Common^,^ui_AutoGather_manual^,^Manual^
+^Co^,^Common^,^ui_policy_title^,^NFT Policy^
+^Co^,^Common^,^ui_termsofservice_1^,^Any item based on NFT (Non-Fungible Token) may be modified through the patch for the balance of the in-game economy by the Company and any compensation related with the value of the modified item shall not be allowed.^
+^Co^,^Common^,^ui_termsofservice_2^,^Any item based on NFT (Non-Fungible Token) shall exist even after the game service is terminated or expired. However, the item can't be used in the game and any compensation for not using it in the game shall not be allowed.^
+^Co^,^Common^,^spotbattle_information_11^,^When you win the spot battle, you will earn additional Lucid Stone as a reward.^
+^Co^,^Common^,^spotbattle_information_12^,^Depending on the base you take over, the proportion of lucid stone reward will be changed. ( Kellwoods Base 3% / Foothills Base 1% / Zadaran Base 1% )^
+^Co^,^Common^,^spotbattle_information_13^,^The guild master can receive more Lucide Stone if the master participate in the spot battle.^
+^Co^,^Common^,^spotbattle_information_14^,^Guild knights of the spot battle can receive lucid stone the reward by the number of bases they have earned control.^
+^Co^,^Common^,^spotbattle_information_15^,^Guild members who are online at the end of the spot battle will receive the reward based on the result of the Spot Battle.^
+^Co^,^Common^,^spotbattle_information_16^,^Try to earn various rewards on participating guilds, participating members, and total participants!^
+^Co^,^Common^,^ui_token_exchange_retry^,^Retry QR Code Certified^
+^Co^,^Common^,^ui_token_exchange_cancle^,^Exchange Cancel^
+^Co^,^Common^,^ui_coin_exchange_retry^,^Retry QR Code Certified^
+^Co^,^Common^,^ui_coin_exchange_cancle^,^Exchange Cancel^
+^Co^,^Common^,^ui_cashshop_ownlucidstone^,^Princess Coin^
+^Co^,^Common^,^ui_raniastore_enter^,^RANIA Store^
+^Co^,^Common^,^ui_token_exchange_max_count_text^,^RIA changes per day^
+^Co^,^Common^,^ui_token_server_exchange_max_count_text^,^RIA changes per server^
+^Co^,^Common^,^ui_servergroup_sea^,^Southeast Asia^
+^Co^,^Common^,^ui_servicetransfer_msg_title^,^Transfer Application^
+^Co^,^Common^,^ui_servicetransfer_msg_success^,^Success to account transfer process. Please check account is transferred successfully to the VFUN account.^
+^Co^,^Common^,^ui_servicetransfer_msg_fail^,^Failure to account transfer process. Please check and try again.^
+^Co^,^Common^,^ui_go_homepage^,^Go to VFUN Site^
+^Co^,^Common^,^ui_servicetransfer_textline_title^,^Transfer Application^
+^Co^,^Common^,^ui_servicetransfer_textline_1^,^When applying for an account transfer, you must register on the VFUN homepage, and do NOT create characters in the VFUN account.^
+^Co^,^Common^,^ui_servicetransfer_textline_2^,^The transfer application will proceed with every regular maintenance, and cancellation is possible only for CS.^
+^Co^,^Common^,^ui_servicetransfer_textline_3^,^After the transfer process, account recovery to the STEAM account is NOT allowed.^
+^Co^,^Common^,^ui_servicetransfer_textline_4^,^After the transfer process to VFUN, you have to create the new character after logging in to STEAM.^
+^Co^,^Common^,^ui_servicetransfer_vfunaccount_text^,^Please fill out your VFUN account data below.^
+^Co^,^Common^,^ui_lobby_btn_servicetransfer^,^Transfer STEAM^
+^Co^,^Common^,^ui_nft_msg_cancel_cannotcancel^,^The transaction has entered a processing state and cannot be canceled.^
+^Co^,^Common^,^ui_infinitetower_out_msg^,^All party members move out of the dungeon and the dungeon is destroyed. Would you like to leave the dungeon?^
+^Co^,^Common^,^ui_servicetransfer_check_msg_title^,^Transfer Application^
+^Co^,^Common^,^ui_servicetransfer_check_msg_text^,^Would you like to proceed with the account transfer? After the transfer, the characters in the STEAM account will be dependent on the VFUN account you entered.^
+^Co^,^Common^,^ui_nft_msg_fail^,^The transaction failed due to unknown reasons.^
+^Co^,^Common^,^shop_tab_ribini_exchange3^,^Rabbini Coin^
+^Co^,^Common^,^ui_qualityup_requestinfo^,^Please set myth equipment to improve quality​.
+The materials you will need are below.​
+normal -> high need Essence of Quality Improvement: High
+high-> very high need Essence of Quality Improvement: Very high
+Only mythical tempered equipment with level 11 or higher ^
+^Co^,^Common^,^ui_SuccessPercent_success^,^success^
+^Co^,^Common^,^ui_SuccessPercent_high^,^high^
+^Co^,^Common^,^ui_SuccessPercent_middle^,^muddle^
+^Co^,^Common^,^ui_SuccessPercent_low^,^low^
+^Co^,^Common^,^ui_SuccessPercent_impossible^,^impossible^
+^Co^,^Common^,^ui_Reset^,^Reset^
+^Co^,^Common^,^ui_tooltip_item_buffcount_info^,^<UI_Y>Total number of item buffs currently in effect<UI_Y>^
+^Co^,^Common^,^ui_tooltip_player_buffcount_info^,^<UI_Y>Total number of skill buffs currently in effect<UI_Y>^
+^Co^,^Common^,^ui_tooltip_set_buffopacitylevel^,^You can adjust the transparency of the buff icon (if 100%, the buff icon will not be output)^
+^Co^,^Common^,^ui_bufficon_opacity^,^Buff icon opacity^
+^Co^,^Common^,^ui_tooltip_qualityup_mtl^,^Essence of Quality Improvement^
+^Co^,^Common^,^comm_advan_item_name^,^Proceeding^
+^Co^,^Common^,^ui_tooltip_qualityup_main_equipment^,^quality improvement equipment^
+^Co^,^Common^,^IN_F96_Range_Skin3_name^,^Fence Upgrade III^
+^Co^,^Common^,^IN_F96_Range_Skin3_Description0^,^Upgrade Effect^
+^Co^,^Common^,^IN_F96_Range_Skin3_Description1^,^Crafting Chance of Success +5%^
+^Co^,^Common^,^IN_F96_Fence_Skin3_name^,^Corral Upgrade III^
+^Co^,^Common^,^IN_F96_Fence_Skin3_Description0^,^Upgrade Effect^
+^Co^,^Common^,^IN_F96_Fence_Skin3_Description1^,^10 Additional Familiar Herds^
+^Co^,^Common^,^IN_F96_Fence_Skin3_Description3^,^(Includes herds from Corral Upgrade I and Upgrade II.)^
+^Co^,^Common^,^IN_F96_Fac_Skin3_name^,^Workshop Upgrade III^
+^Co^,^Common^,^IN_F96_Fac_Skin3_Description0^,^Upgrade Effect^
+^Co^,^Common^,^IN_F96_Fac_Skin3_Description1^,^Triumphant Crafting Chance +15% at Familiar Farm^
+^Co^,^Common^,^IN_F96_Shed_Skin3_name^,^Stable Upgrade III^
+^Co^,^Common^,^IN_F96_Shed_Skin3_Description0^,^Upgrade Effect^
+^Co^,^Common^,^IN_F96_Shed_Skin3_Description1^,^While logged in: Familiar Fostering EXP +150%^
+^Co^,^Common^,^ui_tab_auction_buy_Pco^,^Purchase (Pco)^
+^Co^,^Common^,^ui_tab_auction_sell_Pco^,^Sell (Pco)^
+^Co^,^Common^,^calculate_Pco^,^Transactions (Pco)^
+^Co^,^Common^,^ui_auction_msg_oversellpco^,^Maximum value cannot be exceeded.^
+^Co^,^Common^,^ui_auction_msg_lesssellpco^,^Cannot be less than the minimum value.^
+^Co^,^Common^,^ui_dungeon_pcopopup_title^,^Entry Confirmation^
+^Co^,^Common^,^shop_preview_text_zoom^,^You can preview the appearance of the familiar by left click.^
+^Co^,^Common^,^shop_preview_text_rotate^,^Drag the mouse to see the appearance of the familiar<br>from various angles.^

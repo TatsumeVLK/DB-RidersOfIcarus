@@ -1,0 +1,518 @@
+t_key,t_koreanorg,t_jpn,t_chinese,t_korean,t_eng_2,t_eng_3
+^dialog_1210076_Title^,^일등 항해사 길로트<오르카 호>^,^!!^,^^,^First Mate Gilotte <HST Orca>^,^^,^^
+^dialog_1210076_text0^,^치메르님께 연락을 받았습니다. 라니아 공주님의 일은... 참 안타깝습니다... 하지만 분명 방법이 있을 겁니다!<br><br>엘로라의 성역까지는 제가 빠르게 모시겠습니다! 희망을 잃지 마십시오!^,^!!^,^^,^Chimer told me to expect you. I know the route to Ellora Sanctuary like the back of my hand. If you want to save the day, come with me!^,^^,^^
+^dialog_1210076_answer_2_text^,^엘로라의 성역으로 떠나기^,^^,^^,^Depart for Ellora Sanctuary^,^^,^^
+^dialog_1210077_Title^,^선장 다윈<하카나스 비행선 선장>^,^^,^^,^Captain Dallwynn^,^^,^^
+^dialog_1210077_text0^,^나는 영예로운 하카나스 왕국 소속 비행선 선장 다윈이라고 하오.<br>왕국의 엄명을 받고 이곳에 왔다오.<br><br>아주 막중한 일이라 내 친히 이곳까지 온 것이라오. 헌데 장로 소식은 아직도 소식이 없구려.^,^^,^^,^Captain Dallwynn of the royal sky titan fleet, at your service. The king asked me to keep an eye on things. Strange tHat I haven't heard any news of the elder, though...^,^^,^^
+^dialog_1210078_Title^,^일등 항해사 길로트<오르카 호>^,^^,^^,^First Mate Gilotte <HST Orca>^,^^,^^
+^dialog_1210078_text0^,^엘로라의 성역을 여러 번 항해했지만, 참으로 신비하고 아름다운 곳이라는 생각이 듭니다.<br>지금은 혼돈에 물들어 그 빛이 많이 퇴색된 것 같군요. 참으로 안타까운 일입니다.^,^^,^^,^Ellora Sanctuary is as mysterious as it is beautiful. But it seems dimmer now somehow. This must be the doing of the chaos elves...^,^^,^^
+^dialog_1210079_Title^,^메그노<신룡 기사단>^,^^,^^,^Magno <Dragon Knight>^,^^,^^
+^dialog_1210079_text0^,^긍지높은 빛의 엘프들이 하카나스 왕국에 손을 내밀다니. 뭐, 우리 신룡기사단이 성역에 왔으니, 더 이상 걱정할 필요는 없겠지만!<br>흠흠, 특히 기사단 중에서도 실력으로 손 꼽히는 이 메그노가 왔으니 말이야! 그전에  저 징그러운 거미들만 누가 좀 눈 앞에서 치워준다면 좋겠는데 말이야...^,^^,^^,^The light elves have finally swallowed their pride and asked Hakanas for help. Only the finest for our oldest allies -- and I, Sir Magno of the Dragon Knights, am the very finest!<br><br>Now if only someone would do something about all those disgusting spiders...^,^^,^^
+^dialog_1210080_Title^,^베르노르<빛의 엘프 수호대>^,^^,^^,^Bernori <Light Elf Guard>^,^^,^^
+^dialog_1210080_text0^,^이런 비극이... 혼돈 엘프에게 수호대가 전멸했습니다...<br>장로님과 신석을 지키지 못하고 혼자만 살아남다니... 수호대의 휘장이 부끄럽습니다.^,^^,^^,^We were helpless to stop the chaos elves... The elder and the holy stones, both snatched from our grasp... I am proven unworthy.^,^^,^^
+^dialog_1210081_Title^,^라안<빛의 엘프 수호대>^,^^,^^,^Rannis <Light Elf Guard>^,^^,^^
+^dialog_1210081_text0^,^크윽..혼돈 엘프 놈들이 콘웰 장로님을..<br>놈들로부터 장로님을 지키지 못한 제 불찰입니다.<br>어서 장로님을 구해야 하는데..쿨럭! 쿨럭!<br><br>(라안의 상태로 보아 움직이는 것조차 무리인듯 싶다.)^,^^,^^,^M-must... save him...<br><br>(Rannis is struggling to breathe, let alone move.)^,^^,^^
+^dialog_1210082_Title^,^벨론<악어 사냥꾼>^,^^,^^,^Belon <Crocodile Hunter>^,^^,^^
+^dialog_1210082_text0^,^거대 악어를 쫓아 엘프들의 성역까지 오게 됐습니다. 비록 크류엘을 잡는데 한번 실패하였지만... 언젠가는 반드시 그놈을 잡고 말겁니다.<br><br>그보다... 만나기로 했던 동료가 보이지 않아 걱정입니다. 설마 그 잔악무도한 놈이 제 동료의 목숨까지 앗아간 것은 아닐지...^,^^,^^,^I tracked my prey to Ellora Sanctuary -- Kruwel, the great crocodile. My partner was supposed to meet me here to begin the hunt, but he has yet to appear. Has Kruwel claimed yet another life?^,^^,^^
+^dialog_1210083_Title^,^나르파<악어 사냥꾼 조수>^,^^,^^,^Nartha <Crocodile Hunter Assistant>^,^^,^^
+^dialog_1210083_text0^,^저는 원래는 양들을 몰던 목동이었습니다. 마을에 찾아온 악어사냥꾼 벨론님을 보고 사냥꾼 일이 돈이 될까 싶어 쫓아다녔지만, 벨론님은 돈에는 전혀 관심이 없으니 답답합니다.<br>크류엘이랑 무슨 원수를 졌는지 그놈 뒷꽁무니만 쫓아다니신다니깐요!^,^^,^^,^I thought I'd learn how to make big money as a crocodile hunter, so I apprenticed myself to Belon. But all he does is chase the same damn crocodile all the time, like he's got a vendetta. I should've been a shephard, like father wanted!^,^^,^^
+^dialog_1210084_Title^,^이디오스의 시체<악어 사냥꾼>^,^^,^^,^Idios's Corpse (Crocodile Hunter)^,^^,^^
+^dialog_1210084_text0^,^목에 걸고있는 펜던트에 이디오스라고 적혀있다. 혈흔을 보니 죽은지 얼마 안된 것 같은 시체다.^,^^,^^,^(The pendant identifies the body as 'Idios.' The wounds on this body are fresh.)^,^^,^^
+^dialog_1210085_Title^,^리베레<빛의 엘프 정찰자>^,^^,^^,^Liberre <Light Elf Scout>^,^^,^^
+^dialog_1210085_text0^,^혼돈의 힘이 숲에 퍼진 이후로 인근 생명체들이 광포하게 변하기 시작했습니다.<br>저희 빛의 엘프 정찰자들은 숲을 정찰하며 변질된 숲의 생명들을 조사하고 있죠.<br><br>숲을 지키는 정령들과 요정들 역시 혼돈의 힘에 영향을 받는 것 같습니다... 빛이 사라지기 전에 혼돈의 힘을 막아야 합니다.^,^^,^^,^Chaos corrupts everything it touches. And it's not just the wildlife -- the spirits and fairies are affected, too. If we don't act soon, this chaos will snuff out the light.^,^^,^^
+^dialog_1210086_Title^,^레티오<빛의 엘프 정찰자>^,^^,^^,^Retio <Light Elf Scout>^,^^,^^
+^dialog_1210086_text0^,^바람이 그대를 인도하길.<br>저는 엘가덴 북서부를 통괄하는 정찰대에 속한 레티오입니다. 혼돈 엘프들은 정찰 캠프까지 운용하면서 용의 주도하게 숲을 장악하고 있습니다.<br><br>혼돈 엘프는 저희만큼 숲에 대한 이해가 높아 정찰대의 싸움은 늘 긴장의 연속이죠.^,^^,^^,^May the wind guide you. I watch over the northwest of the forest. The chaos elves have proven fierce adversaries, and their knowledge of the woods rivals even our own. I Hate to admit it, but we're in danger of being outmaneouvered here.^,^^,^^
+^dialog_1210087_Title^,^콘웰<엘로라의 성역 장로>(혼돈엘프주둔지)^,^^,^^,^Corvel <Ellora Sanctuary Elder> (Chaos Elven Station)^,^^,^^
+^dialog_1210087_text0^,^자네는... 누군가...^,^^,^^,^Who... are you...?^,^^,^^
+^dialog_1210088_Title^,^콘웰<엘로라의 성역 장로>(신룡기사단 캠프>^,^^,^^,^Corvel <Ellora Sanctuary Elder> (Dragon Knights Camp)^,^^,^^
+^dialog_1210088_text0^,^내가 제대로 방비했다면 신석을 혼돈 엘프에게 강탈당하는 불상사는 없었을텐데..<br><br>이대로 두 손 놓고 지켜본대서야 말도 안되는 일이지.<br>아직...아직 늦지 않았네.^,^^,^^,^Had I been better prepared, I could have prevented this. I will do everything I can to retrieve the holy stones. It isn't too late... not yet...^,^^,^^
+^dialog_1210089_Title^,^브라이언<신룡 기사단>^,^^,^^,^Brian <Dragon Knight>^,^^,^^
+^dialog_1210089_text0^,^저 앞을 가로 막고 있는 혼돈 엘프들에게 쓴 맛을 보여줘야만 합니다! 신룡 기사단의 이름으로 정의의 승리를 증명해야 합니다.<br>허나, 약삭빠른 놈들이 엘 제누스 성역에 결계를 치고, 우리의 진군을 막고 있습니다.!^,^^,^^,^The chaos elves need to be taught a lesson, and the Dragon Knights are here to do the teaching. We just need to figure out a way through the barrier at Zenus first...^,^^,^^
+^dialog_1210090_Title^,^로닌<신룡 기사단>^,^^,^^,^Roan <Dragon Knight>^,^^,^^
+^dialog_1210090_text0^,^엘 가덴 도시까지 당도하지 못하고 이곳에서 발이 묶여있다니, 말도 안되는 일입니다. 혼돈 엘프들의 전력이 생각보다 강력합니다.<br>그래도 장로 콘웰님의 안위가 확인되어 불행 중 다행입니다. 큰일을 해주셨습니다.^,^^,^^,^We came this far, but still fell short of Elgaden! The chaos elves caught us off-guard. At least we managed to rescue Corvel... Thank you.^,^^,^^
+^dialog_1210091_Title^,^메우스<빛의 엘프>^,^^,^^,^Maius <Light Elf>^,^^,^^
+^dialog_1210091_text0^,^사악한 힘이 트렌트들의 정신을 잠식했습니다. 바로 혼돈의 힘이죠... 숲의 수호자 트렌트 역시 그들의 신성한 숲을 내어줘야만 했습니다.<br><br>트렌트들을 정화시킬 방법을 찾아야 할텐데... 자연의 소리에 귀를 기울이면 반드시 해답이 있을 겁니다...^,^^,^^,^Evil has consumed the minds of the dryaths. It is against the natural order for these Guardians to turn against the forest. We must seek the wisdom of the woods if we are to purify them.^,^^,^^
+^dialog_1210092_Title^,^리베레<빛의 엘프 정찰자>^,^^,^^,^Liberre <Light Elf Scout>^,^^,^^
+^dialog_1210092_text0^,^혼돈의 힘이 숲에 퍼진 이후로 인근 생명체들이 광포하게 변하기 시작했습니다.<br>저희 빛의 엘프 정찰자들은 숲을 정찰하며 변질된 숲의 생명들을 조사하고 있죠.<br><br>숲을 지키는 정령들과 요정들 역시 혼돈의 힘에 영향을 받는 것 같습니다... 빛이 사라지기 전에 혼돈의 힘을 막아야 합니다.^,^^,^^,^Chaos corrupts everything it touches. And it's not just the wildlife -- the spirits and fairies are affected, too. If we don't act soon, this chaos will snuff out the light.^,^^,^^
+^dialog_1210093_Title^,^스텔라<빛의 엘프 정찰자>^,^^,^^,^Stellarix <Light Elf Scout>^,^^,^^
+^dialog_1210093_text0^,^숲의 가호가 함께하길. 우리의 가족이나 마찬가지인 트렌트들이 저렇게 변하다니... 마음이 편치 않군요.<br>하지만... 적들의 손아귀에 넘어간 그들을 편히 보내주는 것이 우리의 역할이겠죠. 아... 숲의 울음소리가 들리는 것 같아요.^,^^,^^,^This may seem strange to you, but many of us view the dryaths as family. Painful as it is, we have a duty to put them to rest. May Ellora keep their souls safe...^,^^,^^
+^dialog_1210094_Title^,^파견대장 헤무스<신룡기사단>^,^^,^^,^Captain Hemus <Dragon Knight>^,^^,^^
+^dialog_1210094_text0^,^혼돈 엘프 녀석들이 우리를 경계하긴 하는 모양이네.<br>엘가덴으로 통하는 엘 제누스 성역을 장악하는 것만으로 모자른지 결계까지 쳐놓았더군.<br><br>하긴..엘가덴의 엘프 본대와 본 기사단이 연합하면 지금의 균형에 영향을 줄테니 녀석들도 필사적이겠지.<br>하지만 현재로선 결계를 파괴하는데 투입할 공중 병력이 마땅치 않은데..걱정이로군 걱정이야.^,^^,^^,^The chaos elves must be keeping tabs on us. They've completely blocked all passage through Zenus, so now we're cut off from Elgaden.<br><br>THat may be a good sign. They don't think they can beat us if we unite with Elgaden's forces.^,^^,^^
+^dialog_1210095_Title^,^엔트<숲의 수호자>^,^^,^^,^Limbreth <Guardian of the Forest>^,^^,^^
+^dialog_1210095_text0^,^위대한 엘드라실의 가호로 이 땅이 누려왔던 생명의 은총이 엘프들에 의해 무너져 가고 있다. 숲의 자손들은 하나둘 씩 생명을 잃어가고 트렌트의 령들은 혼돈에 얽매이고 있다.<br>인간이여..이럴 때, 내가 어찌 행동해야겠는가?<br><br>(숲의 수호자의 침울한 음성이 주변의 공기를 무겁게 짓누르는것만 같다.)^,^^,^^,^Serenity-under-Daleroth is sHattered. Elves turn against Guardians. The heirs of these woods fall one-by-one, and the spirits of the dryaths are shackled. WHat then, little one, should I do?^,^^,^^
+^dialog_1210096_Title^,^아도르<엘 가덴 도시 수비대장>^,^^,^^,^Ador <Elgaden Garrison Captain>^,^^,^^
+^dialog_1210096_text0^,^바람이 그대를 인도하길. 엘 제누스 성역의 제공권은 엘가덴의 안전과 직결된 문제입니다. 혼돈 엘프들이 엘 젤누스를 장악했다는 것은 곧 그들의 칼끝이 엘가덴의 목젖을 노리고 있는 것이나 다름없습니다.<br><br>제 목숨을 걸고 이 방어선을 사수할 것입니다!^,^^,^^,^Controlling the air over Zenus is crucial to secuRing this land. For the chaos elves to hold Zenus means tHat their Sword is poised to take Elgaden's head.^,^^,^^
+^dialog_1210097_Title^,^호도스<엘 가덴 도시 수비대>^,^^,^^,^Hodos <Elgaden Garrison>^,^^,^^
+^dialog_1210097_text0^,^그들이 요충지인 엘 제누스의 성역을 장악한 이후로 전세가 급격하게 불리해지기 시작했습니다.<br>세계수의 결계 덕분에 적들이 엘 가덴 도시까지 진입하지 못하고 있긴 하지만, 이곳 방어선이 뚫리면 적들이 도시의 결계막을 뚫는 것도 순식간일 것입니다. 그것만은 반드시 막아야 합니다!^,^^,^^,^With Zenus under chaos elf control, there's little standing between them and Elgaden. Just us, basically.^,^^,^^
+^dialog_1210098_Title^,^콘웰<엘로라의 성역 장로>(엘 가덴 도시)^,^^,^^,^Corvel <Ellora Sanctuary Elder> (Elgaden)^,^^,^^
+^dialog_1210098_text0^,^이 땅을 풍요롭고 안전하게 지킬 수 있었던 원동력은 세계수 엘드라실의 존재가 있었기 때문이었네.<br>하지만 세월은 엘드라실의 힘을 갉아먹고 있군..<br><br>이제는 엘가덴을 보호하는 결계를 유지하는 것만으로도 힘들어하심을 느낄 수 있다네. 이런 상황에서 혼돈 엘프를 과연 막아낼 수 있을지..^,^^,^^,^The great tree, Daleroth, has protected and guided our people for ages. But Daleroth draws to the end of his life, and with it, our mystical defenses. We may not be able to survive the chaos elves without him.^,^^,^^
+^dialog_1210098_answer_6_text^,^세계수의 이야기를 알고계시면 들려주십시오.^,^^,^^,^Daleroth's Origin^,^^,^^
+^dialog_1210098_answer_7_text^,^세계수가 지녔던 본래 힘은 어느정도였습니까?^,^^,^^,^Daleroth's Power^,^^,^^
+^dialog_1210098_answer_8_text^,^세계수가 힘을 잃어가고 있는 이유가 무엇입니까?^,^^,^^,^Daleroth's Fading^,^^,^^
+^dialog_1210099_Title^,^유다스<엘로라의 성역 12사도>(엘 가덴 도시)^,^^,^^,^Carius <Archon> (Elgaden)^,^^,^^
+^dialog_1210099_text0^,^빛의 신성함이 그 앞길에 충만하길.<br>성역을 지키는 12사도 중 한명인 유다스라고 합니다. 성역을 침략한 혼돈에게 맞써 엘로라의 성역을 반드시 지켜야할 것 입니다.<br>빛의 엘프 수호대가 남긴 단서는 제가 가져가도록 하죠. 곧 다시 볼게 될 겁니다.^,^^,^^,^May holy light guide your path. I am Archon Carius of the Elloran Council. The Sanctuary is under my protection.^,^^,^^
+^dialog_1210100_Title^,^세계수 엘드라실<성역의 수호자>^,^^,^^,^Daleroth <Guardian of the Sanctuary>^,^^,^^
+^dialog_1210100_text0^,^어둠은 빛을 물들이고 혼돈은 질서를 무너뜨리고 있다. 반면에 성역에 대한 나의 영향력은 계절의 변화에 순응하여 떨어지는 나뭇잎같은 처지다.<br>허나 그대는..<br><br>(일순간 엘드라실 주변에 따사로운 햇살같은 기운이 생기더니 이내 사라졌다.)<br><br>..바람이 인도한 그대의 운명은 이 대지에 묶여있지 않는 것 같다. 그대의 운명을 따르라.^,^^,^^,^As darkness consumes the light, so chaos consumes order. As summer must give way to the autumn, so does my power wane. But you... you walk a different path from my wards. This gives you the power to avert the doom tHat Assassins these lands.^,^^,^^
+^dialog_1210101_Title^,^크리오스<엘 가덴 도시 수비대>^,^^,^^,^Krios <Elgaden Garrison>^,^^,^^
+^dialog_1210101_text0^,^엘 가덴 도시는 아직까지 괜찮지만, 격전지인 빛의 숲은 혼돈과의 전쟁으로 황폐해졌습니다. 하지만 저희 빛의 엘프들은 혼돈과의 싸움에 굴하지 않을 것입니다!^,^^,^^,^Elgaden still stands, but the chaos elves have ravaged the forest. But we will not give in.^,^^,^^
+^dialog_1210102_Title^,^브란디오르<엘로라의 성역 원로>^,^^,^^,^Brandior <Ellora Sanctuary Elder>^,^^,^^
+^dialog_1210102_text0^,^숲의 울부짖음이..여기까지 들리는 듯 합니다..<br>혼돈이 부디 성역의 빛을 가리지 않아야 할텐데..노쇠한 세계수 역시 힘을 다했으니.. 참 걱정이군요.^,^^,^^,^I can hear the suffeRing of the woods from here. Our light dwindles, and our protector grows weary with age...^,^^,^^
+^dialog_1210102_answer_0_text^,^엘가덴은 안전한 것입니까?^,^^,^^,^Elgaden's Safety^,^^,^^
+^dialog_1210102_answer_1_text^,^성역을 수호한다는 세계수에 대해 알고 싶습니다.^,^^,^^,^The Great Tree^,^^,^^
+^dialog_1210103_Title^,^경비대장 슬레니르<빛의 숲 경비대>^,^^,^^,^Captain Slenir <Sunderlight Guard>^,^^,^^
+^dialog_1210103_text0^,^한 때 아름다웠던 엘로라님의 땅을 논하는 것은 사치에 불가하다! 자연을 사랑하는 우리 엘프들도 칼을 들고 싸워야할 때는 아는 법이다!<br>무력을 행사해서라도 이 전쟁을 반드시 승리로 이끌어 불온한 혼돈 엘프들에게 진정한 무서움을 보여줘야할 것이다!^,^^,^^,^People think we elves are all nature-loving pacifists, but we know how to fight! We'll show our enemies the true meaning of fear!^,^^,^^
+^dialog_1210104_Title^,^푸첸<빛의 숲 경비대>^,^^,^^,^Chanis <Sunderlight Guard>^,^^,^^
+^dialog_1210104_text0^,^혼돈 엘프들의 기세가 만만치 않아 격전지의 전황은 소모전 양상이 지속되었습니다.<br>다행인 것은 모두가 필사의 각오로 싸웠기에 지금껏 크게 낭패를 당하는 일이 없었죠. 하지만 이것도 모두 빛의 숲 경비대를 지휘하는 슬레니르 대장이 굳건히 버티고 있었기 때문에 가능했습니다.^,^^,^^,^Our first mistake was underestimating the chaos elves. If it weren't for Captain Slenir's leadership, we would have been overwhelmed by now.^,^^,^^
+^dialog_1210105_Title^,^라이노<빛의 숲 경비대>^,^^,^^,^Ryno <Sunderlight Guard>^,^^,^^
+^dialog_1210105_text0^,^투칸족들이 성역을 짖밟으며 이곳이 그들의 땅이라고 주장하는 모습을 더 이상 지켜볼 수 없습니다!<br>투칸족들을 몰아내려면 이곳에 파견된 경비대의 역할이 더욱 중요하지만, 적들의 강력한 공격으로 번번히 거점 구축에 실패하고 있습니다.^,^^,^^,^I can no longer stand by and watch the Tukans invade our land! I don't care how hard they fight back. The time to strike is now!^,^^,^^
+^dialog_1210106_Title^,^데이나<빛의 엘프 석궁사수>^,^^,^^,^Deina <Light Elf Ranger>^,^^,^^
+^dialog_1210106_text0^,^격전지에서 혼돈 엘프들과 마주하기 전까진 제 활 솜씨에 자신이 있었어요. 하지만 혼돈 엘프들의 공격은 그들에 대한 평가를 뒤집어놓기에 충분했죠.<br>그들과 단순한 힘겨루기 하는 것은 의미가 없어요. 머리를 써서 교란전으로 전장의 흐름을 바꿔야죠.^,^^,^^,^I used to think tHat I could handle myself in a fight, but the chaos elves have proven me wrong. Exchanging arrows with them is pointless. If we are to win, we must outwit them.^,^^,^^
+^dialog_1210107_Title^,^바일라<빛의 엘프 석궁사수>^,^^,^^,^Vyla <Light Elf Ranger>^,^^,^^
+^dialog_1210107_text0^,^많은 자매들이 이 전쟁으로 희생되었습니다.<br>어째서 이런 동족간의 상잔이 벌어지고 있는 것인지 저로서는 이해하기 힘들군요. 하지만..그렇다 하더라도 이 땅을 지키기 위해선 전..마땅히 활을 들 것입니다.^,^^,^^,^So many of my sisters have fallen in this war. It all seems so senseless to me. But even so, I shall lift my bow to protect this land.^,^^,^^
+^dialog_1210108_Title^,^디소스 (유물 발굴단)^,^^,^^,^Desourd (Relic Excavator)^,^^,^^
+^dialog_1210108_text0^,^사람들은 흔히 신문물에 열광하곤 합니다. 자신들이 미처 알지 못하거나 기존의 상식에서 벗어난 것에 대한 동경을 표현하는 것이 아니겠습니까?<br>하지만 정말 중요한 것은 과거 이 세계를 주도한 선조들의 역사를 복원하는 일이라고 생각합니다. 유물을 통해 과거의 흔적을 알아내고 그것을 발판 삼아..^,^^,^^,^Do you know wHat the problem with people is? People are always chasing after the next new thing -- the new technology, the new fashion. Where's the appreciation for where we came from? History's more important than any of tHat!^,^^,^^
+^dialog_1210108_text0_attach_0^,^<br><br><font color="#3ec1d0">(디소스는 잠시 멈칫하더니 다시 말을 이었다.)</font><br><br>..제가 또 유물 얘기에 심취해서 쓸데없이 주저리주저리 떠들었군요. 지금 신경써야할 문제가 한 두개가 아닌데 저도 참..후우..^,^^,^^,^<br><br>Sorry about tHat. I get a little carried away sometimes...^,^^,^^
+^dialog_1210109_Title^,^브란드 (유물 발굴단)^,^^,^^,^Berand (Archaeologist)^,^^,^^
+^dialog_1210109_text0^,^이번 일을 통해 큰 교훈을 하나 얻은 것 같습니다<br>유물을 발굴하는 것도 좋은 일이지만 그것이 어디 사람 목숨과 비교할 가치가 있겠습니까?^,^^,^^,^I've learned tHat, no matter how priceless an ancient relic may be, it can't be compared to the value of a human life.^,^^,^^
+^dialog_1210110_Title^,^소생하는 엘드라실<성역의 수호 세계수>^,^^,^^,^RecoveRing Daleroth <Guardian World Tree>^,^^,^^
+^dialog_1210110_text0^,^엘로라 여신님의 축복으로 성역에 다시금 빛이 깃들기를 기원합니다. 저의 성스러운 결계로 수림지를 보호하고 있지만, 어지러운 혼돈의 기운이 성스러운 힘을 막아서고 있습니다.<br><br>운명의 신탁에 속한 자여... 그대의 힘으로 성역이 혼돈에 잠식되는 것만은 막아야할 것입니다.^,^^,^^,^I pray for the day tHat Ellora's light returns to the sanctuary. Although my barrier protects the forest, the power of chaos endangers us all. It falls upon your Shoulders, champion of destiny, to defeat those who would bRing ruin to this sacred place.^,^^,^^
+^dialog_1210111_Title^,^에르나 (엘로라의 성역 장로)^,^^,^^,^Erna (Ellora Sanctuary Elder)^,^^,^^
+^dialog_1210111_text0^,^이곳 엘 리노 수림지 일대는 빛의 엘프들의 산물이 가장 많이 깃든 곳이기도 합니다. 빛과 혼돈의 충돌은 그 옛날 엘프들의 탐욕으로부터 예견된 것일지도 모릅니다.<br><br>데모닉 스톤... 마신의 혼을 봉인한 사악한 돌을 우리 빛의 엘프들이 지키고 있긴하나, 그 사악함은 우리 엘프들에게 치명적인 것이기도 합니다. 더 이상 지체할 시간이 없습니다. 데모닉 스톤과 성역의 운명을 그대 손에 맡기겠습니다.^,^^,^^,^I wonder if we could not have predicted this conflict by looking at the greed of our predecessors? Though we have long protected the stone sealing the God of Ruin, no child of Ellora can flourish in proximity to such great evil. And now, it is up to an outsider to save us all...^,^^,^^
+^dialog_1210112_Title^,^디네 (엘프 주술사)^,^^,^^,^Dineh <Elf Shaman>^,^^,^^
+^dialog_1210112_text0^,^당신도 알다시피 엘리노 수림지를 지탱하는 힘은 모두 소생하는 엘드라실에게서 비롯된 것입니다.<br>헌데 혼돈 엘프가 성역 전역을 어지럽히면서 소생하는 엘드라실에게까지 그 영향을 주고 있습니다.<br><br>많은 형제들이 힘겨운 싸움을 벌이고 있고 비명에 죽어간 영혼들의 울림이 숲을 뒤덮고 있습니다.<br>..그리고 이제 어둠이 찾아오고 있습니다. 한치 앞도 내다볼 수 없는 짙은 어둠 말입니다.^,^^,^^,^These woods have a direct connection to Daleroth. Every life tHat is taken in this battle is a fresh wound on Daleroth's soul. A dark night approaches, foul and heavy with ruin.^,^^,^^
+^dialog_1210113_Title^,^고모라 (무덤지기)^,^^,^^,^Gomora (Gravekeeper)^,^^,^^
+^dialog_1210113_text0^,^수림지 밖의 상황은 어떻습니까?<br>혼돈 엘프만으로도 감당하기 힘든데 암흑 광신도들까지 설치고 있으니 이쯤되면 이곳 수림지에 있다고 해서 과연 안전을 보장받을 수 있는 것인지 걱정이 되는군요.^,^^,^^,^Have we ignored the outside world for too long? The chaos elves were bad enough, but now we must face these zealots...^,^^,^^
+^dialog_1210114_Title^,^페리토스(엘로라의 성역 대사제)^,^^,^^,^Peritos <Ellora Sanctuary Archpriest>^,^^,^^
+^dialog_1210114_text0^,^바람이 그대를 인도하기를. 이방인이여. 그대는 이곳까지 오면서 무엇을 보았는가?<br>나는 분노와 비애가 뒤엉킨 이 땅을 보고 있네.<br><br>혼돈 엘프의 대대적인 습격으로 이미 많은 형제와 자매들이 목숨을 잃었지. 그러니 내가 어찌 슬퍼하지 않을 수 있겠는가?^,^^,^^,^In your travels through our land, wHat did you see? I see a realm entrenched in rage and sorrow. Countless lives have already been lost. How does one continue to walk through such a world?^,^^,^^
+^dialog_1210114_text0_attach_0^,^<br><br>이 땅을 지키기 위해서 각자의 위치에서 제 역할을 해주면 좋으련만..아직 나의 제자들은 준비가 되어있지 않으니 그것이 아쉬울 따름이네.^,^^,^^,^<br><br>We need every available arm if we are to right our course. Unfortunately, my disciples are not yet ready.^,^^,^^
+^dialog_1210115_Title^,^데르마(대사제 호위무사)^,^^,^^,^Delma (Archpriest's Guard)^,^^,^^
+^dialog_1210115_text0^,^페리토스님은 엘리노 수림지를 지탱하는 기둥 중 하나입니다. 그리고 그 역할을 다하고자 엘가덴이 혼돈 엘프의 공습을 막기위해 매진하는 것처럼..페리토스님 역시 이곳 수림지에서 대책 마련에 고심하고 계십니다.<br><br>제 역할은 그보다 더욱 단순명료합니다. 바로 페리토스님을 지키는 것. 저는 오로지 그것만 생각할 뿐입니다.^,^^,^^,^Were it not for the archpriest, Elino would already have been lost. He works tirelessly to find a solution to our many problems. He is a great man, and it is an honor to protect him.^,^^,^^
+^dialog_1210116_Title^,^아로스(사제 수습생)^,^^,^^,^Aros (Priest Disciple)^,^^,^^
+^dialog_1210116_text0^,^빛의 숲 격전지에선 크고 작은 전투가 연일 계속되고 있다고 들었습니다.<br>저 역시 한 명의 전력으로 형제들을 돕고싶었는데 스승님이신 페리토스님께 크게 꾸중만 들었습니다.<br><br>괜한 공명심으로 섣불리 움직이지 말라 하시더군요.<br>..제가 미덥지 않으신 것이 틀림없습니다..^,^^,^^,^They say the Forest of Light has become a battlefield. My heart longs to fight alongside my brothers, but the archpriest reprimands me for this desire. Have I not yet earned his faith?^,^^,^^
+^dialog_1210117_Title^,^티그리스(사제 수습생)^,^^,^^,^Tigris (Priest Disciple)^,^^,^^
+^dialog_1210117_text0^,^혼돈 엘프들이 성역을 위협하고 있는데 아직 제 능력은 그들을 돕기엔 크게 부족하니 안타깝습니다.<br>이미 싸늘한 시신이 되어버린 자매들의 죽음이 모두 제 탓인 것만 같습니다..^,^^,^^,^The deaths of my fallen sisters weighs heavily on my heart...^,^^,^^
+^dialog_1210118_Title^,^투리네(사제 수습생)^,^^,^^,^Turina (Acolyte)^,^^,^^
+^dialog_1210118_text0^,^티그라스는 혼돈 엘프에게 희생된 자매들의 죽임에 책임감을 느끼는 모양입니다. 하지만 페리토스 스승님께서도 함부로 움직이지 말고 자중하라 말씀하셨죠.<br><br>실력도 없는 수습생 주제에 모든 자매들의 죽음이 자신의 탓이라니..오만한 것도 정도가 있는 것입니다.^,^^,^^,^Tigris blames herself for her sisters' deaths. But Peritos teaches us perspective above all else. To hold oneself accountable for the actions of others is not guilt... it is arrogance.^,^^,^^
+^dialog_1210119_Title^,^엘톤 (엘로라의 성역 수색대)^,^^,^^,^Eldon (Sanctuary Keeper)^,^^,^^
+^dialog_1210119_text0^,^...... (이미 숨이 끊어진 것 같다.)^,^^,^^,^(He isn't breathing.)^,^^,^^
+^dialog_1210120_Title^,^크라시스 (엘로라의 성역 12사도)^,^^,^^,^Krasis (Archon)^,^^,^^
+^dialog_1210120_text0^,^크...윽, 오랜 벗이자 성역을 지키는 사도인 유다스가 혼돈에 굴복할 줄이야...<br>끝없는 힘을 향한 유다스의 욕심이 결국 잘못된 길을 걷게한 것 같습니다...<br>유다스... 그리고 아이라의 죽음이 헛되지 않도록... 반드시 혼돈 엘프들을 이땅에서 몰아내야할 것입니다.^,^^,^^,^I always knew Carius to be ambitious, but to turn to chaos magic? Truly, no elf is safe from the corruption of evil.^,^^,^^
+^dialog_1210121_Title^,^유다스<엘로라의 성역 12사도>(엘드란트 성지)^,^^,^^,^Carius <Archon> (Drant)^,^^,^^
+^dialog_1210121_text0^,^숲의 가호가 그대를 무사히 이곳까지 인도하였군요.<br>배신자에 대한 실마리는 어느정도 잡혔습니다... 다만... 믿고싶지 않군요.^,^^,^^,^Though we have lost much, I know now who has betrayed us. Oh, how it pains my heart...^,^^,^^
+^dialog_1210122_Title^,^헤몬<빛의 엘프 정예 부대>^,^^,^^,^Hermon <Sunderlight Guard>^,^^,^^
+^dialog_1210122_text0^,^빛의 숲 격전지에서 벌어진 전투는 그저 엘가덴의 이목을 잡아놓으려는 혼돈 엘프들의 술수에 불과합니다.<br>진실로 그들의 노림수가 무엇인지 드러내지 않는 치밀함에 저는 수없이 분노와 좌절을 느꼈죠.<br><br>그들이 앞으로도 어떤 흉계로 저희를 곤경에 빠뜨릴지 알 수는 없습니다. 다만 저는 제 목숨을 걸고 그들을 막겠습니다.^,^^,^^,^The chaos elves have entrenched themselves here, but I'm certain it's just a ploy to draw our resources and attention away from their true objective. I don't know wHat tHat objective is, but they're up to something.^,^^,^^
+^dialog_1210123_Title^,^벨라<빛의 엘프 정예 부대>^,^^,^^,^Bella <Sanctuary Keeper>^,^^,^^
+^dialog_1210123_text0^,^혼돈 엘프들의 최초 공습에 엘 가덴이 신속하게 대응하지 못한 것은 사실이에요. 하지만 그것만으로 적들이 마음놓고 성역을 유린할 수 있다고 여긴다면..<br>그것이 얼마나 큰 오산이었는지 깨닫게 해주겠어요.^,^^,^^,^When the chaos elves first marched on Elgaden, we were unprepared. Rest assured tHat the time of our reckoning is at hand.^,^^,^^
+^dialog_1210124_Title^,^엔트라스<빛의 엘프 마법사>^,^^,^^,^Endras <Light Elf Mage>^,^^,^^
+^dialog_1210124_text0^,^혼돈 엘프들이 혼돈 기운을 힘의 근원으로 삼듯 우리에겐 빛이야말로 변치않는 힘이요 진리입니다.<br>우리가 여신의 가르침을 잊지 않는 한, 빛은 밝게 빛나게 될 것입니다.^,^^,^^,^The light means everything to us. So long as our faith is unwaiveRing, it will continue to shine through the chaos.^,^^,^^
+^dialog_1210125_Title^,^모이슨<빛의 엘프 수습 마법사>^,^^,^^,^Moseon <Light Elf Apprentice>^,^^,^^
+^dialog_1210125_text0^,^빛과 생명의 어머니이신 엘로라 여신께선 어둠이 지나면 빛이 찾아온다 말씀하셨습니다.<br>언제고 성스러운 빛의 가르침이 제게 오는 날, 저 역시 한명의 당당한 마법사로 거듭날 수 있겠죠.^,^^,^^,^The mother of life and light, Ellora, teaches tHat morning comes even after the darkest night. Once we overcome this darkness, our light will shine brighter than ever.^,^^,^^
+^dialog_1210126_Title^,^스벤힐트<엘로라의 성역 수색대>^,^^,^^,^Senhil <Sanctuary Keeper>^,^^,^^
+^dialog_1210126_text0^,^성역을 유린하는 혼돈 엘프들을 막아내기 위해서는 그들의 움직임을 면밀히 살펴야 합니다.<br>그래야 그들의 다음 노림수는 무엇인지, 어떻게 대처해야하는지 판단하기 수월할테니 말이죠.^,^^,^^,^When the chaos elves came, we knew not tHat they were coming. Now we know their every move. Soon, we will know their next action before even they do.^,^^,^^
+^dialog_1210127_Title^,^베나리에스<엘로라의 성역 수색대>^,^^,^^,^Benaress <Sanctuary Keeper>^,^^,^^
+^dialog_1210127_text0^,^수색대는 성역 곳곳에서 활동하며 혼돈 엘프의 동선을 파악하는데 주력하고 있습니다.<br>그들의 움직임을 놓치는 일이 잦아질 수록 어딘가에서 우리 형제들이 희생될 가능성이 높아지는 것입니다.<br>그런 일이 일어나지 않도록 사력을 다할 뿐..달리 할 말은 없군요.^,^^,^^,^No one knows the Sanctuary as we do. And now tHat we are aware of the chaos elves, they can hardly set foot on the earth without drawing our attention.^,^^,^^
+^dialog_1210128_Title^,^타르타곤<엘로라의 성역 수색대>^,^^,^^,^Tartagon <Sanctuary Keeper>^,^^,^^
+^dialog_1210128_text0^,^데모닉 스톤이 봉인된 잊혀진 성지 내부는 이미 혼돈 엘프가 장악하고 있습니다.<br>대장로 요르문겐트는 성지를 탈환하려는 빛의 엘프를 막기 위해 성지의 수호자들을 혼돈에 감화시켜 그들 위에 군림하는데 성공한 것 같습니다.<br>서둘러 내부로 잠입하여, 데모닉 스톤을 꺼내와야 합니다.^,^^,^^,^We're too late. The chaos elves have taken the shrine. Their elder, Yorminsul, led the attack himself. He's even turned the shrine Guardians to his side.^,^^,^^
+^dialog_1210129_Title^,^페단<엘로라의 성역 12사도>^,^^,^^,^Fedan <Archon>^,^^,^^
+^dialog_1210129_text0^,^성역을 향한 혼돈 엘프들의 습격이 있기 전, 저는 기묘하고도 불길한 꿈을 꾸었습니다.<br>당시에는 그저 흉험한 꿈을 경험했다고만 여겼죠. 하지만 얼마지 않아 혼돈 엘프들이 대거 성역을 침공했고 불길한 꿈이 실은 예지몽이었다는 것을 깨달았죠.^,^^,^^,^A had an ominous dream the night before the chaos elf attack. If only I'd had the foresight to consider the vision. Instead, I dismissed it as a simple nightmare.^,^^,^^
+^dialog_1210129_text0_attach_0^,^<br><br>최근들어 고대로부터 이어져온 빛의 힘이 급격하게 약해지는 것 뿐 아니라 제 주변의 인물들에게서 묘한 위화감마저 느껴집니다.<br>빛의 가르침을 제가 너무 멀리한 것은 아닌지..그것이 아니라면 또 다른 예지몽의 발현인 것인지..^,^^,^^,^<br><br>The light of our people waivers. Elven harmony weakens. Have we strayed so far from Ellora's teachings? Or is it another omen?^,^^,^^
+^dialog_1210130_Title^,^르네로<엘로라의 성역 12사도>^,^^,^^,^Renero <Archon>^,^^,^^
+^dialog_1210130_text0^,^성역의 엘프들은 흔히 저희 12사도가 모두 일심동체로 움직이는 결속력이 강한 집단이라고 입을 모아 이야기하곤 합니다. 틀린 말은 아닙니다. 실제로도 수 세기동안 그렇게 한 뜻으로 성역을 지켜왔으니 말이에요.<br><br>하지만 이제는 조금 사정이 달라졌습니다. 혼돈 엘프가 끊임없이 도발하면서 서로의 입장차가 생겨버렸기 때문이죠. 그들을 대하는 각자의 생각이 어떤지 이제는 확신하기가 어렵습니다.^,^^,^^,^Not even the Archons can agree on the best path forward. To the public, we present a unified front, but never before have we faced a difficulty so divisive as these chaos elf raids.^,^^,^^
+^dialog_1210131_Title^,^아크로스<엘로라의 성역 12사도>^,^^,^^,^Achros <Archon>^,^^,^^
+^dialog_1210131_text0^,^내게 무슨 볼일이라도 있으시오?<br>성역을 지키는 사도라는 입장에서 우리 빛의 엘프를 제외하고는 내게 모두 이방인이오. 말인즉슨, 그대와 내가 나눌 말은 없다는 것이지.^,^^,^^,^I've little to discuss with foreign trash. Were it my decision, our Sanctuary would be closed to the likes of you.^,^^,^^
+^dialog_1210132_Title^,^오펠레인<엘로라의 성역 12사도>^,^^,^^,^Opelean <Archon>^,^^,^^
+^dialog_1210132_text0^,^12사도가 성역을 지키는 수호자로서의 위치인 것은 사실입니다. 하지만 수호자라는 의미가 오직 물리적인 힘으로 이 대지를 지킨다는 뜻은 아닙니다.<br>여신의 가르침을 설파하는 일 역시 수호자의 임무에 포함되어있는 것입니다.^,^^,^^,^The Archons are Guardians of the Sanctuary, but our Guardianship does not necessarily take the form of strength of arms or magic. We also act as spiritual guides to our people, and our highest duty is the interpretation of Ellora's teachings.^,^^,^^
+^dialog_1210132_text0_attach_0^,^<br><br>그러나 지금의 상황을 보십시오. 혼돈 엘프들을 위시한 수많은 적들이 성역을 짓밞고 있습니다.<br>물리적인 힘을 동원하라고 등떠미는 것만 같은 이 상황이 저는 한없이 슬프고 안타깝습니다.^,^^,^^,^<br><br>If only our brethren in the chaos elves would open their eyes to Ellora's light. Then such violence would no longer be necessary.^,^^,^^
+^dialog_1210133_Title^,^카르테리아<엘로라의 성역 12사도>^,^^,^^,^Karteris <Archon>^,^^,^^
+^dialog_1210133_text0^,^혼돈 엘프가 성역을 침공하고 엘가덴의 형제 자매들 중 일부가 변절하는 것을 목격했습니다.<br>오래 전에 품고 있었으나 가슴에 묻어두었던 묵은 의문이 다시 제 머릿속에 떠오르더군요.<br><br>우리가 따르는 빛이 그들에게 닿길 바라는 것은 요원한 일이지만, 그들이 따르는 어둠이 우리의 빛을 잠식하는 것은 너무도 쉬운 것은 아닐까..하는 것입니다.^,^^,^^,^I've personally witnessed the damage chaos does to the light elf heart. WHat does it say about our people tHat we are so easily tainted by ruin? It is a question I have pondered frequently over these past decades...^,^^,^^
+^dialog_1210134_Title^,^메트리온<엘로라의 성역 12사도>^,^^,^^,^Metrion <Archon>^,^^,^^
+^dialog_1210134_text0^,^12사도들은 각자 다른 꿈과 이상을 지니고 있습니다.<br>지금은 비록 하나의 목적이 우리를 묶고 있어 성역을 지키고 있지만 그렇다고 모두가 원하는 방식이 같다는 이야기는 아니니 말입니다.<br><br>12사도 중 한 명인 볼리아슨의 경우만 보더라도 강경한 주전파에 속해 있어 성역을 떠나 원정을 떠나야한다고 까지 공공연히 말하고 다녔죠.<br>..우리의 결속이 조금씩 느슨해지는 것이 느껴집니다.^,^^,^^,^Each of us carry our own ideals and dreams. We have all devoted our lives to the protection of the Sanctuary, but we don't all agree on wHat tHat means. Achros would have us close our borders to the outside world, while Bolian would send our warriors out on crusade. But it is at times like this when unity is most important...^,^^,^^
+^dialog_1210135_Title^,^볼리아슨<엘로라의 성역 12사도>^,^^,^^,^Bolian <Archon>^,^^,^^
+^dialog_1210135_text0^,^혼돈 엘프를 비롯한 악의 세력이 궐기하는 것은 우리가 지금껏 성역에서 소극적으로 방어만 하는 자세로 일관했기 때문이오.<br><br>그들의 눈엔 우리가 우습게도 보였겠지. 그들에게 진정한 빛의 심판이 무엇인지 알려줘야 하거늘..<br>아직까지 오래된 전통에 얽매여 현실을 보지 못하고 있는 다른 사도들이 안타까울 따름이오.^,^^,^^,^We never should have allowed the chaos elves the opportunity to marshal their forces. If we had marched on their lands two hundred years ago, we could have ended this war before it had even began.^,^^,^^
+^dialog_1210136_Title^,^빛의 엘프 수호대<용기의 신석 운송원>^,^^,^^,^Courier <Elven Guard>^,^^,^^
+^dialog_1210136_text0^,^(숨을 쉬지 않는다. 목숨이 끊어진 것 같다.)^,^^,^^,^(This person isn't breathing.)^,^^,^^
+^dialog_1210137_Title^,^유다스<엘로라의 성역 12사도>(엘도르마을입구)^,^^,^^,^Carius <Sanctuary Archon> (Road to Eldorr)^,^^,^^
+^dialog_1210137_text0^,^달과 별이 그대의 앞길을 비추기를.<br>혼돈은 성역의 질서를 무너뜨리고, 죽음의 그림자는 바람의 협곡에 드리워지고 있습니다. 이방인이여, 당신이라면 이 난관을 해결할 묘안이 있겠습니까?<br><br>(찰나의 순간에 불과했지만 유다스의 신비로운 눈빛에서 말로 형용할 수 없는 강렬한 기운이 느껴졌다.)^,^^,^^,^I sense tHat you are guided by starlight. An odd thing for a foreigner. Have you come to solve our many tribulations?^,^^,^^
+^dialog_1210138_Title^,^웬투스<엘로라의 성역 장로>^,^^,^^,^Wentus <Ellora Sanctuary Elder>^,^^,^^
+^dialog_1210138_text0^,^혼돈 엘프와 죽음 마법사들이 공조를 하다니...있을 수 없는 일이네..! 있을 수 없는 일이야. 성역은 이미 혼돈 엘프와의 싸움에 총력을 기울이고 있으니 엘도르에 파견할 여유가 있을리 없네.<br><br>우리의 힘만으로 죽음 마법사들을 막아내야 하건만...이토록 생명이 허망하게 사라지고 있다니..이 어찌 통탄할 일이 아니겠나?^,^^,^^,^All of our enemies have united against us. Eldorr stands alone against the death mages. WHat have we done to deserve such calamity?^,^^,^^
+^dialog_1210139_Title^,^메르디<치유사>^,^^,^^,^Merdi <Healer>^,^^,^^
+^dialog_1210139_text0^,^엘도르를 지키는 엘프들이 정신적으로나 육체적으로나 강인한 존재인 것은 확실합니다. 다만 죽음 마법사들은 변칙적인 방법으로 상대를 유린하는 것으로 악명이 높죠. 이번에도 그들의 악명을 증명하기라도 하듯 독을 이용한 공세를 펼치고 있어 걱정입니다.^,^^,^^,^The elves of Eldorr are a hearty people, but even we are not immune to the poison of death magic.^,^^,^^
+^dialog_1210139_text0_attach_0^,^<br><br>해독하는 것이 쉬운 일은 아니어도 아직까진 대처할 수 있었습니다. 하지만 그래서야 죽음 마법사들의 의도대로 피해가 누적되는 것은 막을 수 없죠. 결코 근본적인 해결책이 될 수 없어요.^,^^,^^,^<br><br>My treatments can only go so far. If we do not defeat the death mages soon, I fear I shall begin to lose patients.^,^^,^^
+^dialog_1210140_Title^,^카랄드<엘 도르 마을 경비대장>^,^^,^^,^Karald <Eldorr Guard Captain>^,^^,^^
+^dialog_1210140_text0^,^지금은 전투 중이다! 말을 삼가라! 병사는 말이 아닌 적의 목을 베는 것이 자신을 증명하는 길임을 명심하라!<br>우리의 손에 마을 주민들의 목숨이 달려있다!^,^^,^^,^War has come to Eldorr! Do you fight like an elf? Or do you run and hide like a coward?!^,^^,^^
+^dialog_1210141_Title^,^이센도르<엘 도르 마을 경비대>^,^^,^^,^Isendor <Eldorr Guardsman>^,^^,^^
+^dialog_1210141_text0^,^급작스러운 습격으로 현재 경비대도 경황이 없는 상황입니다. 용기의 신석을 보관하러 빛의 수호대가 온 직 후, 저들의 공격도 시작되었습니다.<br><br>용기의 신석이 마을로 이송된 사실을 어떻게 그렇게 빨리 알아차린 것일까요? 그 부분은 아직도 의문이 듭니다.^,^^,^^,^We can't keep up with these attacks! They started duRing our rendezvous with the holy stone convoy from Elgaden. I still don't understand how the enemy knew when and where to strike...^,^^,^^
+^dialog_1210142_Title^,^아덴<엘 도르 마을 주민>^,^^,^^,^Arden <Eldorr Villager>^,^^,^^
+^dialog_1210142_text0^,^마을을 습격한 암흑의 존재들도 그렇지만, 우선은 살고봐야할 것 아닙니까? 경비대들은 저들을 막기 바쁘니... 주변에 광폭해진 동물들만이라도 우리 손으로 직접 해치워야겠죠! 자신은 없지만... 마을을 지키기 위해서라면 뭐든 할겁니다!^,^^,^^,^The guards are so busy fighting off death mages and gargoyles tHat they've completely overlooked the other predators of the canyon. They don't expect us to fend for ourselves, do they?^,^^,^^
+^dialog_1210143_Title^,^첼라<엘 도르 마을 주민>^,^^,^^,^Chella <Eldorr Villager>^,^^,^^
+^dialog_1210143_text0^,^마을 인근에 돌아다니는 흉측한 것들 때문에 아주 무서워서 살 수가 없어요!<br>저것들을 모조리 죽여야지만 안심하고 밖을 돌아다니던지 하죠!^,^^,^^,^It's not safe to leave the village. Not safe...^,^^,^^
+^dialog_1210144_Title^,^아샤<엘 도르 마을 주민>^,^^,^^,^Arsha <Eldorr Villager>^,^^,^^
+^dialog_1210144_text0^,^흑... 친구들이 모두 어디로 갔을까요? 모두 어디론가 가고... 저만 홀로 남았어요... 흑흑<br>메르디님이라면 분명 친구들이 다시 돌아올 수 있도록 해주시겠죠...?^,^^,^^,^Wh-where did all my friends go? I'm all alone...<br><br>Do you think Merdi can bRing them back?^,^^,^^
+^dialog_1210145_Title^,^엘레느<엘 도르 마을 주민>^,^^,^^,^Ellenee <Eldorr Villager>^,^^,^^
+^dialog_1210145_text0^,^평온했던 일상이 삽시간에 바뀌었어요..! 어째서 이런 일이 벌어진 걸 까요? 모든 것이 저 암흑의 존재들때문이예요! 저들에게 반드시 가족의 이웃의 복수를 해주세요..!^,^^,^^,^This was once such a peaceful place... You must punish them for wHat they've done to our brothers and sisters!^,^^,^^
+^dialog_1210146_Title^,^라이트넬(빛의 숲 경비대)^,^^,^^,^Litenell <Sunderlight Guard>^,^^,^^
+^dialog_1210146_text0^,^혼돈 엘프와 손을 잡은 투칸족들이 그 세력을 키워나가고 있습니다. 아군 진영 구축에 실패한다면, 투칸족과 합세한 혼돈 엘프들에게 격전지인 빛의 숲이 수복되는 것도 한순간일 것입니다. <br>그렇게 되지 않도록 반드시 투칸족들을 몰아내야합니다!^,^^,^^,^I don't know how the chaos elves convinced the Tukan Tribe to join them, but their alliance threatens us all. We must drive the giants back to the sea!^,^^,^^
+^dialog_1210147_Title^,^피리엇<콜렉터>^,^^,^^,^Periot <Collector>^,^^,^^
+^dialog_1210147_text0^,^저는 지금껏 혼돈의 기운이란 것이 그저 혼돈 엘프가 사용하는 포괄적인 힘이라고만 이해하고 있었습니다.<br>헌데 이곳에서 목격한 것들은 제 상식에 의문을 품게 하는군요.^,^^,^^,^I thought chaos magic was merely a weapon like any other. The things I've witnessed make me question tHat assumption...^,^^,^^
+^dialog_1210147_answer_5_text^,^성역의 펠로우들을 연구하러 오신겁니까?^,^^,^^,^Sanctuary Research^,^^,^^
+^dialog_1210147_answer_6_text^,^무슨 고민이라도 있는 표정이로군요.^,^^,^^,^Worries^,^^,^^
+^dialog_1210148_Title^,^캇슈<콜렉터>^,^^,^^,^Katshu <Collector>^,^^,^^
+^dialog_1210148_text0^,^혼돈의 기운은 성역에 발을 딛고 살아가는 모든 생명체에게 강력한 영향을 미치고 있습니다. 이 기운에 오래 노출된 원주민들이나 생물들에게선 이미 그 반응이 나타나고 있죠.<br><br>혼돈 기운에 저항하는 것을 뛰어넘어 완벽히 치료할 수 있다면 좋으련만..아마도 무리일 것입니다.^,^^,^^,^Chaos magic is like poison. At this rate, it's only a matter of time before the local familiars become unusable. We need to find a way not just to resist it, but to cleanse it.^,^^,^^
+^dialog_1210148_answer_7_text^,^실종되었다는 콜렉터는 누구입니까?^,^^,^^,^Missing Collector^,^^,^^
+^dialog_1210148_answer_8_text^,^콜렉터를 찾는 일 외에 별다른 사항은 없습니까?^,^^,^^,^Other Work^,^^,^^
+^dialog_1210149_Title^,^쥬켈<콜렉터>^,^^,^^,^Jukel <Collector>^,^^,^^
+^dialog_1210149_text0^,^느껴지십니까? 엘리노 수림지 남쪽에서부터 물안개처럼 피어오르는 거대한 혼돈 기운 말입니다.<br>저런 곳이라면 아무리 뛰어난 생존 능력과 실전 경험이 있더라도 큰 위험을 감수해야 할 겁니다.^,^^,^^,^You feel tHat? Chaos magic. It covers the forests to the south like fog. WHatever they're paying you to go out there, it isn't worth it.^,^^,^^
+^dialog_1210149_answer_4_text^,^실종되었다는 콜렉터는 누구입니까?^,^^,^^,^Missing Collector^,^^,^^
+^dialog_1210150_Title^,^밀리온<행방불명된 콜렉터>^,^^,^^,^Milton <Collector>^,^^,^^
+^dialog_1210150_text0^,^제..제게 너무 가까이 다가오지 마십시오.<br>혼돈의 마력이 이미 몸에 퍼져 제 이성을 제어하는 것도 어려움이..있으니 말입니다.<br><br>이 마력은..오직 제 힘으로 이겨내야만 합니다.^,^^,^^,^Keep your distance! Believe me... you don't want to catch this...^,^^,^^
+^dialog_1210150_answer_3_text^,^몸은 괜찮으십니까?^,^^,^^,^Health^,^^,^^
+^dialog_1210150_answer_4_text^,^그동안 콜렉터들이 당신의 행방을 애타게 찾았습니다.^,^^,^^,^Search for Milton^,^^,^^
+^dialog_1210150_answer_5_text^,^어쩌다 이렇게 되었는지 사정을 말해줄 수 있겠습니까?^,^^,^^,^How This Happened^,^^,^^
+^dialog_1210150_answer_6_text^,^왜 다른 콜렉터와 합류하지 않는 겁니까?^,^^,^^,^Join the Others^,^^,^^
+^dialog_1210151_Title^,^르베이<콜렉터 후보생>^,^^,^^,^Levi <Collector Cadet>^,^^,^^
+^dialog_1210151_text0^,^아직 인고의 시간이 끝나려면 멀었습니다.<br>이곳에서 버텨내지 못한다면 지금까지의 제 고생도 허사가 되겠죠..^,^^,^^,^I can't give up yet. If I do, wHat was all tHat hard work for?^,^^,^^
+^dialog_1210151_answer_4_text^,^콜렉터 선발 시험에 대해서 알고 싶군요.^,^^,^^,^Collector Exam^,^^,^^
+^dialog_1210151_answer_5_text^,^시험은 잘 치르고 있는..것 입니까?^,^^,^^,^Progress^,^^,^^
+^dialog_1210152_Title^,^글로펜<콜렉터 후보생>^,^^,^^,^Glover <Collector Cadet>^,^^,^^
+^dialog_1210152_text0^,^당당한 콜렉터가 되기 위해 이곳에 왔건만..이제는 제가 살길을 찾아 도망다니며 추태나 보이는 낙오자가 된 기분이로군요..^,^^,^^,^I wanted to be a Collector, but now I'd be happy just to get out of here alive...^,^^,^^
+^dialog_1210153_Title^,^락슈<콜렉터 후보생>^,^^,^^,^Rahkshi^,^^,^^
+^dialog_1210153_text0^,^(제대로 된 대화를 나누기엔 락슈의 상태가 좋아보이지 않는다. 일단은 그를 내버려 두는 것이 좋겠다.)^,^^,^^,^(He seems to be in shock. Maybe it's best to leave him alone for now.)^,^^,^^
+^dialog_1210154_Title^,^그레이프<풍요의 씨앗 조합>^,^^,^^,^Greta <Satiety Society>^,^^,^^
+^dialog_1210154_text0^,^요리에 관심있나요? 그럼 제 말 꼭 새겨들어요.<br>진정한 요리사라면 자신의 확고한 철학은 있어야하는 법 아니겠어요?<br><br>첫째도 신선한 식재료! 둘째도 신선한 식재료! 신선함을 유지한 식재료 확보야말로 진정한 요리사의 덕목이라구요!^,^^,^^,^The secret to good cooking is as follows: First, fresh ingredients! Second, more fresh ingredients! Any questions?^,^^,^^
+^dialog_1210154_answer_3_text^,^조합이 성역까지 진출했을 줄은 몰랐습니다.^,^^,^^,^Satiety Society in the Sanctuary^,^^,^^
+^dialog_1210154_answer_4_text^,^성역의 특산품에 대해 알고 싶습니다.^,^^,^^,^Local Specialties^,^^,^^
+^dialog_1210155_Title^,^트로베리<풍요의 씨앗 조합>^,^^,^^,^TRoberry <Satiety Society>^,^^,^^
+^dialog_1210155_text0^,^혼돈 엘프의 공세가 점점 거세지고 있어 큰 걱정이에요. 물론 설마하니 본 조합이 엘가덴에 대한 식량 보급을 멈추거나 할 일은 없지만..<br><br>확실히 보급에 어려움을 겪고 있는 것은 사실이죠.<br>부디 큰 사고는 벌어지지 않았으면 좋겠어요.^,^^,^^,^Of course the chaos elf attacks have me concerned. But we can't let a little thing like open warfare get in the way of fine dining, can we? Now, wHat can I do for you?^,^^,^^
+^dialog_1210155_answer_9_text^,^요리사들의 대결 방식에 대해서 알고 싶습니다.^,^^,^^,^Cooking Competition^,^^,^^
+^dialog_1210156_Title^,^피치<풍요의 씨앗 조합>^,^^,^^,^Peach <Satiety Society>^,^^,^^
+^dialog_1210156_text0^,^요즘 전 요리사가 만들 수 있는 최고의 요리가 무엇일까 고민하고 있었어요. 하지만 곧 어렵지 않게 해답을 찾을 수 있었죠!<br><br>최고의 요리? 간단해요. 남들이 시도하지도 않고 시도해본 적도 없는 실험적인 요리! 그것이야말로 요리사가 필수적으로 지녀야할 덕목이 아니겠어요?^,^^,^^,^I've been contemplating the ultimate dish lately. It has to be something novel. Something no one has ever even dreamt of! But wHat could it be...?^,^^,^^
+^dialog_1210156_answer_4_text^,^요리사들의 대결 방식에 대해서 알고 싶습니다.^,^^,^^,^Cooking Competition^,^^,^^
+^dialog_1210157_Title^,^로마디아<수행 요리사>^,^^,^^,^Romadia <WandeRing Chef>^,^^,^^
+^dialog_1210157_text0^,^풍요의 씨앗 조합에 대해서 들어봤나요?<br>몇해 전부터 요리로 명성을 쌓으면서 요리사들에겐 선망의 대상이 되었다죠? 예전의 저라면 다른 요리사들과 다를 바 없었을 거에요. 하지만 수년간 미들라스를 돌아다니며 요리 수행을 해온 지금의 저는 달라요.<br><br>제 요리 실력과 비교한다면 누구도 제 상대가 될 수 없어요. 그것이 그 유명한 풍요의 씨앗 조합원이라 할지라도 말이에요.^,^^,^^,^The Satiety Society's gotten quite a reputation in the last few years. Still, I've travelled all over Midellas to perfect my cooking. I'm sure I could cook any of their chefs under the table!^,^^,^^
+^dialog_1210157_answer_9_text^,^요리를 수행한다면..풍요의 씨앗 조합에 들어가보는 건 어떻습니까?^,^^,^^,^Join the Satiety Society^,^^,^^
+^dialog_1210158_Title^,^로마디아<풍요의 씨앗 조합>^,^^,^^,^Romadia <Satiety Society>^,^^,^^
+^dialog_1210158_text0^,^요리의 길을 걷는 한 사람으로서 저는 지금껏 큰 착각을 하고 있었어요. 내 실력이 최고네 어쩌니 하면서 마치 제가 대단한 사람인 것처럼 굴었던 것 같기도 해요.<br>조합원들의 요리 실력과 요리에 대한 그들의 생각을 토론하는 일도 재밌고..조합에 들어오길 잘한 것 같아요.^,^^,^^,^I thought I knew everything, but I knew nothing. Cooking isn't about beating others. It's about shaRing joy with people you care for and respect.^,^^,^^
+^dialog_1210158_answer_0_text^,^그 복장은..결국 조합에 들어가셨군요. 축하드립니다.^,^^,^^,^Join the Satiety Society^,^^,^^
+^dialog_1210159_Title^,^퍼민트<풍요의 씨앗 조합>^,^^,^^,^Permint <Satiety Society^,^^,^^
+^dialog_1210159_text0^,^이곳 엘도르 마을에서 취급하는 음식들은 대부분 제 손을 거쳐 엘프들에게 공급되고 있어요. 저만큼 영양을 생각해서 식단을 짜는 요리사도 드물죠.<br><br>다만 걱정이 있다면 이곳의 치안이에요. 좋은 요리를 공급하기 위해선 당연히 좋은 식재료가 필요하겠죠?<br>하지만 당신도 알다시피 외부의 침입을 받고 있는 형편이니 그것이 순조롭겠냐 이 말이죠.^,^^,^^,^Practically everything the people of Eldorr eat passes through my kitchen. It's a struggle getting my hands on fresh ingredients wHat with the war and all, but I make do. I've had some trouble with theft, though...^,^^,^^
+^dialog_1210159_answer_5_text^,^엘도르 마을의 엘프들에게 따로 공급하는 식단이라도 있나요?^,^^,^^,^Eldorr Dining^,^^,^^
+^dialog_1210160_Title^,^트로이먼<빛의 엘프 마법사>^,^^,^^,^Troman <Light Elf Mage>^,^^,^^
+^dialog_1210160_text0^,^성역의 협곡이 혼돈으로 물들고 말았습니다.<br>엘프의 긍지를 버린 혼돈 엘프들은 마법사로써의 긍지도 버린 것 같군요. 역겨운 만들어진 생명을 부리다니...^,^^,^^,^The canyon has been consumed by chaos. Our enemies resort to dirty tricks and forbidden magic to press their advantage. Have they no shame?^,^^,^^
+^dialog_1210161_Title^,^맥슨<신룡기사단>^,^^,^^,^Maxon <Dragon Knight>^,^^,^^
+^dialog_1210161_text0^,^전시 상황에서는 주변 사물들이 아주 유용하게 사용되기도 합니다.<br>그렇기때문에 작은 부분도 활용 가치가 있는지 생각해봐야 하는 거죠! 특히 이곳 정글 거미의 거미줄은 아주 좋은 응급 치료제죠!^,^^,^^,^A great soldier knows how to turn the world around him into his Armory. A fallen branch can be just as deadly as a Sword. And spiderwebs make handy bandages in a pinch!^,^^,^^
+^dialog_1210162_Title^,^가베리온<빛의 엘프 마법사>^,^^,^^,^Gaberion <Light Elf Mage>^,^^,^^
+^dialog_1210162_text0^,^암흑의 힘을 사용하는 마법사들의 주술이 흥미로운 것은 사실입니다. 엘프들이 사용하는 마법과는 전혀 다른 양상을 띄고 있으니까요. 어찌보면 참으로 흥미로운 연구대상입니다.<br><br>물론, 암흑의 힘을 쫓는 것은 불경한 일입니다. 어디까지나 학자의 관점에서 이야기입니다.^,^^,^^,^The power of death magic is really quite interesting. It's completely unlike any spells used by elvenkind. I'd love the opportunity to study it more closely...<br><br>For purely academic purposes, of course.^,^^,^^
+^dialog_1210163_Title^,^에르하<빛의 엘프 마법사 견습생>^,^^,^^,^Erha <Light Elf Priest>^,^^,^^
+^dialog_1210163_text0^,^질서를 거스르는 존재가 이 땅에 발을 딛고 있다니, 정말 불결하기 그지 없습니다.<br>조화를 거부하는 혼돈을 받아들이는 것은 파멸을 부르는 일입니다. 그대 역시 이 사실을 명심하는 것이 좋을 겁니다.^,^^,^^,^By accepting chaos into their hearts, the chaos elves corrupt their very souls. No amount of power is worth tHat price.^,^^,^^
+^dialog_1210164_Title^,^크림슨<생태 연구원>^,^^,^^,^Crimson <Nature Warden>^,^^,^^
+^dialog_1210164_text0^,^자연의 소리에 귀를 기울이면 해답을 찾을 수 있습니다.<br>자연의 조화와 질서를 지키려면 생태에 대한 연구는 필수입니다. 많은 조사를 다녔지만, 이렇게 빠른 생태 변화는 처음보는 군요.<br><br>암흑의 존재들이 사용하는 독 은 정말 치명적입니다. 다시 이런 비극을 겪지 않기 위해서라도 독의 성분을 알아내야 합니다. 그래야 정화를 위한 길도 찾을 수 있을 것입니다.^,^^,^^,^Though my people worship Ellora, there can only be peace when light and dark is in balance. Ecologies such as Noxious Lake are just as vital as the verdant beauty of Celestine Falls.<br><br>Unfortunately, the forces of ruin are drawn to places like this. We must be vigilant in cleansing the corruption of Zelnaris from our lands.^,^^,^^
+^dialog_1210165_Title^,^쿠아노마르<펠로우 사냥꾼>^,^^,^^,^Quanomar <Familiar Trapper>^,^^,^^
+^dialog_1210165_text0^,^반갑네! 멸망의 공역 이후로 또 보게 되는군.<br>이곳 바람의 협곡에는 내가 사랑하는 희귀한 펠로우들이 아주 많이 있다네!<br>희귀종들은 아주 값이 비..아니 가치있는 펠로우들이네.^,^^,^^,^Long time no see, friend! I've come all the way to Windhome Canyon in search of even more expen... I mean, precious familiars!^,^^,^^
+^dialog_1210166_Title^,^말로<잡화 상인>^,^^,^^,^Malo <General Merchant>^,^^,^^
+^dialog_1210166_text0^,^혼돈 군단이 성역을 침공하면서 성역 전체가 엉망이 되어버렸습니다. 아주 안타까운 일이죠.<br>헌데 이런 상황을 반가워하는 자들도 더러 있더군요. 일부 상인들은 치안이 흔들리고 물가 변동이 생기면서 생긴 부수적인 수익을 신경쓰고 있다는 얘기죠.<br>정말 양심도 없는 자들이 아니겠습니까?^,^^,^^,^The invasion by the chaos elves can be seen as nothing less than a tragedy, but some of my less scrupulous competitors see this as an opportunity to make some quick gold. Have they no shame?^,^^,^^
+^dialog_1210166_answer_3_text^,^잡화 상점^,^^,^^,^General Shop^,^^,^^
+^dialog_1210167_Title^,^성역의 펠로우들을 연구하러 오신겁니까?^,^^,^^,^Sanctuary Research^,^^,^^
+^dialog_1210167_text0^,^혼돈 군단은 성역을 수호하는 빛의 엘프가 보유한 전력을 무너뜨리기 위해 혼돈의 기운을 퍼트렸습니다.<br>혼돈의 기운은 혼돈 엘프가 지닌 힘의 원천이자 감정의 혼란을 일으키는 강력한 정신계 마법의 일종이죠.<br><br>최근 성역의 펠로우들이 흉포하게 돌변했다는 보고를 접한 콜렉터의 수장이자 펠로우 마스터 바인데르님께선 혼돈의 기운이 펠로우들의 내면 깊이 잠들어있던 야성을 깨우게 되었다고 판단하셨습니다.^,^^,^^,^The chaos elves are using their magic to break the light elves' defenses. This magic bends the minds of sentient creatures, but Master Bynder's latest research suggests tHat it also awakens a sort of wildness in familiars.^,^^,^^
+^dialog_1210167_text0_attach_0^,^<br><br>이에 저희 콜렉터들은 성역에 파견되어 펠로우 생태계의 변화를 관찰하고 연구를 진행 중에 있습니다.^,^^,^^,^<br><br>THat's why we're here. We may not be popular in academic circles, but only the Collectors have the expertise to study this phenomenon.^,^^,^^
+^dialog_1210168_Title^,^무슨 고민이라도 있는 표정이로군요.^,^^,^^,^Worries^,^^,^^
+^dialog_1210168_text0^,^혼돈 군단이 성역을 침공하면서 펠로우 생태계는 급격한 변화를 맞이하고 있습니다. 펠로우들에게는 그야말로 격동의 시기죠. 이런 상황이 그저 펠로우에게만 국한된 일이겠습니까?<br><br>곧 성역 전체에 크고 작은 영향을 미치게 될 겁니다. 펠로우들의 야성을 잠재우고 그 근본적인 원인을 찾아 해결책을 마련해야합니다.<br><br>하지만 상황이 상황인지라 모든 일이 원만하게 풀릴지는 저로서는 장담하기 어렵군요.^,^^,^^,^This war has thrown the ecology of the Sanctuary's familiars completely out of balance. And it won't be confined to the familiars for long. We need to capture them and study them, or I shudder to think wHat will happen...^,^^,^^
+^dialog_1210169_Title^,^실종되었다는 콜렉터는 누구입니까?^,^^,^^,^Missing Collector^,^^,^^
+^dialog_1210169_text0^,^콜렉터의 수장이자 펠로우 마스터인 바인데르님은 성역의 펠로우들이 급격한 변화를 겪게된 사태 파악과 해결을 명분으로 유능한 콜렉터이자 자신의 제자인 밀리온을 파견하셨습니다.<br><br>하지만 얼마 지나지 않아 밀리온으로부터 보내졌어야 할 정기 보고가 하루 이틀 밀리기 시작하더니 급기야 연락은 두절되고 그의 행방이 묘연해지게 된 것입니다.<br>바인데르님은 사태의 심각성을 고려하여 저를 포함한 3인의 콜렉터를 추가로 급파하셨습니다.^,^^,^^,^Milton's one of our best. Master Bynder personally selected him for a mission to Ellora Sanctuary, but we stopped getting reports shortly after he came here. THat's why I'm here -- to find Milton and bRing him back safely.^,^^,^^
+^dialog_1210170_Title^,^콜렉터를 찾는 일 외에 별다른 사항은 없습니까?^,^^,^^,^Other Work^,^^,^^
+^dialog_1210170_text0^,^그럴리 있겠습니까?<br>밀리온을 찾는 것도 중요하지만 소식이 끊어지기 전, 그가 맡았던 임무를 마무리 짓는 것도 등한시 할 수 없는 일입니다. 저를 포함한 3인의 콜렉터들은 각자 주둔하고 있는 지역을 기점으로 독자적인 임무를 진행 중입니다.^,^^,^^,^Finding Milton is important, but so is the work he was doing before he vanished. One of my jobs is to make sure tHat work gets finished.^,^^,^^
+^dialog_1210170_text0_attach_0^,^<br><br>이번 임무의 신속한 대응을 위해 르노아르의 영지, 빛의 숲, 엘리노 수림지에서 긴밀하게 공조하고 있죠.<br>하지만 역시..행방불명 된 콜렉터 밀리온의 행적 파악은 반드시 해결해야할 과제입니다.^,^^,^^,^<br><br>Me and two other Collectors are quietly working to see the mission done. While we're at it, hopefully we'll be able to unravel the mystery of Milton's disappearance.^,^^,^^
+^dialog_1210171_Title^,^실종되었다는 콜렉터는 누구입니까?^,^^,^^,^Missing Collector^,^^,^^
+^dialog_1210171_text0^,^콜렉터의 수장이자 펠로우 마스터인 바인데르님은 성역의 펠로우들이 급격한 변화를 겪게된 사태 파악과 해결을 명분으로 유능한 콜렉터이자 자신의 제자인 밀리온을 파견하셨습니다.<br><br>하지만 얼마 지나지 않아 밀리온으로부터 보내졌어야 할 정기 보고가 하루 이틀 밀리기 시작하더니 급기야 연락은 두절되고 그의 행방이 묘연해지게 된 것입니다.<br>바인데르님은 사태의 심각성을 고려하여 저를 포함한 3인의 콜렉터를 추가로 급파하셨습니다.^,^^,^^,^Milton's one of our best. Master Bynder personally selected him for a mission to Ellora Sanctuary, but we stopped getting reports shortly after he came here. THat's why I'm here -- to find Milton and bRing him back safely.^,^^,^^
+^dialog_1210172_Title^,^몸은 괜찮으십니까?^,^^,^^,^Health^,^^,^^
+^dialog_1210172_text0^,^괜찮다고 말하곤 싶지만..제 정신을 온전하게 붙잡고 있는 것도 사실 버겁..습니다. 혼돈 기운의 근원은 혼돈 엘프가 소유한 힘의 원천입니다.<br>그들이 숭상하는 혼돈을 따르지 않는 한..이 강력한 정신계 마법을 이겨낼 방법이 있다곤..생각되지 않는군요.<br>..하지만 아직까진 전 버텨내고 있습니다.^,^^,^^,^Great... Just great... Chaos magic rattling around in my skull... Trying to take over...^,^^,^^
+^dialog_1210172_text0_attach_0^,^<br><br><font color="#3ec1d0">(밀리온은 붉게 충혈된 눈을 부릅뜨며 말을 이었다.)</font><br><br>제가 죽더라도..이 기운에 굴복할 일은..크윽..없습니다.^,^^,^^,^<br><br>D-don't worry. I won't give in! Die before I give in...^,^^,^^
+^dialog_1210173_Title^,^그동안 콜렉터들이 당신의 행방을 애타게 찾았습니다.^,^^,^^,^Search for Milton^,^^,^^
+^dialog_1210173_text0^,^제 불찰로..다른 콜렉터들에게 폐를 끼치게 되었습니다. 그들을 볼 면목이 없군요. 게다가 못난 제자 때문에 스승님의 명성에도 누를 범했으니..<br>하지만 고통스러운 시간을 견뎌내면..제 잘못을 사죄할 기회도 올 것입니다.^,^^,^^,^Waste... waste of time... Shouldn't have let the others worry... Have to make it up... to them...^,^^,^^
+^dialog_1210174_Title^,^어쩌다 이렇게 되었는지 사정을 말해줄 수 있겠습니까?^,^^,^^,^How This Happened^,^^,^^
+^dialog_1210174_text0^,^제가 성역에 온 명목은 성역에서 포착된 펠로우 생태계의 급격한 변화를 관찰하기 위해서였습니다.<br>허나 실상은 성역 남쪽, 잊혀진 성지에 봉인된 데모닉 스톤과 한 마리의 성스러운 영수에 대해 조사하기 위함이었습니다. 아무리 봉인되어있다고 하더라도 그 어떤 마력보다 정순하고 강력한 힘이 담겨있는 데모닉 스톤은 미세하게나마 그 힘이 외부에 새어나오곤 했습니다.^,^^,^^,^Collectors sent here... to study effect of chaos on familiars... right? Wrong! Really hear to study the Demonic Stone... Evil power, leaking out through the seal...^,^^,^^
+^dialog_1210174_text0_attach_0^,^<br><br>그리고 정확히 언제부터인지는 알 수 없으나 세계수 엘드라실과 비슷한 시기부터 살아왔다는 한 마리의 영수, 토르카이가 데모닉 스톤에서 새어나온 힘에 이끌린 것을 알게 되었죠. 그 힘은 혼돈의 기운과 합쳐져 영수의 이성을 붕괴시켰습니다.<br>저는 토르카이의 상태를 점검하고 그의 상태 여부에 따라 정화를 시도하려 했습니다. 하지만 되려 제가 토르카이의 체내에 흐러던 마력에 노출되어 이 꼴이 되고야 말았습니다.^,^^,^^,^<br><br>I was okay until... until got too close to Torkai. Holy beast, tainted by ruin... Thought I could cleanse it. I was wrong...^,^^,^^
+^dialog_1210175_Title^,^콜렉터 선발 시험에 대해서 알고 싶군요.^,^^,^^,^Collector Exam^,^^,^^
+^dialog_1210175_text0^,^대외적로 콜렉터는 세가지의 시험 과정읕 통과하여 선발됩니다. 첫째는, 기초적인 펠로우 지식과 성향을 파악하는 시험입니다. 둘째는, 한달간의 생존 훈련을 버텨내야만 합니다. 마지막으로 콜렉터의 수장, 펠로우 마스터 바인데르님과 3일간의 심층 면담이 끝나야만 비로소 콜렉터의 일원으로 받아들여집니다.^,^^,^^,^There are three tests you have to pass before you can join the Collector. A basic written test to see if you know your familiars, a month in the wilderness to see if you can take care of yourself, and, finally, an intensive interview with Bynder himself.^,^^,^^
+^dialog_1210175_text0_attach_0^,^<br><br>이 중에서 콜렉터 후보생들을 가장 괴롭게 한 것은 두번째 시험인 생존 훈련입니다. 콜렉터들에겐 인고의 시간이라 불리는 이 과정은 한달의 시간동안 시험 지역으로 정해진 장소에서 말 그대로 버텨내는 것입니다.<br>대부분의 장소는 불모지나 가파른 협곡 등의 험지가 대부분이었기 때문에 많은 후보생들이 이 과정에서 고배를 마시기 일쑤였다고 하더군요.^,^^,^^,^<br><br>It's the second test where they really separate the wheat from the chaff. They always send you to the harshest place they can find. Some cadets even die duRing these tests...^,^^,^^
+^dialog_1210176_Title^,^시험은 잘 치르고 있는..것 입니까?^,^^,^^,^Progress^,^^,^^
+^dialog_1210176_text0^,^콜렉터 선발 시험의 두번째 과정을 진행하기 위해 저와 다른 후보생들은 바람의 협곡에 오게 되었습니다.<br>저와 락슈, 글로펜은 당당히 인고의 시간을 버텨내고 콜렉터가 되겠다는 의지를 불태웠습니다. 하지만 현실의 벽은 높다는 걸 절실히 깨닫게 되었죠.^,^^,^^,^Me, Rahkshi, and Glover made a pact to get through this exam together. But it's not going as well as we hoped.^,^^,^^
+^dialog_1210176_text0_attach_0^,^<br><br>빛의 엘프 마을인 엘도르는 암흑 마법사를 위시한 어둠의 세력의 공세를 받고 있었고, 그나마 안전하다고 판단한 협곡의 강변은 흉포한 야수들이 장악하고 있었죠.<br>이제야 겨우 숨을 돌리고 있지만..앞으로가 걱정입니다.^,^^,^^,^<br><br>We figured we'd be safe if we stayed close to Eldorr. But even this close to the city, the canyon is swarming with monsters and death mages...^,^^,^^
+^dialog_1210177_Title^,^조합이 성역까지 진출했을 줄은 몰랐습니다.^,^^,^^,^Satiety Society in the Sanctuary^,^^,^^
+^dialog_1210177_text0^,^본 조합의 규모는 해가 갈수록 커지고 있어 미들라스 대륙 어디든 저희의 영향을 받지 않는 곳이 없죠.<br>하지만 성역이 특별한 곳인 것만은 틀림없어요. 빛의 엘프들은 이방인에게 그리 관대한 종족이 아니에요.<br><br>조합은 혼돈 군단과 대치 중인 빛의 엘프에게 양질의 보급품을 무상 제공하는 대가로 성역의 특산품 채집과 상거래 권한을 허가 받았어요.^,^^,^^,^Food is the universal language! The light elves haven't always been welcoming to outsiders, but the Society is allowed to come and go freely because of our devotion to fresh food.^,^^,^^
+^dialog_1210178_Title^,^성역의 특산품에 대해 알고 싶습니다.^,^^,^^,^Local Specialties^,^^,^^
+^dialog_1210178_text0^,^빛의 엘프들은 숲을 사랑하며 빛과 생명의 어머니인 엘로라의 가르침을 따른다고 알려져 있어요. 그것을 증명하듯 엘프들은 세계수 엘드라실이 뿌리내린 엘가덴에서부터 거대한 삼림을 가꾸는 녹림 사업을 추진했어요.<br><br>고대부터 이어져 온 사업은 현재에 이르러 그 결실을 보였죠. 그것이 바로 루샤인 꽃이죠.<br>성역은 세계수 엘드라실의 풍요로움을 간직한 거대한 숲이자 진귀한 루샤인 꽃의 산지에요.^,^^,^^,^The light elves are dedicated both to the forest and to the teachings of Ellora. This dedication has blossomed into the full-bodied rashine flower, a delectable delicacy cultivated over centuries here in the Sanctuary.^,^^,^^
+^dialog_1210179_Title^,^요리사들의 대결 방식에 대해서 알고 싶습니다.^,^^,^^,^Cooking Competition^,^^,^^
+^dialog_1210179_text0^,^6일 만찬이라는 행사에 대해 들어보신 적이 있나요?<br>과거 하카나스 왕국을 건국한 하케인 1세가 구 엑자란 왕국의 몰락 귀족, 새로이 하카나스 왕국의 집권 세력으로 성장한 평민층. 두 개국 공신 세력의 화합을 주선한 연회에서 시작된 전통이 바로 6일 만찬이에요.^,^^,^^,^The All-Crowns Feast is a tradition dating back to the rule of King Hakain I. Even after a decade of peaceful rule, the remaining nobility and royalty of the old kingdoms still chafed under their new king.^,^^,^^
+^dialog_1210179_text0_attach_0^,^<br><br>6일간 거행되는 연회에서 요리사들은 각 세력을 대표하여 서로의 솜씨를 뽐내며 경쟁했어요.<br>이 전통이 오늘날까지 이어져 요리사들의 대결이라 함은 이 6일만찬을 일컫는 경우가 대부분이에요.^,^^,^^,^<br><br>THat's why Hakain announced six days of feasting, in which chefs from all the old kingdoms would show off their finest culinary arts. It's probably the most famous cooking competition in Hakanas.^,^^,^^
+^dialog_1210180_Title^,^요리를 수행한다면..풍요의 씨앗 조합에 들어가보는 건 어떻습니까?^,^^,^^,^Join the Satiety Society^,^^,^^
+^dialog_1210180_text0^,^풍요의 씨앗 조합이요?<br><br><font color="#3ec1d0">(조합이라는 단어에 로마디아의 눈빛이 날카로워졌다.)</font><br><br>최근 풍요의 씨앗 조합이 요식업으로 유명세를 타고 있다는 소문을 들었어요. 하지만 전 제가 직접 본 것만 믿는 사람이에요.<br>그들의 명성이 허풍인지 아닌지는 알길이 없죠. 그들에 대한 지금의 제 평가는 상인도 아니고 요리사도 아니고..이도 저도 아닌 자들이 모여있는 곳에 불과해요.^,^^,^^,^I'd never join the Satiety Society. Not in a million years! My cooking is wild and pioneeRing. A big organization like tHat would hold me back.^,^^,^^
+^dialog_1210181_Title^,^요리사들의 대결 방식에 대해서 알고 싶습니다.^,^^,^^,^Cooking Competition^,^^,^^
+^dialog_1210181_text0^,^6일 만찬이라는 행사에 대해 들어보신 적이 있나요?<br>과거 하카나스 왕국을 건국한 하케인 1세가 구 엑자란 왕국의 몰락 귀족, 새로이 하카나스 왕국의 집권 세력으로 성장한 평민층. 두 개국 공신 세력의 화합을 주선한 연회에서 시작된 전통이 바로 6일 만찬이에요.^,^^,^^,^The All-Crowns Feast is a tradition dating back to the rule of King Hakain I. Even after a decade of peaceful rule, the remaining nobility and royalty of the old kingdoms still chafed under their new king.^,^^,^^
+^dialog_1210181_text0_attach_0^,^<br><br>6일간 거행되는 연회에서 요리사들은 각 세력을 대표하여 서로의 솜씨를 뽐내며 경쟁했어요.<br>이 전통이 오늘날까지 이어져 요리사들의 대결이라 함은 이 6일만찬을 일컫는 경우가 대부분이에요.^,^^,^^,^<br><br>THat's why Hakain announced six days of feasting, in which chefs from all the old kingdoms would show off their finest culinary arts. It's probably the most famous cooking competition in Hakanas.^,^^,^^
+^dialog_1210182_Title^,^엘도르 마을의 엘프들에게 따로 공급하는 식단이라도 있나요?^,^^,^^,^Eldorr Dining^,^^,^^
+^dialog_1210182_text0^,^엘도르 마을의 엘프들은 지속되는 암흑 마법사들의 공세를 버텨내느라 많이 지쳐있는 상태에요.<br>그들에게 필요한 것은 뭐니뭐니해도 기력 회복에 좋은 보양식이죠. 제 특기는 보양식 메뉴 개발이에요.<br>물론 제 특기를 마음껏 발휘할 만큼 식재료가 남아도는 것이 아니라는 점이 문제지만요..^,^^,^^,^A hearty meal is just wHat the elves need to keep up their strength against the death mages. THat's probably why they accepted my help -- human cuisine is full of pep and vigor! Of course, none of tHat means anything if I can't get the right ingredients.^,^^,^^
+^dialog_1210183_Title^,^엘가덴은 안전한 것입니까?^,^^,^^,^Elgaden's Safety^,^^,^^
+^dialog_1210183_text0^,^물리적인 안전을 말하고자 한다면..안심하고 머물러있어도 됩니다. 하지만 오랜 원한과 혼돈의 검은 그림자가 엘가덴까지 퍼지고 있습니다.<br><br>엘가덴을 지키는 세계수 엘드라실이 과거의 힘을 유지하고 있었다면 외부의 위협이 무슨 소용이었겠습니까?<br>하지만 작금의 상황은 그리 좋지 않군요.^,^^,^^,^Our warriors are strong, but I fear for the soul of the forest. Daleroth has long been our caretaker. Should he falter... I do not know wHat would happen.^,^^,^^
+^dialog_1210184_Title^,^성역을 수호한다는 세계수에 대해 알고 싶습니다.^,^^,^^,^The Great Tree^,^^,^^
+^dialog_1210184_text0^,^미들라스 대륙의 탄생 시기, 빛과 생명의 어머니인 엘로라 여신은 성역에 하나의 씨앗을 심었습니다.<br>그 씨앗은 이루말할 수 없는 억겁의 시간을 거쳐 성역에 뿌리를 내렸습니다. 현명한 지식은 끝이 없고 성스러움과 풍요로움으로 가득찬 거목으로 자라나게 되었죠.^,^^,^^,^Daleroth is a gift to all of Midellas. He was already here when our ancestors first made landfall in the Sanctuary. We merely took our place as his caretakers, just as he takes care of us.^,^^,^^
+^dialog_1210184_text0_attach_0^,^<br><br>숲을 사랑하며 엘로라의 가르침을 따르는 빛의 엘프들은 그 나무에 고대와 지식을 뜻하는 엘프어 엘과 탄생을 뜻하는 엘프어 드라실이라는 이름을 붙여 엘드라실이라고 부르며 칭송했습니다.<br><br>오랜 세월 동안 엘드라실은 현명한 혜안과 강력한 힘을 지닌 수호자로서 성역을 지켜왔죠..아주 오랜 세월 동안 말이에요.^,^^,^^,^<br><br>Daleroth's wisdom is wHat separates us from the chaos elves. Perhaps it was Ellora's plan all along tHat he keep us on the proper path.^,^^,^^
+^dialog_1210185_Title^,^성역을 수호한다는 세계수에 대해 알고 싶습니다.^,^^,^^,^Daleroth's Origin^,^^,^^
+^dialog_1210185_text0^,^세계수에 관한 이야기라면 어떤 엘프에게서든 같은 이야기를 들을 수 있네. 엘프들에겐 오래도록 회자되는 전설같은 이야기지.<br><br>대지가 생겨나고 어둠뿐인 세상에 빛이 비추던 창세기에 생명의 어머니, 엘로라 여신은 성역에 하나의 씨앗을 심게 되었네. 그 씨앗은 엘프의 역사로도 판가름 할 수 없는 세월을 거쳐 성역에 뿌리를 내렸네.<br>현명한 지식은 대해와 같았고 성스러움과 풍요로움은 세상을 가득 덮을만큼 웅장한 거목으로 자라났지.^,^^,^^,^When the land was young, Ellora planted a holy seed in this place. The roots grew deep into the heart of the world, and the sapling grew tall, nourished by the wisdom and knowledge of the divine.^,^^,^^
+^dialog_1210185_text0_attach_0^,^<br><br>숲을 사랑하며 엘로라의 가르침을 따르는 빛의 엘프들은 그 나무에 고대와 지식을 뜻하는 엘프어 엘과 탄생을 뜻하는 엘프어 드라실이라는 이름을 붙여 엘드라실이라고 부르며 칭송했네.<br><br>그래서 엘프들은 세계수 엘드라실을 성역의 수호자라고도 부르곤 한다네.^,^^,^^,^<br><br>When the light elves arrived here, we named the tree Daleroth, which is Old Elven for 'origin of ancient truths.' Daleroth has stood here as the Guardian of the sanctuary for countless generations.^,^^,^^
+^dialog_1210186_Title^,^세계수가 지녔던 본래 힘은 어느정도였습니까?^,^^,^^,^Daleroth's Power^,^^,^^
+^dialog_1210186_text0^,^대지가 생겨나던 창세기의 전설들은 한낱 피조물의 지식으론 감히 상상하기 어려운 힘을 지닌 존재들의 활약으로 가득하네. 그들도 역시 엘프와 인간처럼 신의 창조물이었으되 그들에게 허락된 권능은 신에 버금갔지.<br>오랜 세월 불사의 사막을 지배한 태고의 3영물이 바로 그런 존재가 아니겠는가?^,^^,^^,^According to the old tales, there were many marvelous creatures duRing the Divine Era. Mortal beings like you or I, but blessed with god-like power. Creatures like Daleroth or the fabled rulers of the Cloying Wastes, who have all but passed into legend.^,^^,^^
+^dialog_1210186_text0_attach_0^,^<br><br>세계수 엘드라실은 나무라는 특성 때문에 그들과 같은 행동의 자유가 주어지진 않았네. 하지만 엘드라실의 뿌리는 성역 전체에 뻗어나가 대지에 생명을 불어넣고 악으로부터 지켜내며 만물을 관장하는 힘을 지니게 되었다고 하네.<br><br>이 엘가덴이 혼돈 엘프의 침공에서도 건재한 이유는 아직 엘드라실의 가호가 남아있기 때문이지.^,^^,^^,^<br><br>Daleroth may not be able to move, but his roots protect all of Ellora Sanctuary. It is only by the grace of his protection tHat Elgaden has stood in the face of the chaos elf attacks.^,^^,^^
+^dialog_1210187_Title^,^세계수가 힘을 잃어가고 있는 이유가 무엇입니까?^,^^,^^,^Daleroth's Fading^,^^,^^
+^dialog_1210187_text0^,^자네는 그 이유가 뭐라고 생각하는가?<br><br><font color="#3ec1d0">(콘웰은 씁쓸한 미소를 머금은 채 말을 이었다.)</font><br><br>생각해보면 아주 간단한 이유네. 엘드라실이 아무리 강력한 권능을 지닌 존재라 하더라도 영원불멸의 존재는 아니라는 뜻이지. 또한 짦지않은 세월 동안 세계수는 끊임없는 외부의 위협으로부터 지닌 생명력을 거의 모두 소진하였네.^,^^,^^,^For all of its power, the tree is not immortal. He has protected this forest over the years. All things, no matter how good, must end...^,^^,^^
+^dialog_1210187_text0_attach_0^,^<br><br>얼마나 많은 미지의 마물들이 미들라스를 유린한지 자네는 모를테지. 멀게는 4대 주신에 대항하여 싸운 고대의 반신, 그리고 마신과 불멸악마. 악마들을 따르던 수많은 군대들. 그들로부터 이 대지를 지키기 위해 엘드라실은 자신을 희생해왔네. 그리고 이제는 그 운명의 때가 점차 도래하기 시작한 것이지..^,^^,^^,^<br><br>Daleroth has stood against countless threats. The avarice of demigods like Radan and Skatrasha. The demon Khabim. The God of Ruin. He has seen much, and led a full life, but now his time has come.^,^^,^^
+^dialog_1210188_Title^,^임무 게시판 (로누아 야영지)^,^^,^^,^Mission Board (Ronua Camp)^,^^,^^
+^dialog_1210188_text0^,^현재 혼돈 엘프들의 습격으로 야영지 일대가 위험하니 주의 요망<br><br>신룡 기사단^,^^,^^,^Caution: Beware of chaos elf ambushes outside of camp.<br><br>- The Order of Velzeroth^,^^,^^
+^dialog_1210189_Title^,^임무 게시판 (신룡 기사단 캠프)^,^^,^^,^Mission Board (Dragon Knight Camp)^,^^,^^
+^dialog_1210189_text0^,^흉포해진 트렌트와 혼돈 엘프의 공격으로 캠프 주변의 치안에 주의 요망<br><br>신룡 기사단^,^^,^^,^A high alert warning has been issued for chaos elf attacks and feral dryath sightings.<br><br>- Order of Velzeroth^,^^,^^
+^dialog_1210190_Title^,^임무 게시판 (엘 가덴 도시)^,^^,^^,^Mission Board (Elgaden)^,^^,^^
+^dialog_1210190_text0^,^도시 외부에는 혼돈 엘프의 공격으로 위험합니다. 엘드라실의 가호를 받고 있는 엘 가덴 도시는 아직 안전하니, 외부 출입을 삼가해주십시오.<br><br>엘 가덴 도시 수비대^,^^,^^,^City is on high alert for chaos elf attacks. Civilians are urged to remain within the confines of Daleroth's wards at all times.<br><br>- Elgaden Guard^,^^,^^
+^dialog_1210191_Title^,^임무 게시판 (칼날 협곡 절벽)^,^^,^^,^Mission Board (Razor Cliff)^,^^,^^
+^dialog_1210191_text0^,^협곡의 안전을 위협하는 적들과 물러서지 않고 대적하며 공을 세우는 자에겐 정당한 대가가 주어지리라.<br><br><font color="#3ec1d0">성역의 장로 웬투스</font>^,^^,^^,^Those who find glory in defeating the enemies of the light elves shall have their reward.<br><br>- Elder Wentus^,^^,^^
+^dialog_1210192_Title^,^임무 게시판 (협곡 저지대)^,^^,^^,^Mission Board (Canyon Valley)^,^^,^^
+^dialog_1210192_text0^,^갑작스러운 어둠의 존재의 습격으로 마을이 위험합니다. 가능한 출입을 삼가하시고, 아이들의 안위를 살피십시오.<br><br>엘 도르 마을 경비대^,^^,^^,^Even in these times of darkness, Ellora hears our prayers. Keep faith and faith shall keep you.<br><br>- Eldorr Guard^,^^,^^
+^dialog_1210193_Title^,^임무 게시판 (오염된 호수)^,^^,^^,^Mission Board (Noxious Lake)^,^^,^^
+^dialog_1210193_text0^,^호수 일대가 치명적인 독에 물들어 위험합니다. 호수의 출입을 삼가해주십시오.<br><br>엘 도르 마을 경비대^,^^,^^,^Poison warning. Swimming highly discouraged.<br><br>- Eldorr Guard^,^^,^^
+^dialog_1210194_Title^,^임무 게시판 (엘 카닌 섬)^,^^,^^,^Mission Board (El canin Island)^,^^,^^
+^dialog_1210194_text0^,^갑작스러운 어둠의 존재의 습격으로 마을이 위험합니다. 가능한 출입을 삼가하시고, 아이들의 안위를 살피십시오.<br><br>엘 도르 마을 경비대^,^^,^^,^Even in these times of darkness, Ellora hears our prayers. Keep faith and faith shall keep you.<br><br>- Eldorr Guard^,^^,^^
+^dialog_1210195_Title^,^임무게시판 (빛의 숲 격전지)^,^^,^^,^Mission Board <Sunderlight>^,^^,^^
+^dialog_1210195_text0^,^성역을 유린하는 혼돈 엘프들에게 맞서 싸우는 자에게 빛과 생명이 깃들기를<br><br><font color="#3ec1d0">빛의 숲 경비대장 슬레니르</font>^,^^,^^,^Light and life to those who stand against chaos.<br><br>- Captain Slenir^,^^,^^
+^dialog_1210196_Title^,^임무게시판 (고대의 숲)^,^^,^^,^Mission Board (Ancestor's Grove)^,^^,^^
+^dialog_1210196_text0^,^고대의 기운이 살아 숨쉬는 숲을 지날 시에는 혹시 모를 유적이나 유물이 손상되지 않도록 주의를 요망함.<br><br><font color="#3ec1d0">유물 발굴단 디소스</font>^,^^,^^,^When passing through Ancestor's Grove, take care not to damage the Crests.<br><br>- Desourd^,^^,^^
+^dialog_1210197_Title^,^임무게시판 (엘 리노 수림지)^,^^,^^,^Mission Board (Elino)^,^^,^^
+^dialog_1210197_text0^,^성스러운 가호로 축복되어야 마땅한 그 이름, 소생하는 엘드라실의 영역을 지키는 형제 자매들에게 고합니다. 우리에게 잠시 닥쳐온 고난과 어둠의 시간을 이겨내는 그 날까지 빛의 가르침을 따르십시오.<br><br><font color="#3ec1d0">성역의 장로 에르나</font>^,^^,^^,^Elino is the blessed home of the New Daleroth, Daleroth-cut-from-Daleroth, Guardian of the elves reborn. Carry the light in your heart and strength in your arm as you defend our city from evil.<br><br>- Elder Erna^,^^,^^
+^dialog_1210198_Title^,^임무게시판 (빛의 엘프 캠프)^,^^,^^,^Mission Board (Light Elf Camp)^,^^,^^
+^dialog_1210198_text0^,^성역의 안전을 위협하는 적들의 행동, 성향, 병력의 규모와 이동 경로. 어느 것 하나 빠짐없이 기록하는 것을 잊지 말고 다음 교대조에게 인계될 수 있도록 하시오.<br><br><font color="#3ec1d0">엘로라 성역 수색대 엘톤</font>^,^^,^^,^Record all activities, statuses, movements, and number of the enemy troops who threaten the sanctuary, so you can pass down the findings to your replacements.<br><br>- Sanctuary Keeper Eldon^,^^,^^
+^dialog_1210199_Title^,^임무게시판 (잊혀진 성지)^,^^,^^,^Mission Board (Forgotten Shrine)^,^^,^^
+^dialog_1210199_text0^,^성역의 안전을 위협하는 적들의 행동, 성향, 병력의 규모와 이동 경로. 어느 것 하나 빠짐없이 기록하는 것을 잊지 말고 다음 교대조에게 인계될 수 있도록 하시오.<br><br><font color="#3ec1d0">엘로라 성역 수색대 타르나곤</font>^,^^,^^,^Report all suspicious activity to the nearest keeper.<br><br>- Keeper Tartagon^,^^,^^
+^dialog_1210200_Title^,^임무 게시판 (엘 도르 마을)^,^^,^^,^Mission Board (Eldorr)^,^^,^^
+^dialog_1210200_text0^,^갑작스러운 어둠의 존재의 습격으로 마을이 위험합니다. 가능한 출입을 삼가하시고, 아이들의 안위를 살피십시오.<br><br>엘 도르 마을 경비대^,^^,^^,^Even in these times of darkness, Ellora hears our prayers. Keep faith and faith shall keep you.<br><br>- Eldorr Guard^,^^,^^
+^dialog_1210201_Title^,^리스코<야수 조련사>^,^^,^^,^Risco <Beast Trainer>^,^^,^^
+^dialog_1210201_text0^,^나는 야수 조련사 리스코다.<br>뛰어난 조련사가 되고 싶은가? 그렇다면 간단해. 야수를 길들일 때는 교감이 아주 중요하지. 항상 펠로우를 아끼고 사랑해야하는 마음을 잊지 않으면 되는 거야.^,^^,^^,^It's me, Risco the Beast Trainer! You want to become a master trainer, too? It's easy. Just follow my lead!^,^^,^^
+^dialog_1210201_answer_0_text^,^펠로우 위탁^,^^,^^,^Familiar FosteRing^,^^,^^
+^dialog_1210201_answer_1_text^,^펠로우 목장으로 이동^,^^,^^,^Move to Familiar Farm^,^^,^^
+^dialog_1210202_Title^,^툴릭<야수 조련사>^,^^,^^,^Tulik <Beast Trainer>^,^^,^^
+^dialog_1210202_text0^,^나는 야수 조련사 툴릭이다.<br>뛰어난 조련사가 되고 싶은가? 그렇다면 간단해. 야수를 길들일 때는 교감이 아주 중요하지. 항상 펠로우를 아끼고 사랑해야하는 마음을 잊지 않으면 되는 거야.^,^^,^^,^There are a lot of opportunities for a trainer here in Ellora Sanctuary. The light elves value our expertise, and we value the strange and elegant creatures tHat call these forests their home.^,^^,^^
+^dialog_1210202_answer_0_text^,^펠로우 위탁^,^^,^^,^Familiar FosteRing^,^^,^^
+^dialog_1210202_answer_1_text^,^펠로우 목장으로 이동^,^^,^^,^Move to Familiar Farm^,^^,^^
+^dialog_1210203_Title^,^스카림<야수 조련사>^,^^,^^,^Skarim <Beast Trainer>^,^^,^^
+^dialog_1210203_text0^,^나는 야수 조련사 스카림이다.<br>뛰어난 조련사가 되고 싶은가? 그렇다면 간단해. 야수를 길들일 때는 교감이 아주 중요하지. 항상 펠로우를 아끼고 사랑해야하는 마음을 잊지 않으면 되는 거야.^,^^,^^,^I am Skarim, the great beast trainer. WHat's my secret? Why, it's to love and cherish your familiars at all times. Surely everyone knows tHat!^,^^,^^
+^dialog_1210203_answer_0_text^,^펠로우 위탁^,^^,^^,^Familiar FosteRing^,^^,^^
+^dialog_1210203_answer_1_text^,^펠로우 목장으로 이동^,^^,^^,^Move to Familiar Farm^,^^,^^
+^dialog_1210204_Title^,^리엘<야수 조련사>^,^^,^^,^Riel <Beast Trainer>^,^^,^^
+^dialog_1210204_text0^,^나는 야수 조련사 리엘이다.<br>뛰어난 조련사가 되고 싶은가? 그렇다면 간단해. 야수를 길들일 때는 교감이 아주 중요하지. 항상 펠로우를 아끼고 사랑해야하는 마음을 잊지 않으면 되는 거야.^,^^,^^,^Most trainers will tell you tHat a deep connection is vital to being a good trainer, but, in my experience, a strong hand is more important. Tough love is still love, after all.^,^^,^^
+^dialog_1210204_answer_0_text^,^펠로우 위탁^,^^,^^,^Familiar FosteRing^,^^,^^
+^dialog_1210204_answer_1_text^,^펠로우 목장으로 이동^,^^,^^,^Move to Familiar Farm^,^^,^^
+^dialog_1210205_Title^,^소르자<야수 조련사>^,^^,^^,^Sorza <Beast Trainer>^,^^,^^
+^dialog_1210205_text0^,^나는 야수 조련사 소르자다.<br>뛰어난 조련사가 되고 싶은가? 그렇다면 간단해. 야수를 길들일 때는 교감이 아주 중요하지. 항상 펠로우를 아끼고 사랑해야하는 마음을 잊지 않으면 되는 거야.^,^^,^^,^Sorza's the name. Looking to pick up some tips on how to handle your familiar? Lucky for you, I know them all.^,^^,^^
+^dialog_1210205_answer_0_text^,^펠로우 위탁^,^^,^^,^Familiar FosteRing^,^^,^^
+^dialog_1210205_answer_1_text^,^펠로우 목장으로 이동^,^^,^^,^Move to Familiar Farm^,^^,^^
+^dialog_1210206_Title^,^루미안<콜렉터 선발 시험 감독관>^,^^,^^,^Rumian <Collector Supervisor>^,^^,^^
+^dialog_1210206_text0^,^콜렉터 선발 시험의 감독관으로 이곳 바람의 협곡에 파견된 루미안입니다. 시험 장소로 협곡을 선정했는데 죽음 마법사들, 그리고 가고일 떼를 보셨습니까?<br>그들의 끊임없는 공격 때문에 이곳 엘 도르의 긴장감은 이루 말할 수 없습니다.^,^^,^^,^I'm here in this light-forsaken place to administer the Collector exams. Did you run into any death mages on your way here? How about the frenzied gargoyles? Windhome Canyone is a great place to come to die!^,^^,^^
+^dialog_1210206_answer_6_text^,^왜 하필이면 시험 장소로 협곡을 선택하셨습니까?^,^^,^^,^Collector Exam^,^^,^^
+^dialog_1210207_Title^,^피리엇<콜렉터>^,^^,^^,^Periot <Collector>^,^^,^^
+^dialog_1210207_text0^,^저는 지금껏 혼돈의 기운이란 것이 그저 혼돈 엘프가 사용하는 포괄적인 힘이라고만 이해하고 있었습니다.<br>헌데 이곳에서 목격한 것들은 제 상식에 의문을 품게 하는군요.^,^^,^^,^I thought chaos magic was merely a weapon like any other. The things I've witnessed make me question tHat assumption...^,^^,^^
+^dialog_1210208_Title^,^캇슈<콜렉터>^,^^,^^,^Katshu <Collector>^,^^,^^
+^dialog_1210208_text0^,^혼돈의 기운은 성역에 발을 딛고 살아가는 모든 생명체에게 강력한 영향을 미치고 있습니다. 이 기운에 오래 노출된 원주민들이나 생물들에게선 이미 그 반응이 나타나고 있죠.<br><br>혼돈 기운에 저항하는 것을 뛰어넘어 완벽히 치료할 수 있다면 좋으련만..아마도 무리일 것입니다.^,^^,^^,^Chaos magic is like poison. At this rate, it's only a matter of time before the local familiars become unusable. We need to find a way not just to resist it, but to cleanse it.^,^^,^^
+^dialog_1210209_Title^,^파이스<콜렉터 시험 진행요원_협곡입구>^,^^,^^,^Paice <Collector_Canyon Entry>^,^^,^^
+^dialog_1210209_text0^,^콜렉터 선발 시험 중에 이런 낭패가 있나..<br>대체 이걸 어쩌면 좋지..^,^^,^^,^The timing couldn't be worse...^,^^,^^
+^dialog_1210210_Title^,^파이스<콜렉터 시험 진행요원_협곡저지대>^,^^,^^,^Paice <Collector_Canyon Entry>^,^^,^^
+^dialog_1210210_text0^,^콜렉터 선발 시험 중에 이런 낭패가 있나..<br>대체 이걸 어쩌면 좋지..^,^^,^^,^The timing couldn't be worse...^,^^,^^
+^dialog_1210211_Title^,^낙오자 디안<콜렉터 후보생>^,^^,^^,^Dian <Collector Cadet>^,^^,^^
+^dialog_1210211_text0^,^선발 시험을 통과하려면 결과를 내야해..선임 콜렉터들도 인정할만한 결과. 음..대체 뭐가 있어야 할까..<br>..?! 어라? 당신은 어..언제 오셨습니까?<br><br><font color="#3ec1d0">(누가 다가오는지도 모르고 집중을 했던 듯 싶다.)</font>^,^^,^^,^Just need to come up with something really flashy... Something tHat'll knock the proctors' socks off...<br><br>Huh?! When did you get here?^,^^,^^
+^dialog_1210212_Title^,^스크라<치료사>^,^^,^^,^Skira <Mender>^,^^,^^
+^dialog_1210212_text0^,^당신에게서 영혼의 아픔이 느껴지는군요.^,^^,^^,^Be at ease. You're safe here.^,^^,^^
+^dialog_1210212_answer_0_text^,^부활 후유증을 치료하고 싶습니다.^,^^,^^,^Cure Dire Wounds^,^^,^^
+^dialog_1210212_answer_1_text^,^부활 후유증에 대하여^,^^,^^,^About Dire Wounds^,^^,^^
+^dialog_1210213_Title^,^페이클<잡화 상인>^,^^,^^,^Fezzil <General Merchant>^,^^,^^
+^dialog_1210213_text0^,^어서 오십시오. 별로 다양한 물건은 구비하지 못했지만 필요한 물건은 대충 다 있을 겁니다.^,^^,^^,^Welcome. I don't have a lot of variety, but I've got the necessities.^,^^,^^
+^dialog_1210213_answer_0_text^,^잡화 상점^,^^,^^,^General Shop^,^^,^^
+^dialog_3050902_Title^,^듀론<공간이동사>^,^^,^^,^Duron <Transit Mage>^,^^,^^
+^dialog_3050902_text0^,^바람은 늘 우리에게 새로운 소식을 전해줍니다. 협곡에 불어오는 바람에 귀를 기울여보십시오.<br>때로는 당신이 볼 수 없었던 것들도 귀로는 들을 수 있을테니 말입니다.^,^^,^^,^Much can be learned from listening to the wind. Especially in this place.^,^^,^^
+^dialog_3050902_answer_0_text^,^엘 도르 마을로 떠나기^,^^,^^,^To Eldorr^,^^,^^
+^dialog_1210214_Title^,^크라시스 (엘로라의 성역 12사도)^,^^,^^,^Krasis (Archon)^,^^,^^
+^dialog_1210214_text0^,^오랜 벗이자 성역을 지키는 사도인 유다스가 혼돈에 굴복할 줄이야...<br>끝없는 힘을 향한 유다스의 욕심이 결국 잘못된 길을 걷게한 것 같습니다...<br>유다스... 그리고 아이라의 죽음이 헛되지 않도록... 반드시 혼돈 엘프들을 이땅에서 몰아내야할 것입니다.^,^^,^^,^I always knew Carius to be ambitious, but to turn to chaos magic? Truly, no elf is safe from the corruption of evil.^,^^,^^
+^dialog_1210215_Title^,^카르난<빛의 숲 경비대>(고대의 숲)^,^^,^^,^Karnan <Sunderlight Guard> (Ancestor's Grove)^,^^,^^
+^dialog_1210215_text0^,^혼돈의 기운이 성역을 뒤덮은 후로 이곳 고대의 숲의 생명체 역시 흉폭하게 변하고 말았습니다.<br>그런 이곳에 유물을 발굴하러 오다니... 열정이 대단하다고 해야할지, 겁을 상실했다고 해야할지... 어쨌든 그들을 보호하는 것 역시 저의 임무니 제가 도와야겠죠.^,^^,^^,^Chaos clouds the mind and bends a peaceful soul toward violence. The ambitious are especially susceptible to its effects. So, tell me... Are you a hero, or are you just another pawn for the chaos elves?^,^^,^^
+^dialog_1210216_Title^,^브란드 (유물 발굴단)^,^^,^^,^Berand (Archaeologist)^,^^,^^
+^dialog_1210216_text0^,^유물 소식을 듣고선 디소스님의 만류에도 불구하고 억지를 부려 여기까지 오고야 말았으니..화급한 제 성격 탓입니다...<br>하지만 기왕 여기까지 왔으니 소기의 성과는 달성해야겠다는 욕심도 있는 것이 사실입니다.^,^^,^^,^I don't care wHat Desourd says. We're here to study elven antiquities, and study elven antiquities I shall, war or no war!^,^^,^^
+^dialog_1210217_Title^,^엘바르<빛의 숲 경비대>(고대의 숲)^,^^,^^,^Elbarr <Sunderlight Guard> (Ancestor's Grove)^,^^,^^
+^dialog_1210217_text0^,^아름답던 숲이 이렇게 되다니... 혼돈 엘프 놈들만큼은 절대 용서할 수 없습니다.<br>숲의 생명체들이 가엽군요... 하지만 민간인들을 다치게 둘 수 없으니, 우리 손으로 그들의 목숨을 끊어야겠죠...^,^^,^^,^These forests were beautiful, once. Now, no matter where I look, I see the taint of chaos magic...^,^^,^^
+^dialog_1210219_Title^,^그 복장은..결국 조합에 들어가셨군요. 축하드립니다.^,^^,^^,^Join the Satiety Society^,^^,^^
+^dialog_1210219_text0^,^이제껏 저는 미들라스를 떠돌며 제 자신의 실력에 자부심을 느끼고 있었어요. 우연히 들었던 조합의 명성도 사실 우습게 보았죠. 하지만 현실은 그렇지 않았어요.<br><br>물론 제 실력에 스스로 실망하거나 그런 것은 아니에요. 다만 홀로 수행하는 것, 그 이상의 효율적인 방법을 찾았을 뿐이죠.^,^^,^^,^I still believe tHat I'm one of the best chefs around, but I was foolish to think I didn't need anyone else. There's still so much to learn, even from lesser chefs.^,^^,^^
+^dialog_1210219_text0_attach_0^,^<br><br>조합은 제가 성장할 수 있는 원동력이 되지 않을까 생각하고 있어요. 제가 조합에 들어온다는 선택지는 당신을 만나기 전에는 상상조차 하지 않았죠. 고마워요.<br>당신이 저를 옭아매던 틀을 깨주었어요.^,^^,^^,^<br><br>I really think the Satiety Society will help me push past my limits. Thank you. I may never have joined them without your encouragement.^,^^,^^
+^dialog_1210220_Title^,^왜 다른 콜렉터와 합류하지 않는 겁니까?^,^^,^^,^Join the Others^,^^,^^
+^dialog_1210220_text0^,^제가 무엇에 대항하여 버티고 있다고 생각하십니까?<br>혼돈 기운과 데모닉 스톤에서 새어나온 가공할 마력. 토르카이의 마력. 모든 것이 뒤섞여 제 몸속에 스며들었습니다. 이런 기운을 간직한 채 다른 콜렉터를 만나면 어찌 될 것 같습니까?^,^^,^^,^N-no good. Chaos magic... contagious, you see? Can't go near others... Same thing will happen to them...^,^^,^^
+^dialog_1210220_text0_attach_0^,^<br><br>분명 좋지 않은 영향을 줄 것입니다. 그들이 이 기운을 수월하게 막아내리란 생각은 들지 않는군요.<br>이 기운을 온전히 몰아낸 다음에야 그들을 만나는 것이 좋을 것 같다는 판단 때문에 여기 있는 것이니 콜렉터들에게도 그렇게 전해주셨으면 합니다.^,^^,^^,^<br><br>Just need time... for magic to dissipate. Let the others know I'll... I'll see them soon...^,^^,^^
+^dialog_1210221_Title^,^밀리온의 품에 낡은 종이가 보인다.^,^^,^^,^Final Message^,^^,^^
+^dialog_1210221_text0^,^<font color="#3ec1d0">(밀리온이 죽기 전, 남긴 유언.이다. 읽어보도록 하자.)</font><br><br>내 몸 상태는 누구보다 내가 잘 안다. 나는 가망이 없다. 콜렉터이자 스승님의 제자로서 우리의 명예에 누를 끼칠 수는 없는 노릇이다..나의 의무는 여기까지다. 이제 내 명이 다한 것을 느낀다..^,^^,^^,^(There's a hastily scrawled note clutched in Milton's lifeless hand.)<br><br>^,^^,^^
+^dialog_1210221_text0_attach_0^,^<br><br><font color="#3ec1d0">(자신이 속한 집단에 누가 될까 염려하여 결국 홀로 죽음을 맞이했구나. 어리석은 고집이라고 해야할까..아니면 명예로운 죽음이라고 해야할까..)</font>^,^^,^^,^My end is near. I know tHat now. It was a short life. But I die knowing I did great work.^,^^,^^
+^dialog_1210222_Title^,^고통의 쟈그라펠<회개한 혼돈 엘프>^,^^,^^,^Jagrafel <Reformed Chaos Elf>^,^^,^^
+^dialog_1210222_text0^,^나는 한때 혼돈을 추구했었지. 하지만 이제 나는 내 죄를 씻어줄 한 줄기 빛을 바라고 있을 뿐이다.^,^^,^^,^I walked the path of chaos, but now I seek to be reborn in the light.^,^^,^^
+^dialog_1210222_answer_0_text^,^당신은..혼돈 엘프가 아닙니까?^,^^,^^,^Chaos Elf^,^^,^^
+^dialog_1210222_answer_1_text^,^본래의 자리를 버리기 쉽지 않았을텐데..신념의 문제도 있었을테고 말입니다.^,^^,^^,^Repentance^,^^,^^
+^dialog_1210223_Title^,^당신은..혼돈 엘프가 아닙니까?^,^^,^^,^Chaos Elf^,^^,^^
+^dialog_1210223_text0^,^내가 빛의 엘프와 함께 있는 것이 이상한가?<br>하긴..나는 한때 이 성역을 침략한 악의 주구였으니 의아해할만 하지. 하지만 나 역시 먼 과거를 거슬러 올라가면 엘프였으며 여신의 자식이었다.^,^^,^^,^I came here with the first chaos elf invasion force, it's true. And when this is all over, I will gladly accept wHatever punishment the light elves wish to give me for the lives I've taken.^,^^,^^
+^dialog_1210223_text0_attach_0^,^<br><br>이제 시간이 흘러 내가 본래 있어야할 자리로 되돌아 온 것일 뿐..그 이상도 이하도 아니다.<br>물론 이것은 오로지 나의 생각일 뿐. 누구도 그렇게 받아들이지 않는 것 같더군..^,^^,^^,^<br><br>But this is where I belong, and this is where I will stay, wHatever the consequence.^,^^,^^
+^dialog_1210224_Title^,^본래의 자리를 버리기 쉽지 않았을텐데..신념의 문제도 있었을테고 말입니다.^,^^,^^,^Repentance^,^^,^^
+^dialog_1210224_text0^,^혼돈 엘프에게 신념이란 단 하나다.<br>강한 자가 살아남는다. 그래서 우리는 동료 의식이라는 것이 없다고 봐야지. 혼돈 엘프 역시 태초엔 여신의 자식들이자 희망이었다. 하지만 혼돈을 섬기는 것엔 아무런 희망도 없다.^,^^,^^,^Long ago my people split from the light elves, cut out our own hearts and replaced them with a heart of chaos. But the god of the chaos elves has no place in this plane. I see tHat now.^,^^,^^
+^dialog_1210224_text0_attach_0^,^<br><br>나는 희망을 보고 싶었기에 어둠을 버렸다. 희망을 보고자 한 나의 염원이 죄인가? 물론 내 지난 행적이 빛의 엘프들에게 지탄받아 마땅함을 안다. 그것은 내가 앞으로 짊어져야할 짐이고 고개 돌리지 않을 것이다.^,^^,^^,^<br><br>This is where I belong. The fresh air burns my lungs and Ellora's light tears at my skin, but with time, I hope to once more be a creature of this world.^,^^,^^
+^dialog_1210225_Title^,^감시자 티뷰리너<수색대>^,^^,^^,^Keeper Tebranir^,^^,^^
+^dialog_1210225_text0^,^혼돈 엘프라면 우리의 적이 아니겠습니까? 그런데 이제 혼돈 엘프의 변절자와 힘을 합친다고 생각하니..<br>..과연 그를 믿어도 될지 아직도 확신이 서질 않는군요.^,^^,^^,^My mission is clear, and yet... it does not feel right to work so closely with a chaos elf.^,^^,^^
+^dialog_1210225_answer_0_text^,^당신은 쟈그라펠의 일이 적의 계략이라고 생각합니까?^,^^,^^,^Chaos Elf Deception^,^^,^^
+^dialog_1210225_answer_1_text^,^쟈그라펠은 어둠이든 빛이든 환영받지 못하는 존재인 것이로군요.^,^^,^^,^Between Light and Chaos^,^^,^^
+^dialog_1210226_Title^,^당신은 쟈그라펠의 일이 적의 계략이라고 생각합니까?^,^^,^^,^Chaos Elf Deception^,^^,^^
+^dialog_1210226_text0^,^그것을 어찌 알겠습니까? 혼돈 엘프들은 언제나 악독한 술수를 자행해왔던 자들입니다. 제가 이미 쟈그라펠과 이야기하면서 그에게서 조금의 진심을..느낀 것은 사실입니다.^,^^,^^,^The chaos elves are known to employ treachery and deception. But Jagrafel speaks in earnest, I think. He strikes me as sincere.^,^^,^^
+^dialog_1210226_text0_attach_0^,^<br><br>하지만..혼돈 엘프와 빛의 엘프는 수 세기도 넘게 싸워왔습니다. 하루 아침에 동료로 맞이한다는 것이 가당키나 하겠습니까?^,^^,^^,^<br><br>But since the first chaos elf turned from the light, our people have been enemies. It's not easy to forget such a long and bloody history.^,^^,^^
+^dialog_1210227_Title^,^쟈그라펠은 어둠이든 빛이든 환영받지 못하는 존재인 것이로군요.^,^^,^^,^Between Light and Chaos^,^^,^^
+^dialog_1210227_text0^,^그런 것은..아닙니다. 그가 정녕 빛의 길을 걷고 싶어한다면 응당 그를 맞이해야하는 것이 순리겠죠.<br>다만 혼돈 엘프와 빛의 엘프간의 원한이 아직 이 대지에 뚜렷하게 남아있습니다.^,^^,^^,^In theory, we welcome anyone who would follow the teachings of Ellora. However, most light elves will be slow to trust a chaos elf -- especially in this time of war.^,^^,^^
+^dialog_1210227_text0_attach_0^,^<br><br>하루 아침에 변할 수 있는 것이 아니란 말입니다.<br>상부에선 그의 저의를 확인하고자 제게 감시역을 맡겼고, 저는 그가 진심이든 계략이든 이 일의 진상을 밝혀낼 것입니다.^,^^,^^,^<br><br>It's not a problem tHat can be solved overnight. I've been assigned to work with Jagrafel and assess his true intentions. THat, at least, is something I can do.^,^^,^^
+^dialog_1210228_Title^,^변신술사 세르미<천의 얼굴>^,^^,^^,^Sermi !Transfigurist!^,^^,^^
+^dialog_1210228_text0^,^어?! 여행자님! 엘 도르 마을의 일을 도와주셨다는 그 여행자님 맞으시죠? 이곳까진 무슨 일로 오셨나요?<br><br><font color="#3ec1d0">(아무런 대꾸없이 세르미를 빤히 바라보고 있자 그녀의 눈빛이 이채를 띠며 입을 열었다)</font><br><br>뭘 그렇게 보고 있나요? 이곳에 꼬맹이가 있는 것이 의아하기라도 한 것인가요?^,^^,^^,^I've been watching you zipping back and forth across the canyon. We all have our part to play, and you play yours well.^,^^,^^
+^dialog_1210228_answer_0_text^,^당신이 단순한 꼬맹이 같은 것이 아니라는 것 쯤 알고 있습니다.^,^^,^^,^No Ordinary Child^,^^,^^
+^dialog_1210228_answer_1_text^,^변신술사라..그것이 당신의 능력입니까?^,^^,^^,^Transfigurist^,^^,^^
+^dialog_1210228_answer_2_text^,^우리가..예전에 본 적이 있었나요?^,^^,^^,^Past Encounters^,^^,^^
+^dialog_1210229_Title^,^당신이 단순한 꼬맹이 같은 것이 아니라는 것 쯤 알고 있습니다.^,^^,^^,^No Ordinary Child^,^^,^^
+^dialog_1210229_text0^,^호오~그래요? 조금 의외로군요.<br>..하지만 그 정도 눈썰미도 없어서야 어찌 우리 엘프들을 돕겠다고 나설 수 있겠나요. 그럼 나는 누굴까요?^,^^,^^,^Saw right through me, did you? I'd expect no less. If you couldn't do tHat much, wHat use would you be to us?^,^^,^^
+^dialog_1210229_text0_attach_0^,^<br><br>..하하하! 너무 긴장할 것 없어요.<br>당신을 놀리고 싶은 마음은 추호도 없으니까요.<br>내 이름은 세르미에요. 엘프들은 나를 천의 얼굴이라고 부르고 인간들은 나를..변신술사라 부르곤 하죠.^,^^,^^,^<br><br>The elves call me 'unknowable' and the humans call me 'transfigurist.' You may call me Sermi.^,^^,^^
+^dialog_1210230_Title^,^변신술사라..그것이 당신의 능력입니까?^,^^,^^,^Transfigurist^,^^,^^
+^dialog_1210230_text0^,^당신의 말투를 보아하니 그까짓 변신술이 뭐가 그리 대단하냐는 것처럼 들리는군요. 나는 수 세기가 넘도록 다양한 모습으로 살며 미들라스를 유랑했어요.<br><br>하카나스 왕성을 내려다보는 수리의 모습으로도, 직할령의 농부의 모습으로도, 무러미의 모습으로도, 사막의 오아시스를 가려주는 야자수로도..^,^^,^^,^I've walked Midellas for centuries. I've looked down on Hakanas through the eyes of an eagle. I've tended her soil as a simple farmer. I've swam the waters as a merumi, basked in the sun as a palm tree...^,^^,^^
+^dialog_1210230_text0_attach_0^,^<br><br><font color="#3ec1d0">(세르미는 말을 멈추곤 뭐가 우스운지 잠시 크게 웃더니 말을 이었다)</font><br><br>하하하! ..그런데..당신은 우리의 만남이..오늘까지 대체 몇 번이라고 생각하시나요..?^,^^,^^,^<br><br>How many times have our paths crossed by now, I wonder?^,^^,^^
+^dialog_1210231_Title^,^우리가..예전에 본 적이 있었나요?^,^^,^^,^Past Encounters^,^^,^^
+^dialog_1210231_text0^,^..글쎄요? 당신이 기억하지 못하는데 나라고 알리가 있겠어요? 오늘 처음 본 것일 수도 있고 어쩌면..어디선가 마주쳤을지도 모를 일이죠.<br><br>나와의 만남이 당신에게 의미있는 일인가요?<br>이 세계엔 당신이 상상할 수 조차 없는 일들이 많아요. 그런 것들을 다 이해하려고 하지 말아요.^,^^,^^,^Perhaps we've met before... or perhaps not. Honestly, how do you expect me to keep track of things? It's not as if you remember, either!^,^^,^^
+^dialog_1210231_text0_attach_0^,^<br><br>우리의 만남이란 것도 당신에게 별 의미가 없는 일이에요. 물론 나에겐 의미가 있겠지만 말이죠..<br><br><font color="#3ec1d0">(결국 세르미는 알 수 없는 말만 늘어놓았다. 의미라..그것이 과연 무엇일까..)</font>^,^^,^^,^<br><br>We could meet a thousand thousand times and never know it. I wouldn't waste too much time thinking about it.^,^^,^^
+^dialog_1210232_Title^,^정체불명의 유골^,^^,^^,^Skeleton^,^^,^^
+^dialog_1210232_text0^,^(슬쩍 보아도 죽은지 족히 수 년은 지났을 법한 시신이다. 시신 곳곳에 짙은 어둠의 마력이 느껴진다. 강력한 마법에 의해 당한 것일까..)^,^^,^^,^(This body shows years of decomposition. Chaos magic radiates off of it. Was this person cursed?)^,^^,^^
+^dialog_1210233_Title^,^밀리온<사망한 콜렉터>^,^^,^^,^Milton <Collector>^,^^,^^
+^dialog_1210233_text0^,^(밀리온은..이미 싸늘한 시체가 되어버렸다. 아직 그의 몸에는 상상할 수도 없는 강력한 마기가 휘돌고 있다. 그로서는 이 마기를 도저히 감당하기 어려웠을 것이다.)^,^^,^^,^(Milton is dead. The aura of chaos around his body is intense. There's nothing tHat could have been done to save him.)^,^^,^^
+^dialog_1210233_answer_0_text^,^밀리온의 품에 낡은 종이가 보인다.^,^^,^^,^Final Message^,^^,^^
+^dialog_1210234_Title^,^빛의 엘프 수호대<용기의 신석 운송원>^,^^,^^,^Courier !Elven Guard!^,^^,^^
+^dialog_1210234_text0^,^거..거기 누..구요..<br><br>(운송원의 눈은 피범벅이 되어 사물을 인지할 수 있을지 의문이나 귀는 상하지 않은 모양이다.)<br><br>..이..이 것을..반드..시..^,^^,^^,^Wh-who goes there?<br><br>(His eyes are covered in blood.)^,^^,^^
+^dialog_1210235_Title^,^라비니 바니라(잊혀진 성지)^,^^,^^,^Van Owen Rabbini (Forgotten Shrine)^,^^,^^
+^dialog_1210235_text0^,^여행자냥? 우리 초승달 상단은 각 지역에 파견되어 여행자에게 필요한 물건을 공급하고 있당.<br>난 일반적인 물건을 거래하지 않는당.<br><br>나와 거래하고 싶으면 특별한 주화가 필요하당.<br>그 주화가 생기면 언제든 날 찾아와랑!<br>좋은 물건과 바꿔주겠당!^,^^,^^,^Stock your bags with the best items, carried to you by only the most pious Rabbini! Of course, we only deal in special coins, as is proper.^,^^,^^
+^dialog_1210235_answer_0_text^,^라비니 상점^,^^,^^,^Coin Shop^,^^,^^
+^dialog_1210236_Title^,^페넬로페(잊혀진 성지)^,^^,^^,^Penelope (Forgotten Shrine)^,^^,^^
+^dialog_1210236_text0^,^안녕하세요! 저는 초승달 상단에 속한 라비니들과 달리 여행에 필요한 잡다한 물품을 주로 거래하고 있죠.<br>전 장소에 구애받지 않고 라비니들과 함께 다니며 여행자들에게 여러 상품을 제공하고 있답니다.<br>물론 처분하실 물품이 있다면 그것도 마다하지 않아요!^,^^,^^,^Wherever you find yourself in the world, we will always be by your side. The Crescent Merchants are THE premier trading company for adventurers.<br><br>So, how can I help you today?^,^^,^^
+^dialog_1210236_answer_0_text^,^잡화 상점^,^^,^^,^General Shop^,^^,^^
+^dialog_1210237_Title^,^라비니 파비니(정련 재료 상인)^,^^,^^,^Van Owen Rabbini (Forgotten Shrine)^,^^,^^
+^dialog_1210237_text0^,^반갑당! 여행자.<br><br>난 요즘 정련쪽에서 돈냄새가 난다는 소문을 듣고 정련과 관련된 물건들을 파는 상점을 운영하고 있당.<br>뭐? 정련이 뭔지 잘 모른다고? 그렇다면 커스텀을 찾아가봐랑. 그 인간이 정련에 대해서 잘 알려줄거당.<br>사실 정련이 돈이 된다는 이야기도 인간에게 들은거당.^,^^,^^,^Stock your bags with the best items, carried to you by only the most pious Rabbini! Of course, we only deal in special coins, as is proper.^,^^,^^
+^dialog_1210237_answer_0_text^,^정련 재료 상점^,^^,^^,^Coin Shop^,^^,^^
+^dialog_1210238_Title^,^페넬로페(라비니 마을)^,^^,^^,^Penelope (Rabbini Village)^,^^,^^
+^dialog_1210238_text0^,^안녕하세요! 저는 초승달 상단에 속한 라비니들과 달리 여행에 필요한 잡다한 물품을 주로 거래하고 있죠.<br>전 장소에 구애받지 않고 라비니들과 함께 다니며 여행자들에게 여러 상품을 제공하고 있답니다.<br>물론 처분하실 물품이 있다면 그것도 마다하지 않아요!^,^^,^^,^Wherever you find yourself in the world, we will always be by your side. The Crescent Merchants are THE premier trading company for adventurers.<br><br>So, how can I help you today?^,^^,^^
+^dialog_1210238_answer_0_text^,^잡화 상점^,^^,^^,^General Shop^,^^,^^
+^dialog_1210239_Title^,^토르안^,^^,^^,^Torran^,^^,^^
+^dialog_1210239_text0^,^적들에게 용기의 신석을 절대 빼앗겨서는 안돼..!^,^^,^^,^We must take back the holy stone!^,^^,^^
+^dialog_1210242_Title^,^왜 하필이면 시험 장소로 협곡을 선택하셨습니까?^,^^,^^,^Collector Exam^,^^,^^
+^dialog_1210242_text0^,^바람의 협곡은 예로부터 지형이 가파르고 거센 바람의 흐름이 협곡 전체를 감싸고 있어 극기를 목표로 하는 자들의 수행장소로 이름이 높았습니다.<br>다만 배타적인 엘프들의 성향 탓에 아무에게나 공개된 장소는 아니었을 뿐이죠.^,^^,^^,^Windhome Canyon is the perfect spot for a test! Extreme terrain, strong winds, and fierce familiars to keep a young Collector on his toes. At least, tHat's wHat my boss says.^,^^,^^
+^dialog_1210242_text0_attach_0^,^<br><br>시험 장소 후보들은 여러 곳 있었지만 여러 가지 이유를 고려하여 바람의 협곡을 선택했습니다.<br>헌데 아무래도 이번의 선발 시험 장소 선정은 판단 착오가 아니었나 후회하고 있습니다.<br>암흑 마법사들과 그들의 하수인들이 협곡 전체를 장악하다시피 하여 콜렉터 후보생들에겐 최악의 조건을 제공했으니 말입니다.^,^^,^^,^<br><br>Of course, my boss isn't here now, and he doesn't have to see our cadets get put through the Ringer. We'll be lucky if any make it out of here alive.^,^^,^^
+^dialog_1210244_Title^,^성역 인간 음식상인 공용(여)^,^^,^^,^Sanctuary Human Grocer Dialogue (Female)^,^^,^^
+^dialog_1210244_text0^,^맛있는 음식 있어요!<br>이렇게 괜찮은 음식을 다른 곳에서 구할 수 있겠어요?<br>분명 사지 않으면 후회하게 될 거에요!^,^^,^^,^You won't find better food anywhere else. I guarantee it!^,^^,^^
+^dialog_1210244_answer_0_text^,^음식 상점^,^^,^^,^Grocer^,^^,^^
+^dialog_1210245_Title^,^성역 엘프 음식상인 공용(여)^,^^,^^,^Sanctuary Human Grocer Common(Female)^,^^,^^
+^dialog_1210245_text0^,^자연이 우리에게 주는 것 중에서 가장 놀라운 것은 단연코 주린 배를 채워줄 음식이 아닐까요?<br>자연의 산물을 맛보십시오.^,^^,^^,^Would you care for a taste of the bounty of nature?^,^^,^^
+^dialog_1210245_answer_0_text^,^음식 상점^,^^,^^,^Grocer^,^^,^^
+^dialog_1210246_Title^,^성역 인간 물약상인 공용(여)^,^^,^^,^Sanctuary Human Apothecary Dialogue (Female)^,^^,^^
+^dialog_1210246_text0^,^모험가에게 가장 필요한 것은 역시 물약이죠.<br>어디서든 유용하게 쓸테니 둘러보고 가세요!^,^^,^^,^No sane adventurer would go into the field without a good selection of potions. Please, let me stock you up!^,^^,^^
+^dialog_1210246_answer_0_text^,^물약 상점^,^^,^^,^Potion Shop^,^^,^^
+^dialog_1210247_Title^,^성역 엘프 물약상인 공용(여)^,^^,^^,^Sanctuary Elf Apothecary Common(Female)^,^^,^^
+^dialog_1210247_text0^,^엘로라 여신님의 축복은 멀리 있지 않습니다.<br>이 작은 물약에도 담겨있죠. 성역을 모험하는데 아주 유용하게 쓰일 것입니다. 살펴보시겠습니까?^,^^,^^,^The blessings of Ellora are everywhere -- even in my potion bottles. Are you interested in buying?^,^^,^^
+^dialog_1210247_answer_0_text^,^물약 상점^,^^,^^,^Apothecary^,^^,^^
+^dialog_1210248_Title^,^성역 인간 잡화상인 공용(남)^,^^,^^,^Sanctuary Human Shopkeep Common Dialogue (Male)^,^^,^^
+^dialog_1210248_text0^,^모험가에게 어디 무기나 물약만 필요하겠습니까?<br>붕대나 부활 후유증을 치료할 수 있는 주문서까지 언제나 다양한 물건이 필요한 법이죠.<br>어디 원하시는 물건이 있는지 살펴보십시오!^,^^,^^,^You won't get by just by stocking up on weapons and potions. You also need bandages and scrolls to heal your dire wounds, from other things. I'm sure I've got something you need.^,^^,^^
+^dialog_1210248_answer_0_text^,^잡화 상점^,^^,^^,^General Shop^,^^,^^
+^dialog_1210249_Title^,^성역 엘프 잡화상인 공용(남)^,^^,^^,^Sanctuary Elf Shopkeep Male Common Dialogue^,^^,^^
+^dialog_1210249_text0^,^자연은 언제나 경이로움과 위험이 공존하는 법입니다.<br>야생에서 생존하기 위한 준비가 되어있습니까?<br>제 물건들이 아마도 도움이 될 것 같군요.^,^^,^^,^The wonders of nature are as beautiful as they are dangerous. My goods will let you weather tHat danger.^,^^,^^
+^dialog_1210249_answer_0_text^,^잡화 상점^,^^,^^,^General Shop^,^^,^^
+^dialog_1210250_Title^,^성역 인간 무기재료 상인 공용(남)^,^^,^^,^Sanctuary Human Weapon Craft Merchant Common(Male)^,^^,^^
+^dialog_1210250_text0^,^위험한 지역을 누비는 모험가들에게 가장 필요한 것은 바로 무기야. 하지만 상점에서 파는 물건을 믿을 수 있겠나? 어디 한번 재료를 사서 직접 만들어보라구!^,^^,^^,^The elves are a fine people, but can you trust their craftsmanship? Safer to take matters into your own hands, I always say.^,^^,^^
+^dialog_1210250_answer_0_text^,^무기 재료 상점^,^^,^^,^Weapon Craft Shop^,^^,^^
+^dialog_1210251_Title^,^성역 엘프 무기상인 공용(여)^,^^,^^,^Sanctuary Elf Weapon Merchant Common(Female)^,^^,^^
+^dialog_1210251_text0^,^여신께서 창조한 자연을 수호하기 위해서는 강력한 무기가 필요한 법입니다. 살펴보시겠습니까?^,^^,^^,^The defense of Ellora's forest is a sacred oath. My weapons will help you keep tHat oath.^,^^,^^
+^dialog_1210251_answer_0_text^,^무기 상점^,^^,^^,^Weapon Shop^,^^,^^
+^dialog_1210252_Title^,^성역 인간 방어구재료 상인 공용(여)^,^^,^^,^Sanctuary Human Armor Craft Merchant Common(Female)^,^^,^^
+^dialog_1210252_text0^,^방어구가 정말 중요하다는 것은 이미 알고있죠?<br>자신의 힘으로 방어구를 만들려는 분들께 재료를 공급하고 있어요. 살펴보세요!^,^^,^^,^I've personally tested my materials against chaos elf arrows. Just think of the Armor you could make with them!^,^^,^^
+^dialog_1210252_answer_0_text^,^방어구 재료 상점^,^^,^^,^Armor Craft Shop^,^^,^^
+^dialog_1210253_Title^,^성역 엘프 방어구상인 공용(남)^,^^,^^,^Sanctuary Elf Armorer Common(Male)^,^^,^^
+^dialog_1210253_text0^,^자연을 지키는 수호자들은 아무 갑옷이나 걸치지 않습니다. 내구성이 입증된 훌륭한 갑옷을 보시겠습니까?^,^^,^^,^The Guardians of the Sanctuary only wear the finest Armor.^,^^,^^
+^dialog_1210253_answer_0_text^,^방어구 상점^,^^,^^,^Armorer^,^^,^^
+^dialog_1210254_Title^,^성역 인간 요리재료상인 공용(남)^,^^,^^,^Sanctuary Human Cooking Merchant Male Common Dialogue^,^^,^^
+^dialog_1210254_text0^,^모름지기 요리란 신선한 재료에서 시작합니다!<br>자, 여기 신선한 재료들 좀 살펴 보십시오!^,^^,^^,^Good food starts with fresh ingredients.^,^^,^^
+^dialog_1210254_answer_0_text^,^요리 재료 상점^,^^,^^,^Ingredient Pantry^,^^,^^
+^dialog_1210255_Title^,^성역 인간 연금술재료 상인 공용(남)^,^^,^^,^Sanctuary Human Alchemy Merchant Male Common Dialogue^,^^,^^
+^dialog_1210255_text0^,^찾는 물건이 있으십니까?<br>제가 판매하는 것들은 모험에 필요한 물건들을 직접 제작 가능하도록 도와주는 연금술 재료들입니다.<br>한 번 살펴보시겠습니까?^,^^,^^,^I sell the materials you need to craft the potions you crave.^,^^,^^
+^dialog_1210255_answer_0_text^,^연금술 재료 상점^,^^,^^,^Alchemy Shop^,^^,^^
+^dialog_1210256_Title^,^성역 인간 장신구재료 상인 공용(여)^,^^,^^,^Sanctuary Human Jewelry Craft Merchant Common (Female)^,^^,^^
+^dialog_1210256_text0^,^모험을 하면서 광석을 얻으셨다면 장신구로 제작해보는 것은 어떠세요?<br>제가 판매하는 것들은 특별한 능력이 부여된 반지나 목걸이를 직접 제작 가능하도록 도와주는 장신구 재료들이에요. 어떤 재료들이 있는지 둘러보고 가세요!^,^^,^^,^There are all kinds of glitteRing gemstones strewn about the woods, just waiting to be picked up. Why not turn them into glitteRing Rings?^,^^,^^
+^dialog_1210256_answer_0_text^,^장신구 재료 상점^,^^,^^,^Jewelry Craft Shop^,^^,^^
+^dialog_1210257_Title^,^성역 인간 펠로우재료 상인 공용(남)^,^^,^^,^Sanctuary Human Barder Craft Merchant Male Common Dialogue^,^^,^^
+^dialog_1210257_text0^,^펠로우와 관련된 상품을 공급하고 있습니다.<br>펠로우 장비 제조법, 펠로우 조각의 결속법 등 찾는 물건이 있으시면 언제든 찾아주십시오.^,^^,^^,^Looking for a new crafting recipe? Or perhaps you're on the market for a catalyst?^,^^,^^
+^dialog_1210257_answer_0_text^,^펠로우 재료 상점^,^^,^^,^Barder Craft Shop^,^^,^^
+^dialog_1210258_Title^,^성역 라비니 엘룬상인 공용^,^^,^^,^Sanctuary Ellun Merchant Common Dialogue^,^^,^^
+^dialog_1210258_text0^,^인간, 엘룬 가지고 있냥? 그럼 대환영이당!<br>일반 상점에서 구경할 수 없는 귀한 물건들 많당!<br>물론 엘룬이 없으면 거래도 하지 않는당!^,^^,^^,^Blessings upon you! Doubly so if you have elluns to trade. Come, look upon my rare and wondrous wares.^,^^,^^
+^dialog_1210258_answer_0_text^,^엘룬 상점^,^^,^^,^Ellun Shop^,^^,^^
+^dialog_1210258_answer_1_text^,^품질에 대해 자신있는 것 같군?^,^^,^^,^Confidence in Quality^,^^,^^
+^dialog_1210259_Title^,^성역 거래중개인 공용(남)^,^^,^^,^Sanctuary Human Market Broker Common (Male)^,^^,^^
+^dialog_1210259_text0^,^판매 대행일이란 언제나 늘 정신이 없지.<br>판매 대행을 통해 거래되는 품목들은 훌륭한 상품도 많으니까 한 번 살펴보라구.^,^^,^^,^It's not easy running the market this far from Hakanas. Still, there's great deals to be made, so why don't you take a look?^,^^,^^
+^dialog_1210259_answer_0_text^,^판매 대행 이용하기^,^^,^^,^Marketplace^,^^,^^
+^dialog_1210260_Title^,^성역 창고지기 공용(남)^,^^,^^,^Sanctuary Storage Master Common Dialogue (Male)^,^^,^^
+^dialog_1210260_text0^,^숙련된 모험가일수록 가방은 두둑해지는 법입니다.<br>하지만 늘 많은 짐을 들고 다닐 수는 없죠.<br>소중한 물건은 창고에 맡기시는 것이 어떻습니까?^,^^,^^,^The greater the adventurer, the heavier the bag. Why don't you leave some of tHat dead weight in my safekeeping?^,^^,^^
+^dialog_1210260_answer_0_text^,^내 창고 이용하기^,^^,^^,^Storage^,^^,^^
+^dialog_1210261_Title^,^성역 백색의 치료사 공용(여)^,^^,^^,^Sanctuary Mender Dialogue (Female)^,^^,^^
+^dialog_1210261_text0^,^고통받은 자여.<br>생명의 가호가 그대와 함께하기를 기원하니 빛의 축복이 그대의 앞길을 비출 것입니다.^,^^,^^,^I can take the pain away. Let us pray...^,^^,^^
+^dialog_1210261_answer_0_text^,^부활 후유증을 치료하고 싶습니다.^,^^,^^,^Cure Dire Wounds^,^^,^^
+^dialog_1210261_answer_1_text^,^부활 후유증이란 무엇인지 알 수 있겠습니까?^,^^,^^,^About Dire Wounds^,^^,^^
+^dialog_1210078_answer_0_text^,^하카나스 수도성으로 떠나기^,^^,^^,^Leave for Hakain's Crossing^,^^,^^
+^dialog_1210262_Title^,^선장 카르멘드<엘로라의 성역 연락선>^,^^,^^,^Captain Karmehd !Ellora Sanctuary Ferry!^,^^,^^
+^dialog_1210262_text0^,^나는 영예로운 하카나스 왕국 소속 비행선 선장 카르멘드이라고 하오.<br>엘로라의 성역으로 가고 싶다면 나에게 찾아오면 된다오.^,^^,^^,^You heading to Ellora Sanctuary? My sky titan is the best transport around. We almost never crash. THat's the Karmehd guarantee!^,^^,^^
+^dialog_1210262_answer_0_text^,^엘로라의 성역으로 떠나기^,^^,^^,^Depart for Ellora Sanctuary^,^^,^^
+^dialog_9015903_Title^,^노엘(성역)^,^^,^^,^Noel (Ellora Sanctuary)^,^^,^^
+^dialog_9015903_text0^,^안녕하세요. 처음 뵙겠습니다. 낚시 지기 노엘이라고 해요!<br><br>손 끝으로 느껴지는 낚시의 참 맛은 오늘도 저를 낚시터로 이끌게 하는군요. 낚시 안해보실래요? 제가 알려드릴게요!^,^^,^^,^Hello, pleasure to meet you. I'm Noel the fisher! Fishing is love, fishing is life. Do you want to give it a go? I can teach you the ways!^,^^,^^
+^dialog_9015903_answer_2_text^,^낚시는 어떻게 하나요?^,^^,^^,^How do I fish?^,^^,^^
+^dialog_9015903_answer_3_text^,^낚시 임무는 어떻게 받나요?^,^^,^^,^How do I get quests for fishing?^,^^,^^
+^dialog_1210287_Title^,^야누기<브라기 광산 광부>^,^^,^^,^Yanugi <Braghin Mine Miner>^,^^,^^
+^dialog_1210287_text0^,^내 친구 이누기 구해준 인간, 이누기 친구는 내 친구다.<br>나, 인간 친구다! 친구는 브라기 광산 들어갈 수 있다.^,^^,^^,^You are the human who saved my friend Inugi.<br>My friend's friends are my friends! You can go into Braghin Mine.^,^^,^^
+^dialog_1210287_answer_0_text^,^브라기 광산은 어떤 곳이니?^,^^,^^,^WHat is Braghin Mine?^,^^,^^
+^dialog_1210288_Title^,^브라기 광산은 어떤 곳이니?^,^^,^^,^WHat is Braghin Mine?^,^^,^^
+^dialog_1210288_text0^,^야누기 친구한테는 광산 이야기 해준다. 우리 브라기는 광산에서 엘리움 캔다. 엘리움은 정말... 아름답다! 아주 귀한 물건을 만드는데 쓰이는 광석이다.<br><br>인간, 엘리움 가지러 광산에 들어갈 건가? 무서운 경비대가 광산 지킨다. 들키면 인간 죽는다. 그래도 들어간다면 말리지 않는다.<br><br>대신 친구에게만 알려준다.^,^^,^^,^He tells his friends about the mine. Our Brazilians are elite in the mine. Elium is really ... beautiful! It is the ore tHat is used to make very precious things. <br> <br> Is it going to enter the mine to get Elium? Scary guards keep mines. If you do, the human dies. It does not stop if you go in. <br> <br> Tell it to a friend instead.^,^^,^^
+^dialog_1210288_text0_attach_0^,^광산은 브라기가 아니면 10분밖에 못 있는다. 더 있으면 큰일난다! 그 안에 엘리움을 많이 캐야 한다. 그리고 야누기 부탁이 있다. 브라기 죽이지 마라. 나쁜 브라기도 친구다. 약속이다. 그럼 몸 조심 해라.^,^^,^^,^The mine is only 10 minutes away from Bragg. If there is more, I will fly! You have to make a lot of elium in it. And there is a request to lie down. Do not kill Brazilians. Bad Bra is prayer friend. It is a promise. So be careful.^,^^,^^
+^dialog_1210289_Title^,^낚시는 어떻게 하나요?^,^^,^^,^How do I fish?^,^^,^^
+^dialog_1210289_text0^,^낚시를 하려면 기본적으로 낚시대와 미끼가 필요해요.<br>낚시에 필요한 용품은 제 옆에 있는 낚시 상인 레스티에게서 구입할 수 있답니다. 그리고 자동으로 낚시를 진행하고 싶으시다면, 자동 릴이 추가적으로 필요하니 이점 잊지마세요!^,^^,^^,^Fishing requires two things, a fishing rod and bait.<br>My assistants, here, can fix you up with those.<br>Also, if you want to take the easy route and fish automatically,<br>you'll want to take a look at the auto-reel.^,^^,^^
+^dialog_1210290_Title^,^낚시 임무는 어떻게 받나요?^,^^,^^,^How do I get quests for fishing?^,^^,^^
+^dialog_1210290_text0^,^모든 일에는 순서가 있는 법! 낚시도 마찬가지랍니다.<br>우선 하카나스 직할령의 신룡의 해안가 낚시터에서 낚시 선행 교육을 받으세요.<br>낚시 교육이 끝나면 비로써 낚시터에서 낚시도 즐기고,<br>임무도 받으실 수 있을 거예요!^,^^,^^,^Good things take time! Same goes for fishing.<br>First off, you need to complete basic training at Divinity Shore Fishery in Hakanas Highlands. Then you can begin quests and fish wherever the sea takes you!^,^^,^^
+^dialog_9031612_Title^,^기만의 제슐리스^,^^,^^,^Deceptive Jekyllis^,^^,^^
+^dialog_9031612_text0^,^넌 또 뭐야?<br>기웃거리지 말고 썩 꺼져!^,^^,^^,^WHat else are you? <br> Do not go snooping!^,^^,^^
+^dialog_9031622_Title^,^라비니 동산 게시판^,^^,^^,^Shady Warrens Bulletin Board^,^^,^^
+^dialog_9031622_text0^,^라비니 동산에서 획득할 수 있는 아이템 안내^,^^,^^,^Items tHat can be acquired from Shady Warrens^,^^,^^
+^dialog_9031622_answer_0_text^,^괴 & 주화^,^^,^^,^Ingots & Coins^,^^,^^
+^dialog_9031622_answer_1_text^,^펫 & 장비^,^^,^^,^Pet & Equipment^,^^,^^
+^dialog_9031622_answer_2_text^,^레시피 & 재료^,^^,^^,^Recipes & Materials^,^^,^^
+^dialog_9031622_answer_3_text^,^소모품^,^^,^^,^Consumables^,^^,^^
+^dialog_9031622_answer_4_text^,^랜덤박스 & 부스터^,^^,^^,^Random Box & Booster^,^^,^^
+^dialog_9031624_title^,^라비니 동산 괴 & 주화^,^^,^^,^Shady Warrens Ingots & Coins^,^^,^^
+^dialog_9031624_text0^,^[괴 & 주화]<br>진금괴<br>금괴<br>은괴<br>동괴<br>위조 금괴<br>위조 은괴<br>위조 동괴<br>라비니족의 금화<br>라비니족의 위조 주화^,^^,^^,^[Ingots & Coins]<br>Pure Gold Ingot<br>Gold Ingot<br>Silver Ingot<br>Copper Ingot<br>Counterfeit Gold Ingot<br>Counterfeit Silver Ingot<br>Counterfeit Copper Ingot<br>Rabbini Gold Coins<br>Rabbini Counterfeit Coins^,^^,^^
+^dialog_9031625_title^,^라비니 동산 펫 & 장비^,^^,^^,^Shady Warrens Pet & Equipment^,^^,^^
+^dialog_9031625_text0^,^[펫 & 장비]<br>펫 : 라비아나 존스<br>펫 : 리골래토<br>고대의 장비<br>네르헤스의 성장형 탑승무기<br>알사스 장비<br>엘로라 장비<br>희미한 축복 펠로우 장비^,^^,^^,^[Pet & Equipment]<br>Pet: Lavina Jones<br>Pet: Ligoleto<br>Ancient Equipment<br>Nerha's Development Mounted Weapons<br>Alsas Equipment<br>Ellora Equipment<br>Faint Blessing Familiar Equipment^,^^,^^
+^dialog_9031626_title^,^라비니 동산 레시피 & 재료^,^^,^^,^Shady Warrens Recipes & Materials^,^^,^^
+^dialog_9031626_text0^,^[레시피 & 재료]<br>희미한 축복 펠로우 장비 레시피<br>보주 레시피<br>괴도 라비니의 눈물<br>빛나는 라비니 결정<br>아크란 마법가루<br>고룡의 영혼석<br>악몽의 정수<br>도전자의 혼<br>칠흑의 돌<br>신비한 파편^,^^,^^,^[Recipes & Materials]<br>Faint Blessing Familiar Equipment Recipe<br>Orb Recipe<br>Kaitō Rabbini Tear<br>Shining Rabbini Crystals<br>Aklan Magic Powder<br>Wyrm Soul Stone<br>Nightmare Essence<br>Challenger's Soul<br>Black Stone<br>Mysterious Fragment^,^^,^^
+^dialog_9031627_title^,^라비니 동산 소모품^,^^,^^,^Shady Warrens Consumables^,^^,^^
+^dialog_9031627_text0^,^[소모품]<br>빛나는 30% 강화석<br>당근 귀환석<br>이동 : 수상한 라비니 동산<br>축복받은 전설 분해도구<br>60레벨 추출도구<br>봉인석<br>바인데르의 비약<br>수상한 물약<br>펠로우 실험실 입장권<br>축복받은 40, 50레벨 전설의 인장<br>펠로우 완전 성장의 물약<br>펠로우 경험치 포션<br>빛나는 포획 카드<br>성장의 부스터(1, 3시간)<br>펠로우 강화용 결정석 55LV<br>당근 포션<br>음식^,^^,^^,^[Consumables]<br>Shining 30% TempeRing Stone<br>Recall Carrot<br>Warp Pass: Shady Warrens<br>Blessed Legendary Dismantling Tool<br>Lv.60 Extractor<br>Seal Stone<br>Bynder's Elixir<br>Suspicious Potion<br>Familiar Lab Pass<br>Lv.40/50 Blessed Fabled Emblem<br>Familiar Full Growth Potion<br>Familiar Experience Potion<br>Shining Capture Card<br>Growth Booster (1hr / 3hrs)<br>Lv.55 Enhancement Crystal<br>Carrot Potion<br>Food^,^^,^^
+^dialog_9031628_title^,^라비니 동산 랜덤박스 & 부스터^,^^,^^,^Shady Warrens Random Box & Booster^,^^,^^
+^dialog_9031628_text0^,^[랜덤박스 & 부스터]<br>괴도 라비니 소환서 랜덤박스<br>수상한 장비 상자<br>수상한 펠로우 장비 상자<br>라비니 의상 상자<br>펠로우 징표 상자<br>행운의 네잎클로버(1시간)^,^^,^^,^[Random Box & Booster]<br>Kaito Rabbini Summon Random Box<br>Suspicious Equipment Box<br>Suspicious Familiar Equipment Box<br>Rabbini Costume Box<br>Familiar Mark Box<br>Four-Leaf Clover (1hr)^,^^,^^
+^dialog_9031623_Title^,^브라기 광산 게시판^,^^,^^,^Braghin Mine Bulletin Board^,^^,^^
+^dialog_9031623_text0^,^브라기 광산에서 획득할 수 있는 아이템 안내^,^^,^^,^Items tHat can be acquired from Braghin Mine^,^^,^^
+^dialog_9031623_answer_0_text^,^소모품^,^^,^^,^Consumables^,^^,^^
+^dialog_9031623_answer_1_text^,^재료^,^^,^^,^Materials^,^^,^^
+^dialog_9031623_answer_2_text^,^광산대장 브루탈루스에 대한 소문 1^,^^,^^,^Rumours about mine captain Brutalus 1^,^^,^^
+^dialog_9031623_answer_3_text^,^광산대장 브루탈루스에 대한 소문 2^,^^,^^,^Rumours about mine captain Brutalus 2^,^^,^^
+^dialog_9031629_title^,^브라기 광산 소모품^,^^,^^,^Braghin Mine Consumables^,^^,^^
+^dialog_9031629_text0^,^[소모품]<br>빛나는 30% 정예 강화석<br>170레벨 영웅 강화석<br>220레벨 정예 강화석<br>140~160레벨 상급 영웅 강화석<br>55레벨 전설 등급 초월석<br>피로 회복 물약 I~III<br>봉인석<br>축복받은 전설 분해도구<br>브라기 낚싯대^,^^,^^,^[Consumables]<br>Shining 30% Elite TempeRing Stone<br>Lv.170 Heroic TempeRing Stone<br>Lv.220 Elite TempeRing Stone<br>Lv.140~160 Premium Heroic TempeRing Stone<br>Lv.55 Legendary Transcending Stone<br>Fatigue Recovery Potion I~III<br>Seal Stone<br>Blessed Legendary Dismantling Tool<br>Braghin Fishing Rod^,^^,^^
+^dialog_9031630_title^,^브라기 광산 재료^,^^,^^,^Braghin Mine Materials^,^^,^^
+^dialog_9031630_text0^,^[재료]<br>사라진 조각<br>망각의 조각<br>강화된 케로움 주괴<br>강화된 케로움 합금<br>강화된 케로움 섬유<br>강화된 케로움 가루<br>강화된 아다만티움 주괴<br>강화된 아다만티움 합금<br>고대 투림란의 합금<br>고대 투림란의 주괴<br>아다만티움 합금<br>파편의 조각<br>엑자리움 주괴<br>엑자리움 섬유<br>정교한 에메랄드<br>크리스탈 원석<br>희미한 초월의 기운<br>신비한 세포<br>알사스의 축복<br>알사스의 기운^,^^,^^,^[Materials]<br>Misplaced Piece<br>Piece of Oblivion<br>Enhanced Kherim Ingot<br>Enhanced Kherim Alloy<br>Enhanced Kherim Weave<br>Enhanced Kherim Powder<br>Tempered Adamantium Ingot<br>Tempered Adamantium Alloy<br>Ancient Turiman Ingot<br>Ancient Turiman Alloy<br>Adamantium Alloy<br>Fragment of Shard<br>Exarium Ingot<br>Exarium Weave<br>Exquisite Emerald<br>Crystal Stone<br>Faint Transcendence Aura<br>Mysterious Cell<br>Alsas Bless<br>Alsas Energy^,^^,^^
+^dialog_9031631_title^,^광산대장 브루탈루스에 대한 소문 1^,^^,^^,^Rumours about mine captain Brutalus 1^,^^,^^
+^dialog_9031631_text0^,^[장비]<br>테마인 장비<br>알사스 장비<br><br>[재료]<br>강화된 케로움 주괴<br>강화된 케로움 합금<br>강화된 케로움 섬유<br>강화된 케로움 가루<br>고대 투림란의 주괴<br>고대 투림란의 합금<br>파편의 조각<br>혼돈의 파편<br>크리스탈 원석<br>알사스의 축복<br>신비한 파편^,^^,^^,^[Equipment]<br>Temain Equipment<br>Alsas Equipment<br><br>[Materials]<br>Enhanced Kherim Ingot<br>Enhanced Kherim Alloy<br>Enhanced Kherim Weave<br>Enhanced Kherim Powder<br>Ancient Turiman Ingot<br>Ancient Turiman Alloy<br>Fragment of Shard<br>Chaos Fragment<br>Crystal Stone<br>Alsas Bless<br>Mysterious Fragment^,^^,^^
+^dialog_9031632_title^,^광산대장 브루탈루스에 대한 소문 2^,^^,^^,^Rumours about mine captain Brutalus 2^,^^,^^
+^dialog_9031632_text0^,^[소모품]<br>65레벨 전설 등급 초월석<br>60레벨 전설 등급 초월석<br>55레벨 전설 등급 초월석<br>빛나는 30% 영웅 강화석<br>180레벨 장신구 정예 강화석<br>180레벨 영웅 강화석<br>230레벨 정예 강화석<br>140~160레벨 상급 영웅 강화석<br>전설 귀속 해제 주문서 VIII<br>펠로우 완전 성장의 물약<br>피로회복 패키지^,^^,^^,^[Consumables]<br>Lv.65 Legendary Transcending Stone<br>Lv.60 Legendary Transcending Stone<br>Lv.55 Legendary Transcending Stone<br>Shining 30% Heroic TempeRing Stone<br>Lv.180 Elite Jewelry TempeRing Stone<br>Lv.180 Heroic TempeRing Stone<br>Lv.230 Elite TempeRing Stone<br>Lv.140~160 Premium Heroic TempeRing Stone<br>Legendary Unbinding Scroll VIII<br>Familiar Full Growth Potion<br>Fatigue Recovery Package^,^^,^^

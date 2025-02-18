@@ -1,0 +1,34 @@
+t_key,t_korean,t_jpn,t_chinese,t_eng,t_eng_2,t_eng_3
+^GU_1_0001_Name^,^Guild Room Rental Ticket of Harmony^,^^,^^,^^,^^,^^
+^GU_1_0001_Description^,^<UI_Y>Acquisition place</UI_Y>
+<UI_G>Hakanas Capital Castle Guild Management Office</UI_G>
+
+It is a deed of right to rent the guild room of harmony.
+
+in use <UI_G>Guild Room of Unity</UI_G>is available.
+
+<UI_R>The Guild Room of Harmony is available for 14 days.</UI_R>
+<UI_R>When used while in possession of a guild room it is reset to the maximum rental time.</UI_R>
+<UI_R>The guild room rental ticket of harmony can only be used by the guild leader of level 30 or higher.</UI_R>^,^^,^^,^^,^^,^^
+^GU_1_0000_Name^,^Guild of Fame Room Rental Ticket^,^^,^^,^^,^^,^^
+^GU_1_0000_Description^,^<UI_Y>Location</UI_Y>
+<UI_G>Create item</UI_G>
+
+It is a deed of right to rent a guild room of honor.
+
+When used <UI_G>Guild Room of Honor</UI_G> can be used.
+
+<UI_R>Guild Room of Honor is available for 14 days.</UI_R>
+<UI_R>When used while owning a guild room it is reset to the maximum rental time.</UI_R>
+<UI_R>Guild room rentals can only be used by guild leaders at level 30 or higher.</UI_R>^,^^,^^,^^,^^,^^
+^GU_1_0002_Name^,^Glory Guild Room Rental Ticket^,^^,^^,^^,^^,^^
+^GU_1_0002_Description^,^<UI_Y>Location</UI_Y>
+<UI_G>Create item</UI_G>
+
+It is a deed of right to rent the guild room of glory.
+
+When used <UI_G>Glorious Guild Room</UI_G> can be used.
+
+<UI_R>The Glory Guild Room is available for 14 days.</UI_R>
+<UI_R>When used while owning a guild room it is reset to the maximum rental time.</UI_R>
+<UI_R>Guild room rentals can only be used by guild leaders at level 30 or higher.</UI_R>^,^^,^^,^^,^^,^^

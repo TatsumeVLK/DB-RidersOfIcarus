@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+<html lang="EUC-KR">
+<head>
+    <meta charset="EUC-KR">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riders of Icarus Database</title>
+    <link rel="stylesheet" href="../css/base.css" />
+    <link rel="shortcut icon" href="../imgs/favicon.png" />
+</head>
+<body>
+    <div class="conteiner">
+        <div class="selecionar">
+            <input type="text" id="searchBar" placeholder=" Search..." onkeyup="filtrarItems()">
+            <div class="botoes" id="botaoContainer">
+            </div>
+        </div>
+        <div class="itemselecionado">
+            <div class="informacao" id="itemInfo">
+                <p id="itemNome">Cooldown Reduction Necklace(99%)</p>
+                <p><span id="itemRaridade">Common(Normal)</span></p>
+                <div class="imginfos">
+                    <img src="../imgs/favicon.png" class="foto" id="itemIcone" />
+                    <p>Magic Defense <span id="itemMagicDefense"></span></p>
+                </div>
+                <hr class="espaco1" />
+                <div class="espacoentre espaco2">
+                    <p class="espaco">Requerid Level: <span id="itemNivel"></span></p>
+                    <p class="espaco verde"><span id="itemBindtype"></span></p>
+                </div>
+                <p class="espaco"><span id="itemclasses"></span></p>
+                <p class="espaco"><span id="tipoEquipamento"></span></p>
+                <p class="espaco"><span id="naopodemelhorar">Unable to Enhance</span></p>
+                <p class="espaco" id="temperingname">Tempering: 0 / <span id="temperinglevel"></span></p>
+                <p class="espaco"><span id="naopodedismantling">Dismantling Unavailable</span></p>
+                <p class="espaco verde"><span id="naopodeunbind">Permanently Bound</span></p>
+                <p class="espaco verde"><span id="unbinds"></span></p>
+                <hr id="temefeitos" class="espaco1" />
+                <p><span id="oefeito" class="espaco"></span></p>
+                <hr class="espaco1" />
+                <p><span id="equipedeffects" class="espaco amarelo">Equipped Effects</span></p>
+                <p class="espaco3 verde2"><span id="itemEfeito1"></span></p>
+                <p class="espaco3 verde2"><span id="itemEfeito2"></span></p>
+                <p class="espaco3 verde2"><span id="itemEfeito3"></span></p>
+                <p class="espaco3 verde2"><span id="itemEfeito4"></span></p>
+                <p class="espaco3" id="randomeffects"><span id="efeitosaleatoriosmin"></span> - <span id="efeitosaleatoriosmax"></span> Random Effects</p>
+                <hr class="espaco1" id="barraslots" />
+                <p><span id="selosslots"></span></p>
+                <hr class="espaco1" id="description" />
+                <p><span id="itemdescription"></span></p>
+                <div id="setdivcompleto">
+                    <hr class="espaco1" id="barraset">
+                    <div><p><span id="setname" class="espaco amarelo">Set</span><span>(0/</span><span id="setmaxparts"></span><span>)</span></p></div>
+                    <p id="t_item1" class="espaco3">Parte 1</p>
+                    <p id="t_item2" class="espaco3">Parte 2</p>
+                    <p id="t_item3" class="espaco3">Parte 3</p>
+                    <p id="t_item4" class="espaco3">Parte 4</p>
+                    <p id="t_item5" class="espaco3">Parte 5</p>
+                    <p id="t_item6" class="espaco3">Parte 6</p>
+                    <p id="t_item7" class="espaco3">Parte 7</p>
+                    <p id="t_item8" class="espaco3">Parte 8</p>
+                    <p id="t_item9" class="espaco3">Parte 9</p>
+                    <p id="t_item10" class="espaco3">Parte 10</p>
+                    <p id="t_item11" class="espaco3">Parte 11</p>
+                    <p id="t_item12" class="espaco3">Parte 12</p>
+                    <p id="t_item13" class="espaco3">Parte 13</p>
+                    <p id="t_item14" class="espaco3">Parte 14</p>
+                    <br>
+                    <div id="hasseteffect1"> <!-- Se seteffect1_count for maior que 0, vai mostrar essa div -->
+                    <p id="seteffect1">Set Effects(<span id="seteffect1_count"></span>)</p>
+                        <span id="t_seteffect1_effect1" class="espaco3"></span><span id="t_seteffect1_effect2" class="espacoesquerda"></span>
+                        <span id="t_seteffect1_effect3" class="espaco3"></span><span id="t_seteffect1_effect4" class="espacoesquerda"></span>
+                        <span id="t_seteffect1_skill" class="espaco3"></span>
+                    </div>
+                    <div id="hasseteffect2"> <!-- Se seteffect2_count for maior que 0, vai mostrar essa div -->
+                        <p id="seteffect2">Set Effects(<span id="seteffect2_count"></span>)</p>
+                            <span id="t_seteffect2_effect1" class="espaco3"></span><span id="t_seteffect2_effect2" class="espacoesquerda"></span>
+                            <span id="t_seteffect2_effect3" class="espaco3"></span><span id="t_seteffect2_effect4" class="espacoesquerda"></span>
+                            <span id="t_seteffect2_skill" class="espaco3"></span>
+                    </div>
+                    <div id="hasseteffect3"> <!-- Se seteffect3_count for maior que 0, vai mostrar essa div -->
+                        <p id="seteffect3">Set Effects(<span id="seteffect3_count"></span>)</p>
+                            <span id="t_seteffect3_effect1" class="espaco3"></span><span id="t_seteffect3_effect2" class="espacoesquerda"></span>
+                            <span id="t_seteffect3_effect3" class="espaco3"></span><span id="t_seteffect3_effect4" class="espacoesquerda"></span>
+                            <span id="t_seteffect3_skill" class="espaco3"></span>
+                    </div>
+                    <div id="hasseteffect4"> <!-- Se seteffect4_count for maior que 0, vai mostrar essa div -->
+                        <p id="seteffect4">Set Effects(<span id="seteffect4_count"></span>)</p>
+                            <span id="t_seteffect4_effect1" class="espaco3"></span><span id="t_seteffect4_effect2" class="espacoesquerda"></span>
+                            <span id="t_seteffect4_effect3" class="espaco3"></span><span id="t_seteffect4_effect4" class="espacoesquerda"></span>
+                            <span id="t_seteffect4_skill" class="espaco3"></span>
+                    </div>
+                    <div id="hasseteffect5"> <!-- Se seteffect5_count for maior que 0, vai mostrar essa div -->
+                        <p id="seteffect5">Set Effects(<span id="seteffect5_count"></span>)</p>
+                            <span id="t_seteffect5_effect1" class="espaco3"></span><span id="t_seteffect5_effect2" class="espacoesquerda"></span>
+                            <span id="t_seteffect5_effect3" class="espaco3"></span><span id="t_seteffect5_effect4" class="espacoesquerda"></span>
+                            <span id="t_seteffect5_skill" class="espaco3"></span>
+                    </div>
+                    <div id="hasseteffect6"> <!-- Se seteffect6_count for maior que 0, vai mostrar essa div -->
+                        <p id="seteffect6">Set Effects(<span id="seteffect6_count"></span>)</p>
+                            <span id="t_seteffect6_effect1" class="espaco3"></span><span id="t_seteffect6_effect2" class="espacoesquerda"></span>
+                            <span id="t_seteffect6_effect3" class="espaco3"></span><span id="t_seteffect6_effect4" class="espacoesquerda"></span>
+                            <span id="t_seteffect6_skill" class="espaco3"></span>
+                    </div>
+                    <div id="hasseteffect7"> <!-- Se seteffect7_count for maior que 0, vai mostrar essa div -->
+                        <p id="seteffect7">Set Effects(<span id="seteffect7_count"></span>)</p>
+                            <span id="t_seteffect7_effect1" class="espaco3"></span><span id="t_seteffect7_effect2" class="espacoesquerda"></span>
+                            <span id="t_seteffect7_effect3" class="espaco3"></span><span id="t_seteffect7_effect4" class="espacoesquerda"></span>
+                            <span id="t_seteffect7_skill" class="espaco3"></span>
+                    </div>
+                    <div id="hasseteffect8"> <!-- Se seteffect8_count for maior que 0, vai mostrar essa div -->
+                        <p id="seteffect8">Set Effects(<span id="seteffect8_count"></span>)</p>
+                            <span id="t_seteffect8_effect1" class="espaco3"></span><span id="t_seteffect8_effect2" class="espacoesquerda"></span>
+                            <span id="t_seteffect8_effect3" class="espaco3"></span><span id="t_seteffect8_effect4" class="espacoesquerda"></span>
+                            <span id="t_seteffect8_skill" class="espaco3"></span>
+                    </div>
+                </div>
+                <hr class="espaco1" id="barrasale" />
+                <div id="divsale" class="espacoentre">
+                    <span id="saleprice" class="espaco4">Sale Price</span>
+                    <span id="itemPreco" class="espaco4"></span>
+                </div>
+                <hr id="barraduration" class="espaco1"/>
+                <p id="textduration" class="amarelo">Duration</p>
+                <p id="durationtime" class="espaco4">00days 00hours 00min 00sec</p>
+            </div>
+            <div>
+                <p class="espaco2">Itemdata_acessory.csv | Code:</p>
+                <textarea id="codigoItem"></textarea>
+                <br>
+                <div class="butoescodigo espaco">
+                    <button id="botaoCarregar" class="espaco2" onclick="carregarCodigo()">Load Code Above</button>
+                    <button id="botaoVoltar" class="espaco2" onclick="voltarCodigo()">Reset code</button>
+                </div>
+                <p></p>
+                <p class="espaco2">localstringdata_item_accessory.csv or localstringdata_item_accessory_02 | Code:</p>
+                <textarea id="nomedoItemtraduzido" readonly></textarea>
+            </div>
+        </div>
+    </div>
+    <script src="../js/necklace.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+</body>
+</html>

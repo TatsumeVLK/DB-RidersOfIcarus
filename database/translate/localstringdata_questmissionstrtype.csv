@@ -1,0 +1,674 @@
+t_key,t_korean
+^Quest_Mission_Str_Type_0^,^Talk to [NAME]^
+^Quest_Mission_Str_Type_1^,^Defeat [NAME]^
+^Quest_Mission_Str_Type_2^,^Obtain [NAME]^
+^Quest_Mission_Str_Type_3^,^Find [NAME]^
+^Quest_Mission_Str_Type_4^,^Escort [NAME]^
+^Quest_Mission_Str_Type_5^,^Report to [NAME]^
+^Quest_Mission_Str_Type_6^,^Talk to [NAME]^
+^Quest_Mission_Str_Type_7^,^Use [NAME]^
+^Quest_Mission_Str_Type_8^,^Destroy [NAME]^
+^Quest_Mission_Str_Type_9^,^Seek out [NAME]^
+^Quest_Mission_Str_Type_10^,^Go to [NAME]^
+^Quest_Mission_Str_Type_11^,^Equip [NAME]^
+^Quest_Mission_Str_Type_12^,^Rescue Chapley Singer^
+^Quest_Mission_Str_Type_13^,^Deliver [NAME]^
+^Quest_Mission_Str_Type_14^,^Deliver items to [NAME]^
+^Quest_Mission_Str_Type_15^,^Interrupt [NAME2]^
+^Quest_Mission_Str_Type_16^,^Use [NAME]^
+^Quest_Mission_Str_Type_17^,^Tame [NAME]^
+^Quest_Mission_Str_Type_18^,^Learn [NAME]^
+^Quest_Mission_Str_Type_19^,^Deliver items to [NAME]^
+^Quest_Mission_Str_Type_20^,^Fill the Talent Orb with power^
+^Quest_Mission_Str_Type_21^,^Equip [NAME]^
+^Quest_Mission_Str_Type_22^,^Fight [NAME]^
+^Quest_Mission_Str_Type_23^,^Fight [NAME] while mounted^
+^Quest_Mission_Str_Type_24^,^Defend [NAME] [NAME2]^
+^Quest_Mission_Str_Type_25^,^Everyone must survive^
+^Quest_Mission_Str_Type_26^,^Escape the prison^
+^Quest_Mission_Str_Type_27^,^Buy [NAME]^
+^Quest_Mission_Str_Type_28^,^Need [NAME]^
+^Quest_Mission_Str_Type_29^,^Put out fires^
+^Quest_Mission_Str_Type_30^,^Treat Wounded^
+^Quest_Mission_Str_Type_31^,^Place [NAME]^
+^Quest_Mission_Str_Type_32^,^Gather Water^
+^Quest_Mission_Str_Type_33^,^Torture [NAME]^
+^Quest_Mission_Str_Type_34^,^Feed [NAME]^
+^Quest_Mission_Str_Type_35^,^Use [NAME] to Reveal Ghosts^
+^Quest_Mission_Str_Type_36^,^Defeat Braghin Combat Troops with Dragon Lance^
+^Quest_Mission_Str_Type_37^,^Seal Ruins Reindeer^
+^Quest_Mission_Str_Type_38^,^Check [NAME]^
+^Quest_Mission_Str_Type_39^,^Place [NAME]^
+^Quest_Mission_Str_Type_40^,^Douse Burning Wagons^
+^Quest_Mission_Str_Type_41^,^[BUG] Congratulations. You have completed all the Icarus G☆STAR quests.^
+^Quest_Mission_Str_Type_42^,^Meet Crow at the Dragon Knight Station^
+^Quest_Mission_Str_Type_43^,^Retrieve Cullaghan's hammer^
+^Quest_Mission_Str_Type_44^,^Talk to Yulnus in Hakain's Crossing^
+^Quest_Mission_Str_Type_45^,^Look for Kha above the vortex^
+^Quest_Mission_Str_Type_46^,^Use the flare^
+^Quest_Mission_Str_Type_47^,^Talk to Poe in the Tritael Rift^
+^Quest_Mission_Str_Type_48^,^Collect eggs from Flotier Nest^
+^Quest_Mission_Str_Type_49^,^Examine Angel Statue^
+^Quest_Mission_Str_Type_50^,^Reach Level [NAME]^
+^Quest_Mission_Str_Type_51^,^Escort Drex to Kellwoods^
+^Quest_Mission_Str_Type_52^,^Retrieve Pegasus Knights token^
+^Quest_Mission_Str_Type_53^,^Resist the Fallen Legion attack for 2 min^
+^Quest_Mission_Str_Type_54^,^Set recall location^
+^Quest_Mission_Str_Type_55^,^Take Luna to Curtis^
+^Quest_Mission_Str_Type_56^,^Go to Hakain's Crossing^
+^Quest_Mission_Str_Type_57^,^Go to the Tritael Rift^
+^Quest_Mission_Str_Type_58^,^Buy [NAME]^
+^Quest_Mission_Str_Type_59^,^Get Chiki's Help^
+^Quest_Mission_Str_Type_60^,^Tame a Caldera Firebeak in the Broken Caldera^
+^Quest_Mission_Str_Type_61^,^Use Ellora's Promise^
+^Quest_Mission_Str_Type_62^,^Make Rubbing from [NAME]^
+^Quest_Mission_Str_Type_63^,^Talk to Crow in the War Room^
+^Quest_Mission_Str_Type_64^,^Take Book to Captain Melvin Haan^
+^Quest_Mission_Str_Type_65^,^Defeat the Ruins Specter with Kahntaris^
+^Quest_Mission_Str_Type_66^,^Destroy Ancient Barrier^
+^Quest_Mission_Str_Type_67^,^Meet Crow at the Shimmerwood Outpost^
+^Quest_Mission_Str_Type_68^,^Talk to the King in the Royal Audience Chamber^
+^Quest_Mission_Str_Type_69^,^Destroy the Braghin Ballistae^
+^Quest_Mission_Str_Type_70^,^Defeat the Ruins Specter's Minions^
+^Quest_Mission_Str_Type_71^,^Destroy Braghin Barricades with Fully-charged Rising Cutter^
+^Quest_Mission_Str_Type_72^,^Bless the soldiers with Ellora's Mark^
+^Quest_Mission_Str_Type_73^,^Attack the Braghin Skirmish Master with Ellora's Mark^
+^Quest_Mission_Str_Type_74^,^Detonate the Braghin Explosives by Stacking 2 Flamebursts^
+^Quest_Mission_Str_Type_75^,^Use Dagger Rush on a runner after Nimble Dash^
+^Quest_Mission_Str_Type_76^,^Use Shield Smite on a Braghin Fighter^
+^Quest_Mission_Str_Type_77^,^Use [NAME] in the River Ward^
+^Quest_Mission_Str_Type_78^,^Follow Ekaterina^
+^Quest_Mission_Str_Type_79^,^Fire Cannons^
+^Quest_Mission_Str_Type_80^,^Defeat Ancient Pirates^
+^Quest_Mission_Str_Type_81^,^Defeat Aguls^
+^Quest_Mission_Str_Type_82^,^Deliver Rations to the Soldiers^
+^Quest_Mission_Str_Type_83^,^Repair Broken Stockade^
+^Quest_Mission_Str_Type_84^,^Deliver Rumio's Letter to Julemme^
+^Quest_Mission_Str_Type_85^,^Deliver Julemme's Letter to Rumio^
+^Quest_Mission_Str_Type_86^,^Take Aisha's Letter to Tatara^
+^Quest_Mission_Str_Type_87^,^Defeat Aguls and obtain Beast Blood Stain^
+^Quest_Mission_Str_Type_88^,^Obtain Poisonous Herb^
+^Quest_Mission_Str_Type_89^,^Place the Face of the Goddess at the sanctuary^
+^Quest_Mission_Str_Type_90^,^Hunt Yeti^
+^Quest_Mission_Str_Type_91^,^Retrieve Crokhoon Food^
+^Quest_Mission_Str_Type_92^,^Sing along to a Mermaid's Song^
+^Quest_Mission_Str_Type_93^,^Revive the Glowing Tree^
+^Quest_Mission_Str_Type_94^,^Revive the Snow Tree^
+^Quest_Mission_Str_Type_95^,^Go to Farlark^
+^Quest_Mission_Str_Type_96^,^Rescue Frostbitten Crokhoon^
+^Quest_Mission_Str_Type_97^,^Defeat Angry Merumi in the Cavern of the Veil^
+^Quest_Mission_Str_Type_98^,^Seal [NAME]^
+^Quest_Mission_Str_Type_99^,^Destroy Northern Ruins Barrier^
+^Quest_Mission_Str_Type_100^,^Find Aisha in Farlark^
+^Quest_Mission_Str_Type_101^,^Listen to Rondo^
+^Quest_Mission_Str_Type_102^,^Save Merumi^
+^Quest_Mission_Str_Type_103^,^Give Julemme the Ring made by Rumio^
+^Quest_Mission_Str_Type_104^,^Go inside the Southern Ruins^
+^Quest_Mission_Str_Type_105^,^Use Lv. 10 Extractor^
+^Quest_Mission_Str_Type_106^,^Find the cane hidden by Reed^
+^Quest_Mission_Str_Type_107^,^Give chief the wooden club instead of the cane^
+^Quest_Mission_Str_Type_108^,^Find and defeat the priest tHat placed the curse^
+^Quest_Mission_Str_Type_109^,^Defeat 20 Karade Pirates^
+^Quest_Mission_Str_Type_110^,^Chop wood and make wooden figures^
+^Quest_Mission_Str_Type_111^,^Free Paul Rabbini^
+^Quest_Mission_Str_Type_112^,^Destroy voodoo doll^
+^Quest_Mission_Str_Type_113^,^Defeat another player^
+^Quest_Mission_Str_Type_114^,^Gather [NAME]^
+^Quest_Mission_Str_Type_115^,^Expand Familiar Storage^
+^Quest_Mission_Str_Type_116^,^Pour water on [NAME]^
+^Quest_Mission_Str_Type_117^,^Learn [NAME]^
+^Quest_Mission_Str_Type_118^,^Release Numbing Poison on Battle Ration^
+^Quest_Mission_Str_Type_119^,^Remove [NAME]^
+^Quest_Mission_Str_Type_120^,^Steal [NAME]^
+^Quest_Mission_Str_Type_121^,^Destroy cannons^
+^Quest_Mission_Str_Type_122^,^Create [NAME]^
+^Quest_Mission_Str_Type_123^,^Defeat Exarahn Transformation^
+^Quest_Mission_Str_Type_124^,^Defeat Exarahn Jack^
+^Quest_Mission_Str_Type_125^,^Defeat Clakey^
+^Quest_Mission_Str_Type_126^,^Eliminate Spiders in Ruins^
+^Quest_Mission_Str_Type_127^,^Complete 5 missions for Crow^
+^Quest_Mission_Str_Type_128^,^Turn on [NAME]^
+^Quest_Mission_Str_Type_129^,^Defeat Fallen Legion^
+^Quest_Mission_Str_Type_130^,^Defeat Frost Guard^
+^Quest_Mission_Str_Type_131^,^Take the World Shrine to the Hakanas Highlands Region^
+^Quest_Mission_Str_Type_132^,^Reach Level [NAME] to Become a Knight Errant^
+^Quest_Mission_Str_Type_133^,^Reach Level [NAME] to Prove Yourself Worthy^
+^Quest_Mission_Str_Type_134^,^Reach Level [NAME] to Become a Pegasus Knight Squire^
+^Quest_Mission_Str_Type_135^,^Reach Level [NAME]^
+^Quest_Mission_Str_Type_136^,^Eliminate the Khabimists^
+^Quest_Mission_Str_Type_137^,^Give Kiki's blessing^
+^Quest_Mission_Str_Type_138^,^Check Corpse^
+^Quest_Mission_Str_Type_139^,^Fight fires^
+^Quest_Mission_Str_Type_140^,^Enter the Tower of Four Main Gods^
+^Quest_Mission_Str_Type_141^,^Stop Rondo's Ritual^
+^Quest_Mission_Str_Type_142^,^Defeat the Khabim Spellweaver and his apprentice^
+^Quest_Mission_Str_Type_143^,^Defeat Chief Sinthan^
+^Quest_Mission_Str_Type_144^,^Find and defeat Chief Sinthan^
+^Quest_Mission_Str_Type_145^,^Buy Delicious Food from Roin Teslow^
+^Quest_Mission_Str_Type_146^,^Buy Pretty Doll from Jackson^
+^Quest_Mission_Str_Type_147^,^Buy Warm Shoes from Chuck Bale^
+^Quest_Mission_Str_Type_148^,^Buy Frightful Doll from Sharon^
+^Quest_Mission_Str_Type_149^,^Buy Trima's Matches^
+^Quest_Mission_Str_Type_150^,^Buy Sloppy Ring from Pommeri^
+^Quest_Mission_Str_Type_151^,^Defeat Silverlight Lake Agul^
+^Quest_Mission_Str_Type_152^,^Defeat Enraged Murummies^
+^Quest_Mission_Str_Type_153^,^Defeat Blue Wolf^
+^Quest_Mission_Str_Type_154^,^Retrieve Cannonballs^
+^Quest_Mission_Str_Type_155^,^Create Alchemy: Bubble Scale with materials from Zenkit and Skalion^
+^Quest_Mission_Str_Type_156^,^Get Scale from Zenkit^
+^Quest_Mission_Str_Type_157^,^Get Bubble Pouch from Skalion^
+^Quest_Mission_Str_Type_158^,^Eliminate [NAME]^
+^Quest_Mission_Str_Type_159^,^Create then Donate [NAME]^
+^Quest_Mission_Str_Type_160^,^Check Corpse Work^
+^Quest_Mission_Str_Type_161^,^Buy Apple from Roin Teslow^
+^Quest_Mission_Str_Type_162^,^Obtain Cleansed White Silver from Droan and Troa'ruun^
+^Quest_Mission_Str_Type_163^,^Obtain Old Frost Keep Coins from Shahon^
+^Quest_Mission_Str_Type_164^,^Investigate the Water Mirror Shard^
+^Quest_Mission_Str_Type_165^,^Deliver [NAME] to Van Owen^
+^Quest_Mission_Str_Type_166^,^Absorb [NAME]^
+^Quest_Mission_Str_Type_167^,^Give Cherpa Snow Flower to Blueton^
+^Quest_Mission_Str_Type_168^,^Find Ferrell^
+^Quest_Mission_Str_Type_169^,^Find Spree^
+^Quest_Mission_Str_Type_170^,^Defeat Gargoyle^
+^Quest_Mission_Str_Type_171^,^Defeat Izhora Soldier^
+^Quest_Mission_Str_Type_172^,^Defeat Izhora Lieutenant^
+^Quest_Mission_Str_Type_173^,^Obtain the Grim Elements^
+^Quest_Mission_Str_Type_174^,^Obtain the Wild Elements^
+^Quest_Mission_Str_Type_175^,^Obtain the Enchanted Elements^
+^Quest_Mission_Str_Type_176^,^BRing Ellora's Reliquary to Robinson^
+^Quest_Mission_Str_Type_177^,^Defeat Izhora Advisor^
+^Quest_Mission_Str_Type_178^,^Meet Eclipsed Shrine's Robinson and obtain Familiar Specimen Set^
+^Quest_Mission_Str_Type_179^,^Obtain Warp Pass Materials from Robinson^
+^Quest_Mission_Str_Type_180^,^Obtain Goddess Powder from Robinson^
+^Quest_Mission_Str_Type_181^,^Obtain Possessed Spell Stone off Breach Soldiers^
+^Quest_Mission_Str_Type_182^,^Obtain Earth Crystal from Hopman's mission^
+^Quest_Mission_Str_Type_183^,^Defeat Chaos Pawn and Underlings^
+^Quest_Mission_Str_Type_184^,^Defeat Izhora General^
+^Quest_Mission_Str_Type_185^,^Defeat [NAME] with Low-Level Party Members^
+^Quest_Mission_Str_Type_186^,^Reach Level [NAME] with another character^
+^Quest_Mission_Str_Type_187^,^Give Cherpa Snow Flower to Blueton^
+^Quest_Mission_Str_Type_188^,^Move to Tritael Rift through Blaider^
+^Quest_Mission_Str_Type_189^,^Defeat Foothills Beasts^
+^Quest_Mission_Str_Type_190^,^Defeat Skan Raiders^
+^Quest_Mission_Str_Type_191^,^Collect emblem of Warrior^
+^Quest_Mission_Str_Type_192^,^Retrieve the Essence of Time by defeating lesser conjurers^
+^Quest_Mission_Str_Type_193^,^Collect information from Ketern^
+^Quest_Mission_Str_Type_194^,^Investigate the ocean fairies' transformation^
+^Quest_Mission_Str_Type_195^,^Retrieve Essence of Time by defeating Frost Guard soldiers^
+^Quest_Mission_Str_Type_196^,^Defeat Water Spirits^
+^Quest_Mission_Str_Type_197^,^Defeat the Cursed Skeletons^
+^Quest_Mission_Str_Type_198^,^Defeat Ice Yetis^
+^Quest_Mission_Str_Type_199^,^Gather Crescent Merchants Attendance Check List^
+^Quest_Mission_Str_Type_200^,^Collect pieces of the Seven Sins of Exarahn^
+^Quest_Mission_Str_Type_201^,^Collect pieces of the Ancient Book of Exarahn^
+^Quest_Mission_Str_Type_202^,^Obtain Grudd's Seal Stone^
+^Quest_Mission_Str_Type_203^,^Obtain Rage's Seal Stone^
+^Quest_Mission_Str_Type_204^,^Obtain Sonos' Seal Stone^
+^Quest_Mission_Str_Type_205^,^Obtain Abritus' Seal Stone^
+^Quest_Mission_Str_Type_206^,^Obtain Nivah's Seal Stone^
+^Quest_Mission_Str_Type_207^,^Obtain Ingid's Seal Stone^
+^Quest_Mission_Str_Type_208^,^Obtain Ura's Seal Stone^
+^Quest_Mission_Str_Type_209^,^Repair [NAME]^
+^Quest_Mission_Str_Type_210^,^Investigate [NAME]^
+^Quest_Mission_Str_Type_211^,^Burn [NAME]^
+^Quest_Mission_Str_Type_212^,^Retrieve [NAME]^
+^Quest_Mission_Str_Type_213^,^Open [NAME]^
+^Quest_Mission_Str_Type_214^,^Give Poison Box to Gernan^
+^Quest_Mission_Str_Type_215^,^Provide water to dehydrated villagers^
+^Quest_Mission_Str_Type_216^,^Make [NAME] surrender^
+^Quest_Mission_Str_Type_217^,^Collect [NAME]^
+^Quest_Mission_Str_Type_218^,^Collect [NAME]^
+^Quest_Mission_Str_Type_219^,^Poison the Mercenaries' Food^
+^Quest_Mission_Str_Type_220^,^Round up Resting Laborers^
+^Quest_Mission_Str_Type_221^,^Secure Building Materials^
+^Quest_Mission_Str_Type_222^,^Ask about the Flight Test^
+^Quest_Mission_Str_Type_223^,^Complete Challenger's Flightpath in the Time Limit^
+^Quest_Mission_Str_Type_224^,^Find Kaal^
+^Quest_Mission_Str_Type_225^,^Defend Kaal^
+^Quest_Mission_Str_Type_226^,^Neutralize [NAME]^
+^Quest_Mission_Str_Type_227^,^Deliver Tags and Letter to Samira^
+^Quest_Mission_Str_Type_228^,^Avenge the Alseik Guard^
+^Quest_Mission_Str_Type_229^,^Kill Snakes^
+^Quest_Mission_Str_Type_230^,^Assault the Mohaban Outpost^
+^Quest_Mission_Str_Type_231^,^Head to the Cradle of Nightmares^
+^Quest_Mission_Str_Type_232^,^Ask Kendall about Elemental Pillars^
+^Quest_Mission_Str_Type_233^,^Empower [NAME]^
+^Quest_Mission_Str_Type_234^,^Deliver Yusei's Portrait to Hasisi^
+^Quest_Mission_Str_Type_235^,^Deliver Yusei's Skull to Hasisi^
+^Quest_Mission_Str_Type_236^,^Return to Yusei^
+^Quest_Mission_Str_Type_237^,^Avenge your comrades^
+^Quest_Mission_Str_Type_238^,^Give Bartolo the merchant's offeRing^
+^Quest_Mission_Str_Type_239^,^Examine Carcasses^
+^Quest_Mission_Str_Type_240^,^Collect Samples^
+^Quest_Mission_Str_Type_241^,^Warn Golden Peak about the Epidemic^
+^Quest_Mission_Str_Type_242^,^Defeat Fighters to Prove Might^
+^Quest_Mission_Str_Type_243^,^Defeat Shamans to Prove Wisdom^
+^Quest_Mission_Str_Type_244^,^Punish [NAME]^
+^Quest_Mission_Str_Type_245^,^Give Clan's Recommendation Letter to Nurr^
+^Quest_Mission_Str_Type_246^,^Retrieve [NAME]^
+^Quest_Mission_Str_Type_247^,^Give Princess Lania's Gift to Griffin Knights^
+^Quest_Mission_Str_Type_248^,^Summon Rock Spirits^
+^Quest_Mission_Str_Type_249^,^Give Gift to Liaven^
+^Quest_Mission_Str_Type_250^,^Give Liaven's Gift to Damay^
+^Quest_Mission_Str_Type_251^,^Find [NAME]^
+^Quest_Mission_Str_Type_252^,^Rescue [NAME]^
+^Quest_Mission_Str_Type_253^,^Add Spices to Naiya's Pot^
+^Quest_Mission_Str_Type_254^,^Appreciate Claudel's Posthumous Work^
+^Quest_Mission_Str_Type_255^,^Obtain Buried Treasure^
+^Quest_Mission_Str_Type_256^,^Collect copper to repair the music box^
+^Quest_Mission_Str_Type_257^,^Collect mithril to repair the music box^
+^Quest_Mission_Str_Type_258^,^Collect koor root to repair the music box^
+^Quest_Mission_Str_Type_259^,^Collect parts to repair the music box^
+^Quest_Mission_Str_Type_260^,^Return the music box to [NAME]^
+^Quest_Mission_Str_Type_261^,^Restore Challenger's Flightpath Statues^
+^Quest_Mission_Str_Type_262^,^Collect Statue Heads^
+^Quest_Mission_Str_Type_263^,^Learn about the Collectors^
+^Quest_Mission_Str_Type_264^,^Defeat Mandrake^
+^Quest_Mission_Str_Type_265^,^Travel to the Cloying Wastes via Lamut^
+^Quest_Mission_Str_Type_266^,^Collect [NAME]'s Seal Stone^
+^Quest_Mission_Str_Type_267^,^Listen to Sherid's Story^
+^Quest_Mission_Str_Type_268^,^Send Raven to Onyx Order Headquarters^
+^Quest_Mission_Str_Type_269^,^Present to Desert King Kenkliff^
+^Quest_Mission_Str_Type_270^,^Defend the Caravan^
+^Quest_Mission_Str_Type_271^,^Collect Hadakhan's Haunting Writs^
+^Quest_Mission_Str_Type_272^,^Investigate Maha'tuul's Chest^
+^Quest_Mission_Str_Type_273^,^Find Clues on Suspicious Mercenaries^
+^Quest_Mission_Str_Type_274^,^Find [NAME]^
+^Quest_Mission_Str_Type_275^,^Find the Missing Collector^
+^Quest_Mission_Str_Type_276^,^Exchange Rabbini Silver Coins for Rabbini Gold Coins^
+^Quest_Mission_Str_Type_277^,^Exchange Exarahn Coins for Exarahn Gold Coin^
+^Quest_Mission_Str_Type_278^,^Find Kaal's Abandoned Diary^
+^Quest_Mission_Str_Type_279^,^Survive the spirits' onslaught^
+^Quest_Mission_Str_Type_280^,^Find the Girl of Desert^
+^Quest_Mission_Str_Type_281^,^Collect the merchants' coin pouches from the mercenaries at the station^
+^Quest_Mission_Str_Type_282^,^Create or possess [NAME] as a gift^
+^Quest_Mission_Str_Type_283^,^Recover Blackmith's Hammer from Mercenary Swordsman^
+^Quest_Mission_Str_Type_284^,^Recover Alchemist's Flask from Mercenary Mender^
+^Quest_Mission_Str_Type_285^,^Recover Chef's Spices from Mercenary Spy^
+^Quest_Mission_Str_Type_286^,^Recover Jeweler's Ring Cast from Mercenary Plunderer^
+^Quest_Mission_Str_Type_287^,^Listen to [NAME]^
+^Quest_Mission_Str_Type_288^,^Reach Lv. [NAME]^
+^Quest_Mission_Str_Type_289^,^Buy or possess [NAME]^
+^Quest_Mission_Str_Type_290^,^Craft or Collect [NAME]^
+^Quest_Mission_Str_Type_291^,^Collect [NAME]^
+^Quest_Mission_Str_Type_292^,^Reveal [NAME]^
+^Quest_Mission_Str_Type_293^,^Ask Turokhan to interpret the orders^
+^Quest_Mission_Str_Type_294^,^Sanctify [NAME]^
+^Quest_Mission_Str_Type_295^,^Collect [NAME]^
+^Quest_Mission_Str_Type_296^,^Find Chimer at Haracrow Temple^
+^Quest_Mission_Str_Type_297^,^Unmask the disguised Fallen Legion soldier^
+^Quest_Mission_Str_Type_298^,^Deliver Blueprint to Moh'ruun^
+^Quest_Mission_Str_Type_299^,^Deliver Barrier Key to Chimer^
+^Quest_Mission_Str_Type_300^,^Shut down Fallen Legion Hatchery^
+^Quest_Mission_Str_Type_301^,^Storm the Keep and Rescue Lania^
+^Quest_Mission_Str_Type_302^,^Show Princess Lania's Crystal Marble to Chimer^
+^Quest_Mission_Str_Type_303^,^Show Revenant Bear Claw to [NAME]^
+^Quest_Mission_Str_Type_304^,^Use the Flame Dish to Receive a Vision^
+^Quest_Mission_Str_Type_305^,^Rescue Captured Griffin Knights^
+^Quest_Mission_Str_Type_306^,^Defeat Crokhoon War Beasts^
+^Quest_Mission_Str_Type_307^,^Clean [NAME]^
+^Quest_Mission_Str_Type_308^,^Use [NAME]^
+^Quest_Mission_Str_Type_309^,^Mend [NAME]^
+^Quest_Mission_Str_Type_310^,^Rescue knight from Immortal Magic Circle^
+^Quest_Mission_Str_Type_311^,^Incinerate [NAME]^
+^Quest_Mission_Str_Type_312^,^Ignite [NAME]^
+^Quest_Mission_Str_Type_313^,^Find Shufferan^
+^Quest_Mission_Str_Type_314^,^Obtain Griffin Feathers from Crokhoon Hunters^
+^Quest_Mission_Str_Type_315^,^Enter Ruined Temple^
+^Quest_Mission_Str_Type_316^,^Recover Remains of Spider Victims^
+^Quest_Mission_Str_Type_317^,^Obtain Rock with Sacred Energy from defeating Altar of Fire Guardian^
+^Quest_Mission_Str_Type_318^,^Tame [NAME] and Obtain Its Seal Stone^
+^Quest_Mission_Str_Type_319^,^Tame [NAME] and Obtain Its Seal Stone^
+^Quest_Mission_Str_Type_320^,^Tame [NAME] and Obtain Its Seal Stone^
+^Quest_Mission_Str_Type_321^,^Tame [NAME] and Obtain Its Seal Stone^
+^Quest_Mission_Str_Type_322^,^Tame [NAME] and Obtain Its Seal Stone^
+^Quest_Mission_Str_Type_323^,^Open Beast Cage^
+^Quest_Mission_Str_Type_324^,^Check Rewards^
+^Quest_Mission_Str_Type_325^,^Tame and Seal [NAME]^
+^Quest_Mission_Str_Type_326^,^Sweep Refuge for the Dead^
+^Quest_Mission_Str_Type_327^,^Plunder [NAME]^
+^Quest_Mission_Str_Type_328^,^Find unenlightened soul^
+^Quest_Mission_Str_Type_329^,^Inject blood of the living into the Vampiric Orb^
+^Quest_Mission_Str_Type_330^,^Inject blood into the Faded Mark^
+^Quest_Mission_Str_Type_331^,^Travel to Stygaea and Search for Fabri^
+^Quest_Mission_Str_Type_332^,^Speak to Gilotte to go to Ellora's Sanctuary^
+^Quest_Mission_Str_Type_333^,^Defeat Aurea and rescue the kidnapped elder^
+^Quest_Mission_Str_Type_334^,^Escape with Elder Corvel^
+^Quest_Mission_Str_Type_335^,^Retrieve the Holy Stone of Courage from Sayner^
+^Quest_Mission_Str_Type_336^,^Use the Torch of Purification to purify the forest^
+^Quest_Mission_Str_Type_337^,^Show Belon the Lady's Ring^
+^Quest_Mission_Str_Type_338^,^Retrieve [NAME]^
+^Quest_Mission_Str_Type_339^,^Investigate Young Dryaths^
+^Quest_Mission_Str_Type_340^,^Deliver Dryath Flesh to Periot^
+^Quest_Mission_Str_Type_341^,^Search for the Missing Collector^
+^Quest_Mission_Str_Type_342^,^Distribute medicine to the injured^
+^Quest_Mission_Str_Type_343^,^Deliver Katshu's Letter to Jukel^
+^Quest_Mission_Str_Type_344^,^Get a clue from [NAME]^
+^Quest_Mission_Str_Type_345^,^Find Milton^
+^Quest_Mission_Str_Type_346^,^Collect Water from Celestine Falls^
+^Quest_Mission_Str_Type_347^,^Deliver Romadia's Letter^
+^Quest_Mission_Str_Type_348^,^Search for Stolen Supplies^
+^Quest_Mission_Str_Type_349^,^Continue Searching^
+^Quest_Mission_Str_Type_350^,^Deliver Reply to Romadia^
+^Quest_Mission_Str_Type_351^,^Remove [NAME]^
+^Quest_Mission_Str_Type_352^,^Sweep the Cemetery^
+^Quest_Mission_Str_Type_353^,^Treat [NAME]^
+^Quest_Mission_Str_Type_354^,^Find Idios^
+^Quest_Mission_Str_Type_355^,^Ask Malo about Dryath Flesh^
+^Quest_Mission_Str_Type_356^,^Find the Other Collector^
+^Quest_Mission_Str_Type_357^,^Defeat Condors to Clear a Path^
+^Quest_Mission_Str_Type_358^,^Deliver Report to Rumian^
+^Quest_Mission_Str_Type_359^,^Deliver Amulet to Glover^
+^Quest_Mission_Str_Type_360^,^Seize [NAME]^
+^Quest_Mission_Str_Type_361^,^Interrogate Skira^
+^Quest_Mission_Str_Type_362^,^Deliver Feast to Elder Brandior^
+^Quest_Mission_Str_Type_363^,^Deliver Brandior's Recommendation^
+^Quest_Mission_Str_Type_364^,^Meet Romadia's Assistant^
+^Quest_Mission_Str_Type_365^,^Deliver Results to Romadia^
+^Quest_Mission_Str_Type_366^,^Deliver Society's Offer to Romadia^
+^Quest_Mission_Str_Type_367^,^Investigate Ancestor's Grove^
+^Quest_Mission_Str_Type_368^,^Burn [NAME]^
+^Quest_Mission_Str_Type_369^,^Retrieve the Holy Stone of Insight from the Chest^
+^Quest_Mission_Str_Type_370^,^Retrieve Demonic Stone from Forgotten Shrine^
+^Quest_Mission_Str_Type_371^,^Deliver Eldon's Clue to Judas^
+^Quest_Mission_Str_Type_372^,^Raid the Cave in Drant^
+^Quest_Mission_Str_Type_373^,^Raid Chaos Elf Ballistae^
+^Quest_Mission_Str_Type_374^,^Load Light Elf Ballistae^
+^Quest_Mission_Str_Type_375^,^Deliver Cursed Relic to Peritos^
+^Quest_Mission_Str_Type_376^,^Distribute medicine to the Injured Dragon Knights^
+^Quest_Mission_Str_Type_377^,^Weaken Defiled Reindeer then Use Cataclysmic Potion^
+^Quest_Mission_Str_Type_378^,^Burn Chaos Elf Corpses^
+^Quest_Mission_Str_Type_379^,^Go to Eldorr via Duron and Find Wentus^
+^Quest_Mission_Str_Type_380^,^Search Seekers for the Twilight Talisman^
+^Quest_Mission_Str_Type_381^,^Deliver Milton's Chest to Jukel^
+^Quest_Mission_Str_Type_382^,^Retrieve the Talisman from a Assassingale Mage^
+^Quest_Mission_Str_Type_383^,^Defeat the Guardian Golem^
+^Quest_Mission_Str_Type_384^,^Destroy Chaos Barriers^
+^Quest_Mission_Str_Type_385^,^Defeat Demociel^
+^Quest_Mission_Str_Type_386^,^Defeat Chaos Elf Ambush^
+^Quest_Mission_Str_Type_387^,^Defeat the Traitor^
+^Quest_Mission_Str_Type_388^,^Look around [NAME]^
+^Quest_Mission_Str_Type_389^,^Attack Ellora's Spire 5F^
+^Quest_Mission_Str_Type_390^,^Attack Ellora's Spire 10F^
+^Quest_Mission_Str_Type_391^,^Attack Ellora's Spire 15F^
+^Quest_Mission_Str_Type_392^,^Attack Ellora's Spire 20F^
+^Quest_Mission_Str_Type_393^,^Attack Ellora's Spire 25F^
+^Quest_Mission_Str_Type_394^,^Attack Ellora's Spire 30F^
+^Quest_Mission_Str_Type_395^,^Challenge Ellora's Spire^
+^Quest_Mission_Str_Type_396^,^Rescue Villagers^
+^Quest_Mission_Str_Type_397^,^Treat Poisoned Villagers^
+^Quest_Mission_Str_Type_398^,^Loot Rabbini Chests^
+^Quest_Mission_Str_Type_399^,^Enter the Lair of Ienos^
+^Quest_Mission_Str_Type_400^,^Enter Ellora's Spire^
+^Quest_Mission_Str_Type_401^,^Trigger Chaos Siphon using Crushing Strike^
+^Quest_Mission_Str_Type_402^,^Attack the Braghin Fighter with a fully-charged Ruin Arrow.^
+^Quest_Mission_Str_Type_403^,^Equip Ellora Prime Weapon Bless Set^
+^Quest_Mission_Str_Type_404^,^Equip Ellora Prime Weapon Divine Wrath Set^
+^Quest_Mission_Str_Type_405^,^Defeat [NAME] In A 6 People Party^
+^Quest_Mission_Str_Type_406^,^Deafeat [NAME] With A Ranger^
+^Quest_Mission_Str_Type_407^,^Reach Lv. 55 as a Ranger^
+^Quest_Mission_Str_Type_408^,^Equip +15 Ellora's Divine Wrath Armor Set^
+^Quest_Mission_Str_Type_409^,^Equip +15 Ellora's Bless Armor Set^
+^Quest_Mission_Str_Type_410^,^Enter [NAME]^
+^Quest_Mission_Str_Type_411^,^Have [NAME]^
+^Quest_Mission_Str_Type_412^,^Make a wish at Lindinha Mortar^
+^Quest_Mission_Str_Type_413^,^Conquer Ellora's Spire 5th Floor^
+^Quest_Mission_Str_Type_414^,^Conquer Ellora's Spire 10th Floor^
+^Quest_Mission_Str_Type_415^,^Conquer Ellora's Spire 15th Floor^
+^Quest_Mission_Str_Type_416^,^Conquer Ellora's Spire 20th Floor^
+^Quest_Mission_Str_Type_417^,^Conquer Ellora's Spire 25th Floor^
+^Quest_Mission_Str_Type_418^,^Conquer Ellora's Spire 30th Floor^
+^Quest_Mission_Str_Type_419^,^Conquer Ellora's Spire 35th Floor^
+^Quest_Mission_Str_Type_420^,^Conquer Ellora's Spire 40th Floor^
+^Quest_Mission_Str_Type_421^,^Conquer Ellora's Spire^
+^Quest_Mission_Str_Type_422^,^Retrieve the Manastone and Deliver It to Aramath^
+^Quest_Mission_Str_Type_423^,^Assist Your Guild to Retrieve the Manastone^
+^Quest_Mission_Str_Type_424^,^Defeat Scarlore Crewman^
+^Quest_Mission_Str_Type_425^,^Defeat Cursed Pawn^
+^Quest_Mission_Str_Type_426^,^BRing [NAME] x1^
+^Quest_Mission_Str_Type_427^,^BRing [NAME] x2^
+^Quest_Mission_Str_Type_428^,^BRing [NAME] x4^
+^Quest_Mission_Str_Type_429^,^BRing [NAME] x7^
+^Quest_Mission_Str_Type_430^,^Eliminate an Enemy Who Carries the Manastone^
+^Quest_Mission_Str_Type_431^,^Reach Lv. 40^
+^Quest_Mission_Str_Type_432^,^Reach Lv. 50^
+^Quest_Mission_Str_Type_433^,^Reach Lv. 55^
+^Quest_Mission_Str_Type_434^,^Defeat Contaminated Merumi^
+^Quest_Mission_Str_Type_435^,^Enter Merumi Homeland^
+^Quest_Mission_Str_Type_436^,^Rescue Chimer^
+^Quest_Mission_Str_Type_437^,^Defeat [NAME] in a Cross-Server Dungeon^
+^Quest_Mission_Str_Type_438^,^Travel to Akrat through Millot^
+^Quest_Mission_Str_Type_439^,^Find Merchant Fernando in Karrande Ruins^
+^Quest_Mission_Str_Type_440^,^Investigate Vice Captain Honeygold^
+^Quest_Mission_Str_Type_441^,^Go to Chimer's house^
+^Quest_Mission_Str_Type_442^,^Go to Hastan Village through Lanten^
+^Quest_Mission_Str_Type_443^,^Investigate Suspicious Messenger^
+^Quest_Mission_Str_Type_444^,^Defeat Karrad Pirates^
+^Quest_Mission_Str_Type_445^,^Search Chimer's house^
+^Quest_Mission_Str_Type_446^,^Find the Mine Captives^
+^Quest_Mission_Str_Type_447^,^Go to the Abandoned Watchtower^
+^Quest_Mission_Str_Type_448^,^Assist a Member of Your Server Retrieve the Manastone^
+^Quest_Mission_Str_Type_449^,^Check [NAME]^
+^Quest_Mission_Str_Type_450^,^Defeat Cursed Villager^
+^Quest_Mission_Str_Type_451^,^Deliver First-aid Kit to Tuhucha^
+^Quest_Mission_Str_Type_452^,^Tame [NAME] and Obtain Its Seal Stone^
+^Quest_Mission_Str_Type_453^,^Enter Braghin Mine^
+^Quest_Mission_Str_Type_454^,^Enter Shady Warrens^
+^Quest_Mission_Str_Type_455^,^Decimate the Pirates^
+^Quest_Mission_Str_Type_456^,^Decimate the Mercenaries^
+^Quest_Mission_Str_Type_457^,^Achieve Lv. 60^
+^Quest_Mission_Str_Type_458^,^After character awakens, use the awakened skill^
+^Quest_Mission_Str_Type_459^,^Check Broken Crate^
+^Quest_Mission_Str_Type_460^,^Enter Stygaea^
+^Quest_Mission_Str_Type_461^,^Decimate the Thieves^
+^Quest_Mission_Str_Type_462^,^Achieve Lv. 60^
+^Quest_Mission_Str_Type_463^,^Defeat Attaius^
+^Quest_Mission_Str_Type_464^,^Defeat Jack the Hunter^
+^Quest_Mission_Str_Type_465^,^Obtain Sealed [NAME]^
+^Quest_Mission_Str_Type_466^,^Pay Respects to [NAME]^
+^Quest_Mission_Str_Type_467^,^Enter the Red Revolutionary Base^
+^Quest_Mission_Str_Type_468^,^Check Archaic Slate^
+^Quest_Mission_Str_Type_469^,^Clear a Lv. 40/50 Legendary Dungeon^
+^Quest_Mission_Str_Type_470^,^Find the source of the noise in the ruins^
+^Quest_Mission_Str_Type_471^,^Help Jaden^
+^Quest_Mission_Str_Type_472^,^Mend Pyro^
+^Quest_Mission_Str_Type_473^,^Find the phoenix fledgling^
+^Quest_Mission_Str_Type_474^,^Free the trapped phoenix fledgling^
+^Quest_Mission_Str_Type_475^,^Clear Heroic and Legendary Dungeons^
+^Quest_Mission_Str_Type_476^,^Enter the Temple of Sands^
+^Quest_Mission_Str_Type_477^,^Defeat Hatchlings <Tempest Dragon>^
+^Quest_Mission_Str_Type_478^,^Temper [NAME] to +5^
+^Quest_Mission_Str_Type_479^,^Disable the Control Device^
+^Quest_Mission_Str_Type_480^,^Defeat Duke Elder and Obtain Demonic Stone^
+^Quest_Mission_Str_Type_481^,^Enter Elder's Bastion^
+^Quest_Mission_Str_Type_482^,^Seal Agnas the Red^
+^Quest_Mission_Str_Type_483^,^Seal Karasha Dark One^
+^Quest_Mission_Str_Type_484^,^Seal Ruby Bloodwyrm^
+^Quest_Mission_Str_Type_485^,^Seal Paragas the Mad^
+^Quest_Mission_Str_Type_486^,^Handle Wilted Carrot^
+^Quest_Mission_Str_Type_487^,^Handled Wilted Cabbage^
+^Quest_Mission_Str_Type_488^,^Handle Odds and Ends^
+^Quest_Mission_Str_Type_489^,^Seal Blue Bloodwyrm^
+^Quest_Mission_Str_Type_490^,^Give Sacred Remedy^
+^Quest_Mission_Str_Type_491^,^Return to [NAME]^
+^Quest_Mission_Str_Type_492^,^Find the Fire Dragon in the Broken Caldera^
+^Quest_Mission_Str_Type_493^,^Train with Tortus^
+^Quest_Mission_Str_Type_494^,^Find [NAME]^
+^Quest_Mission_Str_Type_495^,^Go to Hakain's Crossing and talk to the king^
+^Quest_Mission_Str_Type_496^,^Obtain practice copper ore^
+^Quest_Mission_Str_Type_497^,^Obtain Sharack's Seal Stone^
+^Quest_Mission_Str_Type_498^,^Travel to Parna's Coast via Skippus^
+^Quest_Mission_Str_Type_499^,^Enter the Arena through the Arena Shrine^
+^Quest_Mission_Str_Type_500^,^Catch a copper-coated cherry salmon at the farm.^
+^Quest_Mission_Str_Type_501^,^Catch a silver-coated cherry salmon at the farm.^
+^Quest_Mission_Str_Type_502^,^Catch a golden-coated cherry salmon at the farm.^
+^Quest_Mission_Str_Type_503^,^Catch Mona Rabbini^
+^Quest_Mission_Str_Type_504^,^Send familiar out to explore^
+^Quest_Mission_Str_Type_505^,^Complete familiar exploration^
+^Quest_Mission_Str_Type_506^,^Talk to Leica and exchange 30 elluns^
+^Quest_Mission_Str_Type_507^,^Clear Lv. 40 heroic dungeon^
+^Quest_Mission_Str_Type_508^,^Clear Lv. 50 heroic dungeon^
+^Quest_Mission_Str_Type_509^,^Clear Lv. 60 heroic dungeon^
+^Quest_Mission_Str_Type_510^,^Clear Lv. 40 legendary dungeon^
+^Quest_Mission_Str_Type_511^,^Clear Lv. 50 legendary dungeon^
+^Quest_Mission_Str_Type_512^,^Clear Lv. 60 legendary dungeon^
+^Quest_Mission_Str_Type_513^,^Find a Lair Keystone^
+^Quest_Mission_Str_Type_514^,^Defeat the Dullahan^
+^Quest_Mission_Str_Type_515^,^Participate in the Battle^
+^Quest_Mission_Str_Type_516^,^Claim Victory in the Battle^
+^Quest_Mission_Str_Type_517^,^Enter Familiar Farm^
+^Quest_Mission_Str_Type_518^,^Defeat Carleon in Legendary Carleon Manor.^
+^Quest_Mission_Str_Type_519^,^Defeat Yeti Captain Sinthan in Legendary Ruins of Matren.^
+^Quest_Mission_Str_Type_520^,^Defeat Radan's Eye in Legendary Cavern of the Veil.^
+^Quest_Mission_Str_Type_521^,^Defeat Rondo in Legendary Frost Keep^
+^Quest_Mission_Str_Type_522^,^Defeat Medeu in Legendary The Breach^
+^Quest_Mission_Str_Type_523^,^Clear Dungeon on Heroic Difficulty^
+^Quest_Mission_Str_Type_524^,^Find the old Guvans at Hakanas Titan Platform.^
+^Quest_Mission_Str_Type_525^,^Take a boat from Guvans and go to Magmafora.^
+^Quest_Mission_Str_Type_526^,^Ask residents about the whereabouts of the Demonic Stone.^
+^Quest_Mission_Str_Type_527^,^Go to Runcun at the top of Runcun.^
+^Quest_Mission_Str_Type_528^,^Listen to the rumors about Runcun^
+^Quest_Mission_Str_Type_529^,^Find Insect Human in Outlying Areas^
+^Quest_Mission_Str_Type_530^,^Find evidence after killing the assassins^
+^Quest_Mission_Str_Type_531^,^Take the evidence to Runcun^
+^Quest_Mission_Str_Type_532^,^Check out the first rumor^
+^Quest_Mission_Str_Type_533^,^Check out the second rumor^
+^Quest_Mission_Str_Type_534^,^Check out the third rumor^
+^Quest_Mission_Str_Type_535^,^Go to the Itildir district.^
+^Quest_Mission_Str_Type_536^,^Find traces of the disappeared supply^
+^Quest_Mission_Str_Type_537^,^A bunch of people who attacked the supply crews^
+^Quest_Mission_Str_Type_538^,^Find the Scouts^
+^Quest_Mission_Str_Type_539^,^Reveal the origin of the light^
+^Quest_Mission_Str_Type_540^,^Go to the abandoned Command Post^
+^Quest_Mission_Str_Type_541^,^Find the location of Kurodian^
+^Quest_Mission_Str_Type_542^,^Take the keys from the guard^
+^Quest_Mission_Str_Type_543^,^Release Kurodian^
+^Quest_Mission_Str_Type_544^,^Find the book of records^
+^Quest_Mission_Str_Type_545^,^Check the book of records^
+^Quest_Mission_Str_Type_546^,^Defeat Commander Salazar^
+^Quest_Mission_Str_Type_547^,^Identify the origin of Salazar's power^
+^Quest_Mission_Str_Type_548^,^Go to the Investigation Camp^
+^Quest_Mission_Str_Type_549^,^Get a survey member's guidance^
+^Quest_Mission_Str_Type_550^,^Reveal the cause of Aklan plants emerging power^
+^Quest_Mission_Str_Type_551^,^Identify the origin of the bottle^
+^Quest_Mission_Str_Type_552^,^Go to the kingdom of the insect king^
+^Quest_Mission_Str_Type_553^,^Go to Insect King Lazard^
+^Quest_Mission_Str_Type_554^,^Listen to Lazard about the demonic stone^
+^Quest_Mission_Str_Type_555^,^Go to the Yasutan Site^
+^Quest_Mission_Str_Type_556^,^Retreive the Demonic stone^
+^Quest_Mission_Str_Type_557^,^Find No who is waiting in the Grand Canyon Village^
+^Quest_Mission_Str_Type_558^,^The Place of Prophecy^
+^Quest_Mission_Str_Type_559^,^Go to Ilric's Lair^
+^Quest_Mission_Str_Type_560^,^Prevent Princess Lania's Awakening^
+^Quest_Mission_Str_Type_561^,^Find the first sight^
+^Quest_Mission_Str_Type_562^,^Rabbini's trail research^
+^Quest_Mission_Str_Type_563^,^Track the traces of Rabbini^
+^Quest_Mission_Str_Type_564^,^Investigate the disappearance of soldiers^
+^Quest_Mission_Str_Type_565^,^Track the traces of missing soldiers^
+^Quest_Mission_Str_Type_566^,^Rescue the Insect Kingdom's captive^
+^Quest_Mission_Str_Type_567^,^Escort Cades^
+^Quest_Mission_Str_Type_568^,^Go to the Grand Canyon Village via Romanson^
+^Quest_Mission_Str_Type_569^,^Tame Fraiga^
+^Quest_Mission_Str_Type_570^,^Obtain Fraiga seal stone^
+^Quest_Mission_Str_Type_571^,^Tame Green Wing Amato^
+^Quest_Mission_Str_Type_572^,^Obtain Green Wing Amato seal stone^
+^Quest_Mission_Str_Type_573^,^Destroy the raid occupying the desolate gorge^
+^Quest_Mission_Str_Type_574^,^Remove the insects tHat have finished the mutation^
+^Quest_Mission_Str_Type_575^,^Defeat the monsters tHat Tasha is afraid of^
+^Quest_Mission_Str_Type_576^,^Rabbini's trail research^
+^Quest_Mission_Str_Type_577^,^Track the traces of Rabbini^
+^Quest_Mission_Str_Type_578^,^Track the traces of missing soldiers^
+^Quest_Mission_Str_Type_579^,^Destroy the cannibal plants^
+^Quest_Mission_Str_Type_580^,^Defeat the scouts occupying the scout^
+^Quest_Mission_Str_Type_581^,^Use Sasha's mobile device to move to the Grand Canyon village^
+^Quest_Mission_Str_Type_582^,^Discipline the rebel group^
+^Quest_Mission_Str_Type_583^,^Roxanne's whereabouts^
+^Quest_Mission_Str_Type_584^,^Ask Ivin where Roxanne is^
+^Quest_Mission_Str_Type_585^,^<Cultural patrol> Defeat Kinujak^
+^Quest_Mission_Str_Type_586^,^<Kinujak's Child> Defeat Zarq^
+^Quest_Mission_Str_Type_587^,^<Kinujak's Child> Defeat Zanuq^
+^Quest_Mission_Str_Type_588^,^<Cave predator> Defeat Sandworms^
+^Quest_Mission_Str_Type_589^,^Wait for the conversation between Lazard and Silveth^
+^Quest_Mission_Str_Type_590^,^Reach level 67^
+^Quest_Mission_Str_Type_591^,^Investigate Ilric's eggs to find clues^
+^Quest_Mission_Str_Type_592^,^Destroy the Demonic Stone from the Yastan Site^
+^Quest_Mission_Str_Type_593^,^Kill Mourcan and his men^
+^Quest_Mission_Str_Type_594^,^Clear Legendary Dungeon^
+^Quest_Mission_Str_Type_595^,^Defeat Day of the Week Boss Turimnan^
+^Quest_Mission_Str_Type_596^,^Defeat War Camp Soldier^
+^Quest_Mission_Str_Type_597^,^Defeat Akran Forest Rainbow Flower^
+^Quest_Mission_Str_Type_598^,^[Elite] Defeat Ictilir Deserter^
+^Quest_Mission_Str_Type_599^,^[Elite] Defeat Exid of Insect Legion Campground^
+^Quest_Mission_Str_Type_600^,^[Elite] Defeat Insect Legion of Insect Legion Campground^
+^Quest_Mission_Str_Type_601^,^[Elite] Defeat War Camp Sentinel^
+^Quest_Mission_Str_Type_602^,^Eat [NAME]^
+^Quest_Mission_Str_Type_603^,^Defeat either Erga, Bullhead Borough or the fallen bishop Kai Shiku^
+^Quest_Mission_Str_Type_604^,^Defeat Mystical Spirit^
+^Quest_Mission_Str_Type_605^,^Defeat the Leader of the Earth^
+^Quest_Mission_Str_Type_606^,^Defeat the underground labyrinth monsters^
+^Quest_Mission_Str_Type_607^,^[Elite] Defeat the Frost Corps outside The Frost Keep^
+^Quest_Mission_Str_Type_608^,^[Elite] Defeat the Khabimist Mage at the Divinity Shore^
+^Quest_Mission_Str_Type_609^,^Talk to Jesselis^
+^Quest_Mission_Str_Type_610^,^Kill a Player from another server^
+^Quest_Mission_Str_Type_611^,^Defeat Elder^
+^Quest_Mission_Str_Type_612^,^Defeat Kurodian^
+^Quest_Mission_Str_Type_613^,^Enter Hastan Secret Retreat^
+^Quest_Mission_Str_Type_614^,^Obtain SHattered Stone from Lv.40 Legendary Dungeon^
+^Quest_Mission_Str_Type_615^,^Obtain Small Water Stones from Lv.50 Legendary Dungeon^
+^Quest_Mission_Str_Type_616^,^Obtain Unidentified Seeds from Lv.60 Legendary Dungeon^
+^Quest_Mission_Str_Type_617^,^Obtain Giant Carrot Seeds from Lv.65 Legendary Dungeon^
+^Quest_Mission_Str_Type_618^,^Kill the Reconnaissance Expedition^
+^Quest_Mission_Str_Type_619^,^Defeat Braghin Patrol^
+^Quest_Mission_Str_Type_620^,^Defeat Braghin Barbarian^
+^Quest_Mission_Str_Type_621^,^Defeat Braghin Priest^
+^Quest_Mission_Str_Type_622^,^Defeat Braghin Grand Sharpshooter^
+^Quest_Mission_Str_Type_623^,^Defeat Braghin Grand Fighter^
+^Quest_Mission_Str_Type_624^,^Obtain a Pluton seal stone^
+^Quest_Mission_Str_Type_625^,^Obtain a Cool Kalliatu seal stone^
+^Quest_Mission_Str_Type_626^,^Obtain a Kalliatu seal stone^
+^Quest_Mission_Str_Type_627^,^Defeat Vampire Residents^
+^Quest_Mission_Str_Type_628^,^Clear Legendary Dungeon^
+^Quest_Mission_Str_Type_629^,^Obtain a Poelle seal stone^
+^Quest_Mission_Str_Type_630^,^Kill a Player in Stygaea^
+^Quest_Mission_Str_Type_631^,^Defeat Lv.40-50 Dungeon Bosses^
+^Quest_Mission_Str_Type_632^,^Defeat Lv.60+ Dungeon Bosses^
+^Quest_Mission_Str_Type_633^,^Defeat one of the invading small-sized monsters^
+^Quest_Mission_Str_Type_634^,^Defeat one of the invading middle-sized monsters^
+^Quest_Mission_Str_Type_635^,^Defeat one of the invading large-sized monsters^
+^Quest_Mission_Str_Type_636^,^Defeat Invading Frost Corps^
+^Quest_Mission_Str_Type_637^,^Defeat Invading Immortal Legion^
+^Quest_Mission_Str_Type_638^,^Defeat Invading Chaos Legion^
+^Quest_Mission_Str_Type_639^,^Defeat Invading Insect Legion^
+^Quest_Mission_Str_Type_640^,^Defeat Invading Giant Legion^
+^Quest_Mission_Str_Type_641^,^Defeat Invading Frost Corps with Low-Level Party Members^
+^Quest_Mission_Str_Type_642^,^Defeat Invading Immortal Legion with Low-Level Party Members^
+^Quest_Mission_Str_Type_643^,^Defeat Invading Chaos Legion with Low-Level Party Members^
+^Quest_Mission_Str_Type_644^,^Defeat Invading Insect Legion with Low-Level Party Members^
+^Quest_Mission_Str_Type_645^,^Defeat Invading Giant Legion with Low-Level Party Members^
+^Quest_Mission_Str_Type_646^,^Defeat one of the invading large-sized monsters Captain^
+^Quest_Mission_Str_Type_647^,^Light the torch^
+^Quest_Mission_Str_Type_648^,^Guarding Vandals^
+^Quest_Mission_Str_Type_649^,^Fire Consumed Relic Boss Defeat^
+^Quest_Mission_Str_Type_650^,^Kill Carleans Mansion Boss^
+^Quest_Mission_Str_Type_651^,^Frozen Matren Ruins Boss Defeat^
+^Quest_Mission_Str_Type_652^,^Defeat the Shrouded Cave Boss^
+^Quest_Mission_Str_Type_653^,^Defeat Parlach Ice Citadel boss^
+^Quest_Mission_Str_Type_654^,^Kill the Rift Boss in Airspace^
+^Quest_Mission_Str_Type_655^,^Kill the Temple of the Ancients bosses^
+^Quest_Mission_Str_Type_656^,^Destroy the Immortal Corps Fortress Boss^
+^Quest_Mission_Str_Type_657^,^Destroy Forgotten Shrine Bosses^
+^Quest_Mission_Str_Type_658^,^Kill The Elder's Airbastion Boss^
+^Quest_Mission_Str_Type_659^,^Kill the Dragon's Tomb boss^
+^Quest_Mission_Str_Type_660^,^Obtain a certificate after participating in the base war^
+^Quest_Mission_Str_Type_661^,^Clear Forgotten Shrine on Heroic Difficulty^
+^Quest_Mission_Str_Type_662^,^Clear Frozen Ruins of Matren on Legendary Difficulty^
+^Quest_Mission_Str_Type_663^,^Clear Ancient Temple on Legend difficulty^
+^Quest_Mission_Str_Type_664^,^Clear Charlesan Mansion in Legendary Difficulty^
+^Quest_Mission_Str_Type_665^,^Clear Parlac Ice Fortress on Legendary Difficulty^
+^Quest_Mission_Str_Type_666^,^Clear The Elder's Aerial Bastion on Legendary difficulty^
+^Quest_Mission_Str_Type_667^,^Clear Ruins swallowed by fire on Legend difficulty^
+^Quest_Mission_Str_Type_668^,^Clear the mysterious cave in Legendary difficulty^
+^Quest_Mission_Str_Type_669^,^Clear Ancient Dragon's Grave on Legendary Difficulty^
+^Quest_Mission_Str_Type_670^,^Buy apples from Ron Teslow^
+^Quest_Mission_Str_Type_672^,^Protect Rabismas Gift^
+^Quest_Mission_Str_Type_673^,^Part 2 will be updated^

@@ -1,0 +1,19 @@
+t_key,t_korean,t_jpn,t_chinese,t_enu
+^TL0_001_0_0000_Name^,^Mining Pickaxe^,^採鉱つるはし^,^^,^^
+^TL0_001_0_0000_description^,^A pickaxe required for mining.^,^採鉱に必要なつるはし^,^^,^^
+^TL1_001_0_0000_Name^,^Tanning Hand Knife^,^皮なめのナイフ^,^^,^^
+^TL1_001_0_0000_description^,^It is a hand knife necessary for tanning.^,^皮なめに必要なナイフ^,^^,^^
+^TL2_001_0_0000_Name^,^GatheRing Scythe^,^採集鎌^,^^,^^
+^TL2_001_0_0000_description^,^A sickle required for gatheRing herbs.^,^薬草採集にに必要な鎌^,^^,^^
+^TL3_001_0_0000_Name^,^Crude Fishing Rod^,^ぼろい釣り竿^,^^,^^
+^TL3_001_0_0000_description^,^A crude fishing rod tHat can catch fish.^,^魚を釣れるぼろい釣り竿^,^^,^^
+^TL4_001_0_0000_Name^,^Basic Hammer^,^基本槌^,^^,^^
+^TL4_001_0_0000_description^,^It is a tool item required to make weapons and Armor.^,^武器と防具製作に必要な道具アイテム^,^^,^^
+^TL5_001_0_0000_Name^,^Basic Experimental Tools^,^基本実験道具^,^^,^^
+^TL5_001_0_0000_description^,^It is a tool item required for alchemy.^,^錬金術に必要な道具アイテム^,^^,^^
+^TL6_001_0_0000_Name^,^Basic Cookware^,^基本調理道具^,^^,^^
+^TL6_001_0_0000_description^,^It is a tool item necessary for cooking.^,^料理に必要な道具アイテム^,^^,^^
+^TL7_001_0_0001_Name^,^CleaRing Plow^,^開墾用カラスキ^,^^,^^
+^TL8_001_0_0001_Name^,^CleaRing Shovel^,^開墾用シャベル^,^^,^^
+^TL9_001_0_0002_Name^,^Construction Hammer^,^建設槌^,^^,^^
+^TL10_001_0_0002_Name^,^Farmland initial tool^,^耕作地初期ツール^,^^,^^

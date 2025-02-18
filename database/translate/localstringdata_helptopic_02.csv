@@ -1,0 +1,19 @@
+t_key,t_korean
+^idoll_tutorial_camera_title^,^Camera Move^
+^idoll_tutorial_camera_desc^,^ Right-click your mouse Hold right-click of your mouse and drag or use Page Up/Down keys to look around.^
+^idoll_tutorial_move_title^,^Character Move^
+^idoll_tutorial_move_desc^,^ Move your character using W A S D keys.^
+^idoll_tutorial_interaction1_title^,^Interaction^
+^idoll_tutorial_interaction1_desc^,^You can get a weapon by approaching a weapon rack and use F key.^
+^idoll_tutorial_attack_title^,^Attack^
+^idoll_tutorial_attack_desc^,^  After selecting a target use number 1 key or  double-click the target for basic attack.^
+^idoll_tutorial_pattern_title^,^Boss Monster^
+^idoll_tutorial_pattern_desc^,^ A boss monster has a specific pattern. Destroy Bimo's barrel and keep Boozer Bimo's HP recovery at bay.^
+^idoll_tutorial_skill_title^,^Using Skills^
+^idoll_tutorial_skill_desc^,^Select a target and use number 2 or 3 key to use a skill.^
+^idoll_tutorial_fly_title^,^Flying^
+^idoll_tutorial_fly_desc^,^While mounted, use SPACE BAR to fly.^
+^idoll_tutoial_glide_title^,^Gliding^
+^idoll_tutorial_glide_desc^,^While flying, double tap SPACE BAR to glide.^
+^idoll_tutorial_zoom_title^,^Zoom in/out^
+^idoll_tutorial_zoom_desc^,^Zoom in/out by scrolling your mouse wheel.^

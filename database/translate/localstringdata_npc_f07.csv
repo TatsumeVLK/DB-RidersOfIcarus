@@ -1,0 +1,906 @@
+t_key,t_koreanorg,t_jpn,t_chinese,t_korean,t_eng_2,t_eng_3
+^N_f07_0_0001_0001_Name^,^아인스 가르니^,^!!^,^^,^Einz Garni^,^^,^^
+^N_f07_0_0001_0001_NameDetail^,^여관 주인^,^!!^,^^,^Inn Owner^,^^,^^
+^N_D08_Portal_1_Name^,^빛의 성석^,^^,^^,^Victory Shrine^,^^,^^
+^N_D08_Portal_1_NameDetail^,^던전 입구로 이동^,^^,^^,^Exit Dungeon^,^^,^^
+^N_F07_Darwin_01_Name^,^선장 다윈^,^^,^^,^Captain Darwin^,^^,^^
+^N_F07_Darwin_01_NameDetail^,^하카나스 왕국 비행선^,^^,^^,^Hakanas Kingdom Sky Titan^,^^,^^
+^N_F07_Whale_01_Name^,^하카나스 왕국 비행선^,^^,^^,^Hakanas Kingdom Sky Titan^,^^,^^
+^N_F07_Whale_01_NameDetail^,^거대 부유 고래^,^^,^^,^Sky Titan^,^^,^^
+^N_F07_Gillot_01_Name^,^길로트^,^^,^^,^Gilotte^,^^,^^
+^N_F07_Gillot_01_NameDetail^,^오르카 호 일등 항해사^,^^,^^,^Ship Orca First Mate^,^^,^^
+^N_F07_Fragen_01_Name^,^선원 프라겐^,^^,^^,^Shipmate Pragen^,^^,^^
+^N_F07_Fragen_01_NameDetail^,^하카나스 왕국 비행선^,^^,^^,^Hakanas Kingdom Sky Titan^,^^,^^
+^N_F07_Kilroi_01_Name^,^킬로이^,^^,^^,^Kilroy^,^^,^^
+^N_F07_Kilroi_01_NameDetail^,^백색의 치료사^,^^,^^,^Mender^,^^,^^
+^N_F07_Hiss_01_Name^,^히스^,^^,^^,^Heath^,^^,^^
+^N_F07_Hiss_01_NameDetail^,^백색의 치료사^,^^,^^,^Mender^,^^,^^
+^N_F07_Balralen_01_Name^,^발리렌^,^^,^^,^Valiren^,^^,^^
+^N_F07_Balralen_01_NameDetail^,^백색의 치료사^,^^,^^,^Mender^,^^,^^
+^N_F07_Sada_01_Name^,^사다^,^^,^^,^Sada^,^^,^^
+^N_F07_Sada_01_NameDetail^,^백색의 치료사^,^^,^^,^Mender^,^^,^^
+^N_F07_Scrra_01_Name^,^스크라^,^^,^^,^Skra^,^^,^^
+^N_F07_Scrra_01_NameDetail^,^백색의 치료사^,^^,^^,^Mender^,^^,^^
+^N_F07_Minan_01_Name^,^미난^,^^,^^,^Meenan^,^^,^^
+^N_F07_Minan_01_NameDetail^,^백색의 치료사^,^^,^^,^Mender^,^^,^^
+^N_F07_Portal_100_Name^,^상급 포탈이동장치^,^^,^^,^World Shrine^,^^,^^
+^N_F07_Portal_100_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Portal_001_Name^,^포탈이동장치^,^^,^^,^Transit Shrine^,^^,^^
+^N_F07_Portal_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Portal_002_Name^,^포탈이동장치^,^^,^^,^Transit Shrine^,^^,^^
+^N_F07_Portal_002_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Portal_003_Name^,^포탈이동장치^,^^,^^,^Transit Shrine^,^^,^^
+^N_F07_Portal_003_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Portal_004_Name^,^포탈이동장치^,^^,^^,^Transit Shrine^,^^,^^
+^N_F07_Portal_004_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Portal_005_Name^,^포탈이동장치^,^^,^^,^Transit Shrine^,^^,^^
+^N_F07_Portal_005_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Balra_01_Name^,^발라^,^^,^^,^Baala^,^^,^^
+^N_F07_Balra_01_NameDetail^,^음식 상인^,^^,^^,^Food Merchant^,^^,^^
+^N_F07_Crea_01_Name^,^크레아^,^^,^^,^Crea^,^^,^^
+^N_F07_Crea_01_NameDetail^,^물약 상인^,^^,^^,^Potion Merchant^,^^,^^
+^N_F07_Malo_01_Name^,^말로^,^^,^^,^Malo^,^^,^^
+^N_F07_Malo_01_NameDetail^,^잡화 상인^,^^,^^,^General Merchant^,^^,^^
+^N_F07_Sanna_01_Name^,^사나^,^^,^^,^Sana^,^^,^^
+^N_F07_Sanna_01_NameDetail^,^음식 상인^,^^,^^,^Food Merchant^,^^,^^
+^N_F07_Kaily_01_Name^,^카일라^,^^,^^,^Khailvar^,^^,^^
+^N_F07_Kaily_01_NameDetail^,^물약 상인^,^^,^^,^Potion Merchant^,^^,^^
+^N_F07_Rahare_01_Name^,^라하르^,^^,^^,^Rahar^,^^,^^
+^N_F07_Rahare_01_NameDetail^,^잡화 상인^,^^,^^,^General Merchant^,^^,^^
+^N_F07_Illuin_01_Name^,^일루인^,^^,^^,^Illuin^,^^,^^
+^N_F07_Illuin_01_NameDetail^,^무기 상인^,^^,^^,^Weapon Merchant^,^^,^^
+^N_F07_Narrin_01_Name^,^나라인^,^^,^^,^Narain^,^^,^^
+^N_F07_Narrin_01_NameDetail^,^방어구 상인^,^^,^^,^Armor Merchant^,^^,^^
+^N_F07_Kotri_01_Name^,^코트리^,^^,^^,^Cotree^,^^,^^
+^N_F07_Kotri_01_NameDetail^,^음식 상인^,^^,^^,^Food Merchant^,^^,^^
+^N_F07_Vollra_01_Name^,^볼라^,^^,^^,^Bolla^,^^,^^
+^N_F07_Vollra_01_NameDetail^,^물약 상인^,^^,^^,^Potion Merchant^,^^,^^
+^N_F07_Ullik_01_Name^,^울릭^,^^,^^,^Woolic^,^^,^^
+^N_F07_Ullik_01_NameDetail^,^잡화 상인^,^^,^^,^General Merchant^,^^,^^
+^N_F07_Fosa_01_Name^,^포사^,^^,^^,^Posa^,^^,^^
+^N_F07_Fosa_01_NameDetail^,^음식 상인^,^^,^^,^Food Merchant^,^^,^^
+^N_F07_Eness_01_Name^,^에니스^,^^,^^,^Ennis^,^^,^^
+^N_F07_Eness_01_NameDetail^,^물약 상인^,^^,^^,^Potion Merchant^,^^,^^
+^N_F07_Glan_01_Name^,^글랜^,^^,^^,^Glen^,^^,^^
+^N_F07_Glan_01_NameDetail^,^잡화 상인^,^^,^^,^Shopkeep^,^^,^^
+^N_F07_Bonif_01_Name^,^보니프^,^^,^^,^Bonif^,^^,^^
+^N_F07_Bonif_01_NameDetail^,^잡화 상인^,^^,^^,^General Merchant^,^^,^^
+^N_F07_SunFill_01_Name^,^선필^,^^,^^,^Sunfil^,^^,^^
+^N_F07_SunFill_01_NameDetail^,^무기 상인^,^^,^^,^Weapon Merchant^,^^,^^
+^N_F07_Evian_01_Name^,^에비안^,^^,^^,^Evian^,^^,^^
+^N_F07_Evian_01_NameDetail^,^방어구 상인^,^^,^^,^Armor Merchant^,^^,^^
+^N_F07_Feyqueen_01_Name^,^페이퀸^,^^,^^,^Feyqueen^,^^,^^
+^N_F07_Feyqueen_01_NameDetail^,^음식 상인^,^^,^^,^Food Merchant^,^^,^^
+^N_F07_Vallina_01_Name^,^발리나^,^^,^^,^Balina^,^^,^^
+^N_F07_Vallina_01_NameDetail^,^물약 상인^,^^,^^,^Potion Merchant^,^^,^^
+^N_F07_Feycle_01_Name^,^페이클^,^^,^^,^Feykle^,^^,^^
+^N_F07_Feycle_01_NameDetail^,^잡화 상인^,^^,^^,^General Merchant^,^^,^^
+^N_F07_Saerrn_01_Name^,^세런^,^^,^^,^Saron^,^^,^^
+^N_F07_Saerrn_01_NameDetail^,^음식 상인^,^^,^^,^Food Merchant^,^^,^^
+^N_F07_Dera_01_Name^,^데라^,^^,^^,^Dera^,^^,^^
+^N_F07_Dera_01_NameDetail^,^물약 상인^,^^,^^,^Potion Merchant^,^^,^^
+^N_F07_Rockbail_01_Name^,^락베일^,^^,^^,^Rockveil^,^^,^^
+^N_F07_Rockbail_01_NameDetail^,^잡화 상인^,^^,^^,^General Merchant^,^^,^^
+^N_F07_Qarrin_01_Name^,^퀘린^,^^,^^,^Quarin^,^^,^^
+^N_F07_Qarrin_01_NameDetail^,^잡화 상인^,^^,^^,^General Merchant^,^^,^^
+^N_F07_Risco_01_Name^,^리스코^,^^,^^,^Risco^,^^,^^
+^N_F07_Risco_01_NameDetail^,^야수 조련사^,^^,^^,^Beast Trainer^,^^,^^
+^N_F07_Coolrash_01_Name^,^쿨라시^,^^,^^,^Kulashi^,^^,^^
+^N_F07_Coolrash_01_NameDetail^,^리스코의 펠로우^,^^,^^,^Risco’s Familiar^,^^,^^
+^N_F07_Toolick_01_Name^,^툴릭^,^^,^^,^Toolick^,^^,^^
+^N_F07_Toolick_01_NameDetail^,^야수 조련사^,^^,^^,^Beast Trainer^,^^,^^
+^N_F07_Liie_01_Name^,^리이^,^^,^^,^Leeh^,^^,^^
+^N_F07_Liie_01_NameDetail^,^툴릭의 펠로우^,^^,^^,^Toolick’s Familiar^,^^,^^
+^N_F07_Board_100_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F07_Board_100_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Board_001_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F07_Board_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Board_002_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F07_Board_002_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Board_003_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F07_Board_003_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Board_004_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F07_Board_004_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Board_005_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F07_Board_005_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Board_006_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F07_Board_006_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Board_007_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F07_Board_007_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Keron_01_Name^,^케론^,^^,^^,^Kerron^,^^,^^
+^N_F07_Keron_01_NameDetail^,^무기 재료 상인^,^^,^^,^Weapon Material Merchant^,^^,^^
+^N_F07_Gremi_01_Name^,^그레미^,^^,^^,^Grammy^,^^,^^
+^N_F07_Gremi_01_NameDetail^,^방어구 재료 상인^,^^,^^,^Armors Material Merchant^,^^,^^
+^N_F07_Abakan_01_Name^,^아바칸^,^^,^^,^Abakhan^,^^,^^
+^N_F07_Abakan_01_NameDetail^,^요리 재료 상인^,^^,^^,^Cooking Ingredient Merchant^,^^,^^
+^N_F07_Minusin_01_Name^,^미누신^,^^,^^,^Minushin^,^^,^^
+^N_F07_Minusin_01_NameDetail^,^연금술 재료 상인^,^^,^^,^Alchemy Material Merchant^,^^,^^
+^N_F07_Valleya_01_Name^,^벨리야^,^^,^^,^Veliya^,^^,^^
+^N_F07_Valleya_01_NameDetail^,^장신구 재료 상인^,^^,^^,^Jewel Craft Merchant^,^^,^^
+^N_F07_Betten_01_Name^,^베튼^,^^,^^,^Batten^,^^,^^
+^N_F07_Betten_01_NameDetail^,^펠로우 재료 상인^,^^,^^,^Barder Craft Merchant^,^^,^^
+^N_F07_Smith_01_Name^,^무기 제작대^,^^,^^,^Weaponsmith Station^,^^,^^
+^N_F07_Smith_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Smith_02_Name^,^방어구 제작대^,^^,^^,^Armorsmith Station^,^^,^^
+^N_F07_Smith_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Cook_01_Name^,^요리 제작대^,^^,^^,^Cooking Station^,^^,^^
+^N_F07_Cook_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Alchemy_01_Name^,^연금 제작대^,^^,^^,^Alchemy Crafting Station^,^^,^^
+^N_F07_Alchemy_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Accessory_01_Name^,^장신구 제작대^,^^,^^,^Jewelry Crafting Station^,^^,^^
+^N_F07_Accessory_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Fellow_01_Name^,^펠로우 제작대^,^^,^^,^Barding Crafting Station^,^^,^^
+^N_F07_Fellow_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_RabMer01_01_Name^,^라비니 엘루엘^,^^,^^,^Rabbini Elluel^,^^,^^
+^N_F07_RabMer01_01_NameDetail^,^엘룬 상인^,^^,^^,^Ellun Merchant^,^^,^^
+^N_F07_RabMer01_02_Name^,^라비니 엘루아^,^^,^^,^Rabbini Ellua^,^^,^^
+^N_F07_RabMer01_02_NameDetail^,^엘룬 상인^,^^,^^,^Ellun Merchant^,^^,^^
+^N_F07_RabMer01_03_Name^,^라비니 엘루모르^,^^,^^,^Rabbini Ellumor^,^^,^^
+^N_F07_RabMer01_03_NameDetail^,^엘룬 상인^,^^,^^,^Ellun Merchant^,^^,^^
+^N_F07_Sell_01_Name^,^로우어^,^^,^^,^Louer^,^^,^^
+^N_F07_Sell_01_NameDetail^,^판매 대행 중개인^,^^,^^,^Auctioneer^,^^,^^
+^N_F07_Sell_02_Name^,^퍼로어^,^^,^^,^Furroer^,^^,^^
+^N_F07_Sell_02_NameDetail^,^판매 대행 중개인^,^^,^^,^Auctioneer^,^^,^^
+^N_F07_Sell_03_Name^,^퓨로어^,^^,^^,^Puroer^,^^,^^
+^N_F07_Sell_03_NameDetail^,^판매 대행 중개인^,^^,^^,^Auctioneer^,^^,^^
+^N_F07_HuMFar_101_Name^,^살베르그^,^^,^^,^Salburg^,^^,^^
+^N_F07_HuMFar_101_NameDetail^,^창고지기^,^^,^^,^Storage Master^,^^,^^
+^N_F07_HuMFar_102_Name^,^둔베르그^,^^,^^,^Dunburg^,^^,^^
+^N_F07_HuMFar_102_NameDetail^,^창고지기^,^^,^^,^Storage Master^,^^,^^
+^N_F07_HuMFar_103_Name^,^젠베르그^,^^,^^,^Zenberg^,^^,^^
+^N_F07_HuMFar_103_NameDetail^,^창고지기^,^^,^^,^Storage Master^,^^,^^
+^N_F07_HuMFar_104_Name^,^닐베르그^,^^,^^,^Nilberg^,^^,^^
+^N_F07_HuMFar_104_NameDetail^,^창고지기^,^^,^^,^Storage Master^,^^,^^
+^N_F07_HuMFar_105_Name^,^호베르그^,^^,^^,^Hoberg^,^^,^^
+^N_F07_HuMFar_105_NameDetail^,^창고지기^,^^,^^,^Storage Master^,^^,^^
+^N_F07_HuMFar_106_Name^,^카베르그^,^^,^^,^Kaberg^,^^,^^
+^N_F07_HuMFar_106_NameDetail^,^창고지기^,^^,^^,^Storage Master^,^^,^^
+^N_F07_Collect_01_Name^,^피리엇^,^^,^^,^Periot^,^^,^^
+^N_F07_Collect_01_NameDetail^,^콜렉터^,^^,^^,^Collector^,^^,^^
+^N_F07_CFellow_01_Name^,^파누레^,^^,^^,^Panure^,^^,^^
+^N_F07_CFellow_01_NameDetail^,^피리엇의 펠로우^,^^,^^,^Piriot’s Familiar^,^^,^^
+^N_F07_Collect_02_Name^,^캇슈^,^^,^^,^Katshu^,^^,^^
+^N_F07_Collect_02_NameDetail^,^콜렉터^,^^,^^,^Collector^,^^,^^
+^N_F07_CFellow_02_Name^,^브래피^,^^,^^,^Brapi^,^^,^^
+^N_F07_CFellow_02_NameDetail^,^캇슈의 펠로우^,^^,^^,^Katshu’s Familiar^,^^,^^
+^N_F07_chef_01_Name^,^트로베리^,^^,^^,^TRoberry^,^^,^^
+^N_F07_chef_01_NameDetail^,^풍요의 씨앗조합^,^^,^^,^The Seeds of Abundance^,^^,^^
+^N_F07_RabiBani_01_Name^,^라비니 바니라^,^^,^^,^Van Owen Rabbini^,^^,^^
+^N_F07_RabiBani_01_NameDetail^,^초승달 상단^,^^,^^,^Crescent Merchants^,^^,^^
+^N_F07_Penelope_01_Name^,^페넬로페^,^^,^^,^Penelope^,^^,^^
+^N_F07_Penelope_01_NameDetail^,^초승달 상단^,^^,^^,^Crescent Merchants^,^^,^^
+^N_F07_LElfDemus_01_Name^,^데 무스펠^,^^,^^,^De Muspel^,^^,^^
+^N_F07_LElfDemus_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfBmage_01_Name^,^빛의 엘프 대마법사^,^^,^^,^Light Elf Great Mage^,^^,^^
+^N_F07_LElfBmage_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfMage_01_Name^,^빛의 엘프 마법사^,^^,^^,^Light Elf Mage^,^^,^^
+^N_F07_LElfMage_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfRocsan_01_Name^,^카르 록산느^,^^,^^,^Kar Roaxxne^,^^,^^
+^N_F07_LElfRocsan_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfPriest_01_Name^,^빛의 엘프 숲의 사제^,^^,^^,^Light Elf Forest Priest^,^^,^^
+^N_F07_LElfPriest_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfTrepsy_01_Name^,^빛의 엘프 나무술사^,^^,^^,^Light Elf Tree Mage^,^^,^^
+^N_F07_LElfTrepsy_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfRenan_01_Name^,^레난제스트^,^^,^^,^Lenanzar^,^^,^^
+^N_F07_LElfRenan_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfAttack_01_Name^,^빛의 엘프 습격자^,^^,^^,^Light Elf Marauder^,^^,^^
+^N_F07_LElfAttack_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfScout_01_Name^,^빛의 엘프 정찰병^,^^,^^,^Light Elf Scout^,^^,^^
+^N_F07_LElfScout_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfExecut_01_Name^,^빛의 엘프 처형자^,^^,^^,^Light Elf Executioner^,^^,^^
+^N_F07_LElfExecut_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfGuard_01_Name^,^빛의 엘프 수호병^,^^,^^,^Light Elf Guardian^,^^,^^
+^N_F07_LElfGuard_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfAssassin_01_Name^,^빛의 엘프 그림자 전사^,^^,^^,^Light Elf Assassin Warrior^,^^,^^
+^N_F07_LElfAssassin_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfAurea_01_Name^,^백인대장 아우레아^,^^,^^,^Leader of Hundreds Aurea^,^^,^^
+^N_F07_LElfAurea_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfRecon_01_Name^,^빛의 엘프 저격수^,^^,^^,^Light Elf Great Marksman^,^^,^^
+^N_F07_LElfRecon_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfSnipe_01_Name^,^빛의 엘프 정찰자^,^^,^^,^Light Elf Scouter^,^^,^^
+^N_F07_LElfSnipe_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfHunter_01_Name^,^빛의 엘프 수렵꾼^,^^,^^,^Light Elf Hunter^,^^,^^
+^N_F07_LElfHunter_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Ador_01_Name^,^아도르^,^^,^^,^Ador^,^^,^^
+^N_F07_Ador_01_NameDetail^,^빛의 엘프 수호자^,^^,^^,^Light Elf Guardian^,^^,^^
+^N_F07_Neebl_01_Name^,^니블 로드헤임^,^^,^^,^Nibble Rodheim^,^^,^^
+^N_F07_Neebl_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfDguard_01_Name^,^빛의 엘프 칠흑의 근위병^,^^,^^,^Light Elf Dark Guard^,^^,^^
+^N_F07_LElfDguard_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfDassi_01_Name^,^빛의 엘프 어둠의 암살자^,^^,^^,^Light Elf Dark Assassin^,^^,^^
+^N_F07_LElfDassi_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfMcian_01_Name^,^빛의 엘프 현혹의 마도사^,^^,^^,^Light Elf Dazzle Mage^,^^,^^
+^N_F07_LElfMcian_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfSahunt_01_Name^,^빛의 엘프 그림자 사냥꾼^,^^,^^,^Light Elf Assassin Hunter^,^^,^^
+^N_F07_LElfSahunt_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Magno_01_Name^,^메그노^,^^,^^,^Magno^,^^,^^
+^N_F07_Magno_01_NameDetail^,^신룡기사단^,^^,^^,^Dragon Knight^,^^,^^
+^N_F07_HDroFig_01_Name^,^신룡기사단 전투병^,^^,^^,^Dragon Knight Warrior^,^^,^^
+^N_F07_HDroFig_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_HDroPat_01_Name^,^신룡기사단 순찰병^,^^,^^,^Dragon Knight Scout^,^^,^^
+^N_F07_HDroPat_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_HDroMar_01_Name^,^신룡기사단 돌격병^,^^,^^,^Dragon Knight Raider^,^^,^^
+^N_F07_HDroMar_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Hdro_Sha_01_Name^,^신룡기사단 저격병^,^^,^^,^Dragon Knight Marksman^,^^,^^
+^N_F07_Hdro_Sha_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Bernor_01_Name^,^베르노르^,^^,^^,^Bernor^,^^,^^
+^N_F07_Bernor_01_NameDetail^,^빛의 엘프 수호대^,^^,^^,^Light elf Guards^,^^,^^
+^N_F07_Lian_01_Name^,^리안^,^^,^^,^Lian^,^^,^^
+^N_F07_Lian_01_NameDetail^,^빛의 엘프 수호대^,^^,^^,^Light elf Guards^,^^,^^
+^N_F07_Lian_02_Name^,^리안^,^^,^^,^Lian^,^^,^^
+^N_F07_Lian_02_NameDetail^,^빛의 엘프 수호대^,^^,^^,^Light elf Guards^,^^,^^
+^N_F07_Bellon_01_Name^,^벨론^,^^,^^,^Belon^,^^,^^
+^N_F07_Bellon_01_NameDetail^,^악어 사냥꾼^,^^,^^,^Crocodile Hunter^,^^,^^
+^N_F07_Narpa_01_Name^,^나르파^,^^,^^,^Narfa^,^^,^^
+^N_F07_Narpa_01_NameDetail^,^악어 사냥꾼 조수^,^^,^^,^Crocodile Hunter’s Assistant^,^^,^^
+^N_F07_Edios_01_Name^,^이디오스^,^^,^^,^Idios^,^^,^^
+^N_F07_Edios_01_NameDetail^,^악어 사냥꾼 시체^,^^,^^,^Crocodile Hunter’s Corpse^,^^,^^
+^N_F07_Libere_01_Name^,^리베레^,^^,^^,^Libere^,^^,^^
+^N_F07_Libere_01_NameDetail^,^빛의 엘프 정찰자^,^^,^^,^Light Elf Scouter^,^^,^^
+^N_F07_Reteo_01_Name^,^레티오^,^^,^^,^Retio^,^^,^^
+^N_F07_Reteo_01_NameDetail^,^빛의 엘프 정찰자^,^^,^^,^Light Elf Scouter^,^^,^^
+^N_F07_Conwell_01_Name^,^콘웰^,^^,^^,^Cornwell^,^^,^^
+^N_F07_Conwell_01_NameDetail^,^엘로라 성역 장로^,^^,^^,^Ellora Sanctuary Elder^,^^,^^
+^N_F07_Conwell_02_Name^,^콘웰^,^^,^^,^Cornwell^,^^,^^
+^N_F07_Conwell_02_NameDetail^,^엘로라 성역 장로^,^^,^^,^Ellora Sanctuary Elder^,^^,^^
+^N_F07_Brian_01_Name^,^브라이언^,^^,^^,^Brian^,^^,^^
+^N_F07_Brian_01_NameDetail^,^신룡기사단^,^^,^^,^Dragon Knight^,^^,^^
+^N_F07_Ronin_01_Name^,^로닌^,^^,^^,^Ronin^,^^,^^
+^N_F07_Ronin_01_NameDetail^,^신룡기사단^,^^,^^,^Dragon Knight^,^^,^^
+^N_F07_Meuis_01_Name^,^메우스^,^^,^^,^Meus^,^^,^^
+^N_F07_Meuis_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Stella_01_Name^,^스텔라^,^^,^^,^Stella^,^^,^^
+^N_F07_Stella_01_NameDetail^,^빛의 엘프 정찰자^,^^,^^,^Light Elf Scouter^,^^,^^
+^N_F07_Hemus_01_Name^,^파견대장 헤무스^,^^,^^,^Dispatch Captain Hemus^,^^,^^
+^N_F07_Hemus_01_NameDetail^,^신룡기사단^,^^,^^,^Dragon Knight^,^^,^^
+^N_F07_Trent_01_Name^,^엔트^,^^,^^,^Ent^,^^,^^
+^N_F07_Trent_01_NameDetail^,^숲의 수호자^,^^,^^,^Guardian of the Forest^,^^,^^
+^N_F07_Ador_02_Name^,^아도르^,^^,^^,^Ador^,^^,^^
+^N_F07_Ador_02_NameDetail^,^엘 가덴 도시 수비대장^,^^,^^,^Elgaden City Garrison Captain^,^^,^^
+^N_F07_Hodos_01_Name^,^호도스^,^^,^^,^Hodos^,^^,^^
+^N_F07_Hodos_01_NameDetail^,^엘 가덴 도시 수비대^,^^,^^,^Elgaden City Garrison^,^^,^^
+^N_F07_LElfMage_02_Name^,^빛의 엘프 마법사^,^^,^^,^Light Elf Mage^,^^,^^
+^N_F07_LElfMage_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfAttack_02_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F07_LElfAttack_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfGuard_02_Name^,^빛의 엘프 중갑 전사^,^^,^^,^Light Elf Heavy Armor Warrior^,^^,^^
+^N_F07_LElfGuard_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfRecon_02_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_LElfRecon_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfSahunt_02_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_LElfSahunt_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Conwell_03_Name^,^콘웰^,^^,^^,^Cornwell^,^^,^^
+^N_F07_Conwell_03_NameDetail^,^엘로라 성역 장로^,^^,^^,^Ellora Sanctuary Elder^,^^,^^
+^N_F07_Udas_01_Name^,^유다스^,^^,^^,^Judas^,^^,^^
+^N_F07_Udas_01_NameDetail^,^엘로라 성역 12사도^,^^,^^,^12 Apostles of Ellora Sanctuary^,^^,^^
+^N_F07_WorldTree_01_Name^,^노쇠한 엘드라실^,^^,^^,^Old Eldrasil^,^^,^^
+^N_F07_WorldTree_01_NameDetail^,^성역의 수호 세계수^,^^,^^,^Sanctuary Guard World tree^,^^,^^
+^N_F07_Creoss_01_Name^,^크리오스^,^^,^^,^Crios^,^^,^^
+^N_F07_Creoss_01_NameDetail^,^엘 가덴 도시 수비대^,^^,^^,^Elgaden City Garrison^,^^,^^
+^N_F07_Branndiou_01_Name^,^브란디오르^,^^,^^,^Brandior^,^^,^^
+^N_F07_Branndiou_01_NameDetail^,^엘로라의 성역 원로^,^^,^^,^Ellora’s Sanctuary Elder^,^^,^^
+^N_F07_Slanner_01_Name^,^슬레니르^,^^,^^,^Slenir^,^^,^^
+^N_F07_Slanner_01_NameDetail^,^빛의 숲 경비대장^,^^,^^,^Forest of Lights Guard Captain^,^^,^^
+^N_F07_Fuchen_01_Name^,^푸첸^,^^,^^,^Puchen^,^^,^^
+^N_F07_Fuchen_01_NameDetail^,^빛의 숲 경비대^,^^,^^,^Forest of Lights Guards^,^^,^^
+^N_F07_Rhino_01_Name^,^라이노^,^^,^^,^Ryno^,^^,^^
+^N_F07_Rhino_01_NameDetail^,^빛의 숲 경비대^,^^,^^,^Forest of Lights Guards^,^^,^^
+^N_F07_Daina_01_Name^,^데이나^,^^,^^,^Deina^,^^,^^
+^N_F07_Daina_01_NameDetail^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_Bailra_01_Name^,^바일라^,^^,^^,^Vyla^,^^,^^
+^N_F07_Bailra_01_NameDetail^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_LElfBmage_03_Name^,^빛의 엘프 상급 마법사^,^^,^^,^Light Elf Advance Mage^,^^,^^
+^N_F07_LElfBmage_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfMage_03_Name^,^빛의 엘프 마법사^,^^,^^,^Light Elf Mage^,^^,^^
+^N_F07_LElfMage_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfPriest_03_Name^,^빛의 엘프 숲의 사제^,^^,^^,^Light Elf Forest Priest^,^^,^^
+^N_F07_LElfPriest_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfTrepsy_03_Name^,^빛의 엘프 자연술사^,^^,^^,^Light Elf Nature Mage^,^^,^^
+^N_F07_LElfTrepsy_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfAttack_03_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F07_LElfAttack_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfExecut_03_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F07_LElfExecut_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfGuard_03_Name^,^빛의 엘프 중갑 전사^,^^,^^,^Light Elf Heavy Armor Warrior^,^^,^^
+^N_F07_LElfGuard_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfAssassin_03_Name^,^빛의 엘프 중갑 전사^,^^,^^,^Light Elf Heavy Armor Warrior^,^^,^^
+^N_F07_LElfAssassin_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfRecon_03_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_LElfRecon_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfSnipe_03_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_LElfSnipe_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfDguard_03_Name^,^빛의 엘프 중갑 전사^,^^,^^,^Light Elf Heavy Armor Warrior^,^^,^^
+^N_F07_LElfDguard_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Disoss_01_Name^,^디소스^,^^,^^,^Desourd^,^^,^^
+^N_F07_Disoss_01_NameDetail^,^유물 발굴단^,^^,^^,^Relic Excavators^,^^,^^
+^N_F07_Brand_01_Name^,^브란드^,^^,^^,^Berand^,^^,^^
+^N_F07_Brand_01_NameDetail^,^유물 발굴단^,^^,^^,^Relic Excavators^,^^,^^
+^N_F07_WorldTree_02_Name^,^소생하는 엘드라실^,^^,^^,^RecoveRing Eldrasil^,^^,^^
+^N_F07_WorldTree_02_NameDetail^,^성역의 수호 세계수^,^^,^^,^Sanctuary Guard World tree^,^^,^^
+^N_F07_Erana_01_Name^,^에르나^,^^,^^,^Erna^,^^,^^
+^N_F07_Erana_01_NameDetail^,^엘로라의 성역 장로^,^^,^^,^Ellora’s Sanctuary Elder^,^^,^^
+^N_F07_Dine_01_Name^,^디네^,^^,^^,^Dineh^,^^,^^
+^N_F07_Dine_01_NameDetail^,^엘프 주술사^,^^,^^,^Elf Shaman^,^^,^^
+^N_F07_Gomora_01_Name^,^고모라^,^^,^^,^Gomora^,^^,^^
+^N_F07_Gomora_01_NameDetail^,^무덤지기^,^^,^^,^Gravekeeper^,^^,^^
+^N_F07_Ferretos_01_Name^,^페리토스^,^^,^^,^Peritos^,^^,^^
+^N_F07_Ferretos_01_NameDetail^,^엘로라의 성역 대사제^,^^,^^,^Ellora’s Sanctuary Archpriest^,^^,^^
+^N_F07_Deruma_01_Name^,^데르마^,^^,^^,^Derrma^,^^,^^
+^N_F07_Deruma_01_NameDetail^,^대사제 호위무사^,^^,^^,^Archpriest Escort^,^^,^^
+^N_F07_Aros_01_Name^,^아로스^,^^,^^,^Aros^,^^,^^
+^N_F07_Aros_01_NameDetail^,^사제 수습생^,^^,^^,^Priest Apprentice^,^^,^^
+^N_F07_Tgress_01_Name^,^티그리스^,^^,^^,^Tigris^,^^,^^
+^N_F07_Tgress_01_NameDetail^,^사제 수습생^,^^,^^,^Priest Apprentice^,^^,^^
+^N_F07_Turene_01_Name^,^투리네^,^^,^^,^Turinay^,^^,^^
+^N_F07_Turene_01_NameDetail^,^사제 수습생^,^^,^^,^Priest Apprentice^,^^,^^
+^N_F07_Aleton_01_Name^,^엘톤^,^^,^^,^Elton^,^^,^^
+^N_F07_Aleton_01_NameDetail^,^엘로라의 성역 수색대^,^^,^^,^Ellora’s Sanctuary Seeker^,^^,^^
+^N_F07_Cracesis_01_Name^,^크라시스^,^^,^^,^Krasis^,^^,^^
+^N_F07_Cracesis_01_NameDetail^,^엘로라의 성역 12사도^,^^,^^,^12 Apostles of Ellora’s Sanctuary^,^^,^^
+^N_F07_Udas_02_Name^,^유다스^,^^,^^,^Judas^,^^,^^
+^N_F07_Udas_02_NameDetail^,^엘로라의 성역 12사도^,^^,^^,^12 Apostles of Ellora’s Sanctuary^,^^,^^
+^N_F07_Hemon_01_Name^,^헤몬^,^^,^^,^Hermon^,^^,^^
+^N_F07_Hemon_01_NameDetail^,^빛의 숲 경비대^,^^,^^,^Forest of Lights Guards^,^^,^^
+^N_F07_Vella_01_Name^,^벨라^,^^,^^,^Bella^,^^,^^
+^N_F07_Vella_01_NameDetail^,^엘로라의 성역 수색대^,^^,^^,^Ellora’s Sanctuary Seekers^,^^,^^
+^N_F07_LElfBmage_04_Name^,^정예 엘프 상급 마법사^,^^,^^,^Elite Elf High Mage^,^^,^^
+^N_F07_LElfBmage_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfPriest_04_Name^,^정예 엘프 숲의 사제^,^^,^^,^Elite Elf Forest Priest^,^^,^^
+^N_F07_LElfPriest_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfExecut_04_Name^,^정예 엘프 경갑 전사^,^^,^^,^Elite Elf Light Armor Warrior^,^^,^^
+^N_F07_LElfExecut_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfAssassin_04_Name^,^정예 엘프 중갑 전사^,^^,^^,^Elite Elf Light Heavy Armor Warrior^,^^,^^
+^N_F07_LElfAssassin_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfSnipe_04_Name^,^정예 엘프 숙련 궁수^,^^,^^,^Elite Elf Expert Bowman^,^^,^^
+^N_F07_LElfSnipe_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Antress_01_Name^,^엔트라스^,^^,^^,^Entrass^,^^,^^
+^N_F07_Antress_01_NameDetail^,^정예 빛의 엘프^,^^,^^,^Elite Light Elf^,^^,^^
+^N_F07_Moison_01_Name^,^모이슨^,^^,^^,^Moison^,^^,^^
+^N_F07_Moison_01_NameDetail^,^빛의 엘프 수습 마법사^,^^,^^,^Light Elf Apprentice Mage^,^^,^^
+^N_F07_Subenhilt_01_Name^,^스벤힐트^,^^,^^,^Svenhilt^,^^,^^
+^N_F07_Subenhilt_01_NameDetail^,^엘로라의 성역 수색대^,^^,^^,^Ellora’s Sanctuary Seekers^,^^,^^
+^N_F07_Venares_01_Name^,^베나리에스^,^^,^^,^Benaress^,^^,^^
+^N_F07_Venares_01_NameDetail^,^엘로라의 성역 수색대^,^^,^^,^Ellora’s Sanctuary Seekers^,^^,^^
+^N_F07_Tartagon_01_Name^,^타르타곤^,^^,^^,^Tartagon^,^^,^^
+^N_F07_Tartagon_01_NameDetail^,^엘로라의 성역 수색대^,^^,^^,^Ellora’s Sanctuary Seekers^,^^,^^
+^N_F07_Fedan_01_Name^,^페단^,^^,^^,^Pedan^,^^,^^
+^N_F07_Fedan_01_NameDetail^,^엘로라의 성역 12사도^,^^,^^,^12 Apostles of Ellora’s Sanctuary^,^^,^^
+^N_F07_Renero_01_Name^,^르네로^,^^,^^,^Renero^,^^,^^
+^N_F07_Renero_01_NameDetail^,^엘로라의 성역 12사도^,^^,^^,^12 Apostles of Ellora’s Sanctuary^,^^,^^
+^N_F07_Arcross_01_Name^,^아크로스^,^^,^^,^Achros^,^^,^^
+^N_F07_Arcross_01_NameDetail^,^엘로라의 성역 12사도^,^^,^^,^12 Apostles of Ellora’s Sanctuary^,^^,^^
+^N_F07_Ophelrain_01_Name^,^오펠레인^,^^,^^,^Opelain^,^^,^^
+^N_F07_Ophelrain_01_NameDetail^,^엘로라의 성역 12사도^,^^,^^,^12 Apostles of Ellora’s Sanctuary^,^^,^^
+^N_F07_Carteria_01_Name^,^카르테리아^,^^,^^,^Karteria^,^^,^^
+^N_F07_Carteria_01_NameDetail^,^엘로라의 성역 12사도^,^^,^^,^12 Apostles of Ellora’s Sanctuary^,^^,^^
+^N_F07_Metrion_01_Name^,^메트리온^,^^,^^,^Metrion^,^^,^^
+^N_F07_Metrion_01_NameDetail^,^엘로라의 성역 12사도^,^^,^^,^12 Apostles of Ellora’s Sanctuary^,^^,^^
+^N_F07_Volliason_01_Name^,^볼리아슨^,^^,^^,^Boliason^,^^,^^
+^N_F07_Volliason_01_NameDetail^,^엘로라의 성역 12사도^,^^,^^,^12 Apostles of Ellora’s Sanctuary^,^^,^^
+^N_F17_Portal_100_Name^,^상급 포탈이동장치^,^^,^^,^World Shrine^,^^,^^
+^N_F17_Portal_100_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Portal_001_Name^,^포탈이동장치^,^^,^^,^Transit Shrine^,^^,^^
+^N_F17_Portal_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Portal_002_Name^,^포탈이동장치^,^^,^^,^Transit Shrine^,^^,^^
+^N_F17_Portal_002_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Baha_01_Name^,^바히^,^^,^^,^Baahi^,^^,^^
+^N_F17_Baha_01_NameDetail^,^백색의 치료사^,^^,^^,^Mender^,^^,^^
+^N_F17_Risslo_01_Name^,^리슬로^,^^,^^,^Rislo^,^^,^^
+^N_F17_Risslo_01_NameDetail^,^백색의 치료사^,^^,^^,^Mender^,^^,^^
+^N_F17_Vallriran_01_Name^,^발리란^,^^,^^,^Baliran^,^^,^^
+^N_F17_Vallriran_01_NameDetail^,^백색의 치료사^,^^,^^,^Mender^,^^,^^
+^N_F17_Ruo_01_Name^,^루오^,^^,^^,^Luo^,^^,^^
+^N_F17_Ruo_01_NameDetail^,^잡화 상인^,^^,^^,^General Merchant^,^^,^^
+^N_F17_Glisha_01_Name^,^글라샤^,^^,^^,^Glasha^,^^,^^
+^N_F17_Glisha_01_NameDetail^,^무기 상인^,^^,^^,^Weapon Merchant^,^^,^^
+^N_F17_Fallia_01_Name^,^팔리아^,^^,^^,^Palia^,^^,^^
+^N_F17_Fallia_01_NameDetail^,^방어구 상인^,^^,^^,^Armor Merchant^,^^,^^
+^N_F17_Srraia_01_Name^,^스레아^,^^,^^,^Threa^,^^,^^
+^N_F17_Srraia_01_NameDetail^,^음식 상인^,^^,^^,^Food Merchant^,^^,^^
+^N_F17_Clare_01_Name^,^클레어^,^^,^^,^Claire^,^^,^^
+^N_F17_Clare_01_NameDetail^,^물약 상인^,^^,^^,^Potion Merchant^,^^,^^
+^N_F17_Crumrin_01_Name^,^크럼린^,^^,^^,^Crumlin^,^^,^^
+^N_F17_Crumrin_01_NameDetail^,^잡화 상인^,^^,^^,^General Merchant^,^^,^^
+^N_F17_Deriin_01_Name^,^데린^,^^,^^,^Derin^,^^,^^
+^N_F17_Deriin_01_NameDetail^,^잡화 상인^,^^,^^,^General Merchant^,^^,^^
+^N_F17_Reel_01_Name^,^리엘^,^^,^^,^Riel^,^^,^^
+^N_F17_Reel_01_NameDetail^,^야수 조련사^,^^,^^,^Beast Trainer^,^^,^^
+^N_F17_Carimoor_01_Name^,^카리모어^,^^,^^,^Kharimor^,^^,^^
+^N_F17_Carimoor_01_NameDetail^,^리엘의 펠로우^,^^,^^,^Riel’s Familiar^,^^,^^
+^N_F17_Board_100_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F17_Board_100_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Board_001_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F17_Board_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Board_002_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F17_Board_002_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Board_003_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F17_Board_003_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Board_004_Name^,^임무게시판^,^^,^^,^Mission Board^,^^,^^
+^N_F17_Board_004_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Rasmorgon_01_Name^,^라스모건^,^^,^^,^Lasmorgon^,^^,^^
+^N_F17_Rasmorgon_01_NameDetail^,^무기 재료 상인^,^^,^^,^Weapon Material Merchant^,^^,^^
+^N_F17_Villivon_01_Name^,^빌리본^,^^,^^,^Billyvon^,^^,^^
+^N_F17_Villivon_01_NameDetail^,^방어구 재료 상인^,^^,^^,^Armors Material Merchant^,^^,^^
+^N_F17_Raken_01_Name^,^라켄^,^^,^^,^Raken^,^^,^^
+^N_F17_Raken_01_NameDetail^,^요리 재료 상인^,^^,^^,^Cooking Ingredient Merchant^,^^,^^
+^N_F17_Katon_01_Name^,^카톤^,^^,^^,^KHaton^,^^,^^
+^N_F17_Katon_01_NameDetail^,^연금술 재료 상인^,^^,^^,^Alchemy Material Merchant^,^^,^^
+^N_F17_Sessia_01_Name^,^세시아^,^^,^^,^Cercia^,^^,^^
+^N_F17_Sessia_01_NameDetail^,^장신구 재료 상인^,^^,^^,^Jewel Craft Merchant^,^^,^^
+^N_F17_Sthtsia_01_Name^,^쇼어^,^^,^^,^Shor^,^^,^^
+^N_F17_Sthtsia_01_NameDetail^,^펠로우 재료 상인^,^^,^^,^Barder Craft Merchant^,^^,^^
+^N_F17_Smith_01_Name^,^무기 제작대^,^^,^^,^Weaponsmith Station^,^^,^^
+^N_F17_Smith_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Smith_02_Name^,^방어구 제작대^,^^,^^,^Armorsmith Station^,^^,^^
+^N_F17_Smith_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Cook_01_Name^,^요리 제작대^,^^,^^,^Cooking Station^,^^,^^
+^N_F17_Cook_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Alchemy_01_Name^,^연금 제작대^,^^,^^,^Alchemy Crafting Station^,^^,^^
+^N_F17_Alchemy_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Accessory_01_Name^,^장신구 제작대^,^^,^^,^Jewelry Crafting Station^,^^,^^
+^N_F17_Accessory_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Fellow_01_Name^,^펠로우 제작대^,^^,^^,^Barding Crafting Station^,^^,^^
+^N_F17_Fellow_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_RabMer01_01_Name^,^라비니 엘루느^,^^,^^,^Rabbini Ellunu^,^^,^^
+^N_F17_RabMer01_01_NameDetail^,^엘룬 상인^,^^,^^,^Ellun Merchant^,^^,^^
+^N_F17_Sell_01_Name^,^디메인^,^^,^^,^Demein^,^^,^^
+^N_F17_Sell_01_NameDetail^,^판매 대행 중개인^,^^,^^,^Auctioneer^,^^,^^
+^N_F17_HuMFar_101_Name^,^머니아^,^^,^^,^Munia^,^^,^^
+^N_F17_HuMFar_101_NameDetail^,^창고지기^,^^,^^,^Storage Master^,^^,^^
+^N_F17_HuMFar_102_Name^,^무니아^,^^,^^,^Moonia^,^^,^^
+^N_F17_HuMFar_102_NameDetail^,^창고지기^,^^,^^,^Storage Master^,^^,^^
+^N_F17_RabiBani_01_Name^,^라비니 파니니^,^^,^^,^Van Owen Rabbini^,^^,^^
+^N_F17_RabiBani_01_NameDetail^,^정련 재료 상인^,^^,^^,^Crescent Merchants^,^^,^^
+^N_F17_Penelope_01_Name^,^페넬로페^,^^,^^,^Penelope^,^^,^^
+^N_F17_Penelope_01_NameDetail^,^초승달 상단^,^^,^^,^Crescent Merchants^,^^,^^
+^N_F17_Collect_02_Name^,^르베이^,^^,^^,^Revei^,^^,^^
+^N_F17_Collect_02_NameDetail^,^콜렉터 후보생^,^^,^^,^Collector Cadet^,^^,^^
+^N_F17_CFellow_02_Name^,^크레그보그^,^^,^^,^Cragborg^,^^,^^
+^N_F17_CFellow_02_NameDetail^,^콜렉터의 펠로우^,^^,^^,^Collector's Familiar^,^^,^^
+^N_F17_chef_01_Name^,^퍼민트^,^^,^^,^Permint^,^^,^^
+^N_F17_chef_01_NameDetail^,^풍요의 씨앗조합^,^^,^^,^The Seeds of Abundance^,^^,^^
+^N_F17_LightAttack_02_Name^,^용기의 신석 운송원^,^^,^^,^Holy Stone of Courage Messenger^,^^,^^
+^N_F17_LightAttack_02_NameDetail^,^빛의 엘프 수호대^,^^,^^,^Light Elf Guards^,^^,^^
+^N_F17__Udas_02_Name^,^유다스^,^^,^^,^Judas^,^^,^^
+^N_F17__Udas_02_NameDetail^,^엘로라의 성역 12사도^,^^,^^,^12 Apostles of Ellora’s Sanctuary^,^^,^^
+^N_F17_Wentus_01_Name^,^웬투스^,^^,^^,^Wentus^,^^,^^
+^N_F17_Wentus_01_NameDetail^,^엘로라 성역 장로^,^^,^^,^Ellora Sanctuary Elder^,^^,^^
+^N_F17_Meredy_01_Name^,^메르디^,^^,^^,^Merdi^,^^,^^
+^N_F17_Meredy_01_NameDetail^,^치유사^,^^,^^,^Healer^,^^,^^
+^N_F17_Karald_01_Name^,^카랄드^,^^,^^,^Karald^,^^,^^
+^N_F17_Karald_01_NameDetail^,^엘 도르 마을 경비대장^,^^,^^,^El Dor Town Guard Captain^,^^,^^
+^N_F17_isendor_01_Name^,^이센도르^,^^,^^,^Isendorr^,^^,^^
+^N_F17_isendor_01_NameDetail^,^엘 도르 마을 경비대^,^^,^^,^El Dor Town Guards^,^^,^^
+^N_F17_Aden_01_Name^,^아덴^,^^,^^,^Arden^,^^,^^
+^N_F17_Aden_01_NameDetail^,^마을주민^,^^,^^,^Town Resident^,^^,^^
+^N_F17_Chella_01_Name^,^첼라^,^^,^^,^Chella^,^^,^^
+^N_F17_Chella_01_NameDetail^,^마을주민^,^^,^^,^Town Resident^,^^,^^
+^N_F17_Asha_01_Name^,^아샤^,^^,^^,^Arsha^,^^,^^
+^N_F17_Asha_01_NameDetail^,^마을주민^,^^,^^,^Town Resident^,^^,^^
+^N_F17_Ailene_01_Name^,^엘레느^,^^,^^,^Ellenee^,^^,^^
+^N_F17_Ailene_01_NameDetail^,^마을주민^,^^,^^,^Town Resident^,^^,^^
+^N_F17_LightBmage_01_Name^,^빛의 엘프 상급 마법사^,^^,^^,^Light Elf High Mage^,^^,^^
+^N_F17_LightBmage_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LightMage_01_Name^,^빛의 엘프 마법사^,^^,^^,^Light Elf Mage^,^^,^^
+^N_F17_LightMage_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LightPriest_01_Name^,^빛의 엘프 사제^,^^,^^,^Light Elf Priest^,^^,^^
+^N_F17_LightPriest_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LightAttack_01_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F17_LightAttack_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LightGuard_01_Name^,^빛의 엘프 중갑 전사^,^^,^^,^Light Elf Heavy Armor Warrior^,^^,^^
+^N_F17_LightGuard_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LightSnipe_01_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F17_LightSnipe_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LightHunter_01_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F17_LightHunter_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LightSahunt_01_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F17_LightSahunt_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_conwell_cut_01_Name^,^콘웰^,^^,^^,^Cornwell^,^^,^^
+^N_F07_conwell_cut_01_NameDetail^,^엘로라 성역 장로^,^^,^^,^Ellora Sanctuary Elder^,^^,^^
+^N_F07_udas_cut_02_Name^,^유다스^,^^,^^,^Judas^,^^,^^
+^N_F07_udas_cut_02_NameDetail^,^엘로라 성역 12사도^,^^,^^,^12 Apostles of Ellora Sanctuary^,^^,^^
+^N_F07_chasudas_03_Name^,^혼돈 유다스^,^^,^^,^Chaos Judas^,^^,^^
+^N_F07_chasudas_03_NameDetail^,^혼돈 엘프 군단^,^^,^^,^Chaos Elf Legion^,^^,^^
+^N_F07_CelfExecut_04_Name^,^혼돈 엘프 처형자^,^^,^^,^Chaos Elf Executioner^,^^,^^
+^N_F07_CelfExecut_04_NameDetail^,^혼돈 엘프 군단^,^^,^^,^Chaos Elf Legion^,^^,^^
+^N_F07_CelfAttack_05_Name^,^혼돈 엘프 습격자^,^^,^^,^Choas Elf Marauder^,^^,^^
+^N_F07_CelfAttack_05_NameDetail^,^혼돈 엘프 군단^,^^,^^,^Chaos Elf Legion^,^^,^^
+^N_F07_CelfAssassin_06_Name^,^혼돈 엘프 그림자 전사^,^^,^^,^Chaos Elf Assassin Warrior^,^^,^^
+^N_F07_CelfAssassin_06_NameDetail^,^혼돈 엘프 군단^,^^,^^,^Chaos Elf Legion^,^^,^^
+^N_F07_CelfGuard_07_Name^,^혼돈 엘프 수호병^,^^,^^,^Chaos Elf Guardian Soldier^,^^,^^
+^N_F07_CelfGuard_07_NameDetail^,^혼돈 엘프 군단^,^^,^^,^Chaos Elf Legion^,^^,^^
+^N_F07_CelfNeebl_08_Name^,^혼돈 엘프 습격 대장^,^^,^^,^Chaos Elf War Captain^,^^,^^
+^N_F07_CelfNeebl_08_NameDetail^,^혼돈 엘프 군단^,^^,^^,^Chaos Elf Legion^,^^,^^
+^N_F07_CelfBmage_09_Name^,^혼돈 엘프 대마법사^,^^,^^,^Choas Elf High Mage^,^^,^^
+^N_F07_CelfBmage_09_NameDetail^,^혼돈 엘프 군단^,^^,^^,^Chaos Elf Legion^,^^,^^
+^N_F07_CelfMage_10_Name^,^혼돈 엘프 마법사^,^^,^^,^Chaos Elf Mage^,^^,^^
+^N_F07_CelfMage_10_NameDetail^,^혼돈 엘프 군단^,^^,^^,^Chaos Elf Legion^,^^,^^
+^N_F07_CelfRecon_11_Name^,^혼돈 엘프 정찰자^,^^,^^,^Chaos Elf Scouter^,^^,^^
+^N_F07_CelfRecon_11_NameDetail^,^혼돈 엘프 군단^,^^,^^,^Chaos Elf Legion^,^^,^^
+^N_F07_CelfSnipe_12_Name^,^혼돈 엘프 저격수^,^^,^^,^Chaos Elf Marksman^,^^,^^
+^N_F07_CelfSnipe_12_NameDetail^,^혼돈 엘프 군단^,^^,^^,^Chaos Elf Legion^,^^,^^
+^N_F07_CelfHunter_13_Name^,^혼돈 엘프 수렵꾼^,^^,^^,^Chaos Elf Hunter^,^^,^^
+^N_F07_CelfHunter_13_NameDetail^,^혼돈 엘프 군단^,^^,^^,^Chaos Elf Legion^,^^,^^
+^N_F07_CelfPriest_14_Name^,^혼돈 엘프 숲의사제^,^^,^^,^Chaos Elf Forest Priest^,^^,^^
+^N_F07_CelfPriest_14_NameDetail^,^혼돈 엘프 군단^,^^,^^,^Chaos Elf Legion^,^^,^^
+^N_F07_ElfMAdor_15_Name^,^빛의 엘프 경비대장 슬레니르^,^^,^^,^Light Elf Guard Captain Slenir^,^^,^^
+^N_F07_ElfMAdor_15_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightExecut_16_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F07_LightExecut_16_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightAttack_17_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F07_LightAttack_17_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightAssassin_18_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F07_LightAssassin_18_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightGuard_19_Name^,^빛의 엘프 중갑 전사^,^^,^^,^Light Elf Heavy Armor Warrior^,^^,^^
+^N_F07_LightGuard_19_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightScout_20_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F07_LightScout_20_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightSnipe_21_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_LightSnipe_21_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightRecon_22_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F07_LightRecon_22_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightHunter_23_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_LightHunter_23_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightPriest_24_Name^,^빛의 엘프 숲의 사제^,^^,^^,^Light Elf Forest Priest^,^^,^^
+^N_F07_LightPriest_24_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightBmage_25_Name^,^빛의 엘프 대마법사^,^^,^^,^Light Elf Great Mage^,^^,^^
+^N_F07_LightBmage_25_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightMage_26_Name^,^빛의 멜프 마법사^,^^,^^,^Light Elf Mage^,^^,^^
+^N_F07_LightMage_26_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_cracesis_cut02_Name^,^크라시스^,^^,^^,^Krasis^,^^,^^
+^N_F07_cracesis_cut02_NameDetail^,^엘로라 성역 12사도^,^^,^^,^12 Apostles of Ellora Sanctuary^,^^,^^
+^N_F07_Apost_cut_02_Name^,^빛의 엘프 12사도^,^^,^^,^12 Apostles of Light Elf^,^^,^^
+^N_F07_Apost_cut_02_NameDetail^,^엘로라 성역 12사도^,^^,^^,^12 Apostles of Ellora Sanctuary^,^^,^^
+^N_F07_LElfBmage_05_Name^,^빛의 엘프 상급 마법사^,^^,^^,^Light Elf High Mage^,^^,^^
+^N_F07_LElfBmage_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfPriest_05_Name^,^빛의 엘프 숲의 사제^,^^,^^,^Light Elf Forest Priest^,^^,^^
+^N_F07_LElfPriest_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfGuard_05_Name^,^빛의 엘프 호위 전사^,^^,^^,^Light Elf Escort^,^^,^^
+^N_F07_LElfGuard_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfAssassin_05_Name^,^빛의 엘프 중갑 전사^,^^,^^,^Light Elf Heavy Armor Warrior^,^^,^^
+^N_F07_LElfAssassin_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfRecon_05_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_LElfRecon_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfPegasus_05_Name^,^빛의 엘프 페가수스^,^^,^^,^Light Elf Pegasus^,^^,^^
+^N_F07_LElfPegasus_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightAttack_06_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F07_LightAttack_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightAttack_07_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F07_LightAttack_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightHunter_06_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_LightHunter_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LightHunter_07_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_LightHunter_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfBmage_06_Name^,^빛의 엘프 상급 마법사^,^^,^^,^Light Elf Advanced Mage^,^^,^^
+^N_F07_LElfBmage_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfMage_07_Name^,^빛의 엘프 마법사^,^^,^^,^Light Elf Mage^,^^,^^
+^N_F07_LElfMage_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfPriest_06_Name^,^빛의 엘프 숲의 사제^,^^,^^,^Light Elf Forest Priest^,^^,^^
+^N_F07_LElfPriest_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfExecut_06_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F07_LElfExecut_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfExecut_07_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F07_LElfExecut_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfGuard_07_Name^,^빛의 엘프 중갑 전사^,^^,^^,^Light Elf Heavy Armor Warrior^,^^,^^
+^N_F07_LElfGuard_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfSnipe_06_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_LElfSnipe_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfSnipe_07_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F07_LElfSnipe_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LElfBmage_05_Name^,^빛의 엘프 상급 마법사^,^^,^^,^Light Elf Advanced Mage^,^^,^^
+^N_F17_LElfBmage_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LElfPriest_05_Name^,^빛의 엘프 숲의 사제^,^^,^^,^Light Elf Forest Priest^,^^,^^
+^N_F17_LElfPriest_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LElfGuard_05_Name^,^빛의 엘프 호위 전사^,^^,^^,^Light Elf Escort^,^^,^^
+^N_F17_LElfGuard_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LElfAssassin_05_Name^,^빛의 엘프 중갑 전사^,^^,^^,^Light Elf Heavy Armor Warrior^,^^,^^
+^N_F17_LElfAssassin_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LElfRecon_05_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F17_LElfRecon_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LElfPegasus_05_Name^,^빛의 엘프 페가수스^,^^,^^,^Light Elf Pegasus^,^^,^^
+^N_F17_LElfPegasus_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LightAttack_06_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F17_LightAttack_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LightAttack_07_Name^,^빛의 엘프 전사^,^^,^^,^Light Elf Warrior^,^^,^^
+^N_F17_LightAttack_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LightHunter_06_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F17_LightHunter_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LightHunter_07_Name^,^빛의 엘프 궁수^,^^,^^,^Light Elf Bowman^,^^,^^
+^N_F17_LightHunter_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LElfBmage_06_Name^,^빛의 엘프 상급 마법사^,^^,^^,^Light Elf Advanced Mage^,^^,^^
+^N_F17_LElfBmage_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LElfMage_07_Name^,^빛의 엘프 마법사^,^^,^^,^Light Elf Mage^,^^,^^
+^N_F17_LElfMage_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LElfPriest_06_Name^,^빛의 엘프 숲의 사제^,^^,^^,^Light Elf Forest Priest^,^^,^^
+^N_F17_LElfPriest_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LElfPriest_07_Name^,^빛의 엘프 숲의 사제^,^^,^^,^Light Elf Forest Priest^,^^,^^
+^N_F17_LElfPriest_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Lightnell_01_Name^,^라이트넬^,^^,^^,^Litenell^,^^,^^
+^N_F07_Lightnell_01_NameDetail^,^빛의 숲 경비대^,^^,^^,^Forest of Lights Guards^,^^,^^
+^N_F07_Civilian_01_Name^,^엘 가덴 주민^,^^,^^,^Elgaden Resident^,^^,^^
+^N_F07_Civilian_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Civilian_02_Name^,^엘 가덴 주민^,^^,^^,^Elgaden Resident^,^^,^^
+^N_F07_Civilian_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Civilian_03_Name^,^엘 가덴 주민^,^^,^^,^Elgaden Resident^,^^,^^
+^N_F07_Civilian_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Civilian_04_Name^,^엘 가덴 주민^,^^,^^,^Elgaden Resident^,^^,^^
+^N_F07_Civilian_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Civilian_05_Name^,^엘 가덴 주민^,^^,^^,^Elgaden Resident^,^^,^^
+^N_F07_Civilian_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Civilian_01_Name^,^엘 도르 주민^,^^,^^,^El Dor Resident^,^^,^^
+^N_F17_Civilian_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Civilian_02_Name^,^엘 도르 주민^,^^,^^,^El Dor Resident^,^^,^^
+^N_F17_Civilian_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Civilian_03_Name^,^엘 도르 주민^,^^,^^,^El Dor Resident^,^^,^^
+^N_F17_Civilian_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Civilian_04_Name^,^엘 도르 주민^,^^,^^,^El Dor Resident^,^^,^^
+^N_F17_Civilian_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Civilian_05_Name^,^엘 도르 주민^,^^,^^,^El Dor Resident^,^^,^^
+^N_F17_Civilian_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfMageTr_03_Name^,^트로이먼^,^^,^^,^Troymon^,^^,^^
+^N_F07_LElfMageTr_03_NameDetail^,^빛의 엘프 마법사^,^^,^^,^Light Elf Mage^,^^,^^
+^N_F07_maxen_01_Name^,^맥슨^,^^,^^,^Mexon^,^^,^^
+^N_F07_maxen_01_NameDetail^,^신룡 기사단^,^^,^^,^Dragon Knight^,^^,^^
+^N_F17_gaberion_01_Name^,^가베리온^,^^,^^,^Gaberion^,^^,^^
+^N_F17_gaberion_01_NameDetail^,^빛의 엘프 마법사^,^^,^^,^Light Elf Mage^,^^,^^
+^N_F17_erha_01_Name^,^에르하^,^^,^^,^Erha^,^^,^^
+^N_F17_erha_01_NameDetail^,^빛의 엘프 사제^,^^,^^,^Light Elf Priest^,^^,^^
+^N_F17_creamson_01_Name^,^크림슨^,^^,^^,^Crimsen^,^^,^^
+^N_F17_creamson_01_NameDetail^,^생태 연구원^,^^,^^,^Ecologist^,^^,^^
+^N_F17_cuanomar_01_Name^,^쿠아노마르^,^^,^^,^Quanomar^,^^,^^
+^N_F17_cuanomar_01_NameDetail^,^펠로우 사냥꾼^,^^,^^,^Familiar Trapper^,^^,^^
+^N_F17_Collect_01_Name^,^글로펜^,^^,^^,^Glophen^,^^,^^
+^N_F17_Collect_01_NameDetail^,^콜렉터 후보생^,^^,^^,^Collector Cadet^,^^,^^
+^N_F17_Collect_03_Name^,^락슈^,^^,^^,^Rockshu^,^^,^^
+^N_F17_Collect_03_NameDetail^,^콜렉터 후보생^,^^,^^,^Collector Cadet^,^^,^^
+^N_F07_Collect_03_Name^,^쥬켈^,^^,^^,^Jukel^,^^,^^
+^N_F07_Collect_03_NameDetail^,^콜렉터^,^^,^^,^Collector^,^^,^^
+^N_F07_CFellow_03_Name^,^툴라이^,^^,^^,^Toolye^,^^,^^
+^N_F07_CFellow_03_NameDetail^,^쥬켈의 펠로우^,^^,^^,^Jukel’s Familiar^,^^,^^
+^N_F07_Collect_04_Name^,^밀리온^,^^,^^,^Million^,^^,^^
+^N_F07_Collect_04_NameDetail^,^행방불명된 콜렉터^,^^,^^,^Missing Collector^,^^,^^
+^N_F07_chef_02_Name^,^그레이프^,^^,^^,^Grape^,^^,^^
+^N_F07_chef_02_NameDetail^,^풍요의 씨앗 조합^,^^,^^,^The Seeds of Abundance^,^^,^^
+^N_F07_chef_03_Name^,^피치^,^^,^^,^Peach^,^^,^^
+^N_F07_chef_03_NameDetail^,^풍요의 씨앗 조합^,^^,^^,^The Seeds of Abundance^,^^,^^
+^N_F07_chef_04_Name^,^로마디아^,^^,^^,^Romadia^,^^,^^
+^N_F07_chef_04_NameDetail^,^수행 요리사^,^^,^^,^Nomadic Chef^,^^,^^
+^N_F07_chef_05_Name^,^로마디아^,^^,^^,^Romadia^,^^,^^
+^N_F07_chef_05_NameDetail^,^풍요의 씨앗 조합^,^^,^^,^The Seeds of Abundance^,^^,^^
+^N_f07_bone_01_Name^,^정체불명의 유골^,^^,^^,^Mysterious Skull^,^^,^^
+^N_F07_Skilim_01_Name^,^스카림^,^^,^^,^Skarim^,^^,^^
+^N_F07_Skilim_01_NameDetail^,^야수 조련사^,^^,^^,^Beast Trainer^,^^,^^
+^N_F07_Basatoom_01_Name^,^바사툼^,^^,^^,^Bhasatum^,^^,^^
+^N_F07_Basatoom_01_NameDetail^,^스카림의 펠로우^,^^,^^,^Skarim’s Familiar^,^^,^^
+^N_F17_Soruza_01_Name^,^소르자^,^^,^^,^Sorza^,^^,^^
+^N_F17_Soruza_01_NameDetail^,^야수 조련사^,^^,^^,^Beast Trainer^,^^,^^
+^N_F17_Kuii_01_Name^,^쿠이^,^^,^^,^Kuui^,^^,^^
+^N_F17_Kuii_01_NameDetail^,^리엘의 펠로우^,^^,^^,^Riel’s Familiar^,^^,^^
+^N_F17_Collect_04_Name^,^루미안^,^^,^^,^Rumian^,^^,^^
+^N_F17_Collect_04_NameDetail^,^콜렉터 선발시험 감독관^,^^,^^,^Collector Examination Auditor^,^^,^^
+^N_F17_CFellow_04_Name^,^미루^,^^,^^,^Miru^,^^,^^
+^N_F17_CFellow_04_NameDetail^,^루미안의 펠로우^,^^,^^,^Rumian’s Familiar^,^^,^^
+^N_F07_HuMFar_107_Name^,^주베르그^,^^,^^,^Juberg^,^^,^^
+^N_F07_HuMFar_107_NameDetail^,^창고지기^,^^,^^,^Storage Master^,^^,^^
+^N_F07_CFellow_04_Name^,^라벤^,^^,^^,^Raben^,^^,^^
+^N_F07_CFellow_04_NameDetail^,^피리엇의 펫^,^^,^^,^Periot’s Pet^,^^,^^
+^N_F07_CFellow_05_Name^,^펜타실^,^^,^^,^Pentasil^,^^,^^
+^N_F07_CFellow_05_NameDetail^,^밀리온의 펫^,^^,^^,^Million’s Pet^,^^,^^
+^N_F07_Collect_05_Name^,^피리엇^,^^,^^,^Periot^,^^,^^
+^N_F07_Collect_05_NameDetail^,^콜렉터^,^^,^^,^Collector^,^^,^^
+^N_F07_CFellow_06_Name^,^파누레^,^^,^^,^Panure^,^^,^^
+^N_F07_CFellow_06_NameDetail^,^피리엇의 펠로우^,^^,^^,^Periot’s Familiar^,^^,^^
+^N_F07_CFellow_07_Name^,^라벤^,^^,^^,^Raben^,^^,^^
+^N_F07_CFellow_07_NameDetail^,^피리엇의 펫^,^^,^^,^Periot’s Pet^,^^,^^
+^N_F07_Collect_06_Name^,^캇슈^,^^,^^,^Katshu^,^^,^^
+^N_F07_Collect_06_NameDetail^,^콜렉터^,^^,^^,^Collector^,^^,^^
+^N_F07_CFellow_08_Name^,^브래피^,^^,^^,^Brapi^,^^,^^
+^N_F07_CFellow_08_NameDetail^,^캇슈의 펠로우^,^^,^^,^Katshu’s Familiar^,^^,^^
+^N_F17_Collect_05_Name^,^파이스^,^^,^^,^Paice^,^^,^^
+^N_F17_Collect_05_NameDetail^,^콜렉터 시험 진행 요원^,^^,^^,^Collector Examination Officer^,^^,^^
+^N_F17_CFellow_05_Name^,^크론^,^^,^^,^Cron^,^^,^^
+^N_F17_CFellow_05_NameDetail^,^파이스의 펠로우^,^^,^^,^Paice’s Familiar^,^^,^^
+^N_F17_Collect_06_Name^,^파이스^,^^,^^,^Paice^,^^,^^
+^N_F17_Collect_06_NameDetail^,^콜렉터 시험 진행 요원^,^^,^^,^Collector Examination Officer^,^^,^^
+^N_F17_CFellow_06_Name^,^크론^,^^,^^,^Cron^,^^,^^
+^N_F17_CFellow_06_NameDetail^,^파이스의 펠로우^,^^,^^,^Paice’s Familiar^,^^,^^
+^N_F17_Collect_07_Name^,^낙오자 디안^,^^,^^,^Dropout Dian^,^^,^^
+^N_F17_Collect_07_NameDetail^,^콜렉터 후보생^,^^,^^,^Collector Cadet^,^^,^^
+^n_d99_portal_001_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_002_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_002_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_003_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_003_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_004_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_004_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_005_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_005_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_006_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_006_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_007_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_007_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_008_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_008_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_009_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_009_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_010_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_010_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_011_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_011_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_012_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_012_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_013_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_013_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_014_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_014_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_015_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_015_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_016_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_016_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_017_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_017_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_018_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_018_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_019_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_019_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_020_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_020_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_021_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_021_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_022_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_022_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_023_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_023_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_024_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_024_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_025_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_025_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_026_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_026_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_027_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_027_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_028_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_028_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_029_Name^,^공간이동 차원문^,^^,^^,^Space Movement Dimensional Gate^,^^,^^
+^n_d99_portal_029_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Portal_003_Name^,^포탈이동장치^,^^,^^,^Transit Shrine^,^^,^^
+^N_F17_Portal_003_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Frons_01_Name^,^프론스^,^^,^^,^Pronce^,^^,^^
+^N_F17_Frons_01_NameDetail^,^백색의 치료사^,^^,^^,^Mender^,^^,^^
+^N_F07_Brand_02_Name^,^브란드^,^^,^^,^Berand^,^^,^^
+^N_F07_Brand_02_NameDetail^,^유물 발굴단^,^^,^^,^Relic Excavators^,^^,^^
+^N_F07_carnan_01_Name^,^카르난^,^^,^^,^Karnan^,^^,^^
+^N_F07_carnan_01_NameDetail^,^빛의 숲 경비대^,^^,^^,^Forest of Lights Guards^,^^,^^
+^N_F07_elbar_01_Name^,^엘바르^,^^,^^,^Elbarr^,^^,^^
+^N_F07_elbar_01_NameDetail^,^빛의 숲 경비대^,^^,^^,^Forest of Lights Guards^,^^,^^
+^N_F17_Duron_01_Name^,^듀론^,^^,^^,^Duron^,^^,^^
+^N_F17_Duron_01_NameDetail^,^공간 이동사^,^^,^^,^Space Warper^,^^,^^
+^N_F07_Cracesis_02_Name^,^크라시스^,^^,^^,^Krasis^,^^,^^
+^N_F07_Cracesis_02_NameDetail^,^엘로라의 성역 12사도^,^^,^^,^12 Apostles of Ellora’s Sanctuary^,^^,^^
+^N_F17_LightMage_02_Name^,^빛의 엘프 마법사^,^^,^^,^Light Elf Mage^,^^,^^
+^N_F17_LightMage_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_LightMage_03_Name^,^빛의 엘프 마법사^,^^,^^,^Light Elf Mage^,^^,^^
+^N_F17_LightMage_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_D99_Portal_Q_Name^,^빛의 성석^,^^,^^,^Victory Shrine^,^^,^^
+^N_D99_Portal_Q_NameDetail^,^던전 입구로 이동^,^^,^^,^Exit Dungeon^,^^,^^
+^N_F07_Celf_01_Name^,^고통의 쟈그라펠^,^^,^^,^Agonal Jugrafel^,^^,^^
+^N_F07_Celf_01_NameDetail^,^회개한 혼돈 엘프^,^^,^^,^Repentant Chaos Elf^,^^,^^
+^N_F07_watchelf_01_Name^,^감시자 티뷰리너^,^^,^^,^Surveillant Teburiner^,^^,^^
+^N_F07_watchelf_01_NameDetail^,^엘로라의 성역 수색대^,^^,^^,^Ellora’s Sanctuary Seekers^,^^,^^
+^N_F07_Collect_07_Name^,^밀리온^,^^,^^,^Million^,^^,^^
+^N_F07_Collect_07_NameDetail^,^사망한 콜렉터^,^^,^^,^Deceased Collector^,^^,^^
+^N_F17_witch_01_Name^,^변신술사 세르미^,^^,^^,^Transfigurist Sermi^,^^,^^
+^N_F17_witch_01_NameDetail^,^천의 얼굴^,^^,^^,^Multifaceted^,^^,^^
+^N_F07_LElfBmage_07_Name^,^빛의 엘프 상급 마법사^,^^,^^,^Light Elf Advanced Mage^,^^,^^
+^N_F07_LElfBmage_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_LElfPriest_07_Name^,^빛의 엘프 숲의 사제^,^^,^^,^Light Elf Forest Priest^,^^,^^
+^N_F07_LElfPriest_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Dona_01_Name^,^도나^,^^,^^,^Donna^,^^,^^
+^N_F07_Dona_01_NameDetail^,^백색의 치료사^,^^,^^,^Mender^,^^,^^
+^N_F07_Renis_01_Name^,^레니스^,^^,^^,^Lennis^,^^,^^
+^N_F07_Renis_01_NameDetail^,^백색의 치료사^,^^,^^,^Mender^,^^,^^
+^N_F07_Portal_006_Name^,^포탈이동장치^,^^,^^,^Transit Shrine^,^^,^^
+^N_F07_Portal_006_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Portal_007_Name^,^포탈이동장치^,^^,^^,^Transit Shrine^,^^,^^
+^N_F07_Portal_007_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Rodin_01_Name^,^로딘^,^^,^^,^Rodin^,^^,^^
+^N_F07_Rodin_01_NameDetail^,^잡화 상인^,^^,^^,^General Merchant^,^^,^^
+^N_F07_Kamiten_01_Name^,^카미텐^,^^,^^,^Kamiten^,^^,^^
+^N_F07_Kamiten_01_NameDetail^,^잡화 상인^,^^,^^,^General Merchant^,^^,^^
+^N_F17_LightAttack_03_Name^,^용기의 신석 운송원^,^^,^^,^Holy Stone of Courage Messenger^,^^,^^
+^N_F17_LightAttack_03_NameDetail^,^빛의 엘프 수호대^,^^,^^,^Light elf Guards^,^^,^^
+^N_F05_Gillot_01_Name^,^길로트^,^^,^^,^Gilotte^,^^,^^
+^N_F05_Gillot_01_NameDetail^,^오르카 호 일등 항해사^,^^,^^,^Ship Orca Chief Mate^,^^,^^
+^N_F17_toran_01_Name^,^토르안^,^^,^^,^Torran^,^^,^^
+^N_F17_toran_01_NameDetail^,^엘 도르 마을 경비대^,^^,^^,^El Dor Town Guards^,^^,^^
+^N_F17_eldsdow_01_Name^,^엘 도르 마을 경비대원^,^^,^^,^El Dor Town Guardsman^,^^,^^
+^N_F17_eldsdow_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_eldattck_01_Name^,^엘 도르 마을 경비대원^,^^,^^,^El Dor Town Guardsman^,^^,^^
+^N_F17_eldattck_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_c01_Darwin_01_Name^,^선장 카르멘드^,^^,^^,^Captain Karrmend^,^^,^^
+^N_c01_Darwin_01_NameDetail^,^엘로라의 성역 연락선^,^^,^^,^Ellora’s Sanctuary Ferry^,^^,^^
+^N_F07_children_01_Name^,^엘프 아이^,^^,^^,^Elf Child^,^^,^^
+^N_F07_children_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_children_01_Name^,^엘프 아이^,^^,^^,^Elf Child^,^^,^^
+^N_F17_children_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Civilian_06_Name^,^피난온 엘 가덴 주민^,^^,^^,^Elgaden Refugee^,^^,^^
+^N_F07_Civilian_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Civilian_07_Name^,^피난온 엘 가덴 주민^,^^,^^,^Elgaden Refugee^,^^,^^
+^N_F07_Civilian_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Civilian_08_Name^,^엘 리노 주민^,^^,^^,^Eleeno Resident^,^^,^^
+^N_F07_Civilian_08_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Civilian_09_Name^,^엘 리노 주민^,^^,^^,^Eleeno Resident^,^^,^^
+^N_F07_Civilian_09_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F07_Civilian_10_Name^,^엘 리노 주민^,^^,^^,^Eleeno Resident^,^^,^^
+^N_F07_Civilian_10_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_D08_Potal_01_Name^,^레이먼드^,^^,^^,^Raymond^,^^,^^
+^N_D08_Potal_01_NameDetail^,^공간 이동사^,^^,^^,^Space Warper^,^^,^^
+^N_D99_elora_01_Name^,^녹빛 천공구^,^^,^^,^Green Storm Sphere^,^^,^^
+^N_D99_elora_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_D23_Brownie_Name^,^라비니 브라우니^,^^,^^,^Rabbini Brownie^,^^,^^
+^N_D23_Brownie_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_D23_Carotini_Name^,^라비니 카로티니^,^^,^^,^Rabbini Carotini^,^^,^^
+^N_D23_Carotini_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_D23_Gordon_Name^,^고든 래빗^,^^,^^,^Gordon Rabbit^,^^,^^
+^N_D23_Gordon_NameDetail^,^마스터 쉐프^,^^,^^,^Master Chef^,^^,^^
+^N_D23_Poini_Name^,^라비니 포이니^,^^,^^,^Rabbini Poini^,^^,^^
+^N_D23_Poini_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_D23_Proni_Name^,^라비니 프로니^,^^,^^,^Rabbini Proni^,^^,^^
+^N_D23_Proni_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_D23_Baesini_Name^,^라비니 배시니^,^^,^^,^Rabbini Bashini^,^^,^^
+^N_D23_Baesini_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_D23_Pinani_Name^,^라비니 피나니^,^^,^^,^Rabbini Pinani^,^^,^^
+^N_D23_Pinani_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_D23_Parni_Name^,^라비니 파르니^,^^,^^,^Rabbini Paruni^,^^,^^
+^N_D23_Parni_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_D23_Tuttle_Name^,^거북^,^^,^^,^Turtle^,^^,^^
+^N_D23_Tuttle_NameDetail^,^속이 좀^,^^,^^,^Rabbit’s Liver^,^^,^^
+^N_F17_Mohamed_Name^,^무하마드 비니^,^^,^^,^Muhamad Bini^,^^,^^
+^N_F17_Mohamed_NameDetail^,^밀입국 중개인^,^^,^^,^Human Smuggling Broker^,^^,^^
+^N_D23_Mohamed_Name^,^무하마드 비니^,^^,^^,^Muhamad Bini^,^^,^^
+^N_D23_Mohamed_NameDetail^,^밀입국 중개인^,^^,^^,^Human Smuggling Broker^,^^,^^
+^N_SpwanMailbox_Name^,^라비니 베오닌^,^^,^^,^Boyd Rabbini^,^^,^^
+^N_SpwanMailbox_NameDetail^,^우편 배달부^,^^,^^,^Mailman^,^^,^^
+^N_SpawnStorage_Name^,^라비니 고루니^,^^,^^,^Graham Rabbini^,^^,^^
+^N_SpawnStorage_NameDetail^,^출장 창고지기^,^^,^^,^Storage Master^,^^,^^
+^N_SpwanAuction_Name^,^라비니 메로나^,^^,^^,^Merona Rabbini^,^^,^^
+^N_SpwanAuction_NameDetail^,^출장 판매대행 중개상^,^^,^^,^Auction Broker^,^^,^^
+^N_D23_Wanted_Name^,^라비니 게시판^,^^,^^,^Rabbini Bulletin Board^,^^,^^
+^N_D23_Wanted_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_D23_Mortar_Name^,^라비니 게시판^,^^,^^,^Rabbini Bulletin Board^,^^,^^
+^N_D23_Mortar_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_CM_TraceRabi_Name^,^트레이스^,^^,^^,^Trace^,^^,^^
+^N_CM_TraceRabi_NameDetail^,^라비니 추적꾼^,^^,^^,^Rabbini Chaser^,^^,^^
+^N_F17_RabiDdo_01_Name^,^라비니 또바기^,^^,^^,^Rabbini Tobagi^,^^,^^
+^N_F17_RabiDdo_01_NameDetail^,^초승달 상단^,^^,^^,^Crescent Merchants^,^^,^^
+^N_D23_Portal_Q_Name^,^빛의 성석^,^^,^^,^Victory Shrine^,^^,^^
+^N_D23_Portal_Q_NameDetail^,^던전 입구로 이동^,^^,^^,^Exit Dungeon^,^^,^^
+^n_d99_portal_030_Name^,^공간이동 차원문^,^^,^^,^Warp Portal^,^^,^^
+^n_d99_portal_030_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_031_Name^,^공간이동 차원문^,^^,^^,^Warp Portal^,^^,^^
+^n_d99_portal_031_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_032_Name^,^공간이동 차원문^,^^,^^,^Warp Portal^,^^,^^
+^n_d99_portal_032_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_033_Name^,^공간이동 차원문^,^^,^^,^Warp Portal^,^^,^^
+^n_d99_portal_033_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_034_Name^,^공간이동 차원문^,^^,^^,^Warp Portal^,^^,^^
+^n_d99_portal_034_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_035_Name^,^공간이동 차원문^,^^,^^,^Warp Portal^,^^,^^
+^n_d99_portal_035_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_036_Name^,^공간이동 차원문^,^^,^^,^Warp Portal^,^^,^^
+^n_d99_portal_036_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_037_Name^,^공간이동 차원문^,^^,^^,^Warp Portal^,^^,^^
+^n_d99_portal_037_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_038_Name^,^공간이동 차원문^,^^,^^,^Warp Portal^,^^,^^
+^n_d99_portal_038_NameDetail^,^^,^^,^^,^^,^^,^^
+^n_d99_portal_039_Name^,^공간이동 차원문^,^^,^^,^Warp Portal^,^^,^^
+^n_d99_portal_039_NameDetail^,^^,^^,^^,^^,^^,^^
+^N_F17_Inugi_01_Name^,^야누기^,^^,^^,^Yanugi^,^^,^^
+^N_F17_Inugi_01_NameDetail^,^브라기 광산 광부^,^^,^^,^Braghin Mine Miner^,^^,^^
+^N_F07_HuMMer_01_Name^,^항해사 말롯^,^^,^^,^Mate Marlott^,^^,^^
+^N_F07_HuMMer_01_NameDetail^,^하카나스 왕국 비행선^,^^,^^,^Hakanas Airship^,^^,^^
+^n_f07_quest_001_Name^,^기만의 제슐리스^,^^,^^,^Deceptive Jekyllis^,^^,^^
+^n_f07_quest_001_NameDetail^,^암흑 파수꾼^,^^,^^,^Assassin Keepers^,^^,^^
+^n_d08_board_01_Name^,^잊혀진 성지 안내판^,^^,^^,^Forgotten Shrine Board^,^^,^^
+^n_d08_board_01_NameDetail^,^던전 보상 안내^,^^,^^,^Dungeon Rewards Board^,^^,^^

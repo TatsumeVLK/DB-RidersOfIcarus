@@ -1,0 +1,260 @@
+t_key,t_korean,t_jpn,t_chinese,t_enu
+^testfield_Name^,^Test Field^,^^,^^,^^
+^testfield2_Name^,^Test Field2^,^^,^^,^^
+^map_f00_Name^,^Prison of Salant^,^^,^^,^^
+^map_f01_Name^,^Brakarr Forest^,^^,^^,^^
+^map_f02_Name^,^Hakanas Highlands^,^^,^^,^^
+^map_f03_Name^,^Parna's Coast^,^^,^^,^^
+^map_f04_Name^,^Tritael Rift^,^^,^^,^^
+^map_f05_Name^,^Cloying Wastes^,^^,^^,^^
+^map_d01_Name^,^Carleon Manor^,^^,^^,^^
+^map_d02_Name^,^Ruins of Matren^,^^,^^,^^
+^map_d03_Name^,^Cavern of the Veil^,^^,^^,^^
+^map_d04_Name^,^The Frost Keep^,^^,^^,^^
+^map_d00_Name^,^Lavalight Cave^,^^,^^,^^
+^map_c01_Name^,^Hakain's Crossing^,^^,^^,^^
+^map_c02_Name^,^Akrat Plains^,^^,^^,^^
+^map_c03_Name^,^Thundercloud Fortress^,^^,^^,^^
+^map_f07_Name^,^Ellora's Sanctuary^,^^,^^,^^
+^map_f08_Name^,^Turimnan Valley^,^^,^^,^^
+^map_f09_Name^,^Sea of Hakanas^,^^,^^,^^
+^map_test01_Name^,^Test Field4^,^^,^^,^^
+^map_test02_Name^,^Test Field5^,^^,^^,^^
+^testfield3_Name^,^Test Field3^,^^,^^,^^
+^map_d07_name^,^Tomb of the Wyrm^,^^,^^,^^
+^test_navi_Name^,^Navigation Test^,^^,^^,^^
+^map_d08_name^,^Forgotten Shrine^,^^,^^,^^
+^map_d09_name^,^Hastan Village^,^^,^^,^^
+^map_farm_01_name^,^Hakanas Plantation^,^^,^^,^^
+^map_farm_02_name^,^Akrat Plain Plantation^,^^,^^,^^
+^map_f10_Name^,^Magmaphora^,^^,^^,^^
+^map_f11_Name^,^Blackhand Canyon^,^^,^^,^^
+^map_f12_Name^,^Exarahn Basin^,^^,^^,^^
+^map_f13_Name^,^Sleeping Island^,^^,^^,^^
+^map_f14_Name^,^Ellard Continent^,^^,^^,^^
+^map_f01_e01_Name^,^Southern Ruins^,^^,^^,^^
+^map_f01_e02_Name^,^Northern Ruins^,^^,^^,^^
+^map_d11_name^,^Red Revolutionaries Base^,^^,^^,^^
+^map_f02_e01_name^,^Jack the Hunter's Cave^,^^,^^,^^
+^map_f02_e02_name^,^Miller's Hill^,^^,^^,^^
+^map_f03_e01_name^,^Ghost Ship^,^^,^^,^^
+^map_f03_e02_name^,^Pirate Hideout^,^^,^^,^^
+^map_f03_e03_name^,^Farlark^,^^,^^,^^
+^map_f06_name^,^Fractura^,^^,^^,^^
+^map_f01_e03_name^,^Wolftrap Grotto^,^^,^^,^^
+^map_c01_e01_name^,^Royal Audience Chamber^,^^,^^,^^
+^map_c01_e03_name^,^River Ward^,^^,^^,^^
+^map_p01_name^,^Exarahn Badlands^,^^,^^,^^
+^map_f16_name^,^Attaius Peak^,^^,^^,^^
+^map_f15_e01_name^,^The Gusting Isles^,^^,^^,^^
+^map_f02_e03_name^,^House of Maids^,^^,^^,^^
+^map_f99_name^,^Desert Island^,^^,^^,^^
+^map_c01_e02_name^,^King's Grove^,^^,^^,^^
+^map_d22_Name^,^The Breach^,^^,^^,^^
+^map_f98_name^,^Arena^,^^,^^,^^
+^map_c01_e04_name^,^Capital Barracks^,^^,^^,^^
+^map_d13_name^,^Temple of Sands^,^^,^^,^^
+^map_d06_name^,^Fallen Legion Fortress^,^^,^^,^^
+^map_f05_e01_name^,^Ruined Temple^,^^,^^,^^
+^map_f05_e02_name^,^Hatchery^,^^,^^,^^
+^map_p02_name^,^Stygaea^,^^,^^,^^
+^map_d99_name^,^Tower of Challenge^,^^,^^,^^
+^map_d23_name^,^Shady Warrens^,^^,^^,^^
+^map_f17_name^,^Windy Canyon^,^^,^^,^^
+^map_f07_e01_name^,^El Zenus Sanctuary^,^^,^^,^^
+^map_f07_e02_name^,^Ancient Elves' Memorial Box^,^^,^^,^^
+^map_d24_name^,^Familiar Academy^,^^,^^,^^
+^map_d25_name^,^(PC Cafe) Familiar Laboratory^,^^,^^,^^
+^map_g01_name^,^The Guild of Glory Room^,^^,^^,^^
+^map_f97_name^,^King Hadakhan's Dungeon^,^^,^^,^^
+^map_i01_name^,^The Breach (Common)^,^^,^^,^^
+^map_d26_name^,^Braghin Mine^,^^,^^,^^
+^map_c02_e01_name^,^Merumi Habitat^,^^,^^,^^
+^map_d98_name^,^Island of Exiles^,^^,^^,^^
+^map_d12_name^,^Elder's Floating Fort^,^^,^^,^^
+^map_g02_name^,^The Guild of Fame Room^,^^,^^,^^
+^map_g03_name^,^The Guild of Harmony Room^,^^,^^,^^
+^map_f09_e01_name^,^Fallen Zenen Citadel^,^^,^^,^^
+^map_d97_name^,^PC Bunny's Farm^,^^,^^,^^
+^map_f96_name^,^Familiar Farm^,^^,^^,^^
+^map_t01_name^,^Ellora's Sanctum^,^^,^^,^^
+^map_e01_name^,^Haunted House^,^^,^^,^^
+^map_d96_name^,^King Hadakan's Underground Labyrinth^,^^,^^,^^
+^map_d95_name^,^Hastan Secret Retreat^,^^,^^,^^
+^map_r01_name^,^Yatuman's Secret Altar^,^^,^^,^^
+^map_d00_elite_0^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Fairy/Detachment</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d00_elite_1^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Fairy/Detachment</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d00_elite_2^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Fairy/Detachment</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d00_elite_3^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Fairy/Detachment</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d00_elite_4^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Fairy/Detachment</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d00_hero_0^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Ancient Emberstone Golem</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d00_hero_1^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Ancient Emberstone Golem</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d00_hero_2^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Ancient Emberstone Golem</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d00_hero_3^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Ancient Emberstone Golem</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d00_hero_4^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Ancient Emberstone Golem</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d01_elite_0^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Militia</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d01_elite_1^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Militia</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d01_elite_2^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Militia</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d01_elite_3^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Militia</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d01_elite_4^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Militia</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d01_hero_0^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Cursed</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d01_hero_1^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Cursed</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d01_hero_2^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Cursed</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d01_hero_3^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Cursed</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d01_hero_4^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Cursed</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d02_elite_0^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Garrison/Azure/Snowfield</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d02_elite_1^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Garrison/Azure/Snowfield</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d02_elite_2^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Garrison/Azure/Snowfield</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d02_elite_3^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Garrison/Azure/Snowfield</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d02_elite_4^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Garrison/Azure/Snowfield</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d02_hero_0^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Frozen</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d02_hero_1^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Frozen</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d02_hero_2^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Frozen</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d02_hero_3^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Frozen</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d02_hero_4^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Frozen</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d03_elite_0^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Modest Hunter/Tempered Mithril </font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d03_elite_1^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Modest Hunter/Tempered Mithril </font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d03_elite_2^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Modest Hunter/Tempered Mithril </font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d03_elite_3^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Modest Hunter/Tempered Mithril </font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d03_elite_4^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Modest Hunter/Tempered Mithril </font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d03_hero_0^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Corrupted</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d03_hero_1^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Corrupted</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d03_hero_2^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Corrupted</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d03_hero_3^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Corrupted</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d03_hero_4^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Corrupted</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d04_elite_0^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Austere Hunter</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d04_elite_1^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Austere Hunter</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d04_elite_2^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Austere Hunter</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d04_elite_3^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Austere Hunter</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d04_elite_4^,^<font color="#668D9E">Equipment:<font color="#10EBF3">Austere Hunter</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d04_hero_0^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Frost Command</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d04_hero_1^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Frost Command</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d04_hero_2^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Frost Command</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d04_hero_3^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Frost Command</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d04_hero_4^,^<font color="#668D9E">Equipment:<font color="#F9CF33">Frost Command</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d22_elite_0^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d22_elite_1^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d22_elite_2^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d22_elite_3^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d22_elite_4^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d22_hero_0^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d22_hero_1^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d22_hero_2^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d22_hero_3^,^<font color="#668D9E">Equipment:<font color="#E903DE">Karasha</font><font color="#C9C9C9">Set</font><br>^,^^,^^,^^
+^map_d22_hero_4^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Karasha </font><font color="#C9C9C9">Set</font><br>Enchantment::<font color="#CD0000"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fa^,^^,^^,^^
+^map_d13_elite_0^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d13_elite_1^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d13_elite_2^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d13_elite_3^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d13_elite_4^,^<font color="#668D9E">Equipment:<font color="#E903DE">(Permanent) Karasha</font> <font color="#C9C9C9">Set</font>^,^^,^^,^^
+^map_d13_hero_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#C9C9C9"> Tempered +10 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d13_hero_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FAFAA0"> Tempered +15 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d13_hero_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FFEB46"> Tempered +15 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d13_hero_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FF9614"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d13_hero_4^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#CD0000"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d06_elite_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#C9C9C9"> Tempered +10 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d06_elite_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FAFAA0"> Tempered +10 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d06_elite_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FFEB46"> Tempered +10 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d06_elite_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FF9614"> Tempered +10 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d06_elite_4^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#CD0000"> Tempered +10 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d06_hero_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#C9C9C9"> Tempered +10 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>Familia^,^^,^^,^^
+^map_d06_hero_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FAFAA0"> Tempered +10 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>Familia^,^^,^^,^^
+^map_d06_hero_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FFEB46"> Tempered +15 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>Familia^,^^,^^,^^
+^map_d06_hero_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FF9614"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>Familia^,^^,^^,^^
+^map_d06_hero_4^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#CD0000"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>Familia^,^^,^^,^^
+^map_d08_elite_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#C9C9C9"> Tempered +10 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d08_elite_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FAFAA0"> Tempered +15 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d08_elite_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FFEB46"> Tempered +15 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d08_elite_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FF9614"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d08_elite_4^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#CD0000"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </font>Fam^,^^,^^,^^
+^map_d08_hero_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#C9C9C9"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>Familia^,^^,^^,^^
+^map_d08_hero_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FAFAA0"> Tempered +25 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>Familia^,^^,^^,^^
+^map_d08_hero_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FFEB46"> Tempered +25 / Reverse</font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </fon^,^^,^^,^^
+^map_d08_hero_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FF9614"> Tempered +25 / Reverse</font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </fon^,^^,^^,^^
+^map_d08_hero_4^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#CD0000"> Tempered +25 / Reverse / Reforge / Seurpassed</font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="^,^^,^^,^^
+^map_d12_elite_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#C9C9C9"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>^,^^,^^,^^
+^map_d12_elite_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FF9614"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>F^,^^,^^,^^
+^map_d12_elite_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FFEB46"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>F^,^^,^^,^^
+^map_d12_elite_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FF9614"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>F^,^^,^^,^^
+^map_d12_elite_4^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#CD0000"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>F^,^^,^^,^^
+^map_d12_hero_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#C9C9C9"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 60 <font color="#E903DE">Legendary </font>Familiar^,^^,^^,^^
+^map_d12_hero_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FAFAA0"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 60 <font color="#E903DE">Legendary </font>Familiar^,^^,^^,^^
+^map_d12_hero_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FFEB46"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 60 <font color="#E903DE">Legendary </font>Familiar^,^^,^^,^^
+^map_d12_hero_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FF9614"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 60 <font color="#E903DE">Legendary </font>Familiar^,^^,^^,^^
+^map_d12_hero_4^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#CD0000"> Tempered +25 </font><br>Seal Stones: <font color="#C9C9C9">Level 60 <font color="#E903DE">Legendary </font>Familiar^,^^,^^,^^
+^map_d07_elite_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#C9C9C9"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>^,^^,^^,^^
+^map_d07_elite_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FAFAA0"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </fo^,^^,^^,^^
+^map_d07_elite_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FFEB46"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 40, 50 <font color="#E903DE">Legendary </fo^,^^,^^,^^
+^map_d07_elite_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FF9614"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>F^,^^,^^,^^
+^map_d07_elite_4^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#CD0000"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 55 <font color="#E903DE">Legendary </font>F^,^^,^^,^^
+^map_d07_hero_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#C9C9C9"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 60 <font color="#E903DE">Legendary </font>Familiar^,^^,^^,^^
+^map_d07_hero_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FAFAA0"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 60 <font color="#E903DE">Legendary </font>Familiar^,^^,^^,^^
+^map_d07_hero_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FFEB46"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 60 <font color="#E903DE">Legendary </font>Familiar^,^^,^^,^^
+^map_d07_hero_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#FF9614"> Tempered +20 </font><br>Seal Stones: <font color="#C9C9C9">Level 60 <font color="#E903DE">Legendary </font>Familiar^,^^,^^,^^
+^map_d07_hero_4^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas </font><font color="#C9C9C9">Set</font><br>Enchantment: <font color="#CD0000"> Tempered +25 </font><br>Seal Stones: <font color="#C9C9C9">Level 60 <font color="#E903DE">Legendary </font>Familiar^,^^,^^,^^
+^map_m01_name^,^Kellwoods Mine^,^^,^^,^^
+^map_m02_name^,^Foothills Mine^,^^,^^,^^
+^map_m03_name^,^Zadaran Mine^,^^,^^,^^
+^map_m01_elite_0^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Kellwods Stronghold.<br></font>Can be entered with<font color="#FFE400"> Kellwood Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Diff^,^^,^^,^^
+^map_m01_elite_1^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Kellwods Stronghold.<br></font>Can be entered with<font color="#FFE400"> Kellwood Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Diff^,^^,^^,^^
+^map_m01_elite_2^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Kellwods Stronghold.<br></font>Can be entered with<font color="#FFE400"> Kellwood Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Diff^,^^,^^,^^
+^map_m01_elite_3^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Kellwods Stronghold.<br></font>Can be entered with<font color="#FFE400"> Kellwood Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Diff^,^^,^^,^^
+^map_m01_elite_4^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Kellwods Stronghold.<br></font>Can be entered with<font color="#FFE400"> Kellwood Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Diff^,^^,^^,^^
+^map_m02_elite_0^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Foothills Stronghold.<br></font>Can be entered with<font color="#FFE400"> Foothills Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Di^,^^,^^,^^
+^map_m02_elite_1^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Foothills Stronghold.<br></font>Can be entered with<font color="#FFE400"> Foothills Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Di^,^^,^^,^^
+^map_m02_elite_2^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Foothills Stronghold.<br></font>Can be entered with<font color="#FFE400"> Foothills Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Di^,^^,^^,^^
+^map_m02_elite_3^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Foothills Stronghold.<br></font>Can be entered with<font color="#FFE400"> Foothills Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Di^,^^,^^,^^
+^map_m02_elite_4^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Foothills Stronghold.<br></font>Can be entered with<font color="#FFE400"> Foothills Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Di^,^^,^^,^^
+^map_m03_elite_0^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Zafaran Stronghold.<br></font>Can be entered with<font color="#FFE400"> Zadaran Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Diffic^,^^,^^,^^
+^map_m03_elite_1^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Zafaran Stronghold.<br></font>Can be entered with<font color="#FFE400"> Zadaran Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Diffic^,^^,^^,^^
+^map_m03_elite_2^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Zafaran Stronghold.<br></font>Can be entered with<font color="#FFE400"> Zadaran Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Diffic^,^^,^^,^^
+^map_m03_elite_3^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Zafaran Stronghold.<br></font>Can be entered with<font color="#FFE400"> Zadaran Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Diffic^,^^,^^,^^
+^map_m03_elite_4^,^<font color="#668D9E">Available for the Knights of the guild that occupies the Zafaran Stronghold.<br></font>Can be entered with<font color="#FFE400"> Zadaran Mine Admission Ticket </font><font color="#668D9E"> once a day.<br>Same Droprate on every Diffic^,^^,^^,^^
+^map_d00_legend_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora Set</font><br><font color="#C9C9C9">Temper +20 </font><br>Seals: <font color="#E903DE">Any Legendary</font></font>^,^^,^^,^^
+^map_d00_legend_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FAFAA0">Rental / Temper +20 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d00_legend_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FFEB46">Rental / Temper +20 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d00_legend_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FF9614">Temper +25 / </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d00_legend_4^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Bloodless & Yatuman Items</font><br><font color="#CD0000">Armor +10 / Weapon +15 / 4x Refined</font><br>Seals: <font color="#E903DE">Spirit Chaser / Wrath Wyvern or similar</font></font>^,^^,^^,^^
+^map_d01_legend_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora Set</font><br><font color="#C9C9C9">Temper +20 </font><br>Seals: <font color="#E903DE">Any Legendary</font></font>^,^^,^^,^^
+^map_d01_legend_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FAFAA0">Rental / Temper +20 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d01_legend_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FFEB46">Rental / Temper +20 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d01_legend_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FF9614">Temper +25 / </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d01_legend_4^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Bloodless & Yatuman Items</font><br><font color="#CD0000">Armor +10 / Weapon +15 / 4x Refined</font><br>Seals: <font color="#E903DE">Spirit Chaser / Wrath Wyvern or similar</font></font>^,^^,^^,^^
+^map_d02_legend_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora Set</font><br><font color="#C9C9C9">Temper +20 </font><br>Seals: <font color="#E903DE">Any Legendary</font></font>^,^^,^^,^^
+^map_d02_legend_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FAFAA0">Rental / Temper +20 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d02_legend_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FFEB46">Rental / Temper +20 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d02_legend_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FF9614">Temper +25 / </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d02_legend_4^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Bloodless & Yatuman Items</font><br><font color="#CD0000">Armor +10 / Weapon +15 / 4x Refined</font><br>Seals: <font color="#E903DE">Spirit Chaser / Wrath Wyvern or similar</font></font>^,^^,^^,^^
+^map_d03_legend_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas Set</font><br> <font color="#C9C9C9">Rental / Temper +20 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d03_legend_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FAFAA0">Temper +25 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d03_legend_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FFEB46">Temper +25 / 5+ Transcend/ 1+ Reversed </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d03_legend_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Armor/Temain Weapon</font><br><font color="#FF9614">Temper +25 / 5+ Transcend / 3+ Reversed </font><br>Seals: <font color="#E903DE">Antares / Aw. Lovely Poyo or similar</font></font>^,^^,^^,^^
+^map_d03_legend_4^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Bloodless & Yatuman Items</font><br><font color="#CD0000">Armor +10 / Weapon +15 / 4x Refined</font><br>Seals: <font color="#E903DE">Spirit Chaser / Wrath Wyvern or similar</font></font>^,^^,^^,^^
+^map_d04_legend_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas Set</font><br> <font color="#C9C9C9">Rental / Temper +20 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d04_legend_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FAFAA0">Temper +25 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d04_legend_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FFEB46">Temper +25 / 5+ Transcend/ 1+ Reversed </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d04_legend_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Armor/Temain Weapon</font><br><font color="#FF9614">Temper +25 / 5+ Transcend / 3+ Reversed </font><br>Seals: <font color="#E903DE">Antares / Aw. Lovely Poyo or similar</font></font>^,^^,^^,^^
+^map_d04_legend_4^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Bloodless & Yatuman Items</font><br><font color="#CD0000">Armor +10 / Weapon +15 / 4x Refined</font><br>Seals: <font color="#E903DE">Spirit Chaser / Wrath Wyvern or similar</font></font>^,^^,^^,^^
+^map_d22_legend_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Ellora/Alsas Set</font><br> <font color="#C9C9C9">Rental / Temper +20 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d22_legend_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FAFAA0">Temper +25 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d22_legend_2^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#FFEB46">Temper +25 / 5+ Transcend/ 1+ Reversed </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d22_legend_3^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Armor/Temain Weapon</font><br><font color="#FF9614">Temper +25 / 5+ Transcend / 3+ Reversed </font><br>Seals: <font color="#E903DE">Antares / Aw. Lovely Poyo or similar</font></font>^,^^,^^,^^
+^map_d22_legend_4^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Bloodless & Yatuman Items</font><br><font color="#CD0000">Armor +10 / Weapon +15 / 4x Refined</font><br>Seals: <font color="#E903DE">Spirit Chaser / Wrath Wyvern or similar</font></font>^,^^,^^,^^
+^map_d13_legend_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas/Temain Set</font><br><font color="#C9C9C9">Rental / Temper +20 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d13_legend_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas/Temain Set</font><br><font color="#FAFAA0">Temper +25 / 5+ Transcend / 1+ Reversed</font><br>Seals: <font color="#E903DE">Antares / Aw. Lovely Poyo or similar</font></font>^,^^,^^,^^
+^map_d13_legend_2^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Temain/Zelnaris Items</font><br><font color="#FFEB46">Armor +25 / Weapon +2 / 3+ Reversed </font><br>Seals: <font color="#E903DE">Antares / Aw. Lovely Poyo or similar</font></font>^,^^,^^,^^
+^map_d13_legend_3^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Temain/Zelnaris Items</font><br><font color="#FF9614">Armor +25 / Weapon +4 / 5 Reversed</font><br>Seals: <font color="#E903DE">Antares / Aw. Lovely Poyo or similar</font></font>^,^^,^^,^^
+^map_d13_legend_4^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Bloodless & Yatuman Items</font><br><font color="#CD0000">Armor +10 / Weapon +15 / 4x Refined</font><br>Seals: <font color="#E903DE">Spirit Chaser / Wrath Wyvern or similar</font></font>^,^^,^^,^^
+^map_d12_legend_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas/Temain Set</font><br><font color="#C9C9C9">Rental / Temper +20 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d12_legend_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas/Temain Set</font><br><font color="#FAFAA0">Temper +25 / 5+ Transcend / 1+ Reversed</font><br>Seals: <font color="#E903DE">Antares / Aw. Lovely Poyo or similar</font></font>^,^^,^^,^^
+^map_d12_legend_2^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Temain/Zelnaris Items</font><br><font color="#FFEB46">Armor +25 / Weapon +2 / 3+ Reversed </font><br>Seals: <font color="#E903DE">Antares / Aw. Lovely Poyo or similar</font></font>^,^^,^^,^^
+^map_d12_legend_3^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Temain/Zelnaris Items</font><br><font color="#FF9614">Armor +25 / Weapon +4 / 5 Reversed</font><br>Seals: <font color="#E903DE">Antares / Aw. Lovely Poyo or similar</font></font>^,^^,^^,^^
+^map_d12_legend_4^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Bloodless & Yatuman Items</font><br><font color="#CD0000">Armor +10 / Weapon +15 / 4x Refined</font><br>Seals: <font color="#E903DE">Spirit Chaser / Wrath Wyvern or similar</font></font>^,^^,^^,^^
+^map_d07_legend_0^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Alsas Set</font><br><font color="#C9C9C9">Rental / Armor +25 </font><br>Seals: <font color="#E903DE">Rodesh Crystal / Teisha or similar</font></font>^,^^,^^,^^
+^map_d07_legend_1^,^<font color="#668D9E">Equipment:<font color="#E903DE"> Temain Set</font><br><font color="#FAFAA0">Armor +25 / 5+ Transcend / 3+ Reversed </font><br>Seals: <font color="#E903DE">Antares / Aw. Lovel Poyo or similar</font></font>^,^^,^^,^^
+^map_d07_legend_2^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Temain/Zelnaris Items</font><br><font color="#FFEB46">Armor +25 / Weapon +3 / 5 Reversed </font><br>Seals: <font color="#E903DE">Antares / Aw. Lovel Poyo or similar</font></font>^,^^,^^,^^
+^map_d07_legend_3^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Temain/Zelnaris Items</font><br><font color="#FF9614">Armor +25 / Weapon +5 / 5 Reversed </font><br>Seals: <font color="#E903DE">Antares / Aw. Lovel Poyo / Spirit Chaser</font></font>^,^^,^^,^^
+^map_d07_legend_4^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Bloodless & Yatuman Items</font><br><font color="#CD0000">Armor +10 / Weapon +15 / 4x Refined</font><br>Seals: <font color="#E903DE">Spirit Chaser / Wrath Wyvern or similar</font></font>^,^^,^^,^^
+^map_d88_name^,^Dragon God Hideout^,^^,^^,^^
+^map_d88_legend_4^,^<font color="#668D9E">Equipment:<font color="#FF4500"> Bloodless & Yatuman Items</font><br><font color="#CD0000">Armor +10 / Weapon +15 / 4x Refined</font><br>Seals: <font color="#E903DE">Spirit Chaser / Wrath Wyvern or similar</font></font>^,^^,^^,^^
+^map_d100_name^,^Linear^,^^,^^,^^

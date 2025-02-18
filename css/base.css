@@ -1,0 +1,302 @@
+
+
+* {
+    font-size: 11px;
+    border-radius: 15px;
+    margin: 0;
+    padding: 0;
+    border-radius: 5px;
+    font: bold 14px Arial;
+}
+/* Body */
+body {
+    width: 100%;
+    font: bold 14px Arial;
+    text-align: center;
+    color: white;
+    padding: 0;
+    margin: 0;
+    background-color: rgba(128, 128, 128, 15);
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 14px;
+    margin: 0 0 0 5px;
+    padding: 3px 0 12px 0;
+    color: white;
+    justify-content: left;
+    text-align: left;
+}
+
+p {
+    font-size: 14px;
+    margin: 0;
+    padding: 0 0 0 5px;
+    color: white;
+    justify-content: left;
+    text-align: left;
+}
+
+hr {
+    border: none;
+    padding: 1px;
+    margin-bottom: 8px;
+    background-image: linear-gradient(to Top, rgb(133, 133, 133), rgb(119, 119, 119), rgb(97, 97, 97));
+}
+
+img {
+    width: 65px;
+    height: 65px;
+}
+/* Configura��es gerais */
+
+
+.espaco {
+    margin: 10px 5px;
+}
+
+.espaco1 {
+    margin: 5px 5px 12px 5px;
+}
+
+.espaco2 {
+    height: 20px;
+    margin-right: 10px;
+}
+
+.espaco3 {
+    margin: 2px 15px;
+}
+
+.espaco4 {
+    margin: 0 10px 0 10px;
+}
+.espacoesquerda {
+    margin-left: 15px;
+}
+.espacodireita {
+    margin-right: 15px;
+}
+
+.verde {
+    color: lawngreen;
+}
+
+.verde2 {
+    color: #29bb16;
+}
+
+.amarelo {
+    color: rgb(236, 215, 97);
+}
+
+.elite {
+    color: dodgerblue;
+}
+.heroic {
+    color: #ffcc00;
+}
+.legendary {
+    color: #ff00ff;
+}
+.mythical {
+    color: #ff1155;
+}
+.unique {
+    color: #ffaa55;
+}
+.text {
+    font-size: 14px;
+}
+
+
+.espacoentre {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.meuEstilo {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+
+/* Configura��o de divs */
+
+.conteiner {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 80%;
+    height: 100%;
+    border: 5px;
+    background-color: gray;
+}
+
+.selecionar {
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    justify-items: left;
+    justify-content: flex-start;
+    border: groove;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    width: 300px;
+    min-width: 400px;
+    height: 760px;
+    background-color: rgba(200, 200, 200, 10);
+    overflow: auto;
+}
+    .selecionar button {
+        width: 100%;
+        height: 90px;
+        border: groove;
+        margin: 0;
+        padding: 10px;
+        display: flex;
+        justify-items: left;
+        background-color: rgba(90, 34, 139, 1);
+        cursor: pointer;
+        color: white;
+    }
+
+.informacao {
+    margin-bottom: 10px;
+    border: groove;
+    border-color: rgb(73, 123, 187);
+    background-color: rgb(20, 41, 51);
+    padding: 5px;
+    color: white;
+    width: 400px;
+}
+
+.itemselecionado {
+    margin-top: 10px;
+    border: groove;
+    display: flex;
+    padding: 5px;
+    width: 900px;
+    min-width: 450px;
+    height: 790px;
+    flex-direction: column;
+    overflow: auto;
+}
+
+/* Configura��es especificas */
+.botoes {
+    width: 99%;
+    height: 98%;
+    overflow: auto;
+}
+    .botoes::-webkit-scrollbar {
+        width: 6px;
+        height: 6px;
+    }
+    .botoes::-webkit-scrollbar-thumb {
+        background: rgba(100, 100, 100, 0.6);
+        border-radius: 10px;
+    }
+        .botoes::-webkit-scrollbar-thumb:hover {
+            background: rgba(100, 100, 100, 0.9);
+        }
+    .botoes::-webkit-scrollbar-track {
+        background: transparent; 
+    }
+body::-webkit-scrollbar {
+    display: none;
+}
+
+
+.imginfos {
+    display: flex;
+}
+
+.foto {
+    width: 80px;
+    height: 80px;
+}
+
+
+.foto {
+    padding: 0 5px 5px 5px;
+}
+
+.moeda {
+    width: 15px;
+    height: 15px;
+    vertical-align: middle;
+    margin-left: 0;
+    padding-right: 2px;
+    padding-bottom: 2px;
+}
+
+    .moeda.gold {
+        color: gold;
+    }
+
+    .moeda.silver {
+
+        color: silver;
+    }
+
+    .moeda.copper {
+        color: #cf7316;
+    }
+
+.butoescodigo {
+    display: flex;
+}
+    .butoescodigo button {
+        width: 150px;
+        height: 50px;
+        border: groove;
+        margin: 0;
+        padding: 10px;
+        cursor: pointer;
+        color: white;
+        background-color: rgba(70, 70, 70, 1);
+    }
+
+/* ID's especificos */
+#codigoItem {
+    padding: 4px;
+    width: 98%;
+    height: 200px;
+    resize: none;
+}
+
+#itemRaridade {
+    display: block;
+    text-align: right;
+    width: 100%;
+}
+#searchBar {
+    width: 98%;
+    height: 25px;
+    border: none;
+    margin-bottom: 10px;
+    padding: 3px;
+}
+#nomedoItemtraduzido {
+    display: block;
+    margin-top: 5px;
+    padding: 5px;
+    width: 98%;
+    height: 20px;
+    resize: none;
+}
+#saleprice, #itemPreco, #divsale {
+    text-align: center;
+    height: 14px;
+    margin-bottom: 5px;
+}

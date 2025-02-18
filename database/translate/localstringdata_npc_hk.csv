@@ -1,0 +1,1354 @@
+t_key,t_korean
+^N_03_0_0095_0001_Name^,^Dragon Knight Elite^
+^N_03_0_0095_0001_NameDetail^,^^
+^N_03_0_0095_0002_Name^,^Dragon Knight Vanguard^
+^N_03_0_0095_0002_NameDetail^,^^
+^N_03_0_0194_0000_Name^,^Excelron^
+^N_03_0_0194_0000_NameDetail^,^Guardian Dragon Underling^
+^N_03_0_0194_0001_Name^,^Belzech^
+^N_03_0_0194_0001_NameDetail^,^Guardian Dragon Underling^
+^N_03_0_0246_0000_Name^,^Gunther^
+^N_03_0_0246_0000_NameDetail^,^^
+^N_03_0_0023_0002_Name^,^Captured Woman^
+^N_03_0_0023_0002_NameDetail^,^Kellwoods Villager^
+^N_03_0_0007_0000_Name^,^Captured Man^
+^N_03_0_0007_0000_NameDetail^,^Kellwoods Villager^
+^N_03_0_0111_0000_Name^,^Captured Boy^
+^N_03_0_0111_0000_NameDetail^,^Kellwoods Villager^
+^N_03_0_0001_0156_Name^,^Injured Adventurer^
+^N_03_0_0001_0156_NameDetail^,^^
+^N_03_0_0001_0155_Name^,^Reyan^
+^N_03_0_0001_0155_NameDetail^,^Mender^
+^N_03_0_0002_0070_Name^,^Unica Rayne^
+^N_03_0_0002_0070_NameDetail^,^Unicorn Keeper^
+^N_03_0_0001_0157_Name^,^Halcyon^
+^N_03_0_0001_0157_NameDetail^,^^
+^N_05_0_0005_0000_Name^,^Captain Black Joe^
+^N_05_0_0005_0000_NameDetail^,^Parna's Coast Ferryman^
+^N_99_0_0001_0000_Name^,^Farmhand^
+^N_99_0_0001_0000_NameDetail^,^^
+^N_03_0_0001_0158_Name^,^Private Trid^
+^N_03_0_0001_0158_NameDetail^,^Dragon Knight^
+^N_03_0_0001_0159_Name^,^Draden^
+^N_03_0_0001_0159_NameDetail^,^^
+^N_03_0_0001_0160_Name^,^Private Daylos^
+^N_03_0_0001_0160_NameDetail^,^Dragon Knight^
+^N_03_0_0192_0000_Name^,^Pony^
+^N_03_0_0192_0000_NameDetail^,^^
+^N_05_5_0002_0000_Name^,^Recall Stone^
+^N_05_5_0002_0000_NameDetail^,^^
+^N_05_5_0002_0001_Name^,^Recall Stone^
+^N_05_5_0002_0001_NameDetail^,^^
+^N_05_5_0002_0002_Name^,^Recall Stone^
+^N_05_5_0002_0002_NameDetail^,^^
+^N_03_0_0001_0161_Name^,^Injured Farmer^
+^N_03_0_0001_0161_NameDetail^,^^
+^N_03_0_0001_0162_Name^,^Injured Soldier^
+^N_03_0_0001_0162_NameDetail^,^^
+^N_03_0_0001_0163_Name^,^Elder Serlian^
+^N_03_0_0001_0163_NameDetail^,^Zadaran^
+^N_03_0_0001_0164_Name^,^Zebia Koter^
+^N_03_0_0001_0164_NameDetail^,^Dragon Knight^
+^N_03_0_0001_0165_Name^,^Zhamis Katarr^
+^N_03_0_0001_0165_NameDetail^,^^
+^N_03_0_0002_0071_Name^,^Missus Malone^
+^N_03_0_0002_0071_NameDetail^,^^
+^N_03_0_0672_0005_Name^,^Loose Cow^
+^N_03_0_0672_0005_NameDetail^,^^
+^N_05_0_0022_0000_Name^,^Annsjon^
+^N_05_0_0022_0000_NameDetail^,^Transit Shrine Keeper^
+^N_05_0_0022_0001_Name^,^Raglans^
+^N_05_0_0022_0001_NameDetail^,^Transit Shrine Keeper^
+^N_05_0_0022_0002_Name^,^Croban^
+^N_05_0_0022_0002_NameDetail^,^Transit Shrine Keeper^
+^N_05_0_0001_0000_Name^,^Shahan^
+^N_05_0_0001_0000_NameDetail^,^Mender^
+^N_05_0_0001_0001_Name^,^Lotus^
+^N_05_0_0001_0001_NameDetail^,^Mender^
+^N_05_0_0001_0002_Name^,^High Priest^
+^N_05_0_0001_0002_NameDetail^,^Ellora Sanctuary^
+^N_05_0_0001_0003_Name^,^Priest^
+^N_05_0_0001_0003_NameDetail^,^Ellora Sanctuary^
+^N_05_0_0001_0004_Name^,^Captain Bernstein^
+^N_05_0_0001_0004_NameDetail^,^Dragon Knight^
+^N_05_0_0001_0005_Name^,^Knight^
+^N_05_0_0001_0005_NameDetail^,^Dragon Knight^
+^N_05_0_0001_0006_Name^,^Archivist Bertrand^
+^N_05_0_0001_0006_NameDetail^,^Baellas Library^
+^N_05_0_0001_0007_Name^,^Librarian^
+^N_05_0_0001_0007_NameDetail^,^Baellas Library^
+^N_05_0_0002_0000_Name^,^Librarian^
+^N_05_0_0002_0000_NameDetail^,^Baellas Library^
+^N_05_0_0423_0000_Name^,^Lord Chamberlain^
+^N_05_0_0423_0000_NameDetail^,^^
+^N_05_0_0001_0008_Name^,^Chamberlain^
+^N_05_0_0001_0008_NameDetail^,^^
+^N_05_0_0001_0009_Name^,^Guild Master^
+^N_05_0_0001_0009_NameDetail^,^Hakanas Official^
+^N_05_0_0001_0010_Name^,^Art Merchant^
+^N_05_0_0001_0010_NameDetail^,^^
+^N_05_0_0001_0011_Name^,^Frantz^
+^N_05_0_0001_0011_NameDetail^,^Apothecary^
+^N_05_0_2000_0000_Name^,^Pickpocket^
+^N_05_0_2000_0000_NameDetail^,^^
+^N_05_0_0001_0012_Name^,^AspiRing Chef^
+^N_05_0_0001_0012_NameDetail^,^^
+^N_05_0_5005_0000_Name^,^Canvasser^
+^N_05_0_5005_0000_NameDetail^,^Barmaid^
+^N_05_0_0001_0013_Name^,^Director Willow^
+^N_05_0_0001_0013_NameDetail^,^Familiar Academy^
+^N_05_0_0001_0014_Name^,^Researcher^
+^N_05_0_0001_0014_NameDetail^,^Familiar Academy^
+^N_05_0_0001_0015_Name^,^Alex^
+^N_05_0_0001_0015_NameDetail^,^Master Chef^
+^N_05_0_0001_0016_Name^,^Hilbern^
+^N_05_0_0001_0016_NameDetail^,^Master Alchemist^
+^N_05_0_2000_0001_Name^,^Hungry Youth^
+^N_05_0_2000_0001_NameDetail^,^^
+^N_05_0_2005_0000_Name^,^Hungry Man^
+^N_05_0_2005_0000_NameDetail^,^^
+^N_05_0_2000_0002_Name^,^Starving Boy^
+^N_05_0_2000_0002_NameDetail^,^^
+^N_05_0_5002_0000_Name^,^Starving Woman^
+^N_05_0_5002_0000_NameDetail^,^^
+^N_05_0_0001_0017_Name^,^Brighton^
+^N_05_0_0001_0017_NameDetail^,^Man of Thought^
+^N_05_0_0001_0018_Name^,^Instructor^
+^N_05_0_0001_0018_NameDetail^,^Recruit Trainer^
+^N_05_0_0002_0001_Name^,^Assistant Instructor^
+^N_05_0_0002_0001_NameDetail^,^Recruit Trainer^
+^N_05_0_0001_0019_Name^,^Assistant^
+^N_05_0_0001_0019_NameDetail^,^Recruit Trainer^
+^N_05_0_0001_0020_Name^,^Assistant^
+^N_05_0_0001_0020_NameDetail^,^Recruit Trainer^
+^N_05_0_0095_0000_Name^,^Cadet^
+^N_05_0_0095_0000_NameDetail^,^^
+^N_05_0_0095_0001_Name^,^Excused Trainee^
+^N_05_0_0095_0001_NameDetail^,^^
+^N_05_0_0001_0025_Name^,^Archery Trainee^
+^N_05_0_0001_0025_NameDetail^,^^
+^N_05_0_0001_0021_Name^,^Suave Man^
+^N_05_0_0001_0021_NameDetail^,^^
+^N_05_0_0002_0002_Name^,^Smitten Woman^
+^N_05_0_0002_0002_NameDetail^,^^
+^N_05_0_0001_0022_Name^,^Spurned Lover^
+^N_05_0_0001_0022_NameDetail^,^^
+^N_05_0_2005_0001_Name^,^Miller^
+^N_05_0_2005_0001_NameDetail^,^^
+^N_05_0_2003_0000_Name^,^Miller's Son^
+^N_05_0_2003_0000_NameDetail^,^^
+^N_05_0_0001_0023_Name^,^Hapless Pauper^
+^N_05_0_0001_0023_NameDetail^,^^
+^N_05_0_0002_0003_Name^,^Fashionista^
+^N_05_0_0002_0003_NameDetail^,^^
+^N_05_0_0001_0024_Name^,^Urbanite^
+^N_05_0_0001_0024_NameDetail^,^^
+^N_05_5_0172_0000_Name^,^King's Grove^
+^N_05_5_0172_0000_NameDetail^,^^
+^N_05_5_0172_0001_Name^,^Familiar Academy^
+^N_05_5_0172_0001_NameDetail^,^^
+^N_05_5_0172_0002_Name^,^Victory Plaza^
+^N_05_5_0172_0002_NameDetail^,^^
+^N_05_5_0172_0003_Name^,^Hakanas Kingdom^
+^N_05_5_0172_0003_NameDetail^,^^
+^N_05_5_0173_0000_Name^,^Southern Gateway^
+^N_05_5_0173_0000_NameDetail^,^^
+^N_05_5_0173_0001_Name^,^Elgren Farm^
+^N_05_5_0173_0001_NameDetail^,^^
+^N_05_5_0173_0002_Name^,^Hakain's Crossing^
+^N_05_5_0173_0002_NameDetail^,^^
+^N_05_5_0173_0003_Name^,^King's Grove^
+^N_05_5_0173_0003_NameDetail^,^^
+^N_05_5_0173_0004_Name^,^Forest of Echoes^
+^N_05_5_0173_0004_NameDetail^,^^
+^N_05_5_0173_0005_Name^,^Western Plantation^
+^N_05_5_0173_0005_NameDetail^,^^
+^N_05_5_0173_0006_Name^,^Eastern Gateway^
+^N_05_5_0173_0006_NameDetail^,^^
+^N_05_5_0173_0007_Name^,^Hakanas Castle - East Gate^
+^N_05_5_0173_0007_NameDetail^,^^
+^N_05_5_0173_0008_Name^,^Adventure's Port^
+^N_05_5_0173_0008_NameDetail^,^^
+^N_05_5_0173_0009_Name^,^River Ward^
+^N_05_5_0173_0009_NameDetail^,^^
+^N_05_5_0173_0010_Name^,^Training Yard^
+^N_05_5_0173_0010_NameDetail^,^^
+^N_05_5_0173_0011_Name^,^Market District^
+^N_05_5_0173_0011_NameDetail^,^^
+^N_05_5_0173_0012_Name^,^Hakain's Crossing Main Gate^
+^N_05_5_0173_0012_NameDetail^,^^
+^N_05_5_0173_0013_Name^,^Low Town^
+^N_05_5_0173_0013_NameDetail^,^^
+^N_05_5_0173_0014_Name^,^Familiar Academy^
+^N_05_5_0173_0014_NameDetail^,^^
+^N_05_5_0173_0015_Name^,^Artisan Square^
+^N_05_5_0173_0015_NameDetail^,^^
+^N_05_5_0173_0016_Name^,^Victory Plaza^
+^N_05_5_0173_0016_NameDetail^,^^
+^N_05_5_0173_0017_Name^,^Scholar's Quarter^
+^N_05_5_0173_0017_NameDetail^,^^
+^N_05_5_0173_0018_Name^,^State Bank^
+^N_05_5_0173_0018_NameDetail^,^^
+^N_05_5_0173_0019_Name^,^Hakanas Castle^
+^N_05_5_0173_0019_NameDetail^,^^
+^N_05_5_0173_0020_Name^,^Guardian Dragon Plaza^
+^N_05_5_0173_0020_NameDetail^,^^
+^N_05_5_0173_0021_Name^,^Baellas Memorial Library^
+^N_05_5_0173_0021_NameDetail^,^^
+^N_05_5_0173_0022_Name^,^Courtyard^
+^N_05_5_0173_0022_NameDetail^,^^
+^N_05_5_0173_0023_Name^,^Ellora Sanctuary^
+^N_05_5_0173_0023_NameDetail^,^^
+^N_05_0_0001_0026_Name^,^Guild Badge Vendor^
+^N_05_0_0001_0026_NameDetail^,^^
+^N_05_0_0001_0027_Name^,^Court Official^
+^N_05_0_0001_0027_NameDetail^,^^
+^N_05_0_0002_0004_Name^,^Court Official^
+^N_05_0_0002_0004_NameDetail^,^^
+^N_05_0_0001_0028_Name^,^Phillos^
+^N_05_0_0001_0028_NameDetail^,^^
+^N_05_1_0769_0000_Name^,^War Horse^
+^N_05_1_0769_0000_NameDetail^,^^
+^N_05_1_0671_0000_Name^,^Sparas's Frost Spider^
+^N_05_1_0671_0000_NameDetail^,^Familiar Academy^
+^N_05_1_0704_0000_Name^,^Pierre's Rogaton^
+^N_05_1_0704_0000_NameDetail^,^Familiar Academy^
+^N_05_1_0245_0000_Name^,^Sovell's Bear^
+^N_05_1_0245_0000_NameDetail^,^Familiar Academy^
+^N_05_1_1720_0000_Name^,^Tamed Unicorn^
+^N_05_1_1720_0000_NameDetail^,^Familiar Academy^
+^N_03_0_0001_0166_Name^,^Sarnik^
+^N_03_0_0001_0166_NameDetail^,^Beast Trainer^
+^N_03_0_0001_0167_Name^,^Canavan^
+^N_03_0_0001_0167_NameDetail^,^Beast Trainer^
+^N_03_0_0001_0168_Name^,^Captain Chaser^
+^N_03_0_0001_0168_NameDetail^,^Averis Hunter^
+^N_03_0_0001_0169_Name^,^Legis^
+^N_03_0_0001_0169_NameDetail^,^Averis Hunter^
+^N_03_0_0001_0170_Name^,^Khude the Cook^
+^N_03_0_0001_0170_NameDetail^,^Averis Hunter^
+^N_05_0_0001_0029_Name^,^Familiar Tamer^
+^N_05_0_0001_0029_NameDetail^,^Familiar Academy^
+^N_05_0_0001_0030_Name^,^Familiar Tamer^
+^N_05_0_0001_0030_NameDetail^,^Familiar Academy^
+^N_03_0_0001_0171_Name^,^Bernheart^
+^N_03_0_0001_0171_NameDetail^,^^
+^N_03_0_0001_0172_Name^,^Drillmaster Argon^
+^N_03_0_0001_0172_NameDetail^,^^
+^N_03_0_0339_0000_Name^,^Warding Stone^
+^N_03_0_0339_0000_NameDetail^,^^
+^N_05_0_0001_0031_Name^,^Margot^
+^N_05_0_0001_0031_NameDetail^,^^
+^N_05_0_0001_0032_Name^,^Charlie^
+^N_05_0_0001_0032_NameDetail^,^^
+^N_05_0_0001_0033_Name^,^Brown^
+^N_05_0_0001_0033_NameDetail^,^^
+^N_05_0_0001_0034_Name^,^Jake^
+^N_05_0_0001_0034_NameDetail^,^^
+^N_05_0_0001_0035_Name^,^Playing Child^
+^N_05_0_0001_0035_NameDetail^,^^
+^N_05_0_0002_0005_Name^,^Playing Child^
+^N_05_0_0002_0005_NameDetail^,^^
+^N_05_0_0001_0036_Name^,^Provincial Aristocrat^
+^N_05_0_0001_0036_NameDetail^,^^
+^N_05_0_0001_0037_Name^,^Ford^
+^N_05_0_0001_0037_NameDetail^,^Apothecary^
+^N_05_0_0083_0000_Name^,^Brown Bear^
+^N_05_0_0083_0000_NameDetail^,^Familiar Academy^
+^N_05_0_0245_0000_Name^,^Panther^
+^N_05_0_0245_0000_NameDetail^,^Familiar Academy^
+^N_05_0_0001_0038_Name^,^Familiar Tamer^
+^N_05_0_0001_0038_NameDetail^,^Familiar Academy^
+^N_05_0_0001_0039_Name^,^Familiar Researcher^
+^N_05_0_0001_0039_NameDetail^,^Familiar Academy^
+^N_03_0_0002_0072_Name^,^Sayne^
+^N_03_0_0002_0072_NameDetail^,^^
+^N_03_0_0002_0073_Name^,^Dido^
+^N_03_0_0002_0073_NameDetail^,^^
+^N_03_0_0001_0173_Name^,^Bagrand^
+^N_03_0_0001_0173_NameDetail^,^^
+^N_03_0_0001_0174_Name^,^Militia Commander Berdo^
+^N_03_0_0001_0174_NameDetail^,^Kellwoods^
+^N_05_0_0001_0040_Name^,^Sitting Shepard^
+^N_05_0_0001_0040_NameDetail^,^^
+^N_05_0_0001_0041_Name^,^Weeping Husband^
+^N_05_0_0001_0041_NameDetail^,^^
+^N_05_0_0001_0042_Name^,^DespaiRing Farmer^
+^N_05_0_0001_0042_NameDetail^,^^
+^N_05_0_0001_0043_Name^,^Laughing Boyfriend^
+^N_05_0_0001_0043_NameDetail^,^^
+^N_05_0_0001_0044_Name^,^Item-holding Man^
+^N_05_0_0001_0044_NameDetail^,^^
+^N_05_0_0001_0045_Name^,^Walking Item-holding Man^
+^N_05_0_0001_0045_NameDetail^,^^
+^N_05_0_0001_0046_Name^,^Excited Boy^
+^N_05_0_0001_0046_NameDetail^,^^
+^N_05_0_0001_0047_Name^,^Agonized Farmer^
+^N_05_0_0001_0047_NameDetail^,^^
+^N_05_0_0001_0048_Name^,^Soil-surveying Farmer^
+^N_05_0_0001_0048_NameDetail^,^^
+^N_05_0_0001_0049_Name^,^Farmer^
+^N_05_0_0001_0049_NameDetail^,^^
+^N_05_0_0001_0050_Name^,^Suntanning Farmer^
+^N_05_0_0001_0050_NameDetail^,^^
+^N_05_0_0001_0051_Name^,^Consolidating Farmer^
+^N_05_0_0001_0051_NameDetail^,^^
+^N_05_0_0002_0006_Name^,^Cranky Wife^
+^N_05_0_0002_0006_NameDetail^,^^
+^N_05_0_0002_0007_Name^,^WhispeRing Farmer^
+^N_05_0_0002_0007_NameDetail^,^^
+^N_05_0_0002_0008_Name^,^Laughing Girlfriend^
+^N_05_0_0002_0008_NameDetail^,^^
+^N_05_0_0002_0009_Name^,^Excited Girl^
+^N_05_0_0002_0009_NameDetail^,^^
+^N_05_0_0002_0010_Name^,^Soil Surveyor^
+^N_05_0_0002_0010_NameDetail^,^^
+^N_05_0_0002_0011_Name^,^Hoeing Farmer^
+^N_05_0_0002_0011_NameDetail^,^^
+^N_05_0_0002_0012_Name^,^Harvesting Farmer^
+^N_05_0_0002_0012_NameDetail^,^^
+^N_05_0_0001_0052_Name^,^Apprentice Cook^
+^N_05_0_0001_0052_NameDetail^,^^
+^N_05_0_0001_0053_Name^,^Apprentice Blacksmith^
+^N_05_0_0001_0053_NameDetail^,^^
+^N_05_0_0001_0054_Name^,^Apprentice Cook^
+^N_05_0_0001_0054_NameDetail^,^^
+^N_05_0_0001_0055_Name^,^Apprentice Blacksmith^
+^N_05_0_0001_0055_NameDetail^,^^
+^N_05_0_0001_0056_Name^,^Bakiit^
+^N_05_0_0001_0056_NameDetail^,^Battle Proctor^
+^N_05_0_0001_0057_Name^,^Fenzahr^
+^N_05_0_0001_0057_NameDetail^,^Familiar Academy^
+^N_05_0_0001_0058_Name^,^Jane^
+^N_05_0_0001_0058_NameDetail^,^Familiar Academy^
+^N_05_0_0002_0013_Name^,^Familiar Battle Examiner^
+^N_05_0_0002_0013_NameDetail^,^^
+^N_05_0_0001_0059_Name^,^Familiar Researcher^
+^N_05_0_0001_0059_NameDetail^,^^
+^N_05_1_0016_0000_Name^,^Tamed Tarantula^
+^N_05_1_0016_0000_NameDetail^,^^
+^N_05_0_0001_0060_Name^,^Aldar^
+^N_05_0_0001_0060_NameDetail^,^Familiar Academy^
+^N_05_0_0002_0014_Name^,^Pinny^
+^N_05_0_0002_0014_NameDetail^,^^
+^N_05_0_0170_0000_Name^,^Tamed Assassin Wolf^
+^N_05_0_0170_0000_NameDetail^,^^
+^N_05_0_0223_0000_Name^,^Dallwynn^
+^N_05_0_0223_0000_NameDetail^,^Onyx Order^
+^N_05_0_0001_0061_Name^,^Garland^
+^N_05_0_0001_0061_NameDetail^,^Field Commander^
+^N_05_0_0022_0003_Name^,^Darris^
+^N_05_0_0022_0003_NameDetail^,^Forest Watchman^
+^N_05_0_0022_0004_Name^,^Drayful^
+^N_05_0_0022_0004_NameDetail^,^Transit Shrine Keeper^
+^N_03_0_0001_0179_Name^,^Capital Guard^
+^N_03_0_0001_0179_NameDetail^,^^
+^N_03_0_0001_0180_Name^,^Hakanas Soldier^
+^N_03_0_0001_0180_NameDetail^,^^
+^N_03_0_0001_0181_Name^,^Hakanas Soldier^
+^N_03_0_0001_0181_NameDetail^,^^
+^N_03_0_0001_0182_Name^,^Quartermaster^
+^N_03_0_0001_0182_NameDetail^,^^
+^N_03_0_0001_0183_Name^,^Hakanas Soldier^
+^N_03_0_0001_0183_NameDetail^,^^
+^N_03_0_0001_0184_Name^,^Hakanas Soldier^
+^N_03_0_0001_0184_NameDetail^,^^
+^N_03_0_0001_0185_Name^,^Elder^
+^N_03_0_0001_0185_NameDetail^,^^
+^N_03_0_0002_0075_Name^,^Cute Little Girl^
+^N_03_0_0002_0075_NameDetail^,^^
+^N_03_0_0001_0186_Name^,^Sentinel^
+^N_03_0_0001_0186_NameDetail^,^^
+^N_05_0_2005_0002_Name^,^Lighthouse Manager^
+^N_05_0_2005_0002_NameDetail^,^^
+^N_03_0_0002_0076_Name^,^Citizen^
+^N_03_0_0002_0076_NameDetail^,^^
+^N_03_0_0002_0077_Name^,^Publican^
+^N_03_0_0002_0077_NameDetail^,^^
+^N_05_0_2005_0003_Name^,^Miller^
+^N_05_0_2005_0003_NameDetail^,^^
+^N_05_0_2005_0004_Name^,^Miller^
+^N_05_0_2005_0004_NameDetail^,^^
+^N_03_0_0001_0187_Name^,^Sentinel^
+^N_03_0_0001_0187_NameDetail^,^^
+^N_03_0_0001_0188_Name^,^Timid Farmer^
+^N_03_0_0001_0188_NameDetail^,^^
+^N_03_0_0002_0078_Name^,^Apprentice Garment Cutter^
+^N_03_0_0002_0078_NameDetail^,^^
+^N_03_0_0002_0079_Name^,^Florist^
+^N_03_0_0002_0079_NameDetail^,^^
+^N_03_0_0001_0189_Name^,^Elder^
+^N_03_0_0001_0189_NameDetail^,^^
+^N_03_0_0002_0080_Name^,^Girl^
+^N_03_0_0002_0080_NameDetail^,^^
+^N_03_0_0001_0190_Name^,^Boy^
+^N_03_0_0001_0190_NameDetail^,^^
+^N_05_0_2005_0005_Name^,^Farm Manager^
+^N_05_0_2005_0005_NameDetail^,^^
+^N_03_0_0001_0191_Name^,^Dragon Knight Cavalry^
+^N_03_0_0001_0191_NameDetail^,^^
+^N_03_0_0002_0081_Name^,^Princess Lania^
+^N_03_0_0002_0081_NameDetail^,^^
+^N_05_0_0022_0005_Name^,^Crossing Shrine^
+^N_05_0_0022_0005_NameDetail^,^^
+^N_05_0_0022_0006_Name^,^Crossing Shrine^
+^N_05_0_0022_0006_NameDetail^,^^
+^N_05_0_0022_0007_Name^,^Crossing Shrine^
+^N_05_0_0022_0007_NameDetail^,^^
+^N_05_0_0022_0008_Name^,^Crossing Shrine^
+^N_05_0_0022_0008_NameDetail^,^^
+^N_05_0_0022_0009_Name^,^Crossing Shrine^
+^N_05_0_0022_0009_NameDetail^,^^
+^N_99_0_0003_0002_Name^,^Rena^
+^N_99_0_0003_0002_NameDetail^,^Royal Knight^
+^N_99_0_0004_0001_Name^,^Tortus^
+^N_99_0_0004_0001_NameDetail^,^Guard Captain^
+^N_99_0_0008_0000_Name^,^Phelps^
+^N_99_0_0008_0000_NameDetail^,^Dragon Knight Guard^
+^N_05_0_0001_0062_Name^,^Angelica^
+^N_05_0_0001_0062_NameDetail^,^Familiar Researcher^
+^N_05_0_0001_0063_Name^,^Pierre^
+^N_05_0_0001_0063_NameDetail^,^Familiar Researcher^
+^N_05_0_0001_0064_Name^,^Sparas^
+^N_05_0_0001_0064_NameDetail^,^Familiar Researcher^
+^N_05_0_0001_0065_Name^,^Sovell^
+^N_05_0_0001_0065_NameDetail^,^Familiar Researcher^
+^N_05_1_0769_0001_Name^,^Merlin^
+^N_05_1_0769_0001_NameDetail^,^Familiar Academy^
+^N_03_0_0001_0193_Name^,^Hakanas Soldier^
+^N_03_0_0001_0193_NameDetail^,^^
+^N_03_0_0001_0194_Name^,^Flight^
+^N_03_0_0001_0194_NameDetail^,^Beast Trainer^
+^N_03_0_0001_0195_Name^,^John^
+^N_03_0_0001_0195_NameDetail^,^^
+^N_03_0_0001_0196_Name^,^Tommy^
+^N_03_0_0001_0196_NameDetail^,^^
+^N_05_0_0002_0015_Name^,^Esmeralda^
+^N_05_0_0002_0015_NameDetail^,^^
+^N_03_0_0001_0197_Name^,^Lord Rollan^
+^N_03_0_0001_0197_NameDetail^,^^
+^N_03_0_0001_0198_Name^,^Mavel^
+^N_03_0_0001_0198_NameDetail^,^Familiar Academy^
+^N_03_0_0001_0199_Name^,^Yoren^
+^N_03_0_0001_0199_NameDetail^,^^
+^N_C01_LeopSnow_001_Name^,^Jane's Tiger^
+^N_C01_LeopSnow_001_NameDetail^,^^
+^N_C01_Leop_001_Name^,^Fenzahr's Panther^
+^N_C01_Leop_001_NameDetail^,^^
+^N_03_0_0001_0200_Name^,^Hakanas Soldier^
+^N_03_0_0001_0200_NameDetail^,^^
+^N_03_0_0001_0202_Name^,^Sir Brandon^
+^N_03_0_0001_0202_NameDetail^,^^
+^N_03_0_0001_0203_Name^,^Lord Kye^
+^N_03_0_0001_0203_NameDetail^,^^
+^N_03_0_0001_0204_Name^,^Keebo^
+^N_03_0_0001_0204_NameDetail^,^^
+^N_03_0_0001_0205_Name^,^Urus^
+^N_03_0_0001_0205_NameDetail^,^Familiar Academy^
+^N_03_0_0001_0206_Name^,^Edgar^
+^N_03_0_0001_0206_NameDetail^,^Soul Stone Researcher^
+^N_03_0_0001_0207_Name^,^McGrown^
+^N_03_0_0001_0207_NameDetail^,^Soul Stone Researcher^
+^N_03_0_0001_0208_Name^,^Latini's Chakai^
+^N_03_0_0001_0208_NameDetail^,^Familiar Academy^
+^N_05_0_0001_0066_Name^,^Yode^
+^N_05_0_0001_0066_NameDetail^,^Transit Shrine Keeper^
+^N_05_0_0001_0067_Name^,^Snider^
+^N_05_0_0001_0067_NameDetail^,^Sky Titan Captain^
+^N_05_1_0704_0001_Name^,^Travel to Capital Shrine^
+^N_05_1_0704_0001_NameDetail^,^^
+^N_05_0_0001_0068_Name^,^Recall Stone^
+^N_05_0_0001_0068_NameDetail^,^^
+^N_05_0_0001_0069_Name^,^Recall Stone^
+^N_05_0_0001_0069_NameDetail^,^^
+^N_03_0_0010_0001_Name^,^Hughs^
+^N_03_0_0010_0001_NameDetail^,^Baron^
+^N_03_0_0010_0002_Name^,^Schan^
+^N_03_0_0010_0002_NameDetail^,^Aristocrat^
+^N_03_0_0010_0003_Name^,^Willem^
+^N_03_0_0010_0003_NameDetail^,^Magistrate^
+^N_03_0_0010_0004_Name^,^Marsala^
+^N_03_0_0010_0004_NameDetail^,^Chamberlain^
+^N_03_0_0010_0005_Name^,^Ruben^
+^N_03_0_0010_0005_NameDetail^,^Chamberlain^
+^N_03_0_0010_0006_Name^,^Russell^
+^N_03_0_0010_0006_NameDetail^,^General^
+^N_03_0_0010_0007_Name^,^EnKiehl^
+^N_03_0_0010_0007_NameDetail^,^High-Class Knight^
+^N_03_0_0010_0008_Name^,^Hakeru^
+^N_03_0_0010_0008_NameDetail^,^Guardian Knight^
+^N_03_0_0010_0009_Name^,^Joshua^
+^N_03_0_0010_0009_NameDetail^,^Royal Knight^
+^N_03_0_0010_0010_Name^,^Alkantra^
+^N_03_0_0010_0010_NameDetail^,^Petty Knight^
+^N_03_0_0010_0011_Name^,^Jay^
+^N_03_0_0010_0011_NameDetail^,^Capital Guard^
+^N_03_0_0010_0012_Name^,^Leo^
+^N_03_0_0010_0012_NameDetail^,^Hakanas Soldier^
+^N_03_0_0010_0013_Name^,^Yulnus^
+^N_03_0_0010_0013_NameDetail^,^Great Mage^
+^N_03_0_0010_0014_Name^,^Assassin^
+^N_03_0_0010_0014_NameDetail^,^Dummy^
+^N_03_0_0010_0015_Name^,^Jeera^
+^N_03_0_0010_0015_NameDetail^,^Virtue^
+^N_03_0_0010_0016_Name^,^Dahrven^
+^N_03_0_0010_0016_NameDetail^,^Mage Adept^
+^N_03_0_0010_0017_Name^,^Esby^
+^N_03_0_0010_0017_NameDetail^,^Initiate^
+^N_03_0_0010_0018_Name^,^Mandarin^
+^N_03_0_0010_0018_NameDetail^,^Dark Mage Elite^
+^N_03_0_0010_0019_Name^,^Wes^
+^N_03_0_0010_0019_NameDetail^,^Advanced Dark Mage^
+^N_03_0_0010_0020_Name^,^Teemeh^
+^N_03_0_0010_0020_NameDetail^,^Dark Mage Initiate^
+^N_03_0_0010_0021_Name^,^Lason^
+^N_03_0_0010_0021_NameDetail^,^Suspicious Mage^
+^N_03_0_0001_2001_Name^,^Plati^
+^N_03_0_0001_2001_NameDetail^,^Beast Trainer^
+^n_03_0_0001_2002_Name^,^Glati^
+^n_03_0_0001_2002_NameDetail^,^Beast Trainer^
+^N_03_0_0001_2000_Name^,^Diehl^
+^N_03_0_0001_2000_NameDetail^,^Beast Trainer^
+^N_05_0_0001_0070_Name^,^Crow^
+^N_05_0_0001_0070_NameDetail^,^Onyx Order Commander^
+^N_05_0_0001_0071_Name^,^Aaron^
+^N_05_0_0001_0071_NameDetail^,^Elgren Farmer^
+^N_05_0_0001_0072_Name^,^Chiki the Fairy^
+^N_05_0_0001_0072_NameDetail^,^^
+^N_05_0_0001_0073_Name^,^Azzar^
+^N_05_0_0001_0073_NameDetail^,^^
+^N_c01_Whale_001_Name^,^Sky Titan^
+^N_c01_Whale_001_NameDetail^,^^
+^N_c01_Toucan_001_Name^,^Scalleda^
+^N_c01_Toucan_001_NameDetail^,^^
+^N_c01_Bui_001_Name^,^Furnace^
+^N_c01_Bui_001_NameDetail^,^^
+^N_c01_HuMSha_001_Name^,^Titan Pilot^
+^N_c01_HuMSha_001_NameDetail^,^Onyx Order^
+^N_f02_HuMsol02_001_Name^,^Frozen Soldier's Soul^
+^N_f02_HuMsol02_001_NameDetail^,^^
+^N_C01_0_0001_0001_Name^,^Amelia^
+^N_C01_0_0001_0001_NameDetail^,^Hakanas Princess^
+^N_d02_HuMSha_001_Name^,^Zeloth^
+^N_d02_HuMSha_001_NameDetail^,^Onyx Order^
+^N_03_taming_0001_Name^,^Magic Stone of Domination^
+^N_03_taming_0001_NameDetail^,^^
+^N_d02_HuMMil_001_Name^,^Radus^
+^N_d02_HuMMil_001_NameDetail^,^Beast Trainer^
+^N_f03_Whale_001_Name^,^Sky Titan^
+^N_f03_Whale_001_NameDetail^,^^
+^N_05_0_0001_0074_Name^,^Skippus^
+^N_05_0_0001_0074_NameDetail^,^Sky Titan Captain^
+^N_03_0_0001_0209_Name^,^Kobin^
+^N_03_0_0001_0209_NameDetail^,^Sansupus Camp Transit Shrine Keeper^
+^N_03_0_0001_0210_Name^,^Kuff^
+^N_03_0_0001_0210_NameDetail^,^Hakanas Castle Transit Shrine Keeper^
+^N_c01_HuMMer_001_Name^,^Mirrhen^
+^N_c01_HuMMer_001_NameDetail^,^Armor Craft Merchant^
+^N_c01_HuMMer_002_Name^,^Hendricks^
+^N_c01_HuMMer_002_NameDetail^,^Alchemy Merchant^
+^N_c01_hufpub_001_Name^,^Angus^
+^N_c01_hufpub_001_NameDetail^,^Cooking Merchant^
+^N_c01_HuMMer_003_Name^,^Morrison^
+^N_c01_HuMMer_003_NameDetail^,^Weapon Craft Merchant^
+^N_c01_HuMMer_004_Name^,^Roben^
+^N_c01_HuMMer_004_NameDetail^,^Barder Craft Merchant^
+^N_c01_hufmer_001_Name^,^Ellia^
+^N_c01_hufmer_001_NameDetail^,^Jewelry Craft Merchant^
+^N_c01_HuMFar_001_Name^,^Gedriff^
+^N_c01_HuMFar_001_NameDetail^,^Master Craftsman Trainee^
+^N_f02_HuMmer4_001_Name^,^Jedury^
+^N_f02_HuMmer4_001_NameDetail^,^Shopkeep^
+^N_f02_HuFMer01_001_Name^,^Missha^
+^N_f02_HuFMer01_001_NameDetail^,^Shopkeep^
+^N_C01_0_0001_0008_Name^,^Rick^
+^N_C01_0_0001_0008_NameDetail^,^Duke's Grandson^
+^N_C01_0_0001_0009_Name^,^John Clakey^
+^N_C01_0_0001_0009_NameDetail^,^Kellwoods Villager^
+^N_C01_0_0001_0010_Name^,^Maris^
+^N_C01_0_0001_0010_NameDetail^,^Survivor^
+^N_C01_0_0001_0011_Name^,^Keersin^
+^N_C01_0_0001_0011_NameDetail^,^Dragon Knight^
+^N_C01_0_0001_0012_Name^,^Harry^
+^N_C01_0_0001_0012_NameDetail^,^Reindeer?^
+^N_C01_0_0001_0013_Name^,^Rena^
+^N_C01_0_0001_0013_NameDetail^,^Royal Knight^
+^N_C01_0_0001_0014_Name^,^Rena^
+^N_C01_0_0001_0014_NameDetail^,^Royal Knight^
+^N_C01_0_0001_0015_Name^,^Rena^
+^N_C01_0_0001_0015_NameDetail^,^Royal Knight^
+^N_C01_0_0001_0016_Name^,^Ive^
+^N_C01_0_0001_0016_NameDetail^,^Ruins Sentry^
+^N_C01_0_0001_0017_Name^,^Melwood^
+^N_C01_0_0001_0017_NameDetail^,^Novice Adventurer^
+^N_C01_0_0001_0018_Name^,^Mazis^
+^N_C01_0_0001_0018_NameDetail^,^Tanner^
+^N_C01_0_0001_0019_Name^,^Bruco^
+^N_C01_0_0001_0019_NameDetail^,^Onyx Order^
+^N_C01_0_0001_0020_Name^,^Bell^
+^N_C01_0_0001_0020_NameDetail^,^Inventor^
+^N_C01_0_0001_0021_Name^,^Grimm Golden^
+^N_C01_0_0001_0021_NameDetail^,^Survivalist^
+^N_C01_0_0001_0022_Name^,^Harmon^
+^N_C01_0_0001_0022_NameDetail^,^Field Magister^
+^N_c01_HuMsol_001_Name^,^Gareth Bane^
+^N_c01_HuMsol_001_NameDetail^,^Capital Guard^
+^N_C01_0_0001_0023_Name^,^Hidden Obelisk^
+^N_C01_0_0001_0023_NameDetail^,^^
+^N_C01_0_0001_0024_Name^,^Harry^
+^N_C01_0_0001_0024_NameDetail^,^Reindeer?^
+^N_C01_0_0001_0025_Name^,^Rick^
+^N_C01_0_0001_0025_NameDetail^,^Duke's Grandson^
+^N_f02_Board_0003_Name^,^Mission Board^
+^N_f02_Board_0003_NameDetail^,^^
+^N_f02_Board_0004_Name^,^Mission Board^
+^N_f02_Board_0004_NameDetail^,^^
+^N_f02_Board_0005_Name^,^Mission Board^
+^N_f02_Board_0005_NameDetail^,^Northern Watchtower^
+^N_f02_Board_0006_Name^,^Mission Board^
+^N_f02_Board_0006_NameDetail^,^Gilded Woods^
+^N_f02_Board_0007_Name^,^Mission Board^
+^N_f02_Board_0007_NameDetail^,^Broken Caldera^
+^N_f02_Board_0008_Name^,^Mission Board^
+^N_f02_Board_0008_NameDetail^,^Cemetery^
+^N_f02_Board_0009_Name^,^Mission Board^
+^N_f02_Board_0009_NameDetail^,^Guardian's Gate^
+^N_F09_0_0001_0001_Name^,^Phillip^
+^N_F09_0_0001_0001_NameDetail^,^Transit Shrine Keeper^
+^N_F09_0_0001_0002_Name^,^Xiona^
+^N_F09_0_0001_0002_NameDetail^,^General Merchant^
+^N_F09_0_0001_0003_Name^,^Recall Stone^
+^N_F09_0_0001_0003_NameDetail^,^^
+^N_F09_0_0001_0004_Name^,^Miller^
+^N_F09_0_0001_0004_NameDetail^,^Arms Merchant^
+^N_F09_0_0001_0005_Name^,^Ashlynn^
+^N_F09_0_0001_0005_NameDetail^,^Armorer^
+^N_F09_0_0001_0006_Name^,^Ray^
+^N_F09_0_0001_0006_NameDetail^,^Beast Trainer^
+^N_F09_0_0001_0007_Name^,^Mabina^
+^N_F09_0_0001_0007_NameDetail^,^Ray's Familiar^
+^N_F09_0_0001_0008_Name^,^Arthur^
+^N_F09_0_0001_0008_NameDetail^,^Mender^
+^N_F09_0_0001_0009_Name^,^Hall^
+^N_F09_0_0001_0009_NameDetail^,^Storage Master^
+^N_F09_0_0001_0010_Name^,^Mission Board^
+^N_F09_0_0001_0010_NameDetail^,^Garrison Camp^
+^N_F09_0_0001_0011_Name^,^Khandar'rahn^
+^N_F09_0_0001_0011_NameDetail^,^Laborer^
+^N_F09_0_0001_0012_Name^,^Private^
+^N_F09_0_0001_0012_NameDetail^,^Dragon Knight^
+^N_F09_0_0001_0013_Name^,^Sentinel^
+^N_F09_0_0001_0013_NameDetail^,^Dragon Knight^
+^N_F09_0_0001_0014_Name^,^Shock Trooper^
+^N_F09_0_0001_0014_NameDetail^,^Dragon Knight^
+^N_F09_0_0001_0015_Name^,^Bakir^
+^N_F09_0_0001_0015_NameDetail^,^Commander^
+^N_F09_0_0002_0001_Name^,^Harrison^
+^N_F09_0_0002_0001_NameDetail^,^World Shrine Keeper^
+^N_F09_0_0002_0002_Name^,^Kristina^
+^N_F09_0_0002_0002_NameDetail^,^General Merchant^
+^N_F09_0_0002_0003_Name^,^Recall Stone^
+^N_F09_0_0002_0003_NameDetail^,^^
+^N_F09_0_0002_0004_Name^,^Berrik^
+^N_F09_0_0002_0004_NameDetail^,^Arms Merchant^
+^N_F09_0_0002_0005_Name^,^Luis^
+^N_F09_0_0002_0005_NameDetail^,^Armorer^
+^N_F09_0_0002_0006_Name^,^Zess^
+^N_F09_0_0002_0006_NameDetail^,^Beast Trainer^
+^N_F09_0_0002_0007_Name^,^Queenie^
+^N_F09_0_0002_0007_NameDetail^,^Zess's Familiar^
+^N_F09_0_0002_0008_Name^,^William^
+^N_F09_0_0002_0008_NameDetail^,^Mender^
+^N_F09_0_0002_0009_Name^,^Hoyle^
+^N_F09_0_0002_0009_NameDetail^,^Storage Master^
+^N_F09_0_0002_0010_Name^,^Mission Board^
+^N_F09_0_0002_0010_NameDetail^,^Fort Baellas^
+^N_F09_0_0002_0011_Name^,^Rander^
+^N_F09_0_0002_0011_NameDetail^,^Market Broker^
+^N_F09_0_0002_0012_Name^,^Fuller^
+^N_F09_0_0002_0012_NameDetail^,^Weapon Master Craftsman^
+^N_F09_0_0002_0013_Name^,^Kit^
+^N_F09_0_0002_0013_NameDetail^,^Master Armorsmith^
+^N_F09_0_0002_0014_Name^,^Francin^
+^N_F09_0_0002_0014_NameDetail^,^Cook^
+^N_F09_0_0002_0015_Name^,^Bernyn^
+^N_F09_0_0002_0015_NameDetail^,^Alchemist^
+^N_F09_0_0002_0016_Name^,^Saddler^
+^N_F09_0_0002_0016_NameDetail^,^Master Jeweler^
+^N_F09_0_0002_0017_Name^,^Watson^
+^N_F09_0_0002_0017_NameDetail^,^Master Barder Crafter^
+^N_F09_0_0002_0018_Name^,^Crow^
+^N_F09_0_0002_0018_NameDetail^,^Onyx Order^
+^N_F09_0_0002_0019_Name^,^John Viper^
+^N_F09_0_0002_0019_NameDetail^,^Baellas Commander^
+^N_C01_0_0001_0026_Name^,^Linetta^
+^N_C01_0_0001_0026_NameDetail^,^Virtue^
+^N_C01_0_0001_0027_Name^,^Linetta^
+^N_C01_0_0001_0027_NameDetail^,^Virtue^
+^N_C01_0_0001_0028_Name^,^Linetta^
+^N_C01_0_0001_0028_NameDetail^,^Virtue^
+^N_C01_0_0001_0029_Name^,^Behain Skeron^
+^N_C01_0_0001_0029_NameDetail^,^Onyx Order^
+^N_C01_0_0001_0030_Name^,^Russell^
+^N_C01_0_0001_0030_NameDetail^,^General^
+^N_C01_0_0001_0031_Name^,^Homer^
+^N_C01_0_0001_0031_NameDetail^,^Mage Adept^
+^N_C01_0_0001_0032_Name^,^Homer^
+^N_C01_0_0001_0032_NameDetail^,^Mage Adept^
+^N_C01_0_0001_0033_Name^,^Blueton^
+^N_C01_0_0001_0033_NameDetail^,^Craftmaster^
+^N_C01_0_0001_0034_Name^,^Dragon Caldera Mission Board^
+^N_C01_0_0001_0034_NameDetail^,^Pegasus Knight^
+^N_C01_0_0001_0035_Name^,^Market District Mission Board^
+^N_C01_0_0001_0035_NameDetail^,^Hakain's Crossing^
+^N_F09_0_0002_0020_Name^,^Cynth Mayer^
+^N_F09_0_0002_0020_NameDetail^,^Onyx Order^
+^N_F09_0_0002_0021_Name^,^Tortus^
+^N_F09_0_0002_0021_NameDetail^,^Guard Captain^
+^N_F09_0_0003_0001_Name^,^Jennifer^
+^N_F09_0_0003_0001_NameDetail^,^^
+^N_F09_0_0003_0002_Name^,^Ferard^
+^N_F09_0_0003_0002_NameDetail^,^Onyx Order^
+^N_F09_0_0004_0001_Name^,^Jinta'rahn^
+^N_F09_0_0004_0001_NameDetail^,^Master Builder^
+^N_F09_0_0004_0002_Name^,^Mazu'rahn^
+^N_F09_0_0004_0002_NameDetail^,^Laborer^
+^N_F09_0_0004_0003_Name^,^Famku'shan^
+^N_F09_0_0004_0003_NameDetail^,^Laborer^
+^N_F09_0_0004_0004_Name^,^Juan^
+^N_F09_0_0004_0004_NameDetail^,^Familiar Guard^
+^N_F09_0_0004_0005_Name^,^Ku'kHat^
+^N_F09_0_0004_0005_NameDetail^,^Merchant^
+^N_F09_0_0001_0016_Name^,^Sorina^
+^N_F09_0_0001_0016_NameDetail^,^Dragon Knight Guard^
+^N_F09_0_0001_0017_Name^,^Zellan^
+^N_F09_0_0001_0017_NameDetail^,^Dragon Knight Guard^
+^N_p01_HuMmer_01_Name^,^Torio^
+^N_p01_HuMmer_01_NameDetail^,^Enigma Chest Coin Dealer^
+^N_F09_0_0001_0019_Name^,^Cavalry Private^
+^N_F09_0_0001_0019_NameDetail^,^Dragon Knight^
+^N_F09_0_0001_0020_Name^,^Sky Cavalry^
+^N_F09_0_0001_0020_NameDetail^,^Dragon Knight^
+^N_F09_0_0001_0023_Name^,^Mezaks^
+^N_F09_0_0001_0023_NameDetail^,^Missing Scholar^
+^N_F09_0_0005_0001_Name^,^Stefan^
+^N_F09_0_0005_0001_NameDetail^,^Mender^
+^N_F09_0_0005_0002_Name^,^Recall Stone^
+^N_F09_0_0005_0002_NameDetail^,^^
+^N_F09_0_0005_0003_Name^,^Yulian^
+^N_F09_0_0005_0003_NameDetail^,^Mender^
+^N_F09_0_0005_0004_Name^,^Recall Stone^
+^N_F09_0_0005_0004_NameDetail^,^^
+^N_f09_0_0002_0023_Name^,^Mission Board^
+^N_F09_0_0002_0023_NameDetail^,^^
+^N_HK1_0_9999_9002_Name^,^Baul^
+^N_HK1_0_9999_9002_NameDetail^,^Ghost^
+^N_CO1_0_9999_9003_Name^,^Jutren^
+^N_CO1_0_9999_9003_NameDetail^,^Baul's Heir^
+^N_c01_HuFSol01_006_Name^,^Latini^
+^N_c01_HuFSol01_006_NameDetail^,^Familiar Researcher^
+^N_F09_0_0005_0005_Name^,^Cross^
+^N_F09_0_0005_0005_NameDetail^,^Mender^
+^N_f02_Hummer_001_Name^,^Wilson^
+^N_f02_Hummer_001_NameDetail^,^Arms Merchant^
+^N_F16_0_0001_0001_Name^,^Clemence^
+^N_F16_0_0001_0001_NameDetail^,^Onyx Order^
+^N_C01_Kepley_001_Name^,^Rufala Teega^
+^N_C01_Kepley_001_NameDetail^,^Royal Priest^
+^N_F02_Rikapo_001_Name^,^Ricappo^
+^N_F02_Rikapo_001_NameDetail^,^Black and Tan Traders^
+^N_C01_guide_001_Name^,^O'Beaver^
+^N_C01_guide_001_NameDetail^,^Foothills Guide^
+^N_C01_guide_002_Name^,^O'Beaver^
+^N_C01_guide_002_NameDetail^,^Kellwoods Guide^
+^N_C01_guide_003_Name^,^O'Beaver^
+^N_C01_guide_003_NameDetail^,^Cemetery Guide^
+^N_C01_guide_004_Name^,^O'Beaver^
+^N_C01_guide_004_NameDetail^,^Zadaran Guide^
+^N_C01_guide_005_Name^,^O'Beaver^
+^N_C01_guide_005_NameDetail^,^Garrison Camp Guide^
+^N_C01_guide_006_Name^,^O'Beaver^
+^N_C01_guide_006_NameDetail^,^Construction Site Guide^
+^N_C01_guide_007_Name^,^O'Beaver^
+^N_C01_guide_007_NameDetail^,^Fort Baellas Guide^
+^N_C01_guide_008_Name^,^O'Beaver^
+^N_C01_guide_008_NameDetail^,^Reedwatch Guide^
+^N_C01_guide_009_Name^,^O'Beaver^
+^N_C01_guide_009_NameDetail^,^Garrison Camp Guide^
+^N_C01_guide_010_Name^,^O'Beaver^
+^N_C01_guide_010_NameDetail^,^Sacred Shallows Guide^
+^N_C01_guide_011_Name^,^O'Beaver^
+^N_C01_guide_011_NameDetail^,^Hakoora Guide^
+^N_f02_YFireBird_001_Name^,^Caldera Firebeak^
+^N_f02_YFireBird_001_NameDetail^,^Frayer's Familiar^
+^N_05_0_0001_0075_Name^,^Captain Blaider^
+^N_05_0_0001_0075_NameDetail^,^Tritael Rift Ferryman^
+^N_05_0_0001_0076_Name^,^Captain Blaider^
+^N_05_0_0001_0076_NameDetail^,^Tritael Rift Ferryman^
+^N_05_0_0001_0077_Name^,^Skippus^
+^N_05_0_0001_0077_NameDetail^,^Sky Titan Captain^
+^N_F09_0_0002_0024_Name^,^Nightmare^
+^N_F09_0_0002_0024_NameDetail^,^Crow's Familiar^
+^N_F09_0_0002_0025_Name^,^Clemence^
+^N_F09_0_0002_0025_NameDetail^,^Onyx Order Private^
+^N_f09_Smith_001_Name^,^Weapon Anvil^
+^N_f09_Smith_001_NameDetail^,^^
+^N_f09_Smith_002_Name^,^Armor Anvil^
+^N_f09_Smith_002_NameDetail^,^^
+^N_f09_Cook_001_Name^,^Cook Station^
+^N_f09_Cook_001_NameDetail^,^^
+^N_f09_Alchemy_001_Name^,^Alchemy Lab^
+^N_f09_Alchemy_001_NameDetail^,^^
+^N_f09_Accessory_001_Name^,^Jewelry Table^
+^N_f09_Accessory_001_NameDetail^,^^
+^N_f09_Fellow_001_Name^,^Barder Craft Table^
+^N_f09_Fellow_001_NameDetail^,^^
+^N_f09_rania_01_Name^,^Princess Lania^
+^N_f09_rania_01_NameDetail^,^^
+^N_C01_HuMNob_001_Name^,^Tyton^
+^N_C01_HuMNob_001_NameDetail^,^Market Broker^
+^N_c01_Event_cup_01_Name^,^Coach Empire^
+^N_c01_Event_cup_01_NameDetail^,^Awakened Empire Merchant^
+^N_c01_Event_cup_02_Name^,^Rice Cake Seller^
+^N_c01_Event_cup_02_NameDetail^,^Rice Cake Soup Merchant^
+^N_f09_0_0001_0024_Name^,^Buck Rabbini^
+^N_f09_0_0001_0024_NameDetail^,^Crescent Merchant Dispatcher^
+^N_c01_hufline_001_Name^,^Seratia^
+^N_c01_hufline_001_NameDetail^,^Ellora's Lion^
+^N_c01_Battle_01_Name^,^Arena Shrine^
+^N_c01_Battle_01_NameDetail^,^Arena^
+^N_02_5_0235_0006_Name^,^Arena Shrine^
+^N_02_5_0235_0006_NameDetail^,^To Lobby^
+^N_02_5_0235_0007_Name^,^Arena Shrine^
+^N_02_5_0235_0007_NameDetail^,^To Stands^
+^N_02_5_0235_0008_Name^,^Arena Shrine^
+^N_02_5_0235_0008_NameDetail^,^To City^
+^N_c01_UnionMaster_Name^,^Alliance Master^
+^N_c01_UnionMaster_NameDetail^,^Hakanas Official^
+^N_c01_RabMer01_002_Name^,^Phillipe Rabbini^
+^N_c01_RabMer01_002_NameDetail^,^Crescent Merchants^
+^N_F09_RabMer01_001_Name^,^Ellie Rabbini^
+^N_F09_RabMer01_001_NameDetail^,^Ellun Merchant^
+^N_c01_Battle_02_Name^,^Recall Shrine^
+^N_c01_Battle_02_NameDetail^,^Hakain's Crossing^
+^N_02_5_0235_0010_Name^,^Transit Shrine^
+^N_02_5_0235_0010_NameDetail^,^East Lobby^
+^N_02_5_0235_0011_Name^,^Transit Shrine^
+^N_02_5_0235_0011_NameDetail^,^East Stadium^
+^N_02_5_0235_0012_Name^,^Transit Shrine^
+^N_02_5_0235_0012_NameDetail^,^East Stands^
+^N_02_5_0235_0013_Name^,^Transit Shrine^
+^N_02_5_0235_0013_NameDetail^,^East Lobby^
+^N_02_5_0235_0014_Name^,^Transit Shrine^
+^N_02_5_0235_0014_NameDetail^,^West Lobby^
+^N_02_5_0235_0015_Name^,^Transit Shrine^
+^N_02_5_0235_0015_NameDetail^,^West Stadium^
+^N_02_5_0235_0016_Name^,^Transit Shrine^
+^N_02_5_0235_0016_NameDetail^,^West Stands^
+^N_02_5_0235_0017_Name^,^Transit Shrine^
+^N_02_5_0235_0017_NameDetail^,^West Lobby^
+^N_02_5_0235_0018_Name^,^Transit Shrine^
+^N_02_5_0235_0018_NameDetail^,^East Stands^
+^N_02_5_0235_0019_Name^,^Transit Shrine^
+^N_02_5_0235_0019_NameDetail^,^West Stands^
+^N_d02_Portal_01_Name^,^Interstellar Warp Gate^
+^N_d02_Portal_01_NameDetail^,^Sinthan's Underground Storage^
+^N_c01_UnionMes_001_Name^,^Kaladin^
+^N_c01_UnionMes_001_NameDetail^,^Alliance War Messenger^
+^N_c01_RabEve01_001_Name^,^Clinton Rabbini^
+^N_c01_RabEve01_001_NameDetail^,^Legendary Karasha Junior Merchant^
+^N_c01_RabEve01_002_Name^,^Easter Bunny Rabbini^
+^N_c01_RabEve01_002_NameDetail^,^Easter Event NPC^
+^N_c01_RabEve01_003_Name^,^Carroll Rabbini^
+^N_c01_RabEve01_003_NameDetail^,^Cloak Voucher Merchant^
+^N_c01_RabEve01_004_Name^,^Christian Rabbini^
+^N_c01_RabEve01_004_NameDetail^,^Golden Medal Merchant^
+^N_c01_SantaEve_001_Name^,^Merry^
+^N_c01_SantaEve_001_NameDetail^,^Christmas Fairy^
+^N_c01_Snowman_001_Name^,^Snowman^
+^N_c01_Snowman_001_NameDetail^,^Christmas Event^
+^N_c01_RabEve02_001_Name^,^Clement Rabbini^
+^N_c01_RabEve02_001_NameDetail^,^Crescent Merchants^
+^N_c01_RabEve02_002_Name^,^Clement Rabbini^
+^N_c01_RabEve02_002_NameDetail^,^Crescent Merchants^
+^N_c01_RabEve02_003_Name^,^Clement Rabbini^
+^N_c01_RabEve02_003_NameDetail^,^Crescent Merchants^
+^N_C01_Fellow_1_Name^,^Glendor^
+^N_C01_Fellow_1_NameDetail^,^Beast Trainer^
+^N_C01_Fellow_2_Name^,^Kilbeg^
+^N_C01_Fellow_2_NameDetail^,^Glendor's Familiar^
+^N_c01_RabEve03_001_Name^,^Rex Rabbini^
+^N_c01_RabEve03_001_NameDetail^,^Crescent Merchants^
+^n_c01_whiterab_01_Name^,^Riley Rabbini^
+^n_c01_whiterab_01_NameDetail^,^Crescent Merchants^
+^n_f02_altemeer_01_Name^,^Speedy Altemir^
+^n_f02_altemeer_01_NameDetail^,^Arcanum Mage^
+^n_f02_cichlid_01_Name^,^Contemplative Siclid^
+^n_f02_cichlid_01_NameDetail^,^Arcanum Mage^
+^n_f02_hazran_01_Name^,^Tranquil Hazran^
+^n_f02_hazran_01_NameDetail^,^Arcanum Mage^
+^N_C01_Fellow_3_Name^,^Jaynan^
+^N_C01_Fellow_3_NameDetail^,^Beast Trainer^
+^N_C01_Fellow_4_Name^,^Lavashell^
+^N_C01_Fellow_4_NameDetail^,^Jaynan's Familiar^
+^N_C01_Fellow_5_Name^,^Weid^
+^N_C01_Fellow_5_NameDetail^,^Beast Trainer^
+^N_C01_Fellow_6_Name^,^Sanos^
+^N_C01_Fellow_6_NameDetail^,^Weid's Familiar^
+^N_c01_HuM_10_Name^,^Jed^
+^N_c01_HuM_10_NameDetail^,^Storage Master^
+^N_c01_event_01_Name^,^Rabbini Aruni^
+^N_c01_event_01_NameDetail^,^Crescent Merchants^
+^N_c01_event_02_Name^,^Rex Rabbini^
+^N_c01_event_02_NameDetail^,^Crescent Merchants^
+^N_c01_durang_01_Name^,^Dewrang^
+^N_c01_durang_01_NameDetail^,^Finance Minister^
+^n_c01_hufyd_01_Name^,^Asteria^
+^n_c01_hufyd_01_NameDetail^,^^
+^n_G01_Lynd_01_Name^,^Mage Lind^
+^n_G01_Lynd_01_NameDetail^,^Guard^
+^n_G01_Sande_01_Name^,^Mage Sand^
+^n_G01_Sande_01_NameDetail^,^Guard^
+^N_G01_Spi_01_Name^,^Guild Guide Spee^
+^N_G01_Spi_01_NameDetail^,^Guild Guide^
+^N_G01_Knight_01_Name^,^High-ranked Soldier^
+^N_G01_Knight_01_NameDetail^,^Guard^
+^N_G01_HuMFar_01_Name^,^Baceh^
+^N_G01_HuMFar_01_NameDetail^,^Storage Master^
+^N_G01_HuMNob_01_Name^,^Chief^
+^N_G01_HuMNob_01_NameDetail^,^Market Broker^
+^N_G01_weapon_01_Name^,^Weapon Anvil^
+^N_G01_weapon_01_NameDetail^,^^
+^N_G01_amor_01_Name^,^Armor Anvil^
+^N_G01_amor_01_NameDetail^,^^
+^N_G01_Cook_01_Name^,^Cooking Station^
+^N_G01_Cook_01_NameDetail^,^^
+^N_G01_Alchemy_01_Name^,^Lab Equipment Crafting Station^
+^N_G01_Alchemy_01_NameDetail^,^^
+^N_G01_Accessory_01_Name^,^Jewelry Table^
+^N_G01_Accessory_01_NameDetail^,^^
+^N_G01_Fellow_01_Name^,^Barder Craft Table^
+^N_G01_Fellow_01_NameDetail^,^^
+^N_G01_weapon_02_Name^,^Master Weaponsmith Cutting^
+^N_G01_weapon_02_NameDetail^,^Guild Crafting Station^
+^N_G01_amor_02_Name^,^Master Armorsmith Brack^
+^N_G01_amor_02_NameDetail^,^Guild Crafting Station^
+^N_G01_Cook_02_Name^,^Master Chef Eeting^
+^N_G01_Cook_02_NameDetail^,^Guild Crafting Station^
+^N_G01_Alchemy_02_Name^,^Experiment Master Chemi^
+^N_G01_Alchemy_02_NameDetail^,^Guild Crafting Station^
+^N_G01_Accessory_02_Name^,^Jewelry Master Jewal^
+^N_G01_Accessory_02_NameDetail^,^Guild Crafting Station^
+^N_G01_Fellow_02_Name^,^Master Barder Crafter Tanda^
+^N_G01_Fellow_02_NameDetail^,^Guild Crafting Station^
+^N_c01_potal_200_Name^,^Guild Room Transportation Shrine^
+^N_c01_potal_200_NameDetail^,^^
+^n_g01_portal_100_Name^,^Regional Transit Shrine^
+^n_g01_portal_100_NameDetail^,^Exarahn Badlands^
+^N_C01_Elisha_01_Name^,^Elisa^
+^N_C01_Elisha_01_NameDetail^,^Carver^
+^n_g01_0_0001_Name^,^Pitero^
+^n_g01_0_0001_NameDetail^,^PvP Consumables Merchant^
+^n_g01_0_0002_Name^,^Pelkain^
+^n_g01_0_0002_NameDetail^,^Alliance War Merchant^
+^N_c01_Event_101_Name^,^Glass^
+^N_c01_Event_101_NameDetail^,^^
+^n_c01_hufyd_02_Name^,^Asteria^
+^n_c01_hufyd_02_NameDetail^,^^
+^N_C01_Eldreea_01_Name^,^Eldrea^
+^N_C01_Eldreea_01_NameDetail^,^Premium Shop^
+^n_g01_portal_200_Name^,^Regional Transit Shrine^
+^n_g01_portal_200_NameDetail^,^Stygaea^
+^N_C01_KprRabini_01_Name^,^So Ring Rabbini^
+^N_C01_KprRabini_01_NameDetail^,^With a thankful heart^
+^N_F02_Saku_01_Name^,^Sakupiri of Sturdiness^
+^N_F02_Saku_01_NameDetail^,^Arcanum Mage^
+^N_F03_Aoust_01_Name^,^Aoust of Lenity^
+^N_F03_Aoust_01_NameDetail^,^Arcanum Mage^
+^N_F04_Marusia_01_Name^,^Marusia of Caprice^
+^N_F04_Marusia_01_NameDetail^,^Arcanum Mage^
+^N_F05_siberes_01_Name^,^Silberes of Full Moon^
+^N_F05_siberes_01_NameDetail^,^Arcanum Mage^
+^N_F05_Beatrech_01_Name^,^Beatrech of Anguish^
+^N_F05_Beatrech_01_NameDetail^,^Arcanum Mage^
+^N_F07_Naguieru_01_Name^,^Naguieru of Paradox^
+^N_F07_Naguieru_01_NameDetail^,^Arcanum Mage^
+^N_C01_Trans_01_Name^,^Arkseram^
+^N_C01_Trans_01_NameDetail^,^Transcending Stone Merchant^
+^N_C01_MoonRabit_1_Name^,^Moon Rabbit Rabbini^
+^N_C01_MoonRabit_1_NameDetail^,^^
+^N_C01_Wishmortar_1_Name^,^Wish Mortar^
+^N_C01_Wishmortar_1_NameDetail^,^^
+^N_C01_HuMCap_01_Name^,^Captain Roshidan^
+^N_C01_HuMCap_01_NameDetail^,^Akrat Plains Contact^
+^N_c01_event_03_Name^,^Rabbini Crusoe^
+^N_c01_event_03_NameDetail^,^Crescent Shop^
+^N_c01_event_04_Name^,^Rex Rabbini^
+^N_c01_event_04_NameDetail^,^Grow-up Together Event^
+^N_c01_dailyquest_01_Name^,^Aubergine Rabbini^
+^N_c01_dailyquest_01_NameDetail^,^YD Coin Provider^
+^N_c01_dailyquest_02_Name^,^Marani Rabbini^
+^N_c01_dailyquest_02_NameDetail^,^YD Coin Provider^
+^n_f01_afreeca_1_Name^,^Rica^
+^n_f01_afreeca_1_NameDetail^,^Africa TV Event^
+^n_c01_afreeca_1_Name^,^Rica^
+^n_c01_afreeca_1_NameDetail^,^Africa TV Event^
+^n_f01_board_1_Name^,^Event Board^
+^n_f01_board_1_NameDetail^,^^
+^n_c01_board_1_Name^,^Event Board^
+^n_c01_board_1_NameDetail^,^^
+^N_G01_RabMer01_01_Name^,^LaraRing Rabbini^
+^N_G01_RabMer01_01_NameDetail^,^Guild Premium Shop^
+^N_G02_RabMer01_01_Name^,^Lorori Rabbini^
+^N_G02_RabMer01_01_NameDetail^,^Guild Premium Shop^
+^N_G03_RabMer01_01_Name^,^Paririn Rabbini^
+^N_G03_RabMer01_01_NameDetail^,^Guild Premium Shop^
+^N_G01_Master_01_Name^,^Guild Master Lumen^
+^N_G01_Master_01_NameDetail^,^Hakanas Assembly^
+^N_G02_Fellow_01_Name^,^Cloelle^
+^N_G02_Fellow_01_NameDetail^,^Familiar Tamer^
+^n_g02_portal_100_Name^,^Region Warp Portal^
+^n_g02_portal_100_NameDetail^,^Exarahn Badlands^
+^n_g02_portal_200_Name^,^Region Warp Portal^
+^n_g02_portal_200_NameDetail^,^Akeron Badlands^
+^n_g03_portal_100_Name^,^Region Warp Portal^
+^n_g03_portal_100_NameDetail^,^Exarahn Badlands^
+^n_g03_portal_200_Name^,^Region Warp Portal^
+^n_g03_portal_200_NameDetail^,^Akeron Badlands^
+^n_c01_guildportal_1_Name^,^Warp Portal^
+^n_c01_guildportal_1_NameDetail^,^Guild Room^
+^n_c01_guildquest_1_Name^,^Ard^
+^n_c01_guildquest_1_NameDetail^,^Wizard of Truth^
+^N_G02_Spi_01_Name^,^Spi^
+^N_G02_Spi_01_NameDetail^,^Guild Guide^
+^N_G03_Spi_01_Name^,^Spi^
+^N_G03_Spi_01_NameDetail^,^Guild Guide^
+^N_G01_beriana_01_Name^,^Beriana^
+^N_G01_beriana_01_NameDetail^,^Guild Room For Rent Merchant^
+^N_C01_kaili_01_Name^,^Kylie^
+^N_C01_kaili_01_NameDetail^,^^
+^N_C01_GFried_01_Name^,^Docinho^
+^N_C01_GFried_01_NameDetail^,^HP 2k^
+^N_C01_GFried_02_Name^,^Lindinha^
+^N_C01_GFried_02_NameDetail^,^Rare Drop 10%^
+^N_C01_GFried_03_Name^,^Yuju^
+^N_C01_GFried_03_NameDetail^,^GFriend^
+^N_C01_GFried_04_Name^,^Florzinha^
+^N_C01_GFried_04_NameDetail^,^Overall Atk 5% Def 5%^
+^n_c01_evedevy_01_Name^,^Sweet Daveen^
+^n_c01_evedevy_01_NameDetail^,^Valentine's Day Event^
+^n_c01_board_2_Name^,^Event Board^
+^n_c01_board_2_NameDetail^,^^
+^n_c01_rabishop_01_Name^,^PopoRing Rabbini^
+^n_c01_rabishop_01_NameDetail^,^Ancient Coin Exchange Merchant^
+^N_F96_Master_01_Name^,^Egratt^
+^N_F96_Master_01_NameDetail^,^Farm Manager^
+^N_F96_Fellow_01_Name^,^Lumien^
+^N_F96_Fellow_01_NameDetail^,^Beast Trainer^
+^N_F96_Daillys_01_Name^,^Daryl^
+^N_F96_Daillys_01_NameDetail^,^Familiar Tamer^
+^N_F96_Master_02_Name^,^Egratt^
+^N_F96_Master_02_NameDetail^,^Farm Manager^
+^n_c01_relic_01_Name^,^Erwin^
+^n_c01_relic_01_NameDetail^,^Relic Identifier^
+^n_t01_0_001_Name^,^Cadet^
+^n_t01_0_001_NameDetail^,^^
+^n_t01_0_002_Name^,^Bishop^
+^n_t01_0_002_NameDetail^,^^
+^n_t01_0_003_Name^,^Priest^
+^n_t01_0_003_NameDetail^,^^
+^n_t01_0_004_Name^,^Lena^
+^n_t01_0_004_NameDetail^,^Princess Guard^
+^n_t01_0_005_Name^,^Tortus^
+^n_t01_0_005_NameDetail^,^Chief Escort^
+^n_t01_0_006_Name^,^Teiker^
+^n_t01_0_006_NameDetail^,^Familiar Janitor^
+^n_t01_0_007_Name^,^Kuat^
+^n_t01_0_007_NameDetail^,^Quartermaster^
+^n_t01_0_008_Name^,^Hakanas Soldier^
+^n_t01_0_008_NameDetail^,^^
+^n_t01_0_009_Name^,^Tortus^
+^n_t01_0_009_NameDetail^,^Chief Escort^
+^n_t01_0_010_Name^,^Laerin^
+^n_t01_0_010_NameDetail^,^Ore School Headmaster^
+^n_t01_0_011_Name^,^Eric^
+^n_t01_0_011_NameDetail^,^Knowledgeable Merchant^
+^n_na_make_1_Name^,^Workshop Mark(Equipment)^
+^n_na_make_1_NameDetail^,^^
+^n_na_make_2_Name^,^Workshop Mark(Familiar)^
+^n_na_make_2_NameDetail^,^^
+^n_na_make_3_Name^,^Workshop Mark(Alchemy)^
+^n_na_make_3_NameDetail^,^^
+^n_na_make_4_Name^,^Workshop Mark(Accessory)^
+^n_na_make_4_NameDetail^,^^
+^n_na_make_5_Name^,^Workshop Mark(Food)^
+^n_na_make_5_NameDetail^,^^
+^n_na_make_6_Name^,^Workshop Mark(Weapon)^
+^n_na_make_6_NameDetail^,^^
+^n_na_make_7_Name^,^Workshop Mark(Armor)^
+^n_na_make_7_NameDetail^,^^
+^n_c01_portal_15_Name^,^Laerin's Warp Portal^
+^n_c01_portal_15_NameDetail^,^^
+^n_c01_event_05_Name^,^ConjuRing Rabbini^
+^n_c01_event_05_NameDetail^,^Haunted House Event^
+^n_c01_event_06_Name^,^Merville^
+^n_c01_event_06_NameDetail^,^Haunted House Owner^
+^n_e01_event_01_Name^,^Phantom^
+^n_e01_event_01_NameDetail^,^Mysterious Wizard^
+^n_e01_portal_01_Name^,^Phantom-opened Dimensional Gate^
+^n_e01_portal_01_NameDetail^,^^
+^n_e01_portal_02_Name^,^Phantom-opened Dimensional Gate^
+^n_e01_portal_02_NameDetail^,^^
+^n_e01_portal_1_Name^,^Holly Stone of Light^
+^n_e01_portal_1_NameDetail^,^To dungeon entrance^
+^N_c01_RabEve_03_002_Name^,^Watermelon Rabbini^
+^N_c01_RabEve_03_002_NameDetail^,^Golden Watermelon Event^
+^n_e01_event_02_Name^,^Curious Bluffer^
+^n_e01_event_02_NameDetail^,^^
+^n_e01_event_03_Name^,^Enthusiastic Warrior^
+^n_e01_event_03_NameDetail^,^^
+^n_e01_event_04_Name^,^Greedy Collector^
+^n_e01_event_04_NameDetail^,^^
+^n_e01_event_05_Name^,^Self-sacrificing Woman^
+^n_e01_event_05_NameDetail^,^Manor Maid^
+^n_e01_event_06_Name^,^Merville's Mercenary Employee^
+^n_e01_event_06_NameDetail^,^^
+^n_c01_jeolra_001_Name^,^Jeolra^
+^n_c01_jeolra_001_NameDetail^,^Growth Helper^
+^N_F96_ummer_Name^,^Ummer^
+^N_F96_ummer_NameDetail^,^Portable Storage Master^
+^n_e01_event_07_Name^,^Aruah^
+^n_e01_event_07_NameDetail^,^Barave Healer^
+^n_c01_0_banira_0001_Name^,^Bunny Rabbini^
+^n_c01_0_banira_0001_NameDetail^,^Crescent Market Brokers^
+^N_F96_Upgrade_01_Name^,^Daisy^
+^N_F96_Upgrade_01_NameDetail^,^Upgrading the Farm^
+^N_F96_Adventure_01_Name^,^Familiar Adventure Board^
+^N_F96_Adventure_01_NameDetail^,^^
+^N_F96_Fishboard_Name^,^Fishing Hole Bulletin Board^
+^N_F96_Fishboard_NameDetail^,^^
+^N_F96_Fishshop_01_Name^,^Reath^
+^N_F96_Fishshop_01_NameDetail^,^Fishing Merchant^
+^n_c01_0_0001_0036_Name^,^Wizman^
+^n_c01_0_0001_0036_NameDetail^,^Wise Man^
+^n_c01_saiki_01_Name^,^Saiki^
+^n_c01_saiki_01_NameDetail^,^ShaRing Ambassador^
+^n_c01_arousal_01_Name^,^Aru^
+^n_c01_arousal_01_NameDetail^,^Weapon Awakening Expert^
+^n_c01_rabini_rudol_Name^,^Rabbini Rudolping^
+^n_c01_rabini_rudol_NameDetail^,^Christmas Event^
+^N_C01_Mentor_01_Name^,^Haman^
+^N_C01_Mentor_01_NameDetail^,^MentoRing Master^
+^n_c01_0_banira_0002_Name^,^Rabbini Ruina^
+^n_c01_0_banira_0002_NameDetail^,^Crescent top^
+^N_D96_Route_1001_Name^,^Day Dungeon Monday Check Route^
+^N_D96_Route_1001_NameDetail^,^^
+^N_D96_Route_1002_Name^,^Day Dungeon Tuesday Check Route^
+^N_D96_Route_1002_NameDetail^,^^
+^N_D96_Route_1003_Name^,^Day Dungeon Wednesday Check Route^
+^N_D96_Route_1003_NameDetail^,^^
+^N_D96_Route_1004_Name^,^Day Dungeon Thursday Check Route^
+^N_D96_Route_1004_NameDetail^,^^
+^N_D96_Route_1005_Name^,^Day Dungeon Friday Check Route^
+^N_D96_Route_1005_NameDetail^,^^
+^N_D96_Route_1006_Name^,^Day Dungeon Saturday Check Route^
+^N_D96_Route_1006_NameDetail^,^^
+^N_D96_Route_1007_Name^,^Day Dungeon Sunday Check Route^
+^N_D96_Route_1007_NameDetail^,^^
+^N_D96_Route_1101_Name^,^Day Dungeon Time Check 1^
+^N_D96_Route_1101_NameDetail^,^^
+^N_D96_Route_1102_Name^,^Day Dungeon Time Check 2^
+^N_D96_Route_1102_NameDetail^,^^
+^N_D96_Route_1103_Name^,^Day Dungeon Time Check 3^
+^N_D96_Route_1103_NameDetail^,^^
+^N_D96_Route_1104_Name^,^Day Dungeon Time Check 4^
+^N_D96_Route_1104_NameDetail^,^^
+^N_D96_Route_1105_Name^,^Day Dungeon Time Check 5^
+^N_D96_Route_1105_NameDetail^,^^
+^N_D96_Route_1106_Name^,^Day Dungeon Time Check 6^
+^N_D96_Route_1106_NameDetail^,^^
+^N_D96_Route_2001_Name^,^Route Check_Therapist^
+^N_D96_Route_2001_NameDetail^,^^
+^N_D96_Route_2002_Name^,^Route Check_Rabbini Akuma^
+^N_D96_Route_2002_NameDetail^,^^
+^N_D96_Route_2003_Name^,^Route Check_Mimic^
+^N_D96_Route_2003_NameDetail^,^^
+^N_D96_Route_2004_Name^,^Route Check_Enhanced Mimic^
+^N_D96_Route_2004_NameDetail^,^^
+^N_D96_Route_2005_Name^,^Route Check_scurrilous Man^
+^N_D96_Route_2005_NameDetail^,^^
+^N_D96_1_0001_Name^,^Watta^
+^N_D96_1_0001_NameDetail^,^Questioner^
+^N_D96_1_0002_Name^,^Rabbini Akuma^
+^N_D96_1_0002_NameDetail^,^Treasure Hunter^
+^N_D96_1_0003_Name^,^Konata^
+^N_D96_1_0003_NameDetail^,^Scurrilous Man^
+^N_D96_1_0004_Name^,^Wounded soldier^
+^N_D96_1_0004_NameDetail^,^^
+^N_D96_1_0005_Name^,^A blind man with money^
+^N_D96_1_0005_NameDetail^,^^
+^N_D96_Portal_re_Name^,^Teleport Shrine^
+^N_D96_Portal_re_NameDetail^,^Hadakan King's Treasure Room^
+^N_D96_Portal_out_Name^,^Underground labyrinth entrance^
+^N_D96_Portal_out_NameDetail^,^^
+^N_D96_1_0006_Name^,^Reginald^
+^N_D96_1_0006_NameDetail^,^Mysterious Investigation Team^
+^N_D96_1_0007_Name^,^Ichica^
+^N_D96_1_0007_NameDetail^,^The labyrinth Guide Team^
+^N_D96_1_0008_Name^,^Fleury^
+^N_D96_1_0008_NameDetail^,^Labyrinth Therapist^
+^N_D96_1_0009_Name^,^Elle^
+^N_D96_1_0009_NameDetail^,^Labyrinth Dissemination Unit^
+^N_D96_1_0010_Name^,^Injured Investigative Unit^
+^N_D96_1_0010_NameDetail^,^Mysterious Investigation Team^
+^N_D96_1_0011_Name^,^Probation Therapist^
+^N_D96_1_0011_NameDetail^,^Labyrinth Therapist^
+^N_D96_1_0012_Name^,^Doubtful Investigation Unit^
+^N_D96_1_0012_NameDetail^,^Mysterious Investigation Team^
+^N_D96_1_0013_Name^,^Apprentice Therapist^
+^N_D96_1_0013_NameDetail^,^Labyrinth Therapist^
+^N_D96_1_0014_Name^,^Hakanas supply crew^
+^N_D96_1_0014_NameDetail^,^Labyrinth Dissemination Unit^
+^N_D96_1_0015_Name^,^Archaeologist^
+^N_D96_1_0015_NameDetail^,^Mysterious Investigation Team^
+^N_D96_1_0016_Name^,^A prominent historian^
+^N_D96_1_0016_NameDetail^,^Mysterious Investigation Team^
+^N_D96_1_0017_Name^,^Adventure King Rookie Rookie^
+^N_D96_1_0017_NameDetail^,^Mysterious Investigation Team^
+^N_D96_1_0018_Name^,^Engineer Oplane^
+^N_D96_1_0018_NameDetail^,^Space Mover^
+^N_D96_1_0019_Name^,^Scholar Garen^
+^N_D96_1_0019_NameDetail^,^Labyrinth Director^
+^N_D96_1_0020_Name^,^Engineer Oplane^
+^N_D96_1_0020_NameDetail^,^Space Mover^
+^N_C01_E04_Fellow_1_Name^,^Glendor^
+^N_C01_E04_Fellow_1_NameDetail^,^Beast Trainer^
+^N_D96_Portal_END_Name^,^Entrance Teleport Device^
+^N_D96_Portal_END_NameDetail^,^Go to the Underground Labyrinth Entrance^
+^N_F02_rabini_001_Name^,^Rabbini Yukari^
+^N_F02_rabini_001_NameDetail^,^^
+^N_F03_rabini_001_Name^,^Rabbini Blooming^
+^N_F03_rabini_001_NameDetail^,^^
+^N_D96_1_0021_Name^,^Bullhead Borough^
+^N_D96_1_0021_NameDetail^,^^
+^N_D96_1_0022_Name^,^The fallen bishop Kai Shiku^
+^N_D96_1_0022_NameDetail^,^^
+^IN_c01_summerev_001_Name^,^Duck Boat^
+^IN_c01_summerev_001_NameDetail^,^^
+^IN_c01_summerev_002_Name^,^Watermelon^
+^IN_c01_summerev_002_NameDetail^,^^
+^IN_c01_summerev_003_Name^,^Public Banners^
+^IN_c01_summerev_003_NameDetail^,^^
+^N_f01_storage_001_Name^,^Handison^
+^N_f01_storage_001_NameDetail^,^Storage Master^
+^N_f01_storage_002_Name^,^Simon^
+^N_f01_storage_002_NameDetail^,^Storage Master^
+^N_f01_HuMNob_001_Name^,^Hasan^
+^N_f01_HuMNob_001_NameDetail^,^Auction Broker^
+^n_d96_board_01_Name^,^Underground Labyrinth Board^
+^n_d96_board_01_NameDetail^,^Dungeon Rewards Board^
+^n_f15_e01_board_01_Name^,^Gusting Isles Board^
+^n_f15_e01_board_01_NameDetail^,^Dungeon Rewards Board^
+^n_f16_board_01_Name^,^Attaius Peak Board^
+^n_f16_board_01_NameDetail^,^Dungeon Rewards Board^
+^n_c01_gmrab_001_Name^,^Rabbini Debagi^
+^n_c01_gmrab_001_NameDetail^,^GM Event^
+^n_c01_puppyev_01_Name^,^Revolution^
+^n_c01_puppyev_01_NameDetail^,^Little Puppy Butler^
+^n_c01_puppyev_02_Name^,^SpRing^
+^n_c01_puppyev_03_Name^,^Summer^
+^n_c01_puppyev_04_Name^,^Winter^
+^n_c01_in_01_Name^,^Crow^
+^n_c01_in_01_NameDetail^,^Onyx Order Commander^
+^n_c01_in_02_Name^,^Tortus^
+^n_c01_in_02_NameDetail^,^Guard Captain^
+^n_c01_in_03_Name^,^Rondo Terramunce^
+^n_c01_in_03_NameDetail^,^^
+^n_c01_in_04_Name^,^Chapley Singer^
+^n_c01_in_04_NameDetail^,^Dragon Knight Priest^
+^n_c01_in_05_Name^,^Valence^
+^n_c01_in_05_NameDetail^,^Defensive Captain^
+^n_c01_in_06_Name^,^Bonus^
+^n_c01_in_06_NameDetail^,^Security Officer^
+^n_c01_in_07_Name^,^Hakanas Elite Guard^
+^n_c01_in_07_NameDetail^,^^
+^n_c01_in_08_Name^,^Hakanas Militia^
+^n_c01_in_08_NameDetail^,^^
+^n_c01_in_09_Name^,^Hakanas Elite Garrison^
+^n_c01_in_09_NameDetail^,^^
+^n_c01_in_10_Name^,^Yulnus^
+^n_c01_in_10_NameDetail^,^Great Wizard^
+^n_c01_in_11_Name^,^Hakanas Aerial Guards^
+^n_c01_in_11_NameDetail^,^^
+^n_c01_in_12_Name^,^Daph^
+^n_c01_in_12_NameDetail^,^Advanced Wizard^
+^n_c01_victory_01_Name^,^Ronfraine's Feast^
+^n_c01_victory_01_NameDetail^,^^
+^n_c01_in_route_19_Name^,^Salant's Combat Enhancer^
+^n_c01_in_route_19_NameDetail^,^^
+^n_c01_in_route_22_Name^,^Salant's Combat Enhancer^
+^n_c01_in_route_22_NameDetail^,^^
+^n_c01_in_route_23_Name^,^Salant's Combat Enhancer^
+^n_c01_in_route_23_NameDetail^,^^
+^n_c01_in_route_24_Name^,^Salant's Combat Enhancer^
+^n_c01_in_route_24_NameDetail^,^^
+^n_c01_in_route_25_Name^,^Salant's Combat Enhancer^
+^n_c01_in_route_25_NameDetail^,^^
+^n_c01_in_route_26_Name^,^Salant's Combat Enhancer^
+^n_c01_in_route_26_NameDetail^,^^
+^n_c01_in_route_27_Name^,^Salant's Combat Enhancer^
+^n_c01_in_route_27_NameDetail^,^^
+^n_c01_in_route_28_Name^,^Salant's Combat Enhancer^
+^n_c01_in_route_28_NameDetail^,^^
+^n_c01_in_13_Name^,^Arin^
+^n_c01_in_13_NameDetail^,^Court Cook^
+^n_c01_healbunny_01_Name^,^Rabbini Hill Picky^
+^n_c01_healbunny_01_NameDetail^,^Stronghold Transition^
+^n_f02_spotshop_0_Name^,^Ridge^
+^n_f02_spotshop_0_NameDetail^,^Kellwoods Stronghold Trader^
+^n_f02_spotshop_1_Name^,^Kisan^
+^n_f02_spotshop_1_NameDetail^,^Foothills Stronghold Trader^
+^n_f02_spotshop_2_Name^,^Henges^
+^n_f02_spotshop_2_NameDetail^,^Zadaran Stronghold Trader^
+^n_f02_spotshop_3_Name^,^Himzuck^
+^n_f02_spotshop_3_NameDetail^,^Gilded Woods Stronghold Trader^
+^n_f02_spotshop_4_Name^,^Minus^
+^n_f02_spotshop_4_NameDetail^,^Sansupus Ranch Stronghold Trader^
+^n_c01_action_001_Name^,^Kaiyu^
+^n_c01_action_001_NameDetail^,^Sales Agents Broker^
+^n_c01_newitemrab_01_Name^,^Rabbini Ongi^
+^n_c01_newitemrab_01_NameDetail^,^New Item Merchant^
+^n_c01_xmaspuppy_01_Name^,^Hyuk -yi^
+^n_c01_xmaspuppy_01_NameDetail^,^Christmas event^
+^n_c01_xmaspuppy_02_Name^,^Snowflake^
+^n_c01_xmaspuppy_02_NameDetail^,^^
+^n_f09_xmasrab_01_Name^,^Santa Labis Mas^
+^n_f09_xmasrab_01_NameDetail^,^Christmas event^
+^n_f09_rudol_01_Name^,^Rudolf^
+^n_f09_rudol_01_NameDetail^,^^
+^n_f09_xmasrab_02_Name^,^Ravini Rudolpu^
+^n_f09_xmasrab_02_NameDetail^,^Christmas event^
+^n_f09_xmasrab_03_Name^,^Ravini Fairy^
+^n_f09_xmasrab_03_NameDetail^,^Christmas event^
+^n_c01_olympic_001_Name^,^Half -moon^
+^n_c01_olympic_001_NameDetail^,^Winter Big! Athletic event^
+^n_c01_olympic_002_Name^,^tiger^
+^n_c01_olympic_002_NameDetail^,^Winter Big! Athletic event^
+^n_c01_olympic_003_Name^,^Yuna^
+^n_c01_olympic_003_NameDetail^,^Winter Big! Athletic event^
+^n_c01_olympic_004_Name^,^Dabin^
+^n_c01_olympic_004_NameDetail^,^Winter Big! Athletic event^
+^n_c01_olympic_005_Name^,^Half -moon^
+^n_c01_olympic_005_NameDetail^,^Torch^
+^n_c01_olympic_006_Name^,^Half -moon^
+^n_c01_olympic_006_NameDetail^,^Torch^
+^n_c01_olympic_007_Name^,^Hakanas Supper^
+^n_c01_olympic_007_NameDetail^,^Winter Big! Athletic event^
+^n_c01_ticket_01_Name^,^Creation^
+^n_c01_ticket_01_NameDetail^,^4th anniversary event^
+^n_c01_annfellow_01_Name^,^Spiroon of innocent^
+^n_c01_annfellow_01_NameDetail^,^4th anniversary event^
+^n_c01_annfellow_02_Name^,^Intelligent Torkai^
+^n_c01_annfellow_02_NameDetail^,^4th anniversary event^
+^n_c01_annfellow_03_Name^,^Bright Tshanan^
+^n_c01_annfellow_03_NameDetail^,^4th anniversary event^

@@ -1,0 +1,201 @@
+t_key,t_korean,t_jpn,t_chinese,t_enu
+^RC_6_0_00192_Name^,^Masked Tavor Binding Method^,^^,^^,^^
+^RC_6_0_00192_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_00193_Name^,^White Hamster Binding Method^,^^,^^,^^
+^RC_6_0_00193_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_00194_Name^,^Striped Hamster Binding Method^,^^,^^,^^
+^RC_6_0_00194_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_1_Name^,^Bloodless Sword Recipe^,^^,^^,^^
+^RC_6_0_70000_2_Name^,^Bloodless Dagger Recipe^,^^,^^,^^
+^RC_6_0_70000_3_Name^,^Bloodless Staff Recipe^,^^,^^,^^
+^RC_6_0_70000_4_Name^,^Bloodless GreatSword Recipe^,^^,^^,^^
+^RC_6_0_70000_5_Name^,^Bloodless Scepter Recipe^,^^,^^,^^
+^RC_6_0_70000_6_Name^,^Bloodless Shortbow Recipe^,^^,^^,^^
+^RC_6_0_70000_7_Name^,^Bloodless Crossbow Recipe^,^^,^^,^^
+^RC_6_0_70000_8_Name^,^Bloodless Lance Recipe^,^^,^^,^^
+^RC_6_0_70000_9_Name^,^Bloodless Magic Wand Recipe^,^^,^^,^^
+^RC_6_0_70000_10_Name^,^Bloodless Shield Recipe^,^^,^^,^^
+^RC_6_0_70000_11_Name^,^Bloodless Crest Recipe^,^^,^^,^^
+^RC_6_0_70000_12_Name^,^Bloodless Gauntlett Recipe^,^^,^^,^^
+^RC_6_0_70000_13_Name^,^Bloodless Teddy Bear Recipe^,^^,^^,^^
+^RC_6_0_70000_1_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_2_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_3_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_4_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_5_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_6_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_7_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_8_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_9_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_10_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_11_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_12_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_70000_13_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_00195_Name^,^Cold-Blooded Leviathan Mark Recipe^,^^,^^,^^
+^RC_6_0_00195_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^RC_6_0_00196_Name^,^Fleeting Eclipse Binding Method^,^^,^^,^^
+^RC_6_0_00196_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^rc_fel_god_claw_Name^,^Ancient Dragon God Claw Recipe^,^^,^^,^^
+^rc_fel_god_claw_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^rc_fel_god_sad_Name^,^Ancient Dragon God Saddle Recipe^,^^,^^,^^
+^rc_fel_god_sad_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^rc_fel_god_soul_Name^,^Ancient Dragon God Soulstone Recipe^,^^,^^,^^
+^rc_fel_god_soul_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^rc_6_ar_ref_Name^,^Mythical Armor Refining Stone Recipe^,^^,^^,^^
+^rc_6_ar_ref_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^rc_6_ar_hon_Name^,^Mythical Armor Honing Stone Recipe^,^^,^^,^^
+^rc_6_ar_hon_Description^,^<UI_Y>Right-click to use and it will be registered in the crafting list.</UI_Y>^,^^,^^,^^
+^ev_bx_firework_0_name^,^Firework I (EXP Boost) x5^,^^,^^,^^
+^ev_bx_firework_0_description^,^Contains 5 Fireworks tHat will boost Character & Guild EXP gain for 2 hours.<br><br><UI_R>This item will expire 3 days after it has been crafted.</UI_R>^,^^,^^,^^
+^ev_bx_firework_1_name^,^Firework II (Droprate Boost) x5^,^^,^^,^^
+^ev_bx_firework_1_description^,^Contains 5 Fireworks tHat will boost Drop Rate & Rare Drop Rate for 2 hours.<br><br><UI_R>This item will expire 3 days after it has been crafted.</UI_R>^,^^,^^,^^
+^ev_bx_firework_2_name^,^Firework III (Combat Stat Boost) x5^,^^,^^,^^
+^ev_bx_firework_2_description^,^Contains 5 Fireworks tHat will boost several PVE and PVP combat stats for 2 hours.<br><br><UI_R>This item will expire 3 days after it has been crafted.</UI_R>^,^^,^^,^^
+^RC_EV_FIREWORK0_name^,^Firework I Recipe (EXP Boost)^,^^,^^,^^
+^RC_EV_FIREWORK0_description^,^Learn this to be able to craft Fireworks tHat will boost Character & Guild EXP gain.^,^^,^^,^^
+^RC_EV_FIREWORK1_name^,^Firework II Recipe (Droprate Boost)^,^^,^^,^^
+^RC_EV_FIREWORK1_description^,^Learn this to be able to craft Fireworks tHat will boost Drop Rate & Rare Drop Rate.^,^^,^^,^^
+^RC_EV_FIREWORK2_name^,^Firework III Recipe (Combat Stat Boost)^,^^,^^,^^
+^RC_EV_FIREWORK2_description^,^Learn this to be able to craft Fireworks tHat will boost several PVE and PVP combat stats.^,^^,^^,^^
+^rc_6_runegolem_name^,^Rune Golem Blueprints^,^^,^^,^^
+^rc_6_runegolem_description^,^Learn this to be able to craft a Rune Golem familiar according to Blueton.^,^^,^^,^^
+^rc_ar0_1_6900_1_name^,^Awakened Divine Stalwart Helm Recipe^,^^,^^,^^
+^rc_ar0_1_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar0_2_6900_1_name^,^Awakened Divine Stalwart Pauldron Recipe^,^^,^^,^^
+^rc_ar0_2_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar0_3_6900_1_name^,^Awakened Divine Stalwart Heavy Armor Recipe^,^^,^^,^^
+^rc_ar0_3_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar0_4_6900_1_name^,^Awakened Divine Stalwart Gloves Recipe^,^^,^^,^^
+^rc_ar0_4_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar0_5_6900_1_name^,^Awakened Divine Stalwart Boots Recipe^,^^,^^,^^
+^rc_ar0_5_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar1_1_6900_1_name^,^Awakened Divine Brutal Helm Recipe^,^^,^^,^^
+^rc_ar1_1_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar1_2_6900_1_name^,^Awakened Divine Brutal Pauldron Recipe^,^^,^^,^^
+^rc_ar1_2_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar1_3_6900_1_name^,^Awakened Divine Brutal Heavy Armor Recipe^,^^,^^,^^
+^rc_ar1_3_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar1_4_6900_1_name^,^Awakened Divine Brutal Gloves Recipe^,^^,^^,^^
+^rc_ar1_4_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar1_5_6900_1_name^,^Awakened Divine Brutal Boots Recipe^,^^,^^,^^
+^rc_ar1_5_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar3_1_6900_1_name^,^Awakened Divine Veiled Helm Recipe^,^^,^^,^^
+^rc_ar3_1_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar3_2_6900_1_name^,^Awakened Divine Veiled Pauldron Recipe^,^^,^^,^^
+^rc_ar3_2_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar3_3_6900_1_name^,^Awakened Divine Veiled Light Armor Recipe^,^^,^^,^^
+^rc_ar3_3_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar3_4_6900_1_name^,^Awakened Divine Veiled Gloves Recipe^,^^,^^,^^
+^rc_ar3_4_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar3_5_6900_1_name^,^Awakened Divine Veiled Boots Recipe^,^^,^^,^^
+^rc_ar3_5_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar4_1_6900_1_name^,^Awakened Divine Elemental Hat Recipe^,^^,^^,^^
+^rc_ar4_1_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar4_2_6900_1_name^,^Awakened Divine Elemental Pauldron Recipe^,^^,^^,^^
+^rc_ar4_2_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar4_3_6900_1_name^,^Awakened Divine Elemental Robe Recipe^,^^,^^,^^
+^rc_ar4_3_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar4_4_6900_1_name^,^Awakened Divine Elemental Gloves Recipe^,^^,^^,^^
+^rc_ar4_4_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar4_5_6900_1_name^,^Awakened Divine Elemental Shoes Recipe^,^^,^^,^^
+^rc_ar4_5_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar5_1_6900_1_name^,^Awakened Divine Devout Hat Recipe^,^^,^^,^^
+^rc_ar5_1_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar5_2_6900_1_name^,^Awakened Divine Devout Pauldron Recipe^,^^,^^,^^
+^rc_ar5_2_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar5_3_6900_1_name^,^Awakened Divine Devout Robe Recipe^,^^,^^,^^
+^rc_ar5_3_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar5_4_6900_1_name^,^Awakened Divine Devout Gloves Recipe^,^^,^^,^^
+^rc_ar5_4_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar5_5_6900_1_name^,^Awakened Divine Devout Shoes Recipe^,^^,^^,^^
+^rc_ar5_5_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar2_1_6900_1_name^,^Awakened Divine Wild Helm Recipe^,^^,^^,^^
+^rc_ar2_1_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar2_2_6900_1_name^,^Awakened Divine Wild Pauldron Recipe^,^^,^^,^^
+^rc_ar2_2_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar2_3_6900_1_name^,^Awakened Divine Wild Light Armor Recipe^,^^,^^,^^
+^rc_ar2_3_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar2_4_6900_1_name^,^Awakened Divine Wild Gloves Recipe^,^^,^^,^^
+^rc_ar2_4_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar2_5_6900_1_name^,^Awakened Divine Wild Boots Recipe^,^^,^^,^^
+^rc_ar2_5_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar10_1_6900_1_name^,^Awakened Divine Genuine Hat Recipe^,^^,^^,^^
+^rc_ar10_1_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar10_2_6900_1_name^,^Awakened Divine Genuine Pauldron Recipe^,^^,^^,^^
+^rc_ar10_2_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar10_3_6900_1_name^,^Awakened Divine Genuine Robe Recipe^,^^,^^,^^
+^rc_ar10_3_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar10_4_6900_1_name^,^Awakened Divine Genuine Gloves Recipe^,^^,^^,^^
+^rc_ar10_4_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar10_5_6900_1_name^,^Awakened Divine Genuine Shoes Recipe^,^^,^^,^^
+^rc_ar10_5_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar8_1_6900_1_name^,^Awakened Divine Chaotic Hat Recipe^,^^,^^,^^
+^rc_ar8_1_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar8_2_6900_1_name^,^Awakened Divine Chaotic Pauldron Recipe^,^^,^^,^^
+^rc_ar8_2_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar8_3_6900_1_name^,^Awakened Divine Chaotic Robe Recipe^,^^,^^,^^
+^rc_ar8_3_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar8_4_6900_1_name^,^Awakened Divine Chaotic Gloves Recipe^,^^,^^,^^
+^rc_ar8_4_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar8_5_6900_1_name^,^Awakened Divine Chaotic Shoes Recipe^,^^,^^,^^
+^rc_ar8_5_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^RC_2_4_7001_name^,^Divine Energy Shard Recipe^,^^,^^,^^
+^RC_2_4_7001_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^RC_2_4_7007_name^,^Infused Divine Alloy Recipe^,^^,^^,^^
+^RC_2_4_7007_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^RC_7_divine_1_name^,^Raw Divine TempeRing Stone Recipe^,^^,^^,^^
+^RC_7_divine_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^RC_6_AR_REF_1_name^,^Divine Armor Refining Stone Recipe^,^^,^^,^^
+^RC_6_AR_REF_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^RC_6_AR_HON_1_name^,^Divine Armor Honing Stone Recipe^,^^,^^,^^
+^RC_6_AR_HON_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^RC_PVP_DIV_GD_1_name^,^Recipe: Akeron Supreme Ruler Weapon Skin (Guardian)^,^^,^^,^^
+^RC_PVP_DIV_GD_1_description^,^A recipe for a permanent, PvP-based weapon skin.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_GD_2_name^,^Recipe: (Appearance) Akeron Supreme Ruler (Guardian)^,^^,^^,^^
+^RC_PVP_DIV_GD_2_description^,^A recipe for a permanent, PvP-based appearance.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_WR_1_name^,^Recipe: Akeron Supreme Ruler Weapon Skin (Berserker)^,^^,^^,^^
+^RC_PVP_DIV_WR_1_description^,^A recipe for a permanent, PvP-based weapon skin.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_WR_2_name^,^Recipe: (Appearance) Akeron Supreme Ruler (Berserker)^,^^,^^,^^
+^RC_PVP_DIV_WR_2_description^,^A recipe for a permanent, PvP-based appearance.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_TF_1_name^,^Recipe: Akeron Supreme Ruler Weapon Skin (Assassin)^,^^,^^,^^
+^RC_PVP_DIV_TF_1_description^,^A recipe for a permanent, PvP-based weapon skin.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_TF_2_name^,^Recipe: (Appearance) Akeron Supreme Ruler (Assassin)^,^^,^^,^^
+^RC_PVP_DIV_TF_2_description^,^A recipe for a permanent, PvP-based appearance.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_WZ_1_name^,^Recipe: Akeron Supreme Ruler Weapon Skin (Wizard/Magician)^,^^,^^,^^
+^RC_PVP_DIV_WZ_1_description^,^A recipe for a permanent, PvP-based weapon skin.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_WZ_2_name^,^Recipe: (Appearance) Akeron Supreme Ruler (Wizard)^,^^,^^,^^
+^RC_PVP_DIV_WZ_2_description^,^A recipe for a permanent, PvP-based appearance.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_PR_1_name^,^Recipe: Akeron Supreme Ruler Weapon Skin (Priest)^,^^,^^,^^
+^RC_PVP_DIV_PR_1_description^,^A recipe for a permanent, PvP-based weapon skin.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_PR_2_name^,^Recipe: (Appearance) Akeron Supreme Ruler (Priest)^,^^,^^,^^
+^RC_PVP_DIV_PR_2_description^,^A recipe for a permanent, PvP-based appearance.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_AC_1_name^,^Recipe: Akeron Supreme Ruler Weapon Skin (Ranger)^,^^,^^,^^
+^RC_PVP_DIV_AC_1_description^,^A recipe for a permanent, PvP-based weapon skin.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_AC_2_name^,^Recipe: (Appearance) Akeron Supreme Ruler (Ranger)^,^^,^^,^^
+^RC_PVP_DIV_AC_2_description^,^A recipe for a permanent, PvP-based appearance.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_DO_1_name^,^Recipe: Akeron Supreme Ruler Weapon Skin (Idol)^,^^,^^,^^
+^RC_PVP_DIV_DO_1_description^,^A recipe for a permanent, PvP-based weapon skin.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_DO_2_name^,^Recipe: (Appearance) Akeron Supreme Ruler (Idol)^,^^,^^,^^
+^RC_PVP_DIV_DO_2_description^,^A recipe for a permanent, PvP-based appearance.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_PVP_DIV_MG_1_name^,^Recipe: (Appearance) Akeron Supreme Ruler (Magician)^,^^,^^,^^
+^RC_PVP_DIV_MG_1_description^,^A recipe for a permanent, PvP-based appearance.<br>Materials for this are obtained from very strong monsters and bosses in Stygaea.^,^^,^^,^^
+^RC_6_neko_01_name^,^Blueprint: Nekobot Nr. 1^,^^,^^,^^
+^RC_6_neko_01_description^,^A crafting instruction to produce the mechanical familiar Nekobot Nr. 1.<br>Right-click to add it to your recipe list.^,^^,^^,^^
+^RC_6_neko_02_name^,^Blueprint: Nekobot Nr. 2^,^^,^^,^^
+^RC_6_neko_02_description^,^A crafting instruction to produce the mechanical familiar Nekobot Nr. 2.<br>Right-click to add it to your recipe list.^,^^,^^,^^
+^RC_6_neko_03_name^,^Blueprint: Nekobot Nr. 3^,^^,^^,^^
+^RC_6_neko_03_description^,^A crafting instruction to produce the mechanical familiar Nekobot Nr. 3.<br>Right-click to add it to your recipe list.^,^^,^^,^^
+^RC_6_neko_04_name^,^Blueprint: Nekobot Nr. 4^,^^,^^,^^
+^RC_6_neko_04_description^,^A crafting instruction to produce the mechanical familiar Nekobot Nr. 4.<br>Right-click to add it to your recipe list.^,^^,^^,^^
+^RC_6_grimreaper_name^,^Forbidden Tome: Binding Grim Reaper^,^^,^^,^^
+^RC_6_grimreaper_description^,^A cursed book, containing instructions to summon the Grim Reaper as your servant.<br>Right-click to add it to your recipe list.^,^^,^^,^^
+^rc_ar11_1_6900_1_name^,^Awakened Divine Genuine Hat Recipe^,^^,^^,^^
+^rc_ar11_1_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar11_2_6900_1_name^,^Awakened Divine Genuine Pauldron Recipe^,^^,^^,^^
+^rc_ar11_2_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar11_3_6900_1_name^,^Awakened Divine Genuine Robe Recipe^,^^,^^,^^
+^rc_ar11_3_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar11_4_6900_1_name^,^Awakened Divine Genuine Gloves Recipe^,^^,^^,^^
+^rc_ar11_4_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^
+^rc_ar11_5_6900_1_name^,^Awakened Divine Genuine Shoes Recipe^,^^,^^,^^
+^rc_ar11_5_6900_1_description^,^Right-click to add the recipe to your crafting list.^,^^,^^,^^

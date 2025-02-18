@@ -1,0 +1,1060 @@
+t_key,t_korean,t_jpn,t_chinese,t_enu,t_f6,t_f7
+^ca_it_sc_chaser1_name^,^Summon Scroll: Wise Spirit Chaser^,^^,^^,^^,^^,^^
+^ca_it_sc_chaser1_description^,^When used, Wise Spirit Chaser appears.^,^^,^^,^^,^^,^^
+^ca_it_sc_chaser2_name^,^Summon Scroll: Brave Spirit Chaser^,^^,^^,^^,^^,^^
+^ca_it_sc_chaser2_description^,^When used, Brave Spirit Chaser appears.^,^^,^^,^^,^^,^^
+^f_sealtest_001_name^,^Frosty^,^^,^^,^^,^^,^^
+^n_p01_0_0001_0027_name^,^Rabbini Tammy^,^^,^^,^^,^^,^^
+^in_d94_boss_001_name^,^Delicious Meat^,^^,^^,^^,^^,^^
+^in_d94_boss_002_name^,^Delicious Meat^,^^,^^,^^,^^,^^
+^in_d94_boss_003_name^,^Chewy Meats^,^^,^^,^^,^^,^^
+^in_d94_boss_004_name^,^Chewy Meats^,^^,^^,^^,^^,^^
+^in_c01_olympic_01_name^,^Olympic Torch^,^^,^^,^^,^^,^^
+^in_c01_olympic_02_name^,^Olympic Torch^,^^,^^,^^,^^,^^
+^in_f03_olympic_snow_name^,^Snow^,^^,^^,^^,^^,^^
+^in_c01_egg_01_name^,^Egg with Treasure^,^^,^^,^^,^^,^^
+^in_c01_egg_02_name^,^Egg with Treasure^,^^,^^,^^,^^,^^
+^in_e02_dropbox_01_name^,^Matthew's Gift Box^,^^,^^,^^,^^,^^
+^in_d11_Box_03_Name^,^Revolutionary Secret Box^,^^,^^,^^,^^,^^
+^in_d11_portal_01_name^,^Damaged Dimensional Crack^,^^,^^,^^,^^,^^
+^dialog_9041015_text0^,^Oh!<br>I can recognize a true familiar tamer when I see one, nyan!^,^^,^^,^^,^^,^^
+^dialog_9031727_Title^,^Portal Mobile Device^,^^,^^,^^,^^,^^
+^dialog_9031727_Text0^,^-Precautions for Use-<br><br><br>1. Only the Party Leader can use it.<br>*If you are alone, you can use it too.<br><br>2. You can select higher floors once you have cleared them once. <br>*Depends on the Party Leader's achievements.<br><br>^,^^,^^,^^,^^,^^
+^Dialog_9031727_Text0_attach_0^,^3. This portal is forbidden to re-use.^,^^,^^,^^,^^,^^
+^Dialog_9031727_answer_0_text^,^Move to Floor 1^,^^,^^,^^,^^,^^
+^Dialog_9031727_answer_1_text^,^Move to Floor 6^,^^,^^,^^,^^,^^
+^Dialog_9031727_answer_2_text^,^Move to Floor 11^,^^,^^,^^,^^,^^
+^Dialog_9031727_answer_3_text^,^Move to Floor 16^,^^,^^,^^,^^,^^
+^dialog_9031732_Title^,^Portal Mobile Device^,^^,^^,^^,^^,^^
+^Qu_0_0_0862_name^,^Brakkar's Regional Reward Box^,^^,^^,^^,^^,^^
+^Qu_0_0_0863_name^,^Hakain's Crossing Regional Reward Box^,^^,^^,^^,^^,^^
+^Qu_0_0_0865_name^,^Hakanas Highlands Regional Reward Box^,^^,^^,^^,^^,^^
+^Qu_0_0_0867_name^,^Sea of Hakanas Regional Reward Box^,^^,^^,^^,^^,^^
+^Qu_0_0_0869_name^,^Parna's Coast Regional Reward Box^,^^,^^,^^,^^,^^
+^Qu_0_0_0871_name^,^Exarahn Badlands Regional Reward Box^,^^,^^,^^,^^,^^
+^Qu_0_0_0873_name^,^Tritael Rift Regional Rewards Box^,^^,^^,^^,^^,^^
+^Qu_0_0_0875_name^,^Cloying Wastes Regional Rewards Box^,^^,^^,^^,^^,^^
+^Qu_0_0_0877_name^,^Ellora's Sanctuary Regional Rewards Box^,^^,^^,^^,^^,^^
+^Qu_0_0_0879_name^,^Stygaea Regional Rewards Box^,^^,^^,^^,^^,^^
+^Qu_0_0_0881_name^,^Akrat Plains Regional Rewards Box^,^^,^^,^^,^^,^gonng^
+^Qu_0_0_0883_name^,^Turiman Valley Regional Rewards Box^,^^,^^,^^,^^,^^
+^ex_0_0355_name^,^Taming Certificate^,^^,^^,^^,^^,^^
+^ex_0_0355_description^,^Exchange these at <UI_G>Rabbini Tammy</UI_G> for a special title.^,^^,^^,^^,^^,^^
+^loading_tip_D94_001^,^If you leave the dungeon, you won't be rewarded. Choose carefully!^,^^,^^,^^,^^,^^
+^loading_tip_D94_002^,^The respawn skill's cooldown is increased, and respawn / recovery / move items cannot be used.^,^^,^^,^^,^^,^^
+^loading_tip_D94_003^,^Only the party leader can use the portal device.^,^^,^^,^^,^^,^^
+^loading_tip_D94_004^,^Don't worry if you die. Unless you leave, you will automatically resurrect when the remaining party members cleared the floor.^,^^,^^,^^,^^,^^
+^loading_tip_D94_005^,^To drive out the intruders, an unknown executioner is said to be watching the tower.^,^^,^^,^^,^^,^^
+^loading_tip_D94_006^,^If you give up or quit the game, you will automatically be disenrolled from the party.^,^^,^^,^^,^^,^^
+^gmc_32050^,^Do you want to open Level [Level] [Name]?^,^^,^^,^^,^^,^^
+^gmc_32051^,^Entered Level [Level] [Name].^,^^,^^,^^,^^,^^
+^ui_achievements_secretroom^,^Unkown Tower^,^^,^^,^^,^^,^^
+^ui_dungeon_out_msg^,^Exit^,^^,^^,^^,^^,^^
+^ui_difficulty^,^Level^,^^,^^,^^,^^,^^
+^ex_0_0308_description^,^Obtained in the Haunted House. BRing these to <UI_G>Skellington</UI_G>, to exchange them for some rare items.^,^^,^^,^^,^^,^^
+^ev_it_bp_0061_description^,^Obtained in the Haunted House. BRing these to <UI_G>Skellington</UI_G>, to exchange them for some useful items.^,^^,^^,^^,^^,^^
+^na_it_fairyd_01_name^,^Mount: Fairy Dragon^,^^,^^,^^,^^,^^
+^na_it_fairyd_01_description^,^When used, <UI_G>Fairy Dragon</UI_G> is added to your familiar storage.^,^^,^^,^^,^^,^^
+^na_it_fairyd_02_name^,^Mount: Fairy Dragon^,^^,^^,^^,^^,^^
+^na_it_fairyd_02_description^,^When used, <UI_G>Fairy Dragon</UI_G> is added to your familiar storage.^,^^,^^,^^,^^,^^
+^na_it_chaser_01_name^,^Mount: Wise Spirit Chaser^,^^,^^,^^,^^,^^
+^na_it_chaser_01_description^,^When used, <UI_G>Wise Spirit Chaser</UI_G> is added to your familiar storage.^,^^,^^,^^,^^,^^
+^na_it_chaser_02_name^,^Mount: Wise Spirit Chaser^,^^,^^,^^,^^,^^
+^na_it_chaser_02_description^,^When used, <UI_G>Wise Spirit Chaser</UI_G> is added to your familiar storage.^,^^,^^,^^,^^,^^
+^Cp_8_0190_name^,^Chaos Nebula Mark^,^^,^^,^^,^^,^^
+^Cp_8_0190_Description^,^Used to tame <UI_G>Chaos Nebula</UI_G>.^,^^,^^,^^,^^,^^
+^Cp_8_0191_name^,^Traes Mark^,^^,^^,^^,^^,^^
+^Cp_8_0191_Description^,^Used to tame <UI_G>Traes</UI_G>.^,^^,^^,^^,^^,^^
+^ca_it_cm_karon1_name^,^Mount: Divine Tares^,^^,^^,^^,^^,^^
+^ca_it_cm_karon1_description^,^When used, <UI_G>Divine Tares</UI_G> is added to your familiar storage.^,^^,^^,^^,^^,^^
+^CA_IT_SC_ RRB_name^,^Warp Pass: Red Revolutionary Base^,^^,^^,^^,^^,^^
+^CA_IT_SC_TOMB_name^,^Warp Pass: Tomb of the Wyrm^,^^,^^,^^,^^,^^
+^Ex_0_0340_name^,^Christmas Coin^,^^,^^,^^,^^,^^
+^Ex_0_0340_description^,^BRing these to <UI_G>Merry</UI_G> at the Titan Platform to exchange them for some very special rewards.^,^^,^^,^^,^^,^^
+^n_f09_xmasrab_01_name^,^Rabbini Santi^,^^,^^,^^,^^,^^
+^dialog_9031729_text0^,^Nyahohoho~!<br><br>We are in deep trouble. Our Christmas present transporter is beeing attacked every time we try to bRing those children some presents.<br>Please help us to get rid of them so we can deliver the presents in peace, nya!^,^^,^^,^^,^^,^^
+^ev_9_1_0067_title^,^Defending the Christmas presents!^,^^,^^,^^,^^,^^
+^ev_9_1_0067_request_text^,^Please board the Floating Whale Ship and defend the Christmas presents, nyan!^,^^,^^,^^,^^,^^
+^ev_9_1_0067_complete_text^,^Thank you so much for saving the Christmas presents! The kids will be very happy about this.^,^^,^^,^^,^^,^^
+^hk_9_1_9074_title^,^Defeat Yatuman in Yatuman's Altar^,^^,^^,^^,^^,^^
+^hk_9_1_9074_request_text^,^Go to Brakarr Forest and defeat the evil Braghin Shaman Yatuman at his Altar.^,^^,^^,^^,^^,^^
+^hk_9_1_9074_complete_text^,^Well done! Here is your reward.^,^^,^^,^^,^^,^^
+^e02_bigbox_s_name^,^Christmas Presents^,^^,^^,^^,^^,^^
+^e_event_nabula_name^,^Chaos Nebula^,^^,^^,^^,^^,^^
+^e_event_tares_01_name^,^Traes^,^^,^^,^^,^^,^^
+^ca_st_cm_0243_name^,^Red Shine (30 Days)^,^^,^^,^^,^^,^^
+^CA_ST_CM_0563_name^,^(Appearance) Christmas Costume (30 Days)^,^^,^^,^^,^^,^^
+^CA_ST_CM_0564_name^,^(Appearance) Black Christmas Costume (30 Days)^,^^,^^,^^,^^,^^
+^CA_ST_CM_0565_name^,^(Appearance) White Christmas Costume (30 Days)^,^^,^^,^^,^^,^^
+^CA_ST_CM_0566_name^,^(Appearance) Rudolph Costume (30 Days)^,^^,^^,^^,^^,^^
+^CA_ST_CM_0567_name^,^(Appearance) White Midwinter Outfit (30 Days)^,^^,^^,^^,^^,^^
+^CA_ST_CM_0568_name^,^(Appearance) Red Midwinter Outfit (30 Days)^,^^,^^,^^,^^,^^
+^CA_ST_CM_0569_name^,^(Appearance) White Long Padding Jacket (30 Days)^,^^,^^,^^,^^,^^
+^CA_ST_CM_0570_name^,^(Appearance) Black Long Padding Jacket (30 Days)^,^^,^^,^^,^^,^^
+^CA_ST_CM_0571_name^,^(Appearance) Winter Armor (30 Days)^,^^,^^,^^,^^,^^
+^ev_st_cm_01555_name^,^(Appearance) Holy Knight Armor^,^^,^^,^^,^^,^^
+^ca_st_cm_01777_name^,^(Appearance) Santa Costume^,^^,^^,^^,^^,^^
+^jp_ca_st_cm_212_name^,^(Appearance) Dark Emperor^,^^,^^,^^,^^,^^
+^jp_ca_st_cm_2121_name^,^(Appearance) Fallen Dark Empreror^,^^,^^,^^,^^,^^
+^ca_st_cm_0375_name^,^Red Christmas Hat (4 Days)^,^^,^^,^^,^^,^^
+^ca_st_cm_0376_name^,^White Christmas Hat (4 Days)^,^^,^^,^^,^^,^^
+^ca_st_cm_0377_name^,^Black Christmas Hat (4 Days)^,^^,^^,^^,^^,^^
+^f_ev_dog_006_name^,^Winter Puppy^,^^,^^,^^,^^,^^
+^f_ev_dog_007_name^,^Santa Puppy^,^^,^^,^^,^^,^^
+^f_ev_dog_008_name^,^Santa Puppy^,^^,^^,^^,^^,^^
+^f_ev_dog_009_name^,^Santa Puppy^,^^,^^,^^,^^,^^
+^f_ev_dog_010_name^,^Holy Santa Puppy^,^^,^^,^^,^^,^^
+^f_e00_karon_0001_name^,^Divine Traes^,^^,^^,^^,^^,^^
+^f_e00_karon_0002_name^,^Divine Traes^,^^,^^,^^,^^,^^
+^f_na_pega_001_name^,^Chaos Nebula^,^^,^^,^^,^^,^^
+^f_na_pega_002_name^,^Chaos Nebula^,^^,^^,^^,^^,^^
+^f_f07_f_na_mag_001_name^,^Traes^,^^,^^,^^,^^,^^
+^f_f07_f_na_mag_002_name^,^Traes^,^^,^^,^^,^^,^^
+^sf2_101_2_08173_name^,^Traes^,^^,^^,^^,^^,^^
+^SF2_101_3_0130_name^,^Divine Traes^,^^,^^,^^,^^,^^
+^femanticorefrac_description_1^,^Spirit Chaser's Aura enhances your abilities even more inside <UI_G>Fractura</UI_G>.^,^^,^^,^^,^^,^^
+^fecongold99_name^,^Shining Legendary Item Box Radiance^,^^,^^,^^,^^,^^
+^fecongold99_description_1^,^The shimmeRing aura of your familiar strengthens your Health, Overall Attack, Overall Defense and Move Speed.^,^^,^^,^^,^^,^^
+^fecongold03_name^,^Wyvern Breath^,^^,^^,^^,^^,^^
+^fecongold03_description_1^,^Fires a dark breath towards the targeted enemy, decreasing his Critical Defense for a short time.^,^^,^^,^^,^^,^^
+^fegdragon04_description_1^,^Fires a dark breath towards the targeted enemy, decreasing his Critical Defense for a short time.^,^^,^^,^^,^^,^^
+^fegdragon99_description_1^,^Demoroth's infernal rage increases Health, Overall Attack, Overall Defense and Move Speed.^,^^,^^,^^,^^,^^
+^feretrunfar01_name^,^Recall: Unknown Tower^,^^,^^,^^,^^,^^
+^feretrunfar01_description_1^,^Teleports you to the Unkown Tower in Parna's Coast. <br><UI_R> Cannot be used in Pet form!</UI_R>^,^^,^^,^^,^^,^^
+^fejpreturn02_name^,^Recall: Braghin Mine^,^^,^^,^^,^^,^^
+^fejpreturn02_description_1^,^Teleports you to the Braghin Mine in Windy Canyon. <br><UI_R> Cannot be used in Pet form!</UI_R>^,^^,^^,^^,^^,^^
+^fegolemdef01_description_1^,^The Golem is covered in ancient runes tHat increase your attributes.^,^^,^^,^^,^^,^^
+^fedragag00_name^,^Spiritual Resistance^,^^,^^,^^,^^,^^
+^fedragag00_description_1^,^The ability of the spiritual familiar cancels the negative effects of all regions.^,^^,^^,^^,^^,^^
+^fedragag01_name^,^Glacial Breath^,^^,^^,^^,^^,^^
+^fedragag01_description_1^,^Fires a deadly cold breath towards the targeted enemy, damaging him for a short time.^,^^,^^,^^,^^,^^
+^fedragag02_name^,^Frosty Breath^,^^,^^,^^,^^,^^
+^fedragag02_description_1^,^Fires a cold breath towards the targeted enemy, damaging him.^,^^,^^,^^,^^,^^
+^fektdog99_name^,^Golden Puppy's Energy^,^^,^^,^^,^^,^^
+^fektdog99_description_8^,^Increases your stats slightly.^,^^,^^,^^,^^,^^
+^fektdog98_name^,^Golden Puppy's Energy^,^^,^^,^^,^^,^^
+^fektdog98_description_1^,^Increases your stats slightly.^,^^,^^,^^,^^,^^
+^fektdog97_name^,^Golden Puppy's Energy^,^^,^^,^^,^^,^^
+^fektdog97_description_1^,^Increases your stats slightly.^,^^,^^,^^,^^,^^
+^fektdog96_name^,^Shining Puppy's Energy^,^^,^^,^^,^^,^^
+^fektdog96_description_1^,^Increases your stats significantly.^,^^,^^,^^,^^,^^
+^fektdog01_name^,^Puppy Bite^,^^,^^,^^,^^,^^
+^fektdog01_description_1^,^Debuffs the enemies Attack.^,^^,^^,^^,^^,^^
+^fektdog02_name^,^Do a Trick!^,^^,^^,^^,^^,^^
+^fektdog02_description_1^,^Strengthens your Defense while healing you for a short time.^,^^,^^,^^,^^,^^
+^fektdog03_name^,^Do a Trick!^,^^,^^,^^,^^,^^
+^fektdog03_description_1^,^Strengthens your Defense while healing you for a short time.^,^^,^^,^^,^^,^^
+^fektdog04_name^,^Puppy's Blessing^,^^,^^,^^,^^,^^
+^fektdog04_description_1^,^Heals you for a short time. (5% HP every 2 seconds.)^,^^,^^,^^,^^,^^
+^fetareso99_name^,^Divine Trae's Brilliance^,^^,^^,^^,^^,^^
+^fetareso99_description_7^,^Significantly increases your stats and increases Raredrop Chance a bit.^,^^,^^,^^,^^,^^
+^fenabula99_name^,^Nebula's Abyss^,^^,^^,^^,^^,^^
+^fenabula99_description_1^,^Increases your stats significantly.^,^^,^^,^^,^^,^^
+^fefrosty97_name^,^Frosty's Helping Hand^,^^,^^,^^,^^,^^
+^fefrosty97_description_1^,^Increases TempeRing Chance, Triumphan Crafting Chance, Cast Speed, Movement Speed and Rare Drop Chance.^,^^,^^,^^,^^,^^
+^map_d94_name^,^Unknown Tower^,^^,^^,^^,^^,^^
+^map_e02_name^,^Ravismas Present Transporter^,^^,^^,^^,^^,^^
+^ma_17_0065_name^,^Blessed Demoroth Crescent^,^^,^^,^^,^^,^^
+^ma_17_0067_name^,^Blessed Crable Crescent^,^^,^^,^^,^^,^^
+^ma_17_0070_name^,^Blessed Wrath Wyvern Crescent^,^^,^^,^^,^^,^^
+^ca_it_sc_rrb_name^,^Warp Pass: Red Revolutionary Base^,^^,^^,^^,^^,^^
+^ca_it_sc_tomb_name^,^Warp Pass: Tomb of the Wyrm^,^^,^^,^^,^^,^^
+^CA_BX_00_10024_name^,^Divine Traes Package^,^^,^^,^^,^^,^^
+^CA_BX_00_10024_description^,^Contents:<br><UI_G>- Mount: Divine Traes<br>- Adrian FamiliarEquip Set<br>- +7 Extractor<br>- Legendary Mount Scroll and Seal Stone<br>- 10x Premium Coin</UI_G>^,^^,^^,^^,^^,^^
+^CA_BX_00_10025_name^,^Fairy Dragon Package^,^^,^^,^^,^^,^^
+^CA_BX_00_10025_description^,^Contents:<br><UI_G>- Mount: Fairy Dragon<br>- Adrian FamiliarEquip Set<br>- +7 Extractor<br>- Legendary Mount Scroll and Seal Stone<br>- 10x Premium Coin</UI_G>^,^^,^^,^^,^^,^^
+^e_e02_elfrab_01_name^,^Evil Elf Rabbini Rider^,^^,^^,^^,^^,^^
+^e_e02_elfrab_02_name^,^Evil Elf Rabbini Rider^,^^,^^,^^,^^,^^
+^e_e02_santarab_01_name^,^Evil Santa Rabbini Rider^,^^,^^,^^,^^,^^
+^e_e02_santarab_02_name^,^Evil Santa Rabbini^,^^,^^,^^,^^,^^
+^e_e02_snowman_1_name^,^Harmless Snowman^,^^,^^,^^,^^,^^
+^n_e02_portal_1_name^,^Snow^,^^,^^,^^,^^,^^
+^in_e02_snowbank_01_name^,^Space Movement Device^,^^,^^,^^,^^,^^
+^area_e02_r_0008_name^,^Hakain's Crossing^,^^,^^,^^,^^,^^
+^loading_tip_e02_001^,^Throw snowballs at the rabbinies tHat are coming towards the present. You can not defeat them with normal attacks.^,^^,^^,^^,^^,^^
+^dialog_14_30036_text0^,^(This statue looks weird. It seems to read your mind.)^,^^,^^,^^,^^,^^
+^dialog_9031732_Text0^,^(The same mobile device as before, but no response)^,^^,^^,^^,^^,^^
+^dialog_1430037_text0^,^Growing up alive…<br><br> Since this site was discovered, many adventurers tried and failed dreaming of obtaining money. I tried to make money by selling these items to them.^,^^,^^,^^,^^,^^
+^Dialog_1430037_Text0_attach_0^,^Haha! You look afraid!<br><br>I have prepared something special for you!<br> Special potions to survive the curse of this ancient place!<br> If you drink this, even dying people will instantly recover!!<br> I'll give you a special price!^,^^,^^,^^,^^,^^
+^Dialog_1430037_answer_0_text^,^Unknown Tower Exclusive Shop^,^^,^^,^^,^^,^^
+^ui_partytower_requestexit_msg^,^<font color="#ff3636"> Attention! </font> <br> If you leave, you won't be rewarded.^,^^,^^,^^,^^,^^
+^ui_death_msg^,^Dead party members will be automatically resurrected when the surviving members cleared the floor or move to the dungeon entrance when clicking on the normal resurrection button.^,^^,^^,^^,^^,^^
+^ui_death_msg_solo^,^You died. Click the normal ressucrection button to move to the dungeon entrance.^,^^,^^,^^,^^,^^
+^ui_drop_veryeasy^,^None^,^^,^^,^^,^^,^^
+^ui_drop_easy^,^^,^^,^^,^^,^^,^^
+^ui_drop_normal^,^^,^^,^^,^^,^^,^^
+^ui_drop_hard^,^^,^^,^^,^^,^^,^^
+^ui_drop_veryhard^,^^,^^,^^,^^,^^,^^
+^e_event_nabula_01_name^,^Chaos Nebula^,^^,^^,^^,^^,^^
+^motowerarc02_name^,^Sword Rain^,^^,^^,^^,^^,^^
+^sf2_101_2_08172_name^,^Chaos Nebula^,^^,^^,^^,^^,^^
+^sf2_901_3_10006_name^,^Blazing Quilin^,^^,^^,^^,^^,^^
+^sf2_901_3_10002_name^,^Bloodguard Kerav^,^^,^^,^^,^^,^^
+^sf2_901_3_10004_name^,^Aschente^,^^,^^,^^,^^,^^
+^sf2_101_3_0252_name^,^Santa Puppy^,^^,^^,^^,^^,^^
+^sf2_101_3_0253_name^,^Santa Puppy^,^^,^^,^^,^^,^^
+^sf2_101_3_0254_name^,^Santa Puppy^,^^,^^,^^,^^,^^
+^Sf2_101_3_0255_name^,^Holy santa Puppy^,^^,^^,^^,^^,^^
+^fechaserbless_01_name^,^Spirit Chaser's Blessing^,^^,^^,^^,^^,^^
+^fechaserbless_01_description_1^,^Strenghtens your attack and defense.^,^^,^^,^^,^^,^^
+^fecongold99_description_8^,^The shimmeRing aura of your familiar strengthens your Health, Overall Attack, Overall Defense and Move Speed.^,^^,^^,^^,^^,^^
+^fetareso99_description_1^,^Significantly increases your stats and increases Raredrop Chance a bit.^,^^,^^,^^,^^,^^
+^fektdog96_description_8^,^The golden puppy's shimmer increases your stats.^,^^,^^,^^,^^,^^
+^fektdog97_description_8^,^The golden puppy's shimmer increases your stats.^,^^,^^,^^,^^,^^
+^fektdog98_description_8^,^The golden puppy's shine increases your stats.^,^^,^^,^^,^^,^^
+^ca_bx_00_1811_name^,^Physical Boost Talisman (30 days)^,^^,^^,^^,^^,^^
+^ca_bx_00_1812_name^,^Magic Boost Talisman (30 days)^,^^,^^,^^,^^,^^
+^ma_17_0066_name^,^Blessed Dangellion of Courage Crescent^,^^,^^,^^,^^,^^
+^Ma_17_0068_name^,^Blessed Dangellion of Wisdom Crescent^,^^,^^,^^,^^,^^
+^e_event_rabormi_04_name^,^Hidden Easter Bunny^,^^,^^,^^,^^,^^
+^e_event_rabormi_03_name^,^Giant Easter Bunny^,^^,^^,^^,^^,^^
+^ex_0_0359_name^,^Colored Easter Eggs^,^^,^^,^^,^^,^^
+^gage_collect_0053^,^Open Treasure-Egg^,^^,^^,^^,^^,^^
+^action_tooltip_collect_0061^,^Open Treasure-Egg^,^^,^^,^^,^^,^^
+^hk_9_1_easter_1_title^,^Hakains’ Easter Invader^,^^,^^,^^,^^,^^
+^hk_9_1_easter_1_RewarderDesc^,^Easter Bunny Rabbini^,^^,^^,^^,^^,^^
+^hk_9_1_easter_1_request_text^,^Please go and safe Hakain's Crossing from this giant nuisance!^,^^,^^,^^,^^,^^
+^hk_9_1_easter_1_accept_text^,^^,^^,^^,^^,^^,^^
+^hk_9_1_easter_1_ongoing_text^,^^,^^,^^,^^,^^,^^
+^hk_9_1_easter_1_complete_text^,^Yay! Let's hope he will stay away for some time now. Here is your reward, nyan.^,^^,^^,^^,^^,^^
+^hk_9_1_easter_2_title^,^A powerful tool!^,^^,^^,^^,^^,^^
+^hk_9_1_easter_2_RewarderDesc^,^Easter Bunny Rabbini^,^^,^^,^^,^^,^^
+^hk_9_1_easter_2_request_text^,^Take this, it will help you to fight the giant invader tHat comes to this town around this time of the year.^,^^,^^,^^,^^,^^
+^hk_9_1_easter_2_accept_text^,^^,^^,^^,^^,^^,^^
+^hk_9_1_easter_2_ongoing_text^,^^,^^,^^,^^,^^,^^
+^hk_9_1_easter_2_complete_text^,^Now go and scare tHat giant bunny away, nyan!^,^^,^^,^^,^^,^^
+^ma_13_1048_name^,^Fiery Fragment^,^^,^^,^^,^^,^^
+^Ma_13_1048_description^,^A fragment pulsating with a fiery and unholy power. It's origin is unknown. <br>Gather them and keep them with you, maybe someone knows wHat they are for.^,^^,^^,^^,^^,^^
+^Ma_13_1050_name^,^Magical Fragment^,^^,^^,^^,^^,^^
+^Ma_13_1050_description^,^A fragment pulsating with a shiny and magical power. It's origin is unknown. <br>Gather them and keep them with you, maybe someone knows wHat they are for.^,^^,^^,^^,^^,^^
+^ca_it_sc_fairy_name^,^Warp Pass: Fairy Dragon’s Nest^,^^,^^,^^,^^,^^
+^ca_it_sc_dira_name^,^Warp Pass: Diramunus’ Lair^,^^,^^,^^,^^,^^
+^cr_08_0091_name^,^Fated Fairy Dragon Mark^,^^,^^,^^,^^,^^
+^Cr_08_0092_name^,^Fated Diramunus Mark^,^^,^^,^^,^^,^^
+^e_event_fairyd_01_name^,^Fairy Dragon^,^^,^^,^^,^^,^^
+^e_event_diram_01_name^,^Exiled Diramunus^,^^,^^,^^,^^,^^
+^e_f07_celfattack_02_name^,^[Elite] Chaos Elf Agonal Assassin^,^^,^^,^^,^^,^^
+^e_f07_celfguard_02_name^,^[Elite] Chaos Elf Agonal Guard^,^^,^^,^^,^^,^^
+^hk_dira_daily_1_title^,^Skeleton Subjugation^,^^,^^,^^,^^,^^
+^hk_dira_daily_1_RewarderDesc^,^Guard Constance^,^^,^^,^^,^^,^^
+^hk_dira_daily_1_request_text^,^First of all we need to decimate the numbers of these skeletons to calm the situation around here.<br>Please help me out there a bit and report back to me when you think you are done.^,^^,^^,^^,^^,^^
+^hk_dira_daily_1_complete_text^,^Great. This should be good for some time.<br>I feel much better already, thank you adventurer.<br>But I have a feeling tHat I might need your help again soon.^,^^,^^,^^,^^,^^
+^hk_dira_daily_2_title^,^Cursed Familiars^,^^,^^,^^,^^,^^
+^hk_dira_daily_2_RewarderDesc^,^Puris^,^^,^^,^^,^^,^^
+^hk_dira_daily_2_request_text^,^I need you to take care of the Bonethorpes tHat are flying above Parnas Sssteps. (320 – 380m altitude)<br>Some weird magic power seemed to have brought them back to life.<br>BRing me their bones once you have taken care of them, so we can bury them again.^,^^,^^,^^,^^,^^
+^hk_dira_daily_2_complete_text^,^Thank you, friend.<br>We will start the burrying ritual as soon as possible, to drive the magic power out of these bones, so they can finally rest in peace.<br>Please come back later, we might need your help again.^,^^,^^,^^,^^,^^
+^hk_dira_daily_3_title^,^Restless Bones^,^^,^^,^^,^^,^^
+^hk_dira_daily_3_RewarderDesc^,^Grimm Golden^,^^,^^,^^,^^,^^
+^hk_dira_daily_3_request_text^,^Go to the Lost Roost and take care of the undeads troup leaders.<br>Report back to me once you have finished your job. Maybe it will give us a hint.^,^^,^^,^^,^^,^^
+^hk_dira_daily_3_complete_text^,^Good job out there. You did wHat I felt unable to do.<br>I am sorry tHat I couldn't be any more helpful.<br>If it's not asked too much, I would like you to help me out again tomorrow.^,^^,^^,^^,^^,^^
+^hk_dira_daily_4_title^,^A Foul Stench^,^^,^^,^^,^^,^^
+^hk_dira_daily_4_RewarderDesc^,^Laman’tuul^,^^,^^,^^,^^,^^
+^hk_dira_daily_4_request_text^,^We have to take care of all the undead in this area.<br>Even if it helps only temporarily.<br><br>Please do your best. Don't let these poor souls be tortured.^,^^,^^,^^,^^,^^
+^hk_dira_daily_4_complete_text^,^Good job.<br>But I think I will need your help again tomorrow.<br>I hope you can find some time for it.^,^^,^^,^^,^^,^^
+^hk_dira_daily_5_title^,^Illusionary Fears^,^^,^^,^^,^^,^^
+^hk_dira_daily_5_RewarderDesc^,^Morns^,^^,^^,^^,^^,^^
+^hk_dira_daily_5_request_text^,^Find the source of the eerie sounds and eliminate it.^,^^,^^,^^,^^,^^
+^hk_dira_daily_5_complete_text^,^The sounds got weaker, but I can still somewHat hear them.<br>I would like you to check on me again tomorrow, in case it is getting worse again.<br>If it's not asked too much.^,^^,^^,^^,^^,^^
+^hk_dira_daily_6_title^,^Firefighter^,^^,^^,^^,^^,^^
+^hk_dira_daily_6_RewarderDesc^,^Private Trid^,^^,^^,^^,^^,^^
+^hk_dira_daily_6_request_text^,^Reduce the numbers of the Caldera wildlife to get them under controll again.<br>Report back to me once you think you have done enough for now.^,^^,^^,^^,^^,^^
+^hk_dira_daily_6_complete_text^,^Thank you, adventurer.<br>THat should be enough for today. I would like you to come again tomorrow and help me again with this.^,^^,^^,^^,^^,^^
+^hk_dira_daily_7_title^,^Rampaging Giants^,^^,^^,^^,^^,^^
+^hk_dira_daily_7_RewarderDesc^,^Cynth Mayer^,^^,^^,^^,^^,^^
+^hk_dira_daily_7_request_text^,^Try to calm down the Tukan Warriors and Reavers of the Bullwark by reducing their numbers bit by bit.<br>You might need to do it a few times until they return back to normal.^,^^,^^,^^,^^,^^
+^hk_dira_daily_7_complete_text^,^Okay tHat should be enough for today.<br>Please come back and see me again tomorrow.^,^^,^^,^^,^^,^^
+^hk_dira_daily_8_title^,^Warp Pass: Diramunus' Lair^,^^,^^,^^,^^,^^
+^hk_dira_daily_8_RewarderDesc^,^Cynth Mayer^,^^,^^,^^,^^,^^
+^hk_dira_daily_8_request_text^,^You want to visit the Diramunus?<br>Okay, please wait a moment.^,^^,^^,^^,^^,^^
+^hk_dira_daily_8_complete_text^,^Here take this magic scroll. It will bRing you to his lair.^,^^,^^,^^,^^,^^
+^hk_dira_main_0_0_title^,^Rumors of Demonic^,^^,^^,^^,^^,^^
+^hk_dira_main_0_0_RewarderDesc^,^Elder Serlian^,^^,^^,^^,^^,^^
+^hk_dira_main_0_0_request_text^,^Hello, adventurer!<br>Have you heard about those weird rumors across the continent, tHat there is demons and undead showing up everywhere recently?<br><br>Apparently there is a hint in the Hakanas Highlands around Zadaran.<br>Go and meet Serlian there.^,^^,^^,^^,^^,^^
+^hk_dira_main_0_0_complete_text^,^Oh and adventurer. WHat a rare sight these days.<br>Have you come to investigate those weird rumors going around in this area? Well in tHat case...^,^^,^^,^^,^^,^^
+^hk_dira_main_1_0_title^,^The First Hint^,^^,^^,^^,^^,^^
+^hk_dira_main_1_0_RewarderDesc^,^Guard Constance^,^^,^^,^^,^^,^^
+^hk_dira_main_1_0_request_text^,^You should go to the Lavalight Cave and talk to the local guard there. His name is Constance.<br>He was the first who reported about it. So he should be able to tell you more.^,^^,^^,^^,^^,^^
+^hk_dira_main_1_0_complete_text^,^W-WHat? … The rumor?<br>Oh...yeah, right. Just give me a second to catch my breath please...<br><br>I will tell you about it.^,^^,^^,^^,^^,^^
+^hk_dira_main_1_1_title^,^Undead Research I^,^^,^^,^^,^^,^^
+^hk_dira_main_1_1_RewarderDesc^,^Speedy Altemir^,^^,^^,^^,^^,^^
+^hk_dira_main_1_1_request_text^,^Have you seen those moving skeletons out there?<br>It just started recently, but I really can't explain it.<br>I am just a simple guard! This is too much for me to handle.<br>Go inside this tunnel and talk to Altemir. He might know a bit more about this.^,^^,^^,^^,^^,^^
+^hk_dira_main_1_1_complete_text^,^The skeletons? Ah why yes, of course. I have an idea wHat happened to them. But I will need your help for tHat.<br>Go and talk to Constance and help him deal with the skeletons and bRing me their cores.<br>THat should bRing some insight on this situation.^,^^,^^,^^,^^,^^
+^hk_dira_main_1_2_title^,^Into the Fiery Ruins^,^^,^^,^^,^^,^^
+^hk_dira_main_1_2_RewarderDesc^,^Speedy Altemir^,^^,^^,^^,^^,^^
+^hk_dira_main_1_2_request_text^,^Okay. I have analyzed the fragments you brought me and it seems tHat it's energy originates from these ruins here.<br>I would like you to travel to it's center and see if you can find anything in there.<br>Good luck!<br><br>(Enter Legendary Mode)^,^^,^^,^^,^^,^^
+^hk_dira_main_1_2_complete_text^,^WHat? A huge golem at the end of the ruins?<br>THat is indeed interesting...I thought this kind of things wouldn't exist anymore.<br><br>Thank you very much for you help.<br>Oh and take this. I found it near the entrance of this cave.^,^^,^^,^^,^^,^^
+^hk_dira_main_2_0_title^,^Priestess In Distress^,^^,^^,^^,^^,^^
+^hk_dira_main_2_0_RewarderDesc^,^Puris^,^^,^^,^^,^^,^^
+^hk_dira_main_2_0_request_text^,^One last thing.<br>An old friend of mine – a merumi priestess – seems to be experiencing similar.<br>Her name is Puris. She is living in Parnas Coast at the Sacred Shallows.<br>Maybe you will find more hints about this rumor there.^,^^,^^,^^,^^,^^
+^hk_dira_main_2_0_complete_text^,^Grrrr. Ssstrangers are not welcome here!<br>...WHat did you sssay? Altemir sent you?<br><br>Well if tHat is the case....Would you please listen to wHat I have to sssay?^,^^,^^,^^,^^,^^
+^hk_dira_main_2_1_title^,^Calming The Ancients^,^^,^^,^^,^^,^^
+^hk_dira_main_2_1_RewarderDesc^,^Puris^,^^,^^,^^,^^,^^
+^hk_dira_main_2_1_request_text^,^I apolgizzze for the rude greeting, my friend.<br>But you sssee we have some problems here lately.<br><br>Familiars tHat have been burried ages ago, started to rise from their tombs high into the sky...<br>So they are out of our reach.<br>Can you help us?^,^^,^^,^^,^^,^^
+^hk_dira_main_2_1_complete_text^,^I think all the familiarsss have been taken care of now.<br>I can't thank you enough.<br><br>But now sssomething else came to my mind...Will you lisssten to me once more?^,^^,^^,^^,^^,^^
+^hk_dira_main_2_2_title^,^Ancient Necromant^,^^,^^,^^,^^,^^
+^hk_dira_main_2_2_RewarderDesc^,^Puris^,^^,^^,^^,^^,^^
+^hk_dira_main_2_2_request_text^,^There is a myth beeing told from the Merumi, tHat tells about an ancient Necromant tHat used to live in thos region.<br>His name was Ashuram.<br>He had the power to bRing the dead back to life.<br>According to tHat myth he lived in a ruin near Farlak.^,^^,^^,^^,^^,^^
+^hk_dira_main_2_2_request_text_attach_0^,^I want you to sssee if there is anything to this myth. And if there is – take care of it, ssso this wont happen again.<br><br>Report back to me when you have found sssomething out about it.^,^^,^^,^^,^^,^^
+^hk_dira_main_2_2_complete_text^,^Ssso the myth was true after all...<br>Yesss I can feel the dark magic fading from this region.<br>I can't thank you enough for this, friend.<br><br>Also one of the bones you brought us had this in his skull. I think you should take it.^,^^,^^,^^,^^,^^
+^hk_dira_main_3_0_title^,^The Void Is Calling^,^^,^^,^^,^^,^^
+^hk_dira_main_3_0_RewarderDesc^,^Sargaso^,^^,^^,^^,^^,^^
+^hk_dira_main_3_0_request_text^,^I have heard about more undead creatures.<br>This time it is in Tritael Rift. Go there and meet Sargaso, he used to come to Parnas every now and then.<br>So he became a good aquaintance of ours. He might know one or another thing from his journeys.^,^^,^^,^^,^^,^^
+^hk_dira_main_3_0_complete_text^,^Who are you?<br>...An adventurer? Hmm...How convenient.<br>I have a favor to ask of you.^,^^,^^,^^,^^,^^
+^hk_dira_main_3_1_title^,^The Lost Roost^,^^,^^,^^,^^,^^
+^hk_dira_main_3_1_RewarderDesc^,^Grimm Golden^,^^,^^,^^,^^,^^
+^hk_dira_main_3_1_request_text^,^I need you to go to the Lost Roost and meet a certain person there.<br>His name is Grimm Golden. He will tell you more.^,^^,^^,^^,^^,^^
+^hk_dira_main_3_1_complete_text^,^Please tell me tHat Sargaso sent you...^,^^,^^,^^,^^,^^
+^hk_dira_main_3_2_title^,^Undead Research II^,^^,^^,^^,^^,^^
+^hk_dira_main_3_2_RewarderDesc^,^Grimm Golden^,^^,^^,^^,^^,^^
+^hk_dira_main_3_2_request_text^,^He did? Thank god.<br>I was waiting for someone to help me with this.<br>I just can't anymore. It is about the Lost Roost...You see all these undead wandeRing around there?<br>Until a short time ago they have just been but a pile of bones.^,^^,^^,^^,^^,^^
+^hk_dira_main_3_2_request_text_attach_0^,^<br>But now they started to move! Can you believe tHat?<br>As if there was some kind of magic behind it.<br><br>I want you to reduce their numbers and try to find a clue as to why this is happening. But it might take some time.^,^^,^^,^^,^^,^^
+^hk_dira_main_3_2_complete_text^,^These ancient documents sure are helpful. I will have a look at them.<br>Thank you, adventurer.^,^^,^^,^^,^^,^^
+^hk_dira_main_3_3_title^,^The Everdrake^,^^,^^,^^,^^,^^
+^hk_dira_main_3_3_RewarderDesc^,^Grimm Golden^,^^,^^,^^,^^,^^
+^hk_dira_main_3_3_request_text^,^Okay I have read these documents.<br>Apparently once every 100 years an ancient dragon appears in the rift, above the island you see behind me. And he is responsible for all these undeads because of his demonic powers tHat spread across the region.^,^^,^^,^^,^^,^^
+^hk_dira_main_3_3_request_text_attach_0^,^<br><br>Go check if you can find something tHat leads you to the whereabouts of this dragon and slay it and hopefully bRing an end to this creepy event.^,^^,^^,^^,^^,^^
+^hk_dira_main_3_3_complete_text^,^It is as I predicted.<br>As soon as you slayed the dragon, all the undead collapsed. Finally things can go back to normal now.<br>Oh and I found this when I was checking the corpses of the undead.<br>I don't know wHat it is, but maybe you can use it.^,^^,^^,^^,^^,^^
+^hk_dira_main_4_0_title^,^Scorching Heat^,^^,^^,^^,^^,^^
+^hk_dira_main_4_0_RewarderDesc^,^Barda’rahn^,^^,^^,^^,^^,^^
+^hk_dira_main_4_0_request_text^,^Also Sargaso told me about something similar happening in Cloying Wastes.<br>You should go there, to Alseik and talk to the residents there.<br>Maybe someone knows something about it.<br>Good luck out there.^,^^,^^,^^,^^,^^
+^hk_dira_main_4_0_complete_text^,^This is terrible, grrr.<br>One of our sacred altars is beeing tainted by something unholy.<br>The Crokhoon-Shamans there are tying their best, but nothing seems to work...^,^^,^^,^^,^^,^^
+^hk_dira_main_4_1_title^,^From Light To Assassin^,^^,^^,^^,^^,^^
+^hk_dira_main_4_1_RewarderDesc^,^Laman’tuul^,^^,^^,^^,^^,^^
+^hk_dira_main_4_1_request_text^,^If you want to help, go to the Death's Shade in the South-East of this region.<br>There will be a shaman named Laman'tuul.<br>Talk to her, she will explain you the situation there.^,^^,^^,^^,^^,^^
+^hk_dira_main_4_1_complete_text^,^Who are you?<br><br>Barda'rahn sent you? Good. I will tell you wHat I know so far.^,^^,^^,^^,^^,^^
+^hk_dira_main_4_2_title^,^Assassins Over The Altar^,^^,^^,^^,^^,^^
+^hk_dira_main_4_2_RewarderDesc^,^Laman’tuul^,^^,^^,^^,^^,^^
+^hk_dira_main_4_2_request_text^,^Do you see this black hole down there?<br>It's filled with death and dark magic. So many undead are lurking around, even local animals tHat were dead before.<br>We need to put them to rest. Can you help us out here, please?^,^^,^^,^^,^^,^^
+^hk_dira_main_4_2_complete_text^,^It seems the dark magic is loweRing, well done adventurer.<br>But I can still feel some leftovers. I will have a look at it.<br><br>Give me some time.^,^^,^^,^^,^^,^^
+^hk_dira_main_4_3_title^,^Insane Experiments^,^^,^^,^^,^^,^^
+^hk_dira_main_4_3_RewarderDesc^,^Laman’tuul^,^^,^^,^^,^^,^^
+^hk_dira_main_4_3_request_text^,^It's time to end this madness.<br>Turns out all these undeads were just test subjects to some insane magician.<br>We need to stop this, so please would you take care of him?<br>I saw him in the middle of this big hole.^,^^,^^,^^,^^,^^
+^hk_dira_main_4_3_complete_text^,^Thank you. I can feel tHat the energy in this place is about to return to normal.<br>So the undead should be able to rest in peace aswell now.<br>Oh and take this. I found it when exploRing this area. Maybe it is of some use for you.^,^^,^^,^^,^^,^^
+^hk_dira_main_5_0_title^,^Black Winds Of The Grasslands^,^^,^^,^^,^^,^^
+^hk_dira_main_5_0_RewarderDesc^,^Yiruhan^,^^,^^,^^,^^,^^
+^hk_dira_main_5_0_request_text^,^Now tHat this problem here is solved, I wanted to ask you if you can visit a friend of mine.<br>She is a merumi priest who lives in the Akrat Plains, at the Abandoned Watchtower.<br>Her name is Yiruhan. Can you do tHat please?^,^^,^^,^^,^^,^^
+^hk_dira_main_5_0_complete_text^,^Ahh, the famous adventurer.<br>I have heard of your good deeds aroun the continent.<br>Maybe you can help me with something too....^,^^,^^,^^,^^,^^
+^hk_dira_main_5_1_title^,^Demonic Activities^,^^,^^,^^,^^,^^
+^hk_dira_main_5_1_RewarderDesc^,^Morns^,^^,^^,^^,^^,^^
+^hk_dira_main_5_1_request_text^,^Go to my human assistant Morns.<br>You can find him if you fly westwards from here.<br>He said something about very strange Illusions around the canyon...^,^^,^^,^^,^^,^^
+^hk_dira_main_5_1_complete_text^,^Ah...Are you real?<br>Don't scare me like tHat!...<br>WHat? Yiruhan sent you? THat explains.<br><br>Okay I will tell you wHat's going on here.^,^^,^^,^^,^^,^^
+^hk_dira_main_5_2_title^,^ConqueRing The Canyon^,^^,^^,^^,^^,^^
+^hk_dira_main_5_2_RewarderDesc^,^Morns^,^^,^^,^^,^^,^^
+^hk_dira_main_5_2_request_text^,^Recently I have been studying the canyon but I started heaRing eerie sounds.<br>So I started to be a bit more cautious aroun this area.<br><br>Now my request would be if you could check and try to find the source of these sounds?^,^^,^^,^^,^^,^^
+^hk_dira_main_5_2_complete_text^,^The sounds have stopped? WHat was it?<br>Demon illusions? Really...THat's interesting.<br>Then I might know where these came from...^,^^,^^,^^,^^,^^
+^hk_dira_main_5_3_title^,^Ending The Herecy^,^^,^^,^^,^^,^^
+^hk_dira_main_5_3_RewarderDesc^,^Yiruhan^,^^,^^,^^,^^,^^
+^hk_dira_main_5_3_request_text^,^Move to the Roshu Ruins and go westwards from it.<br>There you should find a big cave. But be carefull. It will be well guarded.<br>In there you will find a demon-possessed Pirate. <br>Get rid of him and the demons should stop appreaing.^,^^,^^,^^,^^,^^
+^hk_dira_main_5_3_complete_text^,^Morns reported to me.<br>It seems tHat you were of great help to him and solve his issues at the canyon.<br><br>Also he left this with me and told me to give this to you. He said it will be useful for you.^,^^,^^,^^,^^,^^
+^hk_dira_main_6_0_title^,^New From The Highlands Knights^,^^,^^,^^,^^,^^
+^hk_dira_main_6_0_RewarderDesc^,^Dispatch Cheif Rogers^,^^,^^,^^,^^,^^
+^hk_dira_main_6_0_request_text^,^Elena here told me tHat she received news from Dispatch Chief Rogers in the Hakanas Highlands.<br>Apparently something is happening at the Divinity Shore.<br><br>Go meet him. He will give you further instructions.^,^^,^^,^^,^^,^^
+^hk_dira_main_6_0_complete_text^,^About time someone arrives!<br>This is getting out of hand...^,^^,^^,^^,^^,^^
+^hk_dira_main_6_1_title^,^Rumbeling Volcano^,^^,^^,^^,^^,^^
+^hk_dira_main_6_1_RewarderDesc^,^Private Trid^,^^,^^,^^,^^,^^
+^hk_dira_main_6_1_request_text^,^My subordinate, Private Trid near the Broken Caldera reported unusual behavior of the local wildlife and the Pirates at the Divinity Shore to me.<br>But I have no time to go there myself.<br>Would you be able to do it for me?^,^^,^^,^^,^^,^^
+^hk_dira_main_6_1_complete_text^,^Reinforcements?...Thank god.<br>I thought, I would be waiting forever....^,^^,^^,^^,^^,^^
+^hk_dira_main_6_2_title^,^Chaotic Caldera^,^^,^^,^^,^^,^^
+^hk_dira_main_6_2_RewarderDesc^,^Private Trid^,^^,^^,^^,^^,^^
+^hk_dira_main_6_2_request_text^,^The situation is the following: All the wildlife in the Broken Caldera is going crazy.<br>If we don't take measures they will go out of controll and spread out of the caldera and attack the whole Highlands.<br>Can you lend me a hand?^,^^,^^,^^,^^,^^
+^hk_dira_main_6_2_complete_text^,^Well done. I think we have the situation under controll now.<br>So we can start taking care of the other problem we have here...^,^^,^^,^^,^^,^^
+^hk_dira_main_6_3_title^,^Scavanging Pirates^,^^,^^,^^,^^,^^
+^hk_dira_main_6_3_RewarderDesc^,^Private Trid^,^^,^^,^^,^^,^^
+^hk_dira_main_6_3_request_text^,^On the other side of this beach, the Divinity Shore, there are a bunch of pirates tHat are wrecking havoc lately.<br>I want you to drive them off by defeating their captain. His name is Mercyless Jeranin.<br>You will recognize him when you see him.^,^^,^^,^^,^^,^^
+^hk_dira_main_6_3_complete_text^,^You defeated him? Great!<br>THat should drive off these nasty pirates from our shore.<br>I can't thank you enough.<br><br>Also I found this weird fragment when beeing on patrol in the Caldera.<br>You take it, maybe you find out wHat to do with it.^,^^,^^,^^,^^,^^
+^hk_dira_main_6_4_title^,^Report From Trid^,^^,^^,^^,^^,^^
+^hk_dira_main_6_4_RewarderDesc^,^Dispatch Cheif Rogers^,^^,^^,^^,^^,^^
+^hk_dira_main_6_4_request_text^,^Now tHat everythig here is done, please report back to Chief Rogers for me.^,^^,^^,^^,^^,^^
+^hk_dira_main_6_4_complete_text^,^Your report?<br>Hmm...I see.<br><br>Thank you very much, adventurer. I see you have been very helpful here.<br>I hope it wasn't too much of a hassle.^,^^,^^,^^,^^,^^
+^hk_dira_main_7_0_title^,^The Last Bulwark^,^^,^^,^^,^^,^^
+^hk_dira_main_7_0_RewarderDesc^,^Cynth Mayer^,^^,^^,^^,^^,^^
+^hk_dira_main_7_0_request_text^,^Captain Tortus sent me a messenger crow earlier.<br>He received word of you beeing here, and wants you to meet up with his assistant Cynth Mayer from the Onyx Order.<br>Go to Fort Baellas in  the Sea of Hakanas.^,^^,^^,^^,^^,^^
+^hk_dira_main_7_0_complete_text^,^Are you the one Tortus sent to me?<br>Very good! I have been waiting for your arrival.^,^^,^^,^^,^^,^^
+^hk_dira_main_7_1_title^,^Devilish Trails^,^^,^^,^^,^^,^^
+^hk_dira_main_7_1_RewarderDesc^,^Cynth Mayer^,^^,^^,^^,^^,^^
+^hk_dira_main_7_1_request_text^,^As you know, there were these rumors about demonic activites all around the continent lately.<br>And I think we are on to something very recent in this area tHat might give us a hint about it's origin.<br><br>^,^^,^^,^^,^^,^^
+^hk_dira_main_7_1_request_text_attach_0^,^The first thing we need to do is investigate on the giants around the Bullwark in the south.<br>They have been very uneasy and aggessive lately. I want you to take care of them and watch their behavior for some time.^,^^,^^,^^,^^,^^
+^hk_dira_main_7_1_complete_text^,^These weird crystals tHat you found are most interesting.<br>They seem to be from ancient origin, but yet they were only created recently.<br>Just wHat is going on here?<br><br>I have an idea...^,^^,^^,^^,^^,^^
+^hk_dira_main_7_2_title^,^Titan Of The Earth^,^^,^^,^^,^^,^^
+^hk_dira_main_7_2_RewarderDesc^,^Cynth Mayer^,^^,^^,^^,^^,^^
+^hk_dira_main_7_2_request_text^,^I want you to go to the Gusting Isles. There is a huge golem slumbeRing, called Titan Tranua.<br>Maybe he will give us a hint about these weird crystals we found at the giants.^,^^,^^,^^,^^,^^
+^hk_dira_main_7_2_complete_text^,^Hmm...No clue there? I see.<br>Well then I guess then you have to do it...There is no other choice.^,^^,^^,^^,^^,^^
+^hk_dira_main_7_3_title^,^Titan Of The Sea^,^^,^^,^^,^^,^^
+^hk_dira_main_7_3_RewarderDesc^,^Cynth Mayer^,^^,^^,^^,^^,^^
+^hk_dira_main_7_3_request_text^,^We should try and ask the ruler of this region. The titan of the sea – Attaius (Master mode).<br>He might be the only one who could possibly know something about these.<br>But be prepared to fight. First you will need to be aknowledged by him.^,^^,^^,^^,^^,^^
+^hk_dira_main_7_3_complete_text^,^And? WHat did he say?<br>WHat?....A Demon in a volcanic cave?<br>And he gave you another of these weird fragments tHat you already had hmmmm....<br><br>H-Huh?!^,^^,^^,^^,^^,^^
+^hk_dira_main_7_4_title^,^Hidden Underworld^,^^,^^,^^,^^,^^
+^hk_dira_main_7_4_RewarderDesc^,^Cynth Mayer^,^^,^^,^^,^^,^^
+^hk_dira_main_7_4_request_text^,^The fragments are resonating!<br>They seem to form some sort of...idol of a demon?<br>Wait! I have seen this in some old documents before!<br><br>I never thought this would ever happen...<br>The fragments you had before,^,^^,^^,^^,^^,^^
+^hk_dira_main_7_4_request_text_attach_0^,^ they were part of something old... and evil.<br>It was a demon tHat was meant to be locked away aeons ago. His name is Diramunus.<br>It seems tHat he has awoken from his long slumber now.<br> Meet me at the Bulwark. I want to show you something.^,^^,^^,^^,^^,^^
+^hk_dira_main_7_4_complete_text^,^You're here!<br>There used to be an old shrine inside a volcanic cave. But the entrance was sealed off long ago because of wHat was inside.<br>But now it seems tHat we have to enter it and seal the demon again.<br>Take this, it will guide you to him.^,^^,^^,^^,^^,^^
+^hk_fairy_daily_1_title^,^Fairies At Unease^,^^,^^,^^,^^,^^
+^hk_fairy_daily_1_RewarderDesc^,^Iliad^,^^,^^,^^,^^,^^
+^hk_fairy_daily_1_request_text^,^First of all we should investigate those faires for a bit, before we can know more.<br> Take care of some of the Lake Fairies and let's see wHat will happen.^,^^,^^,^^,^^,^^
+^hk_fairy_daily_1_complete_text^,^Good job. THat's enough for today. Please come back to help again tomorrow!^,^^,^^,^^,^^,^^
+^hk_fairy_daily_2_title^,^Fairy Corruption^,^^,^^,^^,^^,^^
+^hk_fairy_daily_2_RewarderDesc^,^Mullec^,^^,^^,^^,^^,^^
+^hk_fairy_daily_2_request_text^,^For now we should see how the smaller fairies there take our presence. But don't take them too lightly.<br>They might get agressive towards everyone who gets close to them.<br><br>Take care of the corrupted light fairies in the South-East.^,^^,^^,^^,^^,^^
+^hk_fairy_daily_2_complete_text^,^So wHat did you see?<br><br>...<br><br>Ah, I see. THat is very interesting indeed...<br>Please come and see me again tomorrow.^,^^,^^,^^,^^,^^
+^hk_fairy_daily_3_title^,^Uproar In The Clouds^,^^,^^,^^,^^,^^
+^hk_fairy_daily_3_RewarderDesc^,^Famku’shan^,^^,^^,^^,^^,^^
+^hk_fairy_daily_3_request_text^,^Please take care of the fairies on our farms and reduce their numbers, hopefully they will stop eventually.^,^^,^^,^^,^^,^^
+^hk_fairy_daily_3_complete_text^,^Okay it seem the fairies are gone for a moment now!<br>Thank you very much.<br>Now we can do some farmwork again.<br>But please come back again tomorrow, just in case.^,^^,^^,^^,^^,^^
+^hk_fairy_daily_4_title^,^Enslaved Fairies^,^^,^^,^^,^^,^^
+^hk_fairy_daily_4_RewarderDesc^,^Potzdel^,^^,^^,^^,^^,^^
+^hk_fairy_daily_4_request_text^,^Please check on the enslaved fairies in this area. We need to help them.^,^^,^^,^^,^^,^^
+^hk_fairy_daily_4_complete_text^,^Thank you so much! This should give us some insight into this weird situation.<br><br>Please come back tomrrow.^,^^,^^,^^,^^,^^
+^hk_fairy_daily_5_title^,^Sick Saplings In The Forest^,^^,^^,^^,^^,^^
+^hk_fairy_daily_5_RewarderDesc^,^Chiki^,^^,^^,^^,^^,^^
+^hk_fairy_daily_5_request_text^,^Please help and take care off the tree fairies and the sick trees!^,^^,^^,^^,^^,^^
+^hk_fairy_daily_5_complete_text^,^T-Thank you. It seems they have calmed down a bit now. Please come back to help again tomorrow!^,^^,^^,^^,^^,^^
+^hk_fairy_daily_6_title^,^Frenzy In The Sanctuary^,^^,^^,^^,^^,^^
+^hk_fairy_daily_6_RewarderDesc^,^Retio^,^^,^^,^^,^^,^^
+^hk_fairy_daily_6_request_text^,^H-Help! These fairies are going completely wild!<br><br>If we don't do anything, it will only get worse!<br>Please get rid of some of these fairies, fast!^,^^,^^,^^,^^,^^
+^hk_fairy_daily_6_complete_text^,^Thanks to you situation is somewHat under controll again!<br>Please check in again tomorrow.<br>I might need your help again.^,^^,^^,^^,^^,^^
+^hk_fairy_daily_7_title^,^Ancient Elf Excavation^,^^,^^,^^,^^,^^
+^hk_fairy_daily_7_RewarderDesc^,^Dineh^,^^,^^,^^,^^,^^
+^hk_fairy_daily_7_request_text^,^I want you to do some research in the Ancient Elf Ruins in the South-West of here.<br><br>Some of the dark elves there will probably try to stop you, so you will have to fight them to do your research in peace.<br>So please be careful.^,^^,^^,^^,^^,^^
+^hk_fairy_daily_7_complete_text^,^Thank you for your efforts.<br>But we might need a bit more research, so please come by again tomorrow!^,^^,^^,^^,^^,^^
+^hk_fairy_daily_8_title^,^Warp Pass: Fairy Dragon's Nest^,^^,^^,^^,^^,^^
+^hk_fairy_daily_8_RewarderDesc^,^Surveillant Teburiner^,^^,^^,^^,^^,^^
+^hk_fairy_daily_8_request_text^,^You want to visit the Fairy Dragon?<br>Okay, please wait a moment.^,^^,^^,^^,^^,^^
+^hk_fairy_daily_8_complete_text^,^Here take this magic scroll. It will bRing you to him.^,^^,^^,^^,^^,^^
+^hk_fairy_main_0_0_title^,^Rumors of Magic^,^^,^^,^^,^^,^^
+^hk_fairy_main_0_0_RewarderDesc^,^Major James^,^^,^^,^^,^^,^^
+^hk_fairy_main_0_0_request_text^,^Hello, rider!<br><br>We have heard from our researchers around the continent tHat the fairies in each region are starting to behave weird.<br>I want you to go and help them to investigate this phenomenon.<br>First go to Kellwoods and meet major James.^,^^,^^,^^,^^,^^
+^hk_fairy_main_0_0_complete_text^,^Ahhh, welcome.<br>I have waited for your arrival. <br>I will tell you all I know about our current situation here.^,^^,^^,^^,^^,^^
+^hk_fairy_main_1_0_title^,^Trouble at the Lake^,^^,^^,^^,^^,^^
+^hk_fairy_main_1_0_RewarderDesc^,^Iliad^,^^,^^,^^,^^,^^
+^hk_fairy_main_1_0_request_text^,^I would like you to go and visit my assistant Iliad at the Morineh Lake. <br>He is currently investigation the local fairies there. <br>I told him to explain you everything he knows so far. I wish you good luck with this case, rider.^,^^,^^,^^,^^,^^
+^hk_fairy_main_1_0_complete_text^,^Hello, rider! Finally a helping hand!<br>I am going crazy with these fairies here.^,^^,^^,^^,^^,^^
+^hk_fairy_main_1_1_title^,^A Magical Fragment^,^^,^^,^^,^^,^^
+^hk_fairy_main_1_1_RewarderDesc^,^Iliad^,^^,^^,^^,^^,^^
+^hk_fairy_main_1_1_request_text^,^They started to Randomly attack me while I was working on the fish traps.<br>Please take care of them, maybe you can find something tHat gives us a hint of wHat made them so angry.^,^^,^^,^^,^^,^^
+^hk_fairy_main_1_1_complete_text^,^Thanks to you the fairies have calmed down a bit.<br>Oh! And I found this at the shore in one of my fish traps.<br> WHatever it is, you should hold onto it.^,^^,^^,^^,^^,^^
+^hk_fairy_main_2_0_title^,^News from the Pegasus Knights^,^^,^^,^^,^^,^^
+^hk_fairy_main_2_0_RewarderDesc^,^Velakur^,^^,^^,^^,^^,^^
+^hk_fairy_main_2_0_request_text^,^The major told me, tHat he got some news from one of the leading forces in the Tritael Rift. <br>Her name is Velakur.<br><br>You should go and visit her. It seems to be tHat they also happen to have problems with the fairies of their region.^,^^,^^,^^,^^,^^
+^hk_fairy_main_2_0_complete_text^,^Thank you for coming, rider! Please talk to my superior Mullec over there, he will tell you more about our situation.^,^^,^^,^^,^^,^^
+^hk_fairy_main_2_1_title^,^Magic Research In The Rift^,^^,^^,^^,^^,^^
+^hk_fairy_main_2_1_RewarderDesc^,^Mullec^,^^,^^,^^,^^,^^
+^hk_fairy_main_2_1_request_text^,^Recently we were investigating a weird situation in the South-East of the Rift. Apparently the fairies over there have been somewHat corrupted, but we don't know the cause of tHat.<br><br>Please help us to look into it closer.^,^^,^^,^^,^^,^^
+^hk_fairy_main_2_1_complete_text^,^Okay we got a clue about the origin of the fairies corruption.<br>I will give you further instructions with your next quest.^,^^,^^,^^,^^,^^
+^hk_fairy_main_2_2_title^,^Cleansing The Corruption^,^^,^^,^^,^^,^^
+^hk_fairy_main_2_2_RewarderDesc^,^Mullec^,^^,^^,^^,^^,^^
+^hk_fairy_main_2_2_request_text^,^I want you to take care of a fairy called „Ikeria“.<br>She is the reason why the other fairies got corrupted, so she has to disappear to finally solve this problem.^,^^,^^,^^,^^,^^
+^hk_fairy_main_2_2_complete_text^,^Thank you rider.<br>This should help the fairies here return to normal again!<br>Oh! And we found something weird on the fairies Island.<br>Maybe it can of some use for you.<br><br>^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_0_title^,^Issues At The Sea^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_0_RewarderDesc^,^Bakir^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_0_request_text^,^Captain Bakir over there wants to see you.<br>It seems to be urgent, so please go and talk to him^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_0_complete_text^,^I heard from your good job in the Tritael Rift.<br>I have another job for you.<br><br>Talk to me if you want to know more about it.^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_1_title^,^Restless Farmers^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_1_RewarderDesc^,^Famku’shan^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_1_request_text^,^Please meet one of the workers near the Cloudy Farm at the Sea of Hakanas.<br>His name is Famku'shan.<br> They seem to have some sort of issue with their farms there.^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_1_complete_text^,^Talk to me once the issues there are solved!<br>Good luck to you, rider.^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_2_title^,^Rowdy Fairies^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_2_RewarderDesc^,^Famku’shan^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_2_request_text^,^Did Captain Bakir send you to help us?<br><br>Our farm is beeing destroyed by those fairies up there.<br>We really need to do something about them as soon as possibe!<br><br>For now help us to reduce their numbers, please.^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_2_complete_text^,^THat should do for now, thanks a lot!<br> But we might need your help again if they come back.<br><br>Please come back tomorrow.^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_3_title^,^Enough Bullying!^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_3_RewarderDesc^,^Bakir^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_3_request_text^,^Okay, listen.<br>We found out tHat those fairies happen to have a leader called „Lumitern“.<br><br>Get rid of her, it should scare away the other fairies, too!^,^^,^^,^^,^^,^^
+^hk_fairy_main_3_3_complete_text^,^Thanks to your efforts they can finally go back to work.<br>Oh and also in one of the farms they found a strange object.<br>We don't know wHat it is, but maybe it will be of some use for you.<br>Here Take it with you.^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_0_title^,^Into The Heat^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_0_RewarderDesc^,^Bartolo^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_0_request_text^,^Next I want you to go to Cloying Wastes and talk to the Elder of Alseik there.<br><br>A messenger told me tHat he needs help of a capable rider.^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_0_complete_text^,^Thank your for taking the trouble to come all the way to this desert.^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_1_title^,^Golden Peak Research^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_1_RewarderDesc^,^Potzdel^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_1_request_text^,^I know it was a long way, but can I ask you to go to the Golden Peak?<br>One of the researchers there has encountered something very weird.<br>His name is Potzdel.<br><br>Go to him, he will tell you more about this situation.^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_1_complete_text^,^Oh! Thank you for coming, adventurer.<br><br>I have something to tell you, but please listen to the end. Even if it sounds crazy.^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_2_title^,^Bizzare Slavery^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_2_RewarderDesc^,^Potzdel^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_2_request_text^,^This is so bizarre, I tell you.<br><br>Okay, listen.<br>For some unknown reason the giant bat Shakiba tHat is living in this area, has enslaved all the fairies to work for him.<br>We have to see why this happened. Please check on the fairies in this area.^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_2_complete_text^,^Okay I think we have enough infos on this. <br>It's time to take care of the cause for this.^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_3_title^,^An End To The Slavery^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_3_RewarderDesc^,^Potzdel^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_3_request_text^,^Please kill Shakiba the giant gold bat to free the fairies of this area.<br>He is usually flying around his nest which is in the cave in the middle of this area.<br>According to our research he flies around 300 – 320 meter high.^,^^,^^,^^,^^,^^
+^hk_fairy_main_4_3_complete_text^,^Great! You did it! Now the fairies can go back to their original life in the woods.<br><br>And one of them brought me this weird fragment.<br>Do you know wHat it is? Eitherway you should keep it. I'm sure you can use it better than me.^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_0_title^,^To The Forest Of Fairies^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_0_RewarderDesc^,^Truth Seer^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_0_request_text^,^Oh! One last thing.<br><br>One of the faries told me about their home. The Brakarr Forest.<br>You should go there and meet one of their friends.<br>Maybe he knows something tHat is of interest for you.^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_0_complete_text^,^Hello there. But who are you?<br>Oh? One of the fairies tHat used to live here sent you to me?<br><br>Hmm.... Yes, there is actually someting I want you to check.^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_1_title^,^A Fairy In Distress^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_1_RewarderDesc^,^Chiki^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_1_request_text^,^Please go and see Chiki the fairy.<br>She is living next to the big Magic tree of this region in the North-East.<br><br>The last time I talked to her, she seemed a bit nervous...I want you to see if you can help her.^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_1_complete_text^,^Are you a friend of the Truth Seer?<br><br>Please help me, our queen is not taking take of us anymore.^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_2_title^,^A Sick Forest^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_2_RewarderDesc^,^Chiki^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_2_request_text^,^N-Not good!<br><br>The trees here started to look very sick. And it makes the local fairies very angry, so they wont event let us get close to treat them! Not good!<br><br>Please help and do something about the fairies and the sick trees!^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_2_complete_text^,^Thank you! This should improve the situation a bit, and slow down the illness of the trees.<br><br>But there is still another problem...^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_3_title^,^Not All THat Glitters Is Magic^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_3_RewarderDesc^,^Chiki^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_3_request_text^,^Do you remember the other problem I mentioned?<br><br>It's Elquines – the fairy queen.<br>She is not taking care of this forest as she used to.<br>We need to show her wHat is happening.<br><br>Can you go and try to wake her up again?^,^^,^^,^^,^^,^^
+^hk_fairy_main_5_3_complete_text^,^Did you bRing her back to her senses ?<br><br>I hope you weren't too rough! But it seems the trees are getting better already thanks to her magic! Thank you so much!<br><br>Oh and she asked me to give you this. She said you will need it.^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_0_title^,^And Old Friend^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_0_RewarderDesc^,^Old Eldrassil^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_0_request_text^,^Since everything is solved here now, we can live in peace again!<br>But I heard Old Eldrassil's voice in my head. He is calling for help in Ellora's Sanctuary!<br>Please hurry and help him!^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_0_complete_text^,^Chiki has sent you to me?<br>Ho-ho, wHat a reliable fairy she is.<br><br>You see adventurer, I have watched you solving all the issues with the fairies around the continent.<br>But there is one more group tHat makes trouble...^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_1_title^,^A Scout In Danger^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_1_RewarderDesc^,^Retio^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_1_request_text^,^I saw tHat an Elven Scout named Retio seems to have problems with the fairies in the North of this Region.<br>Please go and help him out of his misery.^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_1_complete_text^,^H-Help me! These fairies are crazy!^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_2_title^,^Wild Fairies Of The North^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_2_RewarderDesc^,^Retio^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_2_request_text^,^These fairies are completely out of controll!<br>We need to reduce their numbers drastically for some time or things will go out of controll soon.<br><br>Please help me with this.^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_2_complete_text^,^Okay...Phew!<br>This was exhausting. I really appreciate your help...actually I felt a bit scared before you arrived.<br>But now we need to take care of the root of this problem...^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_3_title^,^From Frenzy To Friendly^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_3_RewarderDesc^,^Retio^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_3_request_text^,^Do you see this big fairy there? She seems to be the source of the frenzy.<br><br>We should take care of her...We need to end this.<br>I'll leave it up to you how you do it.<br>Talk to me when you are done, I will keep the other fairies away from you.^,^^,^^,^^,^^,^^
+^hk_fairy_main_6_3_complete_text^,^Are you done?<br>Great!<br><br>Thanks to you we have finally sorted this issue.<br><br>Oh also I found this on the ground between the fairies. I can't tell wHat it's used for, but maybe you should take it with you.^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_0_title^,^Report To Eldrassil^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_0_RewarderDesc^,^Old Eldrassil^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_0_request_text^,^You should go back to Old Eldrassil and give him my thanks for sending you over.^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_0_complete_text^,^I see you have sorted out all the fairy-problems on this continent!<br>We really appreciate you help in this matter.^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_1_title^,^Mysteries Of The South^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_1_RewarderDesc^,^Dineh^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_1_request_text^,^I have a last request for you.<br>Please go and see the elves in the south of Ellora's Sanctuary at Eleeno Forest.<br>Dineh there might have made some discovery tHat could be interesting for you.^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_1_complete_text^,^Ah there you are!<br>I have been waiting for you!<br><br>I talked to Old Eldrassil before and he said he would send someone over to help me with this.^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_2_title^,^A New Hint?^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_2_RewarderDesc^,^Dineh^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_2_request_text^,^We found something interesting in the Ancient Elf Ruins in the Sout-West.<br>But we can't investigate further because of these chaos elves lurking around there.<br>I need you to take care of them so we can proceed with our research.^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_2_complete_text^,^You are such a great help!<br><br>We got enough research data from the ancient slates we found.<br>But tHat leaves one last thing to do...^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_3_title^,^The Last Magic Fragment^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_3_RewarderDesc^,^Gomora^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_3_request_text^,^According to these documents you brought us, there is one of the great ancient elves still around.<br>His name is Lenanzar.<br>You need to talk to him...but be careful. He might not be the same because of those chaos elves lurking around his hiding place.^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_3_complete_text^,^As I thought...<br>WHat a shame tHat one of the great elves was finally found but yet not himself anymore due to the bad influence of the chaos elves.<br>I will make sure he will rest in peace now.<br>Here take this magic fragment he was holding onto.^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_4_title^,^Hidden Path In The Sanctuary^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_4_RewarderDesc^,^Surveillant Teburiner^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_4_request_text^,^Apparently the fairy chisel you were carrying is now resonating with the magic fragments in your possession.<br>You should take them to one of our specialists near the Ancient Elf Ruins. Maybe he can tell you wHat this means.<br><br>His name is Teburiner.^,^^,^^,^^,^^,^^
+^hk_fairy_main_7_4_complete_text^,^Ah yes yes!<br><br> Please show me those fragments.<br>Hmm... I have seen traces of similar magic in this area.<br><br>Just give me a moment...<br>Yes! THat's it! Apparently it is some symbol of an ancient creature? And the chisel opened a new path...!^,^^,^^,^^,^^,^^
+^valofe_100day_buff_1_name^,^100 Days Commemorative Rice Cake^,^^,^^,^^,^^,^^
+^fetavor00_buff_1_name^,^Mask Protection^,^^,^^,^^,^^,^^
+^fetavor01_buff_1_name^,^Assassin Shift^,^^,^^,^^,^^,^^
+^fetavor02_buff_1_name^,^Erosion^,^^,^^,^^,^^,^^
+^fetavor03_buff_1_name^,^Intimidation^,^^,^^,^^,^^,^^
+^fetavor04_buff_1_name^,^Mask Inspritation^,^^,^^,^^,^^,^^
+^feharvest00_buff_1_name^,^Have a rich Thanksgiving!^,^^,^^,^^,^^,^^
+^feharvest01_buff_1_name^,^Full Moon Blessing^,^^,^^,^^,^^,^^
+^feharvest02_buff_1_name^,^Richies Agility^,^^,^^,^^,^^,^^
+^feharvest03_buff_1_name^,^Full Moon Protection^,^^,^^,^^,^^,^^
+^feharvest04_buff_1_name^,^Harvest Season!^,^^,^^,^^,^^,^^
+^feharvest05_buff_1_name^,^Have a happy Thanksgiving!^,^^,^^,^^,^^,^^
+^1909songpyeon_buff_1_name^,^Rich Thanksgiving with Rice Cake!^,^^,^^,^^,^^,^^
+^fexmas1903_buff_1_name^,^Merry Icarusmas!^,^^,^^,^^,^^,^^
+^fexmas1904_buff_1_name^,^Holy Night Blessing^,^^,^^,^^,^^,^^
+^fexmas1905_buff_1_name^,^Christmas Gift!^,^^,^^,^^,^^,^^
+^newyear20_buff_1_name^,^2023! Best wishes for a Happy New Year!^,^^,^^,^^,^^,^^
+^fehamster01_buff_1_name^,^Blessing of 2023^,^^,^^,^^,^^,^^
+^fehamster02_buff_1_name^,^A Healthy Year 2023!^,^^,^^,^^,^^,^^
+^fehamster03_buff_1_name^,^Good Fortune for 2023!^,^^,^^,^^,^^,^^
+^fehamster04_buff_1_name^,^Best Wishes for 2023!^,^^,^^,^^,^^,^^
+^fehamster05_buff_1_name^,^Sprinting Towards New Year^,^^,^^,^^,^^,^^
+^2002choco_buff_1_name^,^Happy Valentine's Day!^,^^,^^,^^,^^,^^
+^feevfrog01_buff_1_name^,^Frog wake up!^,^^,^^,^^,^^,^^
+^2003candy_buff_1_name^,^White Day Candy^,^^,^^,^^,^^,^^
+^EmpireDaybff2_buff_1_name^,^Enhanced Ica-Day Potion^,^^,^^,^^,^^,^^
+^happy_birthday_06_buff_1_name^,^Happy Ⅵrthday!^,^^,^^,^^,^^,^^
+^feevskyship01_buff_1_name^,^Eclipse Booster^,^^,^^,^^,^^,^^
+^feev6thship01_buff_1_name^,^Lunar Eclipse Power^,^^,^^,^^,^^,^^
+^feev6thdog01_buff_1_name^,^Happy 6th Anniversary!^,^^,^^,^^,^^,^^
+^feev6thdog02_buff_1_name^,^Sixth' Blessing^,^^,^^,^^,^^,^^
+^20236thcake_buff_1_name^,^Congratulations on your 6th anniversary!^,^^,^^,^^,^^,^^
+^fewaterdra99_buff_1_name^,^Leviathan's Cold Aura^,^^,^^,^^,^^,^^
+^fewaterdra98_buff_1_name^,^Cold-Blooded Scales^,^^,^^,^^,^^,^^
+^fewaterdra02_buff_1_name^,^Mirror's Call^,^^,^^,^^,^^,^^
+^fewaterdra01_buff_1_name^,^Blue Flame Storm^,^^,^^,^^,^^,^^
+^femanticored88_name^,^Ancient Dragon God Spirit^,^^,^^,^^,^^,^^
+^itskillyatu01link_name^,^Ancient Rage^,^^,^^,^^,^^,^^
+^itskillyatu02link_name^,^Ancient Restoration^,^^,^^,^^,^^,^^
+^map_d88_name^,^Dragon God Hideout^,^^,^^,^^,^^,^^
+^EV0_001_5_6002_name^,^Zelnaris Rental Sword (1 Day)^,^^,^^,^^,^^,^^
+^EV4_002_5_6002_name^,^Zelnaris Rental Dagger (1 Day)^,^^,^^,^^,^^,^^
+^EV6_003_5_6002_name^,^Zelnaris Rental Staff (1 Day)^,^^,^^,^^,^^,^^
+^EV1_004_5_6002_name^,^Zelnaris Rental GreatSword (1 Day)^,^^,^^,^^,^^,^^
+^EV5_005_5_6002_name^,^Zelnaris Rental Scepter (1 Day)^,^^,^^,^^,^^,^^
+^EV7_006_5_6002_name^,^Zelnaris Rental Shortbow (1 Day)^,^^,^^,^^,^^,^^
+^EV11_S001_0_0061_name^,^Zelnaris Rental Magic Wand (1 Day)^,^^,^^,^^,^^,^^
+^EV0_001_5_6003_name^,^Zelnaris Rental Sword (30 Days)^,^^,^^,^^,^^,^^
+^EV4_002_5_6003_name^,^Zelnaris Rental Dagger (30 Days)^,^^,^^,^^,^^,^^
+^EV6_003_5_6003_name^,^Zelnaris Rental Staff (30 Days)^,^^,^^,^^,^^,^^
+^EV1_004_5_6003_name^,^Zelnaris Rental GreatSword (30 Days)^,^^,^^,^^,^^,^^
+^EV5_005_5_6003_name^,^Zelnaris Rental Scepter (30 Days)^,^^,^^,^^,^^,^^
+^EV7_006_5_6003_name^,^Zelnaris Rental Shortbow (30 Days)^,^^,^^,^^,^^,^^
+^EV11_S001_0_0062_name^,^Zelnaris Rental Magic Wand (30 Days)^,^^,^^,^^,^^,^^
+^WE0_001_5_7001_name^,^Bloodless Sword^,^^,^^,^^,^^,^^
+^WE4_002_5_7001_name^,^Bloodless Dagger^,^^,^^,^^,^^,^^
+^WE6_003_5_7001_name^,^Bloodless Staff^,^^,^^,^^,^^,^^
+^WE1_004_5_7001_name^,^Bloodless GreatSword^,^^,^^,^^,^^,^^
+^WE5_005_5_7001_name^,^Bloodless Scepter^,^^,^^,^^,^^,^^
+^WE7_006_5_7001_name^,^Bloodless Shortbow^,^^,^^,^^,^^,^^
+^WE9_006_5_7001_name^,^Bloodless Crossbow^,^^,^^,^^,^^,^^
+^WE8_007_5_7001_name^,^Bloodless Lance^,^^,^^,^^,^^,^^
+^WE11_008_5_7001_name^,^Bloodless Magic Wand^,^^,^^,^^,^^,^^
+^SU0_018_6_0001_Name^,^Bloodless Shield^,^^,^^,^^,^^,^^
+^SU1_000_6_0001_Name^,^Bloodless Crest^,^^,^^,^^,^^,^^
+^SU2_011_6_0001_Name^,^Bloodless Gauntlett^,^^,^^,^^,^^,^^
+^SU3_000_6_0001_Name^,^Bloodless Teddy Bear^,^^,^^,^^,^^,^^
+^EV_BO_00_0151_Name^,^Refreshment Talisman (14 Days)^,^^,^^,^^,^^,^^
+^EV_BO_00_0151_Description^,^<R_Y> This talisman can be used for 14 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^EV_BO_00_0152_Name^,^Enjoy Your Summer Vacation (30 Days)^,^^,^^,^^,^^,^^
+^EV_BO_00_0152_Description^,^<R_Y> This talisman can be used for 30 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^EV_BO_00_0153_Name^,^Blessed With A Rich Family (30 Days)^,^^,^^,^^,^^,^^
+^EV_BO_00_0153_Description^,^<R_Y> This talisman can be used for 30 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^EV_BO_00_0154_Name^,^Autumn Arrives (30 Days)^,^^,^^,^^,^^,^^
+^EV_BO_00_0154_Description^,^<R_Y> This talisman can be used for 30 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^EV_BO_00_0155_Name^,^Health is the best! (30 Days)^,^^,^^,^^,^^,^^
+^EV_BO_00_0155_Description^,^<R_Y> This talisman can be used for 30 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^CA_BO_00_0078_Name^,^Ready for Winter! (14 Days)^,^^,^^,^^,^^,^^
+^CA_BO_00_0078_Description^,^<R_Y> This talisman can be used for 14 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^EV_BO_00_0156_Name^,^Merry Icarusmas! (30 Days)^,^^,^^,^^,^^,^^
+^EV_BO_00_0156_Description^,^<R_Y> This talisman can be used for 30 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^EV_BO_00_0157_Name^,^2023 Special Talisman (30 Days)^,^^,^^,^^,^^,^^
+^EV_BO_00_0157_Description^,^<R_Y> This talisman can be used for 30 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^EV_BO_00_0158_Name^,^Happy New Year 2023! (30 Days)^,^^,^^,^^,^^,^^
+^EV_BO_00_0158_Description^,^<R_Y> This talisman can be used for 30 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^EV_BO_00_0159_Name^,^February in Icarus 2023 (30 Days)^,^^,^^,^^,^^,^^
+^EV_BO_00_0159_Description^,^<R_Y> This talisman can be used for 30 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^EV_BO_00_0160_Name^,^It's March Time! (30 Days)^,^^,^^,^^,^^,^^
+^EV_BO_00_0161_Name^,^A Piece of Time (29 Hours)^,^^,^^,^^,^^,^^
+^EV_BO_00_0160_Description^,^<R_Y> This talisman can be used for 30 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^EV_BO_00_0161_Description^,^<R_Y> This talisman can be used for 29 hours from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^EV_BO_00_0162_Name^,^A Piece of Time (29 Days)^,^^,^^,^^,^^,^^
+^EV_BO_00_0162_Description^,^<R_Y> This talisman can be used for 29 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^EV_BO_00_0163_Name^,^When SpRing Arrives (30 Days)^,^^,^^,^^,^^,^^
+^EV_BO_00_0163_Description^,^<R_Y> This talisman can be used for 30 days from the moment it enters your bag and disappears automatically after the timer expired.<br>Booster items must be carried in your bag to take effect.<br>Talismans of the same type to not stack.</R_Y>^,^^,^^,^^,^^,^^
+^gage_open_0018^,^RepaiRing the Portal^,^^,^^,^^,^^,^^
+^gage_open_0019^,^Injecting the Flame^,^^,^^,^^,^^,^^
+^gage_open_0020^,^Disarming the Bomb^,^^,^^,^^,^^,^^
+^gage_open_0021^,^Absorbing the condensed energy^,^^,^^,^^,^^,^^
+^gage_e02_0002^,^Collecting^,^^,^^,^^,^^,^^
+^action_tooltip_action_0121^,^Repair the Portal^,^^,^^,^^,^^,^^
+^action_tooltip_action_0122^,^Inject the Flame^,^^,^^,^^,^^,^^
+^action_tooltip_action_0123^,^Disarm the Bomb^,^^,^^,^^,^^,^^
+^action_tooltip_action_0124^,^Absorb the condensed energy^,^^,^^,^^,^^,^^
+^d11_notice_18^,^Croctus: Those who reject the Red Revolution only deserve death!^,^^,^^,^^,^^,^^
+^d11_notice_19^,^You can feel a strong energy in the direction where the barrier has disappeared.^,^^,^^,^^,^^,^^
+^d11_notice_20^,^Croctus: You're rushing to your death...^,^^,^^,^^,^^,^^
+^d11_notice_21^,^You defeated the Red Revolutionary leader Croctus.^,^^,^^,^^,^^,^^
+^d11_notice_22^,^Congratulations! Cleared the Red Revolutionary Base.^,^^,^^,^^,^^,^^
+^d11_notice_23^,^Let us begin!! I will show you true fear!!^,^^,^^,^^,^^,^^
+^d11_kraktus_005^,^I will kill you all!^,^^,^^,^^,^^,^^
+^d11_notice_24^,^Those who show me their back can only expect death!!^,^^,^^,^^,^^,^^
+^d11_kraktus_006^,^The moment you think it's over, the revolution starts again^,^^,^^,^^,^^,^^
+^d11_notice_25^,^Croctus: You are botheRing me!^,^^,^^,^^,^^,^^
+^d11_notice_26^,^Croctus: I need the power trapped in the stone!^,^^,^^,^^,^^,^^
+^d11_notice_27^,^Croctus: Come out!! Red Revolutionaries!^,^^,^^,^^,^^,^^
+^d11_notice_28^,^Croctus: THat is tremendous power!^,^^,^^,^^,^^,^^
+^d11_kraktus_007^,^Destroy the stone!^,^^,^^,^^,^^,^^
+^d11_kraktus_008^,^Just....great....Ugh!^,^^,^^,^^,^^,^^
+^d11_notice_29^,^Croctus: InterfeRing with me... I will kill you all!^,^^,^^,^^,^^,^^
+^d11_notice_30^,^The portal where you entered the altar was destroyed.^,^^,^^,^^,^^,^^
+^d88_start_01^,^Break the iron gate and enter!^,^^,^^,^^,^^,^^
+^d88_boss_01^,^You defeated Nidaroth.^,^^,^^,^^,^^,^^
+^d88_boss_02^,^You defeated Folcierra.^,^^,^^,^^,^^,^^
+^d88_notice_01^,^You can't pass here.^,^^,^^,^^,^^,^^
+^d88_notice_02^,^You can't pass here.^,^^,^^,^^,^^,^^
+^d88_notice_03^,^You can't pass here.^,^^,^^,^^,^^,^^
+^d88_notice_04^,^You can't pass here!^,^^,^^,^^,^^,^^
+^d88_notice_05^,^You destroyed the giant, cursed Ellora Statue.^,^^,^^,^^,^^,^^
+^d88_notice_06^,^Congratulations! You cleared the Dragon Gods Hideout.^,^^,^^,^^,^^,^^
+^d88_notice_07^,^It is difficult to enter anymore.^,^^,^^,^^,^^,^^
+^d88_boss_03^,^You can go to the next area through one of the doors inside this hall.^,^^,^^,^^,^^,^^
+^d88_notice_08^,^Flames start appeaRing at the edge.^,^^,^^,^^,^^,^^
+^d88_notice_09^,^The flames are getting stronger.^,^^,^^,^^,^^,^^
+^d88_notice_10^,^The flames are getting  even stronger.^,^^,^^,^^,^^,^^
+^d88_notice_11^,^The flames can no longer be avoided.^,^^,^^,^^,^^,^^
+^d88_quad_001^,^I will burn you all!^,^^,^^,^^,^^,^^
+^d88_notice_12^,^The flames disappear.^,^^,^^,^^,^^,^^
+^d88_notice_13^,^^,^^,^^,^^,^^,^^
+^d88_notice_14^,^^,^^,^^,^^,^^,^^
+^d88_notice_15^,^^,^^,^^,^^,^^,^^
+^d88_notice_16^,^^,^^,^^,^^,^^,^^
+^d88_notice_17^,^^,^^,^^,^^,^^,^^
+^d88_notice_18^,^^,^^,^^,^^,^^,^^
+^d88_notice_19^,^^,^^,^^,^^,^^,^^
+^d88_notice_20^,^^,^^,^^,^^,^^,^^
+^d88_notice_21^,^^,^^,^^,^^,^^,^^
+^d88_notice_22^,^^,^^,^^,^^,^^,^^
+^d88_notice_23^,^BOOM!^,^^,^^,^^,^^,^^
+^d88_notice_24^,^Disarm Success^,^^,^^,^^,^^,^^
+^ui_dragonhideout_result_title^,^Dragon God Hideout Result^,^^,^^,^^,^^,^^
+^ui_infinitetower_out_msg^,^All the party members will be moved out of the dungeon, and the dungeon is reset. Would you like to leave the dungeon?^,^^,^^,^^,^^,^^
+^in_d88_pt_01_name^,^Locked Door^,^^,^^,^^,^^,^^
+^in_d88_timerbomb_name^,^Arrow Barrage Bomb^,^^,^^,^^,^^,^^
+^in_d88_Box_01_name^,^Condensed Magic Energy^,^^,^^,^^,^^,^^
+^loading_tip_d88_001^,^When you give up the dungeon or end the game, you are automatically removed from the party.^,^^,^^,^^,^^,^^
+^loading_tip_d88_002^,^Upon death, you will receive a resurrection penalty and will resurrect at a nearby location.^,^^,^^,^^,^^,^^
+^loading_tip_d88_003^,^The rank you achieve depends on your speed and amount of killed monsters.^,^^,^^,^^,^^,^^
+^loading_tip_d88_004^,^There are monsters hiding underground all over the map.^,^^,^^,^^,^^,^^
+^loading_tip_d88_005^,^Somewhere in the depths of the dungeon, you can feel the energy of the blue flame.^,^^,^^,^^,^^,^^
+^N_d11_Crow_01_Name^,^Wounded Crow^,^^,^^,^^,^^,^^
+^N_d11_Crow_01_NameDetail^,^Onyx Order Leader^,^^,^^,^^,^^,^^
+^n_d11_portal_05_Name^,^Repaired Portal^,^^,^^,^^,^^,^^
+^N_D11_Portal_04_Name^,^Portal Device^,^^,^^,^^,^^,^^
+^N_d11_Croctus_01_Name^,^Croctus^,^^,^^,^^,^^,^^
+^N_d11_Croctus_01_NameDetail^,^<Last Boss of the Red Revolutionaries>^,^^,^^,^^,^^,^^
+^n_d11_portal_06_Name^,^Repaired Portal^,^^,^^,^^,^^,^^
+^n_d88_portal_001_Name^,^Door^,^^,^^,^^,^^,^^
+^n_d88_portal_002_Name^,^Door^,^^,^^,^^,^^,^^
+^n_d88_portal_003_Name^,^Door^,^^,^^,^^,^^,^^
+^n_d88_portal_004_Name^,^Door^,^^,^^,^^,^^,^^
+^n_d88_portal_005_Name^,^Door^,^^,^^,^^,^^,^^
+^n_d88_portal_006_Name^,^Door^,^^,^^,^^,^^,^^
+^n_d88_portal_007_Name^,^Dragon Statue Teleporter^,^^,^^,^^,^^,^^
+^n_d88_portal_008_Name^,^Dragon Statue Teleporter^,^^,^^,^^,^^,^^
+^n_d88_portal_009_Name^,^Dragon Statue Teleporter^,^^,^^,^^,^^,^^
+^n_d88_portal_010_Name^,^Dragon Statue Teleporter^,^^,^^,^^,^^,^^
+^n_d88_portal_011_Name^,^Burning Door^,^^,^^,^^,^^,^^
+^n_d88_portal_012_Name^,^Burning Door^,^^,^^,^^,^^,^^
+^n_d88_crow_001_name^,^Crow^,^^,^^,^^,^^,^^
+^n_d88_crow_001_namedetail^,^Onyx Order Leader^,^^,^^,^^,^^,^^
+^n_d88_portal_013_name^,^Dragon Statue Teleporter^,^^,^^,^^,^^,^^
+^n_d88_cutwhale_01_name^,^Damaged Sky Titan^,^^,^^,^^,^^,^^
+^n_d88_crow_002_name^,^Crow^,^^,^^,^^,^^,^^
+^n_d88_crow_002_namedetail^,^Onyx Order Leader^,^^,^^,^^,^^,^^
+^icegodweapon1_name^,^Blue Flame Aura^,^^,^^,^^,^^,^^
+^icegodweapon1_description_1^,^When attacking, there is a 1% chance to activate the Blue Flame Energy for 20 seconds. As long as the Blue Flame Energy is active, Blue Frame Aura will be applied which increases overall attack by 5% for every hit for 20 seconds. (up to 10 stacks)^,^^,^^,^^,^^,^^
+^icegodweapon2_name^,^Blue Flame Aura^,^^,^^,^^,^^,^^
+^icegodweapon2_description_1^,^When attacking, there is a 2% chance to activate the Blue Flame Energy for 20 seconds. As long as the Blue Flame Energy is active, Blue Frame Aura will be applied which increases overall attack by 5% for every hit for 20 seconds. (up to 10 stacks)^,^^,^^,^^,^^,^^
+^icegodwplink_name^,^Blue Flame Aura^,^^,^^,^^,^^,^^
+^itskillyatu01_name^,^Ancient Rage^,^^,^^,^^,^^,^^
+^itskillyatu01_description^,^When attacking, there is a 3% chance to activate Ancient Rage. Ancient Rage deals 75% damage of players attack every second for 10 seconds.^,^^,^^,^^,^^,^^
+^itskillyatu02_name^,^Ancient Restoration^,^^,^^,^^,^^,^^
+^itskillyatu02_description^,^When attacking, there is a 1% chance to activate Ancient Restoration. Ancient Restoration heals 12.5% of the players Health every second for 10 seconds.^,^^,^^,^^,^^,^^
+^ex_0_0358_name^,^Pure Dragon Soul^,^^,^^,^^,^^,^^
+^fq_setc00_0010_name^,^Ancient Dragon God Familiar Set^,^^,^^,^^,^^,^^
+^Dialog_9041018_Title^,^Wounded Crow^,^^,^^,^^,^^,^^
+^Dialog_9041018_Text0^,^Ugh... Ugh...<br>Croctus' is getting stronger.<br>^,^^,^^,^^,^^,^^
+^Dialog_9041018_Text0_attach_0^,^The portal here can be used to track Croctus!<br>But for some reason it's not working.<br>^,^^,^^,^^,^^,^^
+^Dialog_9041018_Text0_attach_1^,^If you look around, you'll find clues to repair the portal! <br>There is no time, so please hurry!!!^,^^,^^,^^,^^,^^
+^Dialog_9041027_Title^,^Crow^,^^,^^,^^,^^,^^
+^Dialog_9041027_Text0^,^Are you following me properly? I found the princess' whereabouts and finally came here.^,^^,^^,^^,^^,^^
+^Dialog_9041028_Title^,^Crow^,^^,^^,^^,^^,^^
+^Dialog_9041028_Text0^,^Ugh... !<br>Are you injured?<br>I think it's hard to go forward because the Sky Titan was damaged. I'm looking for another way to find a way to resume tracking.<br>I keep asking you to cooperate so tHat the unfortunate magical powers will not fluctuate.^,^^,^^,^^,^^,^^
+^ca_ra_00_10022_Description^,^Contains one of the following:
+<UI_G>- Baltrow Deathtouch Totem<br>- Dangellion Mark<br>- Crable of Chaos Mark<br>- Fated Antares Mark<br>- Fated Torkai Mark<br>- Blazing Quilin Mark<br>- Aschente Mark<br>- Bloodguard Kerav Mark</UI_G>^,^^,^^,^^,^^,^^
+^so_test_1_0623_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0624_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0625_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0626_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0627_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0628_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0629_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0630_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0631_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0632_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0633_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0634_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0635_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0636_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0637_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0638_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0639_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0640_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0641_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0642_name^,^Blue Flame^,^^,^^,^^,^^,^^
+^so_test_1_0643_name^,^Quadracan^,^^,^^,^^,^^,^^
+^so_test_1_0647_name^,^Arrow Barrage Bomb^,^^,^^,^^,^^,^^
+^in_d88_timerbo_name^,^Arrow Barrage Bomb^,^^,^^,^^,^^,^^
+^itskillyatu01_description_1^,^When attacking, there is a 3% chance to activate Ancient Rage. Ancient Rage deals 75% damage of players attack every second for 10 seconds.^,^^,^^,^^,^^,^^
+^itskillyatu02_description_1^,^When attacking, there is a 1% chance to activate Ancient Restoration. Ancient Restoration heals 12.5% of the players Health every second for 10 seconds.^,^^,^^,^^,^^,^^
+^ex_0_0346_name^,^Golden Watermelon Piece^,^^,^^,^^,^^,^^
+^ex_0_0346_description^,^You can exchange these at the summer event NPC <UI_G>Glass</UI_G> at Hakains Crossings' Victory Plaza for various items.^,^^,^^,^^,^^,^^
+^ca_bx_00_10026_name^,^Bloodless Armor Crafting Package^,^^,^^,^^,^^,^^
+^ca_bx_00_10026_description^,^Contains the materials for exactly <UI_R>1 attempt</UI_R> of crafting a Bloodless Armor piece.^,^^,^^,^^,^^,^^
+^ca_ra_00_0586_name^,^Familiar Crescent Lucky Box^,^^,^^,^^,^^,^^
+^ca_ra_00_0586_description^,^Gives you a Random Familiar crescent.^,^^,^^,^^,^^,^^
+^ca_ra_00_0595_name^,^Weapon Skin Lucky Box (14 Days)^,^^,^^,^^,^^,^^
+^ca_ra_00_0595_description^,^Contains a Random 14-Day Weapon skin.^,^^,^^,^^,^^,^^
+^ca_ra_00_0587_name^,^Adventure Lucky Box^,^^,^^,^^,^^,^^
+^ca_ra_00_0587_description^,^A lucky box containing various items such as Ellun packages, consumables, Costumes etc.<br><br>Can be re-opened once using Ellun.<br>Contents can be shuffled once by using Ellun.^,^^,^^,^^,^^,^^
+^n_c01_se_2023_01_name^,^Yura^,^^,^^,^^,^^,^^
+^n_c01_se_2023_01_NameDetail^,^Summer Event^,^^,^^,^^,^^,^^
+^dialog_9031753_text0^,^Hello adventurer!<br>Finally, it's Summer!<br><br>You are thankfully working hard to keep Middelas at peace!<br><br>Huh? I look familiar to you?<br>I am Yura, the twin sister of Yuri.<br><br>So?<br>Do you want to have a cool Summer time with me?^,^^,^^,^^,^^,^^
+^dialog_9031753_answer_8_text^,^Summer Event Shop^,^^,^^,^^,^^,^^
+^moadelheal01_name^,^Regenerate^,^^,^^,^^,^^,^^
+^in_f03_spotflag_xmas_name^,^Snowball Fight Manastone^,^^,^^,^^,^^,^^
+^in_f02_summer00_01_name^,^Mysterious Present^,^^,^^,^^,^^,^^
+^itskillgod01_description_2^,^When attacking, there is a 3% chance to activate Ancient Rage. Deals damage equal to 37,5% of the players attack every 0,5 second for 10 seconds.^,^^,^^,^^,^^,^^
+^itskillgod02_description_2^,^When attacking, there is a 1% chance to activate Ancient Restoration. Recovers 12.5% of the players Health every second for 10 seconds.^,^^,^^,^^,^^,^^
+^pc_bp_combine_name^,^Combined PC Bunny's Potion^,^^,^^,^^,^^,^^
+^dghpotion01_name^,^Attack & Defense Boost Elixir^,^^,^^,^^,^^,^^
+^normalpotion_all_name^,^Combat Stat Boost Tincture^,^^,^^,^^,^^,^^
+^bppotion01_supp_name^,^Quick Health Recovery (Support)^,^^,^^,^^,^^,^^
+^pr_revelationlc_pvp_name^,^Revelation (PvP)^,^^,^^,^^,^^,^^
+^pr_revelation_pvp_name^,^Revelation (PvP)^,^^,^^,^^,^^,^^
+^pr_miracleoflc_pvp_name^,^Divine Power: Miracle (PvP)^,^^,^^,^^,^^,^^
+^pr_miracleof_pvp_name^,^Divine Power: Miracle (PvP)^,^^,^^,^^,^^,^^
+^pr_blessofelora_pvp_name^,^Righteous Authority: Blessing (PvP)^,^^,^^,^^,^^,^^
+^pr_blessofelorac_pvp_name^,^Righteous Authority: Blessing (PvP)^,^^,^^,^^,^^,^^
+^so_test_1_1473_name^,^Cherry Blossom Rush^,^^,^^,^^,^^,^^
+^so_test_1_1477_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1478_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1479_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1480_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1481_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1482_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1483_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1484_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1485_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1486_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1487_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1488_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1489_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1490_name^,^Festival of Light^,^^,^^,^^,^^,^^
+^so_test_1_1560_name^,^Magi Controll^,^^,^^,^^,^^,^^
+^so_test_1_1541_name^,^Controll of Light^,^^,^^,^^,^^,^^
+^ex_0_0258_name^,^Divine Cherry Blossoms^,^^,^^,^^,^^,^^
+^ex_0_0258_description^,^Magic cherry blossom petals imbued with the power of the <UI_G>goddess of creation, Ellora</UI_G>.<br>Gather more of these and something wonderful might happen!^,^^,^^,^^,^^,^^
+^ex_0_0363_name^,^Golem Heart Fragment^,^^,^^,^^,^^,^^
+^ex_0_0363_description^,^Blueton asked you to gather some of these and bRing them to him.^,^^,^^,^^,^^,^^
+^ex_soloscroll_01_name^,^Summon Scroll Fragment (Solo)^,^^,^^,^^,^^,^^
+^ex_soloscroll_01_description^,^A scrap of paper tHat seems to be part of some sort of spell.<br>You can exchange them for special summoning scrolls at <UI_G>Phillipe Rabbini</UI_G>.<br><br>Obtained from:<br>- Legendary & Raid Dungeons<br>- Awakened Sandstorm<br>- Dragon God Hideout^,^^,^^,^^,^^,^^
+^ex_soloscroll_01_description_attach_0^,^<br><br>Can be obtained from:<br>- Legendary Dungeons<br>- Attaius (Master)<br>- Fractura Master Mode<br>- Red Revolutionary Base<br>- Dragon God Hideout<br>- Ellora's Spire^,^^,^^,^^,^^,^^
+^ex_guildscroll_01_name^,^Summon Scroll Fragment (Guild)^,^^,^^,^^,^^,^^
+^ex_guildscroll_01_description^,^A scrap of paper tHat seems to be part of some sort of spell.<br>You can exchange them for special summoning scrolls at <UI_G>Kylie</UI_G> infront of the guild hall in Hakain's Crossing.<br><br>Obtained from:<br>- Guild Coin Shop<br>- Daily Guild Quests^,^^,^^,^^,^^,^^
+^ex_guildscroll_01_description_attach_0^,^<br><br>Can be obtained from:<br>- Guild Coin Shop<br>- Daily Guild Quests^,^^,^^,^^,^^,^^
+^ex_boss_solo_name^,^Solo Boss Subjugation Coin^,^^,^^,^^,^^,^^
+^ex_boss_solo_description^,^Obtained by overcoming the challenges of solo boss summoning scrolls.<br>Can be exchanged for useful items at <UI_G>Phillipe Rabbini</UI_G> at Victory Plaza.^,^^,^^,^^,^^,^^
+^ex_boss_guild_name^,^Guild Boss Subjugation Coin^,^^,^^,^^,^^,^^
+^ex_boss_guild_description^,^Obtained by overcoming the challenges of guild boss summoning scrolls.<br>Can be exchanged for useful items at <UI_G>LaraRing Rabbini</UI_G> in the Guild Hall.^,^^,^^,^^,^^,^^
+^qu_0_0_0884_name^,^The SpRing Legend of Middelas<br><UI_G>by Nimue</UI_G>^,^^,^^,^^,^^,^^
+^qu_0_0_0884_description^,^SpRing is finally coming to Ellora! It’s my favorite time of the year and not just because oft he beautiful flowers everywhere.<br><br>Do you know the SpRing Legend of Ellora? No? Then I will tell you!^,^^,^^,^^,^^,^^
+^qu_0_0_0884_description_attach_0^,^<UI_G>„Once upon a time the goddess Ellora fell in love with a young Elf Warrior. He was known for his courage and mercy and protected his little village from the Chaos Elves.<br><br>But sadly he died, lost against the magic of a Dark Mage.</UI_G>^,^^,^^,^^,^^,^^
+^qu_0_0_0884_description_attach_1^,^<UI_G>The world turned into a dark place and all hope was gone.<br><br>Elloras heart was broken. She never cried, but now she cried one tear and placed it in the middle of the little village on the last cherry blossom.”<br><br>The End</UI_G>^,^^,^^,^^,^^,^^
+^Bk_0_0020_name^,^The SpRing Legend of Middelas<br>by Nimue^,^^,^^,^^,^^,^^
+^Bk_0_0020_text^,^<br><br>Once upon a time the goddess Ellora fell in love with a young Elf Warrior. He was known for his courage and mercy and protected his little village from the Chaos Elves.<br><br>But sadly he died, lost against the magic of a Dark Mage.^,^^,^^,^^,^^,^^
+^Bk_0_0020_text_attach_0^,^The world turned into a dark place and all hope was gone.<br><br>Elloras heart was broken. She never cried, but now she cried one tear and placed it in the middle of the little village on the last cherry blossom.<br><br>^,^^,^^,^^,^^,^^
+^Bk_0_0020_text_attach_1^,^And the cherry blossom, now full with divine magic, turned into a powerful legendary beast.<br><br>With the help of this majestic beast, the Dark Elves were finally defeated and SpRing came back to Elloras world.^,^^,^^,^^,^^,^^
+^Bk_0_0020_text_attach_2^,^<br><br>Since then we celebrate the beginning of spRing every year and when the cherry blossoms start to bloom, the legendary beast comes back to Ellora, looking for a Rider with courage and mercy like the young Elf Warrior.<br><br>The End^,^^,^^,^^,^^,^^
+^wr_reactionhitnew_name^,^Bloodbath^,^^,^^,^^,^^,^^
+^wr_reactionhitnew_description_1^,^A mad, loud scream tHat will put you into a frenzy state, in which you ignore all pain for a short time.<br><br>Can be used within 5 seconds after using the <UI_G>first hit of Blasting Blow^,^^,^^,^^,^^,^^
+^wr_reactionhitnew_description_1_Attach_0^,^</UI_G> to trigger the <UI_G>Thrilled</UI_G> buff tHat will make you invcible for a short time.<br><br><UI_R>Shares it's cooldown with 2nd hit of Blasting Blow and has increased cooldown in PvP zones.</UI_R>^,^^,^^,^^,^^,^^
+^scrollsoloaura_aura_1_name^,^Support Challenge Boost^,^^,^^,^^,^^,^^
+^scrollsoloaura_aura_1_description_1^,^Drastically increases your overall attack when facing this boss.<br><UI_R>Only for Guardian, Priest and Idol.</UI_R>^,^^,^^,^^,^^,^^
+^d11_notice_sum1^,^Hostile bunnies have escaped from the Bunny Island.^,^^,^^,^^,^^,^^
+^d11_notice_sum2^,^They are planning an invasion into your territory.^,^^,^^,^^,^^,^^
+^d11_notice_sum3^,^Prepare yourself for battle!^,^^,^^,^^,^^,^^
+^area_f09_eyein^,^Volcanic Cave Entrance^,^^,^^,^^,^^,^^
+^area_f09_eyeout^,^Volcanic Cave Entrance^,^^,^^,^^,^^,^^
+^area_d22_awak_01^,^Izhora's Domain^,^^,^^,^^,^^,^^
+^it_bo_boneraptor_01_name^,^Skelliago's Claw^,^^,^^,^^,^^,^^
+^it_bo_boneraptor_01_description^,^A claw from your familiar Skelliago, tHat temporarily increases your Bleed Rate and Ciritcal Hit Damage as long as you carry it in your bag.^,^^,^^,^^,^^,^^
+^n_d94_portal_020_name^,^Holy Light Stone^,^^,^^,^^,^^,^^
+^N_c01_hufline_002_name^,^Seratia^,^^,^^,^^,^^,^^
+^N_c01_hufline_002_nameDetail^,^Ellora's Lion^,^^,^^,^^,^^,^^
+^N_c01_hufline_003_name^,^Seratia^,^^,^^,^^,^^,^^
+^N_c01_hufline_003_nameDetail^,^Ellora's Lion^,^^,^^,^^,^^,^^
+^N_c01_hufline_004_name^,^Seratia^,^^,^^,^^,^^,^^
+^N_c01_hufline_004_nameDetail^,^Ellora's Lion^,^^,^^,^^,^^,^^
+^N_ev_skygod_01_name^,^Skygod Revael^,^^,^^,^^,^^,^^
+^N_ev_skygod_01_nameDetail^,^Legendary Warrior^,^^,^^,^^,^^,^^
+^n_c01_oylmpic_007_name^,^Anniversary Banquet^,^^,^^,^^,^^,^^
+^n_f09_portal_eyein_name^,^Volcanic Cave Entrance^,^^,^^,^^,^^,^^
+^n_f09_portal_eyeout_name^,^Volcanic Cave Entrance^,^^,^^,^^,^^,^^
+^dialog_1430036_text0^,^(This statue looks weird. It seems to read your mind.)^,^^,^^,^^,^^,^^
+^dialog_1100054_answer_0_text^,^Awakened Dungeon Shop^,^^,^^,^^,^^,^^
+^dialog_9031739_title^,^Hakana's Anniversary Banquet^,^^,^^,^^,^^,^^
+^dialog_9031739_text0^,^A banquet prepared for the Divine Anniversary.^,^^,^^,^^,^^,^^
+^dialog_9031739_answer_0_text^,^Eat from the banquet^,^^,^^,^^,^^,^^
+^Dialog_9999995_title^,^Skygod Revael^,^^,^^,^^,^^,^^
+^Dialog_9999995_text0^,^Oh I see a strong adventurer before me!<br>Why don't you come and accept my challenge?<br>I am looking for brave and heroic fighters all over the world.^,^^,^^,^^,^^,^^
+^Dialog_9999996_title^,^Seratia^,^^,^^,^^,^^,^^
+^Dialog_9999996_text0^,^These lands have been torn between agents of chaos and our benevolent protectors since the days of yore. It is Ellora's power tHat has kept us safe and her will tHat brought myself and my kind to do her bidding. <br><br>^,^^,^^,^^,^^,^^
+^Dialog_9999996_text0_attach_0^,^We are tasked with maintaining the balance of the gods. Are you one to bRing balance? Or are you here to break it?^,^^,^^,^^,^^,^^
+^Dialog_9999996_answer_0_text^,^The Role of the Lion^,^^,^^,^^,^^,^^
+^Dialog_9999996_answer_1_text^,^Legendary Emblem^,^^,^^,^^,^^,^^
+^Dialog_9999996_answer_2_text^,^Awakened Dungeon Shop^,^^,^^,^^,^^,^^
+^Dialog_9999997_title^,^Seratia^,^^,^^,^^,^^,^^
+^Dialog_9999997_text0^,^These lands have been torn between agents of chaos and our benevolent protectors since the days of yore. It is Ellora's power tHat has kept us safe and her will tHat brought myself and my kind to do her bidding. <br><br>^,^^,^^,^^,^^,^^
+^Dialog_9999997_text0_attach_0^,^We are tasked with maintaining the balance of the gods. Are you one to bRing balance? Or are you here to break it?^,^^,^^,^^,^^,^^
+^Dialog_9999997_answer_0_text^,^The Role of the Lion^,^^,^^,^^,^^,^^
+^Dialog_9999997_answer_1_text^,^Legendary Emblem^,^^,^^,^^,^^,^^
+^Dialog_9999997_answer_2_text^,^Awakened Dungeon Shop^,^^,^^,^^,^^,^^
+^Dialog_9999998_title^,^Seratia^,^^,^^,^^,^^,^^
+^Dialog_9999998_text0^,^These lands have been torn between agents of chaos and our benevolent protectors since the days of yore. It is Ellora's power tHat has kept us safe and her will tHat brought myself and my kind to do her bidding. <br><br>^,^^,^^,^^,^^,^^
+^Dialog_9999998_text0_attach_0^,^We are tasked with maintaining the balance of the gods. Are you one to bRing balance? Or are you here to break it?^,^^,^^,^^,^^,^^
+^Dialog_9999998_answer_0_text^,^The Role of the Lion^,^^,^^,^^,^^,^^
+^Dialog_9999998_answer_1_text^,^Legendary Emblem^,^^,^^,^^,^^,^^
+^Dialog_9999998_answer_2_text^,^Awakened Dungeon Shop^,^^,^^,^^,^^,^^
+^d94_notice_01^,^Room cleared! Proceed to the next one.^,^^,^^,^^,^^,^^
+^d94_notice_02^,^10 seconds left until the Executioner arrives! Hurry!^,^^,^^,^^,^^,^^
+^d94_boss_01^,^Suddenly you a lonely Zombie appears.^,^^,^^,^^,^^,^^
+^d94_boss_02^,^I am so alone....*sob*^,^^,^^,^^,^^,^^
+^d94_boss_03^,^Don't be affraid of me...^,^^,^^,^^,^^,^^
+^d94_boss_04^,^Please be my friends...^,^^,^^,^^,^^,^^
+^d94_boss_05^,^All I wanted... was to have friends....*sob*^,^^,^^,^^,^^,^^
+^d94_boss_06^,^4 legendary heroes of the Holy Grail War have appareaed!^,^^,^^,^^,^^,^^
+^d94_boss_07^,^The protector of the animal kingdom has appeared!^,^^,^^,^^,^^,^^
+^d94_boss_08^,^The puppet masters Marie & Net appeared!^,^^,^^,^^,^^,^^
+^d94_boss_09^,^The Black Panther is furious tHat you stole his meat!^,^^,^^,^^,^^,^^
+^d94_boss_10^,^The meat lured in some wild animals.^,^^,^^,^^,^^,^^
+^d94_boss_11^,^The rich flavor of this meat temporarily increased your stats!^,^^,^^,^^,^^,^^
+^d94_boss_12^,^The meat was burnt. Your stats have temporarily decreased!^,^^,^^,^^,^^,^^
+^d94_boss_13^,^Black Panther is no longer around.^,^^,^^,^^,^^,^^
+^dungall_notice_awak0^,^The athmosphere has changed. Be careful about stronger monsters now!^,^^,^^,^^,^^,^^
+^dungall_notice_awak1^,^You can feel a strong energy resonating nearby.^,^^,^^,^^,^^,^^
+^dungall_notice_awak2^,^A dark rift has opened and a powerful creature emerges from it.^,^^,^^,^^,^^,^^
+^setskill_divine1_name^,^Divine Embrace^,^^,^^,^^,^^,^^
+^setskill_divine1_description_1^,^Move Speed +35%     Stat Limit Break +20%<br><br>Activates Divine Embrace skill:<br>Every attack has a 1% chance to trigger the Divine Punishment attack, dealing 900% damage to 20 enemies within 6m of the target.<br><br>^,^^,^^,^^,^^,^^
+^setskill_divine1_description_1_attach_0^,^Activates Divine Surpression skill:<br>Every attack has a 100% chance to reduce the enemy's PvP Attack by 75%, PvP Defense by 100%, Critical Damage & Defense by 1500 for 5 seconds.<UI_R>(Not active in Ellora's Spire)</UI_R>^,^^,^^,^^,^^,^^
+^setskill_divine2_name^,^Divine Embrace^,^^,^^,^^,^^,^^
+^setskill_divine2_description_1^,^Move Speed +35%     Stat Limit Break +20%<br><br>Activates Divine Embrace skill:<br>Every attack has a 1% chance to trigger the Divine Punishment attack, dealing 900% damage to 20 enemies within 6m of the target.<br><br>^,^^,^^,^^,^^,^^
+^setskill_divine2_description_1_attach_0^,^Activates Divine Surpression skill:<br>Every attack has a 100% chance to reduce the enemy's PvP Attack by 75%, PvP Defense by 100%, Critical Damage & Defense by 1500 for 5 seconds.<UI_R>(Not active in Ellora's Spire)</UI_R>^,^^,^^,^^,^^,^^
+^setskill_divinedps_name^,^Divine Transcendence^,^^,^^,^^,^^,^^
+^setskill_divinedps_description_1^,^Ov. Attack +25% HP +20%<br>Crit Dmg +7270        All Attributes +250<br>PvP Attack +100%   PvP Defense +50%<br>PvP Resist +55%    Cooldown Limit +5%<br><br>Activates Divine Transcendence:<br>Enhances your [Awakening] Buff skill:<br>- Duration +2 Minutes^,^^,^^,^^,^^,^^
+^setskill_divinedps_description_1_attach_0^,^<br>- Cooldown -6 Minutes<br>- Buff Effects Increased and adds a unique effect based on your class<br><br>Cautious Aim (Crossbow Skill) triggers Exposed Weakspot:<br>The target will receive +35% damage from all Crossbow attacks for 40 seconds.^,^^,^^,^^,^^,^^
+^setskill_divinegd_name^,^Divine Transcendence^,^^,^^,^^,^^,^^
+^setskill_divinegd_description_1^,^Ov. Attack +25% HP +20%<br>Crit Dmg +6664        All Attributes +250<br>PvP Attack +80%   PvP Defense +90%<br>PvP Resist +55%    Cooldown Limit +5%<br><br>Activates Divine Transcendence:<br>Enhances your [Awakening] Buff skill:<br>- Duration +2 Minutes^,^^,^^,^^,^^,^^
+^setskill_divinegd_description_1_attach_0^,^<br>- Cooldown -6 Minutes<br>- Buff Effects Increased and adds a unique effect based on your class<br><br>Cautious Aim (Crossbow Skill) triggers Exposed Weakspot:<br>The target will receive +35% damage from all Crossbow attacks for 40 seconds.^,^^,^^,^^,^^,^^
+^setskill_divinesup_name^,^Divine Transcendence^,^^,^^,^^,^^,^^
+^setskill_divinesup_description_1^,^Ov. Attack +25% HP +20%<br>Crit Dmg +6361        All Attributes +250<br>PvP Attack +75%   PvP Defense +70%<br>PvP Resist +55%    Cooldown Limit +5%<br><br>Activates Divine Transcendence:<br>Enhances your [Awakening] Buff skill:<br>- Duration +2 Minutes^,^^,^^,^^,^^,^^
+^setskill_divinesup_description_1_attach_0^,^<br>- Cooldown -6 Minutes<br>- Buff Effects Increased and adds a unique effect based on your class<br><br>Cautious Aim (Crossbow Skill) triggers Exposed Weakspot:<br>The target will receive +35% damage from all Crossbow attacks for 40 seconds.^,^^,^^,^^,^^,^^
+^setskill_divinepvp_name^,^Divine Surpression^,^^,^^,^^,^^,^^
+^setskill_divinepvp_description_1^,^Drastically reduces enemies PvP stats.^,^^,^^,^^,^^,^^
+^divinelightning1_name^,^Divine Punishment^,^^,^^,^^,^^,^^
+^divinelightning2_name^,^Divine Punishment^,^^,^^,^^,^^,^^
+^weakness2_name^,^Exposed Weakspot^,^^,^^,^^,^^,^^
+^weakness2_description_1^,^Increases damage received by Crossbow attacks by 35%.^,^^,^^,^^,^^,^^
+^gd_skillbook69_name^,^I'm your target!^,^^,^^,^^,^^,^^
+^gd_skillbook69_description_1^,^Permanently increases threat build-up by 50%.^,^^,^^,^^,^^,^^
+^gd_70skillbook_name^,^Monster Expertise^,^^,^^,^^,^^,^^
+^gd_70skillbook_description_1^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.^,^^,^^,^^,^^,^^
+^wr_70skillbook_name^,^Monster Expertise^,^^,^^,^^,^^,^^
+^wr_70skillbook_description_1^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.^,^^,^^,^^,^^,^^
+^tf_70skillbook_name^,^Monster Expertise^,^^,^^,^^,^^,^^
+^tf_70skillbook_description_1^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.^,^^,^^,^^,^^,^^
+^wz_70skillbook_name^,^Monster Expertise^,^^,^^,^^,^^,^^
+^wz_70skillbook_description_1^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.^,^^,^^,^^,^^,^^
+^pr_70skillbook_name^,^Monster Expertise^,^^,^^,^^,^^,^^
+^pr_70skillbook_description_1^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.^,^^,^^,^^,^^,^^
+^ac_70skillbook_name^,^Monster Expertise^,^^,^^,^^,^^,^^
+^ac_70skillbook_description_1^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.^,^^,^^,^^,^^,^^
+^do_70skillbook_name^,^Monster Expertise^,^^,^^,^^,^^,^^
+^do_70skillbook_description_1^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.^,^^,^^,^^,^^,^^
+^mg_70skillbook_name^,^Monster Expertise^,^^,^^,^^,^^,^^
+^mg_70skillbook_description_1^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.^,^^,^^,^^,^^,^^
+^unarortune01_description_1^,^Makes you immune to the deadly area below Ortune (Stygaea).^,^^,^^,^^,^^,^^
+^wz_nomana_name^,^[Ancient] Last Resort^,^^,^^,^^,^^,^^
+^wz_nomana_description_1^,^When your mana drops below 10%, [Ancient] Black Light will instantly restore some of your mana and health.<br>Level 1: 6% HP and 4% MP<br>Level 2: 7% HP and 8% MP<br>Level 3: 8% HP and 12% MP<br>Level 4: 9% HP and 16% MP<br>Level 5: 10% HP and 20% MP^,^^,^^,^^,^^,^^
+^tf_dangerareaatk2p_name^,^Danger Zone (PvP)^,^^,^^,^^,^^,^^
+^tf_dangerareaatk3p_name^,^Danger Zone (PvP)^,^^,^^,^^,^^,^^
+^tf_dangerareaatk4p_name^,^Danger Zone (PvP)^,^^,^^,^^,^^,^^
+^tf_dangerareaatk5p_name^,^Danger Zone (PvP)^,^^,^^,^^,^^,^^
+^tf_dangerareaatkb1p_name^,^Danger Zone (PvP)^,^^,^^,^^,^^,^^
+^tf_dangerareaatkr1p_name^,^Danger Zone (PvP)^,^^,^^,^^,^^,^^
+^tf_dangerareaatkg1p_name^,^Danger Zone (PvP)^,^^,^^,^^,^^,^^
+^fedreampig99_buff_1_name^,^Illusion of Time and Space^,^^,^^,^^,^^,^^
+^fedreampig97link1_buff_1_name^,^Fate: Health Recovery^,^^,^^,^^,^^,^^
+^fedreampig97link2_buff_1_name^,^Fate: Energy Recovery^,^^,^^,^^,^^,^^
+^fedreampig97link3_buff_1_name^,^Fate: Attack Increase^,^^,^^,^^,^^,^^
+^fedreampig97link4_buff_1_name^,^Fate: Defense Increase^,^^,^^,^^,^^,^^
+^hallowpotion1_buff_1_name^,^Red Dream Essence^,^^,^^,^^,^^,^^
+^hallowpotion2_buff_1_name^,^Blue Dream Essence^,^^,^^,^^,^^,^^
+^hallowpotion3_buff_1_name^,^Green Dream Essence^,^^,^^,^^,^^,^^
+^hallowpotion4_buff_1_name^,^Purple Dream Essence^,^^,^^,^^,^^,^^
+^feicarobotg95_buff_1_name^,^Missle Impact^,^^,^^,^^,^^,^^
+^feicarobotg96_buff_1_name^,^Guild Research^,^^,^^,^^,^^,^^
+^feicarobotg97_buff_1_name^,^Laser^,^^,^^,^^,^^,^^
+^feicarobotg98_buff_1_name^,^Target Locked^,^^,^^,^^,^^,^^
+^feicarobotg99_buff_1_name^,^Nekobot's Algorythm^,^^,^^,^^,^^,^^
+^feicarobotw95_buff_1_name^,^Missle Impact^,^^,^^,^^,^^,^^
+^feicarobotw96_buff_1_name^,^Guild Research^,^^,^^,^^,^^,^^
+^feicarobotw97_buff_1_name^,^Laser^,^^,^^,^^,^^,^^
+^feicarobotw98_buff_1_name^,^Target Locked^,^^,^^,^^,^^,^^
+^feicarobotw99_buff_1_name^,^Nekobot's Algorythm^,^^,^^,^^,^^,^^
+^feicarobotp95_buff_1_name^,^Missle Impact^,^^,^^,^^,^^,^^
+^feicarobotp96_buff_1_name^,^Guild Research^,^^,^^,^^,^^,^^
+^feicarobotp97_buff_1_name^,^Laser^,^^,^^,^^,^^,^^
+^feicarobotp98_buff_1_name^,^Target Locked^,^^,^^,^^,^^,^^
+^feicarobotp99_buff_1_name^,^Nekobot's Algorythm^,^^,^^,^^,^^,^^
+^feicarobotb95_buff_1_name^,^Missle Impact^,^^,^^,^^,^^,^^
+^feicarobotb96_buff_1_name^,^Guild Research^,^^,^^,^^,^^,^^
+^feicarobotb97_buff_1_name^,^Laser^,^^,^^,^^,^^,^^
+^feicarobotb98_buff_1_name^,^Target Locked^,^^,^^,^^,^^,^^
+^feicarobotb99_buff_1_name^,^Nekobot's Algorythm^,^^,^^,^^,^^,^^
+^fepumpkintongue99_buff_1_name^,^Ho-Ho Lantern's Spirit^,^^,^^,^^,^^,^^
+^golddragon00_buff_1_name^,^Goldiago's Spirit^,^^,^^,^^,^^,^^
+^golddragon03_buff_1_name^,^Goldiago's Blessing^,^^,^^,^^,^^,^^
+^goldfdragon02_buff_1_name^,^Golden Protection^,^^,^^,^^,^^,^^
+^feskygod97link_buff_1_name^,^Struck by lightning^,^^,^^,^^,^^,^^
+^feskygod98link_buff_1_name^,^Astral Enhancement^,^^,^^,^^,^^,^^
+^feskygod99_buff_1_name^,^The Skygod's Benevolence^,^^,^^,^^,^^,^^
+^feboneraptor99_buff_1_name^,^Revived Heart^,^^,^^,^^,^^,^^
+^fecelestial99_buff_1_name^,^Celestial Aura^,^^,^^,^^,^^,^^
+^fejpgri00_buff_2_name^,^Divine Embrace^,^^,^^,^^,^^,^^
+^fegodwyvern03_buff_1_name^,^Dark Flames^,^^,^^,^^,^^,^^
+^fegodwyvern99_buff_1_name^,^Divine Ascension^,^^,^^,^^,^^,^^
+^fereaper01_buff_1_name^,^Nightmare^,^^,^^,^^,^^,^^
+^fereaper99_buff_1_name^,^Dark Contract^,^^,^^,^^,^^,^^
+^SetGD_div_7000_name^,^Awakened Divine Stalwart Set^,^^,^^,^^,^^,^^
+^SetWR_div_7000_name^,^Awakened Divine Brutal Set^,^^,^^,^^,^^,^^
+^SetTF_div_7000_name^,^Awakened Divine Veiled Set^,^^,^^,^^,^^,^^
+^SetWZ_div_7000_name^,^Awakened Divine Elemental Set^,^^,^^,^^,^^,^^
+^SetPR_div_7000_name^,^Awakened Divine Devout Set^,^^,^^,^^,^^,^^
+^SetAC_div_7000_name^,^Awakened Divine Wild Set^,^^,^^,^^,^^,^^
+^SetDO_div_7000_name^,^Awakened Divine Genuine Set^,^^,^^,^^,^^,^^
+^SetMG_div_7000_name^,^Awakened Divine Chaotic Set^,^^,^^,^^,^^,^^
+^SetGD_PvP_Style_name^,^Akeron's Supreme Ruler Set^,^^,^^,^^,^^,^^
+^SetWR_PvP_Style_name^,^Akeron's Supreme Ruler Set^,^^,^^,^^,^^,^^
+^SetTF_PvP_Style_name^,^Akeron's Supreme Ruler Set^,^^,^^,^^,^^,^^
+^SetWZ_PvP_Style_name^,^Akeron's Supreme Ruler Set^,^^,^^,^^,^^,^^
+^SetPR_PvP_Style_name^,^Akeron's Supreme Ruler Set^,^^,^^,^^,^^,^^
+^SetAC_PvP_Style_name^,^Akeron's Supreme Ruler Set^,^^,^^,^^,^^,^^
+^SetDO_PvP_Style_name^,^Akeron's Supreme Ruler Set^,^^,^^,^^,^^,^^
+^SetMG_PvP_Style_name^,^Akeron's Supreme Ruler Set^,^^,^^,^^,^^,^^
+^ex_0_0341_name^,^Fabled Mythical Emblem^,^^,^^,^^,^^,^^
+^ex_0_0341_description^,^A special kind of emblem obtained from awakened dungeon bosses.<br>BRing them to <UI_G>Seratia in Hakains Crossing</UI_G> to exchange them for various rare items.^,^^,^^,^^,^^,^^
+^Ex_0_0342_name^,^Infused Awakened Emblem^,^^,^^,^^,^^,^^
+^Ex_0_0342_description^,^An item proving tHat you beat the strong rift creatures in the legendary dungeons.<br><UI_G>Exchange these at Belhira in Hakain's Crossing for special crafting materials needed for the Awakened Divine Armor Set</UI_G>.^,^^,^^,^^,^^,^^
+^Ex_0_0343_name^,^Overcomer of Challenges Token^,^^,^^,^^,^^,^^
+^Ex_0_0343_description^,^An item proving tHat you overcame the challengese of the Unknown Tower in Parnas Coast.<br><UI_G>Exchange these at Belhira in Hakain's Crossing for special crafting materials needed for the Awakened Divine Armor Set</UI_G>.^,^^,^^,^^,^^,^^
+^Ex_0_0344_name^,^Supreme Ruler Emblem^,^^,^^,^^,^^,^^
+^Ex_0_0344_description^,^An item proving tHat you defeated the Overseer Ortune.<br><UI_G>Exchange these at Belhira in Hakain's Crossing for special crafting materials needed for the Awakened Divine Armor Set</UI_G>.^,^^,^^,^^,^^,^^
+^EX_0_0347_name^,^Magic Pumpkin Fragment^,^^,^^,^^,^^,^^
+^Ex_0_0347_description^,^Obtained by defeating all sort of pumpkins around Hakain's Crossing.<br>BRing them to Pumpkin, the Halloween event NPC.^,^^,^^,^^,^^,^^
+^EX_0_0348_name^,^Skygod Subjugation Token^,^^,^^,^^,^^,^^
+^Ex_0_0348_description^,^A sign tHat you defeated the Skygod Revael.<br>Obtained from a quest, tHat can be accepted from the NPC Skygod Revael duRing the Divine Anniversary Event.^,^^,^^,^^,^^,^^
+^EX_0_0349_name^,^Golden Fairydragon Scale^,^^,^^,^^,^^,^^
+^Ex_0_0349_description^,^A golden Fairy Dragon scale, infused with spRing fairy energy.<br>BRing them to Rabbini Tammy in Hakain's Crossing.^,^^,^^,^^,^^,^^
+^EX_0_0350_name^,^Intact Raptor Bone^,^^,^^,^^,^^,^^
+^Ex_0_0350_description^,^An old bone, tHat still seems to have some life left in it.<br>Randomly obtained by defeating rare Skelliagos tHat can be found around the Akrat Plains' River of Revive.<br>BRing them to Pumpkin, the Halloween event NPC.^,^^,^^,^^,^^,^^
+^Sb_gd_1_7000_name^,^Monster Expertise [Guardian]^,^^,^^,^^,^^,^^
+^Sb_gd_1_7000_description^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.<br><br>Right-click to learn.^,^^,^^,^^,^^,^^
+^Sb_wr_1_7000_name^,^Monster Expertise [Berserker]^,^^,^^,^^,^^,^^
+^Sb_wr_1_7000_description^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.<br><br>Right-click to learn.^,^^,^^,^^,^^,^^
+^Sb_tf_1_7000_name^,^Monster Expertise [Assassin]^,^^,^^,^^,^^,^^
+^Sb_tf_1_7000_description^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.<br><br>Right-click to learn.^,^^,^^,^^,^^,^^
+^Sb_wz_1_7000_name^,^Monster Expertise [Wizard]^,^^,^^,^^,^^,^^
+^Sb_wz_1_7000_description^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.<br><br>Right-click to learn.^,^^,^^,^^,^^,^^
+^Sb_pr_1_7000_name^,^Monster Expertise [Priest]^,^^,^^,^^,^^,^^
+^Sb_pr_1_7000_description^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.<br><br>Right-click to learn.^,^^,^^,^^,^^,^^
+^Sb_ac_1_7000_name^,^Monster Expertise [Ranger]^,^^,^^,^^,^^,^^
+^Sb_ac_1_7000_description^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.<br><br>Right-click to learn.^,^^,^^,^^,^^,^^
+^Sb_do_1_7000_name^,^Monster Expertise [Idol]^,^^,^^,^^,^^,^^
+^Sb_do_1_7000_description^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.<br><br>Right-click to learn.^,^^,^^,^^,^^,^^
+^Sb_mg_1_7000_name^,^Monster Expertise [Magician]^,^^,^^,^^,^^,^^
+^Sb_mg_1_7000_description^,^Knowledge acquired by fighting countless difficult enemies allow you to recognize their weakspots.<br>Removes the limit for Critical Hit Chance.<br><br>Right-click to learn.^,^^,^^,^^,^^,^^
+^area_f09_eyein_name^,^Volcanic Cave Entrance^,^^,^^,^^,^^,^^
+^area_f09_eyeout_name^,^Volcanic Cave Entrance^,^^,^^,^^,^^,^^
+^area_d22_awak_01_name^,^Izhora's Domain^,^^,^^,^^,^^,^^
+^d01_notice_awak1^,^The door to the manor's kitchen has opened.^,^^,^^,^^,^^,^^
+^d01_notice_awak2^,^The door to the manor's library has opened.^,^^,^^,^^,^^,^^
+^d01_notice_awak3^,^The door to the manor's main hall has opened.^,^^,^^,^^,^^,^^
+^d01_notice_awak4^,^The door to the count's chamber has opened.^,^^,^^,^^,^^,^^
+^n_c01_olympic_007_name^,^Divine Anniversary Banquet^,^^,^^,^^,^^,^^
+^EX_0_0360_name^,^Christmas Snowflake^,^^,^^,^^,^^,^^
+^EX_0_0360_description^,^A special snowflake tHat only appears around the Christmas time.^,^^,^^,^^,^^,^^
+^EX_0_0361_name^,^Magical Christmas Crystal^,^^,^^,^^,^^,^^
+^EX_0_0361_description^,^A magical crystal tHat belongs to the Celestial Pegasus.<br>With this she bRings happines and joy to all the people in Middelas duRing the Christmas time.^,^^,^^,^^,^^,^^
+^EX_0_0364_name^,^Wooden Planks^,^^,^^,^^,^^,^^
+^EX_0_0364_description^,^Simple wooden planks used in carpentry.<br>Exchanged from Crude Wood with Blueton at the Artisan Square in Hakain's crossing.^,^^,^^,^^,^^,^^
+^EX_0_0365_name^,^Anniversary Balloon^,^^,^^,^^,^^,^^
+^EX_0_0365_description^,^Balloons, tHat were stolen by the mean Rabbinis in Hakana's Highlands duRing the Divine Anniversary event.^,^^,^^,^^,^^,^^
+^EX_0_0366_name^,^Special Woodcrafting Hammer^,^^,^^,^^,^^,^^
+^EX_0_0366_description^,^A hammer specially made for fine carpentry.^,^^,^^,^^,^^,^^
+^EX_0_0367_name^,^Cute Nightmare Doll^,^^,^^,^^,^^,^^
+^EX_0_0367_description^,^A doll tHat resembles the familiar Nightmare.^,^^,^^,^^,^^,^^
+^EX_0_0368_name^,^Magical Rainbow Heart^,^^,^^,^^,^^,^^
+^EX_0_0368_description^,^A colorful crystal-heart full of energy. It seems like it could even bRing a simple doll to life.^,^^,^^,^^,^^,^^

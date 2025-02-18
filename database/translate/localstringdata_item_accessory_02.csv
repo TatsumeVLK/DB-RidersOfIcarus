@@ -1,0 +1,121 @@
+t_key,t_korean
+^AC0_0_6000_Name^,^Blessed Simrok's Necklace^
+^AC0_1_6000_Name^,^Blessed Simrok's Ring I^
+^AC0_0_6001_Name^,^Simrok's Necklace^
+^AC0_1_6001_Name^,^Blessed Simrok's Ring II^
+^AC0_1_6002_Name^,^Simrok's Ring I^
+^AC0_1_6003_Name^,^Simrok's Ring II^
+^AC0_0_6002_Name^,^Chimer Ring I^
+^AC0_1_6004_Name^,^Chimer Ring II^
+^AC0_1_6005_Name^,^Chimer Necklace^
+^pvpAC0_1_5570_Name^,^Abyss Captain Necklace^
+^pvpAC0_0_5570_Name^,^Abyss Captain Ring I^
+^pvpAC0_2_5570_Name^,^Abyss Captain Ring II^
+^AC5_1_6000_Name^,^Zelnaris Ring I^
+^AC5_1_6001_Name^,^Zelnaris Ring II^
+^AC5_0_6000_Name^,^Zelnaris Necklace^
+^AC_A_604_6000_Name^,^Alsacian Ring I^
+^AC_A_604_6001_Name^,^Alsacian Ring II^
+^AC_A_604_6002_Name^,^Alsacian Necklace^
+^AC0_CA2_5000_Name^,^Ellora Ring I^
+^AC0_CA2_5001_Name^,^Ellora Ring II^
+^AC0_CA2_5002_Name^,^Ellora Necklace^
+^PVP_AC_A_400_6000_Name^,^Teleo Dark Ring I^
+^PVP_AC_A_400_6001_Name^,^Teleo Dark Ring II^
+^PVP_AC_A_400_6002_Name^,^Teleo Dark Necklace^
+^AC0_0_2286_Name^,^Royal^
+^CA_AC_A_604_6002_Name^,^ShaRing's Twinkle^
+^AC0_ca2_4_0_0001_Name^,^(Permanent) Karasha's Ring I^
+^AC0_ca2_4_0_0002_Name^,^(Permanent) Karasha's Ring II^
+^AC0_ca2_4_1_0003_Name^,^(Permanent) Karasha's Necklace^
+^AC0_EV_4_0_0001_Name^,^Reaper Rings I^
+^AC0_EV_4_0_0002_Name^,^Reaper Rings II^
+^AC0_EV_4_0_0003_Name^,^Reaper's Necklace^
+^AC0_EV_3_0_0001_Name^,^Ring of the Royal Spirit I^
+^AC0_EV_3_0_0002_Name^,^Ring of the Royal Spirit II^
+^AC0_EV_3_0_0003_Name^,^Necklace^
+^AC0_EV_16_8000_Name^,^Acrat's absolute Ring I^
+^AC0_EV_16_8001_Name^,^Acrat's absolute Ring ?^
+^AC0_EV_16_8002_Name^,^Acrat's absolute Necklace^
+^AC0_0_30032_TE_03_Name^,^Bragi's power (slowing speed) -test^
+^AC_A_400_6500_Name^,^Temmain Ring I^
+^AC_A_400_6501_Name^,^Temmain Ring II^
+^AC_A_400_6502_Name^,^Temmain Necklace^
+^AC_A_300_6500_Name^,^Lazard Ring I^
+^AC_A_300_6501_Name^,^Lazard Ring II^
+^AC_A_300_6502_Name^,^Lazard Necklace^
+^AC_P_400_6000_Name^,^The Ring of the Ju -joo^
+^AC_P_400_6001_Name^,^The Ring of the Juju II^
+^AC_P_400_6002_Name^,^The Ring Necklace^
+^AC_P_400_6003_Name^,^Corridor Ring I^
+^AC_P_400_6004_Name^,^Corridor Ring II^
+^AC_P_400_6005_Name^,^Corridor Necklace^
+^AC_P_400_6006_Name^,^Battlefield Ring I^
+^AC_P_400_6007_Name^,^Battlefield Ring II^
+^AC_P_400_6008_Name^,^Battlefield Necklace^
+^AC_Fe_300_6001_Name^,^North Wind Rings I^
+^AC_Fe_300_6002_Name^,^North Wind Rings II^
+^AC_Fe_300_6003_Name^,^North wind Necklace^
+^EV_AC_A_400_6000_Name^,^Teleo Dark Ring I (Rental)^
+^EV_AC_A_400_6001_Name^,^Teleo Dark Ring II (Rental)^
+^EV_AC_A_400_6002_Name^,^Teleo Dark Necklace (Rental)^
+^AC_A_600_6500_Name^,^The Ring of sophisticated Jenazaon I^
+^AC_A_600_6501_Name^,^Sophisticated Jenazaon Ring II^
+^AC_A_600_6502_Name^,^Sophisticated Jenazaon's Necklace^
+^AC0_EV_4_0_0004_Name^,^Trust Ring I (15th)^
+^AC0_EV_4_0_0005_Name^,^Trust Ring II (15th)^
+^AC0_EV_4_0_0006_Name^,^Trust Necklace (15th)^
+^EV0_504_30014_Name^,^Ellora's Ring I (Rental)^
+^EV0_504_30014_1_Name^,^Ellora's Ring II (Rental)^
+^EV0_504_30021_Name^,^Ellora's Necklace (rental)^
+^AC_A_600_6003_Name^,^Nors Ring I^
+^AC_A_600_6004_Name^,^Nors Ring II^
+^AC_A_600_6005_Name^,^Nors Necklace^
+^EV_AC_000_0001_Name^,^Ellora Ring I (30 days)^
+^EV_AC_000_0002_Name^,^Ellora Ring II (30 days)^
+^EV_AC_000_0003_Name^,^Ellora Necklace (30 days)^
+^EV_A_604_6000_Name^,^Alsacian Ring(1 day)^
+^EV_A_604_6001_Name^,^Alsacian Ring(1 day)^
+^EV_A_604_6002_Name^,^Alsacian Necklace (1 day)^
+^EV_A_300_4000_Name^,^Growth Rings I^
+^EV_A_300_4001_Name^,^Growth Rings II^
+^EV_A_300_4002_Name^,^Growth Necklace^
+^EV_A_604_6000_1_Name^,^Alsacian Ring I (1 day)^
+^EV_A_604_6001_1_Name^,^Alsacian Ring II (1 Day)^
+^EV_A_604_6002_1_Name^,^Alsacian Necklace (1 day)^
+^AC_A_600_6006_Name^,^Bragin Ring I^
+^AC_A_600_6007_Name^,^Bragin Ring II^
+^AC_A_600_6008_Name^,^Bragin Necklace^
+^AC_A_600_6009_Name^,^Yatuman Ring I^
+^AC_A_600_6010_Name^,^Yatuman Ring II^
+^AC_A_600_6011_Name^,^Yatuman Necklace^
+^EV_AC_A_400_6003_Name^,^Dark Ring I^
+^EV_AC_A_400_6004_Name^,^Dark Ring II^
+^EV_AC_A_400_6005_Name^,^Dark Necklace^
+^EV_AC_A_001_Name^,^Component^
+^EV_AC_A_001_Description^,^It can be disassembled with elite decomposition tools It contains parts A part B and part C to create ICA-W01 If you bRing a certain number to Lavini Medal you will make it^
+^AC0_EV_5_0_0001_Name^,^Blacksmith Ring I^
+^AC0_EV_5_0_0002_Name^,^Blacksmith Ring II^
+^AC0_EV_5_0_0003_Name^,^Blacksmith Necklace^
+^AC0_EV_5_0_0004_Name^,^Chaos Smelter Ring I^
+^AC0_EV_5_0_0005_Name^,^Chaos Smelter Ring II^
+^AC0_EV_5_0_0006_Name^,^Chaos Necklace^
+^EV_AC_C_001_Name^,^Pieces^
+^EV_AC_C_002_Name^,^Ice piece^
+^EV_AC_C_003_Name^,^Stone^
+^EV_AC_C_004_Name^,^Luxury^
+^EV_AC_C_005_Name^,^Luxury ice piece^
+^EV_AC_C_006_Name^,^Luxury^
+^EV_AC_C_007_Name^,^Contrast^
+^EV_AC_C_001_Description^,^Magic sculpture It is not burned Let's sculpt with elite levels <O_y> Deleted when the February event starts </O_Y>^
+^EV_AC_C_002_Description^,^Magic sculpture It is not burned Let's sculpt with elite levels <O_y> Deleted when the February event starts </O_Y>^
+^EV_AC_C_003_Description^,^Magic sculpture It is not burned Let's sculpt with elite levels <O_y> Deleted when the February event starts </O_Y>^
+^EV_AC_C_004_Description^,^A luxurious wooden piece of special magic It is not burned I think I can make better works more than conventional wood pieces Let's sculpt with elite levels <O_y> Deleted when the February event starts </O_Y>^
+^EV_AC_C_005_Description^,^Luxurious ice sculptures tHat have become special magic It does not melt I think I can make better works more than conventional ice sculptures Let's sculpt with elite levels <O_y> Deleted when the February event starts </O_Y>^
+^EV_AC_C_006_Description^,^Stone sculptures are naturally blessed in the village where strong magic spirits live It shines softly at night I think I can make better works more than conventional stone pieces Let's sculpt with elite levels <O_y> Deleted when the February event starts </O_Y>^
+^EV_AC_C_007_Description^,^A special ingredient with Assassins in the part where the light touches and the Assassin is light The appearance is like a ore but when you touch it it's as cold as ice and the texture is like a tree It seems to have to be carved with a legendary rating <O_y> Deleted when the January event is terminated </O_Y>^
+^EV_AC_C_008_Name^,^Starter^
+^EV_AC_C_008_Description^,^It is a meteorite containing the energy of starlight Let's disassemble^
+^AC_A_600_6012_Name^,^Empire Blooded Ring I^
+^AC_A_600_6013_Name^,^Empire Blooded Ring II^
+^AC_A_600_6014_Name^,^Empire Blooded Necklace^

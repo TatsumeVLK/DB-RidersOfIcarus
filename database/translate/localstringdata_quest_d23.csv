@@ -1,0 +1,144 @@
+t_key,t_koreanorg,t_jpn,t_chinese,t_korean,t_eng_2,t_eng_3
+^d23_9_0_0001_Title^,^사라진 당근^,^!!^,^^,^Carrot Catastrophe^,^^,^^
+^d23_9_0_0001_RewarderDesc^,^라비니 브라우니<라비니 요리사>^,^!!^,^^,^Buford Rabbini^,^^,^^
+^d23_9_0_0001_Request_Text^,^혹시, 여기 있는 당근 못봤냥? 요리하려고 당근을 모아뒀는데 감쪽같이 사라져버렸당! 아무래도 라비니 도둑놈들의 소행인 것 같당.<br><br>맘 같아선 라비니 도둑놈들을 모조리 잡고 싶지만, 지금 급하게 요리를 해야한당! 시간이 없당! 잃어버린 당근이 필요하당!<br>인간, 혹시 당근 좀 가져다줄 수 있낭? 클로버마을을 지나면 당근마을이 있는데 거기서 잃어버린 당근을 구할 수 있을거당! 서둘러랑!^,^!!^,^^,^Have you seen my carrot? I left it here to cook and now it's gone. It's them thieves, I tell you.<br><br>I don't have time for this! I need to cook! And I need tHat carrot! Just get me one more from the carrot farm. And hurry!^,^^,^^
+^d23_9_0_0001_Accepted_Text^,^당근 농장에 가서 당근 1개만 가져와 달랑!^,^!!^,^^,^Get me a new carrot from the farm!^,^^,^^
+^d23_9_0_0001_Ongoing_Text^,^맘 같아선 라비니 도둑놈들을 모조리 잡고 싶지만, 지금 급하게 요리를 해야한당! 시간이 없당! 잃어버린 당근이 필요하당!<br>인간, 혹시 당근 좀 가져다줄 수 있낭? 클로버마을을 지나면 당근마을이 있는데 거기서 잃어버린 당근을 구할 수 있을거당! 서둘러랑!^,^!!^,^^,^I don't have time for this! I need to cook! And I need tHat carrot! Just get me one more from the carrot farm. And hurry!^,^^,^^
+^d23_9_0_0001_Complete_Text^,^오, 내가 찾던 당근이당! 이제 빨리 요리를 하러 가야한당! 도와줘서 고맙당, 인간!^,^!!^,^^,^This. This is the carrot I need! I must go and cook! Thank you!^,^^,^^
+^d23_9_0_0002_Title^,^라비우스 비니사르를 위하여^,^!!^,^^,^Dinner for Father Rabbini^,^^,^^
+^d23_9_0_0002_RewarderDesc^,^고든 래빗^,^!!^,^^,^Pierre Rabbini^,^^,^^
+^d23_9_0_0002_Request_Text^,^우리는 라비니 귀족들을 위해 만찬을 준비하는 쉐프당! 얼마 전부터, 라비우스 비니사르님이 먹고 싶다는 음식이 있는데 재료를 못 구해서 큰일이당.<br><br>우리 쉐프들은 이 근처를 벗어날 수 없당. 인간! 부탁 좀 들어달랑. 저기 버섯마을에 가면 트러플 버섯을 구할 수 있을거당! 찾기 힘들테니 주변을 잘 살펴야한당. 그럼 부탁한당!^,^!!^,^^,^I'm in charge of feeding the important folk. Nobles, aristocrats, Father Lucius Volifax himself!<br><br>Do you think I've got time to go shopping right now with a client list like tHat? If you do, I'd call you a walking pig! THat's why you're going to go get me some truffles. Hurry along, porky!^,^^,^^
+^d23_9_0_0002_Accepted_Text^,^안개 버섯 숲에 가서 버섯을 찾아와랑!^,^!!^,^^,^Hurry up, ya donkey! Get me truffles from Misty Mushroom Forest!^,^^,^^
+^d23_9_0_0002_Ongoing_Text^,^우리 쉐프들은 이 근처를 벗어날 수 없당. 인간! 부탁 좀 들어달랑. 저기 안개 버섯 숲에 가면 트러플 버섯을 구할 수 있을거당! 찾기 힘들테니 주변을 잘 살펴야한당. 그럼 부탁한당!^,^!!^,^^,^Do you think I've got time to go shopping right now with a client list like tHat? If you do, I'd call you a walking pig! THat's why you're going to go get me some truffles. Hurry along, porky!^,^^,^^
+^d23_9_0_0002_Complete_Text^,^벌써 가져왔냥? 이렇게 빨리 찾다니 똑똑한 인간이당! 이건 쉐프들이 준비한 선물이니 부담 갖지 말고 가져가랑!^,^!!^,^^,^Well, well, you did it. Thanks. WHat are you just standing there for? Get out of my kitchen!^,^^,^^
+^d23_9_0_0003_Title^,^당근도둑을 잡아랑^,^!!^,^^,^Carrot Thieves^,^^,^^
+^d23_9_0_0003_RewarderDesc^,^이상한 발자국^,^!!^,^^,^Strange Footprints^,^^,^^
+^d23_9_0_0003_Request_Text^,^당근 밭으로 이어진 이 발자국은 분명 라비니들의 발자국이다. 요리사 라비니들이 말한 당근 도둑들의 발자국일까?<br><br>발자국을 따라가다보면 도둑들을 찾을 수 있지 않을까? 도둑놈을 찾아 요리사 라비니들 대신 따끔하게 혼내주자.^,^!!^,^^,^There are pawprints leading straight into the carrot fields. They must belong to the thief! Let's track them down and teach them a lesson, shall we?^,^^,^^
+^d23_9_0_0003_Accepted_Text^,^^,^!!^,^^,^^,^^,^^
+^d23_9_0_0003_Ongoing_Text^,^당근 밭으로 이어진 이 발자국은 분명 라비니들의 발자국이다. 요리사 라비니들이 말한 당근 도둑들의 발자국일까?<br><br>발자국을 따라가다보면 도둑들을 찾을 수 있지 않을까? 도둑놈을 찾아 요리사 라비니들 대신 따끔하게 혼내주자.^,^!!^,^^,^There are pawprints leading straight into the carrot fields. They must belong to the thief! Let's track them down and teach them a lesson, shall we?^,^^,^^
+^d23_9_0_0003_Complete_Text^,^방금 당근 도둑이 잡혔다는 소식을 듣고 급하게 왔당. 도둑을 잡아준 천사가 인간이었냥? 역시, 용감하당!<br>대신 이걸 받아랑! 우리 요리사들이 만든 물약이당! 앞으로 많은 도움이 되길 바란당!^,^!!^,^^,^You caught those thieving snakes? You've done a good thing today, human.^,^^,^^
+^d23_9_0_0004_Title^,^해독제가 필요해^,^!!^,^^,^Bellyache^,^^,^^
+^d23_9_0_0004_RewarderDesc^,^라비니 포이니^,^!!^,^^,^Podrick Rabbini^,^^,^^
+^d23_9_0_0004_Request_Text^,^으..라비니 죽겠당… 거기 누구 없냥?<br><br>앗, 거기 누구냥. 라비니 좀 살려달랑. 배가 너무 고파 여기 잇는 버섯 하나를 먹었더니 갑자기 몸이 이상해졌당.아무래도 독버섯을 먹은 것 같당. 소문에 의하면 반대편 호수의 물이 해독제 효과를 한다던데… 혹시 떠다줄 수 있냥? 이러다 라비니 죽겠당.^,^!!^,^^,^Ugh... Help us, would you? The mushroom's wHat got me. Tasty bit of poison, tHat.<br><br>Need water. Good, clean water's wHat the belly requires to purge the humors. There's a lake. Close by... please...^,^^,^^
+^d23_9_0_0004_Accepted_Text^,^호수에 가서 물을 떠다 달랑…^,^!!^,^^,^I need the lake water. Nothing else will do.^,^^,^^
+^d23_9_0_0004_Ongoing_Text^,^반대편 호수의 물이 해독제 효과를 한다고 들었당. 조금 더 있으면 라비니 죽겠당. 인간, 부탁한당. 물을 떠다 달랑!^,^!!^,^^,^Need water. Good, clean water's wHat the belly requires to purge the humors. There's a lake. Close by... please...^,^^,^^
+^d23_9_0_0004_Complete_Text^,^으, 고맙다. 뭔가 몸이 개운해진 것 같당. 다신 이 곳에서 아무 버섯이나 먹지 않겠당. 인간도 조심해랑!^,^!!^,^^,^T-thank you. I've a bit of healing to do, but I feel better already. I'll not be going near the mushrooms again, I'll tell you tHat.^,^^,^^
+^d23_9_0_0005_Title^,^독이 퍼진 원인^,^!!^,^^,^Poison Mist^,^^,^^
+^d23_9_0_0005_RewarderDesc^,^라비니 포이니^,^!!^,^^,^Podrick Rabbini^,^^,^^
+^d23_9_0_0005_Request_Text^,^흐..죽었다 살아났당. 독버섯이라니, 우리 안개 버섯 숲에선 일어날 수 없는 일이당! 흠, 멀쩡하던 버섯 숲에 이렇게 독이 퍼진 원인은 단 하나인 것 같당!! 베라비니 토르토르, 그 놈의 짓 일거당!<br><br>내가 알기론 그 놈은 아직도 안개버섯 숲을 오염시키고 있당! 인간, 우리 버섯 숲을 위해 그 놈을 처치해주지 않겠낭?^,^!!^,^^,^I was sure I was a goner, brave knight. We've never had poison mushrooms growing around here. This has to be tHat dastardly Bernard Thortor's doing!<br><br>He's the one polluting the forest!^,^^,^^
+^d23_9_0_0005_Request_Text_attach_0^,^<br><br><font color="#1a4c53">라비니 동산의 퀘스트는 던전 퇴장 시 자동으로 취소된당. 꼭 제한 시간내에 완료하고 보상을 받아가랑!</font>^,^!!^,^^,^<br><br><font color="#1a4c53">If you leave now, you'll lose your chance at saving the warrens! Do wHat you must do before we run out of time.!/font>^,^^,^^
+^d23_9_0_0005_Accepted_Text^,^베라비니 토르토르를 처치하여 안개 버섯 숲의 오염을 막아 달랑!^,^!!^,^^,^As long as Bernard Thortor's around, the Mushroom Forest won't be safe!^,^^,^^
+^d23_9_0_0005_Ongoing_Text^,^베라비니 토르토르, 내가 알기론 그 놈은 아직도 안개버섯 숲을 오염시키고 있당! 인간, 우리 버섯 숲을 위해 그 놈을 처치해주지 않겠낭?^,^!!^,^^,^This has to be tHat dastardly Bernard Thortor's doing! He's the one polluting the forest! He's gotta be stopped!^,^^,^^
+^d23_9_0_0005_Complete_Text^,^오, 역시 인간은 위대하당! 하마터면 내 평생 관리한 숲을 몽땅 잃을 뻔 했당! 우리 숲의 은인이당! 답례로 이걸 주겠당. 소중한 곳에 쓰일거당!^,^!!^,^^,^Wow, you humans aren't nearly so bad as we've been saying you are. Why don't you take this little token from me and the rest of the clan?^,^^,^^
+^d23_9_0_0006_Title^,^행운의 네잎클로버^,^!!^,^^,^Four-Leaf Clover^,^^,^^
+^d23_9_0_0006_RewarderDesc^,^행운의 네잎클로버^,^!!^,^^,^Four-Leaf Clover^,^^,^^
+^d23_9_0_0006_Request_Text^,^네잎클로버다. 뭔가 행운을 가져다 줄 것 같은 좋은 예감이 든다.^,^!!^,^^,^A four-leaf clover. It's going to bRing great luck!^,^^,^^
+^d23_9_0_0006_Accepted_Text^,^^,^!!^,^^,^^,^^,^^
+^d23_9_0_0006_Ongoing_Text^,^네잎클로버다. 뭔가 행운을 가져다 줄 것 같은 좋은 예감이 든다.^,^!!^,^^,^A four-leaf clover. It's going to bRing great luck!^,^^,^^
+^d23_9_0_0006_Complete_Text^,^네잎클로버를 찾은 자에겐 항상 행운이 따른다. 이게 행운의 선물인가? 빨리 열어보자.^,^!!^,^^,^Whoever finds a four-leaf clover will have good luck! Could it be you?^,^^,^^
+^d23_9_0_0007_Title^,^꼭 꼭 숨어라^,^!!^,^^,^Hop and Seek^,^^,^^
+^d23_9_0_0007_RewarderDesc^,^라비니 배시니^,^!!^,^^,^Bennet Rabbini^,^^,^^
+^d23_9_0_0007_Request_Text^,^인간! 혹시 주변에서 내 친구들 못봤냥? 숨바꼭질을 하고 있는데, 도저히 친구들을 못찾겠당! <br><br>
+라비니들은 밥 시간이 되면 집으로 돌아가야한당! 밥 시간이라 집에 가야하는데 친구들이 걱정된당! 나는 이만 가볼테니 그럼 친구들을 부탁한당!^,^!!^,^^,^Pardon me, human. Have you seen my associates? We were playing a rousing game of hide and seek, but the seeking portion has proven most vexing.<br><br>
+I am certain they've grown quiet hungry, as I myself have a great guttural yearning and dinner approaches rapidly. Mayhaps you could do us a favor and use your human olfactory senses to expedite the situation.^,^^,^^
+^d23_9_0_0007_Accepted_Text^,^숨어있는 친구들을 찾아 달랑! 고맙당!^,^!!^,^^,^Can you please find my erstwhile friends?^,^^,^^
+^d23_9_0_0007_Ongoing_Text^,^라비니들은 밥 시간이 되면 집으로 돌아가야한당! 밥 시간이라 집에 가야 하는데 친구들이 걱정된당! 나는 이만 가볼테니 그럼 친구들을 부탁한당!^,^!!^,^^,^I am certain my friends grow hungry as dinner approaches, but their commitment to the game is too powerful! Could you locate them for me, please?^,^^,^^
+^d23_9_0_0007_Complete_Text^,^술래는 어디 가고 인간이 날 찾냥! 뭐? 집으로 갔단 말이냥? 나쁜 친구당. 아무튼 찾아줘서 고맙당!^,^!!^,^^,^Where's Bennet? He was supposed to be doing the finding. This game is ruined! I'm going to go eat my anger away.^,^^,^^
+^d23_9_0_0008_Title^,^주머니 속에 담긴 보물^,^!!^,^^,^A Pocketful of Treasure^,^^,^^
+^d23_9_0_0008_RewarderDesc^,^라비니 피나니^,^!!^,^^,^Jasper Rabbini^,^^,^^
+^d23_9_0_0008_Request_Text^,^윽.. 잘만났당. 인간! <br>난 선량한 라비니당. 제발 내 말을 들어달랑. 우리 라비니 마을은 평화로웠당! 근데 요즘 날강도들이 자꾸 들이닥치는 바람에 마을이 위험에 빠졌당!<br><br>얼마 전엔, 우리 마을의 가장 귀중한 보물을 훔쳐갔당! 우리 마을의 평화를 상징하는 그 보물을 반드시 되찾아와야한당. 분명 아직 이 근처에 있을거당! 날강도를 잡아달랑.^,^!!^,^^,^You there! I've got a Rabbini problem. See, the south-warren Rabbini are jealous of us west-warren Rabbini because we come from the old Rabbini clan, not to be confused with the great old Rabbini clan...<br><br>(You struggle to pay attention for three harrowing minutes until...)<br><br>...And THEN, they just take our treasure from us! Can you believe it? After the whole thing with the trousers? Unbelievable. You see now why you have to get it back for me, yes?^,^^,^^
+^d23_9_0_0008_Accepted_Text^,^날강도 라비니를 반드시 없애야한당. 부탁한당!^,^!!^,^^,^WHat are you waiting for? Get those robbers!^,^^,^^
+^d23_9_0_0008_Ongoing_Text^,^얼마 전에 날강도 라비니가 우리 마을의 가장 귀중한 보물을 훔쳐갔당! 우리 마을의 평화를 상징하는 그 보물을 반드시 되찾아와야한당. 분명히 이 근처에 있을거당. 부탁한당!^,^!!^,^^,^The louts have made off with our treasure! They must still be nearby. You can teach them a lesson, for the glory of the west-warren Rabbini clan!^,^^,^^
+^d23_9_0_0008_Complete_Text^,^빨리 가져와랑! 진짜 인간이 처치한 거 맞냥? 아무튼 부탁 들어줘서 고맙당! 생명의 은인이니 보답하겠당. 부담갖지말고 가져가랑!^,^!!^,^^,^Did you catch them? Oh, you're one of the good ones, yes you are.^,^^,^^
+^d23_9_0_0009_Title^,^누가 누가 빠르나^,^!!^,^^,^Who Is the Fastest^,^^,^^
+^d23_9_0_0009_RewarderDesc^,^라비니 파르니^,^!!^,^^,^Uriah Rabbini^,^^,^^
+^d23_9_0_0009_Request_Text^,^음냐음냐…..엇! 뭐냐! 자고있는 라비니 함부로 깨우지 마랑! 졸려… 음냐<br><br>아! 왜 자꾸 깨우냥! 뭐? 달리기 시합? 맞당, 나 거북이랑 달리기 시합중이었당! 거북이 어딨는지 봤냥?^,^!!^,^^,^Wha-wHat? WHat are you doing, waking a fellow having a nice nap? I'm resting up for the next leg of my race.<br><br>
+Stupid, ugly humans. Now I'll be groggy for the rest of the day. You can at least tell me if you've seen a tortoise around these parts. Have you?^,^^,^^
+^d23_9_0_0009_Accepted_Text^,^거북이 어딨냥! 나보다 빨리 가면 안된당!^,^!!^,^^,^Where is tHat cursed tortoise?^,^^,^^
+^d23_9_0_0009_Ongoing_Text^,^^,^!!^,^^,^^,^^,^^
+^d23_9_0_0009_Complete_Text^,^인간이냥? 깨워줘서 고맙당! 하마터면 계속 자고 있을뻔 했당. 근데 거북이는 진짜 못봤냥? 그럼 난 거북이를 찾으러 가야해서 이만, 가보겠당!^,^!!^,^^,^Thanks for waking me up, I suppose. I might've slept all day, if it wasn't for you and your ugly face. Now I just need to find tHat tortoise.^,^^,^^
+^d23_9_0_0010_Title^,^스파이가 나타났다^,^!!^,^^,^Shady People^,^^,^^
+^d23_9_0_0010_RewarderDesc^,^라비니 바니라^,^!!^,^^,^Van Owen Rabbini^,^^,^^
+^d23_9_0_0010_Request_Text^,^요즘 자꾸 이상한 사건이 발생하고 있당. 뭔지 알고 있냥? 미들라스 전역에서 힘들게 모은 보물이 조금씩 없어지고 있다는 것이당! 이건 분명 스파이의 소행이당<br><br>어, 인간! 혹시 라비니 동산에 들어가는 길이냥? 만약 동산안에서 보물을 헤집고 다니는 라비니 스파이를 발견한다면 처치하고 그가 가진 보물을 다 뺏어와랑!^,^!!^,^^,^Strange things have been happening lately. Treasures disappeaRing one by one. The kind of things tHat no one should even know about.<br><br>There must be a spy in the upper ranks. If you're headed to the Shady Warrens, keep an eye out. These treasures aren't stealing themselves.^,^^,^^
+^d23_9_0_0010_Accepted_Text^,^스파이를 잡고 그가 약탈한 라비니 보물을 다시 뺏어와랑!^,^!!^,^^,^Find the spy. Find the treasure.^,^^,^^
+^d23_9_0_0010_Ongoing_Text^,^어, 인간! 혹시 라비니 동산에 들어가는 길이냥? 만약 동산안에서 보물을 헤집고 다니는 라비니 스파이를 발견한다면 처치하고 그가 가진 보물을 다 뺏어와랑!^,^!!^,^^,^If you're headed to the Shady Warrens, keep an eye out. These treasures aren't stealing themselves.^,^^,^^
+^d23_9_0_0010_Complete_Text^,^스파이는 잡았냥? 나쁜 자식들, 감히 라비니 동산의 보물을 탐하다니! 내 눈 앞에 나타나면 가만두지 않을거당! <br><br>보물을 찾아줬으니 보답을 해야겠당. 감사의 표시니 부담갖지 말고 가져가랑!^,^!!^,^^,^I can't believe someone had the guts to steal from the Shady Warrens! Maybe this will serve as an example to any other would-be thieves.^,^^,^^
+^d23_9_0_0011_Title^,^현상수배^,^!!^,^^,^Wanted^,^^,^^
+^d23_9_0_0011_RewarderDesc^,^현상수배 게시판^,^!!^,^^,^Wanted Bulletin Board^,^^,^^
+^d23_9_0_0011_Request_Text^,^[라비니 현상수배]<br><br>라비니 동산에 흉악범이 나타났당. 보물을 훔쳐 달아난 흉악범을 잡는 자에겐 크게 포상하겠당.^,^!!^,^^,^[Wanted] <br><br>Some robber keeps stealing from the Shady Warrens. I will reward anyone tHat catches the robber.^,^^,^^
+^d23_9_0_0011_Accepted_Text^,^^,^!!^,^^,^^,^^,^^
+^d23_9_0_0011_Ongoing_Text^,^[라비니 현상수배]<br><br>라비니 동산에 흉악범이 나타났당. 보물을 훔쳐 달아난 흉악범을 잡는 자에겐 크게 포상하겠당.^,^!!^,^^,^[Wanted] <br><br>Some robber keeps stealing from the Shady Warrens. I will reward anyone tHat catches the robber.^,^^,^^
+^d23_9_0_0011_Complete_Text^,^보상을 확인하랑.^,^!!^,^^,^Claim your reward.^,^^,^^
+^d23_9_0_0012_Title^,^수상한 라비니 동산의 진실^,^!!^,^^,^The Shady Truth^,^^,^^
+^d23_9_0_0012_RewarderDesc^,^라비우스 비니사르의 편지^,^!!^,^^,^Letter from Lucius Volifax^,^^,^^
+^d23_9_0_0012_Request_Text^,^낡은 종이에 무엇인가 빼곡하게 적혀있다.<br>글을 보아하니 사람이 쓴 편지는 아닌 것 같다.<br>혹시 라비니들 중 누군가가 쓴 편지가 아닐까?<br><br>라비니 동산을 조사하고 있는 트레이스는 뭔가 알고 있을 것 같다.<br>트레이스에게 가보자.^,^!!^,^^,^(This old piece of paper is covered in writing, but it doesn't look human. Perhaps Trace can decipher it in the Shady Warrens.)^,^^,^^
+^d23_9_0_0012_Accepted_Text^,^^,^!!^,^^,^^,^^,^^
+^d23_9_0_0012_Ongoing_Text^,^^,^!!^,^^,^^,^^,^^
+^d23_9_0_0012_Complete_Text^,^흠, 이건 라비우스 비니사르가 작성한 것으로 추정돼.<br>자세히 읽지는 못하겠지만 뭔가 과거의 라비니 동산에 대해 작성되어있는 것 같아.<br><br>조금만 기다려줄래?<br>이 편지를 완전히 해석하면 그 때 다시 얘기해줄게.^,^!!^,^^,^This looks to be written by Lucius Volifax himself. I'm guessing it's about the old Shady Warrens.<br><br>Give me a moment and I'll take a look.^,^^,^^
+^d23_9_0_0013_Title^,^오래된 레시피^,^!!^,^^,^Old Recipe^,^^,^^
+^d23_9_0_0013_RewarderDesc^,^파니니의 레시피^,^!!^,^^,^Panini's Recipe^,^^,^^
+^d23_9_0_0013_Request_Text^,^왠지 오래되 보이는 레시피다.<br>자세히 들여다보니 라비우스 비니사르의 음식에 대한 이야기가 있는것으로 보아 쉐프 고든 래빗의 레시피인듯 하다. 고든 래빗에게 갖다주자.^,^!!^,^^,^(This old recipe says something about Lucius Volifax's food. It must belong to Chef Pierre Rabbini.)^,^^,^^
+^d23_9_0_0013_Accepted_Text^,^^,^!!^,^^,^^,^^,^^
+^d23_9_0_0013_Ongoing_Text^,^자세히 들여다보니 라비우스 비니사르의 음식에 대한 이야기가 있는것으로 보아 쉐프 고든 래빗의 레시피인듯 하다. 고든 래빗에게 갖다주자..^,^!!^,^^,^(This old recipe says something about Lucius Volifax's food. It must belong to Chef Pierre Rabbini.)^,^^,^^
+^d23_9_0_0013_Complete_Text^,^앗, 이게 뭐냥! 이걸 대체 어디서 찾았냥!<br>요리사가 되겠다고 결심한 시절부터 공부한 레시피당. 내 추억이 가득 담긴 레시핀뎅.. 잃어버린 줄 알았당..
+<br><br>아무튼 찾아줘서 너무 고맙당, 인간! 이건 특별히 내가 만든 요리당. 부담갖지 말고 먹어랑! 인간에게 도움이 될거당!^,^!!^,^^,^Where did you get this? Did you dig it out of my old garbage bin like the piggy you are?!<br><br>Oh, but the sight of this old travesty does make me a bit misty-eyed. Go on, have a reward, but don't think I've gone soft.^,^^,^^
+^d23_9_0_0014_Title^,^달에서 온 절구^,^!!^,^^,^Moon Mortar^,^^,^^
+^d23_9_0_0014_RewarderDesc^,^분실물 게시판^,^!!^,^^,^Lost and Found Bulletin Board^,^^,^^
+^d23_9_0_0014_Request_Text^,^라비니 얼굴이 새겨진 이 절구, 어디서 많이 본 듯 하다. 라비니 동산 게시판에서 이 절구를 찾는 종이가 붙어있었던 것 같다. 한번 가서 확인해보자.^,^!!^,^^,^(This mortar looks familiar. There was a request on the Shady Warrens bulletin boards to get it back.)^,^^,^^
+^d23_9_0_0014_Accepted_Text^,^^,^!!^,^^,^^,^^,^^
+^d23_9_0_0014_Ongoing_Text^,^[잃어버린 절구를 찾고있당]
+<br><br>샴바니족 대대로 내려오던 절구를 잃어버렸당. 분명 이 동산 어딘가에 떨어져 있을거당. 샴바니족 절구는 다들 한눈에 알아볼 수 있을거당. 혹시 절구를 본다면 꼭 이 앞으로 가져와달랑.<br><br>-달토끼 라비니<br><br><font color="#1a4c53">게시판 앞에다 절구를 내려놓는다.</font color><br><br>^,^!!^,^^,^[Lost Mortar]
+<br><br>
+My grandpappy's mortar is missing! It's been passed down from generation to generation. Now it's gone! My ancestors will haunt me forever if I don't get it back.<br><br>-Moony Rabbini<br><br><font color="#1a4c53">Please leave the mortar in front of the bulletin board.!/font color><br><br>^,^^,^^
+^d23_9_0_0014_Complete_Text^,^[잃어버린 절구를 찾고있당]
+<br><br>샴바니족 대대로 내려오던 절구를 잃어버렸당. 분명 이 동산 어딘가에 떨어져 있을거당. 샴바니족 절구는 다들 한눈에 알아볼 수 있을거당. 혹시 절구를 본다면 꼭 이 앞으로 가져와달랑.<br><br>-달토끼 라비니<br><br><font color="#1a4c53">게시판 앞에다 절구를 내려놓는다.</font color><br><br>^,^!!^,^^,^[Lost Mortar]
+<br><br>
+My grandpappy's mortar is missing! It's been passed down from generation to generation. Now it's gone! My ancestors will haunt me forever if I don't get it back.<br><br>-Moony Rabbini<br><br><font color="#1a4c53">Please leave the mortar in front of the bulletin board.!/font color><br><br>^,^^,^^
+^d23_9_0_0015_Title^,^간 때문이야^,^!!^,^^,^Lordly Liver^,^^,^^
+^d23_9_0_0015_RewarderDesc^,^거북이 어딨냥! 나보다 빨리 가면 안된당!^,^!!^,^^,^Where is tHat cursed tortoise?^,^^,^^
+^d23_9_0_0015_Request_Text^,^아악! 도와주세요!<br><br>혹시, 라비우스 비니사르라고 아십니까? 라비킹이라 하던데… 사실은 저희 용왕님이 많이 편찮으신데, 치료할 수 있는 방법이 그의 간 뿐이라고 해서 왔어요. 하지만 제 몸으론 비니사르의 털 끝하나 건드릴 수 없는걸요.<br><br>여행자님! 제 부탁을 들어주시지 않겠습니까? 부디 저희 용왕님을 살려주세요. 사례는 넉넉히 드릴게요. 부탁해요.^,^!!^,^^,^Help! Please help me! My king is quite sick and there is only one medicine tHat can save him. We need the liver of the current Lord of the Lepus. <br><br>Have you heard of Lucius Volifax? Father Rabbini? I can't kill him myself, but maybe you could...^,^^,^^
+^d23_9_0_0015_Request_Text_attach_0^,^<br><br><font color="#1a4c53">라비니 동산의 퀘스트는 던전 퇴장 시 자동으로 취소된당. 꼭 제한 시간내에 완료하고 보상을 받아가랑!</font>^,^!!^,^^,^<br><br>If you leave now, you'll lose your chance at saving the warrens! Do wHat you must do before we run out of time.^,^^,^^
+^d23_9_0_0015_Accepted_Text^,^라비우스 비니사르를 처치하고 그의 간을 가져와주세요!^,^!!^,^^,^Defeat Lucius Volifax and return with his liver!^,^^,^^
+^d23_9_0_0015_Ongoing_Text^,^여행자님! 제 부탁을 들어주시지 않겠습니까? 용왕님을 살릴 수 있는 방법은 비니사르의 간 뿐이에요. 부디 저희 용왕님을 살려주세요. 사례는 넉넉히 드릴게요. 부탁해요.^,^!!^,^^,^I need your help to save our king. If you help me, I will compensate you well. Please.^,^^,^^
+^d23_9_0_0015_Complete_Text^,^이게 말로만 듣던 비니사르의 간이군요! 역시 여행자님 대단하십니다. 별거 아니지만 받아주세요. 용왕님을 살려주신 보답입니다.^,^!!^,^^,^This is it? This will save our king. I just know it will! Thank you!^,^^,^^
+^d23_9_0_0016_Title^,^살인 의뢰^,^!!^,^^,^Hooligan in the Bushes^,^^,^^
+^d23_9_0_0016_RewarderDesc^,^라비니 카로티니<당근 농장 주인>^,^!!^,^^,^Clarence Rabbini^,^^,^^
+^d23_9_0_0016_Request_Text^,^으악! 또 농장이 엉망이당. 이게 벌써 며칠 짼지 모르겠당. 밤마다 왠 이상한 녀석이 항상 내 농장을 망가뜨리고 간당! 하필 항상 내가 잘 때 와서.. 이러다간 농장이 쫄딱 망해버릴 것 같당!<br><br>인간, 혹시 시간 있냥? 그렇다면 내 부탁을 들어달랑!  저 쪽으로 가면 그 이상한 녀석이 보일거당! 그 녀석이 다신 여기 오지 못하게 혼쭐을 내달랑! 난 너무 졸립당…^,^!!^,^^,^Oooh, some hooligan's been into my carrot crop again! They always come when I'm sleeping. How am I supposed to make a living like this, huh?<br><br>You've gotta help me! I've got a powerful need for a nap right now.^,^^,^^
+^d23_9_0_0016_Request_Text_attach_0^,^<br><br><font color="#1a4c53">라비니 동산의 퀘스트는 던전 퇴장 시 자동으로 취소된당. 꼭 제한 시간내에 완료하고 보상을 받아가랑!</font>^,^!!^,^^,^<br><br><font color="#1a4c53">If you leave now, you'll lose your chance at saving the warrens! Do wHat you must do before we run out of time.!/font>^,^^,^^
+^d23_9_0_0016_Accepted_Text^,^저 녀석이 다신 농장에 오지 못하게 혼쭐을 내달랑!^,^!!^,^^,^Stop them hooligans from messing with my carrots!^,^^,^^
+^d23_9_0_0016_Ongoing_Text^,^인간, 혹시 시간 있냥? 그렇다면 내 부탁을 들어달랑!  저 쪽으로 가면 그 이상한 녀석이 보일거당! 그 녀석이 다신 여기 오지 못하게 혼쭐을 내달랑! 난 너무 졸립당…^,^!!^,^^,^Human, tHat hooligan is close by. Chase him off so I can sleep in peace.^,^^,^^
+^d23_9_0_0016_Complete_Text^,^역시 인간은 빠르당! 벌써 처치하고 온거냥?<br>이제 당근 농장은 안전할거당. 고맙당, 인간!^,^!!^,^^,^Finally, I can go back to--<br><br>(He's asleep. You collect your reward from his pockets.)^,^^,^^
+^d23_9_0_0017_Title^,^아수라장이 된 레스토랑^,^!!^,^^,^A Chaotic Restaurant^,^^,^^
+^d23_9_0_0017_RewarderDesc^,^라비니 브라우니<라비니 요리사>^,^!!^,^^,^Buford Rabbini^,^^,^^
+^d23_9_0_0017_Request_Text^,^그 녀석이 또 왔다갔당! 이 레스토랑이 보이냥? 음식은 감쪽같이 사라지고, 식탁과 의자 모두 뒤섞여 아수라장이 따로 없당!<br><br>자주는 아니지만 가끔씩 와서 레스토랑을 망쳐놓고 가는 라비니가 있당! 반드시 복수를 하리라 다짐했지만, 매번 놓쳤당. 마침 그 나쁜 자식이 이 근처에 있다는데… 나 좀 도와달랑 인간! 그 나쁜 자식을 처치해달랑!^,^!!^,^^,^He came again! The restaurant is a mess! Food all gone! Chairs and tables out of order!<br><br>I want revenge. I want to destroy him by any means necessary, but I don't want to get a bad review. Help me, human. I have to keep my paws clean.^,^^,^^
+^d23_9_0_0017_Request_Text_attach_0^,^<br><br><font color="#1a4c53">라비니 동산의 퀘스트는 던전 퇴장 시 자동으로 취소된당. 꼭 제한 시간내에 완료하고 보상을 받아가랑!</font>^,^!!^,^^,^<br><br>If you leave now, you'll lose your chance at saving the warrens! Do wHat you must do before we run out of time.^,^^,^^
+^d23_9_0_0017_Accepted_Text^,^레스토랑을 아수라장으로 만든 그 녀석을 잡아 달랑!^,^!!^,^^,^Destroy the crook tHat keeps ruining my restaurant!^,^^,^^
+^d23_9_0_0017_Ongoing_Text^,^자주는 아니지만 가끔씩 와서 레스토랑을 망쳐놓고 가는 라비니가 있당! 반드시 복수를 하리라 다짐했지만, 매번 놓쳤당. 마침 그 나쁜 자식이 이 근처에 있다는데… 나 좀 도와달랑 인간! 그 나쁜 자식을 혼내달랑!^,^!!^,^^,^There's a monstrous slob tHat comes by my restaurant every once in a while and completely wrecks the place. Help me destroy him! Just make sure it doesn't look like I was involved or the local food critics will tear me apart.^,^^,^^
+^d23_9_0_0017_Complete_Text^,^그 녀석을 혼내고 왔냥? 하, 다신 이 곳에 오지 못하게 할거당! 레스토랑을 도와줘서 너무 고맙당 인간! 작지만 내가 인간을 위해 만들었당! 맛있게 먹어랑!^,^!!^,^^,^Did you kill him? WHat were his final words? Were they something about him being a supreme pile of pellets?! I bet they were.^,^^,^^
+^d23_9_0_0018_Title^,^행운을 지켜랑^,^!!^,^^,^Protect Luck^,^^,^^
+^d23_9_0_0018_RewarderDesc^,^라비니 프로리^,^!!^,^^,^Florian Rabbini^,^^,^^
+^d23_9_0_0018_Request_Text^,^큰일이당. 정말 큰일이당.<br>라비니 동산의 행운을 위해 내가 얼마나 열심히 키웠는데!! 대체 이게 무슨 일이냐는 말이당. 매일 매일 클로버들이 꺾이고, 사라지고 있당!<br><br>네잎클로버는 우리 라비니 동산의 행운을 상징한당! 이대로 간다면 라비니 동산도 금방 불행해질거당. 인간, 이 나쁜 놈을 잡아주지 않겠냥? 분명 이 근처에서 돌아다니고 있을거당!^,^!!^,^^,^This is ridiculous! Someone keeps picking all the four-leaf clovers out of my clover garden! How am I ever supposed to win the lottery without those? Huh?!<br><br>Somebody has to pay for this...with their lives.^,^^,^^
+^d23_9_0_0018_Request_Text_attach_0^,^<br><br><font color="#1a4c53">라비니 동산의 퀘스트는 던전 퇴장 시 자동으로 취소된당. 꼭 제한 시간내에 완료하고 보상을 받아가랑!</font>^,^^,^^,^<br><br><font color="#1a4c53">If you leave now, you'll lose your chance at saving the warrens! Do wHat you must do before we run out of time.!/font>^,^^,^^
+^d23_9_0_0018_Accepted_Text^,^라비니 동산의 클로버를 꺾는 나쁜 놈들을 잡아 달랑!^,^!!^,^^,^Avenge my stolen clovers!^,^^,^^
+^d23_9_0_0018_Ongoing_Text^,^네잎클로버는 우리 라비니 동산의 행운을 상징한당! 이대로 간다면 라비니 동산도 금방 불행해질거당. 인간, 이 나쁜 놈을 잡아주지 않겠냥? 분명 이 근처에서 돌아다니고 있을거당!^,^!!^,^^,^Four-leaf clovers are pure luck and I'm going to need a lot to win the lottery. Go out there and murder tHat thief!^,^^,^^
+^d23_9_0_0018_Complete_Text^,^정말 잡고 온거냥? 다신 못 오게 막아야한당!<br>그래도 인간 덕분에 라비니 동산의 행운을 지켰당. 고맙당! 작지만 준비했당. 이것으로 인해 인간에게도 행운이 가득하길 바란당!^,^!!^,^^,^Did you catch the beast? Did you pull out his claws one by one? No? UGH! Why did I even hire you, you hairless weirdo?!^,^^,^^
+^d23_9_0_0019_Title^,^수상한 라비니 동산으로^,^^,^^,^Shady Dealings^,^^,^^
+^d23_9_0_0019_RewarderDesc^,^무하마드 비니^,^^,^^,^Meriwether Rabbini^,^^,^^
+^d23_9_0_0019_Request_Text^,^라비니 동산에 들어가고 싶냥? 맨 입으로는 절대 못들어간당! 흠, 방법이 하나 있긴한데... 궁금하냥?<br><br>동산에 들어가기 위해선 특별한 물약이 필요하당. 라비니들이 눈치채지 못하게 해야하기 때문이당!^,^^,^^,^You want to get into the Shady Warrens, don't you? Step right over and I'll tell you the secret those other Rabbini don't want you to hear.<br><br>^,^^,^^
+^d23_9_0_0019_Request_Text_attach_0^,^근데 이걸 그냥 줄 수는 없당! 내가 특별히 인간을 위해 준비한 약이 있당. 만병통치약인뎅, 정말 모든 병이든 이 약 하나면 해결된당! 이 좋은 약이 단돈 50골! 이걸 구매하면 내가 동산에 들어갈 수 있는 물약을 주겠당! 어떠냥? 한번 사올테냥?^,^^,^^,^Only 50 gold, and I'll give you the potion you need to blend in with my Rabbini brothers and sisters. Heck, drink enough and you might not even have to go back to being an oversized skinbag!^,^^,^^
+^d23_9_0_0019_Accepted_Text^,^만병통치약을 사주면 입장권을 한 장 주겠당!^,^^,^^,^Purchase this potion, my fur-impaired friend! Only then can you enter the Shady Warrens!^,^^,^^
+^d23_9_0_0019_Ongoing_Text^,^내가 특별히 인간을 위해 준비한 약이 있당. 만병통치약인뎅, 정말 모든 병이든 이 약 하나면 해결된당! 이 좋은 약이 단돈 50골! 이걸 구매하면 내가 동산에 들어갈 수 있는 물약을 주겠당! 어떠냥? 한번 사올테냥?^,^^,^^,^Only 50 gold to change your pointless life into a Rabbini-Temmaind wonderland!^,^^,^^
+^d23_9_0_0019_Complete_Text^,^잘 선택한거당. 엇! 근데 그 약 좀 이리 줘봐랑. 음...이거 유통기한이 지났당! 내가 다음에 다시 새걸로 갖다주겠당!<br><br>약속한대로 물약을 주겠당! 아, 한가지 말해주자면 이 동산은 다른 지역과 달라서 인간의 공격은 사용할 수 없당! 특별히 이 안에서 사용할 수 있는 폭탄도 함께 주겠당. 흥, 난 너무 착한 것 같당. 그럼 담에 보장!^,^^,^^,^I knew you'd make the right choice. Here is your potion. Don't worry if it tastes like plain old carrot juice and you don't feel anything. I, uh, designed it tHat way...<br><br>Oh, and take these fancy bombs. Big attacks aren't allowed in the Shady Warrens and you don't want to draw attention.^,^^,^^
+^d23_9_0_0020_Title^,^수상한 라비니 동산^,^^,^^,^Shady Warrens^,^^,^^
+^d23_9_0_0020_RewarderDesc^,^무하마드 비니^,^^,^^,^Meriwether Rabbini^,^^,^^
+^d23_9_0_0020_Request_Text^,^아, 인간! 내가 설명안해준게 있당! 인간이 입장한 것을 라비니들이 눈치채면 큰 위험에 빠질 수도 있당. 물약을 먹어 라비니들이 눈치채지 못하는 시간은 딱 20분이당. 20분안에 이 곳에서  빠져 나와야 한당! 명심해랑!^,^^,^^,^I almost forgot! If any Rabbini realizes you don't belong, you'll be in serious danger. Unless, tHat is, you manage to hide your true nature... with another one of my incredible potions!<br><br>This potion will hide your furless face for 20 whole minutes. Take this one for now. We'll settle up later.^,^^,^^
+^d23_9_0_0020_Accepted_Text^,^아, 인간! 내가 설명안해준게 있당! 인간이 입장한 것을 라비니들이 눈치채면 큰 위험에 빠질 수도 있당. 물약을 먹어 라비니들이 눈치채지 못하는 시간은 딱 20분이당. 20분안에 이 곳에서  빠져 나와야 한당! 명심해랑!^,^^,^^,^I almost forgot! If any Rabbini realizes you don't belong, you'll be in serious danger. Unless, tHat is, you manage to hide your true nature... with another one of my incredible potions!<br><br>This potion will hide your furless face for 20 whole minutes. Take this one for now. We'll settle up later.^,^^,^^
+^d23_9_0_0020_Ongoing_Text^,^아, 인간! 내가 설명안해준게 있당! 인간이 입장한 것을 라비니들이 눈치채면 큰 위험에 빠질 수도 있당. 물약을 먹어 라비니들이 눈치채지 못하는 시간은 딱 20분이당. 20분안에 이 곳에서  빠져 나와야 한당! 명심해랑!^,^^,^^,^I almost forgot! If any Rabbini realizes you don't belong, you'll be in serious danger. Unless, tHat is, you manage to hide your true nature... with another one of my incredible potions!<br><br>This potion will hide your furless face for 20 whole minutes. Take this one for now. We'll settle up later.^,^^,^^
+^d23_9_0_0020_Complete_Text^,^잘 다녀왔냥? 앞으로도 지금처럼 시간을 지켜줘야한당! 시간을 지키지 않으면 무슨 일이 생길진 아무도 모른당.. 그럼 행운을 빈당! 다음에 보장!^,^^,^^,^Welcome back, welcome back. Don't ever go without tHat potion. You don't want to know wHat will happen.^,^^,^^
+^d23_9_0_0021_Title^,^도둑을 잡아랑^,^^,^^,^Hops and Robbers^,^^,^^
+^d23_9_0_0021_RewarderDesc^,^라비니 피나니^,^^,^^,^Jasper Rabbini^,^^,^^
+^d23_9_0_0021_Request_Text_attach_0^,^<br><br><font color="#1a4c53">라비니 동산의 퀘스트는 던전 퇴장 시 자동으로 취소된당. 꼭 제한 시간내에 완료하고 보상을 받아가랑!</font>^,^^,^^,^<br><br><font color="#1a4c53">If you leave now, you'll lose your chance at saving the warrens! Do wHat you must do before we run out of time.!/font>^,^^,^^
+^d23_9_0_0021_Request_Text^,^요즘 날강도들이 자꾸 말썽을 부려 피곤해 죽겠당. 날강도들을 쫓아가 봤는뎅, 그들을 지휘하는 대장이 있었당. 날강도 라비니들도 그저 시키는 일만 하는 것이었당..<br><br>그들이 무슨 죄가 있겠냥! 위에서 지시하는 놈들이 나쁜 놈들이당! 날강도 대장을 없애버리면 날강도들도 더 이상 말썽을 부리지는 못할거당. 날강도를 지휘하는 대장! 리골레토를 죽여달랑.^,^^,^^,^I'm so sick of these south-warren cads! They're jealous of our superior west-warren diction and decor. I was so mad the last time they came and insulted me, I followed one of them back to his squalorous den. <br><br>And do you know who I found?? Leander! He's the one tHat's been stealing all of my treasures and he's the one tHat has to pay.^,^^,^^
+^d23_9_0_0021_Accepted_Text^,^날강도 대장! 리골레토를 죽여달랑.^,^^,^^,^Stop tHat lout Leander! He's nothing but a robber!^,^^,^^
+^d23_9_0_0021_Ongoing_Text^,^날강도 라비니들, 그들이 무슨 죄가 있겠냥! 위에서 지시하는 놈들이 나쁜 놈들이당! 날강도 대장을 없애버리면 날강도들도 더 이상 말썽을 부리지는 못할거당. 날강도를 지휘하는 대장! 리골레토를 죽여달랑.^,^^,^^,^We won't stop the thefts until Leander is gone! Take him down. Show him tHat the west-warren is the best part of our village!^,^^,^^
+^d23_9_0_0021_Complete_Text^,^죽이고 왔냥? 우리 라비니 마을의 평화를 되찾아 줘서 고맙당! 더 이상 날강도 놈들도 찾아 오지 않을거당!^,^^,^^,^Is he gone? Is he really? Good. THat pitiful wretch was a scourge on the name Rabbini.^,^^,^^

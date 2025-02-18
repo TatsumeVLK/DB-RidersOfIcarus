@@ -1,0 +1,1905 @@
+t_key,t_korean
+^GMC_0^,^THat skill cannot be used while moving.^
+^GMC_1^,^Still on cooldown.^
+^GMC_2^,^You have been disconnected from the server.^
+^GMC_3^,^You do not have enough energy.^
+^GMC_4^,^Nedin is dead. Press the number 0 key to revive it.^
+^GMC_5^,^Your familiar has died and must be revived.^
+^GMC_6^,^Wrong target.^
+^GMC_7^,^THat skill cannot be used while you are dead.^
+^GMC_8^,^Nedin cannot be switched.^
+^GMC_9^,^Select a target first.^
+^GMC_19^,^Cannot be equipped at your level.^
+^GMC_20^,^Drag the item to replace it.^
+^GMC_21^,^You do not have enough money for the trade.^
+^GMC_22^,^This item cannot be thrown away.^
+^GMC_23^,^You have no familiars tHat can be linked.^
+^GMC_24^,^This item cannot be sold.^
+^GMC_25^,^Related item is not equipped.^
+^GMC_26^,^The item's durability has reached 0.^
+^GMC_27^,^You do not meet the level requirement for this item.^
+^GMC_28^,^Your solidarity is too low.^
+^GMC_29^,^You do not have any solidarity items.^
+^GMC_30^,^You cannot equip items duRing this status.^
+^GMC_31^,^You have reached the refinement limit.^
+^GMC_32^,^You have reached the crafting limit.^
+^GMC_33^,^You do not have enough items.^
+^GMC_35^,^Your class cannot equip this.^
+^GMC_36^,^Your stats are too low to equip this item.^
+^GMC_37^,^You cannot equip Armor duRing battle.^
+^GMC_38^,^You cannot unequip Armor duRing battle.^
+^GMC_39^,^You receive [ItemName] x[ItemCount].^
+^GMC_40^,^You deleted [ItemName].^
+^GMC_41^,^You now have [ItemName] x[ItemCount].^
+^GMC_42^,^Cannot be equipped here.^
+^GMC_43^,^Would you like to purchase more space?^
+^GMC_44^,^This will cost [Cost].^
+^GMC_45^,^Not an appropriate location.^
+^GMC_46^,^You cannot equip or replace items right now.^
+^GMC_47^,^You cannot use items while charging.^
+^GMC_48^,^Cannot be used.^
+^GMC_49^,^Do you want to use this [ItemName]?^
+^GMC_50^,^A [WeaponType] is already equipped.^
+^GMC_71^,^This item cannot be traded.^
+^GMC_73^,^[Target] requested a trade. Do you want to accept?^
+^GMC_100^,^Other players won't appear in safe areas. ([ShortcutKey])^
+^GMC_101^,^Other players will appear in safe areas. ([ShortcutKey])^
+^GMC_102^,^RTS Camera Mode cannot be used here.^
+^GMC_139^,^You can only use when your [GaugeParam] is at [Value].^
+^GMC_140^,^You cannot level up any more.^
+^GMC_141^,^Training familiars cannot learn skills.^
+^GMC_142^,^You cannot activate tHat skill without the correct weapon equipped.^
+^GMC_143^,^You cannot use this skill without a weapon.^
+^GMC_144^,^You do not have enough [GaugeParam] to use tHat.^
+^GMC_145^,^Your [GaugeParam] must be higher than [Value] to use tHat.^
+^GMC_146^,^Your [GaugeParam] must be lower than [Value] to use tHat.^
+^GMC_147^,^You do not have enough skill points.^
+^GMC_148^,^Select a target first.^
+^GMC_149^,^There are no familiars to revive.^
+^GMC_150^,^This skill cannot be used while moving.^
+^GMC_151^,^Global cooldown in progress.^
+^GMC_152^,^[SkillName] is currently on [TimeType].^
+^GMC_153^,^This item isn't ready yet.^
+^GMC_154^,^There are no skill slots available.^
+^GMC_155^,^There are no familiars to be replaced.^
+^GMC_156^,^You cannot move while using this skill.^
+^GMC_157^,^[UserName] cannot learn this class skill.^
+^GMC_158^,^You are too close.^
+^GMC_159^,^The link skill level is too low.^
+^GMC_160^,^To learn this skill, you need to learn the link skill first.^
+^GMC_161^,^Not enough cumulative skill points.^
+^GMC_162^,^You must be invisible to use this skill.^
+^GMC_163^,^The target is not within the skill area.^
+^GMC_164^,^Incorrect attack direction.^
+^GMC_165^,^[SkillName] activated.^
+^GMC_166^,^You cannot use this skill duRing battle.^
+^GMC_167^,^You cannot use this skill outside of battle.^
+^GMC_168^,^You cannot activate this skill right now.^
+^GMC_169^,^You can only use this skill while stealthed.^
+^GMC_170^,^This is a passive skill.^
+^GMC_171^,^The target is out of range.^
+^GMC_172^,^This skill will not work on the target.^
+^GMC_173^,^The target is out of range.^
+^GMC_174^,^Skill charge canceled.^
+^GMC_175^,^Cannot be used in the air.^
+^GMC_176^,^You are rooted while casting this spell.^
+^GMC_177^,^You do not have a familiar summoned.^
+^GMC_178^,^Your currently summoned familiar does not have this skill.^
+^GMC_179^,^Select target area.^
+^GMC_180^,^You must have line-of-sight on the target to use this skill.^
+^GMC_181^,^Something is blocking your skill.^
+^GMC_300^,^You cannot use this skill right now.^
+^GMC_401^,^You cannot emote on a mount.^
+^GMC_402^,^This action is not available while dead.^
+^GMC_500^,^This name cannot be used.^
+^GMC_501^,^You cannot create any more characters.^
+^GMC_600^,^/Sound when moving for the first time after 10 seconds of idle^
+^GMC_601^,^/When switching to a 3rd familiar while your current familiar is on standby^
+^GMC_602^,^/When your familiar's health falls below 10%^
+^GMC_603^,^/When gatheRing familiars from holding down the space bar^
+^GMC_604^,^/When press the use skill button for the third familiar in queue^
+^GMC_605^,^/When reviving after death^
+^GMC_606^,^/When familiars tHat aren't yours have been clicked more than three times in a row^
+^GMC_607^,^/When drawing weapons^
+^GMC_608^,^/When a familiar uses powerful skills such as creation skill and potential skill^
+^GMC_700^,^Some changes will not be applied until you restart the game.^
+^GMC_701^,^Reset all options to their default values?^
+^GMC_800^,^Disbanding party.^
+^GMC_801^,^You left the party.^
+^GMC_802^,^[Target] has invited you to a party.^
+^GMC_803^,^[Target] has declined your party invitation.^
+^GMC_804^,^[Target] has left.^
+^GMC_805^,^[Target] has been kicked from the party.^
+^GMC_806^,^Party members are free to take wHat they want.^
+^GMC_807^,^Party members will take turns getting items.^
+^GMC_808^,^One party member will be designated to receive all items.^
+^GMC_809^,^All items will be subject to your party's item distribution rules.^
+^GMC_810^,^Only Elite or better items will be subject to your party's item distribution rules. All others are free to all members.^
+^GMC_811^,^Only Heroic or better items will be subject to your party's item distribution rules. All others are free to all members.^
+^GMC_812^,^Only Legendary items will be subject to your party's item distribution rules. All others are free to all members.^
+^GMC_813^,^Party information changed.^
+^GMC_814^,^Party disbanded.^
+^GMC_815^,^[Target] has been made the party leader.^
+^GMC_816^,^Only Common or better items will be subject to your party's item distribution rules. All others are free to all members.^
+^GMC_817^,^[Target] joined the raid.^
+^GMC_818^,^Do you want to roll the dice for the [ItemName]?^
+^GMC_819^,^[UserName] rolled [Number].^
+^GMC_820^,^[UserName] forfeited.^
+^GMC_821^,^Item distribution rules changed.^
+^GMC_822^,^You reached level [Level].^
+^GMC_823^,^You sent a party request to [Target].^
+^GMC_824^,^[Target] wants to join your party. Do you want to accept?^
+^GMC_825^,^[Target] wants to join your raid. Do you want to accept?^
+^GMC_826^,^[Target] wants to summon you.Do you want to accept?^
+^GMC_827^,^[Target] wants a ride.Do you want to accept?(Open Seats: [Second])^
+^GMC_828^,^[Target] wants to take you on a ride. Do you want to accept?^
+^GMC_829^,^[Target] rejected your mount request.^
+^GMC_830^,^Your request to ride [Target]'s mount expired.^
+^GMC_831^,^[Target] declined your mount request.^
+^GMC_832^,^The invitation to ride [Target]'s mount expired.^
+^GMC_850^,^[Target] invited you join the raid.^
+^GMC_851^,^You invited [Target] to join the raid.^
+^GMC_852^,^Are you ready for battle?^
+^GMC_900^,^You don't have an ore extractor in your bag.^
+^GMC_1000^,^Only Nedin can Collect.^
+^GMC_1001^,^[Target] is about to begin the quest, [QuestName]. Do you want to accept?^
+^GMC_1002^,^[QuestName] objectives completed.^
+^GMC_1003^,^[QuestName] failed. Speak with the quest giver to try again.^
+^GMC_1004^,^Talk to [NpcName]^
+^GMC_1005^,^[QuestName] accepted.^
+^GMC_1006^,^[QuestName] completed.^
+^GMC_1007^,^[QuestName] canceled.^
+^GMC_1008^,^[UserName] cannot share [QuestName].^
+^GMC_1009^,^[QuestName] has been shared. Do you want to accept?^
+^GMC_1010^,^You are in a status tHat cannot fulfill the quest .^
+^GMC_1011^,^Please select another item.^
+^GMC_1012^,^You have [ItemCount] items tHat can be selected.^
+^GMC_2100^,^[Target] wants to fight! Do you want to accept?^
+^GMC_2101^,^You challenged [Target] to a fight.^
+^GMC_2102^,^[Target] has declined your fight.^
+^GMC_2103^,^The battle challenge has expired.^
+^GMC_2104^,^You won the battle.^
+^GMC_2105^,^You lost the battle.^
+^GMC_2106^,^You are out of dueling range.^
+^GMC_2107^,^[Winner] defeated [Loser] in glorious battle.^
+^GMC_2108^,^You area too far away to issue a battle challenge.^
+^GMC_2109^,^The battle has been canceled.^
+^GMC_2110^,^The battle has been canceled because your opponent is out of range.^
+^GMC_2111^,^You cannot convert back to normal mode duRing a battle.^
+^GMC_2112^,^You have declined the battle challenge.^
+^GMC_2200^,^[Target] is on the hunt!^
+^GMC_2201^,^[Target] is dominating.^
+^GMC_2202^,^[Target] is celebrating the festival of blood!^
+^GMC_2203^,^[Target]'s hunt has been canceled.^
+^GMC_2204^,^[Target]'s domination has been shut down.^
+^GMC_2205^,^[Target]'s festival of blood has been ended.^
+^GMC_2206^,^[Target] obtained absolute power.^
+^GMC_2207^,^[Target]'s absolute power is no more.^
+^GMC_2208^,^Stopping a hunt increased your kill streak by [Value].^
+^GMC_2209^,^Stopping a domination increased your kill streak by [Value].^
+^GMC_2210^,^Stopping a festival of blood increased your kill streak by [Value].^
+^GMC_2211^,^Stopping the absolute power increased your kill streak by [Value].^
+^GMC_3000^,^You can't move.^
+^GMC_3001^,^You can't act.^
+^GMC_3002^,^You are terrified.^
+^GMC_4000^,^You were forced to quit because of a multiple logins.^
+^GMC_4001^,^You were forced to quit because of a service operation.^
+^GMC_4002^,^You were forced to quit because of a program error.^
+^GMC_4003^,^You were forced to quit because of idle time.^
+^GMC_4004^,^You were forced to quit because of an unknown reason.^
+^GMC_4005^,^You are already connected.^
+^GMC_4006^,^You have failed to connect.^
+^GMC_4007^,^Cannot contact login server. Please try again.^
+^GMC_4008^,^Unable to connect to the game server.Please try again later.^
+^GMC_4009^,^There has been an error with the connection order.^
+^GMC_4010^,^This is an invalid username.^
+^GMC_4011^,^This is an invalid pasSword.^
+^GMC_4012^,^This username has been blocked.^
+^GMC_4013^,^This account has been blocked.^
+^GMC_4014^,^You are not registered as a player.^
+^GMC_4015^,^This account has logged on at a different location.^
+^GMC_4016^,^There has been a DB query error.^
+^GMC_4017^,^The account is at its maximum value.^
+^GMC_4018^,^Not connected to the main server.^
+^GMC_4019^,^This server is at maximum capacity.^
+^GMC_4020^,^Invalid packet.^
+^GMC_4021^,^An unknown error has occurred.^
+^GMC_4022^,^Channel entry failed.^
+^GMC_4023^,^A DB error has occurred.^
+^GMC_4024^,^You do not have any more character slots.^
+^GMC_4025^,^THat character doesn't exist.^
+^GMC_4026^,^Enter a name for your character. 
+
+Names must be between 4-16 alphanumerical characters and must contain at least 1 letter.^
+^GMC_4027^,^Names must be between 4-16 alphanumerical characters and must contain at least 1 letter.^
+^GMC_4028^,^[Slang] is a prohibited word.^
+^GMC_4029^,^Making a second download attempt....^
+^GMC_4030^,^This world is not listed.^
+^GMC_4031^,^This world is not open.^
+^GMC_4032^,^You have selected the same world.^
+^GMC_4033^,^This world has too many players.^
+^GMC_4034^,^This player has been blocked.^
+^GMC_4035^,^A packet error has occurred.^
+^GMC_4036^,^Systematic error has occurred.^
+^GMC_4037^,^Connection to login authentication server lost. Ending game.^
+^GMC_4038^,^Connection to game server lost. Ending game.^
+^GMC_4039^,^Your pasSword must be 2-20 characters.^
+^GMC_4040^,^Your username must be 2-20 characters.^
+^GMC_5000^,^The number of command factors is incorrect.(Over)^
+^GMC_5001^,^The number of command factors is incorrect.(Under)^
+^GMC_5002^,^Command invalid. Commands are case sensitive.^
+^GMC_5003^,^First factor value invalid.^
+^GMC_5004^,^Second factor value invalid.^
+^GMC_5005^,^Third factor value invalid.^
+^GMC_5006^,^Second or third factor value invalid.^
+^GMC_6000^,^%s(Available: %d) Cost: %d gold %d silver %d copper^
+^GMC_6001^,^%s Cost: %d gold %d silver %d copper
+Do you want to temper this item?^
+^GMC_6002^,^Cost: %d gold %d silver %d copper Do you want to learn these characteristics?^
+^GMC_6003^,^%s(Available: %d) Cost: %d gold %d silver %d copper^
+^GMC_6004^,^%sSale Price: %d gold %d silver %d copper^
+^GMC_6005^,^[BuyMoney] is required to learn the skill. Continue?^
+^GMC_6006^,^There are no obtainable items.^
+^GMC_6007^,^Please select a reward.^
+^GMC_6008^,^Please enter your pasSword.^
+^GMC_6009^,^Please enter [Key] to delete the character.^
+^GMC_6010^,^Please enter your pasSword for confirmation.^
+^GMC_6011^,^Character deletion failed.^
+^GMC_6012^,^Character deletion successful.^
+^GMC_6013^,^Click the revival button to revive now or wait until the timer finishes to revive at the nearest revival area.^
+^GMC_6014^,^General/System tab cannot be deleted.^
+^GMC_6015^,^You have died. You will revive after [Time] at the nearest revival area.^
+^GMC_6016^,^General/System tab cannot be deleted.^
+^GMC_6017^,^CHat window names cannot be duplicated.^
+^GMC_6018^,^Please enter a new name for the cHat window.^
+^GMC_6019^,^Please enter the correct value.^
+^GMC_6020^,^You do not have enough materials to create the selected item.^
+^GMC_6021^,^%s(Available: %d / Required: %d)^
+^GMC_6022^,^You do not have enough items for refinement.^
+^GMC_6023^,^Would you like to move to [Target]?^
+^GMC_6024^,^There is no route to tHat area.^
+^GMC_6025^,^You do not have enough money.^
+^GMC_6026^,^Would you like to add the current location to the air route?^
+^GMC_6027^,^%s has no level data.^
+^GMC_6028^,^%s has no level data.Ending game.^
+^GMC_6029^,^This name cannot be used.^
+^GMC_6030^,^This name cannot be used.^
+^GMC_6031^,^This name cannot be used.^
+^GMC_6032^,^This name cannot be used.^
+^GMC_6033^,^This name cannot be used.^
+^GMC_6034^,^This name cannot be used.^
+^GMC_6035^,^This name cannot be used.^
+^GMC_6036^,^This name cannot be used.^
+^GMC_6037^,^Enter 2-40 characters with no spaces, special characters, or prohibited words.^
+^GMC_6038^,^Enter 2-40 characters.^
+^GMC_6039^,^Please enter a name with 4-16 letters.^
+^GMC_6040^,^PrepaRing...^
+^GMC_6041^,^Would you like to exit the game?^
+^GMC_6042^,^Would you like to destroy this [$4ItemName$o]?^
+^GMC_6043^,^Please select the item category.^
+^GMC_6044^,^There are duplicated keys.^
+^GMC_6045^,^[Target] left the game.^
+^GMC_6046^,^[Target] logged in.^
+^GMC_6047^,^[Region] found.^
+^GMC_6048^,^[Target] rejected the invitation.^
+^GMC_6049^,^The invitation from [Target] has expired.^
+^GMC_6050^,^[Param] decreased by [ChangeValue].^
+^GMC_6051^,^[Param] increased by [ChangeValue].^
+^GMC_6052^,^[BuffName] is in effect.^
+^GMC_6053^,^[BuffName] has been removed.^
+^GMC_6054^,^[Param] is active.^
+^GMC_6055^,^[Param] has been removed.^
+^GMC_6056^,^[Month]/[Day] at [Time]:[Minute]^
+^GMC_6057^,^[Day] [Time] [Minute] [Second]^
+^GMC_6058^,^Would you like to set this as your recall location?^
+^GMC_6059^,^You cannot set this as your recall location.^
+^GMC_6060^,^[Name] has been saved as your recall location.^
+^GMC_6061^,^This name is available.^
+^GMC_6062^,^You need [ItemName].^
+^GMC_6063^,^[MonName] gave up tracking down [MyName].^
+^GMC_6064^,^Skill points increased by [Count].^
+^GMC_6065^,^You do not have room to equip this bag. Organize your inventory first.^
+^GMC_6066^,^[UserName] obtains [ItemName] x[ItemCount] .^
+^GMC_6067^,^The bag is not empty.^
+^GMC_6068^,^You cannot register passive skills in a quickslot.^
+^GMC_6069^,^It will cost [Cost] to release your [Level] [FellowName]. Once released, this familiar will be gone forever. Continue?^
+^GMC_6070^,^You cannot afford the transaction.^
+^GMC_6071^,^This is not a quest for this area.^
+^GMC_6072^,^The quest-giver is not in this zone.^
+^GMC_6073^,^It will cost you [Cost] to treat your dire wounds. Do you want to receive treatment?^
+^GMC_6074^,^[Param] active.^
+^GMC_6075^,^[Param] removed.^
+^GMC_6076^,^[Param] decreased by [ChangeValue].^
+^GMC_6077^,^[Param] increased by [ChangeValue].^
+^GMC_6078^,^Casting...^
+^GMC_6079^,^Negates [Value] [GaugeParam] damage.^
+^GMC_6080^,^[Count] counterattacks available.^
+^GMC_6081^,^Deals [Value] damage to [GaugeParam] every [DotTime] sec for [TotalTime] sec.^
+^GMC_6082^,^Activates [Skill] every [Time].^
+^GMC_6083^,^Restores [Value] [GaugeParam] every [DotTime] sec for [TotalTime] sec.^
+^GMC_6084^,^You obtain [Value].^
+^GMC_6085^,^[Value] has been removed from your inventory.^
+^GMC_6086^,^[Value] deposited in storage.^
+^GMC_6087^,^[Value] withdrawn from storage.^
+^GMC_6088^,^You cannot create any more characters.^
+^GMC_6089^,^Please enter a character name.^
+^GMC_6090^,^You do not know how to use [Skill] yet.^
+^GMC_6091^,^[BuyMoney] is required to learn the skill. Continue?^
+^GMC_6092^,^You have died.^
+^GMC_6093^,^[FellowName] has fallen!^
+^GMC_6094^,^[Name] has fallen!^
+^GMC_6095^,^[Name]'s familiar, [FellowName], has fallen!^
+^GMC_6096^,^[Name] has fallen!^
+^GMC_6097^,^Missed [Number] payment(s).^
+^GMC_6098^,^[Name] is away.^
+^GMC_6099^,^[Name] is no longer away.^
+^GMC_6100^,^[Param] decreased by [ChangeValue].^
+^GMC_6101^,^[Param] increased by [ChangeValue].^
+^GMC_6102^,^Close the message box and try again.^
+^GMC_6103^,^Enter a new name for your familiar.^
+^GMC_6104^,^Please enter the username.^
+^GMC_6105^,^[ItemName] has been tempered to +[Level].^
+^GMC_6106^,^[ItemName] is now +[Level] due to failed tempeRing.^
+^GMC_6107^,^Soul stones equipped.^
+^GMC_6108^,^Soul stone equip failed.^
+^GMC_6109^,^You cannot use this on the living.^
+^GMC_6110^,^You have entered a solo story instance.^
+^GMC_6111^,^Party invite declined.^
+^GMC_6112^,^You've discovered the [Portal] shrine.^
+^GMC_6113^,^Location: Underground Level [Number]^
+^GMC_6114^,^Location: Ground Level [Number]^
+^GMC_6115^,^Afflicts [Param] for [Time].^
+^GMC_6116^,^Increases [Param] by [ChangeValue] for [Time].^
+^GMC_6117^,^Decreases [Param] by [ChangeValue] for [Time].^
+^GMC_6118^,^Dungeon reset.^
+^GMC_6119^,^Dungeon cannot be reset.^
+^GMC_6120^,^You cannot change channels duRing an escort quest.^
+^GMC_6121^,^You cannot change channels while performing an action.^
+^GMC_6122^,^You have declined the raid invitation.^
+^GMC_6123^,^[Target] has rejected your combat ready request.^
+^GMC_6124^,^Ready preparations for [Target] have expired.^
+^GMC_6125^,^Dungeon created.^
+^GMC_6126^,^Temper [ItemName]?^
+^GMC_6127^,^Extract [ItemName]?
+
+The item will be <font color="#E53215 destroyed/font.^
+^GMC_6128^,^Bless [ItemName]?^
+^GMC_6129^,^Increase [ItemName]'s level?^
+^GMC_6130^,^Party invitation rejected.^
+^GMC_6131^,^Raid invitation rejected.^
+^GMC_6132^,^Options have been automatically optimized for your system.^
+^GMC_6133^,^Extract [ItemName]?
+
+The +[Level] item will be <font color="#E53215 destroyed/font.^
+^GMC_6134^,^Extract from [ItemName]?
+
+The item's grade may be too high
+to be <font color="#E53215 destroyed/font.^
+^GMC_6135^,^You earn [Exp] experience points.^
+^GMC_6136^,^You could not join the party.^
+^GMC_6137^,^[Time] remaining before re-entry. Please try again.^
+^GMC_6138^,^[ItemName] tempeRing failed and its level has been reset.^
+^GMC_6139^,^[ItemName] tempeRing failed and the item has been destroyed.^
+^GMC_6140^,^Screenshot saved to [Path].^
+^GMC_6141^,^You declined [Target]'s summon request.^
+^GMC_6142^,^Enter an automatic decline message.^
+^GMC_6143^,^\[Message]\ Please copy the message on the left.^
+^GMC_6144^,^[Target] is auto.^
+^GMC_6145^,^[Target] is not auto.^
+^GMC_6146^,^Auto decline message sent.^
+^GMC_6147^,^Warning! If you delete [Name], you will lose all progression and familiars.^
+^GMC_6148^,^The game is closing. Press Exit Now if you do not wish to wait.^
+^GMC_6149^,^Returning to lobby...^
+^GMC_6150^,^[ItemName] will expire in [Time].^
+^GMC_6151^,^[ItemName] will expire in [Time].^
+^GMC_6152^,^[ItemName] has expired.^
+^GMC_6153^,^Selecting dungeon difficulty...^
+^GMC_6155^,^[Target] declined your mount.^
+^GMC_6156^,^[Target] declined your mount invitation.^
+^GMC_6157^,^You are too far away to get on a mount.^
+^GMC_6158^,^You are too far to invite others to mount.^
+^GMC_6159^,^This familiar can only hold one rider.^
+^GMC_6160^,^This familiar can only hold one rider.^
+^GMC_6166^,^Are you sure you want to dismount the [Target]?^
+^GMC_6167^,^[UserName] obtains [Cost].^
+^GMC_6168^,^[ItemName] is currently equipped.
+
+Are you sure you want to extract this item?^
+^GMC_6169^,^You have failed to temper the [ItemName].^
+^GMC_6170^,^Another action is in effect.^
+^GMC_6171^,^[ItemUseAction] in progress...^
+^GMC_6172^,^Spend elluns to reset the re-entry time for [DungeonName] ([Grade])?^
+^GMC_6300^,^Please enter a guild name.^
+^GMC_6301^,^Enter greetings.^
+^GMC_6302^,^Enter a name.^
+^GMC_6303^,^Please write \Dissolve Guild\ into the window.^
+^GMC_6304^,^There is no Guild Member for the [Order] order.//Guide member for the %d order is missing.^
+^GMC_6305^,^As the promoter of the [Target]'s Guild Foundation, do you approve of the foundation?^
+^GMC_6306^,^[Target] has invited you to a guild. Do you want to accept?^
+^GMC_6307^,^This guild has been dissolved.^
+^GMC_6308^,^You are no longer a member of [Name].^
+^GMC_6309^,^You have been kicked from [Name].^
+^GMC_6310^,^A guild master cannot leave the guild.^
+^GMC_6311^,^You have been invited to join the [Guild] guild.
+Do you want to accept?^
+^GMC_6312^,^You're not in a guild.^
+^GMC_6313^,^You have been kicked from [Name].^
+^GMC_6314^,^Guild created.^
+^GMC_6315^,^You have joined the guild.^
+^GMC_6316^,^You invited [Target] to the guild.^
+^GMC_6317^,^You have declined a guild invitation.^
+^GMC_6321^,^Upgrading your guild will consume [Value].Continue?^
+^GMC_6322^,^Do you want to activate User Sentence Entry button?
+It will cost [Value] Ellun.^
+^GMC_6323^,^Do you want to change your guild emblem? It will cost [Value].^
+^GMC_6341^,^Alliance formed.^
+^GMC_6342^,^Do you want to disband the alliance [Name]?^
+^GMC_6343^,^The alliance name has been changed to [Name].^
+^GMC_6344^,^Kick [Name] from your alliance?
+
+Kicked guilds cannot join another alliance for 1 day.^
+^GMC_6345^,^Leave the alliance [Name]?
+
+You will not be able to join another alliance for 1 day.^
+^GMC_6346^,^Allow [Guild] to join the alliance?^
+^GMC_6347^,^Alliance invitation sent to [Target].^
+^GMC_6348^,^You have declined the alliance invitation.^
+^GMC_6349^,^[Target] has declined the alliance invitation.^
+^GMC_6350^,^The invitation to the alliance [Target] has expired.^
+^GMC_6351^,^The guild [Guild] has already joined the alliance [Unite].^
+^GMC_6352^,^Alliance formed.^
+^GMC_6353^,^[Guild] has joined the alliance.^
+^GMC_6354^,^You are not part of the alliance.^
+^GMC_6355^,^Only the alliance leader can send invites.^
+^GMC_6356^,^A maximum of 3 guilds can form an alliance.^
+^GMC_6357^,^The alliance [Name] has been disbanded.^
+^GMC_6358^,^[Guild] has been kicked out of the alliance [Unite].^
+^GMC_6359^,^[Guild] has left the alliance [Unite].^
+^GMC_6360^,^You have already joined this alliance.^
+^GMC_6363^,^An alliance and a guild cannot have the same name.^
+^GMC_6324^,^[Name] has logged in.^
+^GMC_6400^,^There are no familiars to be mated.^
+^GMC_6401^,^You don't have enough Soul Energy item of this type.^
+^GMC_6402^,^Cannot be mated at your level.^
+^GMC_6403^,^Same sex cannot be mated.^
+^GMC_6404^,^You can only feed when familiars are hungry.^
+^GMC_6405^,^[Target] requested to mate.^
+^GMC_6406^,^Please place the materials for the egg in the slot.^
+^GMC_6407^,^You can only take one familiar with you at a time. Please leave your familiar at a Familiar Day Care and try Hatching again.^
+^GMC_6408^,^Already Hatching...^
+^GMC_6409^,^The familiar is not hungry now.^
+^GMC_6410^,^[Name] tamed.^
+^GMC_6411^,^[Name] has been set free.^
+^GMC_6412^,^[Name] has died.^
+^GMC_6413^,^Familiar dismissal canceled.^
+^GMC_6414^,^Familiar dismissal in progress.^
+^GMC_6415^,^Your familiar inventory cannot get any bigger.^
+^GMC_6416^,^You do not have enough funds to expand your familiar inventory.^
+^GMC_6417^,^You cannot expand the familiar's inventory at this level.^
+^GMC_6418^,^Familiar inventory expanded.^
+^GMC_6419^,^You have no familiars in storage.^
+^GMC_6420^,^You cannot make this inventory any larger.^
+^GMC_6421^,^You cannot dismount from this familiar.^
+^GMC_6422^,^This location isn't on your map.^
+^GMC_6423^,^Once a familiar runs out of stamina, you will have to dismount.^
+^GMC_6424^,^Your familiar is out of stamina and can no longer carry you.^
+^GMC_6425^,^Do you want to seal [FellowName]?
+
+<font color="#FF7800 This cannot be undone.</font>^
+^GMC_6426^,^Sealing [FellowName]...^
+^GMC_6427^,^Do you want to make [FellowName] a mount?^
+^GMC_6428^,^Transforming [FellowName]...^
+^GMC_6429^,^Do you want to unseal [FellowName]?<font color="#FF7800 Unsealing this familiar will place it in your storage as a pet.</font>^
+^GMC_6430^,^Unsealing [FellowName]...^
+^GMC_6431^,^Transform [FellowName] into a pet?^
+^GMC_6432^,^Transformation complete.^
+^GMC_6433^,^Familiar seal stone obtained.^
+^GMC_6434^,^Unsealing familiar complete.^
+^GMC_6435^,^Seal boost complete.^
+^GMC_6436^,^Familiars unified.^
+^GMC_6437^,^Seal boost in progress...^
+^GMC_6438^,^Familiar tempeRing in progress...^
+^GMC_6439^,^This familiar is at its maximum level.^
+^GMC_6440^,^You cannot seal a familiar with a level higher than yours.^
+^GMC_6441^,^This seal stone is the wrong grade.^
+^GMC_6442^,^Unequip all familiar items first.^
+^GMC_6443^,^You must unseal the familiar first.^
+^GMC_6444^,^TempeRing familiar...^
+^GMC_6445^,^Do you want to grant a seal boost to [ItemName]?^
+^GMC_6446^,^It costs [Cost] to remove [ItemName] from this item.
+Warning: The sealed familiar will be destroyed.^
+^GMC_6447^,^Sealed familiar removed.^
+^GMC_6448^,^You have no empty slots.^
+^GMC_6449^,^Your character's level is too low to enhance any further.^
+^GMC_6450^,^Your level doesn't allow this transformation.^
+^GMC_6451^,^Your grade doesn't allow this transformation.^
+^GMC_6452^,^This familiar is unable to transform.^
+^GMC_6454^,^The familiar isn't at the level or grade to be sealed.^
+^GMC_6460^,^You have less than 10% of your Taming Points remaining.^
+^GMC_6500^,^A fighter with strong defense and skillful in close combat. Mainly stay in the front line of the party and act as a Shield for party members. Also, very skillful with close range weapons.^
+^GMC_6501^,^The Priest is an important class for preserving life and strength. Priests can heal wounded allies or protect them from danger.^
+^GMC_6502^,^This is an offensive-oriented class tHat can attack enemies using fire, ice, and thunder. Defense might be weak, but has the ability to oppress enemies with a strong attack before they can even attack. Also possess various special attacks using elements.^
+^GMC_6503^,^Nature information in preparation.^
+^GMC_6504^,^Assassin information in preparation.^
+^GMC_6600^,^There are no items tHat can be tempered.^
+^GMC_6601^,^You have no tempeRing stones.^
+^GMC_6602^,^[BUG] You can't enhance because the Enhancement Index of the item to be enhanced is different from the saved Enhancement Index.^
+^GMC_6603^,^You can't temper at this level.^
+^GMC_6604^,^You don't have enough tempeRing stones to temper this item.^
+^GMC_6605^,^TempeRing information not found.^
+^GMC_6700^,^Please select a piece of familiar Equipment and a solidarity crystal.^
+^GMC_6701^,^The familiar Equipment does not have enough power to handle the crystal you have chosen.^
+^GMC_6702^,^The familiar Equipment is too low level for the crystal you have chosen.^
+^GMC_6703^,^Familiar Equipment Power Slot:^
+^GMC_6704^,^Binding Crystal Power Slot:^
+^GMC_6800^,^Do you want to learn [SkillName]?^
+^GMC_6801^,^Do you want to level up [SkillName]?^
+^GMC_6802^,^Do you want to reset this skill?^
+^GMC_6803^,^Casting has been cancelled.^
+^GMC_6804^,^You have not learned [SkillName].^
+^GMC_6900^,^The target is already dead.^
+^GMC_6901^,^You must be facing the target.^
+^GMC_7000^,^Please enter your friend's name.^
+^GMC_7001^,^[Target] has been registered to your friends list.^
+^GMC_7002^,^[Target]'s friend registration canceled.^
+^GMC_7003^,^Who would you like to block?^
+^GMC_7004^,^Block Message^
+^GMC_7005^,^[Target] has been blocked.^
+^GMC_7006^,^[Target] has been unblocked.^
+^GMC_7007^,^You have requested summon to [Target].^
+^GMC_7008^,^[Target] has declined your summon request.^
+^GMC_7009^,^Your summon request to [Target] has expired.^
+^GMC_8000^,^You need a higher character level to learn this skill.^
+^GMC_8001^,^You don't have enough points to learn this skill.^
+^GMC_8002^,^You don't have enough total tab points to learn this skill.^
+^GMC_8003^,^You have already learned this skill.^
+^GMC_8004^,^You have learned [SkillName].^
+^GMC_8005^,^You must learn the skill before this level.^
+^GMC_9000^,^You have requested to trade with [Target].^
+^GMC_9007^,^You cannot change channels in this area.^
+^GMC_9008^,^Changed to channel [Number].^
+^GMC_9009^,^The other party has completed the trade.^
+^GMC_9010^,^The other party has canceled the trade.^
+^GMC_9011^,^Trade successful.^
+^GMC_9012^,^Trade canceled.^
+^GMC_9013^,^[Target] has declined your trade invitation.^
+^GMC_9014^,^Your trade invitation to [Target] has expired.^
+^GMC_9015^,^You purchase [ItemName] x[ItemCount].^
+^GMC_9016^,^You traded [ItemName] x[ItemCount].^
+^GMC_9017^,^You obtain [ItemName] x[ItemCount].^
+^GMC_9018^,^Sale closed. [ItemName] x[ItemCount] returned.^
+^GMC_9019^,^Registration failed. [ItemName] x[ItemCount] returned.^
+^GMC_9020^,^You sold [ItemName] x[ItemCount].^
+^GMC_9021^,^You stored [ItemName] x[ItemCount].^
+^GMC_9022^,^You destroy [ItemName] x[ItemCount].^
+^GMC_9023^,^You listed [ItemName] x[ItemCount] on the marketplace.^
+^GMC_9024^,^[ItemName] x[ItemCount] destroyed.^
+^GMC_9025^,^[ItemName] x[ItemCount] has Hatched.^
+^GMC_9026^,^[ItemName] x[ItemCount] attached.^
+^GMC_9027^,^You obtain [ItemName] x[ItemCount] from synthesizing items.^
+^GMC_9100^,^A task is in progress.^
+^GMC_9101^,^Select an item to temper.^
+^GMC_9102^,^Select an item to extract.^
+^GMC_9103^,^This item has already reached its maximum tempeRing level.^
+^GMC_9104^,^This item cannot be tempered.^
+^GMC_9105^,^This item cannot be extracted.^
+^GMC_9106^,^Your extractor is not powerful enough.^
+^GMC_9107^,^[Target] tempered [ItemName] to +[Value].^
+^GMC_9200^,^You obtain [Value] soul binding point(s).^
+^GMC_9201^,^[FellowName]'s soul binding normalized.^
+^GMC_9202^,^Soul binding increased.^
+^GMC_9203^,^[FellowName]'s soul binding has gotten very strong. Visit a beast trainer to raise your familiar's level.^
+^GMC_9204^,^Item dyed.^
+^GMC_9205^,^Hair dyed.^
+^GMC_9206^,^You obtain [Value].^
+^GMC_9207^,^This item cannot be repaired.^
+^GMC_9208^,^This item cannot be dyed.^
+^GMC_9209^,^Select an item to dye.^
+^GMC_9210^,^You need an item tHat can be dyed.^
+^GMC_9211^,^Select an item to temper.^
+^GMC_9212^,^Select the item to equip with a soul stone.^
+^GMC_9213^,^This item cannot be tempered.^
+^GMC_9214^,^This item cannot handle soul stones.^
+^GMC_9215^,^Do you want to unseal [Target]'s power? If you do, it will be able to gain new levels, but can not be sealed to become a soul stone.^
+^GMC_9216^,^You have unsealed the familiar's power.^
+^GMC_9217^,^This familiar's power has already been unsealed.^
+^GMC_9218^,^You do not have a familiar summoned.^
+^GMC_9219^,^[Target]'s durability is now 0.^
+^GMC_9220^,^This item is for familiars.^
+^GMC_9221^,^There are no items to repair.^
+^GMC_9222^,^Do you want to repair all items?^
+^GMC_9223^,^Do you want to repair [ItemName]?^
+^GMC_9224^,^This does not require a repair.^
+^GMC_9225^,^[ItemName]'s effect will no longer work because its effective level has been exceeded.^
+^GMC_9300^,^The other party is ready to complete the trade.^
+^GMC_9400^,^There are no items to sell.^
+^GMC_9401^,^You have not designated the sale price yet.^
+^GMC_9403^,^You do not have enough for the fee.^
+^GMC_9404^,^There are no items to calculate.^
+^GMC_9405^,^You cannot list bound items.^
+^GMC_9406^,^This item cannot be listed on the marketplace.^
+^GMC_9407^,^The listed item has been sold.^
+^GMC_9900^,^There is an unfinished task. Cannot enter combat mode.^
+^GMC_9901^,^Cancel combat stance first.^
+^GMC_9902^,^Can only be used on the ground.^
+^GMC_9903^,^There is an unfinished task. Another task cannot be initiated just yet.^
+^GMC_9904^,^Cannot be used while jumping.^
+^GMC_9905^,^Cannot be used in combat stance.^
+^GMC_9980^,^Please select a familiar to seal.^
+^GMC_9981^,^Please select a familiar to transform.^
+^GMC_9990^,^Familiar sealing canceled.^
+^GMC_9991^,^Familiar transformation canceled.^
+^GMC_9992^,^TempeRing canceled.^
+^GMC_9993^,^Extraction canceled.^
+^GMC_9999^,^Cannot be used right now.^
+^GMC_10000^,^You have new mail.^
+^GMC_10001^,^You cannot attach any more items.^
+^GMC_10002^,^This item is already attached.^
+^GMC_10003^,^[AttachedName] x[Count] added^
+^GMC_10004^,^This message has an item attached. Are you sure you want to delete it?^
+^GMC_10005^,^Mail sent.^
+^GMC_10006^,^You have [Count] new message(s).^
+^GMC_10100^,^Cannot be tamed.^
+^GMC_10101^,^Cannot be tamed while mounted.^
+^GMC_10102^,^Familiars cannot be dismissed while mounted.^
+^GMC_10103^,^Taming failed.^
+^GMC_10104^,^Familiar storage full.^
+^GMC_10105^,^You must jump from above to tame this target.^
+^GMC_10106^,^The taming skill cannot be used duRing a jump.^
+^GMC_10107^,^Familiar name changed to [Target].^
+^GMC_10108^,^You don't meet the conditions to tame this monster.^
+^GMC_10109^,^Cannot tame target while in a combat.^
+^GMC_10110^,^Re-select the target to attempt taming.^
+^GMC_10111^,^You must summon the familiar before its name can be changed.^
+^GMC_10112^,^You have successfully tamed the familiar.^
+^GMC_10113^,^Cannot tame target in the middle of an action.^
+^GMC_10114^,^You do not have enough taming points.^
+^GMC_10115^,^Cannot tame while in battle.^
+^GMC_11000^,^[Name] has been registered to the bestiary.^
+^GMC_11001^,^Could not add to bestiary.^
+^GMC_15000^,^Land familiars can't be summoned while jumping.^
+^GMC_15001^,^Already mounting/dismounting...^
+^GMC_15002^,^You cannot use familiar items while moving.^
+^GMC_15003^,^Cannot mount/dismount in this region.^
+^GMC_15004^,^Unable to mount familiar in this location.^
+^GMC_15005^,^Unable to summon familiar in this location.^
+^GMC_15006^,^You can't fly here.^
+^GMC_15007^,^Cannot dismount while flying.^
+^GMC_15008^,^You cannot dismiss familiars while flying.^
+^GMC_15009^,^Familiars burn more energy at higher altitudes.^
+^GMC_15011^,^There's not enough room to summon your familiar.^
+^GMC_15014^,^This action is not available for passengers.^
+^GMC_15100^,^You can only switch mount weapons while riding.^
+^GMC_15101^,^You must be equipped with a mount weapon to attack while riding.^
+^GMC_15200^,^There is no familiar to convert to a soul stone.^
+^GMC_15201^,^You cannot use soul stone conversion while riding.^
+^GMC_15300^,^Cannot remove familiar command skill.^
+^GMC_15301^,^There is no target to use familiar skill on.^
+^GMC_15302^,^There are no summoned familiars.^
+^GMC_15303^,^You cannot move familiar command skills.^
+^GMC_15304^,^[FellowName] used [FellowSkillName].^
+^GMC_15305^,^You must select a target first.^
+^GMC_15306^,^The target is too close to your familiar to use [FellowSkillName].^
+^GMC_15307^,^Cannot summon familiar.^
+^GMC_15400^,^This action is not available while sitting.^
+^GMC_15401^,^Cannot sit while taming.^
+^GMC_15402^,^Cannot sit while mounted.^
+^GMC_15403^,^Cannot sit while casting.^
+^GMC_15404^,^You are eating.^
+^GMC_15500^,^You cannot use control keys duRing a jump.^
+^GMC_15501^,^Action canceled.^
+^GMC_15600^,^You cannot obtain items while jumping.^
+^GMC_15700^,^You've returned to a safe altitude.^
+^GMC_15701^,^Approaching maximum altitude.^
+^GMC_15702^,^If you continue to ascend, your mount will be dismissed.^
+^GMC_15703^,^You've exceeded the maximum altitude and your mount was dismissed.^
+^GMC_15712^,^Approaching your familiar's maximum altitude.^
+^GMC_16001^,^Do you want to delete the [TabName] tab?^
+^GMC_16002^,^Please enter a new name for the tab.^
+^GMC_16003^,^This tab cannot be deleted or changed.^
+^GMC_16004^,^This tab name cannot be used.^
+^GMC_16005^,^The tab name is already in use.^
+^GMC_18000^,^Do you want to increase the level for [TechniqueName]?^
+^GMC_18002^,^You must master more [TechniqueName] recipes ([Value]).^
+^GMC_18003^,^You must learn [TechniqueName].^
+^GMC_18004^,^You have learned Grade [Grade] of [TechniqueName].^
+^GMC_18005^,^You gained 1 proficiency in [TechniqueName] ([Value]).^
+^GMC_18006^,^You must learn crafting skills first.^
+^GMC_18007^,^You are not good enough at collecting to get tHat. (Required Proficiency: Grade [Grade] [value])^
+^GMC_18100^,^The crafting Equipment is too far away.^
+^GMC_18101^,^You must select an item for crafting.^
+^GMC_18102^,^You don't have enough materials for crafting.^
+^GMC_18103^,^[ItemName] [Result] (You've earned [Mastery] mastery.)^
+^GMC_18104^,^[ItemName] [Result]^
+^GMC_18105^,^[ItemName] [ReinforceLevel] [Result]^
+^GMC_18106^,^[ItemName] [ReinforceLevel] [Result] (You've earned [Mastery] mastery.)^
+^GMC_19000^,^Your bid was successful.^
+^GMC_19001^,^[Target] had the highest bid.^
+^GMC_19002^,^[Target] had the successful bid for the [ItemName].^
+^GMC_19003^,^[Name]'s bags are full.^
+^GMC_21000^,^Only level [Level] or higher can enter.^
+^GMC_30000^,^Cannot end the game duRing combat.^
+^GMC_30001^,^You are out of attack range.^
+^GMC_30002^,^Your target is dead.^
+^GMC_30003^,^You cannot sheathe your weapon while in combat.^
+^GMC_30004^,^You cannot sit while in combat.^
+^GMC_60000^,^This action is not available while swimming.^
+^GMC_400^,^You cannot take this action while riding.^
+^GMC_871^,^Matching registered.^
+^GMC_872^,^Matching canceled.^
+^GMC_6453^,^You cannot unseal at this level.^
+^GMC_9028^,^[Target] obtains [ItemName] from an enigma chest.^
+^GMC_15601^,^Please try again from a different location.^
+^GMC_16000^,^Please enter a new tab name.^
+^GMC_17000^,^Do you want to request a siege battle on [MapName]?^
+^GMC_17001^,^[MapName] Siege Request^
+^GMC_17002^,^Not a guild master.^
+^GMC_18001^,^You've reached the maximum level of [TechniqueName].^
+^GMC_50000^,^[Target] resisted [Attacker]'s attack.^
+^GMC_50001^,^[Target] resisted [Attacker]'s attack.^
+^GMC_50002^,^[Target] resisted [Attacker]'s attack.^
+^GMC_50003^,^[Target] resisted [Attacker]'s attack.^
+^GMC_50004^,^[Target] resisted [Attacker]'s attack.^
+^GMC_50005^,^[Target] resisted [Attacker]'s attack.^
+^GMC_50020^,^[Target] resisted [Attacker]'s [SkillName] skill.^
+^GMC_50021^,^[Target] resisted [Attacker]'s [SkillName] skill.^
+^GMC_50022^,^[Target] resisted [Attacker]'s [SkillName] skill.^
+^GMC_50023^,^[Target] resisted [Attacker]'s [SkillName] skill.^
+^GMC_50024^,^[Target] resisted [Attacker]'s [SkillName] skill.^
+^GMC_50025^,^[Target] resisted [Attacker]'s [SkillName] skill.^
+^GMC_50100^,^[Target] evaded [Attacker]'s attack.^
+^GMC_50101^,^[Attacker] missed [Target].^
+^GMC_50102^,^[Target] deflected [Attacker]'s attack.^
+^GMC_50103^,^[Target]'s Shield blocked [Attacker]'s attack.^
+^GMC_50104^,^[Target]'s weapon blocked [Attacker]'s attack.^
+^GMC_50120^,^[Target] evaded [Attacker]'s [SkillName] skill.^
+^GMC_50121^,^[Attacker]'s [SkillName] skill missed [Target].^
+^GMC_50122^,^[Target] deflected [Attacker]'s [SkillName] skill.^
+^GMC_50123^,^[Target]'s Shield blocked [Attacker]'s [SkillName] skill.^
+^GMC_50124^,^[Target]'s weapon blocked [Attacker]'s [SkillName] skill.^
+^GMC_50500^,^[Attacker] hit [Target] for [Value] health.^
+^GMC_50501^,^[Attacker]'s [SkillName] hit [Target] for [Value] health.^
+^GMC_50502^,^[Attacker]'s [BuffName] hit [Target] for [Value] health.^
+^GMC_50503^,^[BuffName] hit [Target] for [Value] health.^
+^GMC_50504^,^[Target] lost [Value] health.^
+^GMC_50520^,^[Attacker] healed [Target] for [Value] health.^
+^GMC_50521^,^[Attacker]'s [SkillName] healed [Target] for [Value] health.^
+^GMC_50522^,^[Attacker]'s [BuffName] healed [Target] for [Value] health.^
+^GMC_50523^,^[BuffName] healed [Target] for [Value] health.^
+^GMC_50524^,^[Target] gained [Value] health.^
+^GMC_50540^,^[Attacker] hit [Target] for [Value] health.^
+^GMC_50541^,^[Attacker]'s [SkillName] hit [Target] for [Value] health.^
+^GMC_50542^,^[Attacker]'s [BuffName] hit [Target] for [Value] health.^
+^GMC_50543^,^[BuffName] hit [Target] for [Value] health.^
+^GMC_50544^,^[Target] lost [Value] health.^
+^GMC_51000^,^[Attacker] hit [Target] for [Value] mana.^
+^GMC_51001^,^[Attacker]'s [SkillName] hit [Target] for [Value] mana.^
+^GMC_51002^,^[Attacker]'s [BuffName] hit [Target] for [Value] mana.^
+^GMC_51003^,^[BuffName] hit [Target] for [Value] mana.^
+^GMC_51004^,^[Target] lost [Value] mana.^
+^GMC_51020^,^[Attacker] healed [Target] for [Value] mana.^
+^GMC_51021^,^[Attacker]'s [SkillName] healed [Target] for [Value] mana.^
+^GMC_51022^,^[Attacker]'s [BuffName] healed [Target] for [Value] mana.^
+^GMC_51023^,^[BuffName] healed [Target] for [Value] mana.^
+^GMC_51024^,^[Target] gained [Value] mana.^
+^GMC_51040^,^[Attacker] hit [Target] for [Value] mana.^
+^GMC_51041^,^[Attacker]'s [SkillName] hit [Target] for [Value] mana.^
+^GMC_51042^,^[Attacker]'s [BuffName] hit [Target] for [Value] mana.^
+^GMC_51043^,^[BuffName] hit [Target] for [Value] mana.^
+^GMC_51044^,^[Target] lost [Value] mana.^
+^GMC_51500^,^[Attacker] hit [Target] for [Value] motes.^
+^GMC_51501^,^[Attacker]'s [SkillName] hit [Target] for [Value] motes.^
+^GMC_51502^,^[Attacker]'s [BuffName] hit [Target] for [Value] motes.^
+^GMC_51503^,^[BuffName] hit [Target] for [Value] motes.^
+^GMC_51504^,^[Target] lost [Value] motes.^
+^GMC_51520^,^[Attacker] healed [Target] for [Value] motes.^
+^GMC_51521^,^[Attacker]'s [SkillName] healed [Target] for [Value] motes.^
+^GMC_51522^,^[Attacker]'s [BuffName] healed [Target] for [Value] motes.^
+^GMC_51523^,^[BuffName] healed [Target] for [Value] motes.^
+^GMC_51524^,^[Target] gained [Value] motes.^
+^GMC_51540^,^[Attacker] hit [Target] for [Value] motes.^
+^GMC_51541^,^[Attacker]'s [SkillName] hit [Target] for [Value] motes.^
+^GMC_51542^,^[Attacker]'s [BuffName] hit [Target] for [Value] motes.^
+^GMC_51543^,^[BuffName] hit [Target] for [Value] motes.^
+^GMC_51544^,^[Target] lost [Value] motes.^
+^GMC_52000^,^[Attacker] hit [Target] for [Value] stamina.^
+^GMC_52001^,^[Attacker]'s [SkillName] hit [Target] for [Value] stamina.^
+^GMC_52002^,^[Attacker]'s [BuffName] hit [Target] for [Value] stamina.^
+^GMC_52003^,^[BuffName] hit [Target] for [Value] stamina.^
+^GMC_52004^,^[Target] lost [Value] stamina.^
+^GMC_52023^,^[Attacker] healed [Target] for [Value] stamina.^
+^GMC_52023^,^[Attacker]'s [SkillName] healed [Target] for [Value] stamina.^
+^GMC_52023^,^[Attacker]'s [BuffName] healed [Target] for [Value] stamina.^
+^GMC_52023^,^[BuffName] healed [Target] for [Value] stamina.^
+^GMC_52024^,^[Target] gained [Value] stamina.^
+^GMC_52040^,^[Attacker] hit [Target] for [Value] stamina.^
+^GMC_52041^,^[Attacker]'s [SkillName] hit [Target] for [Value] stamina.^
+^GMC_52042^,^[Attacker]'s [BuffName] hit [Target] for [Value] stamina.^
+^GMC_52043^,^[BuffName] hit [Target] for [Value] stamina.^
+^GMC_52044^,^[Target] lost [Value] stamina.^
+^GMC_52500^,^[Attacker] hit [Target] for [Value] rage.^
+^GMC_52501^,^[Attacker]'s [SkillName] hit [Target] for [Value] rage.^
+^GMC_52502^,^[Attacker]'s [BuffName] hit [Target] for [Value] rage.^
+^GMC_52503^,^[BuffName] hit [Target] for [Value] rage.^
+^GMC_52504^,^[Target] lost [Value] rage.^
+^GMC_52520^,^[Attacker] healed [Target] for [Value] rage.^
+^GMC_52521^,^[Attacker]'s [SkillName] healed [Target] for [Value] rage.^
+^GMC_52522^,^[Attacker]'s [BuffName] healed [Target] for [Value] rage.^
+^GMC_52523^,^[BuffName] healed [Target] for [Value] rage.^
+^GMC_52524^,^[Target] gained [Value] rage.^
+^GMC_52540^,^[Attacker] hit [Target] for [Value] rage.^
+^GMC_52541^,^[Attacker]'s [SkillName] hit [Target] for [Value] rage.^
+^GMC_52542^,^[Attacker]'s [BuffName] hit [Target] for [Value] rage.^
+^GMC_52543^,^[BuffName] hit [Target] for [Value] rage.^
+^GMC_52544^,^[Target] lost [Value] rage.^
+^GMC_53000^,^[Attacker] hit [Target] for [Value] stamina.^
+^GMC_53001^,^[Attacker]'s [SkillName] hit [Target] for [Value] stamina.^
+^GMC_53002^,^[Attacker]'s [BuffName] hit [Target] for [Value] stamina.^
+^GMC_53003^,^[BuffName] hit [Target] for [Value] stamina.^
+^GMC_53004^,^[Target] lost [Value] stamina.^
+^GMC_53020^,^[Attacker] healed [Target] for [Value] stamina.^
+^GMC_53021^,^[Attacker]'s [SkillName] healed [Target] for [Value] stamina.^
+^GMC_53022^,^[Attacker]'s [BuffName] healed [Target] for [Value] stamina.^
+^GMC_53023^,^[BuffName] healed [Target] for [Value] stamina.^
+^GMC_53024^,^[Target] gained [Value] stamina.^
+^GMC_53040^,^[Attacker] hit [Target] for [Value] stamina.^
+^GMC_53041^,^[Attacker]'s [SkillName] hit [Target] for [Value] stamina.^
+^GMC_53042^,^[Attacker]'s [BuffName] hit [Target] for [Value] stamina.^
+^GMC_53043^,^[BuffName] hit [Target] for [Value] stamina.^
+^GMC_53044^,^[Target] lost [Value] stamina.^
+^GMC_53500^,^[Attacker] decreased [Target]'s status effect resistance by [Value].^
+^GMC_53501^,^[Attacker]'s [SkillName] decreased [Target]'s status effect resistance by [Value].^
+^GMC_53502^,^[Attacker]'s [BuffName] decreased [Target]'s status effect resistance by [Value].^
+^GMC_53503^,^[BuffName] decreased [Target]'s status effect resistance by [Value].^
+^GMC_53504^,^[Target]'s status effect resistance decreased by [Value].^
+^GMC_53520^,^[Attacker] increased [Target]'s status effect resistance by [Value].^
+^GMC_53521^,^[Attacker]'s [SkillName] increased [Target]'s status effect resistance by [Value].^
+^GMC_53522^,^[Attacker]'s [BuffName] increased [Target]'s status effect resistance by [Value].^
+^GMC_53523^,^[BuffName] increased [Target]'s status effect resistance by [Value].^
+^GMC_53524^,^[Target]'s status effect resistance increased decreased by [Value].^
+^GMC_53540^,^[Attacker] decreased [Target]'s status effect resistance by [Value].^
+^GMC_53541^,^[Attacker]'s [SkillName] decreased [Target]'s status effect resistance by [Value].^
+^GMC_53542^,^[Attacker]'s [BuffName] decreased [Target]'s status effect resistance by [Value].^
+^GMC_53543^,^[BuffName] decreased [Target]'s status effect resistance by [Value].^
+^GMC_53544^,^[Target]'s status effect resistance decreased by [Value].^
+^GMC_40000^,^[Attacker] decreased [Target]'s fire affinity by [Value].^
+^GMC_40001^,^[Attacker]'s [SkillName] decreased [Target]'s fire affinity by [Value].^
+^GMC_40002^,^[Attacker]'s [BuffName] decreased [Target]'s fire affinity by [Value].^
+^GMC_40003^,^[BuffName] decreased [Target]'s fire affinity by [Value].^
+^GMC_40004^,^[Target]'s fire affinity decreased by [Value].^
+^GMC_40020^,^[Attacker] increased [Target]'s fire affinity by [Value].^
+^GMC_40021^,^[Attacker]'s [SkillName] increased [Target]'s fire affinity by [Value].^
+^GMC_40022^,^[Attacker]'s [BuffName] increased [Target]'s fire affinity by [Value].^
+^GMC_40023^,^[BuffName] increased [Target]'s fire affinity by [Value].^
+^GMC_40024^,^[Target]'s fire affinity increased decreased by [Value].^
+^GMC_40040^,^[Attacker] decreased [Target]'s fire affinity by [Value].^
+^GMC_40041^,^[Attacker]'s [SkillName] decreased [Target]'s fire affinity by [Value].^
+^GMC_40042^,^[Attacker]'s [BuffName] decreased [Target]'s fire affinity by [Value].^
+^GMC_40043^,^[BuffName] decreased [Target]'s fire affinity by [Value].^
+^GMC_40044^,^[Target]'s fire affinity decreased by [Value].^
+^GMC_40500^,^[Attacker] decreased [Target]'s ice affinity by [Value].^
+^GMC_40501^,^[Attacker]'s [SkillName] decreased [Target]'s ice affinity by [Value].^
+^GMC_40502^,^[Attacker]'s [BuffName] decreased [Target]'s ice affinity by [Value].^
+^GMC_40503^,^[BuffName] decreased [Target]'s ice affinity by [Value].^
+^GMC_40504^,^[Target]'s ice affinity decreased by [Value].^
+^GMC_40520^,^[Attacker] increased [Target]'s ice affinity by [Value].^
+^GMC_40521^,^[Attacker]'s [SkillName] increased [Target]'s ice affinity by [Value].^
+^GMC_40522^,^[Attacker]'s [BuffName] increased [Target]'s ice affinity by [Value].^
+^GMC_40523^,^[BuffName] increased [Target]'s ice affinity by [Value].^
+^GMC_40524^,^[Target]'s ice affinity increased decreased by [Value].^
+^GMC_40540^,^[Attacker] decreased [Target]'s ice affinity by [Value].^
+^GMC_40541^,^[Attacker]'s [SkillName] decreased [Target]'s ice affinity by [Value].^
+^GMC_40542^,^[Attacker]'s [BuffName] decreased [Target]'s ice affinity by [Value].^
+^GMC_40543^,^[BuffName] decreased [Target]'s ice affinity by [Value].^
+^GMC_40544^,^[Target]'s ice affinity decreased by [Value].^
+^GMC_41000^,^[Attacker] decreased [Target]'s light affinity by [Value].^
+^GMC_41001^,^[Attacker]'s [SkillName] decreased [Target]'s light affinity by [Value].^
+^GMC_41002^,^[Attacker]'s [BuffName] decreased [Target]'s light affinity by [Value].^
+^GMC_41003^,^[BuffName] decreased [Target]'s light affinity by [Value].^
+^GMC_41004^,^[Target]'s light affinity decreased by [Value].^
+^GMC_41020^,^[Attacker] increased [Target]'s light affinity by [Value].^
+^GMC_41021^,^[Attacker]'s [SkillName] increased [Target]'s light affinity by [Value].^
+^GMC_41022^,^[Attacker]'s [BuffName] increased [Target]'s light affinity by [Value].^
+^GMC_41023^,^[BuffName] increased [Target]'s light affinity by [Value].^
+^GMC_41024^,^[Target]'s light affinity increased decreased by [Value].^
+^GMC_41040^,^[Attacker] decreased [Target]'s light affinity by [Value].^
+^GMC_41041^,^[Attacker]'s [SkillName] decreased [Target]'s light affinity by [Value].^
+^GMC_41042^,^[Attacker]'s [BuffName] decreased [Target]'s light affinity by [Value].^
+^GMC_41043^,^[BuffName] decreased [Target]'s light affinity by [Value].^
+^GMC_41044^,^[Target]'s light affinity decreased by [Value].^
+^GMC_41500^,^[Attacker] decreased [Target]'s dark affinity by [Value].^
+^GMC_41501^,^[Attacker]'s [SkillName] decreased [Target]'s dark affinity by [Value].^
+^GMC_41502^,^[Attacker]'s [BuffName] decreased [Target]'s dark affinity by [Value].^
+^GMC_41503^,^[BuffName] decreased [Target]'s dark affinity by [Value].^
+^GMC_41504^,^[Target]'s dark affinity decreased by [Value].^
+^GMC_41520^,^[Attacker] increased [Target]'s dark affinity by [Value].^
+^GMC_41521^,^[Attacker]'s [SkillName] increased [Target]'s dark affinity by [Value].^
+^GMC_41522^,^[Attacker]'s [BuffName] increased [Target]'s dark affinity by [Value].^
+^GMC_41523^,^[BuffName] increased [Target]'s dark affinity by [Value].^
+^GMC_41524^,^[Target]'s dark affinity increased decreased by [Value].^
+^GMC_41540^,^[Attacker] decreased [Target]'s dark affinity by [Value].^
+^GMC_41541^,^[Attacker]'s [SkillName] decreased [Target]'s dark affinity by [Value].^
+^GMC_41542^,^[Attacker]'s [BuffName] decreased [Target]'s dark affinity by [Value].^
+^GMC_41543^,^[BuffName] decreased [Target]'s dark affinity by [Value].^
+^GMC_41544^,^[Target]'s dark affinity decreased by [Value].^
+^GMC_59000^,^[Attacker]'s [BuffName] has been applied to [Target].^
+^GMC_59001^,^[Attacker]'s [BuffName] has been removed from [Target].^
+^GMC_59002^,^[BuffName] has been applied to [Target].^
+^GMC_59003^,^[BuffName] has been removed from [Target].^
+^GMC_6455^,^[FellowCommandName] activated.^
+^GMC_6456^,^Can be used when used as a mount.^
+^GMC_6457^,^Can be used when used as a pet.^
+^GMC_6458^,^This is not a transformation item.^
+^GMC_15711^,^Approaching maximum familiar altitude.^
+^GMC_15713^,^Familiar unable to exceed its maximum altitude.^
+^GMC_15013^,^The altitude in this region is too high for this familiar.^
+^GMC_15012^,^The altitude in this region is too high for this familiar.^
+^GMC_30005^,^Cannot be used in combat.^
+^GMC_10007^,^Your friends list is empty.^
+^GMC_6163^,^Not entry found.^
+^GMC_6164^,^Would you like to use this as it is?^
+^GMC_6165^,^Cancel shout?^
+^GMC_6325^,^[Name] has left the guild.^
+^GMC_6326^,^You kicked [Name] from the guild.^
+^GMC_6327^,^Changed [Name]'s rank to [Rank].^
+^GMC_6328^,^Guild rank changed to [Rank].^
+^GMC_6329^,^[Name] has been changed to [Rank] rank.^
+^GMC_6330^,^You handed over the position of guild leader to [Name].^
+^GMC_6331^,^Your rank is now guild member.^
+^GMC_6332^,^You are now the guild leader.^
+^GMC_6333^,^Your rank is now guild leader.^
+^GMC_6334^,^[Name] is now the guild leader.^
+^GMC_6335^,^The [Name] guild has been disbanded.^
+^GMC_6336^,^You edited the guild notice.^
+^GMC_6337^,^Guild notice edited.^
+^GMC_6338^,^Guild rank reached [Value].^
+^GMC_15015^,^You cannot use skills while taming.^
+^GMC_6162^,^You invited [Target] to mount.^
+^GMC_6173^,^Invalid command.^
+^GMC_853^,^All raid members are ready.^
+^GMC_854^,^Some raid members are not ready.^
+^GMC_833^,^[Target] joined the party.^
+^GMC_834^,^Do you want to kick [Target]?^
+^GMC_6161^,^You requested a ride from [Target].^
+^GMC_6174^,^Do you want to revive yourself with elluns?^
+^GMC_20001^,^You don't have enough elluns. Do you want to purchase more?^
+^GMC_6175^,^This sentence includes a forbidden word.^
+^GMC_6176^,^If you change servers, you will lose your spot on the queue.^
+^GMC_6177^,^Report successfully submitted.^
+^GMC_6178^,^If you fail to enter more than 3 times, the client will end.^
+^GMC_6154^,^[ServerName] is neaRing maximum capacity. Please wait.^
+^GMC_15016^,^You cannot go there.^
+^GMC_10116^,^You can't tame a familiar tHat is already being tamed.^
+^GMC_10117^,^You can't tame a familiar tHat is already being tamed.^
+^GMC_6179^,^You have entered a party story instance.^
+^GMC_6180^,^TempeRing level is between [Min]-[Max].^
+^GMC_138^,^Equipped weapons cannot be used.^
+^GMC_9906^,^This action is not available while dead.^
+^GMC_10118^,^Taming points decreased by [Value].^
+^GMC_20002^,^refunded.^
+^GMC_20003^,^Cannot open shops in this region.^
+^GMC_20004^,^Failed to open NX recharge shop. Please try again.^
+^GMC_6459^,^Your familiar has reached level [Level].^
+^GMC_6339^,^You do not have enough guild points to upgrade your guild.^
+^GMC_9029^,^[ItemName] has moved from your storage to your bag.^
+^GMC_20005^,^Previous transaction in progress.^
+^GMC_20000^,^There is a new item in storage.^
+^GMC_20006^,^Would you like to charge more [CashName]?^
+^GMC_4041^,^Forced quit due to busy login queue.^
+^GMC_4042^,^Forced quit due to busy character info queue.^
+^GMC_6181^,^Do you want to restore [CharacterName]?^
+^GMC_9030^,^[ItemName] x[ItemCount] consumed.^
+^GMC_9301^,^The other party has decided to complete trade.^
+^GMC_6182^,^This content isn't available yet.^
+^GMC_9227^,^Reset talent?^
+^GMC_50006^,^[Target]'s PvP resistance blocked [Attacker]'s attack.^
+^GMC_50026^,^[Target]'s PvP resistance blocked [Attacker]'s skill.^
+^GMC_4043^,^Characters tHat are scheduled for deletion cannot enter the game world.^
+^GMC_6185^,^You have entered an incorrect PIN [FailCnt] time(s). [RemainCnt] out of 5 chances remaining.^
+^GMC_6186^,^You have entered an incorrect PIN 5 times. 
+Please visit the Support section of the Nexon homepage to reset your PIN.^
+^GMC_19004^,^[Target] obtains [ItemName] for the victory.^
+^GMC_6184^,^You cannot get any more taming points.^
+^GMC_6183^,^RecoveRing taming points.^
+^GMC_6187^,^You can use this again in [Time].^
+^GMC_20007^,^This item cannot be refunded once it is moved to your inventory. Do you want to continue?^
+^GMC_20008^,^No item selected.^
+^GMC_6188^,^You cannot send auto-report messages duRing battle.^
+^GMC_6189^,^You've been playing for a total of [Time] hours.^
+^GMC_6190^,^[PenaltyPreventions] complete, but the failed tempeRing has destroyed your item.^
+^GMC_6191^,^[PenaltyPreventions] complete, but the failed tempeRing has reset your item.^
+^GMC_6192^,^TempeRing failed, but [PenaltyPreventions] is in place.^
+^GMC_6193^,^TempeRing failed, but [PenaltyPreventions] is in place. The item's Enchantment level is now [Level].^
+^GMC_6195^,^Unable to revive here.^
+^GMC_6196^,^Please enter an 8-digit number.^
+^GMC_6194^,^The PIN you have entered is incorrect.^
+^GMC_6340^,^Guild mark changed.^
+^GMC_835^,^Changed to [PartyLoot].^
+^GMC_836^,^[PartyLoot] - [LootGameType]: Changed to [ItemGrade].^
+^GMC_6197^,^Please wait [CHatTime] sec before cHatting again.^
+^GMC_837^,^[PartyLoot]: Changed to [UserName].^
+^GMC_20009^,^Only one refund is allowed at a time.^
+^GMC_20010^,^You need more elluns.
+Would you like to purchase more?^
+^GMC_6198^,^Do you want to reset the [DungeonName] dungeon?^
+^GMC_6199^,^Auto-report messages cannot be sent from PvP regions.^
+^GMC_6200^,^Auto-report messages cannot be sent from safe zones.^
+^GMC_6201^,^Auto-report messages cannot be sent from instanced dungeons.^
+^GMC_6202^,^Authorizing...^
+^GMC_6203^,^Finding worlds...^
+^GMC_4044^,^Connecting...^
+^GMC_4045^,^Initializing character...^
+^GMC_6204^,^This action is not available when on a deserted island.^
+^GMC_9031^,^You receive [ItemName] x[ItemCount].^
+^GMC_6205^,^You cannot take this action while changing channels.^
+^GMC_51^,^This gender cannot be used.^
+^GMC_6318^,^Do you want to activate [SkillName] for [Value]?^
+^GMC_6319^,^Do you want to cancel [SkillName]?^
+^GMC_6320^,^The [SkillName] skill has been canceled.^
+^GMC_9226^,^A stronger effect is already applied.^
+^GMC_4046^,^Changing channel...
+Please wait.^
+^GMC_18008^,^Your level is too low to learn [TechniqueName].
+(Required Level: [NeedLevel])^
+^GMC_18009^,^Your [TechniqueName] level is too low to learn [Recipe].^
+^GMC_6207^,^Do you want to move to [AreaName]?^
+^GMC_6206^,^Open the Achievement window ([AchievementShortcutKey]) to claim your [ItemName].^
+^GMC_2113^,^You cannot use this duRing battle.^
+^GMC_6461^,^Familiars must reach maximum level before they can be enhanced.^
+^GMC_6462^,^This familiar is already at its max level.^
+^GMC_6463^,^Need [rubyCount] x[itemName]^
+^GMC_6464^,^This sealed familiar can be enhanced at its highest level.^
+^GMC_702^,^Real-time optimization applied.^
+^GMC_703^,^Real-time optimization canceled.^
+^GMC_704^,^Real-time optimization has been set to high due to low frame rate.^
+^GMC_705^,^Changing LOD or Character Display options will disable real-time optimization.
+Continue?^
+^GMC_6465^,^Need sealed familiar Item.^
+^GMC_4047^,^Requesting character creation data...^
+^GMC_4048^,^Moving to character selection...^
+^GMC_6466^,^You cannot add any more familiars because your enhancement rate is 100%.^
+^GMC_52^,^Do you really want to sell the [ItemName]?^
+^GMC_6208^,^[Target] successfully tamed [ActorName]!^
+^GMC_6209^,^[Target] obtains [ItemName] from [ActorName].^
+^GMC_6467^,^This familiar cannot be enhanced.^
+^GMC_855^,^You have not joined the raid yet.^
+^GMC_856^,^You are not a raid leader. You cannot use raid commands.^
+^GMC_6210^,^Respond to recent whispers with the [shortWhisper] key.
+Type the following commands into the cHat window to change cHat modes:
+/General, /s
+/Region, /c
+/Whisper, /w
+/Raid, /b
+/Raid Commands, /q
+/Guild, /g
+/Alliance, /u
+/Militia, /m^
+^GMC_6469^,^Your familiar has been enhanced to +[ReinforceLevel].^
+^GMC_6470^,^Familiar enhancement failed.^
+^GMC_6468^,^You don't need items consumed for enhancement.^
+^GMC_6471^,^You need [itemName] x[itemCount]. Please try again after your purchase.^
+^GMC_6472^,^Sealed familiar's level is lower than the target familiar.^
+^GMC_15715^,^Approaching the minimum altitude for familiar.^
+^GMC_15716^,^Falling below your familiar's minimum altitude will dismiss it.^
+^GMC_15717^,^You can't summon a familiar below its minimum altitude.^
+^GMC_15017^,^You can't summon a familiar below its minimum altitude.^
+^GMC_6473^,^Enhanced sealed familiars cannot be used as enhancement material.^
+^GMC_6211^,^Once you leave the tutorial, you can never replay it. Do you want to continue?^
+^GMC_15050^,^There is someone on board. Do you really want to get off?^
+^GMC_15051^,^Do you really want to dismount this familiar?^
+^GMC_6212^,^[Target] successfully enhances [ActorName] by [Value].^
+^GMC_6214^,^You earn [Exp] [PlusExp] experience points.^
+^GMC_6474^,^You cannot unseal at your current unseal level.^
+^GMC_6475^,^You cannot unseal at your current unseal grade.^
+^GMC_6476^,^This item cannot be unsealed.^
+^GMC_9108^,^Select an item to unbind.^
+^GMC_9109^,^This item cannot be unbound.^
+^GMC_9110^,^You cannot unbind equipped items.^
+^GMC_9111^,^Do you want to unbind the [ItemName]?^
+^GMC_9112^,^This item cannot be unbound again.^
+^GMC_9113^,^You cannot unseal at your current unbind level.^
+^GMC_9114^,^You cannot unseal at your current unbind grade.^
+^GMC_9115^,^Select an item to reset its unbind limit.^
+^GMC_9116^,^You cannot reset this item's unbind limit^
+^GMC_9117^,^Do you want to reset [ItemName]'s unbind limit?^
+^GMC_9995^,^You have canceled unbinding.^
+^GMC_9996^,^You have canceled to the unbinding limit reset.^
+^GMC_6221^,^Please select the sealed familiar to extract.^
+^GMC_6215^,^The familiar seal extractor's grade is too low.^
+^GMC_6216^,^This item cannot extract sealed familiars.^
+^GMC_6217^,^The conditions are not met to extract seal stones.^
+^GMC_6218^,^Sealed familiar extraction canceled.^
+^GMC_6219^,^Select the item from which you'd like to extract a sealed familiar.^
+^GMC_6220^,^Would you like to extract [FellowName] and save it as a Lv. 1 pet in your familiar storage?^
+^GMC_9982^,^Please select the sealed familiar to unseal.^
+^GMC_9994^,^Unsealing canceled.^
+^GMC_9118^,^[ItemName] has been unbound.^
+^GMC_9119^,^[ItemName]'s unbinding limit has been reset.^
+^GMC_6213^,^You need [Cost].^
+^GMC_6477^,^This is not a sealed familiar.^
+^GMC_6478^,^Extracting seal stones...^
+^GMC_6479^,^Seal stone extracted.^
+^GMC_16100^,^[Attacker] decreased [Target]'s damage by [Value].^
+^GMC_16101^,^[Attacker] decreased [Target]'s critical rate by [Value].^
+^GMC_16102^,^[Target] evaded [Attacker]'s attack.^
+^GMC_16103^,^[Attacker] missed [Target].^
+^GMC_16104^,^[Target] deflected [Attacker]'s attack.^
+^GMC_16105^,^[Target]'s Shield blocked [Attacker]'s attack.^
+^GMC_16106^,^[Target]'s weapon blocked [Attacker]'s attack.^
+^GMC_16107^,^[Attacker]'s [SkillName] decreased [Target]'s damage by [Value].^
+^GMC_16108^,^[Attacker]'s [SkillName] decreased [Target]'s critical rate by [Value].^
+^GMC_16109^,^[Target] evaded [Attacker]'s [SkillName].^
+^GMC_16110^,^[Attacker]'s [SkillName] missed [Target].^
+^GMC_16111^,^[Target] deflected [Attacker]'s [SkillName].^
+^GMC_16112^,^[Target]'s Shield blocked [Attacker]'s [SkillName].^
+^GMC_16113^,^[Target]'s weapon blocked [Attacker]'s [SkillName].^
+^GMC_16114^,^[Target] recovered by [Value] from [Attacker]'s [SkillName].^
+^GMC_16115^,^[Attacker]'s [BuffName] has been applied to [Target].^
+^GMC_16116^,^[Attacker]'s [BuffName] has been removed from [Target].^
+^GMC_16117^,^[Attacker]'s [BuffName] decreased [Target]’s damage by [Value].^
+^GMC_16118^,^[Target] recovered [Value] from [Attacker]'s [BuffName].^
+^GMC_16119^,^[BuffName] has been applied to [Target].^
+^GMC_16120^,^[BuffName] has been removed from [Target].^
+^GMC_16121^,^[Target]'s damage was [Value] from [BuffName].^
+^GMC_16122^,^[Target] recovered by [Value] from [BuffName].^
+^GMC_16500^,^[Target] resisted [Attacker]'s attack.^
+^GMC_16501^,^[Target] resisted [Attacker]'s attack.^
+^GMC_16502^,^[Target] resisted [Attacker]'s attack.^
+^GMC_16510^,^[Target] resisted [Attacker]'s [SkillName] skill.^
+^GMC_16511^,^[Target] resisted [Attacker]'s [SkillName] skill.^
+^GMC_16512^,^[Target] resisted [Attacker]'s [SkillName] skill.^
+^GMC_17500^,^Join the militia?^
+^GMC_17501^,^Leave the militia?^
+^GMC_17502^,^Do you want to receive
+[BuffName]?^
+^GMC_17503^,^Already in a militia.^
+^GMC_17504^,^Not in a militia.^
+^GMC_17505^,^Joined the militia.^
+^GMC_17506^,^Left the militia.^
+^GMC_17507^,^You left the militia because your guild reached rank 4 or you joined an alliance.^
+^GMC_6361^,^The guild leader dismissal process has been initiated.^
+^GMC_6362^,^Guild Leader [Name] dismissed.^
+^GMC_868^,^[Count] other players can use the [ItemName] and will participate in the dice roll.^
+^GMC_869^,^Do you want to roll the dice for the [ItemName]?^
+^GMC_6364^,^The guild leader has connected to the game, so the dismissal process has been canceled.^
+^GMC_6365^,^Guild leader candidate changed to [Name].^
+^GMC_6480^,^[Name]'s Mount^
+^GMC_6481^,^[Name]'s Pet^
+^GMC_6366^,^You have declared war on alliance <font color="#75FC4C[Name]/font.^
+^GMC_6367^,^Alliance <font color="#75FC4C[Name]/font has declared war on you.^
+^GMC_6368^,^Enter the name of the alliance you would like to declare war on.^
+^GMC_6369^,^Surrender to the alliance <font color="#75FC4C[Name]/font?^
+^GMC_6370^,^The alliance <font color="#75FC4C[Request]/font has declared war on <font color="#75FC4C[Accept]/font.^
+^GMC_6371^,^The war between <font color="#75FC4C[Request]/font and <font color="#75FC4C[Accept]/font has commenced!^
+^GMC_6372^,^The alliance <font color="#75FC4C[Accept]/font has declined the declaration of war from <font color="#75FC4C[Request]/font.^
+^GMC_6373^,^The war has ended. [Request] has surrendered. [Accept] is triumphant!
+The winners gain a War Hero buff.^
+^GMC_6374^,^The war has ended. [Request] has lost. [Accept] is triumphant!^
+^GMC_6375^,^Ally [Name] has logged in.^
+^GMC_6222^,^Do you want to change your appearance?A Character Customization Voucher is required.^
+^GMC_6223^,^If you exit now, any changes you made will be discarded. Accept?^
+^GMC_6224^,^Would you like to change your appearance?^
+^GMC_6225^,^To change your appearance, you must have a <font color="#75FC4CCharacter Cutsomization Voucher/font.^
+^gmc_6230^,^Select an item to dismantle.^
+^gmc_6227^,^This item cannot be dismantled.^
+^gmc_6228^,^The dismantling tool's grade is too low.^
+^gmc_9997^,^Dismantling canceled.^
+^gmc_6229^,^Dismantle [ItemName]?^
+^gmc_6231^,^Select a seal stone to affect stats.^
+^gmc_6233^,^This item's stats cannot be changed by seal stone.^
+^gmc_6232^,^The item's grade is too low for this seal stone.^
+^gmc_6482^,^Seal stone changes canceled.^
+^gmc_6483^,^Changed [itemName]'s seal stats.^
+^gmc_6234^,^Change [ItemName]'s seal stats?<font color="#FF7800 Caution: Fixed stats cannot be changed.</font>^
+^gmc_6378^,^[Killer] killed [Death].^
+^gmc_6379^,^[Death] was killed by [Killer].^
+^gmc_6235^,^Equipped items cannot be dismantled.^
+^gmc_25000^,^There is no available gem slot.^
+^gmc_25001^,^Equip [ItemName]?^
+^gmc_25002^,^Use [ItemName] and activate [Count] gem slots?<font color="#FF7800 Caution: The currently equipped bracelet will disappear.</font>^
+^gmc_25003^,^Use [ItemName] and activate [Count] gem slots?<font color="#FF7800 Caution: The currently equipped bracelet will disappear.</font>^
+^gmc_25004^,^Extract from [ItemName]?^
+^gmc_25005^,^Extract from [ItemName]?[Price] gold required.^
+^gmc_25006^,^Extract from [ItemName]?[Price] elluns required.^
+^gmc_25007^,^Extraction failed. [ItemName] has been destroyed.^
+^gmc_25008^,^Extracted from [ItemName].^
+^gmc_25009^,^You don't have enough money to extract.^
+^gmc_25010^,^There is no gem to extract.^
+^gmc_25011^,^Gem extraction canceled.^
+^gmc_25012^,^The item cannot be used for extraction.^
+^gmc_6380^,^Cancel war declaration?^
+^gmc_6381^,^<font color="#75FC4C">[Request] Alliance </font> has canceled its declaration of war against <font color="#75FC4C">[Accept] Alliance</font>^
+^gmc_9228^,^Ctrl + right-click the potion, then select a familiar to use it on. If you have a familiar summoned, it will be used on tHat familiar automatically.^
+^gmc_9229^,^Use the item on [FellowName]?^
+^gmc_9983^,^Familiar item use canceled.^
+^gmc_9124^,^Select a familiar.^
+^gmc_6236^,^One strength adds [Str_Att] physical attack.^
+^gmc_6237^,^One intelligence adds [Int_SpAtt] magic attack.^
+^gmc_6238^,^One dexterity adds [Dex_PHattCri] physical critical rate, [Dex_PhAvd] evasion, and [Dex_WpCriPow] physical critical damage.^
+^gmc_6239^,^One willpower adds [Mtl_SpAttCri] magic critical rate, [Mtl_mp] mana, and [Mtl_SpCriPow] magic critical damage.^
+^gmc_6240^,^One constitution adds [Vtl_hp] health and [Vtl_CriDamReduce] critical damage defense.^
+^gmc_19005^,^No one won the item. Re-listing the item...^
+^gmc_6241^,^Attendance Event is over. Closing window...^
+^gmc_6242^,^You naturally recover [RecHpPow] health every 5 seconds.^
+^gmc_25013^,^Bracelets cannot be equipped while equipped with gems.^
+^gmc_18107^,^Craft [ItemName]?
+The material may be destroyed in the event of failure.^
+^gmc_6243^,^Opening appearance change mode...^
+^gmc_6244^,^Close the appearance change mode first.^
+^gmc_6245^,^You are now away. Dismissing familiar...^
+^gmc_6246^,^You will go into away mode in [Time].^
+^gmc_706^,^The game may not run smoothly on monitors with lower resolutions.^
+^gmc_6247^,^Reset safeguard not selected.The item can be reset in the event of failure.Temper?^
+^gmc_6248^,^You have not enabled Destruction safeguard. If tempeRing fails and the item is of Unique or Mythical grade it may be destroyed. Legendary or lower grade items will never be destroyed. Proceed?^
+^gmc_6249^,^You have not enabled Destruction safeguard. If tempeRing fails and the item is of Unique or Mythical grade it may be destroyed. Legendary or lower grade items will never be destroyed. Proceed?^
+^gmc_6486^,^This fosteRing slot is in use.^
+^gmc_6250^,^Already checking the target's information...^
+^gmc_6487^,^No book is available for the familiar.^
+^gmc_870^,^[UserName] gave up the market listing.^
+^gmc_6488^,^Completed the [CollectionName] familiar collection.^
+^gmc_6251^,^You can move to [channel].^
+^gmc_6256^,^Claimed reward.^
+^gmc_6257^,^You do not meet the collection requirements and cannot claim the reward.^
+^gmc_6489^,^Extracted a sealed familiar.^
+^gmc_6260^,^[SaveSlotIndex] already contains a saved look. Overwrite?^
+^gmc_6261^,^Load [SaveSlotIndex]?Your current look will be overwritten.^
+^gmc_6264^,^This seal stone can only be tempered up to level [Level].^
+^gmc_6265^,^This seal stone can only temper [Target].^
+^gmc_6266^,^This seal stone cannot be used on items lower than level [Level].^
+^gmc_6267^,^This item cannot be redeemed at this time.^
+^gmc_25202^,^Add a slot to the [ItemName]?^
+^gmc_6252^,^The item's grade does not match tHat of the tool.^
+^gmc_6253^,^The item's level does not match tHat of the tool.^
+^gmc_6254^,^You cannot add any more gem slots.^
+^gmc_6255^,^Add a gem slot to the [ItemName]?^
+^gmc_6258^,^Added a gem slot to [ItemName].^
+^gmc_6259^,^Failed to add a gem slot to the [ItemName].^
+^gmc_9125^,^Select an accessory to add a gem slot.^
+^gmc_9126^,^Gem slots cannot be added to this item type.^
+^gmc_9984^,^Canceled gem slot creation.^
+^gmc_6268^,^Successfully loaded character information.^
+^gmc_6269^,^You have no saved appearances.^
+^gmc_6270^,^Saved character appearance.^
+^gmc_6271^,^The version of the save file cannot be used.^
+^gmc_6272^,^Character creation expansion applied to the save file.^
+^gmc_6273^,^Unable to apply character information.^
+^gmc_6274^,^There is no character information to apply.^
+^gmc_6275^,^Your current character cannot use this information.^
+^gmc_6276^,^Failed to save appearance.^
+^GMC_20011^,^The item is not eligible for return.^
+^gmc_6490^,^[Name] has finished growing.^
+^gmc_6491^,^[Name]'s fosteRing experience boost has expired.^
+^GMC_53^,^Unusable item type.^
+^GMC_22000^,^You cannot perform this action while opening an enigma chest.^
+^gmc_6277^,^[Param] +[ChangeValue]^
+^gmc_6278^,^Extract [FellowName]?<br><font color="#FF7800"> The extracted familiar will return to your familiar storage as a max. level +[ReinforceLevel] tempered pet.</font>^
+^GMC_54^,^[ItemName] cannot be repurchased once sold. Do you really want to sell?^
+^gmc_20013^,^The product is sold out.^
+^GMC_55^,^Used [ItemName].^
+^GMC_403^,^Equip an action costume to use this.^
+^GMC_6280^,^[SealedFellow] equipped in [ItemName] will expire in [Time].^
+^GMC_6281^,^[SealedFellow] equipped in [ItemName] has expired.^
+^GMC_6282^,^The ranking list cannot be viewed inside Ellora's Spire.^
+^GMC_6283^,^[Target] has cleared Ellora's Spire [Floor]F!^
+^GMC_6284^,^This dungeon's reentry cooldown cannot be reset.^
+^GMC_6285^,^Change talent to page [Page]? [Count] talent conversion tickets required.^
+^GMC_9408^,^Some of your marketplace items have sold.^
+^GMC_6492^,^[Name] has reached the maximum Level. Check the collection window.^
+^GMC_6294^,^Not enough gold for the [PenaltyPrevention].^
+^GMC_6286^,^The engraving on [ItemName] has expired.^
+^GMC_6287^,^Engraved items cannot be destroyed.^
+^GMC_6288^,^Engraved items cannot be dismantled.^
+^GMC_6289^,^Engraved items cannot be extracted.^
+^GMC_6290^,^Engraved items cannot be unbound.^
+^GMC_6291^,^Engraved items cannot be used for seal stone destruction.^
+^GMC_6292^,^Engraved items cannot be used for seal stone extraction.^
+^GMC_6493^,^Engraving [FellowName]...^
+^GMC_9127^,^This item cannot be engraved.^
+^GMC_9128^,^Engrave [ItemName] for [Time]?^
+^GMC_9129^,^This can only be engraved again within 3 days of the first engraving.^
+^GMC_9230^,^Engrave [FellowName] for [Time]?^
+^GMC_9985^,^Engraving canceled.^
+^GMC_9130^,^Select a familiar to engrave.^
+^GMC_9131^,^Select an item to engrave.^
+^GMC_6296^,^Engraved items cannot be sold.^
+^GMC_6297^,^Engraved items cannot be traded.^
+^GMC_6293^,^Disconnected from server.
+[time]
+[errorCode]^
+^GMC_6295^,^[ItemName]'s engraving expires in [Time].^
+^GMC_9231^,^Reset talent on page [Page]? [Count] elluns required.^
+^GMC_6298^,^Talent page [Page] has been applied.^
+^GMC_6299^,^Change talent on page [Page]? [Count] elluns required.^
+^GMC_6494^,^Engraved familiars cannot be released.^
+^GMC_6495^,^Engraved familiars cannot be sealed.^
+^GMC_9232^,^Engraved [ItemName].^
+^GMC_7777^,^The connection has been lost due to a network error.
+[time]
+[errorCode]^
+^GMC_6382^,^[Value] alliance war points obtained.^
+^GMC_6383^,^Alliance [Union] has been promoted to an elite alliance.^
+^GMC_6496^,^You cannot receive any more max level rewards.^
+^GMC_9006^,^You cannot change channels in this area.^
+^GMC_7778^,^Failed to reconnect.^
+^GMC_7779^,^You were returned to character select due to a network error.^
+^GMC_7780^,^You were disconnected due to a network error.
+Attempting to return you to character select.^
+^GMC_9032^,^You obtain [ItemName].^
+^GMC_15018^,^You cannot release a familiar while mounted.^
+^GMC_56^,^You've already unlocked the maximum number of character slots.^
+^GMC_57^,^Do you want to unlock a character slot? Slots Unlocked: [Value] / Max Slots: [MaxValue]^
+^GMC_9238^,^Data was renewed due to a new event.^
+^GMC_9986^,^Item transcendence canceled.^
+^GMC_9132^,^Select item to transcend.^
+^GMC_9133^,^This item cannot transcend.^
+^GMC_9134^,^[ItemName] has successfully transcended and is now transcendence level [Level].^
+^GMC_9135^,^Item transcendence failed.^
+^GMC_6497^,^To initialize a special collection you need to receive the reward after completing the collection.^
+^GMC_12000^,^Remove familiar skin?^
+^GMC_12001^,^Purchase familiar skin? Cost: [rubycount] ellun(s)^
+^GMC_12002^,^Change familiar skin?^
+^GMC_12003^,^You cannot equip skins while the familiar is summoned.^
+^GMC_12004^,^[FellowName]'s skin has been changed.^
+^GMC_12005^,^You have not purchased this skin yet.^
+^GMC_12006^,^You have this skin already.^
+^GMC_12007^,^You cannot change skins while the familiar is summoned.^
+^GMC_1013^,^Do you want to complete the quest by spending Elluns?^
+^GMC_12008^,^This skin has already been added.^
+^GMC_58^,^Character slot successfully added.^
+^GMC_12009^,^Do you want to equip this Familiar Skin?^
+^GMC_9136^,^Engraved items cannot be used as a transcendence material.^
+^GMC_20014^,^The event shop is now open.^
+^GMC_20015^,^The event shop has closed.^
+^gmc_20012^,^Item not available.^
+^GMC_11100^,^Only items with Random attributes can be refined.^
+^GMC_11101^,^This item can't be refined.^
+^GMC_11102^,^Engraved items cannot be refined.^
+^GMC_11103^,^You cannot lock any more attributes.^
+^GMC_11104^,^This item cannot be used as a refining material.^
+^GMC_11105^,^The material must match the quality of the item.^
+^GMC_11106^,^Engraved items cannot be used as a refining material.^
+^gmc_2114^,^You challenged [Target] to a Ranked duel.^
+^gmc_2115^,^[Target] challenged you to a Ranked duel..
+Accept?^
+^gmc_2116^,^You rejected the challenge.^
+^gmc_2117^,^[Target] rejected the challege to a duel.^
+^gmc_2118^,^Reponse time for the challenge request sent to [Target] was expired.^
+^GMC_7100^,^A manastone battle will begin at [Map] in [Time].^
+^GMC_7101^,^The manastone battle will end in [Time].^
+^GMC_7102^,^A manastone battle has begun in [Map].^
+^GMC_7103^,^The manastone has disappeared from [Map]. It will reappear soon.^
+^GMC_7104^,^[User] has picked up the manastone in [Map].^
+^GMC_7105^,^[User] of [Group] has successfully secured the manastone.^
+^GMC_7106^,^There are no victors in this manastone battle.^
+^GMC_7107^,^You cannot quit while carrying a manastone.^
+^GMC_7108^,^You cannot use transit shrines duRing a manastone battle.^
+^GMC_7109^,^You cannot use your recall stone duRing a manastone battle.^
+^GMC_7110^,^You cannot summon duRing a manastone battle.^
+^GMC_7111^,^You cannot mount duRing a manastone battle.^
+^GMC_7112^,^A manastone has appeared at [Region] in [Map].^
+^GMC_7113^,^[User] has dropped the manastone in [Map].^
+^gmc_2119^,^Combat time left.^
+^GMC_7114^,^You cannot forfeit quests while carrying a manastone.^
+^GMC_7115^,^You cannot share a multi-rider mount duRing a manastone battle.^
+^GMC_7116^,^You cannot invite someone to mount your familiar duRing a manastone battle.^
+^GMC_7117^,^You must redeem manastone battle reward in [Time].^
+^GMC_7118^,^You cannot join or leave a guild duRing a manastone battle.^
+^GMC_7119^,^You cannot join or leave an alliance duRing a manastone battle.^
+^GMC_11107^,^Item must be at least +[Level] to qualify for refining.^
+^GMC_11108^,^Do you want to refine [ItemName]?^
+^GMC_11109^,^You have refined [ItemName].^
+^GMC_11110^,^Refining has been canceled.^
+^GMC_11111^,^Select a refining stone to use.^
+^GMC_11112^,^You cannot lock any more attributes.^
+^GMC_11113^,^Please select an item to refine.^
+^GMC_7200^,^You cannot fish while you're aboard.^
+^GMC_7201^,^Invalid fishing space.^
+^GMC_7202^,^Water is too shallow.^
+^GMC_7203^,^Something is hooked.^
+^GMC_7204^,^Fishing successful.^
+^GMC_7205^,^Fishing failed.^
+^GMC_9137^,^[ItemName] has failed to transcend and its transcendence level has reduced to [Level].^
+^GMC_7206^,^Fishing finished^
+^GMC_7207^,^You cannot fish while jumping.^
+^GMC_7208^,^There is an obstacle.^
+^GMC_23000^,^The familiar was added already.^
+^GMC_23001^,^You cannot delete the familiars being synthesized.^
+^GMC_23002^,^You cannot add any more.^
+^GMC_23003^,^Familiar synthesizing canceled.^
+^GMC_23004^,^The familiar being summon cannot be synthesized.^
+^GMC_23005^,^The familiar in obedience training cannot be synthesized.^
+^GMC_23006^,^The familiars equipped with gears cannot be synthesized.^
+^GMC_23007^,^The familiars tHat are not at the max. level cannot be synthesized.^
+^GMC_23008^,^Invalid Familiar for synthesizing.^
+^GMC_23009^,^You acquired [fellowname] from the synthesis.^
+^GMC_23010^,^Familiars at the max level cannot be synthesized.^
+^GMC_23011^,^[grade] grade Max. Level Lv.[level]^
+^GMC_23012^,^[grade] grade^
+^GMC_7211^,^You cannot fish.^
+^GMC_7209^,^Invalid action while fishing.^
+^GMC_7210^,^[Target] acquired [ItemName] from fishings.^
+^GMC_23013^,^[Target] acquired [ActorName] familiar from synthesis.^
+^GMC_5500^,^This content cannot be used in the cross-server channel.^
+^GMC_20016^,^This advertisement will only display up to Lv. [Level].^
+^GMC_7212^,^No more baits. Automatic fishing will be terminated.^
+^GMC_7213^,^Not enough automatic reels. Automatic fishing will be terminated.^
+^GMC_7214^,^Fishing rod is expired. Fishing will be terminated.^
+^GMC_7215^,^Not enough inventory.^
+^GMC_7216^,^There is no fishing rod.^
+^GMC_7217^,^Not enough baits.^
+^GMC_23016^,^Not enough familiar slots. Synthesis cannot be procedeed.^
+^GMC_23015^,^Temporary familiars cannot be synthesized.^
+^GMC_23014^,^Familiars being carved cannot be synthesized.^
+^GMC_6950^,^Exit to the gender change screen?^
+^GMC_6951^,^You cannot change gender weaRing gears.^
+^GMC_6952^,^You need a Gender Change Pass to change gender.^
+^GMC_6953^,^Are you sure you want to change?<br>1 Genger Change Pass will be consumed on confirmation.^
+^GMC_6954^,^Exit gender change scree? <br>Your customization progress will be discarded.^
+^GMC_6955^,^Loading gender change mode.^
+^GMC_6956^,^Available after exiting gender change mode.^
+^GMC_5502^,^You have entered a cross-server area.^
+^GMC_23018^,^While synthesizing Familiars or Sealstones, You cannot synthesize Crescents.^
+^GMC_23017^,^While synthesizing Crescents, you cannot synthesize Familiars or Sealstones.^
+^GMC_23019^,^Different type of crescents cannot be synthesized.^
+^GMC_23020^,^[itemname] obtained^
+^GMC_23021^,^[itemname] Item x [count]^
+^GMC_23022^,^[count] crescent(s) comsumed.^
+^GMC_5503^,^This item cannot be used here.^
+^GMC_5504^,^Would you like to move to [Target]?<font color="#fc5300 (If you are in a party, it will be disbanded.)</font>^
+^GMC_7120^,^A manastone battle will begin in [Map] on global channel 1 in [Time].^
+^GMC_7121^,^A manastone battle has begun in [Map] on global channel 1.^
+^GMC_7122^,^[Sever] was victorious! The [Buff] buff has been granted to the heroes of [Server].^
+^GMC_50525^,^[Target]'s attack absorbed [Value] HP from the enemy.^
+^GMC_6957^,^You cannot change gender when you have [Quest], the [Gender]-only-quest. Either give up or complete the quest to change your gender.^
+^GMC_9138^,^Press initialization button of the special collection you want to initialize.^
+^GMC_9139^,^Special collection initialization pass canceled.^
+^GMC_9140^,^Special collection initialization pass cannot be used on the target.^
+^GMC_20017^,^The Gift was sent successfully.^
+^GMC_20018^,^You received a gift. Please, check it out.^
+^GMC_20019^,^Gifted items cannot be rufunded or returned.<br>Enter recipient's name.^
+^GMC_20020^,^The event shop cannot be accessed in global servers.^
+^GMC_9141^,^Select an item to reverse temper.^
+^GMC_9142^,^Cannot be reverse tempered any more.^
+^GMC_9143^,^The target item should be at temper level [Level] at least.^
+^GMC_9144^,^The grade of the tempeRing stone is lower than the grade of the gear item.^
+^GMC_9145^,^Reverse tempeRing failed.^
+^GMC_9146^,^[ItemName] reverse tempeRing successful. Temper level fell back to [Level].^
+^GMC_9147^,^Reverse tempeRing canceled.^
+^GMC_9148^,^Do you want to reverse temper [ItemName]?^
+^GMC_9149^,^The item is at the max. reverse temper level.^
+^GMC_9150^,^You cannot try to reverse temper the item any more.^
+^GMC_9151^,^The item cannot be reverse tempered.^
+^GMC_9160^,^You cannot set back reverse tempeRing attempt counter of this item.^
+^GMC_9161^,^There was 0 attempt of reverse tempeRing of this item.^
+^GMC_9162^,^Invalid option for the items at the max. reverse temper level.^
+^GMC_9163^,^There has been [ReverseTryCount] attempts of reverse tempeRing of [ItemName]. Do you want to set back 1 attempt?^
+^GMC_9164^,^Select an item to set back 1 attempt.^
+^GMC_9165^,^[ItemName] has [ReverseTryCount] attempt(s) of reverse tempeRing remaining.^
+^GMC_9166^,^Setting back a reverse tempeRing attempt was canceled.^
+^GMC_25100^,^10mins left to guild attendance check.^
+^GMC_25101^,^1min. left to guild attendance check.^
+^GMC_25102^,^Guild attendance check starts.^
+^GMC_25103^,^Guild attendance check ends.^
+^GMC_25104^,^More than <Y_Y>[count]</Y_Y> people earned <UI_G>[itemname]x[itemcount]</UI_G>^
+^GMC_9152^,^There are no items available for reverse tempeRing.^
+^GMC_9167^,^There are no items whose reverse tempeRing attempts can be redeemed.^
+^GMC_6384^,^The guild room is not activated.^
+^GMC_25111^,^You received the guild attendance check reward.^
+^GMC_25107^,^Not the right time for guild attendance check.^
+^GMC_25108^,^You missed attendace check the day before. You cannot get the reward.^
+^GMC_25109^,^You cannot receive the reward as there not enough people attended.^
+^GMC_25110^,^Invalid level for guild attendance.^
+^GMC_25105^,^Guild attendance check completed.^
+^GMC_25112^,^Guild attendance reward completed.^
+^GMC_25113^,^One guild attendance one day.
+Guild attendance available only for guild members higher than <UI_Y>Lv.[level]</UI_Y>.
+On completion of guild attendance, <UI_Y>"V"</UI_Y> is activated. 
+Only the members who attended the day befor can get the attendance reward.^
+^GMC_5505^,^You've reached your reset limit for this dungeon.^
+^GMC_9033^,^Can only travel to regions tHat have activated transit shrines.^
+^GMC_9153^,^Temper level goes up Randomly <Y_Y>+[MinLevel]~+[MaxLevel]</Y_Y>.^
+^GMC_18108^,^Do you want to craft [ItemName]?
+Inheritance Effects : [effectparam1] / [effectparam2]
+Inheritance Extras: Transcendence +[overrise] / Reverse +[reversereinforce]
+Caution: Seal items of source materials will disappear if crafting is successful.^
+^GMC_5506^,^[minSlot] - [maxSlot] Seal Slots^
+^GMC_5507^,^[minEffect] - [maxEffect] Random Effects^
+^GMC_9514^,^This tempeRing stone can only temper the items above [ItemGrade] grade.^
+^GMC_18109^,^[Target] acquired [ItemName] from crafting.^
+^GMC_18110^,^- The button is activated only when there are 2 source materials available for crafting.
+- Inherited when the item is crafted successfully.
+- Inheritance source material conditions
+<MAP_Y> 1. +[reinforcelevel] temper level
+2. +[overriselv] transcendence level</MAP_Y>
+- Properties to be inherited. (Total 4)
+<MAP_Y> 1. Transcendence Level
+2. Reverse Temper
+3. 2 Random Effects (Top)
+4. [reinforcemin] ~ [reinforcemax] temper level</MAP_Y>^
+^GMC_5508^,^Extract [FellowName] with Elluns. 
+A simple or +5 seal stone can be extracted.^
+^GMC_25350^,^[ItemName] is expired. The item is untradable.^
+^GMC_25351^,^[ItemName] is expired. The item cannot be registered.^
+^GMC_25352^,^[ItemName] is expired. The item cannot be attached.^
+^GMC_25353^,^The Premium Bags and Familiar Bags cannot be exchanged.^
+^GMC_25354^,^Cannot be moved.^
+^GMC_25355^,^The bag is expired. You cannot use the items in the bag.^
+^GMC_25300^,^When total temper level is +[Value] or higher^
+^GMC_25301^,^When all items are +[Value]^
+^GMC_1100^,^The quest objective is in this region.^
+^GMC_1101^,^The quest objective is nearby.^
+^GMC_1102^,^The quest objective is in [QUEST_MAP].^
+^GMC_1103^,^The quest objective is hidden.^
+^GMC_9168^,^This tempeRing stone can only temper an item of [Min] to [Max] level.^
+^GMC_25356^,^You can't do this because your premium inventory is expiRing soon.^
+^GMC_25357^,^Items in expired premium inventory slots cannot be used.^
+^GMC_25358^,^You cannot trade or send items in expired premium inventory.^
+^GMC_25359^,^This item cannot be stored in temporary inventory or storage.^
+^GMC_25360^,^This item cannot be stored.^
+^GMC_25400^,^Special daily rewards have been reset. This window will now close.^
+^GMC_25401^,^Updating data to reflect attendance event changes.^
+^GMC_25600^,^You cannot create any more characters.^
+^GMC_25601^,^You cannot create any more characters.You can get more character slots in Ellora's Shop.^
+^GMC_25402^,^[Target] has cleared Ellora's Spire [Floor]F!^
+^GMC_9154^,^This item can only temper an item tHat is [ItemGrade] or better.^
+^GMC_25700^,^Register an item to identify first.^
+^GMC_25701^,^Nothing to be identified.^
+^GMC_25702^,^The item cannot be identified.^
+^GMC_25703^,^The item cannot be used as a source material.^
+^GMC_25704^,^Use the right source for the item to identify.^
+^GMC_25705^,^Carved items cannot be identified.^
+^GMC_25706^,^Carved items cannot be used as source materials.^
+^GMC_25707^,^You need an item to identify.^
+^GMC_25708^,^Identification failed.^
+^GMC_25709^,^Item was destroyed as the identification failed.^
+^GMC_13000^,^Activate the <font color="#75FC4C">[CombineID]</font buff?<font color="#fc5300"> This will remove any current farm buff.</font>^
+^GMC_13001^,^<font color="#75FC4C">[CombineID]</font> still has some active time remaining.Do you still wish to proceed?<font color="#fc5300"> This will remove any current herd buff.</font>^
+^gmc_20021^,^From the Icarus website
+Please charge Elluns^
+^gmc_25800^,^Would you like to reset this item's cooldown?This action will cost [Count] elluns.^
+^gmc_25801^,^[ItemName] - [ItemCount] / [Price] Cash - Purchase Date: [BuyTime] <br> Availability: Complete <br> <br> <center> - Cancellation of subscription - </center> <br> - Subscription can be withdrawn within 7 days from receipt of goods (item can not be withdrawn for some items)^
+^gmc_6958^,^Shahling cannot change genders.^
+^gmc_25802^,^- More details (https://icarusonline.to/)^
+^gmc_13002^,^Durational familiars cannot be fostered.^
+^gmc_25710^,^Reforge is available when all identifications are completed.^
+^gmc_25403^,^The daily rewards event has begun!^
+^gmc_25404^,^The daily rewards event has ended.^
+^gmc_25405^,^The special daily rewards event has begun!^
+^gmc_25406^,^The special daily rewards event has ended.^
+^gmc_7123^,^[Object] has appeared in [Map].^
+^gmc_13003^,^Do you want to upgrade <font color="#FFBB00 [UpgradeID]/font?
+
+<font color="#Fc5300 (The previous upgrade in the category will be reset.)/font^
+^gmc_25407^,^This cannot be done while a familiar adventure is in progress.^
+^gmc_25408^,^AdventuRing in [Region]^
+^gmc_25409^,^[Region] Adventure Complete^
+^gmc_25410^,^[Time] Remaining^
+^gmc_25411^,^Found [Count] Reward Item(s)^
+^gmc_25412^,^[Fellow] has returned from [Region] adventure.^
+^gmc_25413^,^[Item] was used on [Fellow] in [Region].^
+^gmc_25414^,^This familiar cannot go on adventures.^
+^gmc_25415^,^Only max level familiars can go on adventures.^
+^gmc_25416^,^This familiar is already out on a different adventure.^
+^gmc_25417^,^Up to 10 familiars can be sent out on adventures at one time.^
+^gmc_25418^,^You don't have enough gold to reset the cooldown.^
+^gmc_25900^,^[Object] has appeared at [Region] in [Map].^
+^gmc_25901^,^[Object] has appeared at [Region] in [Map].^
+^gmc_25902^,^[Object] has appeared at [Region] in [Map].^
+^gmc_7124^,^[User] has successfully secured the manastone.^
+^gmc_13010^,^Upgrade completed.^
+^gmc_1040^,^You cannot release familiars from the pasture.^
+^gmc_13011^,^Consumed [ItemCount] [ItemName](s).^
+^gmc_25419^,^This region is still on cooldown.^
+^gmc_11200^,^Only gem combinations are possible.^
+^gmc_11201^,^When combining gems, the main material is only gems of the [Level] level.^
+^gmc_11202^,^It is a gem tHat can not be used as a main material.^
+^gmc_11203^,^Gemstone combinations are only available for gems above the [Level] level.^
+^gmc_11204^,^Gemstones can only be gemstones tHat are below the [Level] level.^
+^gmc_838^,^Go to [UserName] ([ServerName]) using gold or Elluns^
+^gmc_11205^,^Gem combination succeeded.^
+^gmc_11206^,^Gem combination failed^
+^gmc_30500^,^The item awakening is impossible.^
+^gmc_30501^,^It is not awakening material.^
+^gmc_30502^,^It is a weapon tHat can no longer awaken.^
+^gmc_30503^,^Weapon Skill Awaken item is completed.^
+^gmc_30504^,^Items tHat have been awakened by weapons.^
+^gmc_30505^,^Ellun is short^
+^gmc_30506^,^Only available professions can register for awakening slots.^
+^gmc_30507^,^Weapons have failed to awaken and weapons have been destroyed.^
+^gmc_30508^,^Weapon hardening is low.^
+^gmc_30509^,^The level of sealed Familiar is low.^
+^gmc_15800^,^WeaRing Equipment has been saved.^
+^gmc_15801^,^Equipment Swap Reuse Time [Time] seconds remaining.^
+^gmc_15802^,^Can not save because there is no Equipment worn.^
+^gmc_15803^,^This is an unacceptable behavior duRing Equipment swap.^
+^gmc_11115^,^Are you sure you want to refine [ItemName]?^
+^gmc_11116^,^Refined [ItemName].^
+^gmc_11117^,^I need an item to refine.^
+^gmc_11118^,^Item refinement canceled.^
+^gmc_11119^,^Item refinement is possible only for [Level] and above items.^
+^gmc_11120^,^All feelings must be completed before refining.^
+^gmc_11121^,^Items imprinted can not be refined.^
+^gmc_11122^,^You must use the appropriate refining material for the item you are refining.^
+^gmc_11123^,^This item can not be refined.^
+^gmc_11124^,^Only items with Random options can be refined.^
+^GMC_30410^,^You cannot use your Recall Stone in battle.^
+^GMC_30411^,^You cannot use Transit Shrines in battle.^
+^GMC_30412^,^You cannot use the summon feature in battle.^
+^GMC_30413^,^A target taking part in battle cannot summon.^
+^GMC_30414^,^You cannot duel while in battle.^
+^GMC_30415^,^You cannot kick from party while in battle.^
+^GMC_30416^,^You cannot leave a party while in battle.^
+^GMC_30417^,^The battle will begin in [Time].^
+^GMC_30418^,^The battle has begun! Destroy the enemy's keystone.^
+^GMC_30419^,^The battle has been extended! First team to wipe out the other wins.^
+^GMC_30420^,^The battle has ended.^
+^GMC_30421^,^You will revive in [Time].^
+^GMC_30422^,^The shout item cannot be used in battle.^
+^GMC_30423^,^Only normal and party cHat are available duRing the battle.^
+^GMC_30424^,^You have been banned from battles for 10 minutes for inactivity in the last battle.^
+^GMC_30425^,^You have been banned from battles for 10 minutes for leaving the last battle early.^
+^GMC_30426^,^You cannot exit the game from a battle.^
+^GMC_30427^,^You cannot summon familiars in battle.^
+^GMC_30430^,^You have defeated your enemy.^
+^GMC_30431^,^An ally is hurt!^
+^GMC_30432^,^Dominating!^
+^GMC_30433^,^Your enemy is dominating.^
+^GMC_30434^,^There is no way out.^
+^GMC_30435^,^There is no way to block your enemy.^
+^GMC_30436^,^Behold the nightmare!^
+^GMC_30437^,^Your enemy is fear itself.^
+^GMC_30438^,^Monarch of Battle^
+^GMC_30439^,^Your enemy is the Monarch of Battle.^
+^GMC_30440^,^Legend of Battle^
+^GMC_30441^,^Your enemy is a legend of battle.^
+^gmc_15804^,^There is an unattached item in the Equipment stored in relation to the Equipment swap. All at the time of Equipment swap. Do you want to proceed?^
+^GMC_30442^,^The battle will begin soon.^
+^GMC_30443^,^A player has left the battle.^
+^GMC_30444^,^A player has joined the battle.^
+^GMC_30428^,^Summon items can not be used in Battlegrounds.^
+^GMC_30510^,^You have not selected <R_Y> Avoid Weapon Destruction </R_Y>.
+On failure, the weapon can be <R_Y> destroyed </R_Y>.
+Are you sure you want to proceed?^
+^GMC_30445^,^Please wait until all players enter.^
+^GMC_54000^,^[Target] has declined your match invitation.^
+^GMC_54001^,^You've waited for a response from [Target] to respond to a matching invitation.^
+^GMC_54002^,^I have applied for [Target] matching.^
+^gmc_30302^,^You can not have a mentoRing relationship for 24 hours after you release the mentoRing relationship.
+
+Time remaining: [Time]^
+^gmc_30305^,^I applied for [Target] mentoRing^
+^gmc_30309^,^I sent a graduation request to [Target].^
+^GMC_30446^,^[Killer] has killed [monster].^
+^GMC_30447^,^You have left the battlefield due to prolonged inactivity.^
+^GMC_30448^,^The player who left the battlefield was not drawn for 5 minutes^
+^GMC_30480^,^Creators' Path ranked match begins in 30 minutes.^
+^GMC_30481^,^Creators' Path ranked match has begun.^
+^GMC_30482^,^It is 30 minutes before the cloister rank ranking of the Lord God.^
+^GMC_30483^,^Creators' Path ranked match ends in 30 minutes.^
+^gmc_30310^,^You can use it after you have a mentoRing relationship.^
+^gmc_30311^,^I can not graduate because I have not achieved the [Level] level.^
+^gmc_30312^,^[MentoRingType] [UserName] is connected^
+^GMC_30484^,^Would you like to move to the battleground lobby?^
+^GMC_30450^,^Please select [ItemName] to use.^
+^GMC_30451^,^[ItemName] must be selected^
+^GMC_30452^,^Usage of the change of appearance right has been canceled.^
+^GMC_30453^,^Gender change has been canceled^
+^gmc_30301^,^I received a mentoRing request.^
+^gmc_30303^,^I have a mentoRing relationship with [Target].^
+^gmc_30304^,^Your mentorship relationship with [Target] has been canceled.^
+^gmc_30306^,^[Target] graduated and mentoRing relationship was canceled.^
+^gmc_30307^,^I have graduated formally and have lost my mentoRing relationship with [Target].^
+^gmc_30308^,^[Target] has sent you a graduation request.^
+^gmc_30313^,^MentoRing request canceled.^
+^gmc_30314^,^I have declined your mentorship request.^
+^gmc_30315^,^[Target] declined your mentorship request.^
+^gmc_30316^,^Only mentors can approve graduation.^
+^gmc_30317^,^[Target] can achieve graduation level and graduate approval.^
+^gmc_30318^,^You have achieved your graduation level. You can become a mentor after graduation by formally requesting a mentor to graduate.^
+^gmc_839^,^Your post has been registered.^
+^gmc_840^,^Your post has been deleted.^
+^GMC_15112^,^Premium Service has begun.^
+^GMC_15113^,^Premium Service has been extended.^
+^GMC_15114^,^Premium Service will end soon.^
+^GMC_15115^,^You don't have enough inventory space to receive all of your premium service items.Log in again after cleaRing out some inventory space.^
+^GMC_15116^,^Premium services can no longer be extended beyond their maximum duration.^
+^GMC_15117^,^[ItemName] This [ItemCount] has been deleted.^
+^gmc_30319^,^[Target] has been rewarded for achieving the graduation level. (The reward will be paid to Erolora's locker after reconnection.)^
+^gmc_30320^,^[Target] has been rewarded for achieving the [Level] level. (The reward will be paid to Erolora's locker after reconnection.)^
+^gmc_30321^,^I achieved a graduation level and received a mentoRing reward.^
+^gmc_30322^,^I attained [Level] level and received mentoRing reward.^
+^gmc_30323^,^You can try after a while.^
+^gmc_30324^,^No more mentees.^
+^gmc_30325^,^I already have a mentor.^
+^gmc_30326^,^Can not register because they have the same qualification as the other.^
+^gmc_30327^,^Your mentorship relationship with [Target] has been lifted because your graduation approval wait time has expired.^
+^gmc_23100^,^I succeeded in evolving the Familiar and obtained [fellowname] /.^
+^gmc_23101^,^The evolution of the Familiar has been canceled.^
+^gmc_23102^,^The Familiar failed to evolve.^
+^gmc_23103^,^Failed to evolve the Fellows, [Count] of the Fellows used as material has disappeared.^
+^gmc_23104^,^The number of felows needed to evolve the Familiar is insufficient.^
+^gmc_23105^,^Evolve after reaching maximum level.^
+^gmc_23106^,^It's a Familiar tHat can not evolve anymore.^
+^gmc_23107^,^Fellows who are summoned can not evolve.^
+^gmc_23108^,^Fellows weaRing Equipment can not evolve.^
+^gmc_23109^,^It is the highest grade (legend +) or non-evolving fellow.^
+^gmc_23110^,^The adventurous Familiar can not evolve.^
+^gmc_23111^,^Fellows in charge can not evolve.^
+^gmc_23112^,^Fellows registered for the Familiar combination can not be evolved.^
+^gmc_23113^,^You can only register the same Fellows or pets as the first registered Fellows.^
+^gmc_23114^,^It is not possible to add a seal stone.^
+^gmc_23115^,^The Familiar composite window and the Evolution window can not be opened at the same time.^
+^GMC_59^,^You cannot make the purchase because you have the max number of characters.^
+^GMC_20022^,^Please contact us at 1: 1 to withdraw your subscription.^
+^GMC_30550^,^Pet capture succeeded.^
+^GMC_30551^,^Pet catch failed.^
+^GMC_30552^,^[PetName] <font color="#FFE400"> is weakened by the capture circle. </Font>^
+^GMC_30553^,^[PetName] <font color="#FF5E00"> is resisting the capture circle. </Font>^
+^gmc_11300^,^You can not register any more items.^
+^gmc_11301^,^You can not register more items.^
+^gmc_11302^,^This is an unavailable system.^
+^gmc_11303^,^It is not a material item.^
+^gmc_11400^,^Insufficient space to insert material item.^
+^gmc_11401^,^This item is impossible to grow the level.^
+^gmc_11402^,^When you use it as a material item, the item disappears. Do you want to continue?^
+^gmc_11403^,^Items in imprinted status can not be consumed.^
+^gmc_11404^,^You can not consume periodic items.^
+^GMC_30554^,^Can not be used while captuRing pets.^
+^GMC_30556^,^[Target] succeeded in captuRing [ActorName] pets.^
+^gmc_23116^,^Familiars registered in the Evolution window can not be renamed.^
+^gmc_23117^,^Familiars registered in the Evolution window can not be enhanced.^
+^gmc_23118^,^Familiars registered in the Evolution window can not be summoned.^
+^gmc_23119^,^You can not release a Familiar registered in the Evolution window.^
+^GMC_30557^,^Capture conditions are not met.^
+^GMC_30558^,^It is already being captured.^
+^GMC_30559^,^Pets can not be captured while the target is casting.^
+^gmc_23120^,^I succeeded in evolving the Familiar and obtained [fellowname] /.^
+^gmc_30560^,^The capture item has been canceled.^
+^GMC_30562^,^You can not capture because there are not enough taming points.^
+^gmc_8401^,^Same seals can not be inserted redundantly.^
+^gmc_11405^,^[hm 2023/3/27] : [grade] grade^
+^gmc_11406^,^This item can not be upgraded.^
+^gmc_11408^,^Only max level items can be inserted.^
+^GMC_30490^,^You are in a PVP channel. Do you want to change it? <br> <br> (You can not use the following items in the PVP channel)^
+^GMC_30491^,^100% HP Recovery Potion <br> 100% Mana Recovery Potion <br> Blessed Revival Scroll^
+^GMC_30570^,^Entered PVP channel.^
+^gmc_11409^,^Mythical class Item synthesis is not possible.^
+^gmc_11410^,^This item is impossible to synthesize.^
+^gmc_11411^,^Only the same item class can be synthesized.^
+^gmc_11412^,^Other types of items are not available.^
+^gmc_31000^,^You can use the PC room pets and familiars through the PC Bunny.^
+^gmc_31001^,^This is an action you can't do while using the PC room roulette.^
+^gmc_31002^,^PC room roulette ticket has been paid.^
+^gmc_31003^,^Roulette is not available.^
+^gmc_11099^,^Item honing is possible only for items above [Level].^
+^gmc_11125^,^Item refinement is possible only for items above [Level].^
+^GMC_11126^,^Item refining successful.^
+^GMC_11127^,^Item honing sucessful.^
+^GMC_22005^,^You can not do while talking to an NPC.^
+^GMC_30575^,^Do you want to go to [ServerName]?^
+^GMC_30576^,^The characters in the server move state can not start the game.^
+^GMC_30577^,^You can not delete characters in the server move state.^
+^GMC_17003^,^[Map] Stronghold transition began.^
+^GMC_17004^,^All stronghold transitions have ended. <br> Rewards have been sent to the participating players' Ellora's Storage.^
+^GMC_17005^,^Stronghold transition is in progress.^
+^GMC_17006^,^Players who have not participated will be in spectator-mode for the duration of the game and will be able to watch it freely.^
+^GMC_17100^,^Can not do this duRing spectator-mode.^
+^GMC_21001^,^Party boards are not available in Akeron.^
+^GMC_31010^,^[Level] Level [Grade] Rating^
+^GMC_17007^,^[Name] has been appointed as a Knight.^
+^GMC_17008^,^[Name] has been dismissed as a Knight.^
+^GMC_17009^,^Appointed as Knights.^
+^GMC_17010^,^Dismissed as Knights.^
+^GMC_30571^,^To move to the PVP channel while the Stronghold Transition is in progress, please cancel your ferry boarding.^
+^GMC_6386^,^You must enter more than one character.^
+^GMC_18111^,^Seal stones can not be inherited because the number of seal slots in inherited Equipment is smaller than material Equipment.^
+^GMC_18112^,^There is no seal stone attached to the material Equipment.^
+^GMC_18113^,^Are you sure you want to craft [ItemName]?
+Inherited stats: <font color="#56B70E"> [effectparam1] / [effectparam2] </font>
+Inherited additionals: <font color="#56B70E"> [overrise] Transcendence Level / [reverse] Reverse Level </font>^
+^GMC_17011^,^Today, there will be held the Stronghold Transition in [Map] PVP channel starting at 21:00 for 30 minutes.^
+^GMC_17012^,^[Time] until the Stronghold Transition begins. <br> Players who are not in the PVP channel 5 minutes before the start are switched to spectator-mode.^
+^GMC_17013^,^[Time] until the Stronghold Transition ends.^
+^GMC_17014^,^The guild [Guild] has occupied the [Region] area.^
+^GMC_17015^,^If one of the three Strongholds has not been occupied until the end of the game,<br> the guild tHat occupies two strongholds first will win.^
+^GMC_17016^,^You will be switched to spectator-mode duRing the game<br> and can watch it freely.^
+^GMC_31065^,^Guild application already in progress.^
+^GMC_31066^,^You can not join a guild duRing a manastone battle.^
+^GMC_31067^,^You ale already in a guild.^
+^GMC_31050^,^Guild promotion is already in progress.^
+^GMC_31051^,^Please fill out the Guild Promotion Title.^
+^GMC_31052^,^Please fill out the guild publicity contents.^
+^GMC_31053^,^Guild promotion registration fee is insufficient.^
+^GMC_31054^,^[Gold] Gold will be consumed. 
+  Would you like to register?^
+^GMC_31055^,^Are you sure you want to delete the guild promotion?^
+^GMC_31056^,^Guild promotion has been deleted.^
+^GMC_31057^,^Would you like to apply for the guild?^
+^GMC_31058^,^You applied for [Guild].^
+^GMC_31059^,^You have been approved to join the guild.^
+^GMC_31060^,^Guild member limit exceeded.^
+^GMC_31061^,^Guild Promotion has been registered.^
+^GMC_31062^,^Guild promotion registration is possible from level 10 or higher.^
+^GMC_31063^,^Your application for [Guild] has been declined.^
+^GMC_31064^,^You are applying for [Guild].^
+^GMC_17017^,^Summons all Knights [Count] currently connected.^
+^GMC_17018^,^All of the Knights have made a summoning request.^
+^GMC_17019^,^All of the Knights have failed to recall the request.^
+^GMC_17020^,^No Knights to summon.^
+^GMC_31068^,^You are already a member of the guild.^
+^GMC_31069^,^Your application for [Guild] has been approved.^
+^GMC_31070^,^You refused to join the guild.^
+^GMC_31071^,^You have canceled the application to join the guild.^
+^GMC_30492^,^You can not proceed to a duel on a PVP channel.^
+^GMC_30493^,^Content not available on the PVP channel.^
+^GMC_31072^,^[Name] has requested to join the guild.^
+^GMC_31073^,^[Name] has unsubscribed from the guild.^
+^gmc_31100^,^Familiar soul is less than [count]%.^
+^gmc_31101^,^Equipment can not use Familiar soul.^
+^gmc_31102^,^The maximum number can not be exceeded.^
+^gmc_31103^,^Familiar soul has been added [count].^
+^gmc_31104^,^The Familiar Soul increased to [PastCount] -> [PreCount].^
+^gmc_31105^,^The Familiar Soul decreased to [PastCount] -> [PreCount].^
+^gmc_31106^,^Upgrade failed.^
+^gmc_31107^,^Upgrade successful.^
+^gmc_31108^,^The maximum Familiar Soul increased [PastCount] -> [PreCount].^
+^GMC_31074^,^You can not accept or reject guild membership duRing a Manastone battle.^
+^GMC_31075^,^[Guild] Guild has registered for guild promotion.^
+^GMC_32001^,^Can't be done while changing the character's name.^
+^GMC_32002^,^Character name change is possible.^
+^GMC_32003^,^You must have <font color="#75FC4C"> Name Change Voucher </font> in order to change your character's name.^
+^GMC_32004^,^Can not change your character's name when you have joined a party.^
+^GMC_32005^,^The [Name] word is not allowed.^
+^GMC_32006^,^Would you like to change your character name to <font color="#75FC4C"> [Name] </font>?
+  When changing a character name, one Name Change Voucher is consumed.^
+^GMC_32007^,^The name is already in use.^
+^GMC_32008^,^You can not change your name for 2 months after you change your name.
+ 
+  <font color="#cc2323"> Remaining days: [Time] days </font>^
+^GMC_31076^,^Enable auto-subscribe.^
+^GMC_31077^,^Turn off auto-subscribe.^
+^GMC_31078^,^When checked, all subscription requests will be automatically accepted. <br> Are you sure you want to use the automatic signup feature?^
+^GMC_17023^,^This feature is not available in cross server channel.^
+^gmc_31109^,^You can not select more than the maximum selectable number (30).^
+^gmc_31110^,^No familiar seals selected.^
+^gmc_31111^,^There is no charged gauge.^
+^gmc_31112^,^No Equipment found to add Familiar Soul.^
+^gmc_31113^,^Skill effect increased by [count]%.^
+^gmc_31114^,^Auto-grant option has been canceled because the item being mounted has changed.^
+^gmc_31117^,^There is no main weapon being installed.^
+^gmc_31115^,^This action can not be used while the Familiar Soul UI is open. Please close the Familiar Soul UI window and try again.^
+^gmc_32100^,^Only party members can use the portal device.^
+^gmc_32101^,^Party related operations are not possible inside Cursed Secret Room.^
+^gmc_32102^,^<font color="#ff3636">Attention!</font><br>You will not be rewarded if you leave.^
+^gmc_31118^,^When the upgrade level of the pack reaches its' maximum you cannot upgrade it anymore.^
+^gmc_32103^,^É impossível se mover porque todos os membros do grupo não estão juntos.^
+^gmc_32104^,^O líder do grupo ativou o portal. Habilidades de movimento são proibidas durante o movimento.^
+^gmc_32050^,^Você quer jogar o nível [Name] [Level]?^
+^gmc_32051^,^[Name] Você entrou no estágio [Level].^
+^gmc_33500^,^Não há espaço vazio na sacola de [Name], então ela será enviada para a caixa do evento.^
+^gmc_33501^,^Você não pode obter recompensas enquanto move o tabuleiro.^
+^gmc_33502^,^O jogo de dados está em andamento.^
+^GMC_2216^,^Esta ação não pode ser realizada durante um duelo.^
+^gmc_34500^,^Você quer participar do Fellow Racing?<font color="" #ff0000""><br><br>Você não pode se mover para a arena em outras masmorras e cenários de instância.</font>^
+^gmc_34501^,^Tem certeza de que deseja deixar a Fellow Racing?^
+^gmc_34502^,^Não existe ou não é um Racing Fellow.^
+^gmc_34503^,^Por favor, selecione um companheiro de corrida dedicado.^
+^gmc_34504^,^As corridas de colegas começarão em [minuto] minutos.^
+^gmc_34505^,^O aplicativo de corrida de colegas está fechado.^
+^gmc_34506^,^Esta rodada terminou porque não há partidas suficientes.^
+^gmc_34507^,^Você não pode se mover para a arena em masmorras e cenários de instância.^
+^gmc_34508^,^Apenas jogadores acima de 60lv podem participar.^
+^gmc_34509^,^A pista está andando para trás.^
+^gmc_34510^,^Você não pode se mover se um companheiro for convocado.^
+^gmc_34511^,^Você não pode se mover enquanto monta um companheiro.^
+^gmc_34512^,^A inscrição para Fellow Racing foi concluída.^
+^GMC_34513^,^[Param] [ChangeValue]^
+^GMC_30200^,^A conta está suspensa.<br>Duração: [DISCIPLINE_DATE] <br>Motivo: [DISCIPLINE_REASON] <br> Para obter mais detalhes, entre em contato com a consulta 1:1.^
+^gmc_33570^,^Valores de reforço insuficientes para armas.^
+^gmc_33571^,^Requer nível de mito ou equipamento superior.^
+^gmc_33573^,^Este material não pode ser usado.^
+^gmc_33572^,^Este equipamento não atende às condições.^
+^gmc_31119^,^You cannot use Fellow Sealing Bullets duRing a duel.^
+^gmc_31120^,^You cannot use the Fellow Sealed Ammo Pack upgrade duRing a duel.^
+^gmc_31121^,^You cannot use Fellow Sealing Ammo duRing a duel.^
+^gmc_31122^,^You cannot use Enchant Fellow Sealed Ammo weapon duRing a duel.^

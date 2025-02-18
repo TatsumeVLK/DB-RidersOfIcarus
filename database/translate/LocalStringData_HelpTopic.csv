@@ -1,0 +1,1353 @@
+t_key,t_koreanorg,t_jpn,t_chinese,t_korean,t_eng_2,t_eng_3
+^help_title_guide^,^중급자 가이드^,^プレイガイド^,^^,^The Basics^,^^,^^
+^help_infolink_knowhow^,^강해지는 법^,^強くなる方法^,^^,^Self Improvement^,^^,^^
+^help_infolink_knowhow_tip^,^강해지는 법^,^強くなる方法^,^^,^Self Improvement^,^^,^^
+^help_infolink_knowhow_0^,^<font color="#e5c015">1. 레벨 업을 하면 스탯이 상승하여 캐릭터가 강해집니다.</font>
+  - 공격력, 치명타율, 생명력이 증가합니다.
+  - 몬스터 상대로 명중율, 회피율, 방어력의 효율이 높아집니다.
+  - 새로운 스킬과 더 높은 레벨 장비를 사용할 수 있습니다.^,^<font color="e5c015">1. レベルアップするとステータスが上昇してキャラクターが強くなります。</font>
+  - 攻撃力、クリティカル率、HPが増加します。
+  - 相手がモンスターの場合、命中率、回避率、防御力の効率が上昇します。
+  - 新しいスキルとより高いレベルの装備が装着できるようになります。^,^^,^<font color=''#e5c015''>1. Level Up</font>
+- Increases attack, critical rate, and health.
+- Improves accuracy, evasion, and defense against enemies.
+- Allows you to use new skills and wear better Equipment.^,^^,^^
+^help_infolink_knowhow_1^,^<font color="#e5c015">Tip. 부활 후유증 상태에서는 캐릭터의 능력이 감소합니다.
+        부활 후유증은 백색의 치료사에게서 제거할 수 있습니다.</font>^,^<font color="e5c015">Tip. 復活後遺症の状態ではキャラクターの能力が減少します。
+        復活後遺症は白色の治療士に除去してもらうことができます。</font>^,^^,^<font color=''#e5c015''>Tip: Revival Penalty decreases your stats. Talk to a mender to remove it.</font>^,^^,^^
+^help_infolink_knowhow_2^,^<font color="#e5c015">2. 아이템을 강화하면 공격력과 방어력이 상승합니다.</font>
+  - 강화석을 우 클릭 후 강화할 아이템을 클릭합니다.
+  - 강화석 레벨이 높을 수록 강화 확률이 증가합니다.
+  - 강화석은 추출도구로 아이템을 파괴 후 획득할 수 있습니다.
+  - 추출도구는 상점에서 구입할 수 있습니다.^,^<font color="e5c015">2. アイテムを強化すると攻撃力と防御力が上昇します。</font>
+  - 強化石を右クリックした後、強化するアイテムをクリックします。
+  - 強化石のレベルが高いほど強化確率が増加します。
+  - 強化石は抽出道具でアイテムを破壊して獲得することができます。
+  - 抽出道具は商店で購入できます。^,^^,^<font color=''#e5c015''>2. Temper Your Items</font>
+- Right-click a tempeRing stone, then click the item.
+- Higher level stones have a better chance of success.
+- Get stones by destroying items with extractors.
+- Buy extractors from shops.^,^^,^^
+^help_infolink_knowhow_3^,^<font color="#e5c015">3. 제작된 물약은 상점 물약보다 효과가 매우 좋습니다.</font>
+  - 연금술 제작으로 성능 좋은 물약을 제작할 수 있습니다.^,^<font color="e5c015">3. 製作したポーションは商店のポーションより効果が良いです。</font>
+  - 錬金術製作を通して性能の良いポーションを製作することができます。
+  - 錬金術はハカナス首都城で学ぶことができます。^,^^,^<font color=''#e5c015''>3. Craft Potions</font>
+- Crafted potions are stronger than ones bought in shops.
+- Craft potions via alchemy.^,^^,^^
+^help_infolink_knowhow_4^,^<font color="#e5c015">4. 혼자 처치하기 힘든 몬스터나 던전은 파티를 권장합니다.</font>
+  - 파티는 <font color="#e5c015">/파티초대 ID</font> 명령어로 초대할 수 있습니다.^,^<font color="e5c015">4. 一人では倒せないモンスターやダンジョンはパーティーをお勧めします。</font>
+  - パーティーは<font color="e5c015">/パーティー招待ID</font>の命令語で招待できます。^,^^,^<font color=''#e5c015''>4. Party Up</font>
+- Party up for tough monsters and dungeons.
+- Invite people to your party via <font color=''#e5c015''>/PartyInvite username</font>.^,^^,^^
+^help_infolink_knowhow_5^,^<font color="#e5c015">5. 펠로우 봉인석으로 아이템에 옵션을 부여할 수 있습니다.</font>
+  - 펠로우 봉인석을 장착할 아이템에 Alt+우클릭하거나 직접 드래그&드롭 합니다.
+  - 펠로우 봉인석 슬롯이 있는 아이템만 가능합니다.^,^<font color="e5c015">5. フェロー封印石でアイテムにオプションを付与することができます。</font>
+  - フェロー封印石を右クリックした後、強化するアイテムをクリックします。
+  - フェロー封印石のスロットがあるアイテムのみ可能です。^,^^,^<font color=''#e5c015''>5. Use Familiar Seal Stones</font>
+- Alt + right-click familiar seal stones onto an item to equip.
+- Only possible on items with seal stone slots.^,^^,^^
+^help_infolink_knowhow_6^,^<font color="#e5c015">6. 특성을 장착하면, 스킬 효율을 극대화 시킬 수 있습니다.</font>
+  - 특성은 20레벨부터 장착할 수 있습니다.
+  - 특성은 특성력을 소모하여 장착할 수 있습니다.
+  - 특성력은 펠로우 봉인석을 소모 하여 획득할 수 있습니다.^,^<font color="e5c015">6. 特性を装着するとスキル効率を極大化することができます。</font>
+  - 特性は20レベル以上から装着できます。
+  - 特性は特性ポイントを消耗して装着できます。
+  - 特性ポイントはフェロー封印石で獲得できます。^,^^,^<font color=''#e5c015''>6. Utilize Talents</font>
+- You can use talents starting at level 20.
+- Equipping talents consumes talent power.
+- Get talent power through familiar seal stones.^,^^,^^
+^help_title_mainui^,^인터페이스^,^インターフェース^,^^,^User Interface^,^^,^^
+^help_infolink_mainui^,^메인 화면^,^メイン画面^,^^,^Main Screen^,^^,^^
+^help_infolink_mainui_tip^,^메인 화면 구성^,^メイン画面の構成^,^^,^Main Screen^,^^,^^
+^help_infolink_mainui_0^,^1. <font color="#e5c015">상태 정보</font> : 레벨, 이름, 생명력, 소모 자원 표시^,^1. <font color="e5c015">状態情報</font> : レベル、名前、HP、消耗ゲージを表示^,^^,^1. <font color=''#e5c015''>Player Info:</font> Your level, health bar, and skill resource bar^,^^,^^
+^help_infolink_mainui_1^,^2. <font color="#e5c015">채팅 창</font> : 대화, 전투, 시스템 메시지 표시^,^2. <font color="e5c015">チャットページ</font> : 会話、戦闘、システムメッセージを表示^,^^,^2. <font color=''#e5c015''>CHat Window:</font> Player, combat, and system messages^,^^,^^
+^help_infolink_mainui_2^,^3. <font color="#e5c015">기본 정보</font> : 프리미엄 서비스, 활력 상자, PC방 아이콘 표시^,^3. <font color="e5c015">基本情報</font> : 経験値、活力を表示^,^^,^3. <font color=''#e5c015''>Tip:</font> You can customize your cHat window to your liking!^,^^,^^
+^help_infolink_mainui_3^,^4. <font color="#e5c015">퀵 슬롯</font> : 스킬, 아이템을 등록하여 단축키로 사용^,^4. <font color="e5c015">クィックスロット</font> : スキル、アイテムを登録してショートカットキーとして使用^,^^,^4. <font color=''#e5c015''>Quickslots:</font> Drag skills and items here for easier access^,^^,^^
+^help_infolink_mainui_4^,^5. <font color="#e5c015">버프 아이콘</font> : 캐릭터에 적용 중인 버프 아이콘 표시^,^5. <font color="e5c015">ミニマップ</font> : チャンネル、周辺地形、クエスト情報、商店などを表示^,^^,^5. <font color=''#e5c015''>Minimap:</font> Your channel, nearby quests, shops, etc.^,^^,^^
+^help_infolink_mainui_5^,^6. <font color="#e5c015">미니맵</font> : 채널, 주변 지형, 퀘스트 정보, 상점 등을 표시^,^6. <font color="e5c015">クエストアラート</font> : 現在遂行中のクエスト情報を表示^,^^,^6. <font color=''#e5c015''>Quest Helper:</font> Displays info on active quests^,^^,^^
+^help_infolink_mainui_6^,^7. <font color="#e5c015">퀘스트 알림</font> : 현재 수행중인 퀘스트 정보 표시^,^7. <font color="e5c015">ゲームメニュー</font> : キャラクター情報、かばん、スキルなどのメニューを表示^,^^,^7. <font color=''#e5c015''>Menus:</font> Skill, inventory, character, and other menus^,^^,^^
+^help_infolink_mainui_7^,^8. <font color="#e5c015">PC방 관련 슬롯</font> : PC방 펠로우, 접속 보상, 룰렛 아이콘 표시^,^ゲームメニュー^,^^,^8. <font color="#e5c015"> PC Cafe related slot </font>: PC Cafe Familiars, Connection Rewards, Roulette Icon display^,^^,^^
+^help_infolink_mainui_8^,^9. <font color="#e5c015">게임 메뉴</font> : 캐릭터 정보, 가방, 스킬등의 메뉴 표시^,^ゲームメニューの説明^,^^,^9. <font color="#e5c015"> Game menu </font>: Display character information, bag, skill, etc.^,^^,^^
+^help_infolink_gamemenu^,^게임 메뉴^,^ゲームメニュー^,^^,^Game Menus^,^^,^^
+^help_infolink_gamemenu_tip^,^게임 메뉴 설명^,^ゲームメニューの説明^,^^,^Game Menus^,^^,^^
+^help_infolink_gamemenu_0^,^게임메뉴의 버튼을 클릭하여 기능 선택 가능^,^ゲームメニューボタンをクリックして機能選択が可能^,^^,^Left-click a menu icon to open it.^,^^,^^
+^help_infolink_gamemenu_1^,^1. <font color="#e5c015">엘로라의 상점</font> : 엘룬, 캐시 아이템 구매^,^1. エローラの商店、エローラの保管ボックス、情報、コンテンツ、コミュニティー、システム^,^^,^1. <font color=''#e5c015''>Ellora's Storage:</font> Where cash items, event rewards, etc. are delivered^,^^,^^
+^help_infolink_gamemenu_2^,^2. <font color="#e5c015">엘로라의 보관함</font> : 캐시 아이템, 이벤트 보상 등 보관^,^2. フレンド、アクション、製作、ギルド、ヘルプ^,^^,^2. <font color=''#e5c015''>Basic Info:</font> Character info, inventory, skills, and map^,^^,^^
+^help_infolink_gamemenu_3^,^3. <font color="#e5c015">정보</font> : 캐릭터, 가방, 스킬 등에 대한 정보^,^!!^,^^,^3. <font color=''#e5c015''>Familiars:</font> Familiar storage and bestiary^,^^,^^
+^help_infolink_gamemenu_4^,^4. <font color="#e5c015">펠로우</font> : 펠로우, 펠로우 콜렉션에 대한 메뉴^,^!!^,^^,^4. <font color=''#e5c015''>Logs:</font> Quests, crafting, dungeon info, etc/^,^^,^^
+^help_infolink_gamemenu_5^,^5. <font color="#e5c015">컨텐츠</font> : 퀘스트, 제작, 던전, 업적, 랭킹 등에 대한 메뉴^,^!!^,^^,^5. <font color=''#e5c015''>Social:</font> Party info, PvP, guild info, friends, actions^,^^,^^
+^help_infolink_gamemenu_6^,^6. <font color="#e5c015">커뮤니티</font> : 친구, 파티, 길드 등에 대한 메뉴^,^!!^,^^,^6. <font color=''#e5c015''>System:</font> Settings menus^,^^,^^
+^help_infolink_gamemenu_7^,^7. <font color="#e5c015">시스템</font> : 게임 시스템 관련 기능에 대한 메뉴^,^ゲームメニューのキャラクターをクリック、またはショートカットキー<font color="e5c015">P</font>で開くことができます。^,^^,^7. <font color="#e5c015"> System </font>: Menu for Game System related functions^,^^,^^
+^help_infolink_charui^,^캐릭터 정보창^,^キャラクター情報ページ^,^^,^Character Info^,^^,^^
+^help_infolink_charui_tip^,^캐릭터 정보창 설명^,^キャラクター情報ページの説明^,^^,^Character Info^,^^,^^
+^help_infolink_charui_0^,^게임 메뉴의 캐릭터를 클릭하거나, 단축키 <font color="#e5c015">P</font>로 열 수 있습니다.^,^ゲームメニューのキャラクターをクリック、またはショートカットキー<font color="e5c015">P</font>で開くことができます。^,^^,^Press <font color=''#e5c015''>[P]</font> to open this window or click the Character menu.^,^^,^^
+^help_infolink_charui_1^,^장비를 착용/해제 하거나, 능력치를 확인할 수 있습니다.^,^装備を装着/解除したり、能力値を確認することができます。^,^^,^You can equip gear and check your stats here.^,^^,^^
+^help_infolink_bagui^,^가방^,^かばん^,^^,^Inventory^,^^,^^
+^help_infolink_bagui_tip^,^가방 설명^,^かばん説明^,^^,^Inventory^,^^,^^
+^help_infolink_bagui_0^,^게임 메뉴의 가방을 클릭하거나, 단축키 <font color="#e5c015">I</font>로 열수 있습니다.^,^ゲームメニューのかばんをクリック、またはショートカットキー<font color="e5c015">I</font>で開くことができます。^,^^,^Press <font color=''#e5c015''>[I]</font> to open your inventory or click the Inventory menu.^,^^,^^
+^help_infolink_bagui_1^,^1. <font color="#e5c015">부스터 가방</font> : 부스터 아이템을 보관하는 가방을 호출합니다.^,^1. <font color="e5c015">かばんスロット</font> : かばんを登録すると追加で空きを拡張します。^,^^,^1. <font color=''#e5c015''>Bag Slots:</font> Drag and drop bags here for more inventory space.^,^^,^^
+^help_infolink_bagui_2^,^2. <font color="#e5c015">가방 슬롯</font> : 가방을 등록하면 추가로 공간을 확장합니다.^,^2. <font color="e5c015">整列ボタン</font> : 自動にアイテム種類によって整列します。^,^^,^2. <font color=''#e5c015''>Sort Button:</font> Sorts items by type.^,^^,^^
+^help_infolink_bagui_3^,^3. <font color="#e5c015">정렬 버튼</font> : 자동으로 아이템 종류에 따라 정렬합니다.^,^3. <font color="e5c015">所持金</font> : 所持中のマネーが確認できます。^,^^,^3. <font color=''#e5c015''>Money:</font> Your gold, silver, and copper.^,^^,^^
+^help_infolink_bagui_4^,^4. <font color="#e5c015">소지금</font> : 소지 중인 돈을 확인할 수 있습니다.^,^!!^,^^,^4. <font color=''#e5c015''>Splitting Items:</font> Shift + right-click to split a stack of items.^,^^,^^
+^help_infolink_bagui_5^,^5. <font color="#e5c015">프리미엄 가방</font> : 아이템을 추가로 보관할 수 있는 프리미엄 가방을 호출합니다.^,^2. 現在の地域名を表示します。^,^^,^5. <font color="#e5c015"> Premium Bag </font>: Invokes a premium bag to hold more items.^,^^,^^
+^help_infolink_bagui_6^,^6. <font color="#e5c015">아이템 분할</font>
+  - 수량이 2개 이상인 아이템에 <font color="#e5c015">shift + 우클릭</font>하여 원하는 수량만큼 분할할 수 있습니다.^,^3. 進行中のクエストの遂行地域を確認することができます。^,^^,^6. <font color ="#e5c015"> Split Item </font>
+   - You can split as many as you like by <font color="#e5c015"> shift + right-click </font> on Item stacks with more than 2 Items.^,^^,^^
+^help_infolink_raderui^,^미니맵^,^ミニマップ^,^^,^Minimap^,^^,^^
+^help_infolink_raderui_tip^,^미니맵 설명^,^ミニマップの説明^,^^,^Minimap^,^^,^^
+^help_infolink_raderui_0^,^1. 클릭하여 다른 채널로 이동할 수 있습니다.^,^1. クリックして他のチャンネルに移動できます。^,^^,^1. Channel info. Click to change channels.^,^^,^^
+^help_infolink_raderui_1^,^2. 현재 위치한 지역 이름을 표시합니다.^,^2. 現在の地域名を表示します。^,^^,^2. Your current region.^,^^,^^
+^help_infolink_raderui_2^,^3. <font color="#e5c015">기능</font> : 확대/축소, 투명화, 미니맵 표시 설정^,^3. 進行中のクエストの遂行地域を確認することができます。^,^^,^3. <font color=''#e5c015''>Settings:</font> Zoom, transparency, icon displays^,^^,^^
+^help_infolink_raderui_3^,^4. <font color="#e5c015">펠로우 관련 기능 가능 여부</font> : 탑승, 소환, 비행
+  - 가능 : 초록색 표시
+  - 불가능 : 회색 표시^,^!!^,^^,^4. <font color=''#e5c015''>Familiar Functions:</font> Mount, summon, fly
+- Green: available
+- Gray: unavailable^,^^,^^
+^help_infolink_raderui_4^,^5. 현재 위치한 고도를 표시합니다.^,^!!^,^^,^5. Your current altitude.^,^^,^^
+^help_infolink_raderui_5^,^6. 미니맵 숨기기/나타내기^,^!!^,^^,^6. Minimize.^,^^,^^
+^help_infolink_mapui^,^전체지도^,^全体マップ^,^^,^World Map^,^^,^^
+^help_infolink_mapui_tip^,^전체지도 설명^,^全体マップの説明^,^^,^World Map^,^^,^^
+^help_infolink_mapui_0^,^게임 메뉴의 지도를 클릭하거나, 단축키 <font color="#e5c015">M</font>으로 열수 있습니다.^,^ゲームメニューのマップをクリック、またはショートカットキー<font color="e5c015">M</font>で開くことができます。^,^^,^Press <font color=''#e5c015''>[M]</font> to open your map or click the Map menu.^,^^,^^
+^help_infolink_mapui_1^,^1. 현재 위치한 지역 이름을 표시합니다.^,^1. 現在の地域名を表示します。^,^^,^1. Your current region.^,^^,^^
+^help_infolink_mapui_2^,^2. 클릭하여 다른 지역의 지도를 확인할 수 있습니다.^,^2. クリックして他の地域のマップを確認することができます。^,^^,^2. Drop down menu of other regions.^,^^,^^
+^help_infolink_mapui_3^,^3. 클릭하여 월드 맵을 확인할 수 있습니다.^,^3. クリックしてワールドマップを確認することができます。^,^^,^3. Click to see the World Map.^,^^,^^
+^help_infolink_quickui^,^단축 슬롯^,^ショートスロット^,^^,^Quickslots^,^^,^^
+^help_infolink_quickui_tip^,^단축 슬롯 설명^,^ショートスロットの説明^,^^,^Quickslots^,^^,^^
+^help_infolink_quickui_0^,^일반/탑승 상태에 따라 자동으로 슬롯이 전환됩니다.^,^一般/騎乗状態によって自動にスロットが切り替わります。^,^^,^Quickslots automatically toggle when you mount.^,^^,^^
+^help_infolink_quickui_1^,^스킬을 드래그한 상태에서 클래스/탑승 버튼에 잠시 오버하면 해당 슬롯으로 전환됩니다.^,^スキルをドラッグした状態でクラス/騎乗ボタンにしばらくマウスオーバーすると、該当の種類のスロットに変更されます。^,^^,^Drag a skill over the grayed out icon to toggle between mounted and non-mounted quickslot bars.^,^^,^^
+^help_infolink_quickui_2^,^1. <font color="#e5c015">클래스 슬롯</font> : 클래스 스킬과 아이템을 등록할 수 있습니다.^,^1. <font color="e5c015">クラススロット</font> : 主にクラススキル、アイテムを登録^,^^,^1. <font color=''#e5c015''>Class Quickslots:</font> Your hotkeyed class skills/items.^,^^,^^
+^help_infolink_quickui_3^,^2. <font color="#e5c015">탑승 슬롯</font> : 탑승 스킬과 아이템을 등록할 수 있습니다.^,^2. <font color="e5c015">騎乗スロット</font> : 主にボーガン、槍スキルを登録^,^^,^2. <font color=''#e5c015''>Mounted Quickslots:</font> Your hotkeyed mounted skills/items.^,^^,^^
+^help_infolink_communityui^,^채팅창^,^チャットページ^,^^,^CHat Log^,^^,^^
+^help_infolink_communityui_tip^,^채팅창 설명^,^チャットページの説明^,^^,^CHat Log^,^^,^^
+^help_infolink_communityui_0^,^1. 채팅창 옵션을 변경하거나, 추가/삭제할 수 있습니다.^,^1. チャットページのオプションを変更したり、追加/削除することができます。^,^^,^1. Change cHat settings.^,^^,^^
+^help_infolink_communityui_1^,^2. 전투, 파티탭은 드래그하여 분리할 수 있습니다.^,^2. 戦闘、パーティータブはドラッグして分離できます。^,^^,^2. Drag different tabs to move them to new windows.^,^^,^^
+^help_infolink_communityui_2^,^3. 클릭하여 채팅 종류를 변경할 수 있습니다.^,^3. クリックしてチャットの種類を変更することができます。^,^^,^3. Select who you're sending messages to.^,^^,^^
+^help_title_operate^,^초급자 가이드^,^基本操作^,^^,^Basic Controls^,^^,^^
+^help_infolink_move^,^이동^,^移動^,^^,^Movement^,^^,^^
+^help_infolink_move_tip^,^이동 방법^,^移動方法^,^^,^Movement^,^^,^^
+^help_infolink_move_0^,^<font color="#e5c015">W</font> : 앞으로 이동^,^<font color="e5c015">W</font> : 奥へ移動^,^^,^<font color=''#e5c015''>W:</font> Move forward^,^^,^^
+^help_infolink_move_1^,^<font color="#e5c015">S</font> : 뒤로 이동^,^<font color="e5c015">S</font> : 手前へ移動^,^^,^<font color=''#e5c015''>S:</font> Move back^,^^,^^
+^help_infolink_move_2^,^<font color="#e5c015">A</font> : 좌로 이동^,^<font color="e5c015">A</font> : 左へ移動^,^^,^<font color=''#e5c015''>A:</font> Strafe left^,^^,^^
+^help_infolink_move_3^,^<font color="#e5c015">D</font> : 우로 이동^,^<font color="e5c015">D</font> : 右へ移動^,^^,^<font color=''#e5c015''>D:</font> Strafe right^,^^,^^
+^help_infolink_combat^,^기본 전투^,^基本戦闘^,^^,^Basic Combat^,^^,^^
+^help_infolink_combat_tip^,^기본 전투 방법^,^基本戦闘方法^,^^,^Basic Combat^,^^,^^
+^help_infolink_combat_0^,^1. <font color="#e5c015">공격 대상 선택</font>
+  - 캐릭터 정면의 몬스터는 자동 선택됩니다.
+  - 몬스터를 클릭하여 선택할 수 있습니다.
+  - <font color="#e5c015">Tap</font>키를 누르면 전방의 적이 선택됩니다.^,^1. <font color="e5c015">攻撃対象選択</font>^,^^,^1. <font color=''#e5c015''>Selecting Targets</font>
+- A nearby target will be automatically selected.
+- You can also click targets to select them.
+- Press <font color=''#e5c015''>Tab</font> to toggle through nearby enemies.^,^^,^^
+^help_infolink_combat_1^,^2. <font color="#e5c015">기본 공격 명령</font>
+  - 마우스 더블 클릭 또는 우 클릭으로 공격할 수 있습니다.
+  - 스킬 창의 자동 공격으로 공격할 수 있습니다.^,^- キャラクター正面のモンスターは自動ターゲッティングされます。^,^^,^2. <font color=''#e5c015''>Attacking</font>
+- Double-click or right-click to attack.
+- Or use the auto attack hotkey to attack.^,^^,^^
+^help_infolink_combat_2^,^3. <font color="#e5c015">원거리 공격 회피</font>
+  - 원거리 공격 시 투사체가 발사됩니다.
+  - 캐릭터를 이동하여 적의 공격 투사체를 회피할 수 있습니다.^,^- モンスターをクリックして選択することができます。^,^^,^3. <font color=''#e5c015''>Evading Ranged Attacks</font>
+- Enemy sometimes shoot projectiles and spells.
+- Move your character out of the way!^,^^,^^
+^help_infolink_camera^,^카메라 조작^,^カメラ操作^,^^,^Camera^,^^,^^
+^help_infolink_camera_tip^,^카메라 조작 방법^,^カメラ操作方法^,^^,^Camera Controls^,^^,^^
+^help_infolink_camera_0^,^1. <font color="#e5c015">키보드 조작</font>
+  - Page Up     : 카메라 좌측 회전
+  - Page Down : 카메라 우측 회전^,^1. <font color="e5c015">Page Up</font>ボタンを押すと画面が左に動きます。^,^^,^1. <font color=''#e5c015''>Keyboard</font>
+- Page Up: Rotate camera left
+- Page Down: Rotate camera right^,^^,^^
+^help_infolink_camera_1^,^2. <font color="#e5c015">마우스 조작</font>
+  - 마우스 우 클릭 상태에서 회전을 원하는 방향으로 드래그^,^2. <font color="e5c015">Page Down</font>ボタンを押すと画面が右に動きます。^,^^,^2. <font color=''#e5c015''>Mouse</font>
+- Right-click and drag to rotate the camera^,^^,^^
+^help_infolink_shortcut^,^단축키^,^ショートカットキー^,^^,^Key Bindings^,^^,^^
+^help_infolink_shortcut_tip^,^단축키 설정 방법^,^ショートカットキー設定方法^,^^,^Changing Key Bindings^,^^,^^
+^help_infolink_shortcut_0^,^ESC키를 누르고 게임 옵션에서 <font color="#e5c015">단축키 탭</font>을 클릭합니다.^,^ESCキーを押してゲームオプションから<font color="e5c015">ショートカットキータブ</font>をクリックします。^,^^,^Press ESC to access the main menu, then select <font color=''#e5c015''>Settings</font>, then <font color=''#e5c015''>Key Bindings</font>.^,^^,^^
+^help_infolink_shortcut_1^,^변경할 단축키를 클릭한 후 원하는 키를 누르면 변경됩니다.^,^変更するショートカットキーをクリックした後、希望するキーを押すと変更されます。^,^^,^Click the box of a key you want to change, then press the key you want to change it to.^,^^,^^
+^help_infolink_cHatcommand^,^채팅 명령어^,^チャット命令語^,^^,^CHat Shortcuts^,^^,^^
+^help_infolink_cHatcommand_tip^,^채팅 명령어 종류^,^チャット命令語の種類^,^^,^CHat Shortcuts^,^^,^^
+^help_infolink_cHatcommand_0^,^<font color="#e5c015">/s, /S, /ㄴ</font> : 일반 채팅으로 전환^,^<font color="e5c015">/s、/S、/ㄴ</font> : 一般チャットに転換^,^^,^<font color=''#e5c015''>/s:</font> To all nearby players^,^^,^^
+^help_infolink_cHatcommand_1^,^<font color="#e5c015">/c, /C, /ㅊ</font> : 지역 채팅으로 전환^,^<font color="e5c015">/w、/W、/ㅈ</font> : ささやきに転換した後、IDを入力しSpaceキー入力^,^^,^<font color=''#e5c015''>/c:</font> To all players in the region^,^^,^^
+^help_infolink_cHatcommand_2^,^<font color="#e5c015">/w, /W, /ㅈ</font> : 귓속말로 전환 후 ID를 입력하고 Space키 입력^,^<font color="e5c015">/p、/P、/ㅔ</font> : パーティーチャットに転換^,^^,^<font color=''#e5c015''>/w username:</font> To whisper another player^,^^,^^
+^help_infolink_cHatcommand_3^,^<font color="#e5c015">/b, /B, /ㅠ</font> : 공격대 채팅으로 전환^,^<font color="e5c015">/g、/G、/ㅎ</font> : ギルドチャットに転換^,^^,^<font color=''#e5c015''>/b:</font> To the raid^,^^,^^
+^help_infolink_cHatcommand_4^,^<font color="#e5c015">/q, /Q, /ㅂ</font> : 공격대 명령 채팅으로 전환^,^<font color="#e5c015">/w、/W、/ㅈ</font> : ささやきに転換した後、IDを入力しSpaceキー入力^,^^,^<font color=''#e5c015''>/q:</font> To raid officers^,^^,^^
+^help_infolink_cHatcommand_5^,^<font color="#e5c015">/p, /P, /ㅔ</font> : 파티 채팅으로 전환^,^!!^,^^,^<font color=''#e5c015''>/p:</font> To the party^,^^,^^
+^help_infolink_cHatcommand_6^,^<font color="#e5c015">/g, /G, /ㅎ</font> : 길드 채팅으로 전환^,^!!^,^^,^<font color=''#e5c015''>/g:</font> To the guild^,^^,^^
+^help_infolink_cHatcommand_7^,^<font color="#e5c015">/u, /U, /ㅕ</font> : 연합 채팅으로 전환^,^<font color="#e5c015">/p、/P、/ㅔ</font> : パーティーチャットに転換^,^^,^<font color=''#e5c015''>/u:</font> To the alliance^,^^,^^
+^help_infolink_cHatcommand_8^,^<font color="#e5c015">/m, /M, /ㅡ</font> : 민병대 채팅으로 전환^,^<font color="#e5c015">/g、/G、/ㅎ</font> : ギルドチャットに転換^,^^,^<font color=''#e5c015''>/m:</font> To the militia^,^^,^^
+^help_infolink_actionkey^,^액션키 활용^,^アクションキー活用^,^^,^Action Key^,^^,^^
+^help_infolink_actionkey_tip^,^액션키 활용 방법^,^アクションキー活用方法^,^^,^Using the Action key^,^^,^^
+^help_infolink_actionkey_0^,^단축키 <font color="#e5c015">F</font>로 루팅, NPC대화, 오브젝트 작동을 할 수 있습니다.^,^ショートカットキー<font color="e5c015">F</font>を押すと、採集、NPCとの会話、オブジェクト作動ができます。^,^^,^Use the action key <font color=''#e5c015''>[F]</font> to loot, talk to NPCs, and activate objects.^,^^,^^
+^help_infolink_quickmenu^,^퀵 메뉴^,^クィックメニュー^,^^,^Quick Menus^,^^,^^
+^help_infolink_quickmenu_tip^,^퀵 메뉴 사용^,^クィックメニューの使用^,^^,^Quick Menus^,^^,^^
+^help_infolink_quickmenu_0^,^상태 정보를 우 클릭하여, <font color="#e5c015">인던/파티 메뉴</font>를 사용할 수 있습니다.^,^状態情報を右クリックして<font color="e5c015">インスタントダンジョン/パーティーメニュー</font>を使用することができます。^,^^,^Right-click your status info to open the <font color=''#e5c015''>Dungeon and Party Menu</font>.^,^^,^^
+^help_infolink_quickmenu_1^,^상대 캐릭터를 우 클릭하여, <font color="#e5c015">커뮤니티 메뉴</font>를 사용할 수 있습니다.^,^相手キャラクターを右クリックして<font color="e5c015">コミュニティーメニュー</font>を使用することができます。^,^^,^Right-click a player to open the <font color=''#e5c015''>Social Menu</font>.^,^^,^^
+^help_infolink_Crossbowmode^,^석궁 모드^,^ボーガンモード^,^^,^Crossbow Mode^,^^,^^
+^help_infolink_Crossbowmode_tip^,^석궁 모드 설명^,^ボーガンモードの説明^,^^,^Crossbow Mode^,^^,^^
+^help_infolink_Crossbowmode_0^,^게임 옵션에서 탑승 시 <font color="#e5c015">마우스 고정 옵션</font>을 선택하면, 탑승했을 때 조준선이 고정되어 바라보는 방향과 일치하게 됩니다.^,^ゲームオプションで騎乗時<font color="e5c015">マウス固定オプション</font>を選択すると騎乗したときに照準線が固定されて見ている方向と一致するようになります。^,^^,^Select <font color=''#e5c015''>Fixed Mouse</font> in the game options to fix your sights in the direction you're looking while mounted.^,^^,^^
+^help_title_skill^,^스킬^,^スキル^,^^,^Skills^,^^,^^
+^help_infolink_skillui^,^스킬 창^,^スキルページ^,^^,^Skill Window^,^^,^^
+^help_infolink_skillui_tip^,^스킬 창 설명^,^スキルページの説明^,^^,^Skill Window^,^^,^^
+^help_infolink_skillui_0^,^게임 메뉴에서 스킬을 클릭하거나, 단축키 <font color="#e5c015">K</font>로 열수 있습니다.^,^ゲームメニューのスキルをクリック、またはショートカットキー<font color="e5c015">K</font>で開くことができます。^,^^,^Press <font color=''#e5c015''>[K]</font> to open your skill window or click the Skill menu.^,^^,^^
+^help_infolink_skillui_1^,^1. <font color="#e5c015">클래스 스킬</font> : 클래스 고유 스킬 목록^,^1. <font color="e5c015">クラススキル</font> : クラス固有スキルリスト^,^^,^1. <font color=''#e5c015''>Class Skills:</font> Skills unique to your class.^,^^,^^
+^help_infolink_skillui_2^,^2. <font color="#e5c015">탑승 스킬</font> : 탑승 시 사용할 수 있는 석궁, 창 스킬 목록^,^2. <font color="e5c015">騎乗スキル</font> : 騎乗時に使用できるボーガン、槍スキルリスト^,^^,^2. <font color=''#e5c015''>Mounted Skills:</font> The Crossbow and spear skills you can use while mounted.^,^^,^^
+^help_infolink_skilllearn^,^스킬 자동 습득^,^スキル自動習得^,^^,^AcquiRing Skills^,^^,^^
+^help_infolink_skilllearn_tip^,^스킬 자동 습득^,^スキル自動習得^,^^,^AcquiRing Skills^,^^,^^
+^help_infolink_skilllearn_0^,^캐릭터 레벨이 상승하면, 레벨에 맞는 스킬이 <font color="#e5c015">자동 습득</font>됩니다.^,^キャラクターレベルが上昇するとレベルに合わせてスキルが<font color="e5c015">自動に習得</font>されます。^,^^,^You'll <font color=''#e5c015''>automatically get new skills</font> when you level up.^,^^,^^
+^help_infolink_skilllearn_1^,^신규스킬 버튼을 클릭하면 신규 스킬 목록을 확인할 수 있습니다.^,^新規スキルボタンをクリックするとスキルリストが確認できます。^,^^,^Click the New Skills button to see your new skills.^,^^,^^
+^help_infolink_skilllevel^,^스킬 레벨 상승^,^スキルレベル上昇^,^^,^Skill Ranks^,^^,^^
+^help_infolink_skilllevel_tip^,^스킬 레벨 상승^,^スキルレベル上昇^,^^,^Skill Ranks^,^^,^^
+^help_infolink_skilllevel_0^,^캐릭터 레벨에 맞게 스킬 레벨이 <font color="#e5c015">자동 상승</font>합니다.^,^キャラクターレベルが上昇するとレベルに合わせてスキルが<font color="e5c015">自動にレベルアップ</font>します。^,^^,^Your skills will automatically increase in rank as you level up.^,^^,^^
+^help_infolink_reaction^,^리액션 유효타^,^チャージスキル^,^^,^Destabilizing Attacks^,^^,^^
+^help_infolink_reaction_tip^,^리액션 유효타^,^チャージスキルの説明^,^^,^Destabilizing Attacks^,^^,^^
+^help_infolink_reaction_0^,^정예 등급 이상 몬스터는 <font color="#e5c015">상태이상에 면역 효과를 지닌 리액션 저항</font>이 있습니다.^,^チャージタイプスキルを押していた分ゲージが上昇します。^,^^,^Elite monsters and stronger possess superb stability, granting them immunity to status effects.^,^^,^^
+^help_infolink_reaction_1^,^리액션 유효타란 적의 <font color="#e5c015">저항 단계를 소모</font>시키는 효과입니다.^,^上昇したチャージ段階によって発動時の効果が異なって適用されます。^,^^,^By reducing the enemy's stability to 0, you can make them vulnerable to status effects.^,^^,^^
+^help_infolink_reaction_2^,^리액션 유효타 효과를 가진 스킬이 <font color="#e5c015">치명타로 적중할 때 발동</font>됩니다.^,^コンボスキル^,^^,^Certain skills will reduce enemy stability when they land a critical hit.^,^^,^^
+^help_infolink_reaction_3^,^적의 리액션 저항 단계를 모두 소모시켰을 경우, 일정시간 동안 <font color="#e5c015">제압 상태에 걸려 상태이상 효과</font>를 받게 됩니다.^,^コンボスキルの説明^,^^,^When you consume all of an enemy's reaction resistance stages, the enemy will be susceptible to status effects.^,^^,^^
+^help_infolink_charge^,^챠지 스킬^,^チャージスキル^,^^,^Charging Skills^,^^,^^
+^help_infolink_charge_tip^,^챠지 스킬 설명^,^チャージスキルの説明^,^^,^Charging Skills^,^^,^^
+^help_infolink_charge_0^,^챠지 스킬을 누르는 만큼 챠지 게이지가 충전됩니다.^,^チャージタイプスキルを押していた分ゲージが上昇します。^,^^,^Hold down a chargeable skill to charge it.^,^^,^^
+^help_infolink_charge_1^,^챠지 단계에 따라 사용 효과가 강력해집니다.^,^上昇したチャージ段階によって発動時の効果が異なって適用されます。^,^^,^The more the skill's been charged, the stronger it'll be.^,^^,^^
+^help_infolink_skillcombo^,^콤보 스킬^,^コンボスキル^,^^,^Combo Skills^,^^,^^
+^help_infolink_skillcombo_tip^,^콤보 스킬 설명^,^コンボスキルの説明^,^^,^Combo Skills^,^^,^^
+^help_infolink_skillcombo_0^,^콤보 스킬은 한번에 2회 이상 사용할 수 있습니다.^,^コンボスキルは1つのスキルが2つ以上の発動効果を持ちます。^,^^,^Some skills can be used two or more times in a row. These are called combo skills.^,^^,^^
+^help_infolink_skillcombo_1^,^콤보 단계마다 설정된 콤보 효과가 발동됩니다.^,^コンボスキルを連打するたびに設定されたコンボ効果が発動されます。^,^^,^The higher the combo, the more effective a skill becomes.^,^^,^^
+^help_infolink_recom^,^링크 스킬^,^リンクスキル^,^^,^Link Skills^,^^,^^
+^help_infolink_recom_tip^,^링크 스킬 설명^,^リンクスキルの説明^,^^,^Link Skills^,^^,^^
+^help_infolink_recom_0^,^링크 스킬은 효용성이 높은 스킬을 자동으로 추천해주어, 쉽게 추가적인 효과를 발동 시키는 스킬을 연계해줍니다.^,^リンクスキルは効用性の高いスキルを自動に推薦してより簡単に追加効果が発動できるスキルを連携してくれます。^,^^,^The game automatically recommends skills tHat link to the one you're using. This can grant additional effects.^,^^,^^
+^help_infolink_skilllink^,^연계 스킬^,^連携スキル^,^^,^Follow-up Skills^,^^,^^
+^help_infolink_skilllink_tip^,^연계 스킬 설명^,^連携スキルの説明^,^^,^Follow-up Skills^,^^,^^
+^help_infolink_skilllink_0^,^넘어짐, 밀려남과 같은 특정 상황이나, 특정 스킬을 사용했을 때만 사용할 수 있는 스킬을 캐릭터 우측에 표시해 줍니다.^,^ノックバック、後退のような特定状況や特定スキルを使用したときのみ使えるスキルをキャラクターの右側に表示します。^,^^,^In certain situations, such as when an enemy has fallen, a skill tHat you can use will appear next to your character.^,^^,^^
+^help_infolink_talent^,^특성^,^特性^,^^,^Talents^,^^,^^
+^help_infolink_talent_tip^,^특성 설명^,^特性の説明^,^^,^Talents^,^^,^^
+^help_infolink_talent_0^,^1. 캐릭터 정보 창에서 <font color="#e5c015">특성 탭</font>을 클릭하여 확인할 수 있습니다.^,^1.  キャラクター情報ページで<font color="e5c015">特性タブ</font>をクリックして確認することができます。^,^^,^1. Access talents via the <font color=''#e5c015''>Talent tab</font> in the Character Info window.^,^^,^^
+^help_infolink_talent_1^,^2. 현재 보유한 <font color="#e5c015">특성력</font>을 확인할 수 있습니다.^,^2. 現在保有している<font color="e5c015">特性力</font>が確認できます。^,^^,^2. You'll be able to see all the <font color=''#e5c015''>Talent</font> you possess.^,^^,^^
+^help_infolink_talent_2^,^  - 특성력은 봉인된 펠로우를 드래그하여 획득할 수 있습니다.^,^- 特性力は封印されたフェローをドラッグして獲得することができます。^,^^,^Drag sealed familiars to the talent orb to get talent power. The familiar will be consumed.^,^^,^^
+^help_infolink_talent_3^,^3. 클래스마다 고유한 세 종류의 특성을 사용할 수 있습니다.^,^3. クラス毎に固有の3種類の特性を持ちます。^,^^,^3. Each class has 3 schools of talents.^,^^,^^
+^help_infolink_talent_4^,^4. 잠겨 있는 슬롯은 5레벨씩 오를 때마다 활성화됩니다.^,^4. レベルによって特性スロットが拡張され、特性を装着することができます。^,^^,^4. A talent slot unlocks every 5 levels.^,^^,^^
+^help_title_item^,^아이템^,^アイテム^,^^,^Items^,^^,^^
+^help_infolink_set^,^세트 아이템^,^セットアイテム^,^^,^Set Items^,^^,^^
+^help_infolink_set_tip^,^세트 아이템 설명^,^セットアイテムの説明^,^^,^Set Items^,^^,^^
+^help_infolink_set_0^,^세트로 구성된 아이템을 착용할 경우, 착용 개수에 따라 세트 효과가 적용됩니다.^,^セットアイテムは同じ種類のアイテムを装着した場合、装着数によって追加効果が適用されます。^,^^,^You'll get bonus effects based on how many pieces of a set you have equipped.^,^^,^^
+^help_infolink_fellowoption^,^봉인 옵션 부여^,^封印オプションの付与^,^^,^Seal Boost^,^^,^^
+^help_infolink_fellowoption_tip^,^봉인 옵션 부여^,^封印オプションの付与^,^^,^Seal Boost^,^^,^^
+^help_infolink_fellowoption_0^,^봉인된 펠로우를 슬롯을 가진 무기, 방어구에 장착 하면, 장비에 추가 효과를 부여할 수 있습니다.^,^封印されたフェローをスロットがある武器にドラッグすると武器に追加効果を付与することができます。^,^^,^Drag a sealed familiar to a piece of Equipment to gain an additional effect.^,^^,^^
+^help_infolink_fellowoption_1^,^장착할 수 있는 최대 슬롯 개수는 장비의 등급에 따라 달라집니다.^,^- レベル、等級が高いほど高レベルの強化石が獲得できます。^,^^,^The maximum number of slots tHat can be mounted depends on the Equipment grade.^,^^,^^
+^help_infolink_fellowoption_2^,^  - <font color="#e5c015">일반 등급</font> : 최대 1개^,^強化^,^^,^- <font color="#e5c015"> Common Grade </font>: Up to 1^,^^,^^
+^help_infolink_fellowoption_3^,^  - <font color="#e5c015">정예 등급</font> : 최대 2개^,^強化説明^,^^,^- <font color="#e5c015"> Elite Grade </font>: Up to 2^,^^,^^
+^help_infolink_fellowoption_4^,^  - <font color="#e5c015">영웅 등급</font> : 최대 2개^,^1. 強化石を右クリックすると強化できるアイテムが表示されます。^,^^,^- <font color="#e5c015"> Heroic Grade </font>: Up to 2^,^^,^^
+^help_infolink_fellowoption_5^,^  - <font color="#e5c015">전설 등급</font> : 최대 3개^,^2. 強化するアイテムをクリックする場合、アイテム能力値が上昇します。^,^^,^- <font color="#e5c015"> Legendary Grade </font>: Up to 3^,^^,^^
+^help_infolink_fellowoption_6^,^  - <font color="#e5c015">신화 등급</font> : 최대 4개^,^- <font color="e5c015">武器</font> : 攻撃力上昇^,^^,^- <font color="#e5c015"> Mythical Grade </font>: Up to 4^,^^,^^
+^help_infolink_extraction^,^추출^,^抽出^,^^,^Extracting^,^^,^^
+^help_infolink_extraction_tip^,^추출 설명^,^抽出の説明^,^^,^Extracting^,^^,^^
+^help_infolink_extraction_0^,^1. 추출 도구는 잡화 상인에게서 구입할 수 있습니다.^,^1. 抽出道具は雑貨商人から購入できます。^,^^,^1. Extractors can be purchased from a shopkeep.^,^^,^^
+^help_infolink_extraction_1^,^2. 추출 도구를 사용하면 추출 가능한 아이템이 표시됩니다.^,^2. 抽出道具を右クリックすると抽出できるアイテムが表示されます。^,^^,^2. Right-click the extractor. Items tHat can be extracted will be displayed.^,^^,^^
+^help_infolink_extraction_2^,^3. 아이템을 추출하면 <font color="#e5c015">강화석</font>을 획득할 수 있습니다.^,^3. 抽出するアイテムをクリックすると<font color="e5c015">強化石</font>を抽出することができます。^,^^,^3. Extract an item to get a <font color=''#e5c015''>tempeRing stone</font>.^,^^,^^
+^help_infolink_extraction_3^,^  - 레벨/등급이 높을수록 높은 레벨의 강화석을 획득합니다.^,^- レベル、等級が高いほど高レベルの強化石が獲得できます。^,^^,^Higher quality items produce better tempeRing stones.^,^^,^^
+^help_infolink_reinforce^,^아이템 강화^,^強化^,^^,^TempeRing^,^^,^^
+^help_infolink_reinforce_tip^,^강화 설명^,^強化説明^,^^,^TempeRing^,^^,^^
+^help_infolink_reinforce_0^,^1. 강화석을 사용하면 강화 가능한 아이템이 표시됩니다.^,^1. 強化石を右クリックすると強化できるアイテムが表示されます。^,^^,^1. Right-click tempeRing stones to see items tHat can be tempered.^,^^,^^
+^help_infolink_reinforce_1^,^2. 아이템을 강화하면 아이템 능력치가 상승합니다.^,^2. 強化するアイテムをクリックする場合、アイテム能力値が上昇します。^,^^,^2. Temper items to increase their stats.^,^^,^^
+^help_infolink_reinforce_2^,^  - <font color="#e5c015">무기</font> : 공격력 상승^,^- <font color="e5c015">武器</font> : 攻撃力上昇^,^^,^- <font color=''#e5c015''>Weapons:</font> Increase Attack Power^,^^,^^
+^help_infolink_reinforce_3^,^  - <font color="#e5c015">방어구/방패/아티팩트</font> : 방어력 상승^,^- <font color="e5c015">防具/シールド/アーティファクト</font> : 防御力上昇^,^^,^- <font color=''#e5c015''>Armor and Secondary Weapons:</font> Increase Defense^,^^,^^
+^help_infolink_reinforce_4^,^  - <font color="#e5c015">장신구</font> : 마법 방어력 상승^,^3. <font color="e5c015">5、10、15、20</font>段階では能力値が追加で上昇します。^,^^,^- <font color="#e5c015"> Accessoirs </font>: Increases Magic Defense^,^^,^^
+^help_infolink_reinforce_5^,^3. <font color="#e5c015">5 단계</font>마다 능력치 상승량이 증가합니다.^,^4. 強化は最大20段階まで可能です。^,^^,^3. Attribute bonuses increase every <font color=''#e5c015''>5 levels</font>.^,^^,^^
+^help_infolink_reinforce_6^,^4. 강화 차수에 따라 사용 되는 강화석의 종류가 달라집니다.^,^- <font color="e5c015">1~5段階</font> : 失敗しても段階が下落しません。^,^^,^4. Depending on the TempeRing Progress, the TempeRing Stone used varies.^,^^,^^
+^help_infolink_reinforce_7^,^5. 무기, 방어구^,^- <font color="e5c015">6~10段階</font> : 失敗すると段階が下落する可能性があります。^,^^,^5. Weapon, Armor^,^^,^^
+^help_infolink_reinforce_8^,^  - <font color="#e5c015">1~20단계</font> : 정예 강화석^,^- <font color="e5c015">11~15段階</font> : 失敗すると段階下落、初期化される可能性があります。^,^^,^- <font color="#e5c015"> +1 to +20 </font>: Elite TempeRing Stones^,^^,^^
+^help_infolink_reinforce_9^,^  - <font color="#e5c015">21~25단계</font> : 영웅 강화석^,^- <font color="e5c015">16~20段階</font> : 失敗すると段階下落、初期化、破壊される可能性があります。^,^^,^- <font color="#e5c015"> +21 to +25 </font>: Heroic TempeRing Stones^,^^,^^
+^help_infolink_reinforce_10^,^6. 장신구^,^!!^,^^,^6. Accessory^,^^,^^
+^help_infolink_reinforce_11^,^  - <font color="#e5c015">1~5단계</font> : 장신구 정예 강화석^,^!!^,^^,^- <font color="#e5c015"> +1 to +5 </font>: Jewelry Elite TempeRing Stones^,^^,^^
+^help_infolink_reinforce_12^,^7. 무기, 방어구는 최대 25단계까지 강화 가능합니다.^,^クエスト^,^^,^7. Weapons and Armor can be tempered up to +25.^,^^,^^
+^help_infolink_reinforce_13^,^  - <font color="#e5c015">1~5단계</font> : 실패해도 단계가 하락하지 않습니다.^,^クエストページ^,^^,^<font color=''#e5c015''>+1 to +5: </font> No tempeRing penalty if you fail.^,^^,^^
+^help_infolink_reinforce_14^,^  - <font color="#e5c015">6~13단계</font> : 실패 시, 단계가 하락할 수 있습니다.^,^クエストページの説明^,^^,^<font color=''#e5c015''>+6 to +13:</font> TempeRing level might decrease by 1 when you fail.^,^^,^^
+^help_infolink_reinforce_15^,^  - <font color="#e5c015">14~15단계</font> : 실패 시, 단계하락, 초기화 될 수 있습니다.^,^ゲームメニューでクエストをクリック、または<font color="e5c015">J</font>キーで開くことができます。^,^^,^<font color=''#e5c015''>+14 to +15:</font> TempeRing level might be reset or decrease by 1 when you fail.^,^^,^^
+^help_infolink_reinforce_16^,^  - <font color="#e5c015">16~20단계</font> : 실패 시, 단계하락, 초기화, 파괴될 수 있습니다.^,^1. クエストリストでクエストを種類別に確認することができます。^,^^,^<font color=''#e5c015''>+16 to +120:</font> TempeRing level might be reset or decrease by 1 or the item gets destroyed when you fail.^,^^,^^
+^help_infolink_reinforce_17^,^  - <font color="#e5c015">21~25단계</font> : 실패 시, 단계가 하락할 수 있습니다.^,^2. クエスト名をクリックすると詳細情報が確認できます。^,^^,^<font color=''#e5c015''>+21 to +25:</font> TempeRing level might decrease by 1 when you fail.^,^^,^^
+^help_infolink_reinforce_18^,^8. 장신구는 최대 5단계까지 강화 가능합니다.^,^3. 選択/解除で<font color="e5c015">アラート</font>を表示・非表示することができます。^,^^,^7. Jewelry can be tempered up to +5.^,^^,^^
+^help_infolink_reinforce_19^,^  - <font color="#e5c015">1~5단계</font> : 실패 시, 단계가 하락할 수 있습니다.^,^クエスト種類^,^^,^<font color=''#e5c015''>+1 to +5:</font> TempeRing level might decrease by 1 when you fail.^,^^,^^
+^help_infolink_reinforce_20^,^9. 강화석은 <font color="#e5c015">몬스터 드랍, 낚시, 펠로우 모험, 엘로라의 상점</font>을 통해 획득할 수 있습니다.^,^ランダムボックス^,^^,^9. TempeRing Stones can be acquired through <font color="#e5c015"> Monster Drops, Fishing, Familiar Adventures, and Ellora's Store </font>.^,^^,^^
+^help_infolink_Randombox^,^랜덤박스^,^ランダムボックス^,^^,^Random Box^,^^,^^
+^help_infolink_Randombox_tip^,^랜덤박스 설명^,^ランダムボックスの説明^,^^,^Random Box^,^^,^^
+^help_infolink_Randombox_0^,^랜덤박스를 사용하면 구성된 아이템을 <font color="#e5c015">확률적</font>으로 획득할 수 있습니다.^,^ランダムボックスをクリックするとクラスによって多様なアイテムが<font color="e5c015">確率的</font>に獲得できます。^,^^,^Open a Random box to get a Random item.^,^^,^^
+^help_infolink_attributionclear^,^아이템 귀속 해제^,^!!^,^^,^Unbinding Items^,^^,^^
+^help_infolink_attributionclear_tip^,^아이템 귀속 해제^,^!!^,^^,^Unbinding Items^,^^,^^
+^help_infolink_attributionclear_0^,^1. <font color="#e5c015">귀속 해제 주문서 획득 경로</font>
+  - 라비니 금화 상점, 몬스터 드랍^,^!!^,^^,^1. You can purchase unbinding scrolls from the Rabbini Silver Coin Shop and the Ellun Shop.^,^^,^^
+^help_infolink_attributionclear_1^,^2. 귀속 해제 대상 아이템과 주문서의 등급은 동일해야 합니다.^,^!!^,^^,^2. The level of your unbinding scroll must match the level of the item you want to unbind.^,^^,^^
+^help_infolink_attributionclear_2^,^3. 귀속 해제 시 아이템의 귀속 해제 가능 수가 감소합니다.^,^!!^,^^,^3. The number of times you can unbind an item is limited.^,^^,^^
+^help_infolink_itembreak^,^아이템 분해^,^!!^,^^,^Dismantling^,^^,^^
+^help_infolink_itembreak_tip^,^아이템 분해^,^!!^,^^,^Dismantling^,^^,^^
+^help_infolink_itembreak_0^,^1. <font color="#e5c015">분해도구 획득 경로</font>
+  - 정예, 영웅 : 잡화 상점 NPC
+  - 전설 : 라비니 금화 상점, 몬스터 드랍^,^!!^,^^,^1. <font color=''#e5c015''>Where To Get Dismantling Tools</font>
+- Elite, Heroic: General Shopkeeps
+- Heroic, Legendary: Ellun Shop^,^^,^^
+^help_infolink_itembreak_1^,^2. <font color="#e5c015">아이템 분해 조건</font>
+  - 분해도구와 분해할 아이템의 등급은 같아야 합니다.
+  - 착용 중인 아이템은 분해할 수 없습니다.
+  - 가방에 3개 이상의 빈 슬롯이 있어야 합니다.^,^!!^,^^,^2. <font color=''#e5c015''>Dismantling Conditions</font>
+- The level of the tool and the item must match.
+- Equipped items cannot be dismantled.
+- You must have at least 3 empty slots in your inventory.^,^^,^^
+^help_infolink_itembreak_2^,^3. 아이템을 분해하면 <font color="#e5c015">주화 아이템으로 환원</font>됩니다.
+  - PVE 아이템 : 라비니족의 은화, 금화, 고대의 주화
+  - PVP 아이템 : 엑자란 주화, 금화, 아케론 주화^,^!!^,^^,^3. Dismantled items become <font color=''#e5c015''>currency</font>.
+- PvE items: Rabbini Silver, Gold Coins
+- PvP items: Exarahn Coins, Gold Coins^,^^,^^
+^help_title_quest^,^퀘스트^,^クエスト^,^^,^Quests^,^^,^^
+^help_infolink_questui^,^퀘스트 창^,^クエストページ^,^^,^Quest Log^,^^,^^
+^help_infolink_questui_tip^,^퀘스트 창 설명^,^クエストページの説明^,^^,^Quest Log^,^^,^^
+^help_infolink_questui_0^,^게임 메뉴에서 퀘스트를 클릭하거나 <font color="#e5c015">J</font>키로 열 수 있습니다.^,^ゲームメニューでクエストをクリック、または<font color="e5c015">J</font>キーで開くことができます。^,^^,^Press <font color=''#e5c015''>[J]</font> to open your quest log or click the Quest menu.^,^^,^^
+^help_infolink_questui_1^,^1. 퀘스트 목록에서 퀘스트를 종류별로 확인할 수 있습니다.^,^1. クエストリストでクエストを種類別に確認することができます。^,^^,^1. View quests by type.^,^^,^^
+^help_infolink_questui_2^,^2. 퀘스트 이름을 클릭하면, 상세 정보를 확인할 수 있습니다.^,^2. クエスト名をクリックすると詳細情報が確認できます。^,^^,^2. Click the quest title for details.^,^^,^^
+^help_infolink_questui_3^,^3. <font color="#e5c015">퀘스트 보상 패널티</font>
+  - 캐릭터 레벨이 퀘스트 수행 적정 레벨보다 높으면 적용됩니다.
+  - 패널티가 적용되면 보상 경험치와 돈이 줄어듭니다.
+  - 보상 패널티는 최대 -90%까지 적용됩니다.^,^3. 選択/解除で<font color="e5c015">アラート</font>を表示・非表示することができます。^,^^,^3. Quest reward penalties are applied when your level is significantly higher than the quest level. Your experience and gold rewards may be reduced up to 90%.^,^^,^^
+^help_infolink_questtype^,^퀘스트 종류^,^クエスト種類^,^^,^Quest Types^,^^,^^
+^help_infolink_questtype_tip^,^퀘스트 종류 설명^,^クエスト種類の説明^,^^,^Quest Types^,^^,^^
+^help_infolink_questtype_0^,^위 그림에서 좌측부터 획득, 진행, 완료 표시^,^上の図の左から獲得、進行、完了表示^,^^,^Icons from left to right: start quest, in-progress, turn in.^,^^,^^
+^help_infolink_questtype_1^,^1. <font color="#e5c015">시나리오</font> : 메인 스토리를 따라가는 시나리오 퀘스트입니다.^,^1. <font color="e5c015">シナリオ</font> : メインストーリーによって進行されるシナリオクエストです。^,^^,^1. <font color=''#e5c015''>Main Quests:</font> The main storyline.^,^^,^^
+^help_infolink_questtype_2^,^2. <font color="#e5c015">일반</font> : 시나리오를 중심으로 관련된 일반 퀘스트입니다.^,^2. <font color="e5c015">一般</font> : シナリオを中心に関連した一般クエストです。^,^^,^2. <font color=''#e5c015''>Side Quests:</font> Side stories tHat accompany the main quest.^,^^,^^
+^help_infolink_questtype_3^,^3. <font color="#e5c015">의뢰</font> : 반복적으로 수행할 수 있는 반복 퀘스트입니다.^,^3. <font color="e5c015">依頼</font> : 反復的に遂行できる反復クエストです。^,^^,^3. <font color=''#e5c015''>Daily Quests:</font> Repeatable quests tHat can be done multiple times.^,^^,^^
+^help_infolink_questhelper^,^퀘스트 알림^,^クエストアラート^,^^,^Quest Helper^,^^,^^
+^help_infolink_questhelper_tip^,^퀘스트 알림 설명^,^クエストアラートの説明^,^^,^Quest Helper^,^^,^^
+^help_infolink_questhelper_0^,^1. 퀘스트 마크를 클릭하면 <font color="#e5c015">수행 위치</font>를 확인할 수 있습니다.^,^1. クエストマークをクリックすると<font color="e5c015">遂行位置</font>が確認できます。^,^^,^1. Click on the quest marker to see a quest's <font color=''#e5c015''>location</font>.^,^^,^^
+^help_infolink_questhelper_1^,^2. 퀘스트 이름을 클릭하면 <font color="#e5c015">상세 정보</font>를 확인할 수 있습니다.^,^2. クエスト名をクリックすると<font color="e5c015">詳細情報</font>が確認できます。^,^^,^1. Click the quest title to see <font color=''#e5c015''>quest details</font>.^,^^,^^
+^help_infolink_questhelper_2^,^3. 선택/해제하여 <font color="#e5c015">알림</font>을 표시하거나 끌 수 있습니다.^,^3. 選択/解除で<font color="e5c015">アラート</font>を表示・非表示することができます。^,^^,^3. Uncheck the box to remove it from the quest helper.^,^^,^^
+^help_title_contents^,^PVE컨텐츠^,^コンテンツ^,^^,^Guilds, Raids, PvP^,^^,^^
+^help_infolink_dungeonlevel^,^던전 난이도^,^ダンジョン難易度^,^^,^Dungeon Difficulty^,^^,^^
+^help_infolink_dungeonlevel_tip^,^던전 난이도 설명^,^ダンジョン難易度の説明^,^^,^Dungeon Difficulty^,^^,^^
+^help_infolink_dungeonlevel_0^,^1. 던전에 입장할 때 난이도를 선택할 수 있습니다.^,^ダンジョンに入場する時、難易度を選択することができます。^,^^,^You can select a dungeon's difficulty when you enter.^,^^,^^
+^help_infolink_dungeonlevel_1^,^2. 상위 난이도를 플레이하려면 이전 난이도를 완료해야 합니다.^,^次の難易度をプレイするためには以前の難易度を完了する必要があります。^,^^,^The previous difficulty must be completed to unlock the next.^,^^,^^
+^help_infolink_uniteparty^,^10인 공격대^,^10人攻撃隊^,^^,^10-player Raids^,^^,^^
+^help_infolink_uniteparty_tip^,^10인 공격대 설명^,^10人攻撃隊の説明^,^^,^10-player Raids^,^^,^^
+^help_infolink_uniteparty_0^,^파티장은 파티 메뉴에서 공격대를 편성할 수 있습니다.^,^パーティーリーダーはパーティーメニューで攻撃隊に編成できます。^,^^,^The party leader can form a raid from the party menu.^,^^,^^
+^help_infolink_uniteparty_1^,^공격대는 최대 10명까지 모집할 수 있습니다.^,^攻撃隊は最大10名まで編成できます。^,^^,^Up to 10 players can be in a raid.^,^^,^^
+^help_infolink_pvp^,^결투^,^決闘^,^^,^Duels^,^^,^^
+^help_infolink_pvp_tip^,^결투 설명^,^決闘説明^,^^,^Duels^,^^,^^
+^help_infolink_pvp_0^,^상대방 <font color="#e5c015">우 클릭 메뉴, /결투 ID 명령어, 결투 신청 액션 메뉴</font>로 결투를 신청할 수 있습니다.^,^相手<font color="e5c015">右クリックメニュー/決闘ID命令語、決闘申請アクションメニュー</font>で決闘を申請することができます。^,^^,^To challenge someone to a duel, right-click them and select the Duel option or type !/duel (username)!.^,^^,^^
+^help_infolink_pvp_1^,^1. 대상의 HP가 0이 되면 <font color="#e5c015">승리</font>합니다.^,^1. 対象のHPを0にする攻撃に成功時<font color="e5c015">勝利</font>します。^,^^,^1. Get your opponent's health to 0 to win.^,^^,^^
+^help_infolink_pvp_2^,^2. 항복 버튼을 클릭하거나, 결투 장소를 벗어나면 <font color="#e5c015">패배</font>합니다.^,^2. 降伏ボタンをクリック、または決闘場所から離れると<font color="e5c015">敗北</font>します。^,^^,^2. You'll automatically lose if you click Forfeit or leave the duel area.^,^^,^^
+^help_infolink_guild^,^길드^,^ギルド^,^^,^Guild^,^^,^^
+^help_infolink_guild_tip^,^길드 설명^,^ギルドの説明^,^^,^Guilds^,^^,^^
+^help_infolink_guild_0^,^하카나스 수도성의 길드 관리소에 위치한 <font color="#e5c015">길드 마스터</font>를 통해 창설할 수 있습니다.^,^ハカナス首都城のギルド管理所に位置した<font color="e5c015">ギルド管理人</font>と会話してギルドを結成することができます。^,^^,^Talk to the Guild Master at the guild hall in Hakain's Crossing to create a guild.^,^^,^^
+^help_infolink_guild_1^,^길드 레벨이 상승하면 자동으로 <font color="#e5c015">길드 스킬</font>이 활성화됩니다.^,^!!^,^^,^As the guild levels up, guild skills will automatically activate.^,^^,^^
+^help_infolink_guildalliance^,^길드 연합^,^!!^,^^,^Alliances^,^^,^^
+^help_infolink_guildalliance_tip^,^길드 연합^,^!!^,^^,^Alliances^,^^,^^
+^help_infolink_guildalliance_0^,^1. <font color="#e5c015">길드 연합</font>이란?
+  - 3등급의 길드가 최대 3개까지 연합할 수 있습니다.^,^!!^,^^,^1. Up to three guilds at Rank 3 or above can band together to form an alliance.^,^^,^^
+^help_infolink_guildalliance_1^,^2. <font color="#e5c015">길드 연합 창설</font>
+  - 길드 관리소의 <font color="#e5c015">연합 마스터</font>를 통해 창설할 수 있습니다.
+  - 길드 연합 창설 및 가입은 3등급 이상의 길드만 가능합니다.^,^!!^,^^,^2. Talk to the Guild Master at the guild hall in Hakain's Crossing to form an alliance.^,^^,^^
+^help_infolink_guildalliance_2^,^3. 길드 연합의 길드명과 길드 마크는 <font color="#e5c015">연합장의 길드</font>를 따릅니다.^,^!!^,^^,^3. The alliance's name and emblem will be based on the alliance leader's guild.^,^^,^^
+^help_infolink_militia^,^엑자란 민병대^,^!!^,^^,^Exarahn Militia^,^^,^^
+^help_infolink_militia_tip^,^엑자란 민병대^,^!!^,^^,^Exarahn Militia^,^^,^^
+^help_infolink_militia_0^,^1. <font color="#e5c015">엑자란 민병대</font>란?
+  - 2등급 이하의 길드 또는 개인이 서로 연합할 수 있습니다.^,^!!^,^^,^1. <font color=''#e5c015''>Who Can Join?</font>
+- Anyone in a guild tHat's Rank 2 or lower.^,^^,^^
+^help_infolink_militia_1^,^2. <font color="#e5c015">엑자란 민병대 가입</font>
+  - 엑자란 무법지대, 진리의 관문에 <font color="#e5c015">글리온</font>을 통해 가입할 수 있습니다.^,^!!^,^^,^2. <font color=''#e5c015''>How To Join?</font>
+- Talk to Gleon at the Arcane Gateway in the Exarahn Badlands.^,^^,^^
+^help_infolink_militia_2^,^3. <font color="#e5c015">엑자란 민병대 혜택</font>
+  - 1 실버를 지불하고 민병대 버프를 받을 수 있습니다.
+  - 무법지대에서 민병대는 모두 아군입니다.
+  - 민병대 채팅을 이용할 수 있습니다.^,^!!^,^^,^3. <font color=''#e5c015''>Advantages to Joining</font>
+- Get the militia buff for just 1 silver.
+- All other militiamen in the badlands will be your allies.
+- Get access to militia cHat.^,^^,^^
+^help_infolink_militia_3^,^4. <font color="#e5c015">엑자란 민병대 탈퇴</font>
+  - 10골드를 지불하여 탈퇴할 수 있습니다.
+  - 소속된 길드 등급이 3 이상일 시, 자동 탈퇴됩니다.^,^!!^,^^,^4. <font color=''#e5c015''>Leaving the Militia</font>
+- Pay 10 gold to leave.
+- You'll be automatically removed when your guild reaches Rank 3.^,^^,^^
+^help_infolink_alliancepk^,^연합 전쟁^,^!!^,^^,^Alliance Wars^,^^,^^
+^help_infolink_alliancepk_tip^,^연합 전쟁^,^!!^,^^,^Alliance Wars^,^^,^^
+^help_infolink_alliancepk_0^,^1. <font color="#e5c015">연합 전쟁 선포 방법</font>
+  - 연합장은 다른 연합에게 연합 전쟁 신청을 할 수 있습니다.
+  - 연합 전쟁 신청 시 10 골드가 요구됩니다.^,^!!^,^^,^1. An alliance leader can pay 10 gold to declare war on another alliance.^,^^,^^
+^help_infolink_alliancepk_1^,^2. 전쟁 중인 연합에는 전쟁 선포를 할 수 없습니다.^,^!!^,^^,^2. You can only declare war on a single other alliance at a time.^,^^,^^
+^help_infolink_alliancepk_2^,^3. 전쟁 선포의 <font color="#e5c015">수락/거절 여부</font>는 서버 전체에 공지됩니다.^,^!!^,^^,^3. The entire server will see whether an alliance accepts or rejects a war.^,^^,^^
+^help_infolink_alliancepk_3^,^4. <font color="#e5c015">연합 전쟁 승리 조건</font>
+  - <font color="#e5c015">1000킬</font>을 먼저 달성한 경우
+  - 상대 연합의 <font color="#e5c015">항복</font>을 받아낸 경우^,^!!^,^^,^4. The first alliance to get 1,000 kills wins the war. Either side can also choose to surrender.^,^^,^^
+^help_infolink_alliancepk_4^,^5. <font color="#e5c015">전쟁 결과</font>는 서버 전체에 공지됩니다.^,^!!^,^^,^5. The results of the war will be shared with the entire server.^,^^,^^
+^help_infolink_alliancepk_5^,^6. <font color="#e5c015">연합 전쟁 현황 확인</font>
+  - 각 지역 큰 마을에 위치한 연합전쟁현황 NPC를 통해 전쟁 현황과 최근 전쟁결과를 확인할 수 있습니다.^,^!!^,^^,^6. You can check recent war results via the Alliance War Counsel NPCs in most big towns.^,^^,^^
+^help_title_system^,^시스템^,^システム^,^^,^System^,^^,^^
+^help_infolink_partyinvite^,^파티^,^パーティー^,^^,^Parties^,^^,^^
+^help_infolink_partyinvite_tip^,^파티 설명^,^パーティー説明^,^^,^Parties^,^^,^^
+^help_infolink_partyinvite_0^,^상대방 <font color="#e5c015">우 클릭 메뉴, /파티초대 ID 명령어, 파티 초대 액션 메뉴</font>로 파티에 초대할 수 있습니다.^,^相手<font color="e5c015">右クリックメニュー、/パーティー招待ID命令語、パーティー招待アクションメニュー</font>でパーティーに招待することができます。^,^^,^To invite someone to your party, right-click them or type !/partyinvite (username)!.^,^^,^^
+^help_infolink_partyinvite_1^,^1. 파티장은 전리품 분배 방식을 설정할 수 있습니다.^,^1. パーティーリーダーは戦利品分配方式が変更できます。^,^^,^1. The party leader sets how loot is distributed.^,^^,^^
+^help_infolink_partyinvite_2^,^2. 파티원의 정보는 상태 정보 하단에서 확인할 수 있습니다.^,^2. パーティーメンバーの情報は状態情報の下段から確認できます。^,^^,^2. See info about party members beneath your status info.^,^^,^^
+^help_infolink_partyinvite_3^,^3. 파티원의 수에 따라 획득 경험치량과 드랍율이 증가합니다.^,^!!^,^^,^3. The more people you have in your party, the higher the EXP and drop rates.^,^^,^^
+^help_infolink_tradeui^,^개인 거래^,^個人取引^,^^,^Trading^,^^,^^
+^help_infolink_tradeui_tip^,^개인 거래 설명^,^個人取引の説明^,^^,^Trading^,^^,^^
+^help_infolink_tradeui_0^,^상대방 <font color="#e5c015">우 클릭 메뉴</font> 또는 <font color="#e5c015">거래 신청 액션</font>을 통해 대상과 거래할 수 있습니다.^,^相手<font color="e5c015">右クリック メニュー、1:1取引申請アクションメニュー</font>から対象と取引することができます。^,^^,^Right-click another player then choose Trade to request a trade.^,^^,^^
+^help_infolink_tradeui_1^,^1. 자신의 아이템, 돈을 등록할 수 있습니다.^,^1. 自分のアイテム、マネーが登録できます。^,^^,^1. Add the items and money you want to trade.^,^^,^^
+^help_infolink_tradeui_2^,^2. 상대방의 아이템, 돈을 확인할 수 있습니다.^,^2. 相手のアイテム、マネーが確認できます。^,^^,^2. Confirm the items and money you're getting in return.^,^^,^^
+^help_infolink_channelui^,^채널 이동^,^チャンネル移動^,^^,^Channels^,^^,^^
+^help_infolink_channelui_tip^,^채널 이동 설명^,^チャンネル移動の説明^,^^,^Changing Channels^,^^,^^
+^help_infolink_channelui_0^,^한 지역에 다수의 유저가 몰릴 경우 한산한 채널로 이동하여, 원활한 플레이를 즐길 수 있습니다.^,^1つの地域に多数のユーザーが集まった場合、閑散したチャンネルに移動して円滑なプレイを楽しむことができます。^,^^,^If there are too many players in your channel, you can move to a less populated channel.^,^^,^^
+^help_infolink_portal^,^포탈 이동^,^ポータル移動^,^^,^Transit Shrines^,^^,^^
+^help_infolink_portal_tip^,^포탈 이동 설명^,^ポータル移動の説明^,^^,^Transit Shrines^,^^,^^
+^help_infolink_portal_0^,^1. <font color="#FFBB00">상급 포탈 이동장치</font>
+  - 상급 포탈이동장치는 지역별 최초 마을에 위치합니다.
+  - 상급 포탈이동장치는 다른 지역으로 이동이 가능합니다.
+    (지역 내 이동도 가능)
+  - 귀환석의 귀환위치로 지정할 수 있습니다.^,^1. <font color="FFBB00">上級ポータル移動装置</font>^,^^,^1. <font color=''#FFBB00''!World Shrines</font>
+- Located in the first quest hub of each region.
+- Allows you to travel between and within regions.
+- Can set as recall location for your recall stone.^,^^,^^
+^help_infolink_portal_1^,^2. <font color="#FFBB00">포탈 이동장치</font>
+  - 포탈이동장치는 주요 지역에 위치해있습니다.
+  - 포탈 이동장치는 지역 내 이동만 가능합니다.
+    (다른 지역으로 이동 불가)
+  - 귀환석의 귀환위치로 지정할 수 있습니다.^,^- 上級ポータル移動装置は最初地域にのみあります。^,^^,^2. <font color=''#FFBB00''!Transit Shrines</font>
+- Located in all important areas.
+- Can travel within the region only.
+- Can set as recall location for your recall stone.^,^^,^^
+^help_infolink_mail^,^우편^,^メール^,^^,^Mail^,^^,^^
+^help_infolink_mail_tip^,^우편 설명^,^メールの説明^,^^,^Mail^,^^,^^
+^help_infolink_mail_0^,^마을에 배치된 <font color="#e5c015">우편함</font>을 클릭하여 우편을 보내거나 받은 우편을 확인할 수 있습니다.^,^村に配置された<font color="e5c015">郵便ボックス</font>をクリックしてメールを送ったり受信したメールを確認することができます。^,^^,^Send and receive mail by clicking on mailBox in towns.^,^^,^^
+^help_infolink_auction^,^판매 대행^,^委託販売^,^^,^Auction^,^^,^^
+^help_infolink_auction_tip^,^판매 대행 설명^,^委託販売の説明^,^^,^Auction^,^^,^^
+^help_infolink_auction_0^,^각 지역 큰 마을에 배치된 <font color="#e5c015">거래중개인</font>을 통하여 판매 대행을 이용할 수 있습니다.^,^地域毎の大きい都市に配置された<font color="e5c015">委託販売管理人</font>と会話してアイテムを委託販売することができます。^,^^,^Talk to an auction broker in the main hub of each region to access the auction.^,^^,^^
+^help_infolink_auction_1^,^1. <font color="#e5c015">구매</font> : 다른 유저가 등록한 아이템을 구입할 수 있습니다.^,^1. <font color="e5c015">購入</font> : 他ユーザーが登録したアイテムを購入することができます。^,^^,^1. <font color=''#e5c015''>Buy:</font> Purchase items being sold by other players.^,^^,^^
+^help_infolink_auction_2^,^2. <font color="#e5c015">판매</font> : 다른 유저에게 판매할 수 있도록 등록합니다.^,^2. <font color="e5c015">販売</font> : 他ユーザーに販売できるように登録します。^,^^,^2. <font color=''#e5c015''>Sell:</font> Sell items to other players.^,^^,^^
+^help_infolink_auction_3^,^3. <font color="#e5c015">정산</font> : 판매된 자신의 아이템을 돈으로 정산받을 수 있습니다.^,^3. <font color="e5c015">清算</font> : 販売された自分のアイテムをマネーに清算してもらうことができます。^,^^,^3. <font color=''#e5c015''>Balance:</font> Collect money for items tHat sold.^,^^,^^
+^help_infolink_pcstorage^,^창고^,^倉庫^,^^,^Storage^,^^,^^
+^help_infolink_pcstorage_tip^,^창고 설명^,^倉庫の説明^,^^,^Storage^,^^,^^
+^help_infolink_pcstorage_0^,^마을에 배치된 <font color="#e5c015">창고지기</font>를 통해 창고를 이용할 수 있습니다.^,^村に配置された<font color="e5c015">倉庫管理人</font>と会話して自分のアイテムを保管することができます。^,^^,^Talk to storage masters at camps and towns to access your storage.^,^^,^^
+^help_infolink_pcstorage_1^,^잠긴 슬롯은 엘룬을 소비하여 확장할 수 있습니다.^,^いっぱいになったスロットは費用を払って拡張することができます。^,^^,^Unlock extra storage slots with elluns.^,^^,^^
+^help_infolink_collection^,^채집^,^採集^,^^,^GatheRing^,^^,^^
+^help_infolink_collection_tip^,^채집 설명^,^採集の説明^,^^,^GatheRing^,^^,^^
+^help_infolink_collection_0^,^1.월드 곳곳에 배치된 약초, 광석을 채칩할 수 있습니다.^,^1. 所ーに配置された薬草、鉱石を採集することができます。^,^^,^1. Herbs and ore can be gathered all around the world.^,^^,^^
+^help_infolink_collection_1^,^2. 채집한 재료는 <font color="#e5c015">제작</font>에 사용할 수 있습니다.^,^2. 採集した材料は<font color="e5c015">製作</font>に使用できます。^,^^,^2. Open the Crafting menu to see wHat you can craft with your gathered items.^,^^,^^
+^help_infolink_collection_2^,^3. 채집 시 <font color="#e5c015">숙련도</font>가 상승하며, 숙련도가 높을수록 고급 재료를 채집할 수 있습니다.^,^3. 採集時に<font color="e5c015">熟練度</font>が上昇し、熟練度が高いほどより多様な材料を採集することができます。^,^^,^3. As your gatheRing proficiency increases, you'll be able to gather better materials.^,^^,^^
+^help_infolink_partyboard^,^파티 게시판^,^パーティーマッチング^,^^,^Party Board^,^^,^^
+^help_infolink_partyboard_tip^,^파티 게시판 설명^,^パーティーマッチングの説明^,^^,^Party Board^,^^,^^
+^help_infolink_partyboard_0^,^<font color="#e5c015">T</font>키를 눌러 파티 게시판을 생성할 수 있습니다.^,^<font color="e5c015">T</font>キーを押すとパーティーマッチングが表示されます。^,^^,^Press <font color=''#e5c015''>[T]</font> to access the party board.^,^^,^^
+^help_infolink_partyboard_1^,^1. 파티 모집글을 레벨, 종류, 이름으로 검색할 수 있습니다.^,^1. パーティー募集メッセージをレベル、種類、名前で検索することができます。^,^^,^1. You can search for parties via level, type, and name.^,^^,^^
+^help_infolink_partyboard_2^,^2. 모집글을 클릭하여 파티에 지원할 수 있습니다.^,^2. 募集メッセージをクリックしてパーティーに志願することができます。^,^^,^2. Click a notice to join a party.^,^^,^^
+^help_infolink_partyboard_3^,^3. 게시물을 등록하여 파티원을 모집할 수 있습니다.^,^3. メッセージを登録してパーティーメンバーを募集することができます。^,^^,^3. Post a notice to search for members.^,^^,^^
+^help_infolink_partyauction^,^파티 경매^,^パーティーオークション^,^^,^Party Auction^,^^,^^
+^help_infolink_partyauction_tip^,^파티 경매 설명^,^パーティーオークションの説明^,^^,^Party Auction^,^^,^^
+^help_infolink_partyauction_0^,^파티에서 전리품 분배 규칙을 경매로 할 경우, 지정된 등급 이상의 아이템을 획득할 시, 파티원끼리 경매하여 획득할 수 있습니다.^,^パーティーで戦利品の分配ルールをオークションにする場合、指定された等級以上のアイテムを獲得するとパーティーメンバー同士でオークションで獲得することができます。^,^^,^When loot distribution is set to Auction and an item above the designated rarity drops, party members can bid against each other.^,^^,^^
+^help_infolink_partyauction_1^,^아이템이 낙찰될 경우, 낙찰자를 제외한 파티원 모두에게 낙찰금이 분배됩니다.^,^落札者が入札した金額は落札者を除いたパーティーメンバーの全員に分配されます。^,^^,^When someone wins an item, the amount they paid is equally distributed to the other party members.^,^^,^^
+^help_infolink_vitality^,^활력^,^活力^,^^,^Vitality^,^^,^^
+^help_infolink_vitality_tip^,^활력 시스템 설명^,^活力システムの説明^,^^,^Vitality^,^^,^^
+^help_infolink_vitality_0^,^1. <font color="#e5c015">활력</font>이란?
+  - 정상적인 플레이가 가능한 제한 시간입니다.
+  - 활력을 모두 소진하면 컨텐츠 이용에 제약을 받습니다.^,^<font color="e5c015">活力システム</font>^,^^,^1. WHat is <font color=''#e5c015''>vitality</font>?
+- It's a restriction on how long you can play the game normally.
+- When all vitality has been consumed, you will not be able to access certain content.^,^^,^^
+^help_infolink_vitality_1^,^2. <font color="#e5c015">활력 게이지</font>
+  - 1일 잔여 시간 : 12시간
+  - 주간 잔여 시간 : 35시간
+  - PC방 보너스 주간 잔여 시간 : 15시간^,^- 正常的なプレイができる時間が全部消耗されると多くの<font color="e5c015">制約</font>を受けるようになります。^,^^,^2. <font color=''#e5c015''>Vitality Gauge</font>
+- Daily: 12 hours
+- Weekly: 35 hours
+- PC Cafe Bonus Weekly: 15 hours^,^^,^^
+^help_infolink_vitality_2^,^3. <font color="#e5c015">활력 게이지 소모</font>
+  - 플레이 시간만큼 활력이 소모됩니다.
+  - <font color="#e5c015">마을</font> 및 <font color="#e5c015">인스턴스 던전 입구</font>에서는 소모되지 않습니다.^,^- ネットカフェで接続時、<font color="e5c015">ネットカフェボーナス活力ゲージが先に消耗され、以降は基本活力ゲージが消耗</font>されます。^,^^,^3. <font color=''#e5c015''>Vitality Gauge Consumption</font>
+- Vitality is consumed based on how long you've played.
+- Vitality is not consumed in <font color=''#e5c015''>towns</font> and at <font color=''#e5c015''>instance dungeon entrances</font>.^,^^,^^
+^help_infolink_vitality_3^,^4. <font color="#e5c015">활력 저하</font>
+  - 잔여 활력을 소진할 시 표시되는 디버프입니다.
+  - 활력 저하 상태에서는 이하의 컨텐츠 이용 제약을 받습니다.
+    * 캐릭터/펠로우 경험치 획득 불가
+    * 길드 포인트 획득 불가
+    * 아이템 루팅 불가
+    * 파티 불가
+    * 채집 불가
+    * 퀘스트 수락 및 완료 불가^,^1. <font color="e5c015">活力ゲージ</font>^,^^,^4. <font color=''#e5c015''>Low Vitality</font>
+- You will get a debuff when your vitality is gone:
+* No character/familiar EXP earned
+* No guild points earned
+* No looting items
+* No partying
+* No gatheRing materials
+* Unable to accept of complete quests^,^^,^^
+^help_infolink_vitality_4^,^5. <font color="#e5c015">활력 초기화</font>
+  - 1일 잔여 시간 : 매일 04시
+  - 주간 잔여 시간 : 매주 수요일 04시
+  - PC방 보너스 주간 잔여 시간 : 매주 수요일 04시^,^- 接続時に基本的に消耗される活力ゲージ^,^^,^5. <font color=''#e5c015''>Vitality Resets</font>
+- Daily: 4am each day
+- Weekly: 4am every Wednesday
+- PC Cafe Bonus Weekly: 4am every Wednesday^,^^,^^
+^help_infolink_vitality_5^,^6. <font color="#e5c015">활력 상자</font>
+  - 매일 최초 접속 시 활력 버프를 부여 받습니다.
+  - 활력 버프가 종료될 시 활력 상자를 지급 받습니다.
+  - 활력 상자는 가방에 최대 3개까지 소지 가능합니다.^,^- 1日活力時間 : 12時間^,^^,^6. <font color=''#e5c015''>Vitality Box</font>
+- Get a vitality buff every day upon initial login.
+- Get a vitality box when vitality buff ends.
+- You can have up to 3 vitality Box in your inventory.^,^^,^^
+^help_infolink_uiediting^,^UI 위치 편집^,^!!^,^^,^Customizing UI^,^^,^^
+^help_infolink_uiediting_tip^,^UI 위치 편집^,^!!^,^^,^Customizing UI^,^^,^^
+^help_infolink_uiediting_0^,^1. <font color="#e5c015">UI 위치 편집 이용 방법</font>
+  - 게임메뉴 - 시스템 - UI 위치 편집^,^!!^,^^,^1. Go to Main Menu > System > Customize UI to edit your UI.^,^^,^^
+^help_infolink_uiediting_1^,^2. <font color="#e5c015">UI 위치 편집</font>
+  - UI 영역을 드래그하여 원하는 위치에 배치합니다.^,^!!^,^^,^2. Drag your windows to where you'd like them to be.^,^^,^^
+^help_infolink_uiediting_2^,^3. <font color="#e5c015">UI 편집 모드 진입 시 기능</font> 
+  - <font color="#e5c015">초기화</font> : UI 위치를 기본 배치 상태로 초기화합니다.
+  - <font color="#e5c015">적용</font> : 편집된 UI 위치를 적용 시킵니다.
+  - <font color="#e5c015">취소</font> : 편집을 중단하고, UI 배치 상태를 되돌립니다.^,^!!^,^^,^3. Customization Options:
+- <font color=''#e5c015''>Reset:</font> Resets to default
+- <font color=''#e5c015''>Apply:</font> Applies edited UI
+- <font color=''#e5c015''>Cancel:</font> Cancels changes^,^^,^^
+^help_title_production^,^제작^,^製作^,^^,^Crafting^,^^,^^
+^help_infolink_productionhow^,^제작 방법^,^!!^,^^,^Basics^,^^,^^
+^help_infolink_productionhow_tip^,^제작 방법^,^!!^,^^,^Basics^,^^,^^
+^help_infolink_productionhow_0^,^<font color="#e5c015">아이템 제작 방법</font>
+  - 제작하려는 종류에 맞는 제작 설비에 <font color="#e5c015">F</font>키를 누릅니다.
+  - 제작하려는 아이템의 제조법에 맞게 재료를 준비합니다.
+  - 제작 버튼을 눌러 아이템을 제작합니다.^,^!!^,^^,^<font color=''#e5c015''>How To Craft Items</font>
+- Press <font color=''#e5c015''>[F]</font> near the appropriate crafting station.
+- Make sure you have all the materials to make the item.
+- Press the Craft button to craft the item.^,^^,^^
+^help_infolink_productionhow_1^,^1. <font color="#e5c015">제작 종류</font>
+  - 아이템 제작 종류입니다.
+  - 총 6가지로 무기, 방어구, 장신구, 펠로우 연구, 연금술, 요리가 있습니다.^,^!!^,^^,^1. <font color=''#e5c015''>Crafting Categories</font>
+- There are 6 crafting categories: weapons, Armor, Jewelry, familiar research, alchemy, and cooking.^,^^,^^
+^help_infolink_productionhow_2^,^2. <font color="#e5c015">제조법 목록</font>
+  - 습득한 제조법 목록입니다.
+  - <font color="#e5c015">제작 가능 목록 보기</font>를 체크하여 제작 가능한 항목만 볼 수 있습니다.^,^!!^,^^,^2. <font color=''#e5c015''>Recipe List</font>
+- The list of recipes you've learned.
+- Check the checkbox at the bottom to see only recipes you have materials for.^,^^,^^
+^help_infolink_productionhow_3^,^3. <font color="#e5c015">요구 제작 재료 정보</font>
+  - 제작 아이템에 요구되는 재료 아이템의 정보입니다.^,^!!^,^^,^3. <font color=''#e5c015''>Required Materials</font>
+- Shows the materials you need to craft the item.^,^^,^^
+^help_infolink_productionhow_4^,^4. <font color="#e5c015">제작</font>
+  - 수량을 조절하여 제작할 수 있습니다.
+  - 모두 제작 버튼을 클릭 시 제작가능 최대수량으로 제작합니다.
+  - 일반 재료를 2배 사용하여 대성공 확률을 높일 수 있습니다.^,^!!^,^^,^4. <font color=''#e5c015''>Craft</font>
+- Type in a number, then press Craft.
+- The Craft All button crafts as many of the item as you have materials for.
+- Use double the listed materials to increase your chance of a triumphant success.^,^^,^^
+^help_infolink_productionitem^,^제작 아이템^,^!!^,^^,^Craftable Items^,^^,^^
+^help_infolink_productionitem_tip^,^제작 아이템^,^!!^,^^,^Craftable Items^,^^,^^
+^help_infolink_productionitem_0^,^제작 분야 별로 제작할 수 있는 아이템은 이하와 같습니다.^,^!!^,^^,^Here's a list of the types of items tHat can be crafted.^,^^,^^
+^help_infolink_productionitem_1^,^1. <font color="#e5c015">무기 제작</font>
+  - 무기 제작 재료
+  - 클래스 무기
+  - 탑승 무기(석궁, 창)^,^!!^,^^,^1. <font color=''#e5c015''>Weapon Crafting</font>
+- Weapon crafting materials
+- Class weapons
+- Mounted weapons (Crossbows, spears)^,^^,^^
+^help_infolink_productionitem_2^,^2. <font color="#e5c015">방어구 제작</font>
+  - 방어구 제작 재료
+  - 클래스 방어구
+  - 보조 장비^,^!!^,^^,^2. <font color=''#e5c015''>Armor Crafting</font>
+- Armor crafting materials
+- Class Armor
+- Off-hand gear^,^^,^^
+^help_infolink_productionitem_3^,^3. <font color="#e5c015">장신구 제작</font>
+  - 장신구 제작 재료
+  - 반지
+  - 목걸이
+  - 보석^,^!!^,^^,^3. <font color=''#e5c015''>Jewelry Crafting</font>
+- Jewelry crafting materials
+- Rings
+- Necklaces
+- Gems^,^^,^^
+^help_infolink_productionitem_4^,^4. <font color="#e5c015">펠로우 연구</font>
+  - 펠로우 연구 재료
+  - 펠로우 장비
+  - 길들이기 징표^,^!!^,^^,^4. <font color=''#e5c015''>Familiar Research</font>
+- Familiar research materials
+- Familiar Equipment
+- Marks for taming^,^^,^^
+^help_infolink_productionitem_5^,^5. <font color="#e5c015">연금술</font>
+  - 생명력 회복 비약
+  - 마나 회복 비약
+  - 기력 회복 비약
+  - 능력치 강화 비약
+  - 붕대
+  - 기타 소모성 아이템^,^!!^,^^,^5. <font color=''#e5c015''>Alchemy</font>
+- Health elixirs
+- Mana elixirs
+- Stamina elixirs
+- Attributes elixirs
+- Bandages
+- Other consumables^,^^,^^
+^help_infolink_productionitem_6^,^6. <font color="#e5c015">요리</font>
+  - 생명력 회복 요리
+  - 마나 회복 요리^,^!!^,^^,^6. <font color=''#e5c015''>Cooking</font>
+- Health recovery food
+- Mana recovery food^,^^,^^
+^help_infolink_productiongrade^,^제작 단계 승급^,^!!^,^^,^Crafting Levels^,^^,^^
+^help_infolink_productiongrade_tip^,^제작 단계 승급^,^!!^,^^,^Crafting Levels^,^^,^^
+^help_infolink_productiongrade_0^,^1. <font color="#e5c015">제작 단계 승급 방법</font>
+  - 각 제작 기술자를 통해 기술 단계 올리기가 가능합니다.
+  - 제작 기술자들은 큰 마을에 위치해 있습니다.^,^!!^,^^,^1. <font color=''#e5c015''>Leveling Up Crafting</font>
+- Talk to a crafter to raise your level.
+- You can find crafters in most big towns.^,^^,^^
+^help_infolink_productiongrade_1^,^2. <font color="#e5c015">제작 단계 승급 조건</font>
+  - 현재 단계에서 2개 이상의 마스터 아이템이 필요합니다.
+  - 제작 숙련도는 아이템 제조 시, 확률적으로 증가합니다.^,^!!^,^^,^2. <font color=''#e5c015''>Prerequisites</font>
+- Must craft at least 2 master items from current level.
+- Crafting proficiency increases by crafting items.^,^^,^^
+^help_infolink_productionperfect^,^제작 대성공^,^!!^,^^,^Triumphant Crafting^,^^,^^
+^help_infolink_productionperfect_tip^,^제작 대성공^,^!!^,^^,^Triumphant Crafting^,^^,^^
+^help_infolink_productionperfect_0^,^1. <font color="#e5c015">제작 대성공</font>이란?
+  - 아이템을 제작할 시 일정확률로 대성공이 발생합니다.
+  - 대성공을 하면 수량이 증가하거나, 품질이 상승합니다.^,^!!^,^^,^1. <font color=''#e5c015''>WHat Is Triumphant Crafting?</font>
+- You'll get extra or higher quality items occasionally while crafting.
+- Has a chance to occur whenever you craft.^,^^,^^
+^help_infolink_productionperfect_1^,^2. <font color="#e5c015">제작 대성공 확률 증가</font>
+  - 아이템의 제작 숙련도가 높을수록 확률이 증가합니다.
+  - 일반 재료 2배 사용 시 확률이 증가합니다.^,^!!^,^^,^2. <font color=''#e5c015''>Increasing Triumphant Crafting Chance</font>
+- The higher your proficiency, the higher your chance.
+- Use double the required materials to increase your chance.^,^^,^^
+^help_infolink_productionweapon^,^무기 제작^,^武器^,^^,^Craft Weapon^,^^,^^
+^help_infolink_productionweapon_tip^,^무기 제작^,^武器の製作^,^^,^Craft Weapon^,^^,^^
+^help_infolink_productionweapon_0^,^무기 제작을 위해서는 <font color="#e5c015">무기 제작대</font>가 필요합니다.^,^<font color="e5c015">1. 武器製作を学ぶとクラス別に武器を製作することができます。</font>
+  - 製作は武器製作旋盤の近所で製作できます。
+  - 材料商人、採集、狩りを通して武器製作材料を獲得することができます。^,^^,^You must be near a <font color=''#e5c015''>Weapon Anvil</font> to craft weapons.^,^^,^^
+^help_infolink_productionweapon_1^,^<font color="#e5c015">대성공의 효과</font>는 제작 아이템 종류에 따라 이하와 같습니다.
+  - 장비 아이템 : 품질 상승
+  - 재료 아이템 : 수량 증가^,^ゲームメニューで図鑑をクリックしたり、または<font color="e5c015">B</font>キーで開くことができます。^,^^,^<font color=''#e5c015''>Triumphant Successes Grant:</font>
+- Equipment: better quality
+- Materials: higher quantity^,^^,^^
+^help_infolink_productionArmor^,^방어구 제작^,^防具^,^^,^Craft Armor^,^^,^^
+^help_infolink_productionArmor_tip^,^방어구 제작^,^防具の製作^,^^,^Craft Armor^,^^,^^
+^help_infolink_productionArmor_0^,^방어구 제작을 위해서는 <font color="#e5c015">방어구 제작대</font>가 필요합니다.^,^<font color="e5c015">1. 防具製作を学ぶとクラス別に防具、補助装備を製作することができます。</font>
+  - 製作は防具製作旋盤の近所で製作できます。
+  - 材料商人、採集、狩りを通して防具製作材料を獲得することができます。^,^^,^You must be near a <font color=''#e5c015''>Armor Anvil</font> to craft Armor.^,^^,^^
+^help_infolink_productionArmor_1^,^<font color="#e5c015">대성공의 효과</font>는 제작 아이템 종류에 따라 이하와 같습니다.
+  - 장비 아이템 : 품질 상승
+  - 재료 아이템 : 수량 증가^,^1. 保管ボックスに登録されたフェローをダブルクリック、右クリックしたり、または<font color="e5c015">U</font>キーを押して召喚/解除できます。^,^^,^<font color=''#e5c015''>Triumphant Successes Grant:</font>
+- Equipment: better quality
+- Materials: higher quantity^,^^,^^
+^help_infolink_productionfellow^,^펠로우 연구^,^フェロー研究^,^^,^Familiar Research^,^^,^^
+^help_infolink_productionfellow_tip^,^펠로우 연구^,^フェローの研究^,^^,^Familiar Research^,^^,^^
+^help_infolink_productionfellow_0^,^펠로우 연구를 위해서는 <font color="#e5c015">펠로우 연구대</font>가 필요합니다.^,^<font color="e5c015">1. フェロー研究を学ぶとフェロー装備及び関連アイテムを製作することができます。</font>
+  - 製作はフェロー研究台の近所で製作できます。
+  - 材料商人、採集、狩りでフェロー研究材料を獲得することができます。^,^^,^You must be near a <font color=''#e5c015''>Research Bench</font>.^,^^,^^
+^help_infolink_productionfellow_1^,^<font color="#e5c015">대성공의 효과</font>는 제작 아이템 종류에 따라 이하와 같습니다.
+  - 펠로우 장비 : 대성공 없음
+  - 펠로우 징표 : 수량 증가
+  - 재료 아이템 : 수량 증가^,^捕獲できるモンスターの中で捕獲したいモンスターを選択し、<font color="e5c015">捕獲スキル</font>を使用します。^,^^,^<font color=''#e5c015''>Triumphant Successes Grant:</font>
+- Familiar Equipment: n/a
+- Familiar Marks: higher quantity
+- Materials: higher quantity^,^^,^^
+^help_infolink_productionfood^,^요리^,^料理^,^^,^Cooking^,^^,^^
+^help_infolink_productionfood_tip^,^요리 제작^,^料理の製作^,^^,^Cooking^,^^,^^
+^help_infolink_productionfood_0^,^요리 제작을 위해서는 <font color="#e5c015">조리기구</font>가 필요합니다.^,^<font color="e5c015">1. 料理を学ぶと食べ物が製作できます。</font>
+  - 製作は調理器具の近所で製作できます。
+  - 材料商人、採集、狩りを通して獲得することができます。^,^^,^You must be near a <font color=''#e5c015''>Cook Station</font> to cook.^,^^,^^
+^help_infolink_productionfood_1^,^<font color="#e5c015">일정 단계 이상의 요리는 특수한 효과가 있습니다.</font>
+  - 능력치 상승 버프
+  - <font color="#e5c015">불사의 사막</font> 지역 디버프 저항^,^<font color="e5c015">2. 熟練度が増加すると次の段階に昇級できます。</font>
+  - 昇級するためには各段階別に熟練度2つをマスターする必要があります。
+  - 熟練度が高いほど大成功の確率が増加します。
+  - 大成功すると結果物の品質が良くなります。^,^^,^<font color=''#e5c015''>Foods above a certain level grant special effects.</font>
+- Attribute buffs
+- Debuff resistance in the <font color=''#e5c015''>Cloying Wastes</font>^,^^,^^
+^help_infolink_productionfood_2^,^<font color="#e5c015">대성공의 효과</font>는 제작 아이템 종류에 따라 이하와 같습니다.
+  -  요리 아이템 : 수량 증가^,^ペット^,^^,^<font color=''#e5c015''>Triumphant Successes Grant:</font>
+- Food: higher quantity^,^^,^^
+^help_infolink_productionpotion^,^연금술^,^錬金術^,^^,^Alchemy^,^^,^^
+^help_infolink_productionpotion_tip^,^물약 제작^,^ポーションの製作^,^^,^Alchemy^,^^,^^
+^help_infolink_productionpotion_0^,^연금술을 위해서는 <font color="#e5c015">실험기구</font>가 필요합니다.^,^<font color="e5c015">1. 錬金術を学ぶとポーションを製作することができます。</font>
+  - 製作は実験器具の近所で製作できます。
+  - 材料商人、採集、狩りを通して錬金術の材料を獲得することができます。^,^^,^You must be near an <font color=''#e5c015''>Alchemy Lab</font>.^,^^,^^
+^help_infolink_productionpotion_1^,^연금술로 제조한 비약은 일반 물약보다 효과가 뛰어납니다.^,^フェローアイテム^,^^,^Elixirs crafted via alchemy are more potent than regular potions.^,^^,^^
+^help_infolink_productionpotion_2^,^<font color="#e5c015">대성공의 효과</font>는 제작 아이템 종류에 따라 이하와 같습니다.
+  - 소모 아이템 : 수량 증가
+  - 재료 아이템 : 수량 증가^,^フェローアイテム^,^^,^<font color=''#e5c015''>Triumphant Successes Grant:</font>
+- Consumables: higher quantity
+- Materials: higher quantity^,^^,^^
+^help_infolink_productionaccessory^,^장신구 제작^,^装身具^,^^,^Craft Jewelry^,^^,^^
+^help_infolink_productionaccessory_tip^,^장신구 제작^,^装身具の製作^,^^,^Craft Jewelry^,^^,^^
+^help_infolink_productionaccessory_0^,^장신구 제작을 위해서는 <font color="#e5c015">장신구 제작대</font>가 필요합니다.^,^<font color="e5c015">1. 装身具製作を学ぶとリング、ネックレスが製作できます。</font>
+  - 製作は装身具製作旋盤の近所で製作できます。
+  - 材料商人、採集、狩りを通して錬金材料を獲得することができます。^,^^,^You must be near a <font color=''#e5c015''>Jewelry Table</font>.^,^^,^^
+^help_infolink_productionaccessory_1^,^<font color="#e5c015">대성공의 효과</font>는 제작 아이템 종류에 따라 이하와 같습니다.
+  - 장비 아이템 : 품질 상승
+  - 보석 아이템 : 수량 증가
+  - 재료 아이템 : 수량 증가^,^フェロー封印^,^^,^<font color=''#e5c015''>Triumphant Successes Grant:</font>
+- Equipment: better quality
+- Gems: higher quantity
+- Materials: higher quantity^,^^,^^
+^help_title_fellow^,^펠로우^,^フェロー^,^^,^Familiars^,^^,^^
+^help_infolink_fellowui^,^펠로우 정보창^,^フェロー情報ページ^,^^,^Familiar Info^,^^,^^
+^help_infolink_fellowui_tip^,^펠로우 정보창^,^フェロー情報ページ^,^^,^Familiar Info^,^^,^^
+^help_infolink_fellowui_0^,^게임 메뉴에서 펠로우를 클릭하거나, <font color="#e5c015">Y</font>키로 열 수 있습니다.^,^ゲームメニューでフェローをクリックしたり、または<font color="e5c015">Y</font>キーで開くことができます。^,^^,^Press <font color=''#e5c015''>[Y]</font> or use the Familiar menu to open your Familiar window.^,^^,^^
+^help_infolink_fellowui_1^,^1. <font color="#e5c015">펠로우 정보</font> : 스킬, 아이템, 능력치를 확인할 수 있습니다.^,^1. <font color="e5c015">フェロー情報</font> : スキル、アイテム、能力値が確認できます。^,^^,^1. <font color=''#e5c015''>Familiar Details:</font> Stats, items, skills.^,^^,^^
+^help_infolink_fellowui_2^,^2. <font color="#e5c015">펠로우 보관함</font> : 보유 중인 펠로우를 확인할 수 있습니다.^,^2. <font color="e5c015">フェローインベントリ</font> : 選択してフェローに騎乗/解除することができます。^,^^,^2. <font color=''#e5c015''>Familiar Storage:</font> Your currently collected familiars.^,^^,^^
+^help_infolink_fellowui_3^,^3. <font color="#e5c016">정보창 최소화</font> : 정보창을 간소화할 수 있습니다.^,^!!^,^^,^3. <font color=''#e5c015''>Temper:</font> Temper your familiars.^,^^,^^
+^help_infolink_fellowui_4^,^4. <font color="#e5c017">펠로우 강화</font> : 펠로우를 강화할 수 있습니다.^,^!!^,^^,^4. <font color=''#e5c018''>Change Name:</font> Change the names of your familiars. This costs elluns.^,^^,^^
+^help_infolink_fellowui_5^,^5. <font color="#e5c018">펠로우 이름 변경</font> : 펠로우의 이름을 바꿀 수 있습니다.
+  - 펠로우 이름 변경 시, 엘룬이 소모됩니다.^,^!!^,^^,^5. <font color=''#e5c019''>Summon:</font> Summon or unsummon the selected familiar. You can also press <font color=''#e5c015''>[U]</font>.^,^^,^^
+^help_infolink_fellowui_6^,^6. <font color="#e5c019">펠로우 소환/해제</font> : 선택된 펠로우를 탑승/해제할 수 있습니다.
+  - <font color="#e5c015">U</font>키를 눌러 쉽게 소환/해제 할 수 있습니다.^,^!!^,^^,^6. <font color=''#e5c020'">Release Familiar:</font> Release the selected familiar. You'll pay a fee.^,^^,^^
+^help_infolink_fellowui_7^,^7. <font color="#e5c020">펠로우 놓아주기</font> : 선택한 펠로우를 놓아줍니다.
+  - 펠로우를 놓아줄 시 일정 비용이 요구됩니다.^,^!!^,^^,^7. <font color=''#e5c020''>Release Familiar:</font> Release the selected familiar. You'll pay a fee.^,^^,^^
+^help_infolink_fellowui_8^,^8. <font color="#e5c020">자동 습득 설정</font> : 자동 습득 시 펠로우가 획득하는 아이템의 등급 및 주사위 자동 굴리기 여부를 설정 합니다.^,^2. ペットは主の命令に従って一緒に敵を攻撃します。^,^^,^8. <font color="#e5c020"> Auto Loot Settings </font>: Sets the grade of the items tHat the Familiar acquire duRing Auto Loot mode and whether the dice roll automatically or not.^,^^,^^
+^help_infolink_fellowui_9^,^9. <font color="#e5c020">펠로우 진화</font> : 펠로우 진화창을 호출 합니다.^,^フェローアイテム^,^^,^9. <font color="#e5c020"> Familiar Evolution </font>: Opens the Familiar Evolution window.^,^^,^^
+^help_infolink_fellowui_10^,^10. <font color="#e5c020">펠로우 합성</font> : 펠로우 합성창을 호출 합니다.^,^フェローアイテム^,^^,^10. <font color="#e5c020"> Unity </font>: Opens the Familiar Synthesis window.^,^^,^^
+^help_infolink_fellowbook^,^펠로우 콜렉션^,^フェロー図鑑^,^^,^Bestiary^,^^,^^
+^help_infolink_fellowbook_tip^,^펠로우 콜렉션^,^フェロー図鑑^,^^,^Bestiary^,^^,^^
+^help_infolink_fellowbook_0^,^게임 메뉴에 <font color="#e5c015">펠로우 콜렉션</font> 또는 <font color="#e5c015">B</font>키를 통해 열 수 있습니다.^,^ゲームメニューで図鑑をクリックしたり、または<font color="e5c015">B</font>キーで開くことができます。^,^^,^Press <font color=''#e5c015''>[B]</font> or use the Familiar menu to open your Bestiary.^,^^,^^
+^help_infolink_fellowbook_1^,^1. <font color="#e5c015">지역 콜렉션</font>
+  - 지역 내 펠로우를 수집하는 콜렉션입니다.
+  - 콜렉션을 완성하면 펠로우, 칭호 등의 보상을 획득합니다.^,^1つ以上の図鑑を獲得した後に使用すると開くことができます。^,^^,^Obtained familiars are automatically added to your Bestiary. Familiars from seal stones do not count.^,^^,^^
+^help_infolink_fellowbook_2^,^2. <font color="#e5c015">스페셜 콜렉션</font>
+  - 특별한 펠로우의 조합을 수집하는 콜렉션입니다.
+  - 콜렉션을 완성하면 다양한 보상을 획득할 수 있습니다.^,^フェロー召喚/解除^,^^,^1. <font color=''#e5c015''>Region Collection</font>
+- Collect familiars by region to get titles and rewards.^,^^,^^
+^help_infolink_fellowbook_3^,^3. <font color="#e5c015">펠로우 도감</font>
+  - 도감을 통해 펠로우의 상세 정보를 확인할 수 있습니다.
+  - 콜렉션 항목 중 도감 표시가 있는 펠로우를 클릭하여 도감을 확인할 수 있습니다.^,^フェロー召喚/解除^,^^,^2. <font color=''#e5c015''>Special Collection</font>
+- Collect special combinations of familiars to get titles and rewards.^,^^,^^
+^help_infolink_fellowbook_4^,^^,^^,^^,^3. <font color=''#e5c015''>Bestiary</font>
+- Contains detailed info about familiars.
+- To open the book, click familiars with bookmark icons.^,^^,^^
+^help_infolink_fellowsummon^,^펠로우 소환/해제^,^フェロー召喚/解除^,^^,^Summoning Familiars^,^^,^^
+^help_infolink_fellowsummon_tip^,^펠로우 소환/해제^,^フェロー召喚/解除^,^^,^Summoning Familiars^,^^,^^
+^help_infolink_fellowsummon_0^,^1. 보관함에 등록된 펠로우를 더블 클릭, 우 클릭하거나 <font color="#e5c015">U</font>키를 눌러 소환/해제할 수 있습니다.^,^1. 保管ボックスに登録されたフェローをダブルクリック、右クリックしたり、または<font color="e5c015">U</font>キーを押して召喚/解除できます。^,^^,^1. Double-click, right-click, or press <font color=''#e5c015''>[U]</font> to summon the selected familiar from your storage.^,^^,^^
+^help_infolink_fellowsummon_1^,^2. 우측 상단에 <font color="#e5c015">최소화 버튼</font>을 눌러 보관함을 간편하게 퀵 슬롯처럼 사용할 수 있습니다.^,^2. 右上の<font color="e5c015">最小化ボタン</font>を押して保管ボックスをより簡単にクィック スロットのように使用することができます。^,^^,^2. Press the <font color=''#e5c015''>minimize</font> icon on the top right to switch the storage to quickslots.^,^^,^^
+^help_infolink_fellowboard^,^펠로우 길들이기^,^フェロー捕獲^,^^,^Taming^,^^,^^
+^help_infolink_fellowboard_tip^,^펠로우 길들이기^,^フェロー捕獲^,^^,^Taming^,^^,^^
+^help_infolink_fellowboard_0^,^길들이기가 가능한 몬스터 중 길들이고 싶은 몬스터를 선택하여, <font color="#e5c015">길들이기 스킬</font>을 사용합니다.^,^捕獲できるモンスターの中で捕獲したいモンスターを選択し、<font color="e5c015">捕獲スキル</font>を使用します。^,^^,^Target a tameable monster, then use the Taming skill.^,^^,^^
+^help_infolink_fellowboard_1^,^몬스터 뒤쪽으로 몬스터가 인지하지 못하게 조심히 다가가 <font color="#e5c015">점프</font>하여 올라 탑니다.^,^モンスターの後ろの方にモンスターが認知できないようにひっそりと近づいて<font color="e5c015">ジャンプ</font>して乗り込みます。^,^^,^Sneak up to the monster from behind, then <font color=''#e5c015''>jump</font> onto its back.^,^^,^^
+^help_infolink_fellowboard_2^,^1. <font color="#e5c015">몬스터 상태</font>에 따라 적절한 키를 입력해야 합니다.^,^1. <font color="e5c015">モンスター状態</font>によって適切なキーを入力してください。^,^^,^1. Press the correct key when it lights up.^,^^,^^
+^help_infolink_fellowboard_3^,^2. <font color="#e5c015">성공/실패 게이지</font>로 진행 상태를 확인할 수 있습니다.^,^2. <font color="e5c015">成功/失敗ゲージ</font>で進行状態が確認できます。^,^^,^2. You can see your progress on the gauge.^,^^,^^
+^help_infolink_fellowboard_4^,^3. 캐릭터의 레벨에 비해 펠로우의 레벨이 높을수록 <font color="#e5c015">길들일 수 있는 확률</font>이 점점 낮아집니다.^,^3. キャラクターのレベルよりフェローのレベルが高いほど<font color="e5c015">捕獲できる確率</font>が低くなります。^,^^,^3. If the monster is higher level than you, it has a higher chance of getting away.^,^^,^^
+^help_infolink_fellowwithme^,^펫 변형^,^ペット^,^^,^Pets^,^^,^^
+^help_infolink_fellowwithme_tip^,^펫 변형^,^ペット^,^^,^Pets^,^^,^^
+^help_infolink_fellowwithme_0^,^1. 펠로우를 펫으로 변경 시킬 수 있는 <font color="#e5c015">펫 주문서</font>는 사냥을 통해 획득 할 수 있습니다.^,^1. フェローをペットに変更できる<font color="e5c015">ペット呪文書</font>は狩りを通して獲得できます。^,^^,^1. You can obtain <font color=''#e5c015''>pet scrolls</font> while hunting. These change familiars into pets.^,^^,^^
+^help_infolink_fellowwithme_1^,^2. 펫은 주인의 명령에 따라 함께 적을 공격합니다.^,^2. ペットは主の命令に従って一緒に敵を攻撃します。^,^^,^2. Pets attack enemies at your command.^,^^,^^
+^help_infolink_fellowitem^,^펠로우 아이템^,^フェローアイテム^,^^,^Familiar Items^,^^,^^
+^help_infolink_fellowitem_tip^,^펠로우 아이템^,^フェローアイテム^,^^,^Familiar Items^,^^,^^
+^help_infolink_fellowitem_0^,^펠로우의 기본 능력치를 추가적으로 상승 시킬 수 있습니다.^,^フェローの基本能力値を追加的に上昇させることができます。^,^^,^Items increase a familiar's stats.^,^^,^^
+^help_infolink_fellowitem_1^,^1. <font color="#e5c015">종류</font> : 안장, 목걸이, 영혼석^,^1. <font color="e5c015">種類</font> : 鞍、ネックレス、ソウルストーン^,^^,^1. <font color=''#e5c015''>Types:</font> saddle, Necklace, soul stone^,^^,^^
+^help_infolink_fellowitem_2^,^2. <font color="#e5c015">능력치</font> : 기력 상승을 기본으로, 등급에 따라 옵션 부여^,^2. <font color="e5c015">能力値</font> : 気力上昇をを基本に等級によってオプションを付与^,^^,^2. <font color=''#e5c015''>Stats:</font> stamina increases by default; better items may grant other stats^,^^,^^
+^help_infolink_fellowseal^,^펠로우 봉인^,^フェロー封印^,^^,^Sealing^,^^,^^
+^help_infolink_fellowseal_tip^,^펠로우 봉인^,^フェロー封印^,^^,^Sealing^,^^,^^
+^help_infolink_fellowseal_0^,^1. 잡화 상점 또는 드랍으로 획득하는 <font color="#e5c015">펠로우 봉인석</font>을 이용하여 펠로우를 봉인할 수 있습니다.^,^1. 雑貨商店もしくはドロップで獲得できる<font color="e5c015">フェロー封印石</font>を利用してフェローを封印することができます。^,^^,^1. Use a seal stone from shops or drops to seal a familiar.^,^^,^^
+^help_infolink_fellowseal_1^,^2. 봉인된 펠로우는 다음과 같은 용도로 사용할 수 있습니다.^,^2. 封印されたフェローは次のような用途で使用できます。^,^^,^2. Sealed familiars can be used in a couple of ways.^,^^,^^
+^help_infolink_fellowseal_2^,^  - 장비 슬롯에 드래그로 장착하여 <font color="#e5c015">옵션 추가</font>^,^- 装備スロットにドラッグして装着し<font color="e5c015">オプション追加</font>^,^^,^- Drag to Equipment for bonus attributes.^,^^,^^
+^help_infolink_fellowseal_3^,^  - <font color="#e5c015">특성력으로 전환</font>하여, 특성 장착^,^- <font color="e5c015">特性力に転換</font>して特性装着^,^^,^- Convert to talent power to equip talents.^,^^,^^
+^help_infolink_fellowcompose^,^펠로우 성장^,^フェロー成長^,^^,^Leveling Up^,^^,^^
+^help_infolink_fellowcompose_tip^,^펠로우 성장^,^フェロー成長^,^^,^Leveling Up^,^^,^^
+^help_infolink_fellowcompose_0^,^1. <font color="#e5c015">펠로우 경험치 획득 방법</font>
+  - 펠로우를 소환해놓을 경우
+  - 펠로우와 함께 전투에 참가할 경우^,^フェローを召喚しておいたり一緒に戦闘をすると<font color="e5c015">レベルが上昇</font>できます。^,^^,^1. <font color=''#e5c015''>How Familiars Gain EXP</font>
+- By being summoned
+- By winning battles with you^,^^,^^
+^help_infolink_fellowcompose_1^,^2. <font color="#e5c015">펠로우 성장 시 혜택</font>
+  - 펠로우의 전체적인 능력치가 상승합니다.
+  - 펠로우가 새로운 스킬을 습득할 수 있습니다.
+  - 펠로우가 습득한 스킬의 레벨이 증가할 수 있습니다.
+  - 펠로우의 생명력과 기력이 회복됩니다.^,^フェローが成長すると<font color="e5c015">能力値上昇</font>と<font color="e5c015">新しいスキルを習得</font>することができます。^,^^,^2. <font color=''#e5c015''>Benefits to Leveling Up</font>
+- Overall stats increase
+- New skills
+- Skills level up
+- Restores health and stamina upon level up^,^^,^^
+^help_infolink_fellowtrust^,^펠로우 위탁^,^地上騎乗戦闘^,^^,^Familiar FosteRing^,^^,^^
+^help_infolink_fellowtrust_tip^,^펠로우 위탁^,^地上騎乗戦闘^,^^,^Familiar FosteRing^,^^,^^
+^help_infolink_fellowtrust_0^,^펠로우 위탁은 큰 마을에 위치한 <font color="#e5c015">야수 조련사</font>를 통해 이용할 수 있습니다.^,^フェローに騎乗して騎乗戦闘ができます。^,^^,^Talk to the <font color=''#e5c015''>beast trainer</font> in major towns to foster familiars.^,^^,^^
+^help_infolink_fellowtrust_1^,^1. 위탁을 통해 펠로우가 소환되지 않아도 성장 시킬 수 있습니다.
+2. 위탁에 맡겨진 펠로우는 되찾기 전까지 소환할 수 없습니다.
+3. 위탁 상태의 펠로우를 되찾을 때 일정 비용을 지불해야 합니다.^,^1. <font color="e5c015">騎乗武器</font> : ボーガンまたは槍が使用できます。^,^^,^1. You can level up unsummoned familiars via fosteRing.
+2. You cannot summon a fostered familiar until you get it back.
+3. You'll be charged a fosteRing fee when you pick up your familiar.^,^^,^^
+^help_infolink_fellowtrust_2^,^1. 일반 슬롯 : <font color="#e5c015">골드</font>와 <font color="#e5c015">엘룬</font>을 통해 펠로우를 성장 시킬 수 있습니다.^,^2. <font color="e5c015">コンボ連携</font> : 槍スキルの場合、コンボ使用段階によって連携スキルが使用できます。^,^^,^Familiar slots can be purchased with gold and elluns.^,^^,^^
+^help_infolink_fellowtrust_3^,^2. PC방 슬롯 : <font color="#e5c015">피시바니 당근 주화</font>를 지불하여 펠로우를 성장 시킬 수 있습니다.^,^3. <font color="e5c015">フェロー交代</font> : 戦闘中フェローの気力が全て消耗されると保管ボックスで他のフェローに交代して騎乗することができます。^,^^,^Growth talismans can be purchased with elluns.^,^^,^^
+^help_infolink_fellowtrust_4^,^3. 성장의 부스터 : 엘룬으로 구매할 수 있으며, 위탁된 펠로우에게 사용 시, 정해진 시간 동안 배속으로 가속됩니다.^,^飛行騎乗戦闘^,^^,^When used, growth talismans make fosteRing faster.^,^^,^^
+^help_infolink_fellowcombat^,^지상 탑승 전투^,^地上騎乗戦闘^,^^,^Mounted Combat^,^^,^^
+^help_infolink_fellowcombat_tip^,^지상 탑승 전투^,^地上騎乗戦闘^,^^,^Mounted Combat^,^^,^^
+^help_infolink_fellowcombat_0^,^펠로우에 탑승하여, 탑승 전투를 할 수 있습니다.^,^フェローに騎乗して騎乗戦闘ができます。^,^^,^Mount a familiar before you begin mounted ground combat.^,^^,^^
+^help_infolink_fellowcombat_1^,^1. <font color="#e5c015">탑승무기</font> : 석궁 또는 창을 사용할 수 있습니다.^,^1. <font color="e5c015">騎乗武器</font> : ボーガンまたは槍が使用できます。^,^^,^1. <font color=''#e5c015''>Mounted Weapons:</font> Crossbow or spear.^,^^,^^
+^help_infolink_fellowcombat_2^,^2. <font color="#e5c015">연계 스킬</font> : 탑승 스킬의 경우 콤보 사용 단계에 따라 연계 스킬을 사용할 수 있습니다.^,^2. <font color="e5c015">コンボ連携</font> : 槍スキルの場合、コンボ使用段階によって連携スキルが使用できます。^,^^,^2. <font color=''#e5c015''>Follow-up Skills:</font> While mounted, you can combo follow-up skills.^,^^,^^
+^help_infolink_fellowcombat_3^,^3. <font color="#e5c015">펠로우 교체</font> : 전투 중 펠로우 기력이 모두 소모되면, 보관함에서 다른 펠로우로 바로 교체하여 탑승할 수 있습니다.^,^3. <font color="e5c015">フェロー交代</font> : 戦闘中フェローの気力が全て消耗されると保管ボックスで他のフェローに交代して騎乗することができます。^,^^,^3. <font color=''#e5c015''>Familiar Swap:</font> When a familiar gets low on stamina, swap it out for one in your storage.^,^^,^^
+^help_infolink_fellowsky^,^비행 탑승 전투^,^飛行騎乗戦闘^,^^,^Mounted Air Combat^,^^,^^
+^help_infolink_fellowsky_tip^,^비행 탑승 전투^,^飛行騎乗戦闘^,^^,^Mounted Air Combat^,^^,^^
+^help_infolink_fellowsky_0^,^<font color="#e5c015">1. 비행 고도 UI를 통해 비행 최대 고도를 알 수 있습니다.</font>
+  - 최대 고도를 초과할 시, 펠로우가 강제 소환 해제됩니다.^,^<font color="e5c015">1. 飛行高度UIで飛行可能高さが確認できます。</font>
+  - 地域別の高度上限線より高く飛ぶことはできません。
+  - フェローの最大飛行高さより高く飛ぶことはできません。
+  - 高度の80%ほど上昇したときから警告を表示します。^,^^,^<font color=''#e5c015''>1. Use the altitude meter to see your max flying altitude.</font>
+- When you go too high, your familiar will be automatically dismissed.^,^^,^^
+^help_infolink_fellowsky_1^,^<font color="#e5c015">2. 비행 펠로우에 탑승하여 공중 전투 및 이동이 가능합니다.</font>
+  - Space : 위로 상승합니다.
+  - Shift + x : 수직으로 하강합니다.
+  - Space + Space : 빠른 속도로 활강합니다.
+  - u : 떨어졌을 때 u키를 누르면 펠로우에 자동 탑승됩니다.^,^<font color="e5c015">2. 飛行フェローに騎乗して空中戦闘や移動ができます。</font>
+  - Space : 上に上昇します。
+  - Shift + x : 垂直に下降します。
+  - Space + Space : 速い速度で滑降します。
+  - u : 落ちた時、uキーを押すとフェローに自動騎乗します。^,^^,^<font color=''#e5c015''>2. You can fly and battle on flying familiars.</font>
+- Space: Rise.
+- Shift + [X]: Descend vertically.
+- Space + Space: Descend quickly.
+- [U]: Press to mount a familiar while falling.^,^^,^^
+^help_infolink_fellowextraction^,^펠로우 봉인석 추출^,^!!^,^^,^Seal Stone Extraction^,^^,^^
+^help_infolink_fellowextraction_tip^,^펠로우 봉인석 추출^,^!!^,^^,^Seal Stone Extraction^,^^,^^
+^help_infolink_fellowextraction_0^,^1. <font color="#e5c015">봉인석 추출봉 획득 경로</font>
+  - 정예, 영웅 : 라비니 은화 상점
+  - 영웅, 전설 : 엘룬 상점^,^!!^,^^,^1. <font color=''#e5c015''>Purchase a seal stone extractor.</font>
+- Elite, Heroic: Rabbini Silver Coin Shop
+- Heroic, Legendary: Ellun Shop^,^^,^^
+^help_infolink_fellowextraction_1^,^2. 봉인석 추출봉을 사용해 <font color="#e5c015">봉인석이 장착된 아이템</font>을 클릭합니다.^,^!!^,^^,^2. Use the extractor, then click an item equipped with a seal stone.^,^^,^^
+^help_infolink_fellowextraction_2^,^3. <font color="#e5c015">추출을 원하는 펠로우 봉인석을 클릭</font>해 추출합니다.^,^!!^,^^,^3. Click the familiar seal stone to extract it.^,^^,^^
+^help_infolink_fellowextraction_3^,^*주의 : 추출된 펠로우는 펠로우 보관함에 <font color="#e5c015">모든 성장 수치가 초기화된 1레벨의 펫</font>으로 등록됩니다.^,^!!^,^^,^*Extracted familiars enter familiar storage as <font color=''#e5c015''>level 1 pets with all growth stats reset</font>.^,^^,^^
+^help_infolink_fellowoptionchange^,^봉인옵션 변경^,^!!^,^^,^Changing Seal Stones^,^^,^^
+^help_infolink_fellowoptionchange_tip^,^봉인옵션 변경^,^!!^,^^,^Changing Seal Stones^,^^,^^
+^help_infolink_fellowoptionchange_0^,^1. <font color="#e5c015">봉인옵션 변경도구 획득 경로</font>
+  - 정예, 영웅 : 라비니 은화 상점
+  - 영웅, 전설 : 엘룬 상점^,^!!^,^^,^1. <font color=''#e5c015''>Purchasing Seal Change Tools</font>
+- Elite, Heroic: Rabbini Silver Coin Shop
+- Heroic, Legendary: Ellun Shop^,^^,^^
+^help_infolink_fellowoptionchange_1^,^2. 봉인옵션 변경도구로 봉인석의 <font color="#e5c015">옵션 수치를 변경</font>할 수 있습니다.
+  - 고정 옵션의 경우, 수치가 변경되지 않습니다.^,^!!^,^^,^2. You can change the stats of a seal stone with a seal change tool.
+- Fixed stats will not be changed.^,^^,^^
+^help_infolink_fellowoptionchange_2^,^3. <font color="#e5c015">봉인옵션 변경 이용 조건</font>
+  - 봉인옵션 변경도구와 대상 봉인석의 등급은 동일해야 합니다.
+  - 장비 아이템에 장착된 봉인석에는 사용할 수 없습니다.^,^!!^,^^,^3. <font color=''#e5c015''>Prerequisites</font>
+- The level of the seal stone must match level of the seal change tool.
+- Cannot be used on seal stones bound to Equipment.^,^^,^^
+^help_infolink_fellowoptionchange_3^,^4. <font color="#e5c015">봉인옵션 변경 사항</font>을 확인할 수 있습니다.
+  - 초록색 표시 옵션 : 기존 수치보다 <font color="#e5c015">증가</font>된 옵션
+  - 붉은색 표시 옵션 : 기존 수치보다 <font color="#e5c015">감소</font>된 옵션
+  - 흰색 표시 옵션 : 기존 수치와 동일^,^!!^,^^,^4. You can see which stats have been changed.
+- Green: stat <font color=''#e5c015''>increased</font>
+- Red: stat <font color=''#e5c015''>decreased</font>
+- White: no change^,^^,^^
+^help_infolink_actioncostume^,^액션 코스튬^,^^,^^,^Action Costumes^,^^,^^
+^help_infolink_actioncostume_tip^,^액션 코스튬^,^^,^^,^Action Costumes^,^^,^^
+^help_infolink_actioncostume_0^,^액션 코스튬 아이템을 장착 시 액션 목록에서 특수한 액션을 사용할 수 있습니다.^,^^,^^,^You can use special actions after equipping an action costume.^,^^,^^
+^help_infolink_talenttrans^,^특성 전환^,^^,^^,^Changing Talents^,^^,^^
+^help_infolink_talenttrans_tip^,^특성 전환^,^^,^^,^Changing Talents^,^^,^^
+^help_infolink_talenttrans_0^,^1. 특성을 1, 2 페이지로 전환할 수 있습니다.
+  - 페이지 전환은 각 페이지 버튼에 마우스 좌클릭을 하여 전환할 수 있습니다.^,^^,^^,^1. You can swap between talent builds. Left-click a build to swap it.^,^^,^^
+^help_infolink_talenttrans_1^,^2. 특성 전환 시 엘룬이 소모됩니다.^,^^,^^,^2. Talent swapping costs elluns.^,^^,^^
+^help_infolink_talenttrans_2^,^3. 특성은 페이지마다 각 설정이 따로 저장됩니다.^,^^,^^,^3. Each build's settings will be saved per talent.^,^^,^^
+^help_infolink_fellowmax^,^펠로우 레벨 달성 보상^,^^,^^,^Leveling Rewards^,^^,^^
+^help_infolink_fellowmax_tip^,^펠로우 레벨 달성 보상^,^^,^^,^Leveling Rewards^,^^,^^
+^help_infolink_fellowmax_0^,^1. 펠로우 레벨 달성 보상탭에 포함되어 있는 펠로우만 최대 레벨 달성시 보상이 주어집니다.^,^^,^^,^1. You'll get achievement rewards for leveling certain familiars to max.^,^^,^^
+^help_infolink_fellowmax_1^,^2. 최대 레벨 달성 시 표시되는 띠가 금색인 펠로우는 레벨 달성 보상을 반복해서 받을 수 있습니다.^,^^,^^,^2. Familiars with golden borders can be leveled up repeatedly, gaining you more rewards.^,^^,^^
+^help_infolink_fellowmax_2^,^3. 보상이 남아있는 상태의 펠로우가 반복해서 최대 레벨 달성 시 남은 보상에 획득한 양이 누적됩니다.
+  - 보상은 최대 999개까지 누적됩니다.^,^^,^^,^3. Unclaimed rewards stack up to 999 times.^,^^,^^
+^help_infolink_reforge^,^아이템 재련^,^^,^^,^Refining^,^^,^^
+^help_infolink_reforge_tip^,^아이템 재련^,^^,^^,^Refining^,^^,^^
+^help_infolink_reforge_0^,^1. <font color="#e5c015">하카나스 수도성 상업지구의 재련 NPC</font>를 통해 아이템의 랜덤 옵션을 변경할 수 있습니다.
+  - 재련 시 골드와 재련석이 소모됩니다.^,^^,^^,^1. Through refining, you can Randomly change an item's stats. Refining costs gold and refining stones.^,^^,^^
+^help_infolink_reforge_1^,^2. 대상 아이템의 등급과 종류에 맞는 재련석을 사용해야합니다.^,^^,^^,^2. Refining stones must match the type and rarity of the item you're refining.^,^^,^^
+^help_infolink_reforge_2^,^3. 엘룬을 사용해 원하는 <font color="#e5c015">랜덤 옵션을 고정</font>할 수 있습니다.^,^^,^^,^3. You can use elluns to lock the stats tHat you like, then refine others.^,^^,^^
+^help_infolink_reforge_3^,^4. 재련석은 <font color="#e5c015">몬스터 드랍, 엘로라의 상점</font>을 통해 획득이 가능합니다.^,^^,^^,^4. Rewards can be acquired through <font color="#e5c015"> Monster Drop, Ellora's Store </font>^,^^,^^
+^help_infolink_fellowreinforce^,^펠로우 강화^,^^,^^,^Familiar TempeRing^,^^,^^
+^help_infolink_fellowreinforce_tip^,^펠로우 강화^,^^,^^,^Familiar TempeRing^,^^,^^
+^help_infolink_fellowreinforce_0^,^1. 최대 레벨의 펠로우를 강화하여 기본 능력치를 증가시킬 수 있습니다.^,^^,^^,^1. When your familiar reaches max level, you can temper it to increase its stats.^,^^,^^
+^help_infolink_fellowreinforce_1^,^2. 강화 시 재료로 <font color="#e5c015">펠로우 강화 유도제</font>와 <font color="#e5c015">봉인 펠로우</font>가 필요합니다.^,^^,^^,^2. As materials, you'll need a familiar tempeRing inducer and a sealed familiar.^,^^,^^
+^help_infolink_fellowreinforce_2^,^3. 봉인 펠로우의 레벨 및 등급에 따라 강화 성공 확률이 증가합니다.^,^^,^^,^3. Your success depends on the level and rarity of the sealed familiar.^,^^,^^
+^help_infolink_overrising^,^아이템 초월^,^^,^^,^Transcending^,^^,^^
+^help_infolink_overrising_tip^,^아이템 초월^,^^,^^,^Transcending^,^^,^^
+^help_infolink_overrising_0^,^1. 아이템의 착용레벨, 등급에 맞는 초월석을 사용해 <font color="#e5c015">아이템 초월</font>이 가능합니다.
+  - 초월 시 아이템 옵션이 일정량 상승합니다.^,^^,^^,^1. Transcending an item increases its stats. You'll need a transcendence stone tHat matches the target item's level and rarity.^,^^,^^
+^help_infolink_overrising_1^,^2. 가방에 초월 재료가 있을 시 자동으로 등록되며, 재료 아이템에 우클릭하여 수동으로 등록할 수 있습니다.^,^^,^^,^2. Item transcendence will occur automatically when you have the required materials in your inventory. You can also right-click the materials to transcend manually.^,^^,^^
+^help_infolink_overrising_2^,^3. 초월석은 <font color="#e5c015">몬스터 드랍, 제작</font>을 통해 획득이 가능합니다.^,^^,^^,^3. Transcending is available through <font color="#e5c015"> Monster Drop, Production </font>^,^^,^^
+^tutorial_move_title^,^캐릭터 이동^,^^,^^,^Moving^,^^,^^
+^tutorial_move_desc^,^  <font color="#e5c015">W A S D</font> 키를 이용하여, 캐릭터를 이동할 수 있습니다.^,^^,^^,^Move using the <font color=''#e5c015''>W A S D</font> keys.^,^^,^^
+^tutorial_camera_title^,^시점 변경^,^^,^^,^Looking Around^,^^,^^
+^tutorial_camera_desc^,^  <font color="#e5c015">마우스 우클릭한채 드래그</font>하거나, <font color="#e5c015">Page Up/Down</font>키를 이용하여, 주위를 둘러 볼 수 있습니다.^,^^,^^,^Move the camera by <font color=#e50c015''!right-clicking and dragging</font> with your mouse or using the <font color=''#e5c015''>page up and page down</font> keys.^,^^,^^
+^tutorial_zoom_title^,^확대/축소^,^^,^^,^Zooming In/Out^,^^,^^
+^tutorial_zoom_desc^,^  <font color="#e5c015">마우스 휠</font>을 움직여, 뷰를 확대하거나 축소 할 수 있습니다.^,^^,^^,^Zoom in and out with the <font color=''#e5c015''>mouse wheel</font>.^,^^,^^
+^tutorial_interaction1_title^,^인터렉션^,^^,^^,^Interacting with Objects^,^^,^^
+^tutorial_interaction1_desc^,^  <font color="#e5c015">F</font> 키를 눌러, 무기를 얻을 수 있습니다.^,^^,^^,^Grab a weapon from the rack by pressing the <font color=''#e5c015''>F</font> key.^,^^,^^
+^tutorial_attack_title^,^공격^,^^,^^,^Attacking^,^^,^^
+^tutorial_attack_desc^,^  대상을 선택한 뒤, <font color="#e5c015">1</font> 키를 누르거나, 대상을<font color="#e5c015">더블클릭</font>하여 기본공격을 할 수 있습니다.^,^^,^^,^Select an enemy and press the <font color=''#e5c015''>1</font> key or <font color=''#e5c015''>double-click</font> your target to attack.^,^^,^^
+^tutorial_skill_title^,^스킬 사용^,^^,^^,^Using Skills^,^^,^^
+^tutorial_skill_desc^,^  대상을 선택한 뒤, <font color="#e5c015">2</font> 키 혹은 <font color="#e5c015">3</font>키를 눌러 스킬을 사용 할 수 있습니다.^,^^,^^,^Select a target and press the <font color=''#e5c015''>2</font> or <font color=''#e5c015''>3</font> key to use a skill.^,^^,^^
+^tutorial_pickup_title^,^아이템 획득^,^^,^^,^Looting^,^^,^^
+^tutorial_pickup_desc^,^  <font color="#e5c015">F</font> 키를 눌러, 아이템을 획득할 수 있습니다.^,^^,^^,^Press the <font color=''#e5c015''>F</font> key to pick up items.^,^^,^^
+^tutorial_fly_title^,^비행^,^^,^^,^Flying^,^^,^^
+^tutorial_fly_desc^,^  펠로우 탑승 중, <font color="#e5c015">SPACE BAR</font>를 눌러 비행할 수 있습니다.^,^^,^^,^While mounted, press the <font color=''#e5c015''>spacebar</font> to fly.^,^^,^^
+^tutoial_glide_title^,^활강^,^^,^^,^Gaining Altitude^,^^,^^
+^tutorial_glide_desc^,^  비행 중, <font color="#e5c015">SPACE BAR</font>를 2번 연속으로 눌러, 활강할 수 있습니다.^,^^,^^,^While flying, hold the <font color=''#e5c015''>spacebar</font> to gain altitude.^,^^,^^
+^ui_tutorial_title^,^튜토리얼^,^^,^^,^Tutorial^,^^,^^
+^tutorial_interaction2_title^,^인터렉션^,^^,^^,^Interacting with Objects^,^^,^^
+^tutorial_interaction2_desc^,^  <font color="#e5c015">F</font> 키를 눌러, 사물과 상호작용할 수 있습니다.^,^^,^^,^To interact with an object, press the <font color=''#e5c015''>F</font> key.^,^^,^^
+^tutorial_pattern_title^,^보스 몬스터^,^^,^^,^Boss Enemies^,^^,^^
+^tutorial_pattern_desc^,^  보스 몬스터는 특별한 패턴을 가지고 있습니다. <font color="#e5c015">간수장 지배석</font>을 파괴하여, <font color="#e5c015">렉스</font>의 체력회복을 저지하세요.^,^^,^^,^You often have to use unique tactics to defeat boss enemies. Destroy the <font color=''#e5c015''>warden stone</font> tHat is healing <font color=''#e5c015''>Rex</font>.^,^^,^^
+^tutoial_reaction1_title^,^리액션 유효타^,^^,^^,^Destabilizing Attacks^,^^,^^
+^tutorial_reaction1_desc^,^리액션 유효타란 적의 <font color="#e5c015">저항 단계를 소모</font>시키는 효과입니다.
+
+리액션 유효타 효과를 가진 스킬이 <font color="#e5c015">치명타로 적중할 때 발동</font>됩니다.
+적의 리액션 저항 단계를 모두 소모시켰을 경우, 일정시간 동안 <font color="#e5c015">제압 상태에 걸려 상태이상 효과</font>를 받게 됩니다.^,^^,^^,^Reaction validation is the effect of consuming enemy <font color ="#e5c015"> resistance steps </font>.
+
+Certain Skills will destabilize when they hit with a <font color = "#e5c015"> critical strike </font>.
+If all enemy resistance stacks are exhausted, they will become vulnerable to <font color="#e5c015">> stunning effects for a certain amount of time, </font>.^,^^,^^
+^tutoial_reaction2_title^,^리액션 유효타^,^^,^^,^Destabilizing Attacks^,^^,^^
+^tutorial_reaction2_desc^,^^,^^,^^,^^,^^,^^
+^idoll_tutorial_camera_title^,^시점 변경^,^^,^^,^Change point of view^,^^,^^
+^idoll_tutorial_camera_desc^,^  <font color="#e5c015">마우스를  우클릭한 상태에서 드래그</font>하거나, <font color="#e5c015">Page Up/Down</font>키를 이용하여, 주위를 둘러볼 수 있습니다.^,^^,^^,^<font color="#e5c015"> You can right-click and drag </font> or use <font color="#e5c015"> Page Up / Down </font> to navigate your Camera.^,^^,^^
+^idoll_tutorial_move_title^,^캐릭터 이동^,^^,^^,^Charakter Movement^,^^,^^
+^idoll_tutorial_move_desc^,^  <font color="#e5c015">W A S D</font> 키를 이용하여, 캐릭터를 이동할 수 있습니다.^,^^,^^,^You can move the character using the <font color="#e5c015"> W A S D </font> key.^,^^,^^
+^idoll_tutorial_interaction1_title^,^인터렉션^,^^,^^,^Interaction^,^^,^^
+^idoll_tutorial_interaction1_desc^,^  무기 거치대에 가까이 다가가 <font color="#e5c015">F</font> 키를 눌러, 무기를 얻을 수 있습니다.^,^^,^^,^You can get weapons by moving closer to the weapon holder and pressing the <font color="#e5c015"> F </font> key.^,^^,^^
+^idoll_tutorial_attack_title^,^공격^,^^,^^,^Attack^,^^,^^
+^idoll_tutorial_attack_desc^,^  대상을 선택한 뒤, <font color="#e5c015">1</font> 키를 누르거나, 대상을<font color="#e5c015"> 더블클릭</font>하여 기본공격을 할 수 있습니다.^,^^,^^,^You can do a basic attack by selecting the target and pressing <font color="#e5c015"> 1 </font>, or double-clicking on the target.^,^^,^^
+^idoll_tutorial_pattern_title^,^보스 몬스터^,^^,^^,^Boss Monster^,^^,^^
+^idoll_tutorial_pattern_desc^,^  보스 몬스터는 특별한 패턴을 가지고 있습니다. <font color="#e5c015">비모의 술통</font>을 파괴하여, <font color="#e5c015">술고래 비모</font>의 체력 회복을 저지하세요.^,^^,^^,^Boss monsters have a special pattern. <Font color="#e5c015"> Destroy the Beast's Cask </font> to block the regeneration of your enemy.^,^^,^^
+^idoll_tutorial_skill_title^,^스킬 사용^,^^,^^,^Using Skills^,^^,^^
+^idoll_tutorial_skill_desc^,^  대상을 선택한 뒤, <font color="#e5c015">2</font>키 혹은 <font color="#e5c015">3</font>키를 눌러 스킬을 사용할 수 있습니다.^,^^,^^,^After selecting the target, you can use the skill by pressing <font color="#e5c015"> 2 </font> or <font color="#e5c015"> 3 </font>.^,^^,^^
+^idoll_tutorial_fly_title^,^비행^,^^,^^,^Flight^,^^,^^
+^idoll_tutorial_fly_desc^,^  펠로우 탑승 중, <font color="#e5c015">SPACE BAR</font> 키를 눌러 비행할 수 있습니다.^,^^,^^,^When mounted, you can fly by pressing <font color="#e5c015"> SPACE BAR </font>.^,^^,^^
+^idoll_tutoial_glide_title^,^활강^,^^,^^,^Gliding^,^^,^^
+^idoll_tutorial_glide_desc^,^  비행 중, <font color="#e5c015">SPACE BAR</font> 키를 2번 연속으로 눌러, 활강할 수 있습니다.^,^^,^^,^DuRing the flight, you can glide by pressing the <font color="#e5c015"> SPACE BAR </font> key twice.^,^^,^^
+^idoll_tutorial_zoom_title^,^확대/축소^,^^,^^,^Zoom in/zoom out^,^^,^^
+^idoll_tutorial_zoom_desc^,^  <font color="#e5c015">마우스 휠</font>을 움직여, 뷰를 확대하거나 축소 할 수 있습니다.^,^^,^^,^<Font color="#e5c015"> Move the mouse wheel </font> to zoom in or out with your camrea.^,^^,^^
+^help_infolink_premiumbag^,^프리미엄 가방^,^^,^^,^Premium bag^,^^,^^
+^help_infolink_premiumbag_tip^,^프리미엄 가방^,^^,^^,^Premium bag^,^^,^^
+^help_infolink_premiumbag_0^,^1. 추가적으로 아이템을 보관할 수 있는 공간 입니다.^,^^,^^,^1. Space to store additional items.^,^^,^^
+^help_infolink_premiumbag_1^,^2. 가방창 상단의 <font color="#e5c015">프리미엄</font> 버튼을 클릭 하여 열 수 있습니다.^,^^,^^,^2. You can open it by clicking the <font color="#e5c015"> Premium </font> button at the top of the bag window.^,^^,^^
+^help_infolink_premiumbag_2^,^3. 장착한 프리미엄 가방의 사용 기간이 끝나면 활성 되었던 슬롯은 잠기게 되며, 해당 슬롯에 위치한 아이템은 이동하거나 사용이 불가능 합니다.^,^^,^^,^3. Once the Premium bag has expired, the activated slot will be locked and items in tHat bag will be unable to move or use.^,^^,^^
+^help_infolink_premiumbag_3^,^4. 가방 슬롯 : 프리미엄 가방을 등록 하면 추가로 공간을 확장합니다. (한번 장착한 프리미엄 가방은 탈착이 불가능 합니다.)^,^^,^^,^4. Bag Slot: RegisteRing a premium bag expands additional space. (Once installed, the premium bag can not be removed.)^,^^,^^
+^help_infolink_premiumbag_4^,^5. 정렬 버튼 : 아이템 종류에 따라 자동으로 보관된 아이템을 정렬 합니다^,^^,^^,^5. Arrange button: Arrange the items automatically stored according to the item type^,^^,^^
+^help_infolink_fellowbag^,^펠로우 가방^,^^,^^,^Familiar Bag^,^^,^^
+^help_infolink_fellowbag_tip^,^펠로우 가방^,^^,^^,^Familiar Bag^,^^,^^
+^help_infolink_fellowbag_0^,^1. 추가적으로 아이템을 보관할 수 있는 공간 입니다.^,^^,^^,^1. Space to store additional items.^,^^,^^
+^help_infolink_fellowbag_1^,^2. 펠로우 정보창의 <font color="#e5c015">펠로우 가방</font> 버튼을 클릭 하여 열 수 있습니다.^,^^,^^,^2. You can open it by clicking the <font color="#e5c015"> Familiar bag </font> button in the Fellow info window.^,^^,^^
+^help_infolink_fellowbag_2^,^3. 펠로우 가방에 있는 아이템은 직접 사용이 불가능 합니다.^,^^,^^,^3. Items in the Familiar Bag can not be used directly.^,^^,^^
+^help_infolink_fellowbag_3^,^4. 장착한 펠로우 가방의 사용 기간이 끝나면 활성 되었던 슬롯은 잠기게 되며, 해당 슬롯에 위치한 아이템은 이동하거나 사용이 불가능 합니다.^,^^,^^,^4. Once the Familiar bag has expired, the activated slot will be locked and items in tHat bag will be unable to move or use.^,^^,^^
+^help_infolink_fellowbag_4^,^5. 가방 슬롯 : 펠로우 가방을 등록 하면 추가로 공간을 확장합니다. (한번 장착한 펠로우 가방은 탈착이 불가능 합니다.)^,^^,^^,^5. Bag Slot: Enlarge the storage space by registeRing the Familiar Bag. (Familiar Bags can not be removed once activated.)^,^^,^^
+^help_infolink_fellowadventurepoint^,^모험력^,^^,^^,^Adventure power^,^^,^^
+^help_infolink_fellowadventurepoint_tip^,^모험력^,^^,^^,^Adventure power^,^^,^^
+^help_infolink_fellowadventurepoint_0^,^1. 펠로우가 보유한 모험력이며 펠로우 모험 진행 시 일정 수치 만큼 감소 합니다.^,^^,^^,^1. Familiars have Adventure Power, which will be decrease by a certain amount dureing Familiar Adventures.^,^^,^^
+^help_infolink_fellowadventurepoint_1^,^2. 매일 오전 4시마다 펠로우가 보유한 모험력의 30% 만큼 자동 회복 되며, 모험력 회복 물약을 사용하여 모험력을 즉시 회복 할 수 있습니다.^,^^,^^,^2. The Adventure Power will be restored by 30% of the Familiars max Adventure power every day at 4am. Or you can restore it instantly by using an Adventure Recovery Potion.^,^^,^^
+^help_infolink_fellowautolooting^,^아이템 자동 습득^,^^,^^,^Automatic Item looting^,^^,^^
+^help_infolink_fellowautolooting_tip^,^아이템 자동 습득^,^^,^^,^Automatic Item looting^,^^,^^
+^help_infolink_fellowautolooting_0^,^1. 펫을 이용 하여 드랍 된 아이템을 자동으로 습득 할 수 있습니다.^,^^,^^,^1. You can use pets to automatically loot the items dropped.^,^^,^^
+^help_infolink_fellowautolooting_1^,^2. 자동 습득을 이용 하기 위해서는 <font color="#e5c015">자동 습득의 인장</font> 아이템이 필요 합니다.^,^^,^^,^2. Requires <font color="#e5c015"> Auto-loot Emblem </font> item to use auto-looting.^,^^,^^
+^help_infolink_fellowautolooting_2^,^3. <font color="#e5c015">자동 습득의 인장</font> 착용 후 펫의 상태를 <font color="#e5c015">채집 모드</font>로 설정 하면 펫이 자동 습득을 시작 합니다.^,^^,^^,^3. <font color="#e5c015"> Auto-loot Emblem </font> Set the status of the pet to <font color="#e5c015"> Loot mode </font> .^,^^,^^
+^help_infolink_fellowautolooting_3^,^4. 별도의 UI를 통해서 펫이 습득 하는 아이템의 등급 및 자동 주사위 사용 여부를 설정 할 수 있습니다.^,^^,^^,^4. You can set the level of the item tHat the pet acquires through the separate UI and whether to use the automatic dice.^,^^,^^
+^help_infolink_fellowautolooting_4^,^5. 펫이 자동 습득을 통해 획득한 아이템은 펠로우 가방이 활성화 되어 있을 경우 펠로우 가방으로 우선 습득 되며 그렇지 않을 경우 일반 가방으로 습득 됩니다.^,^^,^^,^5. Items tHat are acquired through automatic looting of pets are first looted to the Familiar Bag if the it is activated, otherwise it is looted into the normal bag.^,^^,^^
+^help_title_fellowfarm^,^펠로우 목장^,^^,^^,^Familiar Farm^,^^,^^
+^help_infolink_fellowfarminfo^,^입장 방법^,^^,^^,^Entry Method^,^^,^^
+^help_infolink_fellowfarminfo_tip^,^입장 방법^,^^,^^,^Entry Method^,^^,^^
+^help_infolink_fellowfarminfo_0^,^1. 펠로우 목장은 각 마을에 위치한 <font color="#e5c015">야수 조련사</font>를 통해서 입장 할 수 있습니다.^,^^,^^,^1. The Familiar Farm can be entered through the <font color="#e5c015"> Beast Trainer </font> located in each village.^,^^,^^
+^help_infolink_fellowfarminfo_1^,^2. 목장에서 판매하는 <font color="#e5c015">펠로우 목장 관리인 소환권</font>을 사용 하여 소환 된 <font color="#e5c015">목장 관리인</font>을 통해서도 입장이 가능 합니다.^,^^,^^,^2. You can also enter through the <font color="#e5c015"> Farm manager </font> summoned by using the <font color="#e5c015"> Familiar Farm manager Summoning </font>^,^^,^^
+^help_infolink_fellowfarmupgrade^,^목장 업그레이드^,^^,^^,^Farm Upgrade^,^^,^^
+^help_infolink_fellowfarmupgrade_tip^,^목장 업그레이드^,^^,^^,^Farm Upgrade^,^^,^^
+^help_infolink_fellowfarmupgrade_0^,^1. 펠로우 목장의 <font color="#e5c015">이스터</font>를 통해 이용 할 수 있습니다.^,^^,^^,^1. Available via the <font color="#e5c015"> Daisy </font> at the Familiar Farm^,^^,^^
+^help_infolink_fellowfarmupgrade_1^,^2. <font color="#e5c015">펠로우 축사</font>, <font color="#e5c015">제작소</font>, <font color="#e5c015">펠로우 우리</font>의 업그레이드가 가능 하며 업그레이드 시 정해진 기간 동안 혜택을 받을 수 있습니다.^,^^,^^,^2. Upgrade your <font color="#e5c015">Stable</font>,<font color="#e5c015"> Crafting Station</font> and <font color="#e5c015">Familiar Corral</font> to unlock benefits for a defined amount of time.^,^^,^^
+^help_infolink_fellowcombination^,^펠로우 조합 보상^,^^,^^,^Familiar Combination Effects^,^^,^^
+^help_infolink_fellowcombination_tip^,^펠로우 조합 보상^,^^,^^,^Familiar Combination Effects^,^^,^^
+^help_infolink_fellowcombination_0^,^1. 펠로우 목장의 <font color="#e5c015">데일리스</font>를 통해 이용 할 수 있습니다.^,^^,^^,^1. It is available through <font color="#e5c015">Daryl </font>at the Familiar Farm.^,^^,^^
+^help_infolink_fellowcombination_1^,^2. 정해진 조합식에 맞게 펠로우를 슬롯에 등록 하면 버프를 받을 수 있습니다.^,^^,^^,^2. You can receive a buff by registeRing the Familiars in the slot according to the specified combination formula.^,^^,^^
+^help_infolink_fellowcombination_2^,^3. 한번 버프를 받으면 해당 조합식에는 쿨타임이 발생 하여 일정 시간 동안 다시 받을 수 없습니다.^,^^,^^,^3. Once you receive a buff, the cooldown will start and you will not be able to receive it again for a certain amount of time.^,^^,^^
+^help_infolink_fellowcombination_3^,^4. 슬롯에 등록 된 펠로우는 목장 내 우리 내부에 배치 됩니다.^,^^,^^,^4. Familiars registered in the slot are placed inside the Farm's Corral.^,^^,^^
+^help_infolink_fellowadventure^,^펠로우 모험^,^^,^^,^Familiar Adventure^,^^,^^
+^help_infolink_fellowadventure_tip^,^펠로우 모험^,^^,^^,^Familiar Adventure^,^^,^^
+^help_infolink_fellowadventure_0^,^1. 펠로우 목장의 <font color="#e5c015">펠로우 모험 게시판</font>을 통해 이용 할 수 있습니다.^,^^,^^,^1. Available via Familia Farm <font color="#e5c015"> Fellow Adventure Board </font>.^,^^,^^
+^help_infolink_fellowadventure_1^,^2. 세부 지역 선택 후 펠로우를 모험 보내면 정해진 시간 경과 후 펠로우가 보상을 가져 옵니다.^,^^,^^,^2. After selecting the area, send your adventure to the Fellows and the Fellows will reward you after the specified time.^,^^,^^
+^help_infolink_fellowadventure_2^,^3. 지역/펠로우의 등급에 따라 모험 비용이 다르게 적용 됩니다.^,^^,^^,^3. Depending on the grade of the area / fellow, the adventure cost will be different.^,^^,^^
+^help_infolink_fellowadventure_3^,^4. <font color="#e5c015">모험 난이도</font>가 높을 수록 모험 소요 시간 및 필요 모험력이 많아지며, 좋은 보상을 획득할 확률이 높아집니다.^,^^,^^,^4. The higher the <font color="#e5c015"> adventure difficulty </font>, the more adventure time and the adventure power you need, and the better the chance to obtain good rewards.^,^^,^^
+^help_infolink_fellowadventure_4^,^5. <font color="#e5c015">펠로우의 등급</font>이 높을 수록 받는 보상의 개수가 많아집니다.^,^^,^^,^5. The higher the <font color="#e5c015"> Fellow's rating </font>, the more rewards you receive.^,^^,^^
+^help_infolink_fellowadventure_5^,^6. <font color="#e5c015">펠로우의 서식지</font>와 <font color="#e5c015">모험 지역</font>이 일치 하면 모험 시간이 줄어들며 추가 보상을 받을 수 있습니다.^,^^,^^,^6. Match your <font color="#e5c015"> Familiar's habit </font> with your <font color="#e5c015"> adventure area </font> to reduce your adventure time and receive additional rewards.^,^^,^^
+^help_infolink_fellowadventure_6^,^7. 펠로우는 동시에 <font color="#e5c015">5마리</font>까지 모험을 보낼 수 있으며, 모험 중인 펠로우가 많을 수록 모험 비용에 추가 비용이 발생합니다.^,^^,^^,^7. Fellows can simultaneously go to <font color="#e5c015"> 5 </font> adventures, and the more adventurers you have ongoing, the more the adventure cost will incur.^,^^,^^
+^help_infolink_fellowadventure_7^,^8. <font color="#e5c015">모험 부스터</font>를 사용 하여 모험 시간을 단축 시킬 수 있습니다.^,^^,^^,^8. You can shorten your adventure time with <font color="#e5c015"> Adventure Booster </font>^,^^,^^
+^help_infolink_fellowcompose2^,^펠로우 합성^,^^,^^,^Familiar Synthesis^,^^,^^
+^help_infolink_fellowcompose2_tip^,^펠로우 합성^,^^,^^,^Familiar Synthesis^,^^,^^
+^help_infolink_fellowcompose2_0^,^1. <font color="#e5c015">최대 레벨</font>을 달성한 펠로우를 두마리 이상 합성 하여 새로운 펠로우를 획득할 수 있습니다.^,^^,^^,^1. You can earn new Fellows by composing two or more Fellows who reached <font color="#e5c015"> maximum level </font>^,^^,^^
+^help_infolink_fellowcompose2_1^,^2. 합성 시 일정량의 골드가 소모 됩니다.^,^^,^^,^2. A certain amount of gold is consumed duRing the synthesis.^,^^,^^
+^help_infolink_fellowcompose2_2^,^3. 합성하는 <font color="#e5c015">펠로우의 레벨, 등급, 강화 수치</font>가 높을 수록 고급 펠로우를 획득할 확률이 증가합니다.^,^^,^^,^3. The higher the <font color="#e5c015"> Familiar's level, Grade, and TempeRing Level </font> you are composing, the more likely you are to acquire a rare Familiar.^,^^,^^
+^help_title_community^,^커뮤니티^,^^,^^,^Community^,^^,^^
+^help_infolink_fellowevolve^,^펠로우 진화^,^^,^^,^Familiar Evolution^,^^,^^
+^help_infolink_fellowevolve_tip^,^펠로우 진화^,^^,^^,^Familiar Evolution^,^^,^^
+^help_infolink_fellowevolve_0^,^1. <font color="#e5c015">최대 레벨</font>을 달성한 펠로우나 펫을 <font color="#e5c015">한 단계 높은 등급</font>으로 진화 시킬 수 있습니다.^,^^,^^,^1. You can evolve a familiar or pet tHat achieves <font color="#e5c015"> maximum level </font> to a <font color="#e5c015"> higher grade </font>.^,^^,^^
+^help_infolink_fellowevolve_1^,^2. 진화는 펠로우나 펫 상태에서만 가능 하며 봉인석 상태에서는 진화가 불가능 합니다.^,^^,^^,^2. Evolution is possible only in the state of the familiar and the pet, and it is impossible to evolve as a seal.^,^^,^^
+^help_infolink_fellowevolve_2^,^3. 펠로우의 등급 및 종류 별로 진화에 필요한 재료 펠로우의 마릿수가 달라집니다.^,^^,^^,^3. The number of pieces of material needed to evolve depends on the grade and type of the Familiars.^,^^,^^
+^help_infolink_fellowevolve_3^,^4. 진화 시 일정량의 골드가 소모 됩니다.^,^^,^^,^4. Evolution will consume a certain amount of gold.^,^^,^^
+^help_infolink_fellowevolve_4^,^5. 진화 실패 시 재료로 사용한 펠로우 중 <font color="#e5c015">1마리 이상</font>의 펠로우가 소멸 되며 이는 엘룬을 사용 하여 펠로우가 1마리만 소멸 되도록 방지 할 수 있습니다.^,^^,^^,^5.<font color="#e5c015"> 1 or more </font> familiar tHat have been used as a material for the evolution will be destroyed upon failure, which can prevented/decreased by using Ellun.^,^^,^^
+^help_infolink_fellowevolve_5^,^6. 진화 재료 펠로우의 강화 수치가 높을 수록 진화에 성공할 확률이 증가합니다.^,^^,^^,^6. The higher the number of Evolved Fellows, the greater the chance of success.^,^^,^^
+^help_infolink_petcapture^,^펫 포획^,^^,^^,^Pet Capture^,^^,^^
+^help_infolink_petcapture_tip^,^펫 포획하기^,^^,^^,^Pet Capture^,^^,^^
+^help_infolink_petcapture_0^,^포획이 가능한 몬스터를 포획 카드를 사용 하여 포획 할 수 있습니다.^,^^,^^,^Captureable monsters can be captured using capture cards.^,^^,^^
+^help_infolink_petcapture_1^,^포획 조건을 충족 시킨 후(생명력, 보주 보유) 몬스터를 범위에 맞춘 후 포획 카드를 사용 하면 포획이 시작 됩니다.^,^^,^^,^Once you have met the capture requirements (health, keep your orb), use the capture card after matching the monster to the range and capture begins.^,^^,^^
+^help_infolink_petcapture_2^,^ 1. 미니게임은 제한 시간 내에 정해진 키를 입력 해야 합니다.^,^^,^^,^1. A Minigame starts where you must enter certain keys within the time limit.^,^^,^^
+^help_infolink_petcapture_3^,^ 2. 성공/실패 게이지로 포획 진행 상태를 확인할 수 있습니다.^,^^,^^,^2. Use the success / failure gauge to check capture progress^,^^,^^
+^help_infolink_petcapture_4^,^ 3. 캐릭터의 레벨에 비해 펫의 레벨이 높을수록 포획 확률이 점점 낮아 집니다.^,^^,^^,^3. The higher the level of the pet than the level of the character, the lower the probability of captuRing.^,^^,^^
+^help_infolink_petcapture_5^,^포획 카드에 적용되어 있는 포획 절대 성공 확률 증가 옵션은 부스터나 다른 버프 등에 영향을 받지 않으며 독립적으로 포획 확률에 가산 됩니다.^,^^,^^,^The Capture Absolute Success Probability increase option applied to the capture card is independent of the booster or other buffs and is added to the capture probability independently.^,^^,^^
+^help_infolink_refining^,^아이템 정련^,^^,^^,^Item Honing^,^^,^^
+^help_infolink_refining_tip^,^아이템 정련^,^^,^^,^Item Honing^,^^,^^
+^help_infolink_refining_0^,^1. <font color="#e5c015">하카나스 수도성 상업지구의 재련 NPC</font>를 통해 <font color="#e5c015">아이템의 랜덤 옵션의 수치를 변경</font>할 수 있습니다.^,^^,^^,^1. You can <font color="#e5c015">change the item's Option Values</font> through the <font color="#e5c015">Refining NPC Casey in Hakains Crossing Market District</font>.^,^^,^^
+^help_infolink_refining_1^,^ - 재련 시 골드와 정련석이 소모됩니다.^,^^,^^,^- Gold and Honing Stones are consumed duRing the process.^,^^,^^
+^help_infolink_refining_2^,^ - 옵션의 종류는 변경할 수 없으며 수치만 변경 됩니다.^,^^,^^,^- The Option-Type can not be changed, only the Value is changed.^,^^,^^
+^help_infolink_refining_3^,^2. 대상 아이템의 등급과 종류에 맞는 정련석을 사용해야합니다.^,^^,^^,^2. You must use a Stone tHat matches the grade and type of target item.^,^^,^^
+^help_infolink_refining_4^,^3. 엘룬을 사용해 원하는 <font color="#e5c015">옵션 수치를 고정</font>할 수 있습니다.^,^^,^^,^3. You can use Ellun to fix your desired <font color="#e5c015"> Option Value </font>^,^^,^^
+^help_infolink_refining_5^,^4. 정련석은 특정 기간에 엘로라의 상점에서 구매가 가능 합니다.^,^^,^^,^4. Honing Stones can be purchased in Ellora's Shop in a certain times.^,^^,^^
+^help_infolink_weaponawaken^,^무기 각성^,^^,^^,^Weapon Awakening^,^^,^^
+^help_infolink_weaponawaken_tip^,^무기 각성^,^^,^^,^Weapon Awakening^,^^,^^
+^help_infolink_weaponawaken_0^,^1. <font color="#e5c015">하카나스 수도성 공업지구의 무기 각성 전문가 아루 NPC</font>를 통해 무기를 각성 시킬 수 있습니다.^,^^,^^,^1. You can <font color="#e5c015">start the Weapon Awakening</font> through the <font color="#e5c015">Weapon Awakening NPC Aru in Hakains Crossing Artisan Square</font>.^,^^,^^
+^help_infolink_weaponawaken_1^,^2. 무기 각성 시 다음과 같은 재료가 필요 합니다.^,^^,^^,^2. You need the following materials for Weapon Awakening:^,^^,^^
+^help_infolink_weaponawaken_2^,^ 1) <font color="#e5c015">25강 이상 카라샤, 크리스마스, 엘로라, 아이스크림, 알사스, 텔리오, 테마인 무기</font>^,^^,^^,^1) <font color="#e5c015">+25 Karasha, Christmas, Ellora, Ice Cream, Alsas, Teleo or Temain Weapon</font>^,^^,^^
+^help_infolink_weaponawaken_3^,^ 2) <font color="#e5c015">최고 레벨을 달성한 고대 펠로우</font>^,^^,^^,^2) <font color="#e5c015">A Max Level Ancient Familiar Seal</font>^,^^,^^
+^help_infolink_weaponawaken_4^,^ 3) <font color="#e5c015">각성의 조각 (몬스터 드랍으로 획득 가능)</font>^,^^,^^,^2) <font color="#e5c015">Awakening Pieces (dropped by various monsters)</font>^,^^,^^
+^help_infolink_weaponawaken_5^,^  - 카라샤, 크리스마스, 엘로라, 아이스크림 : <font color="#e5c015">고대의 조각</font>^,^^,^^,^- Karasha, Christmas, Ellora and Ice Cream Weapons need <font color="#e5c015"> Ancient Sculptures </font>^,^^,^^
+^help_infolink_weaponawaken_6^,^  - 알사스 : <font color="#e5c015">잊혀진 기억의 조각</font>^,^^,^^,^- Alsas Weapons need: <font color="#e5c015"> Piece of Forgotten Memory </font>^,^^,^^
+^help_infolink_weaponawaken_7^,^  - 텔리오 : <font color="#e5c015">망각의 조각</font>^,^^,^^,^- Teleo Weapons need: <font color="#e5c015"> Piece of Oblivion </font>^,^^,^^
+^help_infolink_weaponawaken_8^,^  - 테마인 : <font color="#e5c015">사라진 조각</font>^,^^,^^,^- Temain Weapons need: <font color="#e5c015"> Disappeared Piece </font>^,^^,^^
+^help_infolink_weaponawaken_9^,^  4) <font color="#e5c015">고대의 가루 (NPC 아루 판매)</font>^,^^,^^,^4) <font color="#e5c015"> Ancient Powder (NPC Aru sales) </font>^,^^,^^
+^help_infolink_weaponawaken_10^,^3. 무기 각성 시 특별한 이펙트가 적용 되며, 사용한 봉인석의 종류에 따라 무기의 공격력을 강화 되거나 각성 스킬이 부여 됩니다.^,^^,^^,^3. When weapons are awakened, weapon damage is increased and a Special Option is added or your Ancient Skill gets unlocked and special Weapon Effects are applied depending on the type of seals you use .^,^^,^^
+^help_infolink_weaponawaken_11^,^4. 무기, 특수 옵션, 이펙트는 엘룬을 사용하여 파괴 방지 및 고정이 가능합니다.^,^^,^^,^4. You can lock the Special Option and prevent the Weapon from beeing destroyed by using Ellun.^,^^,^^
+^help_infolink_reversereinforce^,^리버스 강화^,^^,^^,^Reverse TempeRing^,^^,^^
+^help_infolink_reversereinforce_tip^,^리버스 강화^,^^,^^,^Reverse TempeRing^,^^,^^
+^help_infolink_reversereinforce_0^,^1. 리버스 강화는 현재 아이템의 강화 단계를 한 단계 하락시켜 추가 강화를 진행하여 아이템의 강화 옵션을 상승시키는 시스템입니다.^,^^,^^,^1. Reverse TempeRing is a system tHat increases the item's Enhancement byTempeRing further past the item's natural TempeRing Limit.^,^^,^^
+^help_infolink_reversereinforce_1^,^2. 리버스 강화에는 <font color="#e5c015">리버스 강화석</font> 아이템이 필요하며, 강화 단계가 <font color="#e5c015">20강 이상</font>인 <font color="#e5c015">전설등급 아이템</font>부터 리버스 강화를 진행할 수 있습니다.^,^^,^^,^2. For a Reverse Enhancement you need a<font color="#e5c015"> Reverse TempeRing Stone.</font> The Item needs to be tempered to<font color="#e5c015"> +20 or higher</font> and must be a <font color="#e5c015">Legendary or higher grade Item</font>.^,^^,^^
+^help_infolink_reversereinforce_2^,^3. 리버스 강화석 아이템을 우클릭 후 아이템을 선택하여 강화를 진행합니다.^,^^,^^,^3. Right-click on the Reverse TempeRing Stone and select the item you want to Reverse with Left-click^,^^,^^
+^help_infolink_reversereinforce_3^,^4. 리버스 강화 성공 시 <리버스 강화> 단계는 상승하며, 리버스 시도 가능 수는 1이 하락됩니다. 리버스 강화 실패 시 리버스 시도 가능 수만 하락하게 됩니다.^,^^,^^,^4. When the Reverse TempeRing is successful, the <Reverse TempeRing> level is increased, and the number of Reverse Attempts is reduced by one. If you fail to Reverse, only the number of Reverse Attempts will be reduced.^,^^,^^
+^help_infolink_reversereinforce_4^,^5. 리버스 강화를 5회 모두 진행하였을 경우 <font color="#e5c015">리버스 시도 횟수 증가권</font> 아이템을 통해 실패횟수를 차감하여 리버스 강화 시도 가능 횟수가 증가됩니다.^,^^,^^,^5. If you have 0 Reverse Attempts left you can increase the number of Attempts to a maximum of 5 subtracting the number of successfull Reverses with <font color="#e5c015"> Reverse Attempt Redeemers </font>.(Example: Reverse Level = 3 means you can have a maximum of 2 Reverse Attempts at a time)^,^^,^^
+^help_infolink_reversereinforce_5^,^6. 리버스 강화석은 <font color="#e5c015">몬스터 드랍, 엘로라의 상점</font>을 통해 획득이 가능합니다.^,^^,^^,^6. Reverse TempeRing Stones and Attempt Redeemers can be obtained through <font color="#e5c015"> Monster Drops </font>^,^^,^^
+^help_infolink_integratedserver^,^통합 채널^,^^,^^,^Cross Server Channel^,^^,^^
+^help_infolink_integratedserver_tip^,^통합 채널^,^^,^^,^Cross Server Channel^,^^,^^
+^help_infolink_integratedserver_0^,^1. 통합 채널(차원의 균열)은 서버 구분 없이 모든 서버의 캐릭터가 만날 수 있는 공간으로, 서버간 만남을 통해 함께 인던 플레이를 하거나, PVP 컨텐츠를 즐기실 수 있습니다.^,^^,^^,^1. Cross Server (The Breach) is a space where characters of all servers can meet without, so you can run Dungeons together or enjoy PVP contents by meeting between servers.^,^^,^^
+^help_infolink_integratedserver_1^,^2. <font color="#e5c015">[통합]아케론 무법지대</font>^,^^,^^,^2. <font color="#e5c015"> [Cross Server] Akeron Badlands </font>^,^^,^^
+^help_infolink_integratedserver_2^,^ - 아케론 무법지대에서 다른 서버 캐릭터들과 만나 한층 더 긴박한 PVP 결투를 즐겨보실 수 있습니다.^,^^,^^,^- Meet with characters from other servers in the Akeron Badlands and enjoy even more PVP conent.^,^^,^^
+^help_infolink_integratedserver_3^,^3. <font color="#e5c015">[통합]던전</font>^,^^,^^,^3. <font color="#e5c015"> [Cross Server] Dungeon </font>^,^^,^^
+^help_infolink_integratedserver_4^,^ - 다른 서버의 캐릭터들과 함께 던전을 플레이 할 수 있습니다.^,^^,^^,^- You can run dungeons with characters from other servers.^,^^,^^
+^help_infolink_integratedserver_5^,^ - 각 던전의 입구 앞에 배치 된 <font color="#e5c015">차원의 균열 포탈</font>을 이용하면 해당 던전의 통합 대기실로 이동하실 수 있습니다.^,^^,^^,^- Use the <font color="#e5c015"> The Global Lobby Portal </font> placed in front of the entrance of each dungeon to move to the Cross Server Lobby of the corresponding dungeon.^,^^,^^
+^help_infolink_bracelet^,^팔찌와 보석^,^^,^^,^Bracelets and Gems^,^^,^^
+^help_infolink_bracelet_tip^,^팔찌와 보석^,^^,^^,^Bracelets and Gems^,^^,^^
+^help_infolink_bracelet_0^,^1. 팔찌와 보석 아이템을 이용하여 캐릭터를 더 강하게 육성할 수 있습니다.^,^^,^^,^1. You can use your Bracelet and Gems to make your character stronger.^,^^,^^
+^help_infolink_bracelet_1^,^ - <font color="#e5c015">보석</font>은 공격력에서 방어력, 치명타 피해까지 다양한 효과들을 더해주는 이로운 아이템입니다.^,^^,^^,^- <font color="#e5c015"> Gems </font> are useful items tHat add a variety of effects, from attack to defense and critical damage.^,^^,^^
+^help_infolink_bracelet_2^,^2. 플레이어는 <font color="#e5c015">팔찌</font> 아이템을 사용하여 이 보석들을 장비처럼 장착할 수 있습니다.^,^^,^^,^2. Players can equip these Gems as Equipment using <font color="#e5c015"> Bracelets </font>.^,^^,^^
+^help_infolink_bracelet_3^,^ - 팔찌는 일종의 소모품 형태의 장비 아이템으로 한번 장착하면 재사용이 불가하며 대신 사용 즉시 장비창에 보석을 장착할 수 있는 슬롯이 부여됩니다.^,^^,^^,^- A bracelet is a kind of consumable Item tHat can not be reused once it is installed, but instead it gives slots where you can place Gems in the Equipment window immediately.^,^^,^^
+^help_infolink_bracelet_4^,^3. 팔찌의 종류에 따라 장착할 수 있는 슬롯의 개수가 달라집니다.^,^^,^^,^3. The number of slots tHat can be mounted depends on the type of Bracelet.^,^^,^^
+^help_infolink_bracelet_5^,^4. 보석을 활성화된 팔찌 슬롯에 드래그 앤 드롭 하면 장착할 수 있습니다.^,^^,^^,^4. Drag and drop Gems into the active Bracelet Slots or Right-Click them in your Inventory while the Bracelet Menu is opened to mount them.^,^^,^^
+^help_infolink_bracelet_6^,^5. 장착된 보석은 골드를 사용하여 추출할 수 있습니다.^,^^,^^,^5. Mounted Gems can be extracted anytime using Gold.^,^^,^^
+^help_infolink_battlefield^,^전장^,^^,^^,^Battlefield^,^^,^^
+^help_infolink_battlefield_tip^,^전장(주신의 회랑)^,^^,^^,^Battlefield (Lord's Corridor Shrine)^,^^,^^
+^help_infolink_battlefield_0^,^1. 60레벨 이상의 캐릭터가 <font color="#e5c015">3 vs 3</font>으로 팀을 맺고 전투를 진행하는 컨텐츠 입니다.^,^^,^^,^1. For this your character needs to be Level 60 or higher and is attended in teams of <font color="#e5c015"> 3 vs 3 </font>.^,^^,^^
+^help_infolink_battlefield_1^,^2. 전장은 <font color="#e5c015">상대방의 수호석을 파괴</font>하는것이 최종 목표 이며 전장 내부에 스폰 되는 몬스터를 처치 하여 버프를 받으실 수 있습니다.^,^^,^^,^2. On this Battlefield your ultimate goal is to <font color="#e5c015"> destroying the opponent's Base </font> and you can defeat the monsters tHat spawn inside the battlefield to buff yourself.^,^^,^^
+^help_infolink_battlefield_2^,^3. 전장에는 두종류의 방식이 있습니다.^,^^,^^,^3. There are two types of battlefields:^,^^,^^
+^help_infolink_battlefield_3^,^4. <font color="#e5c015">친선전</font>^,^^,^^,^4. <font color="#e5c015"> Friendship </font>^,^^,^^
+^help_infolink_battlefield_4^,^ - 별도의 보상이 없으며 수동 매칭으로만 진행하실 수 있습니다.^,^^,^^,^- There is no compensation and can only be done manually.^,^^,^^
+^help_infolink_battlefield_5^,^5. <font color="#e5c015">랭킹전</font>^,^^,^^,^5. <font color="#e5c015"> Ranking Before </font>^,^^,^^
+^help_infolink_battlefield_6^,^ - 친선전과 구분되는 RP(랭크 포인트)를 기반으로 한 컨텐츠입니다.^,^^,^^,^- Content based on RP (Ranking Points) which is distinguished from friendly game.^,^^,^^
+^help_infolink_battlefield_7^,^ - 하루 중 <font color="#e5c015">오전 11시 ~ 오후 2시, 오후 7시 ~ 10시</font>에만 이용할 수 있으며 하루 5회 이상 이용할 수 없습니다.^,^^,^^,^- Available only for <font color="#e5c015"> 11 am - 2 pm, 7 pm - 10 pm </font> duRing the day. You can only participate 5 times per day.^,^^,^^
+^help_infolink_battlefield_8^,^ - 랭킹전 종료 시 승/패 결과에 따라 <font color="#e5c015">전장 주화</font>가 지급되며 전장 주화 교환 NPC를 통해 다양한 아이템으로 교환 가능 합니다.^,^^,^^,^- <font color="#e5c015"> Battlefield Coins</font> will be distributed according to the result of win / loss at the end of the ranking which can be exchanged for various Items through the exchange NPC.^,^^,^^
+^help_infolink_battlefield_9^,^ - 누적된 RP에 따라 랭크를 획득 할 수 있습니다.^,^^,^^,^- You can achieve different Ranks based on accumulated RPs.^,^^,^^
+^help_infolink_stonescramble^,^마석 쟁탈전^,^^,^^,^Manastone Battle^,^^,^^
+^help_infolink_stonescramble_tip^,^마석 쟁탈전^,^^,^^,^Manastone Battle^,^^,^^
+^help_infolink_stonescramble_0^,^1. 마석 쟁탈전은 PVP 지역 엑자란, 아케론에서 진행되는 길드와 연합 간의 치열한 경쟁 컨텐츠 입니다.^,^^,^^,^1. The Manastone Battle is a fierce competition between different Guilds and Alliances in the Akeron and Exarahn Badlands^,^^,^^
+^help_infolink_stonescramble_1^,^2. 마석 쟁탈전에 참여하기 위해선 반드시 <font color="#e5c015">길드, 연합 또는 민병대에 가입</font>해야 합니다.^,^^,^^,^2. You must join a <font color="#e5c015"> Guild, Alliance or the Militia </font> to participate in a Manastone Battle.^,^^,^^
+^help_infolink_stonescramble_2^,^3. 시작 시간^,^^,^^,^3. Start time^,^^,^^
+^help_infolink_stonescramble_3^,^ - 엑자란 마석 쟁탈전 : 매주 화요일 21시 시작, 23시 30분 종료^,^^,^^,^- Exarahn Manastone Battle: Every Tuesday starts at 21:00 and ends at 23:30 server time^,^^,^^
+^help_infolink_stonescramble_4^,^ - 아케론 마석 쟁탈전 : 매주 목요일 21시 시작, 23시 30분 종료^,^^,^^,^- Akeron Manastone Battle: Every Thursday starts at 21:00 and ends at 23:30 server time.^,^^,^^
+^help_infolink_stonescramble_5^,^4. 쟁탈전 시간 동안 맵 상에 무작위로 스폰 된 <font color="#e5c015">반타라 마석</font>을 <font color="#e5c015">마석 감시자</font>에게 전달 하는것이 목표 입니다.^,^^,^^,^4. The goal is to deliver <font color="#e5c015"> Bantara Manastone </font> Randomly spawned on the map duRing the contest time to the <font color="#e5c015"> Manastone Monitor </font> .^,^^,^^
+^help_infolink_fellowlaboratory^,^펠로우 실험실^,^^,^^,^Familiar Laboratory^,^^,^^
+^help_infolink_fellowlaboratory_tip^,^펠로우 실험실^,^^,^^,^Familiar Laboratory^,^^,^^
+^help_infolink_fellowlaboratory_0^,^1. 캐릭터가 <font color="#e5c015">49레벨</font>이 되면 특별한 펠로우를 길들일 수 있는 펠로우 실험실에 입장이 가능 합니다.^,^^,^^,^1. When your character reaches <font color="#e5c015"> Level 49 </font>, you can enter the Familiar Lab to tame special Familiars.^,^^,^^
+^help_infolink_fellowlaboratory_1^,^2. 펠로우 실험실은 불사의 사막의 <font color="#e5c015">불사군단 요새</font> 지역에 위치하고 있습니다.^,^^,^^,^2. The Familiar Lab is located near the <font color="#e5c015"> Fortress of Sorrows</font> area in Cloying Wastes.^,^^,^^
+^help_infolink_fellowlaboratory_2^,^3. 펠로우 실험실에 입장하기 위해서는 하카나스 수도성 펠로우 연구소에 있는 <font color="#e5c015">스노우벨 NPC</font>가 부여하는 퀘스트를 완료 하면 받을 수 있는 <font color="#e5c015">펠로우 실험실 입장권</font>이 필요 합니다.^,^^,^^,^3. In order to enter the Familiar Laby, you must complete the Quest given by <font color="#e5c015"> Sovell NPC </font> who is located at the Familiar Academy in Hakains Crossing to obtain the <font color="#e5c015" > Familiar Lab Ticket </font>.^,^^,^^
+^help_infolink_fellowlaboratory_3^,^4. 펠로우 실험실에 등장하는 펠로우를 길들이기 위해서는 각 펠로우의 징표가 필요 합니다.^,^^,^^,^4. You need a Mark for every Familair tHat you want to tame in the Familiar Laboratory.^,^^,^^
+^help_infolink_rabinihill^,^라비니 동산^,^^,^^,^Shady Warrens^,^^,^^
+^help_infolink_rabinihill_tip^,^라비니 동산^,^^,^^,^Shady Warrens^,^^,^^
+^help_infolink_rabinihill_0^,^1. 캐릭터가 <font color="#e5c015">50레벨</font>이 되면 라비니 동산에 입장이 가능 합니다.^,^^,^^,^1. When your character reaches <font color="#e5c015"> Level 50 </font>, you can enter the Shady Warrens.^,^^,^^
+^help_infolink_rabinihill_1^,^2. 라비니 동산은 <font color="#e5c015">바람의 협곡</font> 지역에 위치하고 있습니다.^,^^,^^,^2. Shady Warrens is located in the <font color="#e5c015"> Windy Canyon </font> area.^,^^,^^
+^help_infolink_rabinihill_2^,^3. 라비니 동산에 입장하기 위해서는 하카나스 수도성 광장에 있는 <font color="#e5c015">트레이스 NPC</font>가 부여하는 선행 퀘스트를 완료 하면 받을 수 있는 <font color="#e5c015">수상한 물약</font>이 필요 합니다.^,^^,^^,^3. In order to enter Shady Warrens, you must complete the prior Quests given by <font color="#e5c015"> Trace NPC </font> at Hakains Crossing Victory Plaza.<font color="#e5c015">Suspicious Potion</font> is required to enter.^,^^,^^
+^help_infolink_rabinihill_3^,^4. 라비니 동산에서는 펠로우나 펫을 소환하거나 캐릭터 스킬을 사용할 수 없으며 <font color="#e5c015">당근 폭탄, 호박 폭탄</font>만 사용이 가능 합니다.^,^^,^^,^4. In Shady Warrens you can not summon Familiars or Pets or use any character skills to improve your movement, only the <font color="#e5c015"> Carrot Bombs and Pumpkin Bombs</font>.^,^^,^^
+^help_infolink_rabinihill_4^,^5. 라비니 동산에 있는 <font color="#e5c015">보물상자</font>에서 다양한 보상을 획득 할 수 있습니다.^,^^,^^,^5. You can earn various rewards from the <font color="#e5c015"> Treasure Chests </font> in Shady Warrens.^,^^,^^
+^help_infolink_rabinihill_5^,^6. 라비니 동산에 있을 수 있는 <font color="#e5c015">제한 시간</font>이 있으며 시간이 종료 되면 자동으로 동산 밖으로 이탈 됩니다.^,^^,^^,^6. There is a <font color="#e5c015"> Time Limit </font> of 10 minutes after you enter Shady Warrens and you will be automatically teleportet to the outside at the end of the time.^,^^,^^
+^help_infolink_bragimine^,^브라기 광산^,^^,^^,^Braghin Mine^,^^,^^
+^help_infolink_bragimine_tip^,^브라기 광산^,^^,^^,^Braghin Mine^,^^,^^
+^help_infolink_bragimine_0^,^1. 캐릭터가 <font color="#e5c015">55레벨</font>이 되면 브라기 광산에 입장이 가능 합니다.^,^^,^^,^1. When your character reaches <font color="#e5c015"> Level 55 </font>, you can enter the Braghin Mine.^,^^,^^
+^help_infolink_bragimine_1^,^2. 브라기 광산은 <font color="#e5c015">바람의 협곡</font> 지역에 위치하고 있습니다.^,^^,^^,^2. The Braghin Mine is located in the <font color="#e5c015"> Windy Canyon </font> area.^,^^,^^
+^help_infolink_bragimine_2^,^3. 브라기 광산은 별도의 입장 조건 없이 레벨만 만족 하면 입장이 가능 합니다.^,^^,^^,^3. If you reached the corresponding Level, you will be able to enter the Braghin Mine without any requirements.#.^,^^,^^
+^help_infolink_bragimine_3^,^4. 입장 시 <font color="#e5c015">타임어택</font>이 시작 됩니다.^,^^,^^,^4. There is a <font color="#e5c015"> 10 Minutes Time Limite </font> once you enter the mine.^,^^,^^
+^help_infolink_bragimine_4^,^5. 브라기 광산에서는 펠로우나 펫을 소환할 수 없습니다.^,^^,^^,^5. You can not summon Familiars or Pets in the Braghin Mine.^,^^,^^
+^help_infolink_bragimine_5^,^6. 브라기 광산에서는 몬스터의 인지 범위를 확인 할 수 있으며, 몬스터를 처치하게 되면 <font color="#e5c015">디버프</font>가 적용 되어 이동속도에 패널티가 적용 됩니다.^,^^,^^,^6. In the Braghin Mine you can see the monster's cognitive range, and if you kill the monster, you will be penalized and a <font color="#e5c015"> Movement Speed Debuff </font> applies to you.^,^^,^^
+^help_infolink_bragimine_6^,^7. 광산 내부에 있는 <font color="#e5c015">엘리움 광석</font>을 채취 하면 다양한 보상을 얻을 수 있습니다.^,^^,^^,^7. You can get various rewards by gatheRing the <font color="#e5c015"> Elium Ore </font> inside the mine.^,^^,^^
+^help_infolink_challengetower^,^도전의 탑^,^^,^^,^Tower of challenge^,^^,^^
+^help_infolink_challengetower_tip^,^도전의 탑^,^^,^^,^Tower of challenge^,^^,^^
+^help_infolink_challengetower_0^,^1. 캐릭터가 <font color="#e5c015">50레벨</font>이 되면 도전의 탑에 입장이 가능 합니다.^,^^,^^,^1. When your character reaches <font color="#e5c015"> Level 50 </font>, you can enter the Tower of Challenge.^,^^,^^
+^help_infolink_challengetower_1^,^2. 도전의 탑은 <font color="#e5c015">불사의 사막</font>에 위치하고 있습니다.^,^^,^^,^2. The Tower of Challenge is located in <font color="#e5c015"> Cloying Wastes</font>.^,^^,^^
+^help_infolink_challengetower_2^,^3. 입장 시 <font color="#e5c015">타임어택</font>이 시작되며, 층 마다 다양한 컨셉의 던전을 클리어해야 합니다.^,^^,^^,^3. When you enter <font color="#e5c015"> Time Attack (40 Minutes)</font> starts and you must clear various Floors (up to 40 Floors).^,^^,^^
+^help_infolink_challengetower_3^,^4. 각 층마다 주어진 미션을 해결하면 보상 상자를 오픈할 수 있으며, 특정 층에서는 특별한 펠로우/펫을 길들일 수 있습니다.^,^^,^^,^4. Solve the given mission for each floor to obtain the Reward Box and get a chance to tame special Familliars and Pets on specific floors.^,^^,^^
+^help_infolink_challengetower_4^,^5. 마지막 층의 최종 보스 몬스터 처치 시 던전이 종료됩니다.^,^^,^^,^5. The Dungeon will be closed when the final boss monster is defeated or the time runs out.^,^^,^^
+^help_infolink_challengetower2^,^하스탄 비밀 수련장^,^^,^^,^Hastan Secret Retreat^,^^,^^
+^help_infolink_challengetower2_tip^,^하스탄 비밀 수련장^,^^,^^,^Hastan Secret Retreat^,^^,^^
+^help_infolink_challengetower2_0^,^1. <font color="#e5c015">도전의 탑 35층 클리어</font> 업적 달성 시 입장이 가능 합니다.^,^^,^^,^1. It is unlocked after <font color="#e5c015"> cleaRing Floor 35 in the Tower of Challenge</font>.^,^^,^^
+^help_infolink_challengetower2_1^,^2. 하스탄 비밀 수련장은 <font color="#e5c015">아크라트 초원 하스탄 마을 상단</font>에 위치하고 있습니다.^,^^,^^,^2. Hastan Secret Retreat is located at <font color="#e5c015"> the top of Hastan village in Akrat Plains</font>^,^^,^^
+^help_infolink_challengetower2_2^,^3. 방 안에 진입할 시 <font color="#e5c015">타임어택</font>이 시작되며, 방 안의 몬스터를 모두 처치해야 합니다.^,^^,^^,^3. When you enter <font color="#e5c015"> Time Attack (15 minutes) </font> starts and you have to kill all monsters in the room.^,^^,^^
+^help_infolink_challengetower2_3^,^4. 특정 층에서는 특별한 펠로우를 길들일 수 있습니다.^,^^,^^,^4. In certain roons, you can tame special Familiars.^,^^,^^
+^help_infolink_challengetower2_4^,^5. 마지막 방의 최종 보스 몬스터 처치 시 던전이 종료됩니다.^,^^,^^,^5. Defeating the boss monster in the last room will end the dungeon.^,^^,^^
+^help_infolink_thiefribini^,^괴도 라비니^,^^,^^,^Kaito Rabbinis^,^^,^^
+^help_infolink_thiefribini_tip^,^괴도 라비니^,^^,^^,^Kaito Rabbinis^,^^,^^
+^help_infolink_thiefribini_0^,^1. 괴도 라비니는 <font color="#e5c015">인던 전설 난이도</font>에서 해당 던전의 <font color="#e5c015">보스 처치 시 확률적으로 등장</font> 합니다.^,^^,^^,^1. Kaito Rabbinis can appear with a <font color="#e5c015"> certain chance after defeating the Boss </font> of the corresponding dungeon in <font color="#e5c015"> Legendary difficulty</font>.^,^^,^^
+^help_infolink_thiefribini_1^,^2. 괴도 라비니는 소환 이후 3분이 지나면 사라지며 처치 시 특별한 보상을 획득할 수 있습니다.^,^^,^^,^2. Kaito Rabbinis will disappear 3 minutes after summoning and you can receive special rewards when you defeat it.^,^^,^^
+^help_infolink_thiefribini_2^,^3. 인던 레벨별로 등장하는 라비니가 상이하며, 라비니마다 획득 가능한 보상 역시 차이가 있습니다.^,^^,^^,^3. Kaito Rabbinis are different for each level, and every Rabbini has different rewards.^,^^,^^
+^help_infolink_dailydungeon^,^하다칸 왕의 지하미궁^,^^,^^,^King Hadakan's Underground Labyrinth^,^^,^^
+^help_infolink_dailydungeon_tip^,^하다칸 왕의 지하미궁^,^^,^^,^King Hadakan's Underground Labyrinth^,^^,^^
+^help_infolink_dailydungeon_0^,^1. 캐릭터가 <font color="#e5c015">60레벨</font>이 되면 하다칸 왕의 지하미궁에 입장이 가능 합니다.^,^^,^^,^1. When your character reaches <font color="#e5c015"> Level 60 </font>, you can enter the Underground Labyrinth.^,^^,^^
+^help_infolink_dailydungeon_1^,^2. 하다칸 왕의 지하미궁은 <font color="#e5c015">하카나스 수도성 도서관</font>에 위치하고 있습니다.^,^^,^^,^2. The Underground Labyrinth is located in the <font color="#e5c015"> Hakains Crossing's Baellas Library</font>.^,^^,^^
+^help_infolink_dailydungeon_2^,^3. 위험한 몬스터들에게 <font color="#e5c015">수호석</font>을 지켜내는 요일 던전이며, 특정 요일에만 얻을 수 있는 특별한 보상이 존재합니다.^,^^,^^,^3. It is a <font color="#e5c015">Daily Dungeon</font> where you need to protect a magic Gemstone from dangerous monsters. There are special rewards tHat can only be obtained on certain days of the week.^,^^,^^
+^help_infolink_dailydungeon_3^,^4. 하다칸 왕의 지하미궁은 십자 형태로 구성되어 있으며 총 <font color="#e5c015">5번의 웨이브</font>가 진행됩니다.^,^^,^^,^4. The Underground Labyrinth has a cross-shape and total of <font color="#e5c015"> 5 Monster-Waves </font> will appear.^,^^,^^
+^help_infolink_dailydungeon_4^,^5. 웨이브 마다 <font color="#e5c015">휴식시간 1분</font>이 주어지며 특별한 기능을 가진 NPC들이 랜덤하게 소환됩니다.^,^^,^^,^5. After each wave there is a <font color="#e5c015"> 1 minute break </font>, and NPCs with special features are Randomly summoned.^,^^,^^
+^help_infolink_dailydungeon_5^,^6. 마지막 웨이브에는 보스 몬스터인 <font color="#e5c015">죽은 대지의 그리더스</font>가 소환됩니다.^,^^,^^,^6. The last wave will summon a boss monster, <font color="#e5c015"> The Leader of the Dead Earth</font>.^,^^,^^
+^help_infolink_dailydungeon_6^,^7. 하다칸 왕의 지하미궁은 <font color="#e5c015">토요일</font>에 클리어 시 보다 더욱 특별한 보상을 획득할 수 있습니다.^,^^,^^,^7. The Underground Labyrinth can give even more special rewards when it is cleared on <font color="#e5c015"> Saturday</font>.^,^^,^^
+^help_infolink_dailymission^,^투림란 요일 컨텐츠^,^^,^^,^Turiman Daily Boss^,^^,^^
+^help_infolink_dailymission_tip^,^투림란 요일 컨텐츠^,^^,^^,^Turiman Daily Boss^,^^,^^
+^help_infolink_dailymission_0^,^1. 투림란 계곡의 레이드 필드에 <font color="#e5c015">요일별로 특별한 랜덤 우두머리 몬스터가 등장</font>합니다.^,^^,^^,^1. In the Turiman Valley, there is a <font color="#e5c015"> special Random Field Raid Boss every week day </font>.^,^^,^^
+^help_infolink_dailymission_1^,^ - 등장 지역: 투림란 전 지역^,^^,^^,^- Appearance Area: Randomly in one of the following 3 locations in Turiman Valley: Destroyed Land, Insect Corps Headquarters or Aklan Community^,^^,^^
+^help_infolink_dailymission_2^,^ - 등장 요일: 월 ~ 금요일^,^^,^^,^- Appearance Day: Monday ~ Friday^,^^,^^
+^help_infolink_dailymission_3^,^ - 등장 시간: 12시, 20시 하루 2회 등장^,^^,^^,^- Appearance Time: 12:00 am and 8:00 pm every day^,^^,^^
+^help_infolink_dailymission_4^,^ - 등장 알림: 등장 5분 전에 투림란 월드에 침공 메시지 노출^,^^,^^,^- Appearance Reminder: Invasion Message in Turiman 5 minutes before appearance^,^^,^^
+^help_infolink_dailymission_5^,^ - 퀘스트 수락: 투림란 임무 게시판^,^^,^^,^- Quest Location: Turiman Mission Board^,^^,^^
+^help_infolink_dailymission_6^,^ - 퀘스트 보상: NPC 호위 미션에 등장하는 특정 펠로우의 징표 재료^,^^,^^,^- Quest Reward: Old Ice Shard (Exchange Material for Scarlet Hestin Mark) or Ancient Slates^,^^,^^
+^help_infolink_dailymission_7^,^2. 투림란 계곡에서만 진행할 수 있는 특별한 NPC 호위 이벤트로 라비니 <font color="#e5c015">영미니 NPC를 몬스터의 공격으로 부터 호위</font>하면 특별한 상점을 이용할 수 있습니다.^,^^,^^,^2. Special NPC Defense Event tHat can only be carried out in Turiman Valley. Help <font color="#e5c015"> Rabbini Young Mini NPC.to survive the attack of the monsters</font>.^,^^,^^
+^help_infolink_dailymission_8^,^ - 등장 지역: 투림란 부유섬^,^^,^^,^- Appearance: Turiman Floating Island^,^^,^^
+^help_infolink_dailymission_9^,^ - 등장 요일: 토요일^,^^,^^,^- Appearance Day: Saturday^,^^,^^
+^help_infolink_dailymission_10^,^ - 등장 시간: 20시^,^^,^^,^- Start Time: 8:00 pm Server Time^,^^,^^
+^help_infolink_dailymission_11^,^ - 등장 알림: 등장 5분 전에 투림란 월드에 처형 메시지 노출^,^^,^^,^- Appearance Reminder:Message in Turiman Valley 5 minutes before the appearance of the Executioner^,^^,^^
+^help_infolink_dailymission_12^,^ - 완료 조건: 라비니 영미니 NPC의 생존^,^^,^^,^- Completion Conditions: NPC Rabbini Young Mini's survival^,^^,^^
+^help_infolink_dailymission_13^,^ - 퀘스트 수급: NPC 라비니 영미니^,^^,^^,^- Quest Supply and Demand: NPC Rabbini Young Mini^,^^,^^
+^help_infolink_dailymission_14^,^ - 이벤트 보상: 라비니 영미니가 가지고 있는 특별 펠로우 소환, 1시간 동안 이용 가능한 특별 상점 오픈^,^^,^^,^- Event Reward: Ravigne Young Mini opens a special shop for certain a Familiar Mark/Pet Orb Material and Scarlet Hestin Familiar appears. They Disappear after 1hour.^,^^,^^
+^help_infolink_fishing^,^낚시^,^^,^^,^Fishing^,^^,^^
+^help_infolink_fishing_tip^,^낚시^,^^,^^,^Fishing^,^^,^^
+^help_infolink_fishing_0^,^1. 낚시는 낚시대와 미끼를 사용하여 보상을 획득하는 미니게임 컨텐츠 입니다.^,^^,^^,^1. Fishing is a mini-game content tHat uses a fishing rod and bait to obtain rewards.^,^^,^^
+^help_infolink_fishing_1^,^2. 낚시를 진행하기 위해서는 <font color="#e5c015">낚시대</font>와 <font color="#e5c015">미끼</font> 그리고 <font color="#e5c015">릴</font> 아이템이 필요합니다.^,^^,^^,^2. To proceed with fishing, use a <font color="#e5c015"> Fishing Rod </font>,<font color="#e5c015"> Baits </font> and <font color="#e5c015" > Automatic Reels </font> are required.^,^^,^^
+^help_infolink_fishing_2^,^3. 각각의 아이템은 낚시터 근처의 <font color="#e5c015">낚시터 상인 레스티 NPC</font> 를 통해 구매할 수 있습니다.^,^^,^^,^3. Each item can be purchased for gold through the <font color="#e5c015"> Fishing NPC </font> near the corresponding fishing spot.^,^^,^^
+^help_infolink_fishing_3^,^4. 낚시를 진행하기 위해서는 지정된 가능 지역으로 이동해야 합니다.^,^^,^^,^4. You must move to a designated area to proceed with fishing.^,^^,^^
+^help_infolink_fishing_4^,^ - <font color="#e5c015">하카나스 직할령 신룡의 해안가</font>^,^^,^^,^- <font color="#e5c015"> The Coastline of Hakanas Highland's Divinity Shore </font>^,^^,^^
+^help_infolink_fishing_5^,^ - <font color="#e5c015">하카나스 대해 무지개 산호초섬 인근 작은섬</font>^,^^,^^,^- <font color="#e5c015"> A small Island near the Rainbow Coral Reef in the Sea of Hakanas</font>^,^^,^^
+^help_infolink_fishing_6^,^ - <font color="#e5c015">불사의 사막 사색의 해안가</font>^,^^,^^,^- <font color="#e5c015"> The Philosopher's Coast in Cloying Wastes </font>^,^^,^^
+^help_infolink_fishing_7^,^ - <font color="#e5c015">엘로라의 성역 엘가덴 외곽 지역</font>^,^^,^^,^- <font color="#e5c015"> Ellora's Sanctuary Outside El Gaden </font>^,^^,^^
+^help_infolink_fishing_8^,^5. 낚시를 진행하는 방법은 2종류가 있습니다.^,^^,^^,^5. There are two ways to go fishing.^,^^,^^
+^help_infolink_fishing_9^,^ - <font color="#e5c015">자동 낚시:</font> 자동으로 낚시를 진행하며 주어진 미끼와 릴을 모두 소모할때까지 계속 이어집니다. 별도의 성공 확률을 가지고 있습니다.^,^^,^^,^- <font color="#e5c015"> Auto Fishing: </font> Continues fishing until the bait and reel are exhausted. It has a separate success probability depending on the Fishing-Equipment tHat are used.^,^^,^^
+^help_infolink_fishing_10^,^ - <font color="#e5c015">수동 낚시:</font> 수동으로 낚시를 진행하며 미니게임을 직접 플레이해야 합니다.^,^^,^^,^- <font color="#e5c015"> Manual Fishing: </font> Manually fishing to play the Mini-Game yourself.^,^^,^^
+^help_infolink_achievement^,^업적^,^^,^^,^Achievements^,^^,^^
+^help_infolink_achievement_tip^,^업적^,^^,^^,^Achievements^,^^,^^
+^help_infolink_achievement_0^,^1. 게임 플레이 중 특정한 조건을 클리어 하면 업적을 획득 할 수 있습니다.^,^^,^^,^1. You can earn achievements by cleaRing certain conditions duRing gameplay.^,^^,^^
+^help_infolink_achievement_1^,^2. 업적은 크게 전투, 일반, 던전, 펠로우, 아이템, 퀘스트, 기간 업적으로 구분됩니다.^,^^,^^,^2. Achievements are divided into Combat, Basic, Dungeon, Familiars, Items, Quests, and Repeatable Achievements.^,^^,^^
+^help_infolink_achievement_2^,^3. 업적 완료 보상은 보상 아이콘을 클릭 하면 획득할 수 있습니다.^,^^,^^,^3. Achievement Completion can be obtained by clicking on the reward icon.^,^^,^^
+^help_infolink_friend^,^친구^,^^,^^,^Friends^,^^,^^
+^help_infolink_friend_tip^,^친구^,^^,^^,^Friends^,^^,^^
+^help_infolink_friend_0^,^1. 친구 목록창 (기본 단축키: O)에서 친구를 추가 하거나 삭제할 수 있습니다.^,^^,^^,^1. You can add or remove friends from the Friends List window (Default Shortcut: O).^,^^,^^
+^help_infolink_friend_1^,^2. 상대 캐릭터를 직접 우클릭 하거나 친구 추가 버튼을 사용 하여 추가가 가능 합니다.^,^^,^^,^2. You can right-click a selected character to add it using the Add Friend Button.^,^^,^^
+^help_infolink_friend_2^,^3. 친구 관계를 맺은 캐릭터를 친구창 리스트에서 우클릭 하여 친구 등록을 삭제할 수 있습니다.^,^^,^^,^3. You can delete a friend registration by right-clicking on a friend in the Friend List window.^,^^,^^
+^help_title_mentoRing^,^멘토링^,^^,^^,^MentoRing^,^^,^^
+^help_title_mentoRing_tip^,^멘토링^,^^,^^,^MentoRing^,^^,^^
+^help_infolink_mentoRinginfo^,^멘토링^,^^,^^,^MentoRing^,^^,^^
+^help_infolink_mentoRinginfo_tip^,^멘토링^,^^,^^,^MentoRing^,^^,^^
+^help_infolink_mentoRinginfo_0^,^1. 멘토링 맺기</font>
+ - 친구 목록창(단축키:O) 멘토링 탭의 멘토링 관리 버튼을 사용, 멘토링 관리 창에서 멘토링을 신청 할 수 있습니다.
+ - 멘토링 요청 버튼을 클릭 하여 상대방의 캐릭터 명을 직접 입력 하거나 추천 탭에서 추천 버튼을 사용 하여 바로 신청 할 수 있습니다.
+ - 상대 캐릭터를 우클릭 후 멘토링 초대 항목을 클릭 하여 신청 할 수 있습니다.^,^^,^^,^1. MentoRing
+   - Friend list window (shortcut: O) You can apply for mentoRing in the MentoRing Management window using the MentoRing Admin button on the MentoRing tab.
+   - Click on the MentoRing Request button to enter the person's character name directly or use the recommendation button on the Referrals tab.
+   - You can apply by clicking the right mouse button on the opponent character and clicking on the MentoRing Invite option.^,^^,^^
+^help_infolink_mentoRinginfo_1^,^2. 멘토란?
+ - <font color="#e5c015">60레벨</font> 달성 시 멘토가 되어 다른 저레벨 캐릭터를 멘티로 받을 수 있습니다.
+ - 멘토는 <font color="#e5c015">최대 3명</font>의 멘티를 동시에 보유 할 수 있습니다.^,^^,^^,^2. WHat is a Mentor?
+   - If you are <font color="#e5c015"> Level 60 </font> you can become a mentor and receive other low-level characters as a mentee.
+   - Mentors can have <font color="#e5c015"> up to 3 mentees </font> mentees at the same time^,^^,^^
+^help_infolink_mentoRinginfo_2^,^3. 멘티란?
+ - 멘티는 멘토에게 도움을 받는 플레이어로 <font color="#e5c015">1레벨 이상, 60레벨 미만</font>의 캐릭터만 자격을 받게 됩니다.
+ - 60레벨을 초과 달성하더라도 본인 의사에 의해 졸업/해제를 통해 멘토링 관계를 해제하지 않는 경우 계속 멘티의 자격을 유지할 수 있습니다.
+ - 멘티는 동시에 1명의 멘토만을 가질수 있습니다.^,^^,^^,^3. WHat is a Mentee?
+- A Mentee is only a character who is assisted by a Mentor and is qualified to <font color="#e5c015"> level 1 or above, below level 60 </font>.
+- Even if you achieve Level 60, if you don't release the mentoRing relationship through graduation / release by your Mentor, you can continue to be a Mentee.
+- A Mentee can only have one Mentor at a time.^,^^,^^
+^help_infolink_graduation^,^멘티 졸업^,^^,^^,^Mentee Graduation^,^^,^^
+^help_infolink_graduation_tip^,^멘티 졸업^,^^,^^,^Mentee Graduation^,^^,^^
+^help_infolink_graduation_0^,^1. 멘티 캐릭터가 <font color="#e5c015">60레벨</font>을 달성하면 졸업 후 멘토가 되어 다른 멘티를 받을 수 있습니다.^,^^,^^,^1. When a Mentee character achieves <font color="#e5c015"> Level 60 </font>, you can become a Mentor after graduation and receive Mentees yourself.^,^^,^^
+^help_infolink_graduation_1^,^ - <font color="#e5c015">멘티:</font> 멘티 캐릭터는 멘토창 하단의 <font color="#e5c015">졸업 요청 버튼</font>을 클릭하여 멘토에게 졸업 요청을 할 수 있습니다.^,^^,^^,^- <font color="#e5c015"> Mentee: </font> Mentee characters can request a graduation by clicking on the <font color="#e5c015"> Graduation Request Button </font> at the bottom of the mentor window .^,^^,^^
+^help_infolink_graduation_2^,^ - <font color="#e5c015">멘토:</font> 멘토는 멘토링 창에서 <font color="#e5c015">멘티를 마우스 우클릭후 졸업 승인</font> 항목을 클릭하여 즉시 졸업시킬 수 있습니다.^,^^,^^,^- <font color="#e5c015"> Mentor: </font> Mentors can graduate immediately by clicking on the <font color="#e5c015"> Mentee in the MentoRing window and then clicking the Graduation Approved </font>^,^^,^^
+^help_infolink_benefit^,^멘토링 혜택^,^^,^^,^MentoRing Benefits^,^^,^^
+^help_infolink_benefit_tip^,^멘토링 혜택^,^^,^^,^MentoRing Benefits^,^^,^^
+^help_infolink_benefit_0^,^1. 전용 버프
+ - 멘토링 관계를 맺은 멘토와 멘티가 <font color="#e5c015">같이 접속중</font>이면 양쪽 모두에게 버프가 부여됩니다.
+ - 멘토는 접속 중인 <font color="#e5c015">멘티가 많을 수록</font> 더욱 좋은 버프를 받습니다.^,^^,^^,^1. Dedicated Buff
+   - If Mentors and Mentees with mentoRing relationships are </font> both online <font color="#e5c015">, both will be given buffs.
+   - Mentors receive a <font color="#e5c015"> better buff the more Mentees are connected at the same time </font>.^,^^,^^
+^help_infolink_benefit_1^,^2. 소환 기능
+ - 멘토 관계를 맺은 캐릭터는 <font color="#e5c015">엘룬 소모 없이</font> 접속중인 상대방을 소환하거나 이동할 수 있습니다.^,^^,^^,^2. Summoning function
+- A character who has a MentoRing relationship can summon the party you are in a mentoRing relationship with <font color="#e5c015"> without consuming Ellun. </font>^,^^,^^
+^help_infolink_benefit_2^,^3. 레벨업 보상
+ - 멘토링 관계를 맺은 멘티 캐릭터가 특정 레벨을 달성 하면 멘토와 멘티 모두에게 아이템이 지급 됩니다.
+ - 멘토에게는 멘토링 상점에서 아이템을 살 수 있는 신뢰의 주화가, 멘티에게는 성장에 도움이 되는 아이템이 지급 됩니다.
+ - 레벨업 보상은 멘티는 즉시 엘로라의 보관함으로, 멘토는 캐릭터 재접속 후 엘로라의 보관함으로 지급 됩니다.^,^^,^^,^3. Level Up Rewards
+- If the Mentee character reaches a certain level, the item will be paid to both the Mentor and the Mentee.
+- Mentors are given "Coins of Trust" to buy items at mentoRing store, while Mentees are given items to help them grow.
+- The Level-Up Rewards will be paid to Ellora's Storage immediately to the Mentee, and to the Mentor's Ellora's Storage upon the next logg-in.^,^^,^^
+^help_infolink_ranking^,^랭킹 시스템^,^^,^^,^Ranking System^,^^,^^
+^help_infolink_ranking_tip^,^랭킹 시스템^,^^,^^,^Ranking System^,^^,^^
+^help_infolink_ranking_0^,^1. 우측 하단의 시스템 버튼, 키보드 ESC키를 통해 각종 컨텐츠의 랭킹을 확인할 수 있습니다.^,^^,^^,^1. You can check the Ranking of various contents through system buttons on the bottom right or the ESC Key.^,^^,^^
+^help_infolink_ranking_1^,^2. 도전의 탑 랭킹^,^^,^^,^2. Tower of Challenge Ranking^,^^,^^
+^help_infolink_ranking_2^,^ - 주간/월간 별 최고 점수가 기록 되며 <font color="#e5c015">도전의 탑 + 하스탄 비밀 수련장</font> 합산 점수 중 가장 높은 점수로 산정됩니다.^,^^,^^,^- Highest weekly / monthly score are recorded. It is the combined score of <font color="#e5c015"> Tower of Challenge + Hastan Secret Retreat </font> .^,^^,^^
+^help_infolink_ranking_3^,^3. 1:1 결투 랭킹^,^^,^^,^3. 1:1 Duel Ranking^,^^,^^
+^help_infolink_ranking_4^,^ - 주간(이번주/지난주) 결투 랭킹 최고 점수가 기록 됩니다.^,^^,^^,^- The weekly (This Week / Last Week) Duel Ranking highest score is recorded.^,^^,^^
+^help_infolink_ranking_5^,^4. 전장 랭킹^,^^,^^,^4. Battlefield Ranking^,^^,^^
+^help_infolink_ranking_6^,^ - 주간(이번주) 전장 랭킹 최고 RP가 기록 됩니다.^,^^,^^,^- The weekly (This Week) Battleground Ranking highest RP is recorded.^,^^,^^
+^help_infolink_ranking_7^,^5. 길드 랭킹^,^^,^^,^5. Guild Ranking^,^^,^^
+^help_infolink_ranking_8^,^ - 각 길드의 명예포인트에 따라 월간 길드 랭킹 최고 점수가 기록 됩니다.^,^^,^^,^- According to the Honor Points of each Guild, the highest monthly Guild ranking score is recorded.^,^^,^^
+^help_infolink_ranking_9^,^ - 명예포인트는 길드원의 레벨에 맞는 사냥, 길드원의 레벨 업, 거점전을 통하여 습득할 수 있습니다.^,^^,^^,^- Honor points can be earned through hunting monsters according to the Level of the Guild Member, Level up of Guild Members and Stronghold Transitions.^,^^,^^
+^help_infolink_itemseal^,^각인^,^^,^^,^Engraving^,^^,^^
+^help_infolink_itemseal_tip^,^각인^,^^,^^,^Engraving^,^^,^^
+^help_infolink_itemseal_0^,^1. 전용 아이템을 사용 하여 아이템과 펠로우를 개인 거래, 파괴, 상점 판매가 불가능 하도록 캐릭터에 각인 시킬 수 있습니다.^,^^,^^,^1. You can use special items to engrave Items and Familiars on your character so tHat you can't Trade, Destroy or sell them.^,^^,^^
+^help_infolink_itemseal_1^,^2. 각인 도구는 잡화 상인 NPC 에게서 구매가 가능 합니다.^,^^,^^,^2. Engraving Tools can be purchased from General Merchant NPCs.^,^^,^^
+^help_infolink_itemseal_2^,^3. 각인 도구를 우클릭 후 각인 하려는 아이템이나 펠로우를 클릭 하면 각인이 이루어 집니다.^,^^,^^,^3. Right-click the Engraving Tool and then Left-click the Item or Familiar you want to engrave.^,^^,^^
+^help_infolink_multipleproduction^,^다중 제작^,^^,^^,^Multiple Productions^,^^,^^
+^help_infolink_multipleproduction_tip^,^다중 제작^,^^,^^,^Multiple Productions^,^^,^^
+^help_infolink_multipleproduction_0^,^1. <font color="#e5c015">알사스, 텔리오</font> 장비는 제작 시 재료를 거래가능, 거래불가 중 한 종류를 선택 하여 제작이 가능 합니다.^,^^,^^,^1. <font color="#e5c015"> Alsas and Teleo </font> Equipment can be made by selecting one type of material, (Event/ Normal)^,^^,^^
+^help_infolink_multipleproduction_1^,^2. 제작 하려는 아이템 선택 후 다중 제작 버튼을 사용하여 재료를 교체 할수 있습니다.^,^^,^^,^2. After selecting the item you want to make, you can change the material using the Multi-Production Button.^,^^,^^
+^help_infolink_successionproduction^,^계승 제작^,^^,^^,^Succession Crafting^,^^,^^
+^help_infolink_successionproduction_tip^,^계승 제작^,^^,^^,^Succession Crafting^,^^,^^
+^help_infolink_successionproduction_0^,^1. 일부 장비는 재료 장비의 강화 단계, 초월 단계, 리버스 강화 단계, 랜덤 옵션 수치, 봉인석 장착 슬롯 개수를 계승 하여 제작이 가능 합니다.^,^^,^^,^1. Some Equipment can be crafted by inheriting the Enchantments of the material Equipment: a certain part of the TempeRing Level, Surpassing Level, Reverse TempeRing Level, 2 Random Options (Top 2 lines), and installed Seals.^,^^,^^
+^help_infolink_successionproduction_1^,^ - <font color="#e5c015">엘로라 > 알사스</font>^,^^,^^,^- <font color="#e5c015"> Ellora> Alsas </font>^,^^,^^
+^help_infolink_successionproduction_2^,^ - <font color="#e5c015">엘로라 > 마신 젤나리스</font>^,^^,^^,^- <font color="#e5c015"> Ellora> Zelnaris </font>^,^^,^^
+^help_infolink_successionproduction_3^,^ - <font color="#e5c015">알사스 > 테마인</font>^,^^,^^,^- <font color="#e5c015"> Alsas> Temain </font>^,^^,^^
+^help_infolink_successionproduction_4^,^ - <font color="#e5c015">알사스 > 마신 젤나리스</font>^,^^,^^,^- <font color="#e5c015"> Alsas> Zelnaris </font>^,^^,^^
+^help_infolink_successionproduction_5^,^ - <font color="#e5c015">텔리오 > 테마인</font>^,^^,^^,^- <font color="#e5c015"> Teleo> Temain </font>^,^^,^^
+^help_infolink_successionproduction_6^,^2. 계승 제작을 하기 위해서는 별도의 <font color="#e5c015">계승 레시피</font>가 필요 합니다.^,^^,^^,^2. Requires a separate <font color="#e5c015"> Succession Recipe </font> for Succcession Crafting.^,^^,^^
+^help_infolink_successionproduction_7^,^3. 일반 레시피에 필요 재료 개수보다 많은 개수의 재료를 필요로 합니다.^,^^,^^,^3. Requires a larger number of ingredients than Simple Crafting.^,^^,^^
+^help_infolink_successionproduction_8^,^4. 일반 제작에 비해 성공 확률이 낮습니다.^,^^,^^,^4. Chances of success are lower than Simple Crafting.^,^^,^^
+^help_infolink_successionproduction_9^,^5. 계승 제작 시 재료 장비의 조건은 다음과 같습니다.^,^^,^^,^5. The conditions of material Equipments for Succession Crafting are as follows:^,^^,^^
+^help_infolink_successionproduction_10^,^ - <font color="#e5c015">카라샤(40레벨 전설등급 장비) 이상의 전설 장비</font>^,^^,^^,^- <font color="#e5c015"> Ellora Equipment or better (Level 50 Legendary Equipment or higher) </font>^,^^,^^
+^help_infolink_successionproduction_11^,^ - <font color="#e5c015">25강화 이상</font>^,^^,^^,^- <font color="#e5c015"> Tempered to +25 or higher (+25 with Reverse) </font>^,^^,^^
+^help_infolink_successionproduction_12^,^ - <font color="#e5c015">5초월 이상</font>^,^^,^^,^- <font color="#e5c015"> Surpassing Level 5 or higher </font>^,^^,^^
+^help_infolink_successionproduction_13^,^6. 계승 제작 시 계승되는 항목은 다음과 같습니다.^,^^,^^,^6. The Succession Effects are as follows:^,^^,^^
+^help_infolink_successionproduction_14^,^ - <font color="#e5c015">초월 단계</font>^,^^,^^,^- <font color="#e5c015"> Surpassing Level </font>^,^^,^^
+^help_infolink_successionproduction_15^,^ - <font color="#e5c015">리버스 강화 단계</font>^,^^,^^,^- <font color="#e5c015"> Reverse TempeRing Level</font>^,^^,^^
+^help_infolink_successionproduction_16^,^ - <font color="#e5c015">랜덤효과 2가지(상위)</font>^,^^,^^,^- <font color="#e5c015"> 2 Random Effects (Top 2 Lines) </font>^,^^,^^
+^help_infolink_successionproduction_17^,^ - <font color="#e5c015">아이템 강화 단계 40% ~ 70% 적용</font>^,^^,^^,^- <font color="#e5c015"> 40% ~ 70% of the material Equipments TempeRing Level </font>^,^^,^^
+^help_infolink_successionproduction_18^,^7. 신화 등급 장비는 계승 제작으로만 가능 합니다.^,^^,^^,^7. Mythical grade Equipment can only be crafted via Succession.^,^^,^^
+^help_infolink_successionproduction_19^,^8. 신화 등급 장비 계승 제작 시 강화 단계는 계승 되지 않으며, 계승 되는 항목은 아래와 같습니다.^,^^,^^,^8. Mythical grade Equipment Succession does not inherit TempeRing Level but the following items are inherited:^,^^,^^
+^help_infolink_successionproduction_20^,^ - <font color="#e5c015">초월 단계</font>^,^^,^^,^- <font color="#e5c015"> Surpassing Level </font>^,^^,^^
+^help_infolink_successionproduction_21^,^ - <font color="#e5c015">리버스 강화 단계</font>^,^^,^^,^- <font color="#e5c015"> Reverse TempeRing Level</font>^,^^,^^
+^help_infolink_successionproduction_22^,^ - <font color="#e5c015">랜덤효과 2가지(상위)</font>^,^^,^^,^- <font color="#e5c015"> 2 Random Effects (Top 2 Lines) </font>^,^^,^^
+^help_infolink_successionproduction_23^,^ - 봉인석 장착 슬롯은 신화 등급의 경우 4개 고정입니다^,^^,^^,^- Mythical grade items will always be crafted with 4 Seal Slots.^,^^,^^
+^help_title_pccafe^,^PC방 서비스^,^^,^^,^PC Cafe Service^,^^,^^
+^help_infolink_pccafebenefit^,^PC방 접속 혜택^,^^,^^,^PC Cafe Benefits^,^^,^^
+^help_infolink_pccafebenefit_tip^,^PC방 접속 혜택^,^^,^^,^PC Cafe Benefits^,^^,^^
+^help_infolink_pccafebenefit_0^,^1. 이카루스 가맹 PC방에서 접속 하시면 다양한 혜택을 누리실 수 있습니다.^,^^,^^,^1. You can enjoy various benefits by accessing Icarus from a PC Cafe.^,^^,^^
+^help_infolink_pccafebenefit_1^,^ - PC방에서 접속 시 10분마다 1개씩 <font color="#e5c015">피시바니 당근 주화</font>가 지급 됩니다.^,^^,^^,^- You will receive one <font color="#e5c015"> PC Bunny Carrot Coin</font> for every 10 minutes when you connect from a PC Cafe.^,^^,^^
+^help_infolink_pccafebenefit_2^,^ - <font color="#e5c015">PC방 전용 버프</font>가 적용 됩니다.^,^^,^^,^- <font color="#e5c015"> PC Cafe Buff </font> is applied^,^^,^^
+^help_infolink_pccafebenefit_3^,^ - 하루에 5번 룰렛 게임을 통해 아이템을 획득 가능 합니다.^,^^,^^,^- You can earn items through roulette games 5 times a day.^,^^,^^
+^help_infolink_pccafebenefit_4^,^ - <font color="#e5c015">PC방 전용 펠로우, 펫</font>을 이용 가능 합니다.^,^^,^^,^- <font color="#e5c015"> PC Cafe Familairs and Pet </font> are available.^,^^,^^
+^help_infolink_pccafebenefit_5^,^ - 매일 <font color="#e5c015">PC방 전용 부스터와 소모품</font>이 지급 됩니다.^,^^,^^,^- Every day <font color="#e5c015"> PC booster and supplies </font> will be paid.^,^^,^^
+^help_infolink_pccafebenefit_6^,^ - <font color="#e5c015">PC방 전용 칭호</font>가 지급 됩니다.^,^^,^^,^- <font color="#e5c015"> PC room title </font> will be paid.^,^^,^^
+^help_infolink_pccafebenefit_7^,^ - 피시바니 당근 주화로 <font color="#e5c015">PC방 전용 상점</font>에서 아이템을 구입할 수 있습니다.^,^^,^^,^- You can purchase items from <font color="#e5c015"> PC store </font> with fishbone carrot coins.^,^^,^^
+^help_infolink_pccafefellowlaboratory^,^PC방 펠로우 실험실^,^^,^^,^PC Cafe Familiar Laboratory^,^^,^^
+^help_infolink_pccafefellowlaboratory_tip^,^PC방 펠로우 실험실^,^^,^^,^PC Cafe Familiar Laboratory^,^^,^^
+^help_infolink_pccafefellowlaboratory_0^,^1. PC방에서만 획득할 수 있는 <font color="#e5c015">피시바니 당근 주화</font>로 <font color="#e5c015">PC방 펠로우 실험실 입장권</font>을 구매할 수 있습니다.^,^^,^^,^1. You can purchase a <font color="#e5c015"> PC Cafe Familiar Lab Ticket </font> with a <font color="#e5c015"> PC Bunny Carrot Coin </font> tHat can only be obtained from a PC Cafe.^,^^,^^
+^help_infolink_pccafefellowlaboratory_1^,^2. 캐릭터가 <font color="#e5c015">49레벨</font>이 되면 PC방 펠로우 실험실에 입장이 가능 합니다.^,^^,^^,^2. When your character reaches <font color="#e5c015"> Level 49 </font>, you can enter the Familiar Lab.^,^^,^^
+^help_infolink_pccafefellowlaboratory_2^,^3. PC방 펠로우 실험실은 <font color="#e5c015">하카나스 수도성 펠로우 연구소</font>에 위치하고 있습니다.^,^^,^^,^3. The PC Cafe Familiar Laboratory is located at <font color="#e5c015"> Hakains Crossing Familiar Academy </font>^,^^,^^
+^help_infolink_pccafefellowlaboratory_3^,^4. PC방 펠로우 실험실에서는 일반 펠로우 실험실보다 더욱 다양한 펠로우를 만나실 수 있습니다.^,^^,^^,^4. In the PC Cafe Familiar Lab, you will find a higher variety of Familiars than in the regular Familiar Lab.^,^^,^^
+^help_infolink_pccafefellowlaboratory_4^,^5. PC방 펠로우 실험실에 등장하는 펠로우를 길들이기 위해서는 각 펠로우의 징표가 필요 합니다.^,^^,^^,^5. You need a Mark for every Familair tHat you want to tame in the PC Cafe Familiar Lab.^,^^,^^
+^help_infolink_pccafefishing^,^PC방 낚시터^,^^,^^,^PC Cafe Fishing^,^^,^^
+^help_infolink_pccafefishing_tip^,^PC방 낚시터^,^^,^^,^PC Cafe Fishing^,^^,^^
+^help_infolink_pccafefishing_0^,^1. <font color="#e5c015">하카나스 공중 선착장의 피즈 NPC</font>를 통해서 피시바니의 보물섬으로 입장할 수 있습니다.^,^^,^^,^1. You can enter the PC Bunny Treasure Island through a portal near <font color="#e5c015">NPC Fiz at the Hakains Crossing Titan Platform</font>.^,^^,^^
+^help_infolink_pccafefishing_1^,^2. 입장하기 위해서는 피시바니 상점에서 판매하는 <font color="#e5c015">사공의 모래시계</font> 아이템이 필요 합니다.^,^^,^^,^2. In order to enter, you need a <font color="#e5c015"> Boatsmen Hourglass </font> item from the PC Bunny Store.^,^^,^^
+^help_infolink_pccafefishing_2^,^3. 피시바니의 보물섬에서는 일반 낚시터 보다 좋은 아이템을 획득할 확률이 높습니다.^,^^,^^,^3. PC Bunny's Treasure Island is more likely to weild better items than a normal fishing boat.^,^^,^^
+^help_infolink_pccafedailymission^,^PC방 일일 퀘스트^,^^,^^,^PC Cafe Daily Quest^,^^,^^
+^help_infolink_pccafedailymission_tip^,^PC방 일일 퀘스트^,^^,^^,^PC Cafe Daily Quest^,^^,^^
+^help_infolink_pccafedailymission_0^,^1. <font color="#e5c015">하카나스 수도성 광장의 피시바니 NPC</font>를 통해 매일 PC방 전용 일일 퀘스트를 수행할 수 있습니다.^,^^,^^,^1. You can take a Daily Quests for your PC Cafe daily via the <font color="#e5c015"> PC Bunny NPC at Hakanas Crossing Victory Plaza</font>.^,^^,^^
+^help_infolink_pccafedailymission_1^,^2. PC방 퀘스트는 총 4종으로 완료 시 <font color="#e5c015">피시바니의 당근 주화</font>를 획득할 수 있습니다.^,^^,^^,^2. You can get <font color="#e5c015"> PC Bunny Carrot Coins </font> when you finish 4 PC Cafe Quests.^,^^,^^
+^help_infolink_classawaken^,^캐릭터 각성^,^^,^^,^Character Awakening^,^^,^^
+^help_infolink_classawaken_tip^,^캐릭터 각성^,^^,^^,^Character Awakening^,^^,^^
+^help_infolink_classawaken_0^,^1. 캐릭터가 <font color="#e5c015">60레벨</font>이 되면 캐릭터의 힘을 끌어내어 <font color="#e5c015">각성</font>이 가능 합니다.^,^^,^^,^1. When your character reaches <font color="#e5c015"> Level 60 </font>, you can obtain the <font color="#e5c015"> Awakening </font> Skill for your class^,^^,^^
+^help_infolink_classawaken_1^,^2. 메인 퀘스트 진행 중 <font color="#e5c015">아크라트 초원 폐쇄된 감시탑의 치메르 NPC</font>에게 각성 퀘스트를 받을수 있습니다.^,^^,^^,^2. You can obtain the Awakening Quest from <font color="#e5c015">Cheemer at the Abandoned Watchtower in Akrat Plains</font> while doing the Main-Questline.^,^^,^^
+^help_infolink_classawaken_2^,^3. <font color="#e5c015">하카나스 수도성 엘로라 성소의 벨제로스 NPC</font>에게 두번째 퀘스트를 받을수 있습니다.^,^^,^^,^3. You can get a seconds Quest for it from <font color="#e5c015">Velzeroth at Ellora's Sanctuary in Hakains Crossing</font>.^,^^,^^
+^help_infolink_classawaken_3^,^4. 두번째 퀘스트를 완료하기 위해서는 <font color="#e5c015">전설의 각성 증표 조각</font>이 필요 하며 획득 방법은 다음과 같습니다.^,^^,^^,^4. To complete the second quest, you need <font color="#e5c015"> Legendary Awakening Fragment</font>^,^^,^^
+^help_infolink_classawaken_4^,^ - 베일에 싸인 동굴, 파를라크 얼음 성재, 공역의 틈새 전설 난이도 클리어 후 전설의 각성 증표 조각 획득^,^^,^^,^- You can obtain the Legendary Awakening Fragment after cleaRing the Cavern of the Veil, Frost keep or The Breach Dungeon on Legendary Difficulty.^,^^,^^
+^help_infolink_classawaken_5^,^ - 엑자란, 아케론 지역에 등장하는 분노의 헌터 잭 또는 고통의 히노크 처치 후 전설의 각성 증표 조각 획득^,^^,^^,^- You can obtain the Legendary Awakening Fragment by defeating Jack the Hunter in the Exarahn Badlands or Painful Henok in the Akeron Badlands.^,^^,^^
+^help_infolink_classawaken_6^,^5. 두번째 퀘스트를 완료 하면 특성창에서 <font color="#e5c015">각성 전용 특성</font>을 장착할 수 있습니다.^,^^,^^,^5. Once you complete the second quest, you can mount the <font color="#e5c015"> Awakening Talent </font> in the Talents window.^,^^,^^
+^help_infolink_classawaken_7^,^6. 각성 특성 장착 시 캐릭터 별로 <font color="#e5c015">각성 스킬</font>이 추가 됩니다.^,^^,^^,^6. After equipping the Awakening Talent the <font color="#e5c015"> Awakening-Only Skills </font> is added for each character.^,^^,^^
+^help_infolink_classawaken_8^,^7. 퀘스트 보상으로 <font color="#e5c015">각성 스킬북</font>이 지급 되며 사용 시 전용 버프 스킬을 획득합니다.^,^^,^^,^7. As a Quest reward you will receive an <font color="#e5c015"> Awakening Skill Book </font> tHat will teach you a special Buff Skill when using it.^,^^,^^
+^help_infolink_classchoice^,^클래스 선택^,^^,^^,^Select a Class^,^^,^^
+^help_infolink_classchoice_tip^,^클래스 선택^,^^,^^,^Select a Class^,^^,^^
+^help_infolink_classchoice_0^,^<font color="#e5c015">1. 버서커</font>^,^^,^^,^<font color="#e5c015"> 1. Berserker </font>^,^^,^^
+^help_infolink_classchoice_1^,^ - 버서커는 단일 대상과 다수 대상을 상대할 수 있는 스킬을 밸런스있게 보유하고 있어 <font color="#e5c015">단일 대상에게 폭발적인 데미지</font>를 퍼부어 순식간에 끝장을 낼 수도 있으며, <font color="#e5c015">다수의 적을 동시에 상대하여 한꺼번에 섬멸</font>할 수도 있습니다.^,^^,^^,^- The Berserker has a balance of ability to deal with a single target and multiple targets alike, and he can end fights quickly with <font color="#e5c015"> explosive damage </font> to a single target. <font color="#e5c015">You can also deal with multiple enemies at the same time and destroy them all at once. </font>^,^^,^^
+^help_infolink_classchoice_2^,^<font color="#e5c015">2. 가디언</font>^,^^,^^,^<font color="#e5c015"> 2. Guardian </font>^,^^,^^
+^help_infolink_classchoice_3^,^ - 가디언은 단일 대상 공격 스킬과 상대의 움직임을 제약하는 스킬로 안정적인 솔로 플레이가 가능하며, <font color="#e5c015">높은 방어력와 체력 그리고 연계 스킬</font>을 통해 어그로를 증가시켜 <font color="#e5c015">파티 플레이에서 아군을 보호</font>하는 역할을 수행합니다.^,^^,^^,^- The Guardian has a single target attack skill and the ability to restrict opponent's movements. It is possible to play solo with ease. His <font color="#e5c015">High Defense, Health and the use of Link-Skills</font> allow him to increase his Aggro significantly and<font color="#e5c015">protect the party members from attacking monsters</font>.^,^^,^^
+^help_infolink_classchoice_4^,^<font color="#e5c015">3. 어쌔신</font>^,^^,^^,^<font color="#e5c015"> 3. Assassin </font>^,^^,^^
+^help_infolink_classchoice_5^,^ - 어쌔신은 대상의 공격을 피할 수 있는 <font color="#e5c015">회피기와 단일 대상을 무력화 시킬 수 있는 폭발적인 공격력과 군중 제어기</font>를 보유하였고 적을 제압하는 상태 이상 스킬의 효율이 타 클래스에 비하여 효율이 뛰어난 편입니다.^,^^,^^,^- The Assassin has a <font color="#e5c015"> high evasion rate evasion and explosive attack power and crowd controlling Skills </font> tHat can defeat a single target with ease, which makes him is more efficient than any other class.^,^^,^^
+^help_infolink_classchoice_6^,^ - 하지만 전체적인 스킬들이 단일 대상이기 때문에 타 클래스에 비하여 대규모 전투에서의 효율은 낮습니다.^,^^,^^,^- The Assassin is more specialized in Single-Targets, so it is less efficient in large battles than any other class.^,^^,^^
+^help_infolink_classchoice_7^,^<font color="#e5c015">4. 위저드</font>^,^^,^^,^<font color="#e5c015"> 4. Wizard </font>^,^^,^^
+^help_infolink_classchoice_8^,^ - 위저드는 마나를 사용하는 직업으로써 <font color="#e5c015">냉기와 화염</font> 속성을 이용해 자신의 능력을 강화하여 원거리에서 대상에게큰 피해를 입힐수 있습니다.^,^^,^^,^- Wizards are a Mana-based class tHat use their <font color="#e5c015"> Frost and Flame </font> Elements to enhance their abilities, and causing great damage to targets over long distances and small areas.^,^^,^^
+^help_infolink_classchoice_9^,^ - 또한 <font color="#e5c015">빛과 어둠</font>의 속성을 이용하여 아군에게는 이로운 버프 효과를, 적군에게는 디버프 효과를 부여하며 전장의 상황을 유리하게 이끌어 나갑니다.^,^^,^^,^- Also, using the Elements of <font color="#e5c015"> Light and Darkness </font>, he gives a small supportive effect to nearby Allies and a debuffs the enemy.^,^^,^^
+^help_infolink_classchoice_10^,^<font color="#e5c015">5. 프리스트</font>^,^^,^^,^<font color="#e5c015"> 5. Priest </font>^,^^,^^
+^help_infolink_classchoice_11^,^ - 프리스트는 <font color="#e5c015">아군의 체력을 회복</font>시켜주는 힐러의 역할과 대상에게 <font color="#e5c015">디버프와 군중 제어기술을 사용해 상대방을 장시간 약화</font>시키는 디버퍼의 역할을 수행 가능한 직업으로, 파티에서 꼭 필요한 존재이지만, 타 클래스에 비하여 상대적으로 적은 공격 스킬 때문에 솔로 플레이에 상당히 어려움을 느낄 수 있습니다.^,^^,^^,^- The Priest <font color="#e5c015"> heals his Allies' health and stregthen them with small Buffs</font>and uses<font color="#e5c015"> Debuffs and crowd control Skills to weaken your opponents for a long time</font>.It is a Class tHat can be played as a minor Buffer and it is necessary for a good party, but it is difficult to play solo due to the relatively low attack power compared to other classes.^,^^,^^
+^help_infolink_classchoice_12^,^<font color="#e5c015">6. 아이돌</font>^,^^,^^,^<font color="#e5c015"> 6. Idol </font>^,^^,^^
+^help_infolink_classchoice_13^,^ - 빛의 힘을 이용하여 소환한 지대를 이용하여 적을 공격하고 소환한 인형의 기운으로 <font color="#e5c015">주변 아군과 자신의 힘을 향상</font> 시킬 수 있으며, 아군의 힘을 적재적소에 극대화시킬 수 있는 판단력이 필요한 클래스입니다.^,^^,^^,^- The Idol can summon different Dolls and powerful areas of Nature and Light to attack and weaken enemie and <font color="#e5c015"> strengthen nearby Party Members </font>. This is a class tHat requires keen judgment to maximize the strength of your Allies in the right moments.^,^^,^^
+^help_infolink_classchoice_14^,^<font color="#e5c015">7. 매지션</font>^,^^,^^,^<font color="#e5c015"> 7. Magician </font>^,^^,^^
+^help_infolink_classchoice_15^,^ - <font color="#e5c015">마기를 가지고 적을 구속</font>하거나 타격을 입히고 마기를 마력으로 변환시켜 빛을 만들어 내어 <font color="#e5c015">강력한 피해</font>를 입히는 것이 가능하나, 마기 관리를 항상 신경쓰며 지속적인 전투가 이루어지도록 컨트롤이 필요한 클래스 입니다.^,^^,^^,^- The Magician <font color="#e5c015"> attacks the enemy with various magic attacks </font> made of Light and Darkness and deals <font color="#e5c015"> high damage </font>to multiple and single targets alike. But it needs a perfect Magi Management to ensure continuous combat.^,^^,^^
+^help_title_pvpcontents^,^PVP컨텐츠^,^^,^^,^PVP Content^,^^,^^
+^tutorial_glide2_desc^,^비행 중, <font color="#e5c015">SPACE BAR</font>를 2번 연속으로 눌러, 활강할 수 있습니다.^,^^,^^,^DuRing the flight, you can glide by pressing <font color="#e5c015"> SPACE BAR </font> twice.^,^^,^^
+^tutorial_glide2_title^,^활강^,^^,^^,^Gliding^,^^,^^
+^help_infolink_controlmode^,^조작 모드^,^^,^^,^Control Mode^,^^,^^
+^help_infolink_controlmode_tip^,^조작 모드^,^^,^^,^Control Mode^,^^,^^
+^help_infolink_controlmode_0^,^1. 게임 조작 방식을 선택할 수 있습니다.^,^^,^^,^1. You can choose how you want to play the game.^,^^,^^
+^help_infolink_controlmode_1^,^2. 조작모드에는 <font color="#e5c015">2종류</font>의 방식이 있습니다.^,^^,^^,^2. There are <font color="#e5c015"> 2 types </font> of Control Modes available.^,^^,^^
+^help_infolink_controlmode_2^,^ - <font color="#e5c015">스탠다드 모드</font>: 마우스를 사용하여 타겟을 지정한 뒤 스킬을 사용하는 방식 입니다.^,^^,^^,^- <font color="#e5c015"> Standard Mode </font>: In this mode you use the mouse to target and then use skills.^,^^,^^
+^help_infolink_controlmode_3^,^ - <font color="#e5c015">액션 타겟팅 모드</font>: 화면 중앙에 위치한 조준점을 통해 타겟을 지정할 수 있으며, 마우스 좌/우 클릭을 통해 스킬을 사용하는 방식 입니다. (원하는 대상을 조준점에 넣고 상호작용을 시도 하면 더욱 쉽게 상호작용이 가능 합니다.)^,^^,^^,^- <font color="#e5c015"> Action Mode </font>: You can select the target through the aiming point located at the center of the screen. (It is easier to interact with a target by placing it at the aiming point and trying to interact with it.)^,^^,^^
+^help_infolink_controlmode_4^,^3. 조작모드는 캐릭터 생성시 최초로 선택할 수 있으며, 환경 설정창의 게임 설정탭 조작모드 영역에서 선택이 가능 합니다.^,^^,^^,^3. Control Mode can be selected first when character is created, and can be selected in the Game Settings "Control Mode" area in the "Game" tab.^,^^,^^
+^help_infolink_classawaken2^,^캐릭터 진화 각성^,^^,^^,^Character Awakening Evolution^,^^,^^
+^help_infolink_classawaken2_tip^,^캐릭터 진화 각성^,^^,^^,^Character Awakening Evolution^,^^,^^
+^help_infolink_classawaken2_0^,^1. 진화 각성이란^,^^,^^,^1. WHat is Awakening Evolution^,^^,^^
+^help_infolink_classawaken2_1^,^ - 캐릭터가 <font color="#e5c015">70레벨</font> 달성후 <font color="#e5c015">영웅의 부름</font> 퀘스트를 완료 하면 진화 각성이 가능 합니다.^,^^,^^,^- After your character reaches <font color="#e5c015"> Level 70 </font>, you can evolve by completing the Quest <font color="#e5c015"> Hero's Call</font>.^,^^,^^
+^help_infolink_classawaken2_2^,^ - 진화 각성을 통해 변신을 하게 되면 캐릭터의 외형이 변화 하며, 강력한 <font color="#e5c015">콤보 스킬</font>을 사용할 수 있습니다.^,^^,^^,^- When you transform through Evolved Awakening, your character's appearance will change, and you can use a powerful <font color="#e5c015"> Combo Skill</font>.^,^^,^^
+^help_infolink_classawaken2_3^,^2. 진화 각성 활성화^,^^,^^,^2. Activation of Awakening Evolution^,^^,^^
+^help_infolink_classawaken2_4^,^ - <font color="#e5c015">영웅의 부름</font> 퀘스트를 완료 하면 진화 각성이 활성화 되며 <font color="#e5c015">[변신]진화 각성</font> 스킬을 사용 하여 변신이 가능 합니다.^,^^,^^,^- When you complete the Quest <font color="#e5c015"> Hero's Call</font>, you will activate the <font color="#e5c015"> [Transformation] Evolved Awakening </font> Skill.^,^^,^^
+^help_infolink_classawaken2_5^,^  (브라카르 숲의 <font color="#e5c015">시온 NPC</font>에게 퀘스트 습득 후 브라카르 숲에 있는 <font color="#e5c015">벨히라 NPC</font>에게 완료)^,^^,^^,^(You can obtain the quest from <font color="#e5c015"> NPC Zion </font> and finish it at <font color="#e5c015"> NPC Belhira </font>. Both are located in Brakkar Forest.)^,^^,^^
+^help_infolink_classawaken3^,^진화 각성 스킬의 사용 및 성장^,^^,^^,^Use and Grow Evolved Awakening Skills^,^^,^^
+^help_infolink_classawaken3_tip^,^진화 각성 스킬의 사용 및 성장^,^^,^^,^Use and Grow Evolved Awakening Skills^,^^,^^
+^help_infolink_classawaken3_0^,^1. 변신 게이지^,^^,^^,^1. Transformation Gauge^,^^,^^
+^help_infolink_classawaken3_1^,^ - <font color="#e5c015">[변신]진화 각성</font> 스킬을 사용하기 위해 필요한 자원 입니다.^,^^,^^,^- The resource needed to activate the <font color="#e5c015"> [Transformation] Evolved Awakening</font>.^,^^,^^
+^help_infolink_classawaken3_2^,^ - <font color="#e5c015">진화 각성 게이지</font> 활성화 이후 적을 공격 하면 변신 게이지가 일정량 회복 됩니다.^,^^,^^,^- After unlocking the <font color="#e5c015"> Evolved Awakening Gauge </font>, it will regain over time tHat you are in combat.^,^^,^^
+^help_infolink_classawaken3_3^,^ - 변신 게이지가 가득 찬 상태에서 <font color="#e5c015">[변신]진화 각성</font> 스킬을 사용 하여 변신할 수 있습니다. (변신 시 게이지는 초기화 됩니다.)^,^^,^^,^- You can transform using the <font color="#e5c015"> [Transformation] Evolved Awakening </font> skill while the transformation gauge is full. (The gauge will be emptied when transforming.)^,^^,^^
+^help_infolink_classawaken3_4^,^ - 변신은 <font color="#e5c015">30초 동안 지속</font>되며, <font color="#e5c015">캐릭터 사망 시에는 변신이 해제 됩니다.</font>^,^^,^^,^- The transformation <font color="#e5c015"> lasts for 30 seconds </font>.<font color="#e5c015"> When the character dies, the transformation is removed. </font>^,^^,^^
+^help_infolink_classawaken3_5^,^2. 콤보 스킬 사용^,^^,^^,^2. Using the Combos Skill^,^^,^^
+^help_infolink_classawaken3_6^,^ - 변신 중에 콤보 스킬 아이콘을 마우스 우클릭 하거나 단축키를 사용 하여 콤보 스킬을 사용할 수 있습니다.(기본 단축키 : V)^,^^,^^,^- You can use the combo skill by right clicking on the combo skill icon duRing transformation or by using the shortcut key (default shortcut: V)^,^^,^^
+^help_infolink_classawaken3_7^,^ - 남은 변신 시간은 스킬 아이콘의 게이지로 확인이 가능 합니다.^,^^,^^,^- The remaining transformation time can be seen by the circle-shaped gauge of the skill icon.^,^^,^^
+^help_infolink_classawaken3_8^,^3. 진화 각성 스킬 성장^,^^,^^,^3. Evolved Awakening Skill Growth^,^^,^^
+^help_infolink_classawaken3_9^,^ - 벨히라 NPC에게 <font color="#e5c015">잊혀진 벨히라의 힘</font> 퀘스트 완료 시 지급 되는 스킬북(습득 시 자동 사용)을 통해 진화 각성 스킬의 성장이 가능합니다.^,^^,^^,^- By completing Belhira's quests with the help of <font color="#e5c015">Belhira's Forgotten Power</font> you can obtain Skillbooks to improve your Evolved Awakening Skill. (Automatically useed when learning)^,^^,^^
+^help_infolink_classawaken3_10^,^ - 벨히라의 가르침 퀘스트를 완료 하기 위해서는 <font color="#e5c015">비밀책의 자수정 파편</font>, <font color="#e5c015">벨히라의 기록일지</font>가 다수 필요합니다.^,^^,^^,^- To complete the Belhira's Teaching quests you need a certain amount of <font color="#e5c015">Secret Books Amethyst Fragment</font> and <font color="#e5c015">Belhira's Diary</font>.^,^^,^^
+^help_infolink_classawaken3_11^,^ - <font color="#e5c015">비밀책의 자수정 파편 획득처</font> : 전설 난이도 던전(불이 삼킨 유적, 붉은 혁명단 등), PvP 지역 퀘스트(최강자의 길1, 2), 전장 랭크 보상, 쟁탈전, 오르툰, 라노트, 반데켄^,^^,^^,^- <font color="#e5c015">Secret Book's Amethyst Shard</font>:Legend Difficulty Dungeons (Lavalight Cave, Red Revolutionaries Base etc.), PvP Area Quests, Battlefield Ranking Rewards, Manastone Battle, Ortune, Ranote, Van Deken^,^^,^^
+^help_infolink_classawaken3_12^,^ - <font color="#e5c015">벨히라의 기록일지 획득처</font> : 채집(엑자리움, 케로움, 포리온 버섯, 구리, 은), 일일업적, 출석체크^,^^,^^,^- <font color="#e5c015">Belhira's Journal</font>: GatheRing (Exarium, Kherim, Poron Mushroom, Copper, Silver) Daily Achievements, Attendance Rewards^,^^,^^
+^help_infolink_sealedfellowsuccessionproduction^,^봉인석 계승 제작^,^^,^^,^Seal Stone Inheritance^,^^,^^
+^help_infolink_sealedfellowsuccessionproduction_tip^,^봉인석 계승 제작^,^^,^^,^Seal Stone Inheritance^,^^,^^
+^help_infolink_sealedfellowsuccessionproduction_0^,^1. 계승 제작 시 <font color="#e5c015">봉인석 계승 제작</font> 옵션을 체크 하여 재료 장비에 장착 된 봉인석을 계승 하여 제작이 가능 합니다.^,^^,^^,^1. You can make Succession Crafting with inheriting the Seal Stones which are attached to the material Equipment by checking the <font color="#e5c015"> Seal Stone Inheritance Production </font> option.^,^^,^^
+^help_infolink_sealedfellowsuccessionproduction_1^,^2. 봉인석 계승 제작 기능은 제작 확률에는 영향을 미치지 않습니다.^,^^,^^,^2. Seal Stone Inheritance Production function does not affect the crafting chance.^,^^,^^
+^help_infolink_sealedfellowsuccessionproduction_2^,^3. <font color="#e5c015">결정석</font> 아이템은 <font color="#e5c015">계승 대상에 포함 되지 않습니다.</font>^,^^,^^,^3. <font color="#e5c015"> Seal Crystals</font> are not included in the <font color="#e5c015"> Inheritance Target Item</font>.^,^^,^^
+^help_infolink_sealedfellowsuccessionproduction_3^,^4. <font color="#e5c015">거래 불가 봉인석</font>이 장착 된 장비를 계승 시킬 경우 제작 된 장비는 <font color="#e5c015">자동으로 귀속</font> 됩니다.^,^^,^^,^4. If you inherit Equipment with <font color="#e5c015"> Non-Tradable Seals </font> in it, your Equipment will be <font color="#e5c015"> utomatically bound to you</font>.^,^^,^^
+^help_infolink_sealedfellowsuccessionproduction_4^,^5. 봉인석 계승 제작 시 별도의 <font color="#e5c015">엘룬 수수료</font>가 발생 합니다.^,^^,^^,^5. A separate <font color="#e5c015"> Ellun Fee </font> is generated when attempting Seal Stone Inheritance.^,^^,^^
+^help_infolink_sealedfellowsuccessionproduction_5^,^6. 제작에 실패 했을때는 수수료의 10%만 차감 됩니다.^,^^,^^,^6. If production fails, only 10% of the Ellun Fee will be deducted.^,^^,^^
+^help_infolink_guildad^,^길드 홍보 게시판^,^^,^^,^Guild Promotion Bulletin Board^,^^,^^
+^help_infolink_guildad_tip^,^길드 홍보 게시판^,^^,^^,^Guild Promotion Bulletin Board^,^^,^^
+^help_infolink_guildad_0^,^1. 우측 하단의 시스템 버튼, 키보드 ESC키를 통해 길드 홍보 게시판을 확인 할 수 있습니다.^,^^,^^,^1. You can check the Guild Promotion Bulletin Board through the system button on the bottom right and the ESC key on the keyboard.^,^^,^^
+^help_infolink_guildad_1^,^2. 길드 홍보 게시글을 등록하여 길드원을 모집할 수 있습니다.^,^^,^^,^2. You can recruit new Guild Members by registeRing a Guild Publicity Post.^,^^,^^
+^help_infolink_guildad_2^,^3. 길드원 모집 게시글을 클릭하여 원하는 길드에 가입 신청을 할 수 있습니다.^,^^,^^,^3. You can apply for a Membership in your desired Guild by clicking on the Guild Recruiting Post.^,^^,^^
+^help_infolink_SpotBattle^,^거점전^,^^,^^,^Stronghold Transition^,^^,^^
+^help_infolink_SpotBattle_tip^,^거점전^,^^,^^,^Stronghold Transition^,^^,^^
+^help_infolink_SpotBattle_0^,^1. 거점전은 하카나스 직할령 PVP 채널에서 진행되는 길드 대전 컨텐츠입니다.^,^^,^^,^1. Stronghold Transition is a Guild War content on the Hankana's Highlands PVP channel.^,^^,^^
+^help_infolink_SpotBattle_1^,^2. 거점전은 길드 관리창에서 <font color="#e5c015">길드장</font>만 신청할 수 있으며, 각 길드의 <font color="#e5c015">기사단원</font>들이 참전하게 됩니다.^,^^,^^,^2. You can only apply for Stronghold Transition as a<font color="#e5c015"> Guild </font> in the Guild Management window, and only the Guild's <font color="#e5c015"> Knights </font> can participate.^,^^,^^
+^help_infolink_SpotBattle_2^,^ - 거점전 신청 시간 : <font color="#e5c015">거점전 시작 1시간 전 신청 마감, 거점전 종료 후 차회 거점전 신청 가능</font>^,^^,^^,^- Application Time: <font color="#e5c015"> Deadline: 1 hour before the start of the Stronghold Transition. Applications can also be done after the Transition</font>.^,^^,^^
+^help_infolink_SpotBattle_3^,^ - 거점전 진행 시간 : <font color="#e5c015">매주 수요일, 토요일 21시 시작, 21시 30분 종료</font>^,^^,^^,^- Progression Time: <font color="#e5c015"> Every Wednesday and Saturday: Start: 21:00 and End: 21:30 server time</font>.^,^^,^^
+^help_infolink_SpotBattle_4^,^ - 거점전 참여 길드 수 : 거점전은 <font color="#e5c015">신청한 순서를 기준</font>으로 <font color="#e5c015">최대 30개의 길드</font>가 참가 가능 합니다.^,^^,^^,^- Maximum number of participating Guilds: <font color="#e5c015">Up to 30 Guilds </font><font color="#e5c015"> based on the order in which you applied</font> .^,^^,^^
+^help_infolink_SpotBattle_5^,^3. 거점마다 3개씩 스폰되는 마정석을 최대한 많이, 오래 점령하는 것이 목표입니다.^,^^,^^,^3. The goal is to take over as many Stations as long as possible for the 3 Strongholds.^,^^,^^
+^help_infolink_SpotBattle_6^,^4. 점령 조건^,^^,^^,^4. Victory Conditions^,^^,^^
+^help_infolink_SpotBattle_7^,^ - 최종 점령 : 거점전 종료 시점, <font color="#e5c015">한 거점의 마정석 2개를 점령</font> 중인 1개의 길드가 해당 거점을 차지합니다.^,^^,^^,^- Final occupation: When <font color="#e5c015">one Guild has occupied 2 Stations for their Stronghold</font> before the end of the Transition.^,^^,^^
+^help_infolink_SpotBattle_8^,^ - 장기 점령 : 최종 점령 길드가 없는 경우, <font color="#e5c015">가장 오랫동안 거점을 점령</font>했던 1개의 길드가 거점을 차지합니다.^,^^,^^,^- Long Term Occupation: If there is no Final Occupation Guild, the guild tHat has <font color="#e5c015"> the most accumulated Occupation Time </font> wins.^,^^,^^
+^help_infolink_SpotBattle_9^,^5. 참전 플레이어를 제외한 모든 플레이어는 진행하는 동안, PVP 채널 내에서 관전 모드가 적용됩니다.^,^^,^^,^5. All players, except the Guild Knights, will be in Spectator Mode on the PVP channel duRing the Transition.^,^^,^^
+^help_infolink_FellowSoulEnchant^,^펠로우 봉인탄 시스템^,^^,^^,^Familiar Soul Enchantment System^,^^,^^
+^help_infolink_FellowSoulEnchant_tip^,^펠로우 봉인탄 시스템^,^^,^^,^Familiar Soul Enchantment System^,^^,^^
+^help_infolink_FellowSoulEnchant_0^,^1. 펠로우 봉인탄 시스템 이란?^,^^,^^,^1. WHat is the Familiar Soul Enchantment System^,^^,^^
+^help_infolink_FellowSoulEnchant_1^,^- 케릭터 <font color="#e5c015">레벨 40</font>에 활성화 되는 신규 시스템 입니다.^,^^,^^,^The new system activates when the character reaches <font color="#e5c015"> Level 40</font>.^,^^,^^
+^help_infolink_FellowSoulEnchant_2^,^- <font color="#e5c015">펠로우 및 봉인석</font>을 소모하여, 스킬의 효율을 <font color="#e5c015">단계별로 증가</font> 시킬 수 있는 시스템 입니다. <font color="#67FF00">(최대 3단계 50%까지 증가)</font>^,^^,^^,^By consuming <font color="#e5c015">Familiars and Seal Stones</font> the efficiency of skills <font color="#e5c015">increase step by step</font><font color = "#67FF00"> (up to 3 steps up to 50%) </font>^,^^,^^
+^help_infolink_FellowSoulEnchant_3^,^- 펠로우 봉인탄 시스템 체험은 <font color="#e5c015">케릭터 40레벨 달성</font> 후 하카나스 수도성 <font color="#67FF00">펠로우 연구소 소장 <윌로우></font>를 통해 체험 하실 수 있습니다.^,^^,^^,^You can experience the Familiar Soul System after <font color="#e5c015"> achieving Character Level 40 </font> with the help of <font color = "#67FF00"> Familiar Academy Director <Willow> </font> who is located at the Familiar Academy in Hakains Crossing.^,^^,^^
+^help_infolink_FellowSoulEnchant_4^,^2. 펠로우 봉인탄 충전 방법^,^^,^^,^2. How to fill the container with Familiar Seals^,^^,^^
+^help_infolink_FellowSoulEnchant_5^,^- 퀵슬롯 옆에 UI를 마우스 왼쪽으로 클릭하여 펠로우 봉인탄 UI를 활성화 할 수 있습니다.^,^^,^^,^- You can activate the Familiar Soul UI by left-clicking on the UI next to the Quick Slot.^,^^,^^
+^help_infolink_FellowSoulEnchant_6^,^- 펠로우 봉인탄 UI를 활성화 후, 목록에서 <font color="#e5c015">소모할 펠로우 및 봉인탄을 마우스 왼쪽 클릭으로 선택</font> 할 수 있습니다.^,^^,^^,^- After activating the Familiar Soul Enchantment UI, you can left-click on the <font color="#e5c015">Fellows and Seal Stones to be consumed</font> in the list.^,^^,^^
+^help_infolink_FellowSoulEnchant_7^,^- 선택이 완료 되면 <font color="#e5c015">팩 충전 버튼</font>을 마우스 왼쪽으로 클릭해 충전 할 수 있습니다.^,^^,^^,^- Once complete, you can charge by clicking on the <font color="#e5c015"> Pack Charge Button </font> with your left mouse button.^,^^,^^
+^help_infolink_FellowSoulEnchant_8^,^3. 펠로우 봉인탄 무기 충전 방법^,^^,^^,^3. How to fill Weapons with Familiars^,^^,^^
+^help_infolink_FellowSoulEnchant_9^,^- 펠로우 봉인탄을 팩에 충전 후 <font color="#e5c015">무기 부여 버튼</font>을 마우스 왼쪽으로 클릭하여 충전 할 수 있습니다.^,^^,^^,^- After filling the Pack with Familiars and Seals you can Left-click on the <font color="#e5c015">Charge Weapon</font> button.^,^^,^^
+^help_infolink_FellowSoulEnchant_10^,^- 펠로우 봉인탄을 충전 가능한 무기와 불가능한 무기가 있으며, <font color="#e5c015">40레벨 전설 등급 이상의 무기</font>부터 충전이 가능합니다.^,^^,^^,^- Weapon recharge is only available for <font color="#e5c015">Level 40 and higher Legendary grade Weapons </font>.It does not work on lower level weapons or Teleo and McBain Weapons.^,^^,^^
+^help_infolink_FellowSoulEnchant_11^,^- 무기에 봉인탄을 충전 시 케릭터 손에 이펙트가 추가되며, <font color="#e5c015">단계별로 색상이 변화</font> 합니다.^,^^,^^,^- Charging a weapon with a Familiar Soul adds an effect to the character's hand, <font color="#e5c015">changing the color each step</font>.^,^^,^^

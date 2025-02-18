@@ -1,0 +1,392 @@
+t_key,t_korean
+^wpphdefpowplus^,^P. Def^
+^CA_ST_CM_9000_Name^,^Asas Gloriosas^
+^CA_ST_CM_9001_Name^,^Aura da Furia^
+^CA_ST_CM_9002_Name^,^Asa Flamejante^
+^CA_ST_CM_9003_Name^,^Awakened Wing^
+^CA_ST_CM_9004_Name^,^Asa Desperta^
+^CA_ST_CM_9005_Name^,^Ocean Wing^
+^CA_ST_CM_9006_Name^,^Fire Wing^
+^CA_ST_CM_9007_Name^,^Peace Wing^
+^CA_ST_CM_9008_Name^,^Dark Wing^
+^CA_ST_CM_9009_Name^,^Thunderbolt Wing^
+^CA_ST_CM_9010_Name^,^Magy Wing^
+^CA_ST_CM_9011_Name^,^Sunset Wing^
+^CA_ST_CM_9012_Name^,^Blue Wing^
+^CA_ST_CM_9013_Name^,^Purple Wing^
+^CA_ST_CM_9014_Name^,^Aura of Power^
+^CA_ST_CM_9015_Name^,^Asa Desperta [2.0]^
+^CA_ST_CM_9016_Name^,^Aura East Blue^
+^CA_ST_CM_9017_Name^,^Calm Aura [White]^
+^CA_ST_CM_9018_Name^,^Fenix Aura^
+^CA_ST_CM_9019_Name^,^Fica Frio ai!^
+^CA_ST_CM_9020_Name^,^Stormtrooper Aura^
+^CA_ST_CM_9021_Name^,^Aura da Furia [Azul]^
+^CA_ST_CM_9022_Name^,^Safe Fire Aura^
+^CA_ST_CM_9023_Name^,^Dementor Scythe^
+^CA_ST_CM_9024_Name^,^Abyssal Scythe^
+^CA_ST_CM_9025_Name^,^Vindictive Reaver^
+^CA_ST_CM_9026_Name^,^Infused Battlescythe^
+^CA_ST_CM_9027_Name^,^Reaper’s Fang^
+^CA_ST_CM_9028_Name^,^Peacekeeper Razor^
+^CA_ST_CM_9029_Name^,^Annihilator^
+^f_ev_adelike_01_name^,^Adelik^
+^f_pi_pega_003_name^,^Wiabodhi^
+^f_pi_pega_004_name^,^Wiabodhi^
+^f_ev_grimreaper_01_name^,^Grim Reaper^
+^fejphibee97_name^,^Sopro da Morte^
+^fejphibee98_name^,^Armadura Suprema^
+^it_st_cm_0014_name^,^Dragon Hideout Wing^
+^ev_st_cm_0720_name^,^Puff Wings^
+^ev_st_cm_0719_name^,^Capa 01^
+^ev_st_cm_0718_name^,^Capa 02^
+^ev_st_cm_0717_name^,^Capa 03^
+^ev_st_cm_0716_name^,^Capa 04^
+^ca_st_cm_0699_name^,^Soluna de Ombro^
+^ca_st_cm_0698_name^,^Soluna de Ombro^
+^ca_st_cm_0697_name^,^Pijama Pantera(CRAFT)^
+^ca_st_cm_0696_name^,^Pijama Pantera(CRAFT)^
+^ca_st_cm_0680_name^,^Bandeira 01^
+^ca_st_cm_0679_name^,^Bandeira 02^
+^ca_st_cm_0678_name^,^Bandeira 03^
+^wpphdefpowmult^,^Def. Física^
+^su0_018_5_0001_name^,^Zelnaris Shield^
+^CA_ST_CM_time1_Name^,^Dementor^
+^CA_ST_CM_time2_Name^,^Abyssal^
+^CA_ST_CM_time3_Name^,^Vindictive Reaver^
+^CA_ST_CM_time4_Name^,^Infused Battlescythe^
+^CA_ST_CM_time5_Name^,^Reaper’s Fang^
+^CA_ST_CM_time6_Name^,^Peacekeeper Razor^
+^CA_ST_CM_time7_Name^,^Annihilator^
+^ev_9_1_0802_1_title^,^[Empire] Halloween [1]^
+^ev_9_1_0758_title^,^[Empire] Halloween [2]^
+^su1_000_5_0001_name^,^Zelnaris Crest^
+^su2_011_5_0001_name^,^Zelnaris Gaunthles^
+^su2_504_1_3503_name^,^Ellora Gaunthles^
+^e_d94_skulsoldier_01_name^,^Skull Soldir I^
+^e_d94_skulsoldier_02_name^,^Skull Soldir II^
+^e_d94_skulsoldier_03_name^,^Skull Soldir III^
+^e_d94_goleguard_01_name^,^Golem Guard I^
+^e_d94_goleguard_02_name^,^Golem Guard II^
+^e_d94_goleelite_01_name^,^Golem Elite I^
+^e_d94_goleelite_02_name^,^Golem Elite II^
+^e_d94_golebomb_01_name^,^Golem Bomb I^
+^e_d94_golebomb_02_name^,^Golem Bomb II^
+^e_d94_towersab_01_name^,^General I^
+^e_d94_towerrid_01_name^,^Assassin I^
+^e_d94_towerarc_02_name^,^Assassin II^
+^e_d94_towergil_02_name^,^Genneral II^
+^e_d94_clear_001_name^,^Cristal^
+^e_d94_clear_002_name^,^Cristal II^
+^e_d94_clear_003_name^,^Cristal III^
+^e_d94_elephant_01_name^,^Elephant^
+^e_d94_chimpus_01_name^,^Kanguroo^
+^e_d94_Leopard_01_name^,^Leopard^
+^e_d94_Leopard_02_name^,^Leopard II^
+^e_d94_rhino_01_name^,^Rhino^
+^e_d94_rabhunter_01_name^,^Devil Rabbit^
+^e_d94_rabhunter_02_name^,^Devil Rabbit II^
+^e_d94_rabhunter_03_name^,^Devil Rabbit III^
+^e_d94_rabhunter_04_name^,^Devil Rabbit IV^
+^e_d94_animalmst_01_name^,^Khapir do Mal^
+^e_d94_dollhorse_01_name^,^Doll Horse I^
+^e_d94_dollhorse_02_name^,^Doll Horse II^
+^e_d94_dollhorse_03_name^,^Doll Horse III^
+^e_d94_dollcat_01_name^,^Doll Cat I^
+^e_d94_dollcat_02_name^,^Doll Cat II^
+^e_d94_dollwolf_01_name^,^Doll Wolf I^
+^e_d94_dollwolf_02_name^,^Doll Wolf II^
+^e_d94_devildoll_01_name^,^Devil Doll I^
+^e_d94_devildoll_02_name^,^Devil Doll II^
+^e_d94_dollhealer_01_name^,^Doll Healer I^
+^EV0_001_5_6001_Name^,^Demon Zelnaris Sword (Event)^
+^EV4_002_5_6001_Name^,^Demon Zelnaris Dagger (Event)^
+^EV6_003_5_6001_Name^,^Demon Zelnaris Staff (Event)^
+^EV1_004_5_6001_Name^,^Demon Zelnaris GreatSword (Event)^
+^EV5_005_5_6001_Name^,^Demon Zelnaris Wand (Event)^
+^EV7_006_5_6001_Name^,^Demon Zelnaris Shortbow (Event)^
+^EV11_S001_0_0060_Name^,^Demon Zelnaris Wand (Event)^
+^WE0_400_6000_Name^,^Alsatian Sword^
+^WE1_400_6001_Name^,^Alsatian GreatSword^
+^WE2_400_6002_Name^,^Alsatian Dagger^
+^WE3_400_6003_Name^,^Alsatian Scepter^
+^WE4_400_6004_Name^,^Alsatian Staff^
+^WE5_400_6005_Name^,^Alsatian Lance^
+^WE6_400_6006_Name^,^Alsatian Crossbow^
+^WE6_400_6007_Name^,^Alsatian Shortbow^
+^WE0_400_6500_Name^,^Temmain's Sword^
+^WE1_400_6501_Name^,^Temmain's GreatSword^
+^WE2_400_6502_Name^,^Temmain's Dagger^
+^WE3_400_6503_Name^,^Temmain's Scepter^
+^WE4_400_6504_Name^,^Temmain's Staff^
+^WE5_400_6505_Name^,^Temmain's Lance^
+^WE6_400_6506_Name^,^Temmain's Crossbow^
+^WE6_400_6507_Name^,^Temmain's Shortbow^
+^WE11_400_6508_Name^,^Temmain's Wand^
+^WE0_300_6500_Name^,^Lazard's Sword^
+^WE1_300_6501_Name^,^Lazard's GreatSword^
+^WE2_300_6502_Name^,^Lazard's Dagger^
+^WE3_300_6503_Name^,^Lazard's Scepter^
+^WE4_300_6504_Name^,^Lazard's Staff^
+^WE5_300_6505_Name^,^Lazard's Lance^
+^WE6_300_6506_Name^,^Lazard's Crossbow^
+^WE6_300_6507_Name^,^Lazard's Shortbow^
+^WE11_300_6508_Name^,^Lazard's Wand^
+^WE0_500_6500_Name^,^Sophisticated Genazaon's Sword^
+^WE1_500_6501_Name^,^Sophisticated Genazaon's GreatSword^
+^WE2_500_6502_Name^,^Sophisticated Genazaon's Dagger^
+^WE3_500_6503_Name^,^Sophisticated Genazaon's Scepter^
+^WE4_500_6504_Name^,^Sophisticated Genazaon's Staff^
+^WE6_500_6507_Name^,^Sophisticated Genazaon's Shortbow^
+^WE11_500_6508_Name^,^Sophisticated Genazaon's Wand^
+^WE0_500_6509_Name^,^Genazaon's Sword^
+^WE1_500_6510_Name^,^Genazaon's GreatSword^
+^WE2_500_6511_Name^,^Genazaon's Dagger^
+^WE3_500_6512_Name^,^Genazaon's Scepter^
+^WE4_500_6513_Name^,^Genazaon's Staff^
+^WE6_500_6514_Name^,^Genazaon's Shortbow^
+^WE11_500_6515_Name^,^Genazaon's Wand^
+^EV_WE0_400_6000_Name^,^Telleo Dark Sword (Rental)^
+^EV_WE1_400_6001_Name^,^Telleo Dark GreatSword (Rental)^
+^EV_WE2_400_6002_Name^,^Telleo Dark Dagger (Rental)^
+^EV_WE3_400_6003_Name^,^Telleo Dark Scepter (Rental)^
+^EV_WE4_400_6004_Name^,^Telleo Dark Staff (Rental)^
+^EV_WE5_400_6005_Name^,^Telleo Dark Lance (Rental)^
+^EV_WE6_400_6006_Name^,^Telleo Dark Crossbow (Rental)^
+^EV_WE6_400_6007_Name^,^Telleo Dark Shortbow (Rental)^
+^EV_WE11_400_6008_Name^,^Telleo Dark Wand (Rental)^
+^EV0_504_2103_Name^,^Ellora's Sword (Rental)^
+^EV1_504_2103_Name^,^Ellora's GreatSword (Rental)^
+^EV4_504_2103_Name^,^Ellora's Dagger (Rental)^
+^EV5_504_2103_Name^,^Ellora's Scepter (Rental)^
+^EV6_504_2103_Name^,^Ellora's Staff (Rental)^
+^EV8_504_2103_Name^,^Ellora's Lance (Rental)^
+^EV9_504_2103_Name^,^Ellora's Crossbow (Rental)^
+^EV7_504_2103_Name^,^Ellora's Shortbow (Rental)^
+^EV11_201_2_0050_Name^,^Ellora's Wand (Rental)^
+^EV9_055_2_0001_Name^,^Enlightenment Growth Crossbow^
+^EV8_055_2_0002_Name^,^Enlightenment Growth Lance^
+^WE0_EV_3_0001_Name^,^Enlightenment Growth Sword^
+^WE4_EV_3_0001_Name^,^Enlightenment Growth Dagger^
+^WE6_EV_3_0001_Name^,^Enlightenment Growth Staff^
+^WE7_EV_3_0001_Name^,^Enlightenment Growth Shortbow^
+^WE1_EV_3_0001_Name^,^Enlightenment Growth GreatSword^
+^WE5_EV_3_0001_Name^,^Enlightenment Growth Scepter^
+^WE11_EV_3_0001_Name^,^Enlightenment Growth Wand^
+^WE8_504_2103_00_Name^,^Ellora's Crossbow^
+^WE9_504_2103_00_Name^,^Ellora's Lance^
+^EV_WE0_1_00000_Name^,^Ellora's Sword (30 Days)^
+^EV_WE1_1_00000_Name^,^Ellora's GreatSword (30 Days)^
+^EV_WE3_1_00000_Name^,^Ellora's Dagger (30 Days)^
+^EV_WE5_1_00000_Name^,^Ellora's Scepter (30 Days)^
+^EV_WE4_1_00000_Name^,^Ellora's Staff (30 Days)^
+^EV_WE2_1_00000_Name^,^Ellora's Shortbow (30 Days)^
+^EV_WE10_1_00000_Name^,^Ellora's Wand (30 Days)^
+^EV_WE6_1_00000_Name^,^Ellora's Lance (30 Days)^
+^EV_WE7_1_00000_Name^,^Ellora's Crossbow (30 Days)^
+^EV0_400_6000_Name^,^(PC Room) Alsatian Sword (1 day)^
+^EV1_400_6001_Name^,^(PC Room) Alsatian GreatSword (1 day)^
+^EV2_400_6002_Name^,^(PC Room) Alsatian Dagger (1 day)^
+^EV3_400_6003_Name^,^(PC Room) Alsatian Scepter (1 day)^
+^EV4_400_6004_Name^,^(PC Room) Alsatian Staff (1 day)^
+^EV5_400_6005_Name^,^(PC Room) Alsatian Lance (1 day)^
+^EV6_400_6006_Name^,^(PC Room) Alsatian Crossbow (1 day)^
+^EV6_400_6007_Name^,^(PC Room) Alsatian Shortbow (1 day)^
+^EV11_202_0_0060_Name^,^(PC Room) Alsatian Wand (1 day)^
+^WE0_EV_3_0002_Name^,^Light Growth Sword^
+^WE2_EV_3_0002_Name^,^Light Growth Dagger^
+^WE4_EV_3_0002_Name^,^Light Growth Staff^
+^WE6_EV_3_0002_Name^,^Light Growth Shortbow^
+^WE1_EV_3_0002_Name^,^Light Growth GreatSword^
+^WE3_EV_3_0002_Name^,^Light Growth Scepter^
+^WE11_EV_3_0002_Name^,^Light Growth Wand^
+^WE6_EV_3_0003_Name^,^Light Growth Crossbow^
+^WE7_EV_3_0002_Name^,^Light Growth Lance^
+^EV0_400_6000_1_Name^,^Alsatian Sword (1 day)^
+^EV1_400_6001_1_Name^,^Alsatian GreatSword (1 day)^
+^EV2_400_6002_1_Name^,^Alsatian Dagger (1 day)^
+^EV3_400_6003_1_Name^,^Alsatian Scepter (1 day)^
+^EV4_400_6004_1_Name^,^Alsatian Staff (1 day)^
+^EV5_400_6005_1_Name^,^Alsatian Lance (1 day)^
+^EV6_400_6006_1_Name^,^Alsatian Crossbow (1 day)^
+^EV6_400_6007_1_Name^,^Alsatian Shortbow (1 day)^
+^EV11_202_0_0060_1_Name^,^Alsatian Wand (1 day)^
+^EV_WE0_400_6000_1_Name^,^McBain's Dark Sword^
+^EV_WE1_400_6001_1_Name^,^McBain's Dark GreatSword^
+^EV_WE2_400_6002_1_Name^,^McBain's Dark Dagger^
+^EV_WE3_400_6003_1_Name^,^McBain's Dark Scepter^
+^EV_WE4_400_6004_1_Name^,^McBain's Dark Staff^
+^EV_WE6_400_6006_1_Name^,^McBain's Dark Crossbow^
+^EV_WE6_400_6007_1_Name^,^McBain's Dark Shortbow^
+^EV_WE11_400_6008_1_Name^,^McBain's Dark Wand^
+^EV0_001_5_6002_name^,^Demon Zelnaris Sword (1 day)^
+^EV4_002_5_6002_name^,^Demon Zelnaris Dagger (1 day)^
+^EV6_003_5_6002_name^,^Demon Zelnaris Staff (1 day)^
+^EV1_004_5_6002_name^,^Demon Zelnaris GreatSword (1 day)^
+^EV5_005_5_6002_name^,^Demon Zelnaris Scepter (1 day)^
+^EV7_006_5_6002_name^,^Demon Zelnaris Shortbow (1 day)^
+^EV11_S001_0_0061_name^,^Demon Zelnaris Wand (1 day)^
+^EV0_001_5_6003_name^,^Demon Zelnaris Sword (30 day)^
+^EV4_002_5_6003_name^,^Demon Zelnaris Dagger (30 day)^
+^EV6_003_5_6003_name^,^Demon Zelnaris Staff (30 days)^
+^EV1_004_5_6003_name^,^Demon Zelnaris GreatSword (30 day)^
+^EV5_005_5_6003_name^,^Demon Zelnaris Scepter (30 day)^
+^EV7_006_5_6003_name^,^Demon Zelnaris Shortbow (30 day)^
+^EV11_S001_0_0062_name^,^Demon Zelnaris Wand (30 day)^
+^WE0_001_5_7001_name^,^Cold Blooded Sword^
+^WE4_002_5_7001_name^,^Cold Blooded Dagger^
+^WE6_003_5_7001_name^,^Cold Blooded Staff^
+^WE1_004_5_7001_name^,^Cold Blooded GreatSword^
+^WE5_005_5_7001_name^,^Cold Blooded Scepter^
+^WE7_006_5_7001_name^,^Cold Blooded Shortbow^
+^WE9_006_5_7001_name^,^Cold Blooded Crossbow^
+^WE8_007_5_7001_name^,^Cold Blooded Lance^
+^WE11_008_5_7001_name^,^Cold Blooded Magic Wand^
+^EV0_001_5_6004_name^,^Demon Zelnaris Sword (3 hours)^
+^EV4_002_5_6004_name^,^Demon Zelnaris Dagger (3 hours)^
+^EV6_003_5_6004_name^,^Demon Zelnaris Staff (3 hours)^
+^EV1_004_5_6004_name^,^Demon Zelnaris GreatSword (3 hours)^
+^EV5_005_5_6004_name^,^Demon Zelnaris Scepter (3 hours)^
+^EV7_006_5_6004_name^,^Demon Zelnaris Shortbow (3 hours)^
+^EV11_S001_0_0063_name^,^Demon Zelnaris Wand (3 hours)^
+^EV0_001_5_6005_name^,^Demon Zelnaris Sword (7 days)^
+^EV4_002_5_6005_name^,^Demon Zelnaris Dagger (7 days)^
+^EV6_003_5_6005_name^,^Demon Zelnaris Staff (7 days)^
+^EV1_004_5_6005_name^,^Demon Zelnaris GreatSword (7 days)^
+^EV5_005_5_6005_name^,^Demon Zelnaris Scepter (7 days)^
+^EV7_006_5_6005_name^,^Demon Zelnaris Shortbow (7 days)^
+^EV11_S001_0_0064_name^,^Demon Zelnaris Wand (7 days)^
+^we11_S001_0_0060_name^,^Demon Zelnaris Wand^
+^en6_0_000_9999_name^,^Empire Blessed^
+^en6_0_000_9999_Description^,^When used, <UI_G>Temper your item from level 1 to level 18, 100%.</UI_G>.^
+^e_f05_glostrom_008_name^,^SandStorm^
+^e_event_worldraid_02_name^,^Empire Mercillis^
+^N_c01_empire_001_name^,^Lico Dear^
+^ev_st_cm_2900_name^,^Desert Demens^
+^ev_st_cm_2901_name^,^Saphira Ceadan^
+^ev_st_cm_2902_name^,^Naberius^
+^ev_st_cm_2903_name^,^Diamond Dust^
+^ev_st_cm_2904_name^,^Frostwisp^
+^ev_st_cm_2905_name^,^Telynar^
+^ev_st_cm_2906_name^,^Pharazon^
+^ev_st_cm_2907_name^,^peguete7^
+^ev_st_cm_2908_name^,^peguete8^
+^ev_st_cm_2909_name^,^peguete9^
+^ev_st_cm_2910_name^,^peguete10^
+^ev_st_cm_2911_name^,^peguete11^
+^ev_st_cm_2912_name^,^peguete12^
+^ev_st_cm_2913_name^,^peguete13^
+^ev_st_cm_2914_name^,^peguete14^
+^ev_st_cm_2915_name^,^peguete15^
+^ev_st_cm_2916_name^,^peguete16^
+^ev_st_cm_2917_name^,^peguete17^
+^ev_st_cm_2918_name^,^peguete18^
+^ev_st_cm_2919_name^,^peguete19^
+^ev_st_cm_2920_name^,^peguete20^
+^ev_st_cm_2921_name^,^peguete21^
+^ev_st_cm_2922_name^,^peguete22^
+^ev_st_cm_2923_name^,^Assassinato^
+^ev_st_cm_2924_name^,^peguete23^
+^ev_st_cm_2925_name^,^peguete24^
+^ev_st_cm_2926_name^,^peguete25^
+^N_c01_rabishop_01_name^,^Lico Disfarce^
+^ca_st_cm_9030_name^,^Wing Demons^
+^E_Event_WorldRaid_03_name^,^QUEEN MERCILES^
+^E_Event_WorldRaid_04_name^,^QUEEN TESTE MERCILES^
+^E_WR_Quad_004_name^,^QUADRACAN PVPs^
+^EN6_0_000_joia_name^,^Blessed Mythical Jewelry Tempering Stone^
+^EN6_0_000_joia_Description^,^When used, <UI_G>Temper your Jewelry from level 1 to level 15, 100%.</UI_G>.^
+^ca_it_tomb_0001_name^,^Warp pass: Tomb^
+^ca_it_dgh_0001_name^,^Warp pass: DGH^
+^ca_it_rrb_0001_name^,^Warp pass: RRB^
+^ca_it_cm_9000_Name^,^Pet: Adelik^
+^ca_it_cm_9000_Description^,^When used, <UI_G>The best pet of the moment</UI_G> is created in the fellows inventory.^
+^rn1_6_00_099_name^,^Blessed Reverse Mithical^
+^rn1_6_00_099_Description^,^When used, <UI_G>Reverse your item 100%</UI_G>.^
+^CA_BX_00_9001_Name^,^VIP MAGIC^
+^CA_BX_00_9001_Description^,^Contains the following items:<UI_G>
+-Special Title: Ellora's Gift
+-Transit Shrine Pass (Premium Service)
+-Mail Package 
+-2023 Glasses (30 Days)
+-Ellun 5000 Box
+-Package: Black Friday Booster (30 Days)
+-Cold Blood Armor Package x5
+-Premium Bag (30 Days)
+-Fellow Bag (30 Days)
+-Portable Auction Broker (30 Days)
+-Portable Storage Master (30 Days)
+-Auto-Loot Emblem (30 Days)
+-Defense Boost Talisman (30 Days) Box
+-General Boost Talisman (30 Days) Box
+-Magic Boost Talisman (30 Days) Box
+<UI_Y></UI_Y>^
+^CA_BX_00_9002_name^,^VIP ATTACK^
+^CA_BX_00_9002_Description^,^Contains the following items:<UI_G>
+-Special Title: Ellora's Gift
+-Transit Shrine Pass (Premium Service)
+-Mail Package 
+-2023 Glasses (30 Days)
+-Ellun 5000 Box
+-Package: Black Friday Booster (30 Days)
+-Cold Blood Armor Package x5
+-Premium Bag (30 Days)
+-Fellow Bag (30 Days)
+-Portable Auction Broker (30 Days)
+-Portable Storage Master (30 Days)
+-Auto-Loot Emblem (30 Days)
+-Defense Boost Talisman (30 Days) Box
+-General Boost Talisman (30 Days) Box
+-Physical Boost Talisman (30 Days) Box
+<UI_Y></UI_Y>^
+^CA_BX_00_9000_name^,^MAIL PACKAGE^
+^CA_IT_SC_9000_name^,^MAIL^
+^e_f07_celfrenan_03_name^,^Killer Reaper^
+^e_d88_foldmirror_001_name^,^Hidout Archer^
+^WE11_001_2_0035_name^,^Ruinous Wand^
+^WE11_001_0_0035_name^,^Blessed Wand^
+^e_p02_danjelion_01_name^,^Dangelion of Courage^
+^e_p02_danjelion_01_name^,^Dangelion of Wisdom^
+^e_d99_hummac_1_name^,^Beast Tamer^
+^e_d94_vampbat_01_name^,^Vamp^
+^e_d94_ender_01_name^,^Butcher^
+^e_d94_zombelite_01_name^,^Elite Zombie^
+^e_d94_zombelite_02_name^,^Elite Stronger^
+^e_d94_zombweak_01_name^,^Zombie Weak^
+^e_d94_towerarc_01_name^,^Slayer^
+^e_d94_towergil_01_name^,^Illusion Knight^
+^e_d94_animalmst_02_name^,^BeyBlade^
+^e_d94_devydoll_01_name^,^Devil Doll^
+^e_d94_devydoll_02_name^,^Devil Doll Cry^
+^e_d100_fold_003_name^,^Linear Scorched Assassin^
+^e_d100_sinsia_002_name^,^Linear Crimson Slaughter^
+^e_d100_elitewarr_03_name^,^Linear Crismon Warrior^
+^e_d100_modeltest_004_name^,^Linear Magma Tank^
+^e_d100_fold_005_name^,^Linear Underground Assassin^
+^e_d100_nasulos_04_name^,^Shadow Knight Tank^
+^e_d100_carmbaran_1_name^,^Linear Shadow Master^
+^e_d100_elitewarr_01_name^,^Linear Elite War^
+^e_d100_fold_001_name^,^Linear Elite Slayer^
+^e_d100_modeltest_001_name^,^Linear Elite Tank^
+^e_d100_sinsia_001_name^,^Linear Elite Slaughter^
+^e_d100_elitewarr_01_name^,^Linear Elite WarDark^
+^e_d100_carmbaran_1_name^,^Linear Elite Balgass^
+^e_d100_areye_0_name^,^Devil Eye^
+^e_d100_elitewarr_06_name^,^Linear Scorched Warrior^
+^e_f05_golestrom_008_name^,^SandStorm^
+^CA_IT_CM_9050_name^,^Wiabodhi^
+^CA_IT_CM_9051_name^,^GrimReaper^
+^CA_IT_CM_9052_name^,^SkyShip^
+^d94_9_1_0006_title^,^Defeat General I^
+^d94_9_1_0002_title^,^Defeat Illusion Knight^
+^dialog_1430036_text0^,^Defeat Illusion Knight^
+^fejpnightmare96_name^,^Magic Aura^
+^fejpnightmare96_description_01^,^Active Aura^
+^fejpnightmare97_name^,^Oblivion Wraith^
+^fejpnightmare97_description_01^,^Active Oblivion Wraith^
+^fejpnightmare98_name^,^Wiabodhi's Rage^
+^fejpnightmare98_description_01^,^Active Wiabodhi's Rage^
+^fejpnightmare99_name^,^Nimb's Chaotic Chill^
+^fejpnightmare99_description_01^,^Active Nimb's Chaotic Chill^
+^feallreslgd00_name^,^Legendary Aura^
+^feallreslgd00_description_01^,^Does not take debuff in certain areas^

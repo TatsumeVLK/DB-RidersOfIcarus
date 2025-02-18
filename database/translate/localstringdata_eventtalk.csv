@@ -1,0 +1,1891 @@
+t_key,t_korean
+^E0_Talk_gstar2012^,^I'll head back to Crow.^
+^E0_Talk_001^,^Stay alert!^
+^E0_Talk_002^,^That gem must be worth a lot of gold.^
+^E1_NOTICE_001^,^Draw your weapon from the stand.^
+^E1_NOTICE_002^,^Break the lock on Rena's cell.^
+^E1_NOTICE_003^,^Activate both levers to open the door.^
+^E1_NOTICE_004^,^Defeat Warden Rex.^
+^E1_NOTICE_005^,^Help Crow defeat the guards.^
+^E1_NOTICE_006^,^Keep watch while Crow opens the door.^
+^E1_NOTICE_007^,^Follow Crow.^
+^E1_NOTICE_008^,^The door to the cell is locked.^
+^E1_NOTICE_009^,^The door to the cell is open.^
+^E1_NOTICE_010^,^Equip your weapon.^
+^E1_NOTICE_011^,^You remember the boss from the start.^
+^E1_NOTICE_012^,^Destroy the lock on the door.^
+^E1_NOTICE_013^,^You've failed the quest. Forfeit it to restart.^
+^E1_NOTICE_014^,^You've defeated the boss! \nMoving to start in 10 seconds.^
+^E1_NOTICE_015^,^You've defeated the boss! \nMoving to start in 10 seconds.^
+^E1_NOTICE_016^,^Destroy the lock on the beast's cage.^
+^E1_NOTICE_017^,^Mount the Pegasus.^
+^E1_NOTICE_018^,^Escape from Salant's Stronghold.^
+^E1_NOTICE_019^,^Break the stone protecting Warden Rex.^
+^E2_NOTICE_001^,^Defeat Jeffy, who's become a werewolf.^
+^E50_NOTICE_001^,^Jump to evade most ground attacks.^
+^E1_Talk_001^,^I will fight by your side to rescue the princess.^
+^E1_Talk_002^,^The princess has been taken by Salant's men.^
+^E1_Talk_003^,^We must deliver this news as quickly as we can. To the capital!^
+^E1_Talk_012^,^Wake up. I'm getting you out of here.^
+^E1_Talk_014^,^This way. Keep that weapon ready.^
+^E1_Talk_028^,^Be careful or you'll wind up dead.^
+^E1_Talk_032^,^With any luck, they haven't moved the princess yet.^
+^E1_Talk_033^,^Grab a weapon. You're no good to me unarmed.^
+^E1_Talk_034^,^The doors are closed.^
+^E1_Talk_035^,^I'll get this gate open. See if you can break that lock.^
+^E1_Talk_036^,^You're safe. I hope we can say the same for the princess...^
+^E1_Talk_037^,^Let's move. The doors have opened.^
+^E1_Talk_038^,^Guards! Prepare for a fight.^
+^E1_Talk_039^,^The doors are locked. They know I'm here.^
+^E1_Talk_040^,^I think I hear something behind us.^
+^E1_Talk_041^,^More guards coming this way!^
+^E1_Talk_042^,^Let's get out of here.^
+^E1_Talk_043^,^The doors have opened!^
+^E1_Talk_044^,^I'll handle the guards. You open the doors.^
+^E1_Talk_045^,^Quickly, before more guards show up.^
+^E1_Talk_046^,^Another survivor.^
+^E1_Talk_047^,^Quickly, to the rescue.^
+^E1_Talk_048^,^Tortus. Just hold on.^
+^E1_Talk_049^,^Ha! Your precious princess isn't here.^
+^E1_Talk_050^,^Come. We're running out of time.^
+^E1_Talk_051^,^Wait. I feel a presence beyond the door...^
+^E1_Talk_052^,^Watch it. It's the chief warden.^
+^E1_Talk_054^,^[UserName]! Commander Crow! Over here!^
+^E1_Talk_055^,^Defeat the warden.^
+^E1_Talk_056^,^Good, the warden is down. Let's move.^
+^E1_Talk_057^,^This way!^
+^E1_Talk_058^,^The exit must be close. This way.^
+^E1_Talk_059^,^These are our familiars... They must've been kept here for all sorts of cruel experimentation.^
+^E1_Talk_060^,^Crow! Thank you.^
+^E1_Talk_061^,^Save them. Take them with you.^
+^E1_Talk_062^,^Save your energy for when we fight the chief warden.^
+^E1_Talk_063^,^Let me get my blade. I've got a score to settle.^
+^E1_Talk_064^,^Mount the panther.^
+^E1_Talk_065^,^Keep moving. That door won't hold them for long.^
+^E1_Talk_066^,^Puny humans. Your parole has been denied.^
+^E1_Talk_067^,^I see our sky titan. Quickly, before the guards catch up.^
+^E1_Talk_068^,^The prisoners have escaped! After them!^
+^E1_Talk_069^,^We're outnumbered. I don't think we can fight them head on.^
+^E1_Talk_070^,^Mount up. We're getting out of here.^
+^E1_Talk_071^,^Quickly. Mount up!^
+^E1_Talk_072^,^That was faster than I expected.^
+^E1_Talk_073^,^This isn't good. I'll open the doors.^
+^E1_Talk_074^,^Where's the Princess?^
+^E10_Talk_001^,^You look better. You should be fine after a resting a bit.^
+^E2_Talk_001^,^Prepare to die!^
+^E2_Talk_002^,^Leave the tree alone.^
+^E3_Talk_001^,^We're taking off?!^
+^E3_Talk_002^,^Be careful!^
+^E3_Talk_003^,^You've done well.^
+^E4_Talk_001^,^Thank you, thank you. I go to Kylas.^
+^E4_Talk_002^,^Later^
+^E5_Talk_001^,^Don't let them get me!^
+^E5_Talk_002^,^Let's get outta here. I feel... I feel real bad...^
+^E5_Talk_003^,^Ma... Ma, it hurts...^
+^E5_Talk_004^,^It... burns...^
+^E5_Talk_005^,^Th-the wolves used to be people, right?^
+^E5_Talk_006^,^A-are we there yet...?^
+^E5_Talk_007^,^I-I want my ma... Everything's... going red...^
+^E5_Talk_008^,^Too hot... It burns!!^
+^E5_Talk_009^,^Why do I... do I...^
+^E5_Talk_010^,^DIE!!^
+^E5_Talk_011^,^I just wanted... home...^
+^E5_Talk_012^,^The blood calls to me. Feed! Devour!^
+^E50_Talk_001^,^Somebody... please help me...^
+^E6_Talk_001^,^I feel better. Braver! Okay, I'm heading back to the tower.^
+^E6_Talk_002^,^This is more like it!^
+^E6_Talk_003^,^We've come too far. I'm done with this nonsense!^
+^E7_Talk_001^,^You're strong enough to face the enemy now.^
+^E8_Talk_001^,^I thought I was a goner. Thanks!^
+^E8_Talk_002^,^Thanks for accompanying me. Now, please find Mitchel Sabolt.^
+^E8_Talk_003^,^Hey, thanks! I'm going to take a dip in the water. Want to join me?^
+^E8_Talk_004^,^That must've been rough. Anyway, I'm heading over to Frost Castle.^
+^E9_Talk_001^,^You've finished the hunt and grown stronger. I'll head back first. Come find me later.^
+^E51_Talk_001^,^You shall not pass!^
+^E11_Talk_001^,^Come and taste my power.^
+^E11_Talk_002^,^This isn't over, [UserName]!^
+^E11_Talk_003^,^You were followed, Ander! Moron!^
+^E11_Talk_004^,^All that power... wasted! It won't happen again!^
+^E11_Talk_005^,^What's happening?!^
+^E12_Talk_001^,^Don't follow me.^
+^E12_Talk_002^,^Begone, eyesore!^
+^E12_Talk_003^,^Peasant scum! I shall kill you myself!^
+^E12_Talk_004^,^No... Father must... be king...^
+^E12_Talk_005^,^Such wasted power...^
+^E13_Talk_001^,^It that... a blue crab?! I'll talk, I'll talk! Take it away! It was the dispute between the Merumi and the folks of Swaying Reeds! We planned it all!^
+^E13_Talk_002^,^Explosion!^
+^E13_Talk_003^,^There's the bomber! Go after him!^
+^E13_Talk_004^,^This... is how I die?^
+^E13_Talk_005^,^Avenge me... Varanac...^
+^E13_Talk_006^,^Did we start a fire?!^
+^E13_Talk_007^,^What's going on over there?!^
+^n05_Talk_001^,^Focus, recruits!^
+^n05_Talk_002^,^For His Majesty!^
+^n05_Talk_003^,^Who is it that keeps missing their timing? Focus!^
+^n05_Talk_004^,^Do it right, unless you want to repeat the drill a thousand more times!^
+^E14_Talk_001^,^The traitor is getting away!^
+^E14_Talk_002^,^A braghin never forget a traitor!^
+^E14_Talk_003^,^Where do you think you're going?^
+^E14_Talk_004^,^You won't get away, you traitor!^
+^E14_Talk_005^,^You shall not pass!^
+^E14_Talk_006^,^You think you can get past me?^
+^E15_Talk_001^,^Help! Help! Save me!^
+^E15_Talk_002^,^Careful out there!^
+^E15_Talk_003^,^Stop! Please, stop!^
+^E15_Talk_004^,^Hang in there.^
+^E15_Talk_005^,^Just a bit more...^
+^E15_Talk_006^,^I don't believe any more are coming...^
+^E15_Talk_007^,^Jeffy was just a child... What a cruel fate.^
+^E16_Talk_001^,^Civil militia! Don't try to run!^
+^E16_Talk_002^,^Where do you think you're going?^
+^E16_Talk_003^,^Ahh! Pirates!^
+^E16_Talk_004^,^They're back! Help me!^
+^E16_Talk_005^,^Yum, a shield crab! Perfect timing. I'm starving.^
+^E16_Talk_006^,^Ouch! That hurt! Somebody help me!^
+^E16_Talk_007^,^Jeez, all I wanted was something to eat.^
+^E16_Talk_008^,^We need to get the entrance device from Sharon and head to Frost Castle.^
+^E16_Talk_009^,^How dare you challenge me? Do you know who I am?^
+^E16_Talk_010^,^That's right. I won. So let's just go. Please? I hate pirates!^
+^E16_Talk_011^,^If we let go, it's over.^
+^E16_Talk_012^,^Attack with us! We can't let him get away!^
+^E16_Talk_013^,^It all came out at once!^
+^E16_Talk_014^,^Come on, you weaklings!^
+^E16_Talk_015^,^Our plan was discovered. I'm going to KILL them!^
+^E16_Talk_016^,^Oh, don't worry! I'm going to kill them all!^
+^E16_Talk_017^,^Help me!^
+^E16_Talk_018^,^My money...^
+^d08_notice_001^,^You hear the sound of a door closing somewhere!^
+^d08_notice_002^,^The Radan's Eye offering ritual has begun!^
+^d01_notice_101^,^Take the key from Kimmens's corpse.^
+^d01_notice_102^,^Use the key to open one of the three entrances.^
+^d01_notice_103^,^A feeling of horror emanates toward you from beyond the manor's gates.^
+^d02_Tolk_101^,^Are you a warrior from Hakanas? Impressive.^
+^d02_Tolk_102^,^Turn back! Your deaths will be meaningless!^
+^d02_Tolk_110^,^I was a hero of Hakanas once...^
+^d02_Tolk_111^,^But everything's changed...^
+^d02_Tolk_112^,^Turn back!^
+^d02_Tolk_113^,^Before I kill you all...^
+^d02_Tolk_114^,^Aisha... I'm sorry...^
+^d02_Tolk_201^,^How dare you bring bloodshed to this place?^
+^d02_Tolk_202^,^I'll take care of them, count.^
+^d02_Tolk_203^,^Do your duty, men!^
+^d02_Tolk_301^,^You idiotic humans!^
+^d02_Tolk_302^,^Do you know whose life it is that I've spared?^
+^d02_Tolk_303^,^Take care of them, Sinthan.^
+^d02_Tolk_304^,^You think you can stop us?^
+^f02_soldier_001^,^Is my blade ready yet?^
+^f02_soldier_002^,^If headquarters doesn't send fresh supplies soon...^
+^f02_elite_001^,^Charge! Purge the filth!^
+^f02_elite_002^,^Have no fear!^
+^f02_soldier_003^,^They're endless!^
+^f02_soldier_004^,^We have to stop those monsters!^
+^f00_notice_001^,^Help Crow defeat the guards.^
+^_notice_001^,^To tame a creature, follow the arrows.^
+^d01_notice_001^,^Obtain the manor key from Kimmens.^
+^f02_g_notice_003^,^Use the Taming Skill saved to hotkey 7.^
+^f02_g_notice_004^,^Jump on the designated creature to start taming.^
+^f02_g_notice_005^,^You can die from lava. Watch your step!^
+^f02_g_notice_006^,^Head toward the camp to rendezvous with Crow.^
+^f02_g_fellow_001^,^Press [Y] to open the Familiar Info window.^
+^f02_g_fellow_002^,^Double-click a familiar from the Familiar Storage to mount it.^
+^f02_g_fellow_003^,^Press [U] to mount and dismount familiars.^
+^f02_g_notice_007^,^The lava of the Broken Caldera surges vehemently.^
+^f02_g_notice_008^,^Be careful. Something ominous approaches.^
+^f02_g_fellow_004^,^When moving forward, descend by pressing the space bar twice.^
+^f02_g_warning_001^,^Careful! Your familiar can't handle going any higher!^
+^f02_g_warning_002^,^Your familiar is running out of breath. Lower your altitude!^
+^f02_g_fellow_005^,^Press the space bar to ascend. Press [X] to descend.^
+^f01_e01_001^,^Over there! Move!^
+^f01_e01_002^,^You'd better be prepared!^
+^f01_e01_003^,^I'm coming, too!^
+^f01_e01_004^,^Follow me!^
+^f01_e01_005^,^You fiends! Begone!^
+^f01_e01_006^,^Charge! Exorcise this evil!^
+^f01_e01_007^,^Get rid of these fools.^
+^f01_e01_n_001^,^Up that ramp. Go!^
+^f01_e01_n_002^,^Boris: Hurry up, everyone!^
+^f01_e01_n_003^,^The Dragon Knights approach through the ruins entrance.^
+^f01_e01_n_004^,^Wait! We'll fight him together!^
+^f01_e01_008^,^It's you again!^
+^f01_alen_001^,^If this continues, the forest... Oh no!^
+^f01_alen_002^,^If the forest keeps burning at this rate...^
+^f01_alen_003^,^The fire is spreading... Where is everyone?^
+^f01_e01_009^,^Well, that's taken care of. Now let's go after the chief.^
+^f01_e01_010^,^Is it over? Do the dead finally rest?^
+^f01_e01_011^,^Come here when you're ready.^
+^f01_e01_012^,^Good work. He's caused enough trouble.^
+^f01_e02_001^,^Hurry! Go to Crow!^
+^f01_e02_002^,^I can't go on anymore...^
+^f01_e02_003^,^Complete...the ritual...^
+^f01_e02_004^,^You shall not pass.^
+^f01_e02_005^,^I can't believe you made it all the way here.^
+^f01_e02_006^,^Let me be the first to welcome you to your doom.^
+^f01_e02_007^,^Deal with these interlopers. I must return to my work.^
+^f01_e02_008^,^They still stand against us? Crush them!^
+^f01_e02_009^,^I asked only for the time to do our lord's bidding...^
+^f01_e01_013^,^Complete...the ritual...^
+^f01_e02_010^,^Oh, good. I made it in time.^
+^f01_e02_011^,^The barrier has finally been destroyed! Hurry! To the capital's shrine!^
+^f01_e01_014^,^Don't you dare think it's because I'm afraid... of HIM.^
+^f01_e01_015^,^Ta da! Here's the Shimmerwood! I'll wait for you at camp.^
+^f01_e01_016^,^Look at those trees! How they shine, glimmer, sparkle!^
+^f01_e01_017^,^Follow this road to get to the Shimmerwood!^
+^f01_e01_018^,^Hurry! Follow me!^
+^f01_e01_019^,^Follow me! Follow me!^
+^f01_e01_020^,^Do you see those sparkling trees?^
+^f01_e01_021^,^Hey! Do you know about Elquines, the fairy queen?^
+^f01_e01_022^,^Once upon a time, she was beautiful and good.^
+^f01_e01_023^,^She was blessed by Ellora herself.^
+^f01_e01_024^,^And this entire forest was filled with shimmering trees.^
+^f01_e01_025^,^But then the people of Exarahn came, and they uprooted the trees and massacred our people.^
+^f01_e01_026^,^Not many shimmering trees remain.^
+^f01_e01_027^,^Elquines has become a creature of unquenchable fury.^
+^f01_e01_028^,^The fairies have changed. Our plants have changed.^
+^f01_e01_029^,^Not long ago, Princess Lania said she found a way to restore us.^
+^f01_e01_030^,^But the princess never returned, and Elquines's rage knows no bounds...^
+^f01_e01_031^,^Hurry up! We're almost there!^
+^f01_e01_032^,^There's a camp right there!^
+^f01_e01_033^,^A bit faster! Faster! Faster!^
+^f01_e01_034^,^We're almost there!^
+^f01_e01_035^,^You've come to steal my treasures, haven't you?^
+^f01_e01_036^,^You won't have them!^
+^f01_e01_037^,^You'll never leave these ruins alive!^
+^f01_e01_038^,^Let's get back to camp.^
+^f01_e01_039^,^Let's join the fray... together!^
+^f01_e01_040^,^You dare invade my haven?! Prepare to die!^
+^f01_alen_004^,^Fire! Fire!^
+^f04_jody_001^,^This is dragon land.^
+^f04_jody_002^,^Go find Commander Errol.^
+^c01_talk_010^,^As you command, Your Majesty.^
+^c01_talk_020^,^Your will shall be obeyed.^
+^c01_worzword_0^,^Follow me!^
+^c01_worzword_1^,^Hurry! Follow me!^
+^c01_worzword_2^,^Awaaaay we go!^
+^c01_worzword_3^,^I'm running outta breath!^
+^c01_worzword_4^,^Did you hear the news from the highlands?^
+^c01_worzword_5^,^It's pretty scary stuff!^
+^c01_worzword_6^,^They say there are vampires everywhere.^
+^c01_worzword_7^,^And the count went completely mad.^
+^c01_worzword_8^,^The count was a great man. I wonder what happened...^
+^c01_worzword_9^,^Salant has to be behind this, right?^
+^c01_worzword_10^,^Hurry, hurry!^
+^c01_worzword_11^,^We're almost there!^
+^c01_worzword_12^,^I'll take you to the crossroad.^
+^c01_worzword_13^,^Go right here.^
+^c01_worzword_14^,^And now it's time to say bye-bye.^
+^c01_worzword_15^,^Just keep going that way. See you!^
+^d01_boss_001^,^My blood... It flows freely. Help me!^
+^d01_boss_002^,^Blood! Blood! Fresh, thirst-quenching blood!^
+^d01_ranto_001^,^Guards! Slay the intruders!^
+^d01_guard_001^,^Who are you?^
+^d01_guard_002^,^How dare you come here?^
+^f04_last_001^,^Pegasus Knights, ready for battle!^
+^f04_last_002^,^Pegasus Knights, ready for battle!^
+^f04_last_003^,^Pegasus Knights, ready for battle!^
+^f04_last_004^,^Pegasus Knights, ready for battle!^
+^f04_last_005^,^Pegasus Knights, ready for battle!^
+^f04_last_006^,^Pegasus Knights, ready for battle!^
+^f04_last_007^,^Stay in formation, and watch the skies!^
+^f04_last_008^,^The enemy comes! Form a line!^
+^f04_last_009^,^Move the injured!^
+^f04_last_010^,^The Fallen Legion...^
+^f04_last_011^,^I grow weary of them. We end it here!^
+^f04_last_012^,^If they take the Ellora megalith, it's over. Do not let them take it!^
+^f04_last_013^,^Hold it! Just a little longer...^
+^f04_last_014^,^Deserters will be executed!^
+^f04_last_015^,^Healer! We need a healer!^
+^f04_last_016^,^How much longer until our Pegasus support arrives?^
+^f04_last_017^,^Is the Ellora megalith safe?^
+^f04_last_018^,^Hurry, the Fallen Legion is near!^
+^f04_last_019^,^Die, you cockroaches!^
+^f04_last_020^,^AHHHHHHH!^
+^f04_last_021^,^Fire! FIRE! Wipe them out!^
+^f04_last_022^,^Don't give up! Never give up!^
+^f04_last_023^,^Protect... the megalith...^
+^f04_last_024^,^We have to stop them!^
+^f04_last_025^,^Give it all you've got!^
+^f04_last_026^,^Their attack is weakening. Just hold out a bit longer...^
+^f04_last_027^,^We will triumph soon.^
+^f04_last_028^,^Is it over now...?^
+^f04_last_029^,^We've done it! We've stopped them!^
+^f04_last_030^,^We've won! We've won!^
+^f04_lilis_001^,^Don't just wander around. Kill them!^
+^f04_lilis_002^,^My, my, aren't you determined? I like that.^
+^f04_lilis_003^,^Lilith despises pathetic creatures who cling to life.^
+^f04_lilis_004^,^You can't die yet! We still have a lot to do.^
+^f04_lilis_005^,^I've been letting things slide, but no more! Lilith MAD!^
+^f04_lilis_006^,^Die! Die! Ahahahahaha!^
+^f04_lilis_007^,^How DARE you force Lilith's hand! Die! All of you, die!^
+^f04_lilis_008^,^Ellora cannot be revived.^
+^f04_lilis_009^,^Zelnaris s power is too great.^
+^f04_lilis_010^,^The megalith will fall and Zelnaris will be revived!^
+^f04_lilis_011^,^Hmph, not bad. We'll withdraw for now.^
+^f01_e02_012^,^Just a few moments more, and the barrier will be complete!^
+^f01_e02_013^,^Hurry up!^
+^f01_e02_n_001^,^Tortus: Hurry! Into the ruins!^
+^f01_e02_n_002^,^Move inside the Northern Ruins.^
+^f01_e02_n_003^,^Crow: An ambush awaits. Be cautious.^
+^f01_e02_014^,^There's Rena! Go help her!^
+^f01_e02_015^,^A little help here? I'm surrounded.^
+^f01_e02_016^,^To the capital. We must tell the king!^
+^f04_pegasus_001^,^Avenge me...^
+^f01_fellow_001^,^!!^
+^f01_fellow_002^,^Kyah! Kyah! Kyah oong!^
+^f01_fellow_003^,^Kyaoh! Kya oh!^
+^f01_fellow_004^,^Kyang! Kya ang!^
+^f01_fellow_005^,^Knng... Knng...^
+^f01_fellow_006^,^By the heavens! You found Luna!^
+^f01_fellow_007^,^Oh, thank you, thank you, thank you. We thought we'd never see her again.^
+^c01_light_001^,^The royal seal is a relic of light that shines upon Hakanas.^
+^c01_light_002^,^Soon, ruin will blot out the light of Hakanas...^
+^ca_man_001_01^,^The balance of power will collapse.^
+^ca_man_001_02^,^I will crush the light from your soul!^
+^ca_man_001_03^,^No one can stop me!^
+^ca_man_002_01^,^I will weaken the demons. Take that opportunity to attack!^
+^ca_man_002_02^,^Light! Grant us power to annihilate our enemies!^
+^ca_man_002_03^,^Watch out for the lieutenants. They're even tougher than they look.^
+^d04_notice_01^,^If you destroy the dark magic enhancement stone, the enhancement device will deactivate.^
+^d04_talk_01^,^You can't get to Rondo without going through ME.^
+^d04_notice_02^,^The door to the research lab has opened. Go after Rondo.^
+^d04_notice_03^,^Destroy as many attribute stones as you can in 10 minutes to weaken Rondo.^
+^d04_notice_04^,^Five minutes remaining. Destroy as many attribute stones as you can!^
+^d04_notice_05^,^One minute remaining. Destroy as many attribute stones as you can!^
+^d02_iceman_001^,^Intruder!^
+^d02_iceman_002^,^Kill them!^
+^d02_iceman_003^,^Intruder! Intruder!^
+^d02_iceman_004^,^Humans must die!^
+^d02_iceman_005^,^Ick! Fleshy creature sighted!^
+^d02_iceman_006^,^Crush them!^
+^d02_iceman_007^,^Makontin crush bones! Makontin crush all!^
+^d02_notice_001^,^Congratulations. The attack on Matren was successful!^
+^f03_event_001^,^We're just getting started!^
+^f03_event_002^,^Ha! Maybe you can do Rondo in for good.^
+^f03_event_003^,^You give the call, and me and my crew will be ready.^
+^f03_notice_001^,^Find the captain of the ghost ship.^
+^f03_notice_002^,^Return to Jason Micah.^
+^f03_notice_003^,^You're useless, Varanac! Why'd you drag me into this?^
+^d11_key_001^,^An intruder!^
+^d11_key_002^,^I can't give you the key!^
+^d11_key_003^,^Get the key from the guard's corpse.^
+^d11_key_004^,^Use the key to lower the drawbridge.^
+^d11_bell_001^,^Emergency! Intruders detected!^
+^d11_bell_002^,^Ring the bell to alert the guards.^
+^d11_bell_003^,^You're all dead.^
+^d11_bell_004^,^If only someone had rung the bell...^
+^d11_mactyman_001^,^The rats are here...^
+^d11_mactyman_002^,^You'll regret coming here.^
+^d11_mactyman_003^,^Use the furnace to damage McTimon.^
+^d11_mactyman_004^,^Not bad. But now you'll see what I've REALLY got!^
+^d11_mactyman_005^,^So hot...^
+^d11_mactyman_006^,^How could I fall?^
+^d11_return_001^,^I hear enemies approaching.^
+^d11_return_002^,^McTimon has fallen...^
+^d11_return_003^,^I will tear the flesh from your bones!^
+^d11_return_004^,^Destroy!^
+^d11_karad_001^,^How dare you approach me here.^
+^d11_karad_002^,^You must WANT to die.^
+^d11_karad_003^,^Ugh...^
+^d11_detugaren_001^,^Embrace the darkness.^
+^d11_detugaren_002^,^Garresh!^
+^d11_detugaren_003^,^The power of darkness will NOT disappear!^
+^d11_kfir_001^,^You've made it all the way here? You must know how to fight.^
+^d11_kfir_002^,^But that doesn't matter any more.^
+^d11_kfir_003^,^Cractus....^
+^d11_kraktus_001^,^Try to get behind my impenetrable guard.^
+^d11_kraktus_002^,^There isn't enough room to fight here.^
+^d11_kraktus_003^,^Go after Cractus.^
+^d11_kraktus_004^,^Killing me won't stop the revolution!^
+^d03_singer_001^,^Thank you for saving me.^
+^d03_singer_002^,^Ankelion is trying to awaken Radan's Eye.^
+^d03_singer_003^,^We must stop Ankelion!^
+^d03_singer_004^,^I'll put a stop to Radan!^
+^d03_binder_001^,^How dare you approach me here.^
+^d03_binder_002^,^Pilgrims! Eliminate the intruders!^
+^d02_notice_002^,^Nuisance. Stop your skulking and face me.^
+^d02_notice_003^,^Yeti Warrior: Intruder! Get them!^
+^d02_notice_004^,^I will not hold back. Everyone out!^
+^d02_notice_005^,^Yeti Hunter: Crush them all! Rargh!^
+^d02_notice_006^,^Yeti Shaman: Smash the intruders!^
+^d02_notice_007^,^Yeti Warrior: The wall is under attack. Charge!^
+^d02_notice_008^,^It's a trap! A trap!^
+^d02_notice_009^,^I will crush you all! Yaargg!^
+^d02_notice_010^,^Filthy human stink!^
+^d03_event_001^,^Radan's Eye has been defeated!^
+^d03_event_002^,^I will help suppress the magic power of Radan's Eye.^
+^d03_lake_001^,^The ritual will begin soon.^
+^d03_lake_002^,^Radan will reign!^
+^d03_lake_003^,^Who are you?!^
+^d03_lake_004^,^You've come here... only to die here.^
+^d03_lake_005^,^How did you get all the way here?!^
+^d03_lake_006^,^Destroy them all!^
+^d03_lake_007^,^Only death awaits the faithless!^
+^d03_lake_008^,^Our latest offering possesses some powerful magic.^
+^d03_lake_009^,^Did you say Chapley Singer? The famous priest?^
+^d03_lake_010^,^But he's no match for Ankelion. Ankelion has taken the priest prisoner.^
+^d03_lake_011^,^It's an ambush!^
+^d03_kilian_001^,^There's not much time... until Radan is fully revived.^
+^d03_kilian_002^,^Yes, that is correct.^
+^d03_kilian_003^,^Killian, let's head for the temple.^
+^d03_kilian_004^,^Who are you?^
+^d03_kilian_005^,^The blasphemers are hiding!^
+^d03_agul_001^,^Agul agul?^
+^d03_agul_002^,^Agul agul?^
+^d03_agul_003^,^Aguuuuu...^
+^d03_agul_004^,^Agul! Agul!^
+^d03_waterway_001^,^You can't just open the waterway! You don't know what'll happen!^
+^d03_waterway_002^,^Ankelion will be furious!^
+^d03_waterway_003^,^You have awoken my wrath!^
+^d03_guard_001^,^It's an intruder!^
+^d03_guard_002^,^How dare you tread upon my domain?^
+^d03_guard_003^,^Death to the faithless!^
+^d03_guard_004^,^Pay your respects to Radan!^
+^d03_guard_005^,^We're going to offer you as a sacrifice!^
+^d03_zealot_001^,^Ah... Radan...^
+^d03_zealot_002^,^Grant me the power of darkness...^
+^d03_zealot_003^,^Infinite honor...^
+^d03_zealot_004^,^End this corrupted world...^
+^d03_zealot_005^,^Educate the lowly...^
+^d03_zealot_006^,^Who dares intrude upon our ritual?^
+^d03_zealot_007^,^That's an offering for Radan!^
+^d03_zealot_008^,^I'll make you pay!^
+^d03_zealot_009^,^You are profane. I will destroy you!^
+^d03_singer_101^,^You saved me.^
+^d03_singer_102^,^Behind you! The merumi are coming!^
+^d03_singer_103^,^We must stop Ankelion. Hurry!^
+^d03_door_001^,^The gate to the northern control room has opened.^
+^d03_door_002^,^The gate to the eastern control room has opened.^
+^d03_door_003^,^The gate to the western control room has opened.^
+^d03_door_004^,^The gate to the temple has opened.^
+^d03_killian_dead^,^My life... for Radan...^
+^d03_aguldead_001^,^Agul...^
+^d03_aguldead_002^,^Agu agu...^
+^d03_aguldead_003^,^A... gu... ul...^
+^d03_moordead_001^,^Ack...^
+^d03_moordead_002^,^Radan...^
+^d03_moordead_003^,^You are strong... for a human...^
+^d03_moordead_004^,^Did I not have enough faith?^
+^d03_moordead_005^,^Radan's resurrection is at hand.^
+^d03_moordead_006^,^Radan will punish you.^
+^d03_moordead_007^,^What a waste of time...^
+^d03_moordead_008^,^Ugh...^
+^d03_moordead_009^,^I never forgive those who've wronged me.^
+^d03_zenkid_dead^,^Ow... Ankelion...^
+^d03_ankelion_001^,^Radan... Your revival is near.^
+^d03_ankelion_002^,^Show the world your migh!^
+^d03_ankelion_003^,^Grant eternal pain upon these ignorant beings!^
+^d03_ankelion_004^,^You profane creatures! You think you can stop Radan's reviva?^
+^d03_ankelion_dead1^,^You've really made me mad!^
+^d03_ankelion_dead2^,^We were THIS CLOSE to reviving Radan...^
+^f03_notice_004^,^You have entered the Memory Scribe. Find Aisha.^
+^d04_talk_001^,^Who interrupts my rest?^
+^d04_talk_002^,^Prepare to walk the plank!^
+^d04_talk_003^,^Not bad!^
+^d04_talk_004^,^You can't get through, right? That's because there are two switches-- Never mind.^
+^d04_talk_005^,^Intruders! Destroy them!^
+^d04_talk_006^,^I'm sorry, Rondo...^
+^d04_talk_007^,^You get one chance to run away.^
+^d04_talk_008^,^Our new god has failed us.^
+^d04_talk_009^,^Congratulations on coming this far.^
+^d04_talk_010^,^I'm afraid you've made a terrible enemy.^
+^d04_talk_011^,^I wonder if you remember the one who hates you so?^
+^d04_talk_012^,^Awaken, god of fire, blood, and vengeance!^
+^d04_talk_013^,^Time to get my revenge!^
+^d04_talk_014^,^Cold flames! Burn me... and awaken greater darkness!^
+^d04_talk_015^,^Damn... I underestimated you.^
+^d04_talk_016^,^It's time I taught you the true meaning of terror.^
+^d04_talk_017^,^Who's the intruder?^
+^d04_talk_018^,^Who would dare? I'll kill them myself!^
+^d04_talk_019^,^Get over here. Now!^
+^d04_talk_020^,^Follow me!^
+^d04_talk_021^,^Hurry!^
+^d04_talk_022^,^Smash it all!^
+^d04_talk_023^,^Big gate, small switch. This is child's play!^
+^d04_talk_024^,^He's up ahead. I can feel it.^
+^d04_talk_025^,^Rondo's mates are up ahead!^
+^d04_talk_026^,^I'll kill you with my own two hands...^
+^d04_talk_027^,^No more fooling around!^
+^d04_talk_028^,^My men are here. I'm going to leave them to you and move on ahead.^
+^d04_talk_029^,^That lion's face... Disgusting. Destroy it!^
+^d04_talk_030^,^My anger knows no bounds!^
+^d04_talk_031^,^Sorry we're late. Leave the rest to us.^
+^d04_talk_032^,^They're coming! Destroy the Iron Gate and move forward!^
+^d04_talk_033^,^They're coming! Destroy the Iron Gate and move forward!^
+^d04_notice_001^,^Frozen Gatekeeper: Who goes there? Reveal yourself!^
+^d04_notice_002^,^De Lamarche: Such exquisite hatred...^
+^d04_notice_003^,^We have enough time. Hahaha...^
+^d04_notice_004^,^Ghost Captain: You have to kill Rondo for me. Quickly!^
+^d04_notice_005^,^Ghost Captain: Time's up. The stones can no longer be destroyed!^
+^d04_notice_006^,^Ghost Captain: The bell of death chimes true...^
+^d04_notice_007^,^Ghost Captain: Destroy the stones that enhance Rondo's power!^
+^d04_notice_008^,^Ghost Captain: The stones can't be destroyed if time is stopped!^
+^f01_e01_100^,^Ahh! You've come to get me! You think I'll just give in?^
+^f01_e01_101^,^I, too, was looking for him...^
+^f01_e01_102^,^You've taken care of it. Thank you!^
+^f01_e01_103^,^Report this to Douglas.^
+^f01_e01_104^,^I have a nice surprise waiting for when he wakes up.^
+^f01_e01_105^,^I'll be a man after this... If I don't die.^
+^f01_e01_106^,^This way! Hurry up!^
+^f01_e01_107^,^Mother deserves better than this pile of dirt.^
+^f01_e01_108^,^Mother!^
+^f01_e01_109^,^I've had this nightmare for so long.^
+^f01_e01_110^,^Now I can finally sleep in peace...^
+^f01_e01_111^,^I'm... I'm me again! I'm no longer a bird!^
+^f01_e01_112^,^Thank you! I won't forget about you, ever!^
+^f01_e01_113^,^Hurry! To the dirt pile!^
+^f01_e01_114^,^We haven't got much time! Hurry!^
+^f01_e01_115^,^I'll head out first then. Deliver the bones to my father.^
+^d03_clear_n1^,^You've cleared Cavern of the Veil (Story).^
+^d03_clear_n2^,^More powerful enemies await at Elite difficulty.^
+^d03_clear_e1^,^You've cleared Cavern of the Veil (Elite).^
+^d03_clear_e2^,^More powerful enemies await at Heroic difficulty.^
+^d03_clear_h1^,^Congratulations!^
+^d03_clear_h2^,^You've cleared Cavern of the Veil (Heroic).^
+^d02_clear_n1^,^You've cleared Ruins of Matren (Story).^
+^d02_clear_n2^,^More powerful enemies await at Elite difficulty.^
+^d02_clear_e1^,^You've cleared Ruins of Matren (Elite).^
+^d02_clear_e2^,^More powerful enemies await at Heroic difficulty.^
+^d02_clear_h1^,^Congratulations!^
+^d02_clear_h2^,^You've cleared Ruins of Matren (Heroic).^
+^d03_dooropen_1^,^The Circle Waterway Door has opened.^
+^d03_dooropen_2^,^The Diamond Waterway Door has opened.^
+^d03_dooropen_3^,^The Star Waterway Door has opened.^
+^d03_dooropen_4^,^The Square Waterway Door has opened.^
+^d03_dooropen_5^,^The Moon Waterway Door has opened.^
+^d03_dooropen_6^,^The Triangle Waterway Door has opened.^
+^d00_clear_n1^,^You've cleared Lavalight Cave (Story).^
+^d00_clear_n2^,^More powerful enemies await at Elite difficulty.^
+^d00_clear_e1^,^You've cleared Lavalight Cave (Elite).^
+^d00_clear_e2^,^More powerful enemies await at Heroic difficulty.^
+^d00_clear_h1^,^Congratulations!^
+^d00_clear_h2^,^You've cleared Lavalight Cave (Heroic).^
+^d01_clear_n1^,^You've cleared Carleon Manor (Story).^
+^d01_clear_n2^,^More powerful enemies await at Elite difficulty.^
+^d01_clear_e1^,^You've cleared Carleon Manor (Elite).^
+^d01_clear_e2^,^More powerful enemies await at Heroic difficulty.^
+^d01_clear_h1^,^You've cleared Carleon Manor (Heroic).^
+^d01_clear_h2^,^More powerful enemies await at Legendary difficulty.^
+^d04_clear_n1^,^You've cleared the Frost Keep (Story).^
+^d04_clear_n2^,^More powerful enemies await at Elite difficulty.^
+^d04_clear_e1^,^You've cleared the Frost Keep (Elite).^
+^d04_clear_e2^,^More powerful enemies await at Heroic difficulty.^
+^d04_clear_h1^,^Congratulations!^
+^d04_clear_h2^,^You've cleared the Frost Keep (Heroic).^
+^dportal_001^,^I will help you get to Sansupus Camp.^
+^dportal_002^,^Sansupus Camp needs help.^
+^dportal_003^,^If you want to go to Hakain's Crossing, come find me.^
+^dportal_004^,^I will send you to Hakain's Crossing.^
+^f03_moontown_01^,^Aisha... I had a nightmare...^
+^f03_moontown_02^,^(You take the shard and time resumes.)^
+^f03_moontown_03^,^I dreamt I was frozen inside...^
+^f03_moontown_04^,^I dreamt you vanished...^
+^f03_moontown_05^,^...^
+^f03_moontown_06^,^The shadow from my youth... still torments me...^
+^f03_moontown_07^,^Salant...^
+^f03_moontown_08^,^I fear him. The ruin he will bring. The lives he will claim...^
+^f03_moontown_09^,^Aisha, I will keep you safe. Even if it costs me my life...^
+^f03_moontown_10^,^I swear...^
+^f03_moontown_11^,^The Rondo before you is merely a reflection in the Water Mirror.^
+^f03_moontown_12^,^I wanted you to see Rondo how he used to be.^
+^f03_moontown_13^,^He was so frightened of Salant...^
+^f03_moontown_14^,^There's not enough time... There's so much more I need to tell you.^
+^f03_HuMMer_001^,^I will grow up to be as great of a man as Rondo one day!^
+^f03_HuMMer_002^,^The reason this world still exists is because Rondo wiped out the pirates.^
+^f03_HuMMer_003^,^If it weren't for him, we'd all be slaves in a galley.^
+^f03_HuMMac_001^,^Rondo is awesome! He's the youngest person ever to have joined the Dragon Knights!^
+^f03_HuMarmE_002^,^Rondo cares more about character than fame or wealth. Do you know how rare that is?^
+^f03_HuMOld_001^,^The land finally knew peace after Rondo became a lord.^
+^f03_HuFOld_001^,^I remember, long ago, Rondo stopped the leader of the Frost Guard, Verda, from reviving.^
+^f03_HuMGuy_001^,^Do you know Rondo? He's the greatest mercenary ever to live! Give lowborn folks like you and me hope, eh?^
+^f03_HuFMis_001^,^Rondo and Aisha are perfect together!^
+^f03_HuFMid_001^,^Thanks to Rondo, we have a thriving trade relationship with the Merumi.^
+^f03_HuFFar_001^,^I wonder how long this happiness will last...^
+^f03_HuMGuy_002^,^What was his name? The head of the pirates that Rondo defeated... Was it Captain Dave Johnson?^
+^f03_HuMMer_004^,^How can I become strong, like Rondo?^
+^f03_HuMMer_005^,^Dave Johnson is a pirate that died long ago. But he's a ghost now, and he wants his revenge!^
+^f03_HuMMer_006^,^After Faraq IV passed, there was a power vacuum. Everything was about to go horrible wrong, but...^
+^f03_HuMMac_002^,^I hope this land stays prosperous forever!^
+^f03_HuMarmE_003^,^Aisha has inherited Goddess Parna's power.^
+^f03_HuMOld_002^,^The Water Mirror! I heard it can bring back the waterfall!^
+^f03_HuFOld_002^,^Aisha saved this world from great famine.^
+^f03_HuMGuy_004^,^I'm ready to go whenever Rondo calls me!^
+^f03_HuFMis_002^,^I wish Rondo and Aisha the greatest happiness, forever!^
+^f03_HuFMid_002^,^Don't you think I'm more Rondo's type than Aisha?^
+^f03_HuFFar_002^,^Rondo can defeat even the God of Ruin.^
+^f03_HuMGuy_003^,^This is like a dream...^
+^f03_julu_000^,^Brave messenger, deliver me to my love!^
+^f03_julu_001^,^Let us leave this wretched swamp behind us.^
+^f03_julu_002^,^They won't follow us, will they?^
+^f03_julu_003^,^We may be safe, but I shan't rest until I am by my lover's side.^
+^f03_julu_004^,^Pity the cultists, for they know not love.^
+^f03_julu_005^,^I see Sacred Shallows! Wait for me, Rumio!^
+^f03_julu_006^,^Do you have someone you love, [UserName]?^
+^f03_julu_007^,^If you do, never let that person go!^
+^f03_julu_008^,^I want to see Rumio so badly, I think I'm going to die.^
+^f03_julu_009^,^We've arrived... I feared this day would never come!^
+^f03_julu_010^,^I must hurry to my beloved. Thank you, my hero!^
+^d01_talk_001^,^Help me stop them from getting to Carleon!^
+^f02_e02_talk_001^,^Mortal flesh...^
+^f02_e01_talk_001^,^Interloper!^
+^f02_e01_notice_001^,^Find Jack the Hunter inside the cave.^
+^f02_e01_talk_002^,^What's happening out there?^
+^f02_e01_talk_003^,^You've come a long way.^
+^d01_notice_107^,^Use the key to open the manor door.^
+^f03_suban_001^,^The Silver Water Glass is a relic made by the merumi after the revelations of Goddess Parna.^
+^f03_suban_002^,^The wise master of the merumi created the glass and the shaman of water breathed the goddess's power into it.^
+^f03_suban_003^,^It was placed in our village as a symbol of harmony between the merumi and the humans.^
+^f03_suban_004^,^The merumi and humans have been able to trade peacefully, thanks to that glass.^
+^f03_suban_005^,^But that was all before the shaman of water disappeared...^
+^f03_suban_006^,^Anyway, just remember that the Silver Water Glass is an important relic between the merumi and the humans.^
+^d04_talk_034^,^The bastard's called for reinforcements!^
+^d04_talk_035^,^Leave these swabs to us!^
+^d04_talk_036^,^I'll take care of you, Rondo!^
+^d04_talk_037^,^Rondo! It's time to taste my vengeance!^
+^d04_talk_038^,^Don't interrupt, scum.^
+^d04_talk_039^,^Don't trifle with me.^
+^d04_talk_040^,^Quick! Up the stairs!^
+^d04_talk_041^,^I won't let a single one of you get through!^
+^f09_hostage_1^,^Help me...^
+^f09_hostage_2^,^Help me!^
+^f09_hostage_3^,^Have you come to save me?^
+^f09_hostage_4^,^Please help me...^
+^f09_free_1^,^Thank you for saving me.^
+^f09_free_2^,^I'm saved!^
+^f09_free_3^,^Thank you!^
+^f09_free_4^,^Thank you so much!^
+^d04_talk_042^,^You are persistent, aren't you?^
+^d04_talk_043^,^I'll go on ahead.^
+^f02_notice_cave_001^,^Follow the directions on the obelisk to find and defeat the ghost in the old cave.^
+^c01_notice_100^,^Rena must be nearby.^
+^c01_lena_000^,^Rena is in the grove. Something isn't right here!^
+^c01_lena_001^,^Rena: Ugh. Human are disgusting.^
+^c01_lena_002^,^Rena: I'm returning to Salant. Out of my way!^
+^c01_lena_003^,^Rena: My power!^
+^c01_lena_004^,^Rena: It seems I'm not back to my old self just yet...^
+^c01_lena_005^,^Rena: I'm done toying with you. Playing the knight was fun, but I'm out of here.^
+^c01_lena_006^,^Rena: You focus on getting stronger. Tastier. I plan to use you in a very special recipe!^
+^c01_lena_007^,^Homer: Hurry... Out of the grove. We must... we must speak.^
+^c01_russel_001^,^Stop Russell's rebellion.^
+^c01_russel_002^,^Russell: There is no place for the weak in my new kingdom. Kill them all!^
+^c01_russel_003^,^Tortus: You asked for this, bastards!^
+^c01_russel_004^,^Linetta: He's tough to kill, but we can still launch him into the atmosphere!^
+^c01_russel_005^,^Linetta: Hang on. I've almost got the transit shrine working!^
+^c01_russel_006^,^It'll take more than cheap tricks to bring this guy down.^
+^c01_russel_007^,^Report to the castle. We'll tie up the loose ends here.^
+^c01_russel_008^,^I fight for the survival of Hakanas! Death to all who oppose me!^
+^c01_russel_009^,^All hail Russell!^
+^c01_russel_010^,^Linetta: Surrender now, traitor, or face our wrath!^
+^c01_russel_014^,^Report to Dahrven in the royal audience chamber.^
+^c01_russel_015^,^You fools serve a rotten old man!^
+^c01_russel_016^,^I... will be... king...^
+^c01_reaction_001^,^Greetings, friend. I am Rufala, servant to the Goddess Ellora.^
+^c01_reaction_002^,^Allow me to teach you some advanced combat tactics.^
+^c01_reaction_003^,^Powerful enemies tend to be resistant to certain status effects.^
+^c01_reaction_004^,^In order to breach their defenses, you must first destabilize them.^
+^c01_reaction_005^,^(Certain skills destabilize enemies when you land a critical hit.)^
+^c01_reaction_006^,^It usually takes a few hits to destabilize an enemy.^
+^c01_reaction_007^,^I'll grant you a blessing that will temporarily improve your chance to destabilize your enemy.^
+^c01_reaction_008^,^And now to summon a monster. Try to destabilize it.^
+^c01_reaction_009^,^Completely destabilize the enemy, then defeat it!^
+^c01_reaction_010^,^Very good. Did you get the hang of it?^
+^c01_reaction_011^,^Enemies with perfect stability are a threat. Don't let them keep their advantage.^
+^c01_reaction_012^,^You can tell whether an enemy has stability by observing it carefully.^
+^c01_reaction_013^,^Again. Destabilize the enemy!^
+^c01_reaction_014^,^You're getting the hang of it now. I'm proud to have trained you.^
+^c01_reaction_015^,^May Ellora's blessing be with you.^
+^c01_reactionotice_01^,^Defeat the enemy by breaking their stability with critical hits.^
+^c01_reactionotice_02^,^Defeat the enemy by breaking their stability with critical hits.^
+^c01_reactionotice_03^,^Report to Virtue Linetta.^
+^f09_zenen_001^,^Cutscene in production.^
+^f09_zenen_002^,^As Rondo was awakening Princess Lania, he discovers the player and starts attacking.^
+^f09_zenen_003^,^While the player faces great danger from Rondo's powerful attacks, Crow comes to the rescue.^
+^f01_north_100^,^The quest hasn't been completed. Talk to Tortus.^
+^f01_tortus_move_on^,^Tortus: Move it! We don't have all day!^
+^f01_tortus_too_slow^,^We don't have time to stand around!^
+^f01_tortus_kill_enemy^,^I will slice our enemies in two!^
+^Crow_Quest_04^,^We're close.^
+^Crow_Quest_05^,^Take them out.^
+^f16_yataiman_001^,^To summon Attaius, you must destroy all the sky warding stones.^
+^f16_yataiman_002^,^Only Lynic can destroy sky warding stones.^
+^f16_yataiman_003^,^Destroy all three sky warding stones.^
+^f16_yataiman_004^,^To summon Attaius, you must destroy all the sky warding stones.^
+^d00_Monster_001^,^Who dare step inside these ruins?^
+^E1_NOTICE_020^,^Press the spacebar to take flight.^
+^E1_NOTICE_021^,^The airship is nearby! Take to the skies!^
+^f01_tortus_join^,^Tortus: The mage has been defeated. My turn!^
+^d01_clear_l1^,^Congratulations!^
+^d00_clear_l1^,^You've cleared Lavalight Cave (Legendary).^
+^d02_clear_l1^,^You've cleared the Ruins of Matren (Legendary).^
+^d04_clear_l1^,^You've cleared the Frost Keep (Legendary).^
+^d03_clear_l1^,^You've cleared the Cavern of the Veil (Legendary).^
+^f02_rick_01^,^Hurry and get me to grandpa and ma.^
+^f02_rick_02^,^Get me away from the Rabbini!^
+^f02_rick_03^,^Thanks. I thought I was a goner!^
+^f02_rick_04^,^Almost there...^
+^f02_rick_05^,^Just a little further.^
+^f02_rick_06^,^I think... I think I can make it from here... Thanks!^
+^f01_e01_n_005^,^Move to Kahntaris.^
+^Crow_Quest_01^,^Focus on the mage!^
+^Toru_Quest_01^,^Tortus: I'll take care of things here. You go find Crow.^
+^f09_rondo_01^,^Stop Rondo.^
+^f01_tortus_too_slow_2^,^I'll follow your lead.^
+^d03_backdoor_01^,^Defeat Killian to enter.^
+^c01_e04_russel_001^,^You've entered a memory. Eliminate all who follow Russell.^
+^c01_e04_russel_002^,^Russell: Conceited scum. I'll show you who I truly am!^
+^c01_e02_notice_100^,^You've entered a memory. Eliminate all who follow Lilith.^
+^c01_e02_notice_101^,^Rena: So, you've come all this way... Well, then, I'll show you who I truly am!^
+^c01_e02_notice_102^,^Rena: Tsk, tsk. Patience! Defeat my minions first.^
+^c01_e04_russel_003^,^Russell: Prove that you can take on my men first!^
+^f15_Notice_001^,^Destroy the meteor's essence and unseal Tranua.^
+^f15_Notice_002^,^Destroy all meteor essences.^
+^f15_Notice_003^,^Congratulations!^
+^f15_Notice_004^,^Tranua has been defeated!^
+^f01_e01_Notice_001^,^You have entered Intertwining Time. Kill all the monsters.^
+^f01_e01_Notice_002^,^Chaos Pawn: Who dares to interrupt me!? Die!^
+^f01_e01_Notice_003^,^Destroy the chaos magic generator.^
+^d22_Ev0_Talk_01^,^It's an intruder!^
+^d22_Ev0_Talk_02^,^Does this need to be blocked?^
+^d22_ev0_notice_001^,^Defeat the heavily armored knight who escaped.^
+^d22_clear_n1^,^You've cleared the Breach (Story).^
+^d22_clear_n2^,^More powerful enemies await at Elite difficulty.^
+^d22_clear_e1^,^You've cleared the Breach (Elite).^
+^d22_clear_e2^,^More powerful enemies await at Heroic difficulty.^
+^d22_clear_h1^,^Congratulations!^
+^d22_clear_h2^,^You've cleared the Breach (Heroic).^
+^f01_e01_Notice_004^,^Destroy the Soul Sphere.^
+^f15_Notice_005^,^Wake Tranua up by lighting the infernal torch.^
+^d22_ma1_notice_001^,^You can fly in the distorted space up ahead.^
+^d22_ma1_notice_002^,^The first Gatekeeper Taradra has been defeated.^
+^d22_ma1_notice_003^,^The second Gatekeeper Taradra has been defeated.^
+^d22_ma1_notice_004^,^The third Gatekeeper Taradra has been defeated.^
+^d22_bos_notice_001^,^Who dares to take my treasure?^
+^d00_Lboss_Notice_01^,^My fragments!^
+^d01_clear_L1^,^Congratulations!^
+^d01_clear_L2^,^You've cleared Carleon Manor (Legendary).^
+^d01_notice_110^,^Move to Gustav's room on the left side of the manor.^
+^f05_HuFMis_002_001^,^Who am I? I can't remember anything.^
+^f05_HuFMis_002_002^,^I see some vague images in my head, but I can't remember a thing.^
+^P01_Exarium_001^,^The master of the mine will appear at Bloodmoon Lake in 10 minutes.^
+^P01_Exarium_002^,^The master of the mine will appear at Bloodmoon Lake in 5 minutes.^
+^F05_radas_meet_01^,^Follow me!^
+^F05_radas_run_02^,^The Mohabans are attacking again!^
+^F05_radas_attach_03^,^Kill them before they destroy the wagon!^
+^F05_radas_guard_04^,^Let's keep moving, before more arrive.^
+^F05_radas_ambush_05^,^Another ambush! Stop them!^
+^F05_radas_end_06^,^We're almost there. To Warak!^
+^f05_foun_01^,^I'll give you the tour of our humble village.^
+^f05_foun_02^,^Up ahead is the Challenger's Flightpath.^
+^f05_foun_03^,^It's important to stay hydrated in the desert.^
+^f05_foun_04^,^Aren't the peaks spectacular?^
+^f05_foun_05^,^The Collectors have a lot of influence out here in the wastes.^
+^f05_foun_06^,^It's dangerous outside these walls. Be careful.^
+^f05_foun_07^,^It's tough to keep the town supplied thanks to the Mohaban Mercenaries, but we'll find a way.^
+^f05_foun_08^,^And that is Alseik in a nutshell.^
+^d13_clear_01^,^You've cleared Temple of Sands (Story).^
+^d13_clear_02^,^More powerful enemies await at Elite difficulty.^
+^d13_clear_03^,^You've cleared Temple of Sands (Elite).^
+^d13_clear_04^,^More powerful enemies await at Heroic difficulty.^
+^d13_clear_05^,^Congratulations!^
+^d13_clear_06^,^You've cleared Temple of Sands (Heroic).^
+^d13_talk_01^,^You cannot enter.^
+^d13_notice_01^,^Kill all ancestor bats to open the way to the audience chamber.^
+^d13_notice_02^,^The door to the audience chamber is now open.^
+^d13_notice_03^,^Activate one of the switchs to open the way to the inner temple.^
+^d13_notice_04^,^The door to the Pilgrim's Walk is now open.^
+^d13_notice_05^,^The door to the Acolyte's Walk is now open.^
+^F05_radas_Talk_01^,^I always heard that Warak is amazing. And he is!^
+^F05_radas_Talk_02^,^The road to the gold mine is under enemy control...^
+^F05_radas_Talk_03^,^If we lost this caravan, we'd be helpless to counterattack.^
+^F05_radas_Talk_04^,^Good thing you showed up, eh?^
+^F05_Leopart_Talk_01^,^Grr...^
+^F05_tent_Talk_01^,^Who's there?^
+^F05_tent_Talk_02^,^It's an intruder!^
+^F05_tent_Talk_03^,^I'll make you pay!^
+^f05_danger_01^,^He dragged more people into this? Fantastic.^
+^f05_danger_02^,^The Alseik Guard, at your service!^
+^f05_danger_03^,^Sherid sends his regards.^
+^d13_cabeim_1^,^Must... obey... Skatrasha...^
+^d13_cabeim_2^,^Must protect...^
+^d13_cabeim_3^,^You shall not pass.^
+^d13_cabeim_4^,^Kill... intruders...^
+^d13_cabeim_5^,^Who...?!^
+^d13_cabeim_6^,^Stop... the interlopers...^
+^d13_cabeim_7^,^Defend... the Tongue...^
+^d13_cabeim_8^,^Kill...^
+^d13_guardian_1^,^I see you!^
+^d13_guardian_2^,^Interloper!^
+^d13_guardian_3^,^Cynthia... defeated?^
+^d13_guardian_4^,^Halt!^
+^d13_guardian_5^,^Do you seek death?^
+^d13_guardian_6^,^How did you get here?^
+^d13_guardian_7^,^Griffin-loving scum!^
+^d13_guardian_8^,^Fight me!^
+^d13_sinsia_1^,^Did the Griffin Knights send you?^
+^d13_sinsia_2^,^The Primordial Tongue is ours!^
+^d13_sinsia_3^,^How can this be...?^
+^d13_nahir_1^,^Jayce's work shall not be interrupted!^
+^d13_nahir_2^,^I shall kill you myself!^
+^d13_nahir_3^,^Too strong...^
+^d13_jason_1^,^You're too late... The Tongue... is mine!^
+^d13_jason_2^,^Did I not... comprehend...?^
+^f05_gerald_Talk_1^,^I sense the power of ruin...^
+^f05_gerald_Talk_2^,^It's too quiet.^
+^f05_gerald_Talk_3^,^Look alive! Gargoyles!^
+^f05_gerald_Talk_4^,^Destroy the statues before the gargoyles awaken!^
+^f05_temp_Notice_1^,^Take those statues down, now!^
+^f05_gerald_Talk_5^,^The gargoyles are awakening!^
+^f05_denil_Talk_1^,^Yaah!^
+^f05_Dio_Talk_1^,^Hah!^
+^f05_Roji_Talk_1^,^They keep coming!^
+^f05_gerald_Talk_6^,^The gargoyles won't be coming back to life anytime soon.^
+^f05_gerald_Talk_7^,^Kranox is at the temple citadel!^
+^f05_temp_Notice_2^,^Climb the temple citadel with Gerald.^
+^f05_kranocx_talk_1^,^Kranox: You're here by your own free will. Fools.^
+^f05_kranocx_talk_2^,^Kranox: Servants... attack!^
+^f05_gerald_Talk_8^,^No, you don't!^
+^f05_gerald_Talk_9^,^Hold the line!^
+^f05_denil_Talk_2^,^Take this!^
+^f05_kranocx_talk_3^,^Kranox: Useless. I'll take care of you myself.^
+^f05_gerald_Talk_10^,^That's what I wanted!^
+^f05_denil_Talk_3^,^Prepare yourselves!^
+^f05_kranocx_talk_4^,^How could I lose to you runts...?^
+^f05_gerald_Talk_11^,^We've done it! Get that key!^
+^f05_temp_Notice_3^,^Bring the key to the barrier.^
+^f06_ev0_talk_01^,^There's the entrance to Fractura Fortress. Hurry!^
+^f06_ev0_talk_02^,^I will head to the Passage of Guard Defense.^
+^f06_ev0_talk_03^,^I will head to the Passage of Elemental Defense.^
+^f06_ev0_talk_04^,^Guardsmen of Fractura, kill all intruders!^
+^f05_martin_talk_01^,^It's impossible to destroy the hatchery by yourself!^
+^f05_martin_talk_02^,^I got this bomb from Mohrune! Let's use it to blow this place up!^
+^f05_martin_talk_03^,^Install the bomb in the center of the large nest!^
+^f05_martin_talk_04^,^Can you block them while I set up this bomb?^
+^f05_martin_talk_05^,^I'm almost done! Hold them off for just a bit longer!^
+^f05_martin_talk_06^,^I think the magic infuser is inside.^
+^f05_martin_talk_07^,^Hurry!^
+^f05_martin_talk_08^,^We have to eliminate that devil!^
+^f05_martin_talk_09^,^We must destroy the magic infuser before the enemies come!^
+^f05_martin_talk_10^,^The bomb will explode soon. Let's get out of here fast!^
+^f05_e02_notice_01^,^Martin Chaser: Can you hold them off while I set up this bomb?^
+^f05_e02_notice_02^,^Martin Chaser: I'm almost done! Just a little more!^
+^f05_e02_notice_03^,^Go to the second room with Martin Chaser.^
+^f05_e02_notice_04^,^Dark Summoner Roo: Hohoho. Who do we have here?^
+^f05_e02_notice_05^,^Dark Summoner Roo: Did you think I wouldn't know?^
+^f05_e02_notice_06^,^Dark Summoner: Wake up, my dear slaves!^
+^f05_e02_notice_07^,^Defeat Dark Summoner Roo <Fallen Legion>.^
+^f05_e02_notice_08^,^Destroy the magic infuser.^
+^f05_devilsol_talk_01^,^It's an intruder!^
+^f05_devilsol_talk_02^,^Who goes there?^
+^f05_devilroo_talk_01^,^Hohoho. Who do we have here?^
+^f05_devilroo_talk_02^,^Did you think I wouldn't know?^
+^f05_devilroo_talk_03^,^Wake up, my dear slaves!^
+^f05_devilroo_talk_04^,^How dare you kill my darling slaves! You will pay for this!^
+^f05_devilroo_talk_05^,^I will kill you, and then you, too, shall become my slave!^
+^f05_chimr_meet_01^,^My savior has finally arrived.^
+^f05_chimr_start_01^,^Let us leave this place.^
+^f05_chimr_start_02^,^We'll be safe once we reach the entrance. Until then, stay close.^
+^f05_chimr_run_01^,^I'll be right behind you, [UserName].^
+^f05_chimr_talk_01^,^We must leave before the crokhoon guards get here.^
+^f05_chimr_talk_02^,^I've known Princess Lania since she was young.^
+^f05_chimr_talk_03^,^Even as a little girl, she was bright.^
+^f05_chimr_talk_04^,^I heard she was kidnapped while she was looking for me...^
+^f05_chimr_talk_05^,^I will do whatever it takes to rescue her.^
+^f05_chimr_talk_06^,^There was a prophecy... That something horrible would happen...^
+^f05_chimr_talk_07^,^That a devilish flame would erupt in Hakain's Crossing.^
+^f05_chimr_talk_08^,^Princess Lania...^
+^f05_chimr_talk_09^,^She has a warm heart... I'm sure she can stand against the God of Ruin.^
+^f05_chimr_attach_01^,^I think the guards know we're here.^
+^f05_chimr_attach_02^,^Kill the crokhoon guards!^
+^f05_chimr_notice_01^,^You can't go that way. The guards are there!^
+^f05_chimr_notice_02^,^If you leave the road, we shall surely fail!^
+^f05_chimr_end_01^,^It's safe now.^
+^f05_chimr_end_02^,^I will continue on alone. Come find me later.^
+^f05_chimr_end_03^,^You needn't escort me any further.^
+^f05_chimr_end_04^,^Meet me when you've finished your business here.^
+^f05_hermit_a_talk_01^,^Do you need something?^
+^f05_hermit_a_talk_02^,^I'm busy. Go away.^
+^f05_hermit_a_talk_03^,^I haven't seen your face around here before.^
+^f05_hermit_a_talk_04^,^Begone with your mirror, hooligan!^
+^f05_hermit_b_talk_01^,^Argh!^
+^f05_hermit_b_talk_02^,^It burns... It burns!^
+^f05_hermit_b_talk_03^,^Take it away... Take it away!^
+^f05_Aing_notice_02^,^Scenario Event in preparation.^
+^f06_ev1_talk_01^,^Prepare for battle, Fractura Raid!^
+^f06_ev2_talk_01^,^Prepare for battle, Fractura Guard!^
+^d13_jason_3^,^You dare to interrupt me? Absurd!^
+^d13_jason_4^,^If only I had Skatrasha's power...^
+^f06_ev3_talk_01^,^Let's see... Is it noon?^
+^f06_ev3_talk_02^,^Let's see... Is it afternoon?^
+^f06_ev3_talk_03^,^Let's see... Is it evening?^
+^f06_ev3_talk_04^,^Let's see... Is it night?^
+^f05_nix_001^,^I cane to Hermit's Town because I hated the world outside so much. But now... I want to go back...^
+^f05_nix_002^,^I left the village because of monsters... But now they're outside the village, too!^
+^f05_nix_003^,^It's not safe here. Why does the village feels so far away...?^
+^f05_nix_004^,^Those monsters! I can't leave the desert because of them!^
+^f05_nix_005^,^Whatever, I just want to go home.^
+^f05_nix_006^,^Once I return to Hermit's Town, I will forget about everything and just live in peace.^
+^f05_nix_007^,^I'm okay to go on alone from here. I got this far thanks to you!^
+^f05_martin_talk_11^,^I'm done setting up the bomb. Let's move to the next room!^
+^f05_martin_talk_12^,^We must hurry before the enemies come!^
+^f05_Firealtar_talk_01^,^Step away from the sacred altar!^
+^f05_Firealtar_talk_02^,^Those that sully this place will pay the price!^
+^f05_Firealtar_talk_03^,^No one can come near!^
+^f05_Firealtar_talk_04^,^Leave, now!^
+^f05_Firealtar_talk_05^,^I want to see... The goddess once more...^
+^f05_Firealtar_talk_06^,^How... could it end like this...?^
+^f05_Firealtar_talk_07^,^We must... protect the altar... Ahh...^
+^f06_ev8_talk_01^,^Prepare for battle, Fractura Assassins!^
+^d13_jasonnotice^,^A charge fills the air...^
+^f05_devil_talk_01^,^I will kill you right here!^
+^f05_devil_talk_02^,^Don't you dare interrupt us!^
+^f05_devil_talk_03^,^Kyek! Kyek! Die!^
+^f06_ev7_talk_01^,^Congratulations!^
+^f06_ev7_talk_02^,^You've cleared Fractura!^
+^d22_clear_l1^,^Congratulations!^
+^d22_clear_l2^,^You've cleared the Breach (Legendary).^
+^d22_3named_01^,^Heal the golem...^
+^d22_4named_01^,^Intruder! Activate the rift's light.^
+^f01_ghost_01^,^You are out of the quest's range.^
+^f01_ghost_02^,^You will fail the quest if you don't return to the ruins.^
+^d03_event_talk_01^,^Your weak hearts have sent you back for the eternal cycle of rebirth.^
+^d04_notice_10^,^I feel... a coldness... Be careful...^
+^p02_yusei_01^,^I want to get away from Eternity Lake.^
+^p02_yusei_02^,^Can I escape from the Spirit Hunters?^
+^p02_yusei_03^,^Eternal rest... I wonder what that feels like.^
+^p02_yusei_04^,^We're almost here! I can see the Black Pit. Thank you for helping me through my journey.^
+^p02_yusei_05^,^Spirits can never leave Eternity Lake!^
+^p02_yusei_06^,^Where do you think you're going?^
+^d04_talk_050^,^De Lamarche! Where art thou?^
+^d04_talk_051^,^Balbora. Where are you?^
+^d04_talk_052^,^My sorrows...^
+^d04_notice_11^,^Rondo's tempering stone is ready to be activated.^
+^d04_notice_12^,^Activate Rondo's destruction!!^
+^d04_notice_13^,^Activate Rondo's power!!^
+^d04_notice_14^,^Activate Rondo's agility!!^
+^d04_notice_15^,^You've entered Rondo's territory and activated all manastones.^
+^d04_stone_01^,^Entering defense phase for the Manastone of Destruction.^
+^d04_stone_02^,^Entering defense phase for the Manastone of Speed.^
+^d04_stone_03^,^Entering defense phase for the Manastone of Strength.^
+^d04_stone_04^,^The Manastone of Destruction will be sealed shortly.^
+^d04_stone_05^,^The Manastone of Speed will be sealed shortly.^
+^d04_stone_06^,^The Manastone of Strength will be sealed shortly.^
+^d03_event_talk_02^,^You will all fall into the abyss!^
+^d03_event_talk_03^,^Sorrow's Guide filled this cave with an insidious energy.^
+^d08_clear_n1^,^Youve cleared Forgotten Shrine (Story).^
+^d08_clear_n2^,^More powerful enemies await at Elite difficulty.^
+^d08_clear_e1^,^You've cleared Forgotten Shrine (Elite).^
+^d08_clear_e2^,^More powerful enemies await at Heroic difficulty.^
+^d08_clear_h1^,^Congratulations!^
+^d08_clear_h2^,^You've cleared Forgotten Shrine (Heroic).^
+^d08_notice_01^,^Defeat the enemies in the air to open the barrier.^
+^d08_notice_02^,^Who dares step foot in our shrine?^
+^d08_notice_03^,^A Chaos Crystal has appeared.^
+^d08_notice_04^,^Beltenus is absorbing chaos magic.^
+^f07_conwell_01^,^Quickly. Let's get out of here!^
+^f07_conwell_02^,^The chaos elves are after the holy stones, but I didn't expect them to move so soon.^
+^f07_conwell_03^,^I was not vigilant enough.^
+^f07_conwell_04^,^Wait... Movement in the trees!^
+^f07_conwell_05^,^Your life is forfeit!^
+^f07_conwell_06^,^There's no escape!^
+^f07_conwell_07^,^Kill the elder!^
+^f07_conwell_08^,^I owe you my life.^
+^f07_conwell_09^,^Be on your guard. Chaos is afoot!^
+^f07_conwell_10^,^Elder Corvel. I'm impressed you made it this far.^
+^f07_conwell_11^,^But you go no further. Kill him!^
+^f07_conwell_12^,^Argh!^
+^f07_conwell_13^,^W-what?!^
+^f07_conwell_14^,^Stop, heretics!^
+^f07_conwell_15^,^Reinforcements! Curses... Until next time!^
+^f07_conwell_16^,^Friends! I'm relieved to see you.^
+^f07_conwell_17^,^We'll get the elder to the Dragon Knight camp.^
+^f07_conwell_18^,^We'll look after Elder Corvel!^
+^f07_conwell_19^,^Leave Corvel in our care.^
+^f07_conwell_20^,^My men can take me the rest of the way to the camp.^
+^f07_conwell_21^,^You have my thanks. Wind guide you.^
+^d08_boss_talk^,^I bestow upon you the gift of nightmares.^
+^d08_e02_cut1^,^The cutscene of the Entry to Story Channel appears in this section.^
+^d08_e02_cut2^,^This part is when the cutscene for Judas' appearance is played.^
+^d08_e02_cut3^,^The cutscene of Krasis's Rescue appears in this section.^
+^d08_e02_no_1^,^We need to eliminate the chaos elf guarding Krasis.^
+^d08_e02_no_2^,^We need to eliminate Judas the betrayer.^
+^f07_curse_01^,^M-medicine? Thank you...^
+^f07_curse_02^,^I-I think I'm melting...^
+^f07_curse_03^,^Kyahh!^
+^f07_curse_04^,^How could this be? It's all my fault.^
+^d99_talk_1_001^,^They said you'd come, but I didn't believe it.^
+^d99_talk_1_002^,^I'm here to see how strong you are. I... don't like where this is headed.^
+^d99_talk_1_003^,^On the other hand, if you can't even beat me, why not just turn back now?^
+^d99_talk_1_004^,^It's not like I want to fight you. I have no choice!^
+^d99_talk_1_005^,^Enough of this pity party. Let's get this over with!^
+^d99_talk_1_006^,^Is that all you've got? What a relief!^
+^d99_talk_1_007^,^Well, this isn't looking good for me.^
+^d99_talk_1_008^,^A word of advice. If you're having trouble with ME, you'll be in for it later on...^
+^d99_talk_1_009^,^Are you really that intent on killing me? Stubborn...^
+^d99_talk_3_001^,^Ease the Brakarr gallant's pain and earn its trust.^
+^d99_talk_3_002^,^I was just watching...^
+^d99_talk_3_003^,^Your failure to save the Brakarr gallant strengthened Barios.^
+^d99_talk_4_001^,^Tame a common laiku so you can tame the +5 golden laiku.^
+^d99_talk_8_001^,^Hurry before enemy reinforcements arrive!^
+^d99_clear_01^,^Congratulations!^
+^d99_clear_02^,^You've cleared Ellora's Spire.^
+^d99_talk_12_001^,^M-mother!^
+^d99_talk_12_002^,^I'll make them pay!^
+^d99_talk_12_003^,^No one can stop our family!^
+^d99_talk_14_001^,^Leave our old man alone!^
+^d99_talk_14_002^,^Time to bewitch!^
+^d99_talk_14_003^,^I don't know how much help I'll be...^
+^d99_talk_14_004^,^I'll help. THIS time.^
+^d99_talk_27_001^,^Prepare to walk the plank!^
+^d99_talk_27_002^,^You must earn my respect before you can move on!^
+^d99_talk_27_003^,^Give it your best shot!^
+^d99_talk_14_005^,^Don't be envious!^
+^d99_talk_28_001^,^My head... A-Aisha?!^
+^d99_talk_28_002^,^De Lamarche! Balbora! Where are you?^
+^f07_chase_01^,^What have we here? Anotehr Collector?^
+^f07_chase_02^,^The other one got away. You won't be so lucky!^
+^f07_chase_03^,^KILL!^
+^f07_chase_04^,^Argh!^
+^f07_chase_05^,^Y-you're no Collector!^
+^f07_chase_06^,^E-enough!^
+^f07_trap_01^,^Still alive, I see.^
+^f07_trap_02^,^I owe you for Drant.^
+^f07_trap_03^,^You've come all this way to find that Collector, haven't you?^
+^f07_trap_04^,^Well, before you go any further... Take this!^
+^f07_trap_05^,^Blast it! I underestimated you again.^
+^f07_trap_06^,^Fine, I'll take you to him... if you can keep up!^
+^f07_trap_07^,^Did the Collectors hire you? Why don't you work for me, instead?^
+^f07_trap_08^,^I could use someone with your skills.^
+^f07_trap_09^,^It could be very good, you know.^
+^f07_trap_10^,^Hmm... This should do.^
+^f07_trap_11^,^You kept up, and I always keep my promises.^
+^f07_trap_12^,^The collector your looking for... is on the path to the afterlife. Why don't you join him?^
+^f07_trap_13^,^Die!^
+^f07_trap_14^,^What... what are you...?^
+^f07_trap_15^,^Th-this is...^
+^f07_trap_16^,^Roa... You fooled me!^
+^f07_trap_17^,^Worthless mage...^
+^f07_trap_18^,^You couldn't even complete a simple assignment. Bah.^
+^f07_trap_19^,^As for you... I owe you an apology. If you like, I will tell you where the Collector is.^
+^f07_trap_20^,^Take the road beyond Ellandfel Hold.^
+^f07_trap_21^,^Perhaps we'll meet again someday...^
+^f07_elj_notice_1^,^Destroy the chaos barriers.^
+^f07_elj_notice_2^,^Defeat the chaos elf cavalry.^
+^f07_demus_1^,^You think you can challenge me?^
+^f07_demus_2^,^Rise, minions of darkness!^
+^f07_demus_3^,^Very well. I shall kill you myself!^
+^f07_demus_4^,^H-holy stone... Archon...^
+^f07_toran_1^,^Leave the minions to me!^
+^f07_toran_2^,^How dare you take the holy stone?^
+^f07_toran_3^,^Don't you dare try to escape!^
+^f07_eldor_1^,^Remove your sullied feet from our land!^
+^f07_eldor_2^,^Return the Holy Stone of Courage!^
+^f07_eldor_3^,^You'll pay for this!^
+^f07_eldor_4^,^Your life is forfeit!^
+^d08_notice_05^,^Don't let Yorminsul get away!^
+^d99_talk_4_002^,^A +5 golden laiku has appeared!^
+^d99_talk_29_001^,^The Director is losing his mind over the glitches!^
+^d99_talk_19_001^,^You dare interrupt our ritual?^
+^d99_talk_19_002^,^Insolent wretch!^
+^d99_talk_19_003^,^You will die choking on your own blood!^
+^d99_talk_1_010^,^Eek! You startled me!^
+^d99_talk_12_004^,^Where did they all go?^
+^d99_talk_12_005^,^The Attaius boy from next door got a job on the 21st floor. Sigh...^
+^d99_talk_12_006^,^Forget about that. Just get back to your studies!^
+^d99_talk_12_007^,^You're just like your father. Such a troublemaker!^
+^d23_notice_1^,^You have 10 minutes in the Shady Warrens.^
+^d23_notice_2^,^Normal attacks don't work. Use carrot and pumpkin bombs!^
+^d23_notice_3^,^There's not much time! Hurry!^
+^d99_talk_32_001^,^How do you think I feel?^
+^d99_talk_32_002^,^Check the perception crystal to reveal the child's innermost emotions.^
+^d99_talk_32_003^,^You're making me angry!^
+^d99_talk_32_004^,^Maybe defeating you will cure my sadness.^
+^d99_talk_32_005^,^Happiness doubles if it's shared? No, it's all MINE!^
+^d99_talk_32_006^,^You dare disturb a girl as she sleeps?^
+^d99_talk_33_001^,^Your interference will not be tolerated!^
+^d99_talk_34_001^,^This is a place for fun people! You lost?^
+^d99_talk_34_002^,^Prove yourself. Show me your moves!^
+^d99_talk_37_001^,^The green algae is slowly spreading.^
+^d99_talk_37_002^,^The plankton's venom is intensifying the water-bloom!^
+^d99_talk_37_003^,^The plankton is on a rampage! The room is covered in green algae!^
+^d99_talk_38_001^,^Dodge these creatures... if you can!^
+^d99_talk_40_001^,^This algae is an extension of my being.^
+^d99_talk_31_001^,^All the world's treasure is here for you to take... if you can find it!^
+^d99_talk_31_002^,^Of course, my children won't just sit back and watch!^
+^d99_talk_35_001^,^You! Me! The colosseum!^
+^d99_talk_36_001^,^You will be my next familiar!^
+^d99_talk_37_004^,^You have defeated the plankton and the water-bloom effect has vanished.^
+^d99_talk_33_002^,^Only Yozah can influence the Soul Sphere.^
+^d26_notice_1^,^You only have 10mins to stay in Braghin mine.^
+^d26_notice_2^,^Braghin Mine will be closed soon.^
+^c02_kei_notice_01^,^Kaynel: Who dares to step foot upon this holy ground?^
+^c02_notice_01^,^Defeat Blasphemer Kaynel.^
+^c02_kei_Talk_1^,^Kaynel: Get rid of the intruders!^
+^c02_ditu_notice_02^,^Defeat Shadowcaster Divagren.^
+^c02_ditu_Talk_1^,^Divagren: You've made it far. Impressive.^
+^c02_ditu_Talk_2^,^Divagren: Unfortunately...this is as far as you'll go!^
+^c02_rondo_notice_1^,^Aid the cloaked man in defeating Duke Elder.^
+^c02_relic_talk_1^,^I won't hand over Goddess Ellora's holy blood...!^
+^c02_relic_talk_2^,^No one can have the holy relic!^
+^c02_relic_talk_3^,^To have it taken so quickly...^
+^c02_enderjail_talk_1^,^Here...! Please, help me!^
+^c02_enderjail_talk_2^,^Open the prison door!^
+^d12_notice_01^,^Obtain a key from one of the roaming strong specimens.^
+^d12_nasulos_01^,^It's up to you to decide which side seeks true justice.^
+^d12_nasulos_02^,^Those who do not follow the law will face death!^
+^d12_nasulos_03^,^The almighty Duke Elder!^
+^d12_ditugaren_01^,^The great Duke Elder may have granted me new life, but I will gladly risk it to ensure your death!^
+^d12_notice_02^,^To disable the Wailing Shrine, you must defeat all the Sorrow Wraiths.^
+^d12_notice_03^,^Once the Wailing Shrine is disabled, the Cursed Spirit Ahnturagen will be outraged!^
+^d12_notice_04^,^The inner door to the Secret Library has opened!^
+^d12_notice_06^,^Who dares to disrupt the order here?!^
+^d12_vampmaid_01^,^Those who disturb Duke Elder will be punished!^
+^d12_notice_07^,^To fight Duke Elder, you must first defeat Director Eldist.^
+^d12_notice_08^,^The inner door to the Secret Library has opened!^
+^d12_humaelder_01^,^Useless! All of you!^
+^d12_humaelder_02^,^I will personally slaughter every intruder, and then the festival of the void will commence!^
+^d12_clear_n1^,^You've cleared Elder's Bastion (Normal).^
+^d12_clear_n2^,^More powerful enemies await at Elite difficulty.^
+^d12_clear_e1^,^You've cleared Elder's Bastion (Elite).^
+^d12_clear_e2^,^More powerful enemies await at Heroic difficulty.^
+^d12_clear_h1^,^You've cleared Elder's Bastion (Heroic).^
+^d12_clear_h2^,^More powerful enemies await at Legendary difficulty.^
+^d12_clear_l1^,^Congratulations!^
+^d12_clear_l2^,^You've cleared Elder's Bastion (Legendary).^
+^d12_notice_09^,^The door to enter Brink of Despair has opened.^
+^d12_vampmaid_02^,^An intruder has entered the library...^
+^d12_notice_05^,^The door to enter the Wailing Shrine has opened.^
+^d12_childgirl_1^,^Weaklings deserve to die.^
+^d12_childgirl_2^,^It's a great honor for this to be your final resting place.^
+^d12_childgirl_3^,^I look forward to hearing you scream.^
+^d12_childgirl_4^,^We are Duke Elder's future.^
+^d12_childgirl_5^,^We were born to fulfill Duke Elder's grand plans for this world.^
+^d12_childgirl_6^,^I dedicated myself to Duke Elder's cause of my own free will.^
+^d12_childgirl_7^,^Long live Duke Elder!^
+^d12_childgirl_8^,^Duke Elder has given me everything I could have ever hoped for.^
+^d97_notice_1^,^You can stay on PCbunny's Island for 3 hours.^
+^d97_notice_2^,^Enjoy fishing and create memories until the sand in the boatman's timer disappears.^
+^d97_notice_3^,^Your time on PCbunny's Island is coming to an end.^
+^d11_notice_1^,^Find a ignitor and burn down the stockades.^
+^d11_notice_2^,^Lazart, the Spell Fencer, heightened security.^
+^d11_notice_3^,^Lucid Elfer : I have a gift for you.^
+^d11_notice_4^,^McTimon's Workshop iron door is open.^
+^d11_notice_5^,^Use McTimon's ignitor to blow up the ignition catridge.^
+^d13_notice_06^,^Defeating all Kravasos will open the Way of Pilgrims.^
+^d13_notice_07^,^The door to the Way of Pilgrims is open.^
+^d13_notice_08^,^Defeat Cynthia's shadow to break down the brockades.^
+^d13_notice_09^,^The door to the ritual anteroom is open.^
+^d13_notice_10^,^The door to Skatrasha's seal is open.^
+^d13_clear_07^,^Ancient Altar (Legendary) cleared.^
+^d13_sinsia_4^,^How dare you break into this place!^
+^d13_sinsia_5^,^I won't let you walk away!^
+^d13_sinsia_6^,^I will deal with you myself. Come on!^
+^d12_notice_10^,^To enter the library, you must defeat the low-ranking guards blocking the way.^
+^d11_notice_sir_0^,^The 5-minute Stand-by Team is arriving soon.^
+^d11_bulmaca_1^,^It was you people!^
+^d11_bulmaca_2^,^Sir Datugaren…I am sorry…^
+^d11_bulmaca_3^,^Go back to ashes kids!^
+^d11_talk_1^,^For Lucid Elfer…^
+^d11_talk_2^,^I…I don't want to die…^
+^d11_talk_3^,^Hot…It's hot…^
+^d11_lazart_1^,^You again?!!^
+^d11_lazart_2^,^It's been awhile!!^
+^d11_lazart_3^,^But, it will be different this time!!^
+^d11_fastm_1^,^Oh...It's personal maintenance time soon.^
+^d11_fastm_2^,^Is this the right place?^
+^d11_fastm_3^,^The next shift is soon.^
+^d11_fastm_4^,^We should stay here.^
+^d11_fastm_5^,^5-minute Stand-by~^
+^d11_fastm_6^,^5-minute Stand-by~^
+^d12_nasulos_04^,^Nazroth: The air is heavy with the stench of humans.^
+^d12_notice_11^,^The air is heavy with the dark energy of sorrow and despair caused by Sorrow's Guide.^
+^d11_notice_6^,^You defeated Bull Mc'Timon.^
+^d11_notice_7^,^Congratulations!^
+^d11_notice_8^,^Red Revolutionary Base Lower Floor cleared.^
+^d11_notice_9^,^Slayer Zenon is staking out.^
+^d11_notice_10^,^The pirates are disquieting.^
+^d11_carad_1^,^How well you made this far!!^
+^d11_carad_2^,^Be my servant!! The god of the sea!^
+^d12_nasulos_05^,^We must protect the bioconversion reactor.^
+^d12_notice_12^,^We must use the device to deactivate the bioconversion reactor.^
+^d12_notice_13^,^The bioconversion reactor has been deactivated.^
+^f01_bird_1^,^Squawk... SQUAWK!^
+^f01_bird_Notice_1^,^Help... Help me!^
+^f01_jade_1^,^Argh... Over here!^
+^f01_bird_Notice_2^,^Give Pyro the medicine I gave you.^
+^f01_bird_Notice_3^,^Pyro's fledgling is tangled up in branches. Free him!^
+^f01_jade_2^,^Pyro's hurt, but she should be able to fly...^
+^f01_jade_3^,^Pyro's fledgling is tangled up in branches. Free him!^
+^f01_bird_Notice_4^,^Approach Pyro to mount.^
+^f01_bird_Notice_5^,^Follow the arrow.^
+^f01_bird_Notice_6^,^Clear out the branches and free the phoenix fledgling.^
+^f01_bird_Notice_7^,^Approach Pyro to mount.^
+^f01_jade_4^,^You freed him. Thank you!^
+^d12_humaelder_03^,^I will remake this world!^
+^d99_talk_2_001^,^You again? Are you looking down on me?^
+^d99_talk_2_002^,^This won't be easy.^
+^d99_talk_2_003^,^I'll prove it! Come on in!^
+^idoll_talk_001^,^[UserName]! Come here.^
+^idoll_talk_002^,^I'm not sure how to tell you this. I know you hoped to see the princess again, but...^
+^idoll_talk_003^,^I'm so sorry. I failed. Rondo took her.^
+^idoll_talk_004^,^There's no time to waste.^
+^idoll_talk_005^,^Take a weapon and get some combat practice. Then we'll get going!^
+^idoll_talk_006^,^Tortus, you're safe! I heard the news. How are you?^
+^idoll_talk_007^,^Kuart, we'll catch up next time over drinks.^
+^idoll_talk_008^,^This girl needs weapons. She should be prepared for true combat as soon as possible.^
+^idoll_notice_001^,^Choose a weapon from the weapon stand.^
+^idoll_talk_009^,^That seems appropriate. Let's get started.^
+^idoll_notice_002^,^Tortus: Come over here.^
+^idoll_talk_010^,^It's probably best for Rena to join. Rena!^
+^idoll_talk_011^,^Yes, Captain! How can I help?^
+^idoll_talk_012^,^We're going to need help. You should join us.^
+^idoll_talk_013^,^Get moving. There's some kind of strange entity out there.^
+^idoll_talk_014^,^Enemies are already closing in! We need backup!^
+^idoll_notice_003^,^Help the soldiers defeat enemies.^
+^idoll_talk_015^,^Something isn't right. Stay alert and move slowly.^
+^idoll_notice_004^,^Let's get drunk and check out the temple courtyard!! Come on!!^
+^idoll_talk_016^,^It seems some kind of entity has appeared. Let's follow.^
+^idoll_talk_017^,^We require the mystical power of the shaling. [UserName], be careful.^
+^idoll_notice_005^,^Use your unique shaling skills to defeat the enemies.^
+^idoll_talk_018^,^And just like that, you're carrying your own weight, [UserName].^
+^idoll_talk_019^,^No time to celebrate just yet, though. Let's hurry.^
+^idoll_notice_006^,^Defeat the enemies attacking the familiars.^
+^idoll_talk_020^,^Will you be okay? I thought you'd need a familiar to go to Hakain's Crossing.^
+^idoll_talk_021^,^Thank you for protecting my familiar. I was so frightened, I couldn't do anything.^
+^idoll_talk_022^,^Unless you're accustomed to combat, it's a normal reaction. Don't be ashamed.^
+^idoll_talk_023^,^I'll gladly offer you a familiar in thanks. Choose whichever you'd like.^
+^idoll_notice_007^,^Mount the poyo.^
+^idoll_talk_024^,^Let's get going. Be sure you don't let your guard down. It's easy to fall when you're not used to the speed.^
+^idoll_talk_025^,^Good. Let's get moving a little faster now.^
+^idoll_notice_008^,^Press the spacebar to take flight.^
+^idoll_notice_009^,^When moving forward, descend by pressing the space bar twice.^
+^idoll_talk_026^,^You seem more comfortable handling familiars now. Why don't we walk from here.^
+^idoll_talk_027^,^Once you enter the city gate, you'll be in the real world.^
+^idoll_talk_028^,^Stay strong and don't forget what you've learned. You did great!^
+^idoll_talk_029^,^I need to speak with Rena. Find me again after you enter Hakain's Crossing. Well done!^
+^idoll_notice_010^,^Listen to Tortus's story.^
+^idoll_notice_011^,^Enter Hakain's Crossing through the city gate.^
+^idoll_talk_030^,^Hurry! Your destiny lies straight ahead.^
+^idoll_notice_012^,^You'll have to start over after reviving.^
+^idoll_talk_031^,^The familiars are in danger!^
+^idoll_notice_013^,^Return to your active location.^
+^idoll_notice_014^,^Destroy the cask to prevent Baucher from regenerating.^
+^idoll_notice_015^,^Defeat Baucher.^
+^idoll_talk_032^,^Let's pray together for Princess Lania.^
+^idoll_talk_033^,^Dear Lania...^
+^idoll_talk_034^,^Where are you?^
+^e01_notice_1^,^You only have 10mins to stay in the Haunted House.^
+^e01_notice_2^,^Obtain the flare that can defeat the Grim Reaper from Merville's Treasure Box.^
+^e01_notice_3^,^The house will be closed soon.^
+^e01_notice_4^,^Listen to Phantom about the Haunted House.^
+^e01_talk_1^,^Are you here to ease Merville's pain? Or you are just here because of your greed for the reward that she posted?^
+^e01_talk_2^,^If the latter is your answer, you'd better leave right now. You don't want to lose your life here.^
+^e01_talk_3^,^As you can see, this place is occupied by zombies and ghosts coming out of nowhere....^
+^e01_talk_4^,^Everything started from the Grim Reaper. This haunted house and the Zombies appearing...^
+^e01_talk_5^,^If you truly care about Merville, please, get rid him. It's up to you.^
+^e01_talk_6^,^Bring this Tourch. It's helps your visibility....^
+^e01_notice_5^,^Go inside the Manor through the warp portal activated by Phantom.^
+^e01_notice_6^,^You obtained a flare that can defeat the Grim Reaper!^
+^e01_notice_7^,^Throw the flare and defeat the Grim Reaper hovering in the middle.^
+^e01_clear_1^,^Congratulations!^
+^e01_clear_2^,^You cleared the Haunted House.^
+^e01_notice_8^,^Get the Torch next to Phantom.^
+^e01_event_02_1^,^Ouch, I got injured in fight with 17 zombies...!^
+^e01_event_02_2^,^Are you scared of ghosts? I used to tame some ghosts and ride them...!^
+^e01_event_02_3^,^Don't say you are here not even knowing what's important.^
+^e01_event_02_4^,^You have a sharp nose. Your nose, is it really your nose?^
+^e01_event_02_5^,^The corpses were trying to harm? I thought they were chasing me because they had a crush on me!^
+^e01_event_06_1^,^Watch out.^
+^e01_event_06_2^,^I experienced so many battlefields. But, I never felt tense this much.^
+^e01_event_03_1^,^I could apply for the Onyx Order if I defeated the Reaper...!^
+^e01_event_03_2^,^I fell down not because I was being chased by zombies. But, I just couldn't handle the crazy speed.^
+^e01_event_04_1^,^I hear that a man called Mansur amassed a great fortune with the things gained from Merville's Treasure Box…^
+^e01_event_04_2^,^Whew… Digging with a dirty spoon only gives me the dirt!^
+^e01_event_05_1^,^You think I am like Nightingale? Who is she?^
+^e01_event_05_2^,^You, You want high heels? Sorry, I am just a maid at the Manor....^
+^d11_notice_11^,^Karade, the Pirate Officer was defeated.^
+^d11_notice_12^,^I can feel the abnormal energy coming out of the cave.^
+^d98_notice_01^,^The tent will be released after a while.^
+^d98_notice_02^,^It's five seconds before the tent.^
+^d98_notice_03^,^The tent of each camp has been lifted.^
+^d98_notice_04^,^Removal of the first battlefield. You can get buffs through battlefield monsters.^
+^d98_notice_05^,^<Lords of the Battleground> Sikhradun has been captured.^
+^d98_notice_06^,^<Energy of the sun> Helena has been killed.^
+^d98_notice_07^,^Megantes of Nightmare has been defeated.^
+^d98_notice_08^,^<Aura of the Moon> Selena has been killed.^
+^d98_notice_09^,^Ranote of Destruction has been killed.^
+^d98_notice_10^,^Painful Henok has been killed.^
+^d98_notice_11^,^Ruby's turret has been destroyed.^
+^d98_notice_12^,^Sapphire's turret has been destroyed^
+^d98_notice_13^,^Ruby's Guardian Stone has been destroyed.^
+^d98_notice_14^,^Sapphire's Guardian Stone has been destroyed^
+^treasure_notice_1^,^I have a chicken. Fly me and kill the chickens before they run away.^
+^treasure_notice_2^,^A beating chicken appeared. Nanda Kill the chickens before they run away.^
+^d11_notice_13^,^The Cursed Skull Captain has appeared.^
+^d11_notice_14^,^You have defeated the Cursed Sukull Captain.^
+^d07_notice_01^,^In order to enter the Bone Valley, you must kill the insect legions that are blocking you.^
+^d07_notice_02^,^The door to the Bone Vally was opened.^
+^d07_notice_03^,^The Bone Vally Trap was activated. Move away from the trap.^
+^d07_notice_04^,^The sandworm larva hatches.^
+^d07_notice_05^,^The door to the culture room opened.^
+^d07_notice_06^,^The mutant culture tube must be destroyed. If you don't destroy it, the difficulty increases.^
+^d07_notice_07^,^The door to Kurodian's Hideout was opened.^
+^d07_clear_01^,^Cleared the Wyrm Tomb[Story]!^
+^d07_clear_02^,^You can meet more powerful enemies in Elite Eifficulty.^
+^d07_clear_03^,^Cleared the Wyrm Tomb[Elite]!^
+^d07_clear_04^,^You can meet more powerful enemies in Heroic Difficulty.^
+^d07_clear_05^,^Cleared the Wyrm Tomb[Heroic]!^
+^d07_clear_06^,^You can meet more powerful enemies in Legendary Difficulty.^
+^d07_clear_07^,^Congratulations!^
+^d07_clear_08^,^Cleared the Wyrm Tomb [Legendary]!^
+^f08_audience_01^,^The King told me why the kingdom of Turiman and Hakanas has come to a halt.^
+^f08_audience_02^,^It was Salazar who caused the dispute in the two kingdoms.^
+^f08_audience_03^,^Are you referring to the traitor Salazar?^
+^f08_audience_04^,^Yes, it is.^
+^f08_audience_05^,^Salazar, this one!^
+^f08_audience_06^,^There is no one there! Immediately bring the whole army back to Salazar's neck!^
+^f08_audience_07^,^King. You do not have to.^
+^f08_audience_08^,^This man has already killed Salazar, the chief of all things.^
+^f08_audience_09^,^Really?^
+^f08_audience_10^,^Oh oh… Human beings. I think I misunderstood.^
+^f08_audience_11^,^To do this kind of thing for our kingdom. Thank you.^
+^f08_whereabouts_01^,^Please… help me… I do not want to die ...^
+^f08_whereabouts_02^,^Great ...^
+^f08_whereabouts_03^,^Huckoo ... If you want to play it, hit it.^
+^f08_whereabouts_04^,^Mother…^
+^f08_prophecy_01^,^These idiots! I can not even do this!^
+^f08_prophecy_02^,^Soon the appointed time comes to him!^
+^f08_prophecy_03^,^Chief, this is not so easy.^
+^f08_prophecy_04^,^Do not be ridiculous and do not get rid of it^
+^f08_prophecy_05^,^After I do what I do ... My these!^
+^f08_prophecy_06^,^So you can set an example for yourself.^
+^d07_notice_08^,^In order to enter the culture room, you must kill the insect group that is blocking you.^
+^d07_notice_09^,^Enter into the culture room using the Space Mover.^
+^d07_notice_10^,^Use the space movers to enter the hiding place of the Kroodian.^
+^f08_rescue_01^,^I would not have been a prisoner even if my boss did not let me work late.^
+^f08_rescue_02^,^It was the evening when the insect legions were raiding the kingdom.^
+^f08_rescue_03^,^By the way, my back is creepy. It feels like the soldiers are coming to catch me.^
+^f08_rescue_04^,^Huck out!^
+^f08_rescue_05^,^If you ask who we are^
+^f08_rescue_06^,^You let me give answer awesome#!^
+^f08_rescue_07^,^For the world conquest of Insect Legion!^
+^f08_rescue_08^,^For Salazar's success!^
+^f08_rescue_09^,^Love and truth, sprinkling darkness^
+^f08_rescue_10^,^Insect legion licorice!^
+^f08_rescue_11^,^My, Narsha!^
+^f08_rescue_12^,^My, Loik!^
+^f08_rescue_13^,^For our Insect Legion running around Turin^
+^f08_rescue_14^,^A beautiful future, bright tomorrow is waiting!^
+^f08_rescue_15^,^Me, I'm great!^
+^f08_rescue_16^,^I live and see all the strange guys ...^
+^f08_rescue_17^,^Thank you for your help. Thanks to you, you can go home.^
+^f08_0_1_0001_0^,^Welcome to the red hammer!^
+^f08_0_1_0005_0^,^Demonic Stone? I'm sorry, but I'm just mentally cured.^
+^f08_0_1_0005_1^,^Demonic Stone? That's the first time I've heard that name.^
+^f08_0_1_0005_2^,^Demonic Stone? I do not know ... How about meeting with the mayor?^
+^f08_0_1_0005_3^,^What are you going to do with this old man?^
+^f08_0_1_0010_0^,^what? It's not going away, is it?^
+^f08_0_1_0015_0^,^The problem of rungun? I do not know?^
+^f08_0_1_0015_1^,^Did you hear that?^
+^f08_0_1_0015_2^,^At the bottom of the village there appeared suspicious assassins.^
+^f08_0_1_0015_3^,^At first glance, they said they were insect humans?^
+^f08_0_1_0015_4^,^Anyway, there is a rumor that runkun is nervous because of them.^
+^f08_0_1_0015_5^,^Alas…^
+^f08_0_1_0050_0^,^Wont you save me?^
+^f08_0_1_0050_1^,^I'll be happy if you save me.^
+^f08_0_1_0055_0^,^Who is the one who woke me up!^
+^f08_0_1_0055_1^,^The power of Salazar?^
+^f08_0_1_0055_2^,^Ah! The man who separated the human and the insect human?^
+^f08_0_1_0055_3^,^I received the power of great evil. For sure.^
+^f08_0_1_0055_4^,^But I do not know who it is.^
+^f08_1_1_0220_0^,^What are you doing?^
+^d07_notice_11^,^To proceed to the next step, you have to jump off the point where it breaks.^
+^f08_e01_notice_01^,^Find Demonic Stone and move to the altar.^
+^f08_e01_notice_02^,^Supervisor Joe's finds and attacks the intruder.^
+^f08_e01_notice_03^,^My name is Joe, I will trample you.^
+^f08_e01_notice_04^,^Joe is in danger. Let's kill the intruder^
+^f08_e01_notice_05^,^I tried to write Joe Nesu. Find Demonic Stone and keep moving.^
+^f08_e01_notice_06^,^Mulkan recognized your presence. Stop his attack.^
+^f08_e01_notice_07^,^Destroy the intruder!^
+^f08_e02_notice_01^,^Find Princess Rania and explore the Ilric lair.^
+^f08_e02_notice_02^,^An egg that wriggles is awarded. Destroy the eggs.^
+^f08_e02_notice_03^,^I hear a suspicious sound from the inside of the lair, so I have to move to confirm.^
+^f08_e02_notice_04^,^I was caught in the ambush of Iris. I need to kill him before the elders'^
+^f08_e02_notice_05^,^It was safe by killing Iris. Find Princess Rania and go deep into her.^
+^f08_e02_notice_06^,^I hear a suspicious sound in a deeper place.^
+^f08_0_1_0035_0^,^I am okay! Go north this way!^
+^f08_0_1_0035_1^,^Keep going north!^
+^f08_0_1_0035_2^,^Be careful because there are many larvae in this vicinity!^
+^f08_0_1_0070_0^,^When you go a little, you will see your legs. Get the following instructions from there!^
+^f08_0_1_0070_1^,^If you cross two bridges, you will receive the following instructions!^
+^f08_0_1_0070_2^,^Go straight ahead on the first crossroad!^
+^f08_0_1_0070_3^,^There are destinations in the vicinity. Go careful!^
+^f08_0_1_0070_4^,^Heik !! I was surprised ...^
+^f08_0_1_0105_0^,^I heard about the prophecy.^
+^f08_0_1_0105_1^,^Jim knows the place well.^
+^f08_0_1_0105_2^,^Go to the Ilric lair in the land of the ruins. There is a princess you are looking for.^
+^f08_e02_notice_07^,^Eliminate Ilric.^
+^f08_1_1_0320_0^,^I lived thanks to you!^
+^f08_1_1_0320_1^,^Thanks for saving me!^
+^f08_1_1_0320_2^,^It was a perfect operation! friend!^
+^f08_1_1_0320_3^,^I did not know you'd get help from humans ...^
+^d98_notice_15^,^Removal of the battlefield of the second battlefield. You can get buffs through battlefield monsters.^
+^f08_e02_notice_08^,^I have an additional ambush. You must defeat an ambushing spiked seed.^
+^f08_e02_notice_09^,^It was safe by killing Eixid. Find Princess Rania.^
+^f08_week_boss_01^,^Signs of invasion of the executive Mercuris were captured in the Tumliman valley.^
+^f08_week_boss_02^,^Enforcement Mercury invaded the Tumliman valley.^
+^f08_rabini_rescue_01^,^Executor Darmian is preparing for execution.^
+^f08_rabini_rescue_02^,^Executor Darumian begins execution.^
+^f08_rabini_rescue_03^,^Execute your brother.^
+^f08_rabini_rescue_04^,^Uh ... Ugh^
+^f08_rabini_rescue_05^,^Now there's a man left.^
+^f08_rabini_rescue_06^,^After you have done this, the execution of the blood ends! Hahaha^
+^f08_rabini_rescue_07^,^The executive Darmian is laughing out loud. Go ahead and kill him.^
+^f08_rabini_rescue_08^,^Rabbini Youngmin died. When Rabbini Youngmin died, the Tumliman Valley falls into sorrow.^
+^f08_rabini_rescue_09^,^When the executioner Darmiyan died, he organized a raid to deal with the intruder in the Kabeim denomination.^
+^f08_rabini_rescue_10^,^Thank you for saving my life! If you escort me to the end, I would give you a big present.^
+^f08_rabini_rescue_11^,^Stop it now!^
+^f08_rabini_rescue_12^,^The first raid of the Kabeim denomination is attacking.^
+^f08_rabini_rescue_13^,^We defeated the first raid of the Kabeim denomination. Be prepared for the next attack.^
+^f08_rabini_rescue_14^,^The second raid of the Kabeim denomination has been completed.^
+^f08_rabini_rescue_15^,^The second raid of the Kabeim denomination is attacking.^
+^f08_rabini_rescue_16^,^We defeated the second raid of the Kabeim denomination. Be prepared for the next attack.^
+^f08_rabini_rescue_17^,^The 3rd raid of the Kabeim Order has been completed.^
+^f08_rabini_rescue_18^,^The third raid of the Kabeim denomination is attacking.^
+^f08_rabini_rescue_19^,^We defeated the third raid of the Kabeim denomination. Be prepared for the next attack.^
+^f08_rabini_rescue_20^,^The fourth raid of the Kabeim denomination has been completed.^
+^f08_rabini_rescue_21^,^The fourth raid of the Kabeim denomination is attacking.^
+^f08_rabini_rescue_22^,^We defeated the fourth raid of the Kabeim denomination. Be prepared for the next attack.^
+^f08_rabini_rescue_23^,^The fifth raid of the Kabeim denomination has been completed.^
+^f08_rabini_rescue_24^,^The fifth raid of the Kabeim denomination is attacking.^
+^f08_rabini_rescue_25^,^We defeated the fifth raid of the Kabeim denomination.^
+^f08_rabini_rescue_26^,^When Golotus falls, the angry Scar appears.^
+^f08_rabini_rescue_27^,^When the angry Scar falls down, Lavigny Youngmin is greeted with thanks.^
+^f08_rabini_rescue_28^,^Thank you for rescuing me from the Kabeim denomination! I will give you a gift in the sense that you saved me. Wait a minute.^
+^f08_rabini_rescue_29^,^I've waited so long! I would like to recall the fellow I love most as a gift.^
+^f08_rabini_rescue_30^,^Order: I like peach dolls^
+^f08_rabini_rescue_31^,^The time we promised is over! I'm gone now^
+^f08_week_boss_03^,^Signs of an invasion of an ancient flame golem have been captured in the Tumliman valley.^
+^f08_week_boss_04^,^An ancient flame golem invaded the Turimlan valley.^
+^f08_week_boss_05^,^The signs of the invasion of Scalion have been captured in the Tumliman Valley.^
+^f08_week_boss_06^,^Scalion invaded the Tumliman valley.^
+^f08_week_boss_07^,^The signs of invasion of Poison Aura, a poisonous witch, were captured in the Tumliman valley.^
+^f08_week_boss_08^,^Poison Aura invaded the poisoned witch in the Tumliman valley.^
+^f08_week_boss_09^,^Signs of invasion by Captain Nibble Road in the Tumliman Valley have been caught.^
+^f08_week_boss_10^,^Nibble Road Heim, the chief captain, invaded the Tumliman valley.^
+^f08_rabini_rescue_32^,^Hestin, the fellow of Rabbini Youngmin, appeared in the Tumliman Valley.^
+^f08_rabini_rescue_33^,^I do not want to die yet.^
+^f08_rabini_rescue_34^,^When the executor approached, Vinny Youngmin was terrified.^
+^f08_week_boss_11^,^Executives Mercury returned to the abyss^
+^f08_week_boss_12^,^Congratulations. Destroyed the executioner Mercury.^
+^f08_week_boss_13^,^The ancient flame golem has returned to the abyss.^
+^f08_week_boss_14^,^Congratulations. Destroyed the ancient flame golem.^
+^f08_week_boss_15^,^Scalion has returned to the abyss.^
+^f08_week_boss_16^,^Congratulations. Scalion was annihilated.^
+^f08_week_boss_17^,^Poison Irene, a poisoned witch, returned to the abyss.^
+^f08_week_boss_18^,^Congratulations. Destroyed poison witch Poison Irene.^
+^f08_week_boss_19^,^Nibble Lord Heim returned to the abyss.^
+^f08_week_boss_20^,^Congratulations. We have annihilated Nibble Lord Heim^
+^d96_week_wave_01^,^Monsters began to pour out in the underground labyrinth.^
+^d96_week_wave_02^,^You must keep the central gem during the time limit [60 seconds]^
+^d96_week_wave_03^,^You must keep the central gem during the time limit. [90 sec]^
+^d96_week_wave_04^,^You must keep the central gem during the time limit. [100 sec]^
+^d96_week_wave_05^,^I hear a threatening cry in the deep underground.^
+^d96_week_wave_06^,^The Leader of the Dead Earth earth woke up^
+^d96_week_rest_01^,^One minute break is given.^
+^d96_week_rest_02^,^If you manipulate the lever on the wall, the next stage will beginn.^
+^d96_week_rest_03^,^Congratulations. The peace of Hakains Crossing is reastored.^
+^d96_week_rest_04^,^Move to the hidden treasure room of King Hadakan using the teleporter.^
+^d96_week_wave_07^,^Monsters are coming up endlessly.^
+^d96_week_wave_08^,^The Gem was destroyed.^
+^d96_week_wave_09^,^You was kicked out by an unknown force. It is impossible to proceed today.^
+^d95_talk_1_001^,^The intruder showed up.^
+^d95_talk_1_002^,^Ciao! group… memory^
+^d95_talk_1_003^,^My… What am I doing ?! My body does not listen.^
+^d95_talk_1_004^,^Die!^
+^d95_talk_1_005^,^Ahh! M-… Memory^
+^d95_talk_1_006^,^My memory is back. Thank you for your help.^
+^d95_talk_1_007^,^OMG… My head is still hurting but I guess I'll have to explain what it is.^
+^d95_talk_1_008^,^The Hastan Secret Retreat is made up of 10 rooms.^
+^d95_talk_1_009^,^There are devices in each room where you can practice.^
+^d95_talk_1_010^,^Especially the next room is my colleagues who came with me ... Black^
+^d95_talk_1_011^,^I would like you to finish your training and go home.^
+^d95_talk_1_012^,^I will open the door to the next room and follow me.^
+^d95_talk_1_013^,^Since the visit is open, please move to the next room. I will pray for your challenge. So I'm just saying.^
+^d95_talk_2_001^,^Are you finally here? I'm so happy to be tearful, hehe^
+^d95_talk_2_002^,^I've been dying in the Tower of Challenge and I'm suffering here too. I'm sorry.^
+^d95_talk_2_003^,^Are you trying to kill me now? You still do not lose your initials. The same guy ...^
+^d95_talk_2_004^,^Mast in the back is attacking my friends and I can not live.^
+^d95_talk_2_005^,^Then I will trust you and go back to the Tower of Challenge!^
+^d95_talk_2_006^,^???? : Hey, don't you have something to say to me? A zombie is in front of you and you help me out?^
+^c01_e04_pet_01^,^You did very well. Now go into a wide world and capture more pets.^
+^d95_talk_9_001^,^Iren does her best to cast skills. Rescue the Chapply Singer before her powers gather.^
+^d95_talk_9_002^,^Thank you. I will go to the capital of Hacanas.^
+^d95_talk_9_003^,^Uh ... thanks for your help. I want to help you defend Iren.^
+^d95_talk_9_004^,^Defeat Iren with Chaplin Singer.^
+^d07_legend_01^,^??? : Oh, have you been there a long time?^
+^d07_legend_02^,^??? : Huh ... Can you really take care of me?^
+^d07_legend_03^,^??? Ah, then I will pray for you. Hoo Hoo Hoo^
+^d07_legend_04^,^Destroy the gatekeeper monster and enter the next area.^
+^d07_legend_05^,^Useless things ... !^
+^d07_legend_06^,^The door can be opened by manipulating the lever located somewhere on the floating islands.^
+^d07_legend_07^,^You feel the energy of destruction. Ellun-Ressurection can not be used here.^
+^d07_legend_08^,^A captureable monster has appeared^
+^d07_legend_09^,^A strong monster appeared because you failed to destroy all Culture Tubes.^
+^d07_legend_10^,^The Culture Tube has been destroyed.^
+^d07_legend_11^,^Unbelievable...^
+^d07_legend_12^,^The Gate was opened.^
+^d07_legend_13^,^Sandworm: I wont let you pass!^
+^d07_legend_14^,^You have defeated the Sandworm. Let's get out of here as soon as possible.^
+^d07_legend_15^,^You have to destroy all Culture Tubes. When you don't destroy them, a strong monster will appear.^
+^d07_legend_16^,^Control my power ... Whoever you are, i cannot let you pass!^
+^d07_legend_17^,^I see my prey. I'll show you hell.^
+^d07_legend_18^,^Uhh ... strong ... ...^
+^d07_legend_19^,^Huh ... It's bravely stupid of you to show up to here.^
+^d07_legend_20^,^I'll do you a favor by killing you painlessly. Then I'll ask you back for a favor.^
+^d07_legend_21^,^No, how did you survive!^
+^d07_legend_22^,^Kurodian judges you a a threatening enemy. You will be forced to move by an unknown force.^
+^d07_legend_23^,^After a while, Kurodian appeared.^
+^d07_legend_24^,^... I did not want to tarnish my hand. I'm sorry but you have to die here.^
+^d07_legend_25^,^Overwhelming strength? I underestimated you. How about saying goodbye beforehand?^
+^d07_legend_26^,^Ah... Salant's subordinate...!^
+^d95_common_01^,^The door to the next chapter was opened. Please look at the arrow at the bottom.^
+^d95_talk_3_001^,^Here doggy!^
+^d95_talk_3_002^,^Come here doggy^
+^d95_talk_3_003^,^Doggy - Coming?^
+^d95_talk_3_004^,^Doggy - Come and get!^
+^d95_talk_3_005^,^Bite!^
+^d95_clear_01^,^Congratulations!^
+^d95_clear_02^,^You cleared Hastan Secret Retreat.^
+^d95_talk_3_006^,^Water can make it difficult to cast ground target skills.^
+^d95_common_02^,^If the giant stone gate is closed, you can not open it again.^
+^d07_legend_27^,^Kill a flying monster to get a buff that will help you move.^
+^d07_legend_28^,^A giant creature with a dreadful aura has opened its eyes.^
+^d07_legend_29^,^Please hurry. Time is running out.^
+^d07_legend_30^,^Destroy all Mutant monsters.^
+^d95_talk_7_001^,^Friends across the street are blowing dust.^
+^d95_talk_9_005^,^Rescue Chapley Singer from Jealous Iren and defeat Iren.^
+^d95_talk_9_006^,^If you are not able to save Chapley Singer from Jealous Iren she will die.^
+^d95_talk_9_007^,^You were not able to save Chapley Singer and she died.^
+^d95_talk_2_007^,^But now I hope to help, do not kill me.^
+^d95_talk_2_008^,^Defeat Mast with a Weak Zombie.^
+^d95_talk_2_009^,^Hehe, please take care^
+^d95_talk_5_001^,^A dark aura envolves you^
+^d95_talk_5_002^,^After a while, Winneh The Pooh appears.^
+^d95_talk_5_003^,^I Love to eat honey!^
+^d95_talk_5_004^,^After a while the frog comes out of the well.^
+^d95_talk_5_005^,^Come here doggy^
+^d95_talk_5_006^,^After a while, Mast appears.^
+^d95_talk_5_007^,^Hey! Get out of the way^
+^d95_talk_5_008^,^After a while, an unknown beeing appears.^
+^d95_talk_5_009^,^Intruder, I will destroy you...^
+^d95_talk_10_001^,^A dark aura envolves you^
+^d95_talk_10_002^,^Saturday's Leader rushes out of King Hadakan's Underground Labyrinth.^
+^d95_talk_10_003^,^Destroy the crystal.^
+^d95_talk_10_004^,^Kurodian rushes out of the Wyrm Tomb.^
+^d95_talk_10_005^,^I've been here this afternoon.^
+^d95_talk_10_006^,^Revolutionary Zenon rushes out of Red Revolutionaries Base.^
+^d95_talk_10_007^,^Come to the Red Revolutionaries Base. I'll be waiting for you.^
+^d95_talk_10_008^,^Sikh Rahden rushes out of the Battlefield.^
+^d95_talk_10_009^,^Destruction will keep you locked.^
+^d95_talk_9_008^,^Jealous Iren summons her subordinates.^
+^treasure_notice_3^,^Kaito Rabbini showed up. Before he escapes knock him out.^
+^treasure_notice_4^,^Kaito Rabbini ran away from you out of boredom.^
+^treasure_rabini_1^,^Human, you came to see me die?^
+^treasure_rabini_2^,^Do not compare me to a shoplifting criminal^
+^treasure_rabini_3^,^It's annoying you killing me without making an appointment^
+^treasure_rabini_4^,^Have I not seen you somewhere?^
+^treasure_rabini_5^,^I'm sick of living in this pl-...^
+^d11_notice_15^,^Lucid Elpher: Uh... Ugh!!!^
+^d11_notice_16^,^The door to the staircase to the bandits' hideout opened^
+^d11_notice_17^,^You feel a strong aura somewhere deep down^
+^idoll_talk_035^,^???? : Tortus, Lena, stop for a second^
+^idoll_talk_036^,^Where is that sound coming from?^
+^idoll_talk_037^,^Tortus relax.^
+^idoll_talk_038^,^What is the Great Wizard doing here?^
+^idoll_talk_039^,^Tortus, I want you to take the little shahling over there.^
+^idoll_talk_040^,^Hello there [UserName]. I'm sorry that you just finished your training now but I need to give you a new mission.^
+^idoll_talk_041^,^While going back to Hakain's Crossing, the royal guard was attacked by Braghin when they were passing through Brakarr Forest^
+^idoll_talk_042^,^You'll have to go and help in the rescue mission.^
+^idoll_talk_043^,^I will send you back to Brakarr Forest now.^
+^d11_notice_boss_1^,^An explosion occurred at the Entrance.^
+^d11_notice_boss_2^,^An explosion occurred in the Main Deck.^
+^d11_notice_boss_3^,^An explosion occurred near the Staircase.^
+^d11_notice_boss_4^,^An explosion occurred in the Upper Deck.^
+^d11_notice_boss_5^,^Explosions occurred in Main Deck, Entrance.^
+^d11_notice_boss_6^,^Explosions occurred in Staircase, Entrance.^
+^d11_notice_boss_7^,^Explosions occurred in Entrance, Upper Deck.^
+^d11_notice_boss_8^,^Explosions occurred in Main Deck, Staircase.^
+^d11_notice_boss_9^,^Explosions occurred in Main Deck, Upper Deck.^
+^d11_notice_boss_10^,^Explosions occurred in Staircase, Upper Deck.^
+^d11_notice_boss_11^,^NO Explosions occurred in UPPER DECK^
+^d11_notice_boss_12^,^NO Explosions occurred in STAIRCASE^
+^d11_notice_boss_13^,^NO Explosions occurred in MAIN DECK.^
+^d11_notice_boss_14^,^NO Explosions occurred in ENTRANCE.^
+^d11_notice_boss_15^,^Khapir Bandit Leader is preparing for more powerful attacks.^
+^c01_summerev_01^,^Giant Golden Watermelon has appeared at the entrance to Hakain's Crossing Castle!^
+^c01_summerev_02^,^Giant Golden Watermelon has fallen!^
+^d11_notice_boss_16^,^Due to Cractus' influence, Khapir Bandit Leader cannot leave his hiding place. Returning to initial position.^
+^f04_eventmob_001^,^Awakened Jumawu emerged over the Ethereal Flux^
+^f04_eventmob_002^,^Awakened Jumawu has been defeated.^
+^f05_eventmob_001^,^Awakened Sandstorm has appeared in Terminus Dunes.^
+^f05_eventmob_002^,^Awakened Sandstorm has been defeated.^
+^f01_scout_001^,^Listen to the scouts.^
+^f01_scout_002^,^Yeah^
+^f01_scout_003^,^I'll tell you what to do before I leave to scout.^
+^f01_scout_004^,^First, do not let the Braghin know where you are.^
+^f01_scout_005^,^Second, come back alive and report to me.^
+^f01_scout_006^,^Most importantly. Each scout should be in his own position.^
+^r01_notice_001^,^Yatuman noticed an intruder entering his secret altar.^
+^r01_notice_002^,^Yatuman: Come in! My sacrifices^
+^r01_notice_003^,^Yatuman absorbed all souls.^
+^r01_notice_004^,^Yatuman: Come! I shall take your souls for myself!^
+^r01_notice_005^,^After a while, Yatuman appears.^
+^r01_notice_006^,^Congratulations.^
+^r01_notice_007^,^You cleared Yatuman's Secret Altar.^
+^r01_notice_008^,^When Yatuman hits the ground, a big circle surrounds the altar.^
+^r01_notice_009^,^Yatuman casts Soul Absorption.^
+^r01_notice_010^,^The original text is created from the altar located outside.^
+^r01_notice_011^,^Yatuman is angry and summons his Guard Captain.^
+^r01_notice_012^,^Yatuman is enraged and releases his soul.^
+^r01_notice_013^,^When his soul dies, Yatuman will release his soul again.^
+^r01_notice_014^,^Yatuman summons Contaminated Worm Larvae.^
+^r01_notice_015^,^Yatuman summons Burning Giant Tentacles.^
+^r01_notice_016^,^Yatuman summons a Frozen Giant Tentacle.^
+^r01_notice_017^,^Yatuman summons an Angry Tree Wisp.^
+^f01_ghost_001^,^For the Dragon Knights!^
+^f01_ghost_002^,^An unknown caravan approaches. Knights prepare for battle!^
+^f01_ghost_003^,^It's all right! Now I will reap your souls.^
+^f01_ghost_004^,^Muahaha. I reaped all of your souls.^
+^f01_ghost_005^,^If you want to reclaim these souls, come to my secret altar.^
+^f01_interrogate_001^,^Start the interrogation.^
+^f01_interrogate_002^,^Tell me your affiliation.^
+^f01_interrogate_003^,^Argh. I do not wish to speak with you.^
+^f01_interrogate_004^,^Affiliation!^
+^f01_interrogate_005^,^Argh. I will not speak.^
+^f01_interrogate_006^,^Blargh. Stupid human^
+^f01_interrogate_007^,^Argh. Foolish human. Braghin do not open his mouth easily.^
+^f01_interrogate_008^,^Be quiet. Otherwise I will kill you all.^
+^f01_interrogate_009^,^Argh. Braghin do not want to die.^
+^f01_interrogate_010^,^Agh. I understand. I be quiet.^
+^f01_interrogate_011^,^If you give us the information, I will spare you.^
+^f01_interrogate_012^,^Now or your life ends here.^
+^f01_interrogate_013^,^Again, speak now.^
+^f01_interrogate_014^,^You. Answer it.^
+^f01_interrogate_015^,^Agh. You scared me standing in front of me human.^
+^f01_interrogate_016^,^Aghahah. I do not know anything.^
+^f01_interrogate_017^,^Tell me everything.^
+^f01_interrogate_018^,^Argh. I am not a traitor.^
+^f01_interrogate_019^,^Argh. But I want to live.^
+^f01_interrogate_020^,^Aghahah. Do not speak. Braghin does not betray his own kind.^
+^f01_interrogate_021^,^Argh. Traitor.^
+^f01_interrogate_022^,^Be quiet prisoner.^
+^f01_interrogate_023^,^Ahrg. Yatuman will come soon to reap the human's souls.^
+^f01_interrogate_024^,^Argh. He uses powerful magic. Be careful human.^
+^f01_interrogate_025^,^Agh. This is all I know.^
+^f01_interrogate_026^,^Thank you for the good information. Make yourself comfortable in prison.^
+^f01_interrogate_027^,^Agahaha. Stand up human.^
+^f01_interrogate_028^,^Argh. Let me out of here.^
+^f01_interrogate_029^,^Agh. Curse you human.^
+^f04_eventmob_003^,^Awakened Jumawu went back into a magic vortex.^
+^f05_eventmob_003^,^Awakened Sandstorm went back into the ground.^
+^f01_notice_001^,^Players below the appropriate level will not be able to gain experience.^
+^c01_in_notice_001^,^I received intelligence that Salant's Army is marching towards Hakain's Crossing.^
+^c01_in_notice_002^,^Crow: Gather all the soldiers in Hakain's Crossing at the gates.^
+^c01_in_notice_003^,^Defensive Captain Valence: Gather Hakanas' soldiers in the eastern gate.^
+^c01_in_notice_004^,^Security Officer Bonus: Gather Hakanas' soldiers in the western gate.^
+^c01_in_notice_005^,^Tortus: Gather Hakanas' soldiers in the southern gate.^
+^c01_in_notice_006^,^Crow: All soldiers in Hakanas' prepare for enemy attacks at their gates.^
+^c01_in_notice_007^,^Salant: Arakan! I entrust you with all the operations. Go and destroy the Hakanas' castle.^
+^c01_in_notice_008^,^Commander Arakan: Move forward Legion! Destroy the castle.^
+^c01_in_notice_009^,^Commander Arakan: All of the ballistas were destroyed. Quick, place a ballista to attack the castle.^
+^c01_in_notice_010^,^Great Wizard Yulnus: Soldiers of Hakanas' I will give everything I have to slow down the enemy's advance but you have to be good at protecting the capital.^
+^c01_in_notice_011^,^Security Officer Bonus: Focus on attack! Defeat everyone!^
+^c01_in_notice_012^,^Commander Arakan: These weak beings are failing. Shagar, Nergant, Azura, you guys go out there.^
+^c01_in_notice_013^,^Tortus: The enemy commanders are coming. You must guard the gates with your life!^
+^c01_in_notice_014^,^Defensive Captain Valence: Salant's vanguard has fallen! All gates are safe! Enemy forces have lost their momentum. Charge now!^
+^c01_in_notice_015^,^Commander Arakan: Do you think we have withdrawn? Ha! Stupid bastards. We can only grow stronger.^
+^c01_in_notice_016^,^Commander Arakan: Unbelievable! All of Salant's elite troops have been defeated! Prepare yourselves bastards. I will destroy you personally!^
+^c01_in_notice_017^,^Crow: Gather at the southern gate. Arakan is coming forward. Everybody attack him! Throw him down.^
+^c01_in_notice_018^,^Tortus: We defeated the enemy who came to the southern gate. Check the situation at the other gates!^
+^c01_in_notice_019^,^Defensive Captain Valence: We blocked the enemy at the eastern gate. Move to another gate!^
+^c01_in_notice_020^,^Security Officer Bonus: We kept the western gate safe. Move to another gate!^
+^c01_in_notice_021^,^Tortus: We have defeated Azura and all enemies attacking the southern gate.^
+^c01_in_notice_022^,^Security Officer Bonus: Shagar who was invading the western gate has fallen! The enemy are retreating.^
+^c01_in_notice_023^,^Defensive Captain Valence: Nergant was defeated! The enemies invading the eastern gate are fleeing!^
+^c01_in_notice_024^,^Crow: Move out. The enemies are becoming stronger. We need to leave the gates and go to the plains to destroy Salant's Combat Enhancers!^
+^c01_in_notice_025^,^Crow: The devices that threatened the southern gate finally broke!^
+^c01_in_notice_026^,^Tortus: Well done warriors of the southern gate! The enemy captain's strikes were blocked very well. Support other gates quickly!^
+^c01_in_notice_027^,^Salant: We will leave this time, but next time you will be led to ruin.^
+^c01_in_notice_028^,^Crow: Commander Arakan is down! Salant 's army is retreating. Today we won.^
+^c01_in_notice_029^,^Yulnus: Because of you, we have prevented Salant's ruthless attack! I am proud of the Hakanas' soldiers!^
+^c01_in_notice_030^,^Ronfraine III: Listen warriors of Hakanas. Your King is greatly moved by your courage.^
+^c01_in_notice_031^,^Commander Arakan: I am at your command. My Lord.^
+^c01_in_notice_032^,^Security Officer Bonus: Tarod has fallen. We can move our veteran warriors to support another gate!^
+^c01_in_notice_033^,^Security Officer Bonus: Salant's devices that threatened the western gate have been destroyed!^
+^c01_in_notice_034^,^Ronfraine III: Your King shall hold a victory ceremony today.^
+^c01_in_notice_035^,^Ronfraine III celebrated the victory in Victory Plaza and held a banquet.^
+^c01_in_notice_036^,^Defensive Captain Valence: We blocked the enemy at the eastern gate. Support another gate!^
+^c01_in_notice_037^,^Defensive Captain Valence: We have defeated Emma Hills! The eastern gate is safe. Please support another gate!^
+^c01_in_notice_038^,^Defensive Captain Valence: Salant's devices that threatened the eastern gate were destroyed!^
+^c01_in_notice_039^,^Salant: Muahaha! Let's see if you can stop this kind of skill!^
+^c01_in_notice_040^,^Hakanas castle was greatly damaged by Salant.^
+^c01_in_notice_041^,^Ronfraine III: Everyone should eat, drink and enjoy themselves!^
+^c01_in_notice_042^,^Salant: Arakan! Retreat! There is no use wasting more time!^
+^c01_in_notice_043^,^Giant Shaman Emma Hills: It was a good idea to destroy the combat enhancing device. But, you shall not pass! Feel the overwhelming power of the Giant Legion that I lead.^
+^c01_in_notice_044^,^Defensive Captain Valence: Emma Hills is leading a charge at the eastern gate. Everybody back to the gate!^
+^c01_in_notice_045^,^Assault Captain Tarod: I will not forgive the destruction of Salant's devices!^
+^c01_in_notice_046^,^Security Officer Bonus: Assault Captain Tarod is charging to the western gate. Hurry! We have to protect the gate!^
+^c01_in_notice_047^,^Captain De Muspel: Destroy the fortifications! That is an order. Come! I'll take care of everything! Advance, warriors.^
+^c01_in_notice_048^,^Tortus: Hurry up! De Muspel is on the way to the southern gate.^
+^c01_in_notice_049^,^Salant: Useless beings. I'm about to lose my army. Retreat.^
+^m01_mineral_001^,^[UserName] I've found an additional vein. Please wait a moment and I'll show you the ore I found.^
+^m01_mineral_002^,^There is an ore I am studying, and its value is huge. [UserName] you are in luck. I'll give you some of the ore I have. Haha.^
+^m01_mineral_003^,^Sir [UserName]. I found a hidden place in this mine. I will show you if you want me to.^
+^d11_lucidskill_1^,^Lucid Elpher's altar has been activated.^
+^d11_lucidskill_2^,^Containment Altar has been activated.^
+^d11_lucidskill_3^,^Devitalizing Altar has been activated.^
+^d11_lucidskill_4^,^Torrent Altar has been activated.^
+^d11_lucidskill_5^,^Lucid Elpher's altar is overloaded.^
+^d11_lucidskill_6^,^Lucid Elpher is preparing forbidden rituals.^
+^d94_notice_01^,^The door to the next floor has opened.^
+^d94_notice_02^,^???? : I will execute my sentence from now on.^
+^d94_boss_01^,^Hehehe. Are you here?^
+^d94_boss_02^,^Is it quite right? But I'm not as weak as before?^
+^d94_boss_03^,^I'm sorry if it's already over. Come on, come on!^
+^d94_boss_04^,^hahaha. You really thought it was over this time, right?^
+^d94_boss_05^,^I thought I had gotten stronger... It's my life.^
+^d94_boss_06^,^ I'll ask. Are you an intruder?^
+^d94_boss_07^,^Kururr… ..^
+^d94_boss_08^,^Come, play with me!^
+^e02_notice_01^,^The rascal Santa Ravini has broken in to get presents.^
+^e02_notice_02^,^Shortly, the naughty fairies, Rabinis, will fly towards the presents on Flight Fellows.^
+^e02_notice_03^,^You cannot fight on floating whales. Find another way to get rid of the Rabinis.^
+^e02_notice_04^,^More ravini are coming.^
+^e02_notice_05^,^The Rabinis succeeded in stealing the gift.^
+^e02_notice_06^,^The present was protected from the Rabinis.^
+^e02_rbn_text_01^,^Hahaha! Did you sneak in hiding among the presents!. I will take over these presents!.^
+^e02_rbn_text_02^,^If you wield weapons recklessly, your Christmas presents will be ruined hahaha^
+^e02_rbn_text_03^,^Welcome, naughty Rabinis, take these gifts^
+^e02_rbn_text_04^,^Ah!! It is against the law to throw snowballs!^
+^e02_rbn_text_05^,^Rabini, unite more and charge!^
+^e02_rbn_text_06^,^Rabinies all-out attack!!!^
+^e02_rbn_text_07^,^Just a little more! Just a little bit more!^
+^e02_rbn_text_08^,^The presents are in front of you, everyone rushes!^
+^e02_rbn_text_09^,^Why are you interfering? I want to be Santa too!^
+^e02_notice_07^,^Make a snowball out of the snow and throw it away to drive away the Rabinis.^
+^e02_rbn_text_10^,^We Rabini are experts at stealing gift boxes^
+^e02_rbn_text_11^,^Now, hurry up and steal the gift box over there!^
+^e02_rbn_text_12^,^You can't hear me!?^
+^e02_rbn_text_13^,^I can't help it... I have no choice but to make eye contact and look back in my direction!^
+^e02_rbn_text_14^,^Make a snowball by combining the accumulated snow... ^
+^e02_rbn_text_15^,^This way!! look at me!!^
+^e02_rbn_text_16^,^Ah!! Falling out of being hit by a snowball.. Unbelievable ^
+^e02_rbn_text_17^,^Hey there you!! Never throw snowballs at Ravini! Got it? ^
+^e02_rbn_text_18^,^Come on Rabini, attack!!!^
+^e02_rbn_text_19^,^Please stop 80 ravini!^
+^e02_rbn_text_20^,^There are still 50 ravini left!!^
+^e02_rbn_text_21^,^There are 30 ravini left!!^
+^e02_rbn_text_22^,^Let's stop the last elite ravinies!!^
+^e02_rbn_text_23^,^Throw a snowball at a snowman to start a battle.^
+^e02_rbn_text_24^,^Throw snowballs at me!^
+^f09_que_del_01^,^Ravini Fairy summons a Christmas Sleigh.^
+^f09_que_del_02^,^Ride the Christmas Sleigh.^
+^f09_que_del_03^,^Deliver the Christmas present to Jintaran at the Sky Farm.^
+^f09_que_del_04^,^Could not deliver the gift to Jinran because it was out of range.^
+^f09_que_del_05^,^Congratulations. We have arrived safely at the aerial farm.^
+^d94_boss_09^,^You ate all the food. I feel like that guy has weakened a bit.^
+^d94_boss_10^,^I ate so much that I even forgot about the monsters coming... ^
+^d94_boss_11^,^Strength surges beyond control!^
+^d94_boss_12^,^Looks like spoiled meat… I'm losing my energy.^
+^d94_boss_13^,^(I can't eat anymore because I'm full...)^
+^f03_olympic_01^,^Bandal arrived at Wailing Cliff Village for the torch relay.^
+^f03_olympic_02^,^As Vandal prepares for the torch relay, the angry Rabinis move towards Wailing Cliff Village.^
+^f03_olympic_03^,^Bandal starts the torch relay.^
+^f03_olympic_talk_01^,^ Escort me so that I can safely complete the torch relay ^
+^f03_olympic_04^,^The half moon is trying to move. Please protect the vandal from the angry ravini. Angry Ravini can only be hit with snowballs.^
+^f03_olympic_05^,^When Ravini sees the half moon, he runs at him.^
+^f03_olympic_talk_02^,^let's go^
+^f03_olympic_talk_03^,^Lavini isn't really helpful^
+^f03_olympic_talk_04^,^It was a really tough battle^
+^f03_olympic_talk_05^,^It's not too far now^
+^f03_olympic_talk_06^,^Thanks for escorting me^
+^f03_olympic_talk_07^,^If you go a little further, there is a torch^
+^f03_olympic_talk_08^,^Wait a little longer^
+^f03_olympic_06^,^The half moon starts lighting the torch.^
+^f03_olympic_07^,^Let the torch light Icarus Big! Sports day was held.^
+^f03_olympic_08^,^After a while, Vandal will finish all his roles and return to the Capital City.^
+^f03_olympic_09^,^Bandal failed to relay the torch.^
+^f03_olympic_10^,^Angry Ravini attacks Vandal.^
+^f03_olympic_talk_09^,^Please stop the Ravini so we can light the torch!^
+^f03_olympic_talk_10^,^More ravini are coming. Get ready!^
+^event_fellow_01^,^After a while, the ironclad Aldras will appear.^
+^event_fellow_02^,^After a while, a glowing Mecha Ghost will appear.^
+^event_fellow_03^,^After a while, the shining Lovely Whale will appear.^
+^event_fellow_04^,^After a while, the chaotic Krable will appear.^
+^event_fellow_05^,^After a while, Dangelion of Brave will appear.^
+^event_fellow_06^,^After a while, Dangelion of Wisdom will appear.^
+^event_fellow_07^,^After a while, the sacred alkanine will appear.^
+^event_fellow_08^,^After a while, Antares of Fury will appear.^
+^event_fellow_09^,^After a while, the cold-hearted Antares will appear.^
+^d11_notice_18^,^Cractus: Those who reject the Red Revolution! There is only death!^
+^d11_notice_19^,^I can feel a strong aura from the direction the fence disappeared.^
+^d11_notice_20^,^Cractus: You are hastening death... ^
+^d11_notice_21^,^You have defeated Kraktus, the leader of the Red Revolution.^
+^d11_notice_22^,^Congratulations! Cleared the Red Revolutionary Base.^
+^d11_notice_23^,^This is the start!! Show me your true fear!!^
+^d11_kraktus_005^,^I'll kill them all!^
+^d11_notice_24^,^Those who show ^
+^d11_kraktus_006^,^The moment you think it's over, the revolution begins again^
+^d11_notice_25^,^Cractus: You're bothering me! But that's it! ^
+^d11_notice_26^,^Cractus: I need the power trapped inside the stone!!^
+^d11_notice_27^,^Cractus: Come out!! Red Warriors!!^
+^d11_notice_28^,^Cractus: What a great power!!!^
+^d11_kraktus_007^,^Destroy the stones!!^
+^d11_kraktus_008^,^k... eww… . Awesome!!^
+^d11_notice_29^,^Cractus: You're disturbing me!! Don't kill them all!!^
+^d11_notice_30^,^The dimensional rift leading to the altar has been destroyed.^
+^d88_start_01^,^Destroy the iron gate and enter!^
+^d88_boss_01^,^You have defeated Needimble of Flame.^
+^d88_boss_02^,^You have defeated Foldsera of the storm.^
+^d88_notice_01^,^I can't pass this place.^
+^d88_notice_02^,^I can't pass this place.^
+^d88_notice_03^,^I can't pass this place.^
+^d88_notice_04^,^I can't pass this place!!^
+^d88_notice_05^,^You have defeated the giant goddess statue.^
+^d88_notice_06^,^Congratulations! Cleared the hideout of the dragon god.^
+^d88_notice_07^,^It is difficult to enter anymore.^
+^d88_boss_03^,^You can go to the next area through the door inside the hall.^
+^d88_notice_08^,^Fire starts.^
+^d88_notice_09^,^The flames are getting stronger.^
+^d88_notice_10^,^The fire grows stronger.^
+^d88_notice_11^,^You can no longer escape the flames.^
+^d88_quad_001^,^I will burn them all!^
+^d88_notice_12^,^The flames disappear.^
+^d88_notice_13^,^10^
+^d88_notice_14^,^9^
+^d88_notice_15^,^8^
+^d88_notice_16^,^7^
+^d88_notice_17^,^6^
+^d88_notice_18^,^5^
+^d88_notice_19^,^4^
+^d88_notice_20^,^3^
+^d88_notice_21^,^2^
+^d88_notice_22^,^1^
+^d88_notice_23^,^Crush!!^
+^d88_notice_24^,^Release successful^
+^fr00_notice_1^,^You must select a fellow for racing and click the "register" button to participate in the racing.^
+^fr01_notice_1^,^Fellow Racing will start soon.^
+^fr01_notice_2^,^Fellow Racing will end in a while.^
+^d00_kuma_notice_1^,^A golden afterimage of Kumadori appeared somewhere in the dungeon where the water was stagnant.^
+^d00_kuma_notice_2^,^An afterimage of Kumadori appeared somewhere in the dungeon where there was water.^
+^d03_blo_notice_1^,^Sakura Karasha who was possessed by Ladan has appeared.^
+^d03_blo_notice_2^,^If you defeat Cherry Blossom Karasha, you can retrieve the stolen jewelry box and save Beauty.^
+^d27_notice_1^,^Arachne does not take damage from the Dark Spider's spells.
+Defeat all the black spiders to dispel the magic.^
+^d27_notice_2^,^The magic on Arachne has been lifted.^
+^d27_notice_3^,^Congratulations! You have cleared the closed mine.^
+^d27_notice_4^,^In order to prevent the resurrection of Kurodian, you must destroy the black spider's magic circle and destroy the leader's barrier.^
+^d27_notice_5^,^The leader's barrier has been destroyed. Defeat the leader to stop the resurrection.^
+^d27_notice_6^,^Destroy the summoned warlocks to destroy the barriers^
+^d27_notice_7^,^A strange laugh is heard from deep in the mine... ^
+^d27_notice_8^,^The Resurrection of the Great One will be unstoppable!!^
+^d27_notice_9^,^Ah… Goddess Kurodian... Grant the author the most painful death... ^
+^d27_notice_10^,^The strong energy of the temple will return you to the original location.^

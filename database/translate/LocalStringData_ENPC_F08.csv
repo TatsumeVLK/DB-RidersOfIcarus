@@ -1,0 +1,787 @@
+t_key,t_koreanorg,t_jpn,t_chinese,t_korean,t_eng_2,t_eng_3
+^E_f08_IlikBomb_01_Name^,^공격대 자폭익시드^,^^,^^,^Raiders Bomber Bug^,^^,^^
+^E_f08_IlikBomb_01_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_Bughor1_01_Name^,^공격대 저격병^,^^,^^,^Raiders Sniper^,^^,^^
+^E_f08_Bughor1_01_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_Bugstag_01_Name^,^공격대 장창병^,^^,^^,^Raiders Lancer^,^^,^^
+^E_f08_Bugstag_01_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_Bugmanti_01_Name^,^공격대 습격병^,^^,^^,^Raiders Attacker^,^^,^^
+^E_f08_Bugmanti_01_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_Bugsworm3_01_Name^,^공격대 땅굴벌레^,^^,^^,^Raiders Tunnel Worm^,^^,^^
+^E_f08_Bugsworm3_01_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_ExceBet_01_Name^,^공격대 투구익시드^,^^,^^,^Raiders Helm Exid^,^^,^^
+^E_f08_ExceBet_01_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_BugBet_01_Name^,^공격대 분대장^,^^,^^,^Raid Squad Leader^,^^,^^
+^E_f08_BugBet_01_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_ValleyCrab_01_Name^,^협곡 방패게^,^^,^^,^Canyon Shield Crab^,^^,^^
+^E_f08_ValleyCrab_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ValleyTur_01_Name^,^이틸디르 계곡 거북이^,^^,^^,^Itildir Valley Tortoise^,^^,^^
+^E_f08_ValleyTur_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ValleyCro_01_Name^,^이틸디르 계곡 악어^,^^,^^,^Itildir Valley Crocodile^,^^,^^
+^E_f08_ValleyCro_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ValleySpir_01_Name^,^이틸디르 계곡 요정^,^^,^^,^Itildir Valley Fairy^,^^,^^
+^E_f08_ValleySpir_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ValleyPeli_01_Name^,^이틸디르 계곡 펠리컨^,^^,^^,^Itildir Valley Pelican^,^^,^^
+^E_f08_ValleyPeli_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Prisonlarv_01_Name^,^익시드 유충^,^^,^^,^Exid Larva^,^^,^^
+^E_f08_Prisonlarv_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_PrisonWbee_01_Name^,^길들여진 병정벌^,^^,^^,^Domesticated Bee^,^^,^^
+^E_f08_PrisonWbee_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_PrisonCspid_01_Name^,^길들여진 동굴거미^,^^,^^,^Domesticated Cave Spider^,^^,^^
+^E_f08_PrisonCspid_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_PrisonQbee_01_Name^,^길들여진 여왕벌^,^^,^^,^Domesticated Queen Bee^,^^,^^
+^E_f08_PrisonQbee_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bugstag_02_Name^,^수용소 경비병^,^^,^^,^Community Guard^,^^,^^
+^E_f08_Bugstag_02_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_ExceMot_01_Name^,^길들여진 흰털 나방^,^^,^^,^Domesticated White Moth^,^^,^^
+^E_f08_ExceMot_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikMenti_01_Name^,^수용소 긴 뿔 익시드^,^^,^^,^Community Long Horn Exid^,^^,^^
+^E_f08_IlikMenti_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_BugsTrain_01_Name^,^군락지 조련사^,^^,^^,^Community Trainer^,^^,^^
+^E_f08_BugsTrain_01_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_ExceSpoFly_01_Name^,^길들여진 풀 잠자리^,^^,^^,^Domesticated Green Dragonfly^,^^,^^
+^E_f08_ExceSpoFly_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceMenti_01_Name^,^군락지 톱날 익시드^,^^,^^,^Community Saw Blade Exid^,^^,^^
+^E_f08_ExceMenti_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceStag1_01_Name^,^군락지 가시 익시드^,^^,^^,^Community Thorn Exid^,^^,^^
+^E_f08_ExceStag1_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bughor1_02_Name^,^군락지 경계병^,^^,^^,^Community Sentinel^,^^,^^
+^E_f08_Bughor1_02_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_BugBet_02_Name^,^군락지 분대장^,^^,^^,^Community Squad Leader^,^^,^^
+^E_f08_BugBet_02_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_IlikWork_01_Name^,^익시드 새끼 벌레^,^^,^^,^Exid Young Bug^,^^,^^
+^E_f08_IlikWork_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikMenti_02_Name^,^양성소 긴 뿔 익시드^,^^,^^,^Training Camp Long Horn Exid^,^^,^^
+^E_f08_IlikMenti_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceFly_01_Name^,^길들여진 붉은 잠자리^,^^,^^,^Domesticated Red Dragonfly^,^^,^^
+^E_f08_ExceFly_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceFly_02_Name^,^길들여진 붉은 잠자리^,^^,^^,^Domesticated Red Dragonfly^,^^,^^
+^E_f08_ExceFly_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceBet_02_Name^,^양성소 투구익시드^,^^,^^,^Training Camp Helm Exid^,^^,^^
+^E_f08_ExceBet_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceBet_03_Name^,^양성소 투구익시드^,^^,^^,^Training Camp Helm Exid^,^^,^^
+^E_f08_ExceBet_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceMenti_02_Name^,^양성소 톱날 익시드^,^^,^^,^Training Camp Saw Blade Exid^,^^,^^
+^E_f08_ExceMenti_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bughor1_03_Name^,^양성소 경계병^,^^,^^,^Prison Guard^,^^,^^
+^E_f08_Bughor1_03_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_Bughor1_04_Name^,^양성소 경계병^,^^,^^,^Prison Guard^,^^,^^
+^E_f08_Bughor1_04_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_BugsTrain_02_Name^,^양성소 조련사^,^^,^^,^Training Camp Trainer^,^^,^^
+^E_f08_BugsTrain_02_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_BugsTrain_03_Name^,^양성소 조련사^,^^,^^,^Training Camp Trainer^,^^,^^
+^E_f08_BugsTrain_03_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_BugBet2_01_Name^,^양성소 분대장^,^^,^^,^Training Camp Squad Leader^,^^,^^
+^E_f08_BugBet2_01_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_PetWolf_01_Name^,^길들여진 늑대^,^^,^^,^Domesticated Wolf^,^^,^^
+^E_f08_PetWolf_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_PetScor_01_Name^,^길들여진 전갈^,^^,^^,^Domesticated Scorpion^,^^,^^
+^E_f08_PetScor_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_fanaThief_01_Name^,^이틸디르 탈영병^,^^,^^,^Itildir Deserter^,^^,^^
+^E_f08_fanaThief_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_fanaThief_02_Name^,^이틸디르 탈영병^,^^,^^,^Itildir Deserter^,^^,^^
+^E_f08_fanaThief_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_leavesol_01_Name^,^이틸디르 탈영병^,^^,^^,^Itildir Deserter^,^^,^^
+^E_f08_leavesol_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_leavesol_02_Name^,^이틸디르 탈영병^,^^,^^,^Itildir Deserter^,^^,^^
+^E_f08_leavesol_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_leavRobber_01_Name^,^이틸디르 탈영병^,^^,^^,^Itildir Deserter^,^^,^^
+^E_f08_leavRobber_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_leavRobber_02_Name^,^이틸디르 탈영병^,^^,^^,^Itildir Deserter^,^^,^^
+^E_f08_leavRobber_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_leavcaptain_01_Name^,^이틸디르 탈영장교^,^^,^^,^Itildir Desertion Officer^,^^,^^
+^E_f08_leavcaptain_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_leavMagi_01_Name^,^이틸디르 탈영 마법사^,^^,^^,^Itildir Desertion Wizard^,^^,^^
+^E_f08_leavMagi_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_landBee_01_Name^,^아크란 초원 말벌^,^^,^^,^Aklan Grassland Hornet^,^^,^^
+^E_f08_landBee_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_landSpid_01_Name^,^아크란 초원 시체 거미^,^^,^^,^Aklan Grassland Spider^,^^,^^
+^E_f08_landSpid_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_landscor_01_Name^,^아크란 초원 전갈^,^^,^^,^Aklan Grassland Scorpion^,^^,^^
+^E_f08_landscor_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceMot_02_Name^,^아크란 초원 포자 나방^,^^,^^,^Akran Grassland Spore Moth^,^^,^^
+^E_f08_ExceMot_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_landsour_01_Name^,^아크란 초원 사우르스^,^^,^^,^Aklan Grassland Saurus^,^^,^^
+^E_f08_landsour_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bugmanti_02_Name^,^아크란 초원 수색병^,^^,^^,^Aklan Meadow Sorcerer^,^^,^^
+^E_f08_Bugmanti_02_NameDetail^,^푸른 심장 군단^,^^,^^,^Blue Heart Corps^,^^,^^
+^E_f08_landspid_02_Name^,^아크란 숲 거미^,^^,^^,^Aklan Forest Spider^,^^,^^
+^E_f08_landspid_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bugworker_01_Name^,^아크란 숲 수색병^,^^,^^,^Aklan Forest Sorcerer^,^^,^^
+^E_f08_Bugworker_01_NameDetail^,^푸른 심장 군단^,^^,^^,^Blue Heart Corps^,^^,^^
+^E_f08_Bugworker_02_Name^,^아크란 숲 정찰병^,^^,^^,^Aklan Forest Scout^,^^,^^
+^E_f08_Bugworker_02_NameDetail^,^푸른 심장 군단^,^^,^^,^Blue Heart Corps^,^^,^^
+^E_f08_arcplant_01_Name^,^아크란 숲 무지개꽃^,^^,^^,^Aklan Forest Rainbow Flowers^,^^,^^
+^E_f08_arcplant_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_arcplant_02_Name^,^아크란 숲 무지개꽃^,^^,^^,^Aklan Forest Rainbow Flowers^,^^,^^
+^E_f08_arcplant_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bugmanti_03_Name^,^아크란 숲 정찰병^,^^,^^,^Aklan Forest Scout^,^^,^^
+^E_f08_Bugmanti_03_NameDetail^,^푸른 심장 군단^,^^,^^,^Blue Heart Corps^,^^,^^
+^E_f08_Bugmanti_04_Name^,^아크란 숲 정찰병^,^^,^^,^Aklan Forest Scout^,^^,^^
+^E_f08_Bugmanti_04_NameDetail^,^푸른 심장 군단^,^^,^^,^Blue Heart Corps^,^^,^^
+^E_f08_ArcSpir_01_Name^,^아크란 숲 요정^,^^,^^,^Aklan Forest Fairy^,^^,^^
+^E_f08_ArcSpir_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ArcSpir_02_Name^,^아크란 숲 요정^,^^,^^,^Aklan Forest Fairy^,^^,^^
+^E_f08_ArcSpir_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ArcSqui_01_Name^,^아크란 숲 세콰이어드^,^^,^^,^Aklan Forest Sequoias^,^^,^^
+^E_f08_ArcSqui_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ArcSqui_02_Name^,^아크란 숲 세콰이어드^,^^,^^,^Aklan Forest Sequoias^,^^,^^
+^E_f08_ArcSqui_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_giantArc_01_Name^,^거대 아크란^,^^,^^,^Aklan Giant^,^^,^^
+^E_f08_giantArc_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_giantArc_02_Name^,^거대 아크란^,^^,^^,^Aklan Giant^,^^,^^
+^E_f08_giantArc_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ArcBee_01_Name^,^아크란 숲 말벌^,^^,^^,^Aklan Forest Wasps^,^^,^^
+^E_f08_ArcBee_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_giantArc_03_Name^,^거대 아크란^,^^,^^,^Aklan Giant^,^^,^^
+^E_f08_giantArc_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceMot_03_Name^,^녹색 포자 나방^,^^,^^,^Green Spore Moth^,^^,^^
+^E_f08_ExceMot_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_BugBet2_02_Name^,^양성소 소대장^,^^,^^,^Training Camp Captain^,^^,^^
+^E_f08_BugBet2_02_NameDetail^,^붉은 심장 군단^,^^,^^,^Red Heart Corps^,^^,^^
+^E_f08_poisonscor_01_Name^,^독침 전갈^,^^,^^,^Poison Scorpion^,^^,^^
+^E_f08_poisonscor_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_yastbear_01_Name^,^투칸 불곰^,^^,^^,^Tukan Bear^,^^,^^
+^E_f08_yastbear_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_yastbear_02_Name^,^투칸 불곰^,^^,^^,^Tukan Bear^,^^,^^
+^E_f08_yastbear_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_yastfight_01_Name^,^마을 점령군 투사^,^^,^^,^Village Occupation Champion^,^^,^^
+^E_f08_yastfight_01_NameDetail^,^투칸족^,^^,^^,^Tukan^,^^,^^
+^E_f08_yastfight_02_Name^,^마을 점령군 투사^,^^,^^,^Village Occupation Champion^,^^,^^
+^E_f08_yastfight_02_NameDetail^,^투칸족^,^^,^^,^Tukan^,^^,^^
+^E_f08_yastfight_03_Name^,^마을 점령군 격투가^,^^,^^,^Village Occupation Fighter^,^^,^^
+^E_f08_yastfight_03_NameDetail^,^투칸족^,^^,^^,^Tukan^,^^,^^
+^E_f08_yastfight_04_Name^,^마을 점령군 격투가^,^^,^^,^Village Occupation Fighter^,^^,^^
+^E_f08_yastfight_04_NameDetail^,^투칸족^,^^,^^,^Tukan^,^^,^^
+^E_f08_yastfight_05_Name^,^마을 점령군 전사^,^^,^^,^Village Occupation Warrior^,^^,^^
+^E_f08_yastfight_05_NameDetail^,^투칸족^,^^,^^,^Tukan^,^^,^^
+^E_f08_yastfight_06_Name^,^마을 점령군 전사^,^^,^^,^Village Occupation Warrior^,^^,^^
+^E_f08_yastfight_06_NameDetail^,^투칸족^,^^,^^,^Tukan^,^^,^^
+^E_f08_murcan_01_Name^,^족장 무르칸^,^^,^^,^Chief Mourcan^,^^,^^
+^E_f08_murcan_01_NameDetail^,^투칸족^,^^,^^,^Tukan^,^^,^^
+^E_f08_ystangian_01_Name^,^유적지 순찰자^,^^,^^,^Historical Site Patroller^,^^,^^
+^E_f08_ystangian_01_NameDetail^,^투칸족^,^^,^^,^Tukan^,^^,^^
+^E_f08_ystangian_02_Name^,^마을 점령군 격투가^,^^,^^,^Village Occupation Fighter^,^^,^^
+^E_f08_ystangian_02_NameDetail^,^투칸족^,^^,^^,^Tukan^,^^,^^
+^E_f08_ystangian_03_Name^,^유적지 감시자^,^^,^^,^Historical Site Observer^,^^,^^
+^E_f08_ystangian_03_NameDetail^,^투칸족^,^^,^^,^Tukan^,^^,^^
+^E_f08_ystangian_04_Name^,^유적지 수호병^,^^,^^,^Historical Site Guardian^,^^,^^
+^E_f08_ystangian_04_NameDetail^,^투칸족^,^^,^^,^Tukan^,^^,^^
+^E_f08_poisonscor_02_Name^,^유적지 전갈^,^^,^^,^Historical Site Scorpion^,^^,^^
+^E_f08_poisonscor_02_NameDetail^,^투칸족^,^^,^^,^Tukan^,^^,^^
+^E_f08_yastbear_03_Name^,^투칸 불곰^,^^,^^,^Tukan Brown Bear^,^^,^^
+^E_f08_yastbear_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceFly_03_Name^,^세뇌당한 붉은 잠자리^,^^,^^,^Brainwashed Red Dragonfly^,^^,^^
+^E_f08_ExceFly_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_BugStag_04_Name^,^정찰기지 경비병^,^^,^^,^Reconnaissance Guards^,^^,^^
+^E_f08_BugStag_04_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Bughor1_07_Name^,^정찰기지 경계병^,^^,^^,^Reconnaissance Sentinel^,^^,^^
+^E_f08_Bughor1_07_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Bugsworm3_02_Name^,^정찰기지 땅굴벌레^,^^,^^,^Reconnaissance Tunnel Worm^,^^,^^
+^E_f08_Bugsworm3_02_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Bugmanti_05_Name^,^정찰기지 경계병^,^^,^^,^Reconnaissance Sentinel^,^^,^^
+^E_f08_Bugmanti_05_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_ExceBet_04_Name^,^정찰기지 투구 익시드^,^^,^^,^Reconnaissance Helm Exid^,^^,^^
+^E_f08_ExceBet_04_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_ExceMenti_04_Name^,^정찰기지 톱날 익시드^,^^,^^,^Reconnaissance Saw Blade Exid^,^^,^^
+^E_f08_ExceMenti_04_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_BugBet_03_Name^,^정찰기지 분대장^,^^,^^,^Reconnaissance Squad Leader^,^^,^^
+^E_f08_BugBet_03_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_ExceSpoFly_02_Name^,^세뇌당한 풀 잠자리^,^^,^^,^Brainwashed Green Dragonfly^,^^,^^
+^E_f08_ExceSpoFly_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bugsworm3_03_Name^,^본거지 땅굴 벌레^,^^,^^,^Headquarters Tunnel Worm^,^^,^^
+^E_f08_Bugsworm3_03_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_BugStag_05_Name^,^본거지 경비병^,^^,^^,^Headquarters Guard^,^^,^^
+^E_f08_BugStag_05_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Bughor1_08_Name^,^본거지 경계병^,^^,^^,^Headquarters Sentinel^,^^,^^
+^E_f08_Bughor1_08_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Bugmanti2_01_Name^,^본거지 수색병^,^^,^^,^Headquarters Sorcerer^,^^,^^
+^E_f08_Bugmanti2_01_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_ExceBettle2_01_Name^,^본거지 가시 익시드^,^^,^^,^Headquarters Thorn Exid^,^^,^^
+^E_f08_ExceBettle2_01_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Excemanti2_01_Name^,^본거지 톱날 익시드^,^^,^^,^Headquarters Saw Blade Exid^,^^,^^
+^E_f08_Excemanti2_01_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_ExceBettle2_02_Name^,^본거지 가시 익시드^,^^,^^,^Headquarters Thorn Exid^,^^,^^
+^E_f08_ExceBettle2_02_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Excemanti2_02_Name^,^본거지 톱날 익시드^,^^,^^,^Headquarters Saw Blade Exid^,^^,^^
+^E_f08_Excemanti2_02_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_BugBet_04_Name^,^본거지 분대장^,^^,^^,^Headquarters Unit Leader^,^^,^^
+^E_f08_BugBet_04_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Bugmanti2_02_Name^,^지휘소 순찰병^,^^,^^,^Command Post Patrol^,^^,^^
+^E_f08_Bugmanti2_02_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_BugStag2_01_Name^,^지휘소 장창병^,^^,^^,^Command Post Lancer^,^^,^^
+^E_f08_BugStag2_01_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Bughor3_01_Name^,^지휘소 경계병^,^^,^^,^Command Post Sentinel^,^^,^^
+^E_f08_Bughor3_01_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Excemanti2_03_Name^,^지휘소 톱날 익시드^,^^,^^,^Command Post Saw Blade Exid^,^^,^^
+^E_f08_Excemanti2_03_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_ExceBettle2_03_Name^,^지휘소 가시 익시드^,^^,^^,^Command Post Thorn Exid^,^^,^^
+^E_f08_ExceBettle2_03_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Excetur_01_Name^,^투르카^,^^,^^,^Turkka^,^^,^^
+^E_f08_Excetur_01_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_BugSal_01_Name^,^군단장 살자르^,^^,^^,^Commander Salazar^,^^,^^
+^E_f08_BugSal_01_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_IlikWork_02_Name^,^일리크 소굴 일 벌레^,^^,^^,^Ilric Lair Sun Worm^,^^,^^
+^E_f08_IlikWork_02_NameDetail^,^일리크의 수하^,^^,^^,^Ilric's Subordinate^,^^,^^
+^E_f08_IlikMenti_03_Name^,^일리크 소굴 낫 벌레^,^^,^^,^Ilric Sickle Beetle^,^^,^^
+^E_f08_IlikMenti_03_NameDetail^,^일리크의 수하^,^^,^^,^Ilric's Subordinate^,^^,^^
+^E_f08_IlikBomb_02_Name^,^일리크 소굴 자폭 벌레^,^^,^^,^Ilric Suicide Bug^,^^,^^
+^E_f08_IlikBomb_02_NameDetail^,^일리크의 수하^,^^,^^,^Ilric's Subordinate^,^^,^^
+^E_f08_ExceBet_05_Name^,^일리크 소굴 투구 벌레^,^^,^^,^Ilric Dagger Bug^,^^,^^
+^E_f08_ExceBet_05_NameDetail^,^일리크의 수하^,^^,^^,^Ilric's Subordinate^,^^,^^
+^E_f08_IlikSpid_01_Name^,^일리크 소굴 거미^,^^,^^,^Ilric Spider^,^^,^^
+^E_f08_IlikSpid_01_NameDetail^,^일리크의 수하^,^^,^^,^Ilric's Subordinate^,^^,^^
+^E_f08_IlikRoscal_01_Name^,^일리크 소굴 유충^,^^,^^,^Ilric Larva^,^^,^^
+^E_f08_IlikRoscal_01_NameDetail^,^일리크의 수하^,^^,^^,^Ilric's Subordinate^,^^,^^
+^E_f08_IlikStag_01_Name^,^일리크 둥지 가시 벌레^,^^,^^,^Ilric Nest Thorn Bug^,^^,^^
+^E_f08_IlikStag_01_NameDetail^,^일리크의 수하^,^^,^^,^Ilric's Subordinate^,^^,^^
+^E_f08_IlikBug_01_Name^,^일리크^,^^,^^,^Ilric^,^^,^^
+^E_f08_IlikBug_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_ExceMot_01_Name^,^녹색 포자 나방^,^^,^^,^Green Spore Moth^,^^,^^
+^E_D07_ExceMot_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_BugLanc_01_Name^,^변이된 중장병^,^^,^^,^Mutaded Soldier^,^^,^^
+^E_D07_BugLanc_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_Bughostm_01_Name^,^변이된 청년^,^^,^^,^Mutated Young Man^,^^,^^
+^E_D07_Bughostm_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_Bughostf_01_Name^,^변이된 여인^,^^,^^,^Mutated Young Woman^,^^,^^
+^E_D07_Bughostf_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_wormlava_01_Name^,^트루아즈 유충^,^^,^^,^Sandworm Larva^,^^,^^
+^E_D07_wormlava_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_BugBet_01_Name^,^무덤 방패병^,^^,^^,^Grave Shield Beetle^,^^,^^
+^E_D07_BugBet_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_Bughor2_01_Name^,^맹독 사수^,^^,^^,^Toxic Shooter^,^^,^^
+^E_D07_Bughor2_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_BugTrain_01_Name^,^조련사^,^^,^^,^Trainer^,^^,^^
+^E_D07_BugTrain_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_Spirwisp_01_Name^,^동굴 위습^,^^,^^,^Cave Wisp^,^^,^^
+^E_D07_Spirwisp_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_ExceSpoFly_01_Name^,^붉은 포자 잠자리^,^^,^^,^Red Spore Dragonfly^,^^,^^
+^E_D07_ExceSpoFly_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_ExceBet_01_Name^,^투구 익시드^,^^,^^,^Helm Exid^,^^,^^
+^E_D07_ExceBet_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_sandworm_01_Name^,^트루아즈^,^^,^^,^Sandworm^,^^,^^
+^E_D07_sandworm_01_NameDetail^,^동굴 포식자^,^^,^^,^Cave Predator^,^^,^^
+^E_D07_IlikBug1_01_Name^,^키누자크^,^^,^^,^Kinujak^,^^,^^
+^E_D07_IlikBug1_01_NameDetail^,^배양소 순찰자^,^^,^^,^Culture Patrol^,^^,^^
+^E_D07_IlikBug2_01_Name^,^자르크^,^^,^^,^Zarq^,^^,^^
+^E_D07_IlikBug2_01_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_IlikBug3_01_Name^,^자누크^,^^,^^,^Zanuq^,^^,^^
+^E_D07_IlikBug3_01_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_BugKuro_01_Name^,^쿠로디언^,^^,^^,^Kurodian^,^^,^^
+^E_D07_BugKuro_01_NameDetail^,^곤충군단 생체학자^,^^,^^,^Insect Legion Biologist^,^^,^^
+^E_D07_sandworm_02_Name^,^트루아즈^,^^,^^,^Sandworm^,^^,^^
+^E_D07_sandworm_02_NameDetail^,^동굴 포식자^,^^,^^,^Cave Predator^,^^,^^
+^E_D07_IlikBug1_02_Name^,^키누자크^,^^,^^,^Kinujak^,^^,^^
+^E_D07_IlikBug1_02_NameDetail^,^배양소 순찰자^,^^,^^,^Culture Patrol^,^^,^^
+^E_D07_IlikBug2_02_Name^,^자르크^,^^,^^,^Zarq^,^^,^^
+^E_D07_IlikBug2_02_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_IlikBug3_02_Name^,^자누크^,^^,^^,^Zanuq^,^^,^^
+^E_D07_IlikBug3_02_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_BugKuro_02_Name^,^쿠로디언^,^^,^^,^Kurodian^,^^,^^
+^E_D07_BugKuro_02_NameDetail^,^곤충군단 생체학자^,^^,^^,^Insect Legion Biologist^,^^,^^
+^E_D07_sandworm_03_Name^,^트루아즈^,^^,^^,^Sandworm^,^^,^^
+^E_D07_sandworm_03_NameDetail^,^동굴 포식자^,^^,^^,^Cave Predator^,^^,^^
+^E_D07_IlikBug1_03_Name^,^키누자크^,^^,^^,^Kinujak^,^^,^^
+^E_D07_IlikBug1_03_NameDetail^,^배양소 순찰자^,^^,^^,^Culture Patrol^,^^,^^
+^E_D07_IlikBug2_03_Name^,^자르크^,^^,^^,^Zarq^,^^,^^
+^E_D07_IlikBug2_03_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_IlikBug3_03_Name^,^자누크^,^^,^^,^Zanuq^,^^,^^
+^E_D07_IlikBug3_03_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_BugKuro_03_Name^,^쿠로디언^,^^,^^,^Kurodian^,^^,^^
+^E_D07_BugKuro_03_NameDetail^,^곤충군단 생체학자^,^^,^^,^Insect Legion Biologist^,^^,^^
+^E_f08_Adelik_01_Name^,^아델리크^,^^,^^,^Adelik^,^^,^^
+^E_f08_Adelik_01_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_BugBet2_03_Name^,^부대장 하타칸^,^^,^^,^Commander Hatakan^,^^,^^
+^E_f08_BugBet2_03_NameDetail^,^푸른 심장 군단^,^^,^^,^Blue Heart Corps^,^^,^^
+^E_f08_Bughor1_09_Name^,^[정예] 야영지 경계병^,^^,^^,^[Elite] Camp Surveillance^,^^,^^
+^E_f08_Bughor1_09_NameDetail^,^푸른 심장 군단^,^^,^^,^Blue Heart Corps^,^^,^^
+^E_f08_Bughor3_02_Name^,^[정예] 훈련소 저격병^,^^,^^,^[Elite] Traning Camp Sniper^,^^,^^
+^E_f08_Bughor3_02_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Bugmanti2_03_Name^,^[정예] 야영지 순찰병^,^^,^^,^[Elite] Camp Patrol^,^^,^^
+^E_f08_Bugmanti2_03_NameDetail^,^푸른 심장 군단^,^^,^^,^Blue Heart Corps^,^^,^^
+^E_f08_Bugmanti2_04_Name^,^[정예] 훈련소 순찰병^,^^,^^,^[Elite] Training Camp Patrol^,^^,^^
+^E_f08_Bugmanti2_04_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_BugStag_06_Name^,^[정예] 야영지 경비병^,^^,^^,^[Elite] Camp Guard^,^^,^^
+^E_f08_BugStag_06_NameDetail^,^푸른 심장 군단^,^^,^^,^Blue Heart Corps^,^^,^^
+^E_f08_BugStag2_02_Name^,^[정예] 훈련소 장창병^,^^,^^,^[Elite] Traning Camp Lancer^,^^,^^
+^E_f08_BugStag2_02_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_BugsTrain_04_Name^,^[정예] 훈련소 조련사^,^^,^^,^[Elite] Training Camp Trainer^,^^,^^
+^E_f08_BugsTrain_04_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Bugsworm3_04_Name^,^[정예] 훈련소 땅굴 벌레^,^^,^^,^[Elite] Training Camp Tunnel Worm^,^^,^^
+^E_f08_Bugsworm3_04_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_ExceBet_06_Name^,^[정예] 야영지 투구 익시드^,^^,^^,^[Elite] Camp Helm Exid^,^^,^^
+^E_f08_ExceBet_06_NameDetail^,^푸른 심장 군단^,^^,^^,^Blue Heart Corps^,^^,^^
+^E_f08_ExceBettle2_04_Name^,^[정예] 훈련소 가시 익시드^,^^,^^,^[Elite] Training Camp Thorn Exid^,^^,^^
+^E_f08_ExceBettle2_04_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_Excemanti2_04_Name^,^[정예] 훈련소 톱날 익시드^,^^,^^,^[Elite] Training Camp Saw Blade Exid^,^^,^^
+^E_f08_Excemanti2_04_NameDetail^,^황금 심장 군단^,^^,^^,^Golden Heart Corps^,^^,^^
+^E_f08_ExceMenti_05_Name^,^[정예] 야영지 톱날 익시드^,^^,^^,^[Elite] Camp Saw Blade Exid^,^^,^^
+^E_f08_ExceMenti_05_NameDetail^,^푸른 심장 군단^,^^,^^,^Blue Heart Corps^,^^,^^
+^E_f08_ExceMot_04_Name^,^[정예] 길들여진 나방^,^^,^^,^[Elite] Domesticated Moth^,^^,^^
+^E_f08_ExceMot_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_fanaThief_03_Name^,^[정예] 이틸디르 탈영병^,^^,^^,^[Elite] Itildir Deserter^,^^,^^
+^E_f08_fanaThief_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_fanaThief_04_Name^,^[정예] 이틸디르 탈영병^,^^,^^,^[Elite] Itildir Deserter^,^^,^^
+^E_f08_fanaThief_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_leavcaptain_02_Name^,^탈영장교 티리노^,^^,^^,^Desertion Officer Tirino^,^^,^^
+^E_f08_leavcaptain_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_leavesol_03_Name^,^[정예] 이틸디르 탈영병^,^^,^^,^[Elite] Itildir Deserter^,^^,^^
+^E_f08_leavesol_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_leavesol_04_Name^,^[정예] 이틸디르 탈영병^,^^,^^,^[Elite] Itildir Deserter^,^^,^^
+^E_f08_leavesol_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_leavRobber_03_Name^,^[정예] 이틸디르 탈영병^,^^,^^,^[Elite] Itildir Deserter^,^^,^^
+^E_f08_leavRobber_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_leavRobber_04_Name^,^[정예] 이틸디르 탈영병^,^^,^^,^[Elite] Itildir Deserter^,^^,^^
+^E_f08_leavRobber_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_BugKeeper_01_Name^,^곤충군단 문지기^,^^,^^,^Insect Legion Gatekeeper^,^^,^^
+^E_D07_BugKeeper_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_BugKeeper_02_Name^,^곤충군단 문지기^,^^,^^,^Insect Legion Gatekeeper^,^^,^^
+^E_D07_BugKeeper_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_BugKeeper_03_Name^,^곤충군단 문지기^,^^,^^,^Insect Legion Gatekeeper^,^^,^^
+^E_D07_BugKeeper_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_BugKeeper_04_Name^,^곤충군단 문지기^,^^,^^,^Insect Legion Gatekeeper^,^^,^^
+^E_D07_BugKeeper_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_BugKeeper_05_Name^,^곤충군단 문지기^,^^,^^,^Insect Legion Gatekeeper^,^^,^^
+^E_D07_BugKeeper_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_BugKeeper_06_Name^,^곤충군단 문지기^,^^,^^,^Insect Legion Gatekeeper^,^^,^^
+^E_D07_BugKeeper_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_eggbug_01_Name^,^기생 거미^,^^,^^,^Parasitic Spider^,^^,^^
+^E_D07_eggbug_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_eggheap_01_Name^,^트루아즈 알더미^,^^,^^,^Sandworm Heap^,^^,^^
+^E_D07_eggheap_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_eggheap_02_Name^,^트루아즈 알더미^,^^,^^,^Sandworm Heap^,^^,^^
+^E_D07_eggheap_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_eggheap_03_Name^,^트루아즈 알더미^,^^,^^,^Sandworm Heap^,^^,^^
+^E_D07_eggheap_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_eggheap_04_Name^,^트루아즈 알더미^,^^,^^,^Sandworm Heap^,^^,^^
+^E_D07_eggheap_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_eggheap_05_Name^,^트루아즈 알더미^,^^,^^,^Sandworm Heap^,^^,^^
+^E_D07_eggheap_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_eggheap_06_Name^,^트루아즈 알더미^,^^,^^,^Sandworm Heap^,^^,^^
+^E_D07_eggheap_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_eggheap_07_Name^,^트루아즈 알더미^,^^,^^,^Sandworm Heap^,^^,^^
+^E_D07_eggheap_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_eggheap_08_Name^,^트루아즈 알더미^,^^,^^,^Sandworm Heap^,^^,^^
+^E_D07_eggheap_08_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_eIncubator_01_Name^,^배양관^,^^,^^,^Culture Tube^,^^,^^
+^E_D07_eIncubator_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_eIncubator_02_Name^,^배양관^,^^,^^,^Culture Tube^,^^,^^
+^E_D07_eIncubator_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_hIncubator_01_Name^,^배양관^,^^,^^,^Culture Tube^,^^,^^
+^E_D07_hIncubator_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_hIncubator_02_Name^,^배양관^,^^,^^,^Culture Tube^,^^,^^
+^E_D07_hIncubator_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_Incubator_01_Name^,^배양관^,^^,^^,^Culture Tube^,^^,^^
+^E_D07_Incubator_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_Incubator_02_Name^,^배양관^,^^,^^,^Culture Tube^,^^,^^
+^E_D07_Incubator_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_nIncubator_01_Name^,^배양관^,^^,^^,^Culture Tube^,^^,^^
+^E_D07_nIncubator_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_nIncubator_02_Name^,^배양관^,^^,^^,^Culture Tube^,^^,^^
+^E_D07_nIncubator_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_wormegg_02_Name^,^트루아즈 알^,^^,^^,^Sandworm Egg^,^^,^^
+^E_D07_wormegg_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_wormegg_03_Name^,^트루아즈 알^,^^,^^,^Sandworm Egg^,^^,^^
+^E_D07_wormegg_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_wormegg_04_Name^,^트루아즈 알^,^^,^^,^Sandworm Egg^,^^,^^
+^E_D07_wormegg_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_wormegg_05_Name^,^트루아즈 알^,^^,^^,^Sandworm Egg^,^^,^^
+^E_D07_wormegg_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_wormegg_06_Name^,^트루아즈 알^,^^,^^,^Sandworm Egg^,^^,^^
+^E_D07_wormegg_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_wormlava_02_Name^,^트루아즈 유충^,^^,^^,^Sandworm Larva^,^^,^^
+^E_D07_wormlava_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_wormegg_01_Name^,^트루아즈 알^,^^,^^,^Sandworm Egg^,^^,^^
+^E_D07_wormegg_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_wormlava_03_Name^,^트루아즈 유충^,^^,^^,^Sandworm Larva^,^^,^^
+^E_D07_wormlava_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_ExceMot_02_Name^,^동굴 나방^,^^,^^,^Cave Moth^,^^,^^
+^E_D07_ExceMot_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_Incubator_03_Name^,^배양관^,^^,^^,^Culture Tube^,^^,^^
+^E_D07_Incubator_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_Incubator_04_Name^,^배양관^,^^,^^,^Culture Tube^,^^,^^
+^E_D07_Incubator_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_IlikBug1_06_Name^,^키누자크^,^^,^^,^Kinujak^,^^,^^
+^E_D07_IlikBug1_06_NameDetail^,^배양소 순찰자^,^^,^^,^Culture Patrol^,^^,^^
+^E_f08_Antares_01_Name^,^분노의 안타레스^,^^,^^,^Furious Antares^,^^,^^
+^E_f08_Antares_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_CatSpirun_01_Name^,^영월의 스피룬^,^^,^^,^Spirune of Youngwol^,^^,^^
+^E_f08_CatSpirun_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ValleyWhale_01_Name^,^위압의 플루톤^,^^,^^,^Pluton of Oppression^,^^,^^
+^E_f08_ValleyWhale_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ValleyPega_01_Name^,^자유의 리벤티아^,^^,^^,^Liventia of Freedom^,^^,^^
+^E_f08_ValleyPega_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_BlackLion_01_Name^,^고대의 불카누스^,^^,^^,^Ancient Vulcanus^,^^,^^
+^E_f08_BlackLion_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_WaterDragon_01_Name^,^차가운 칼리아트^,^^,^^,^Cool Kalliatu^,^^,^^
+^E_f08_WaterDragon_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Dragonfly_01_Name^,^독침 아모라^,^^,^^,^Sting Amorah^,^^,^^
+^E_f08_Dragonfly_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ValleyHorse_01_Name^,^녹색날개 아마토나^,^^,^^,^Green Wing Amato^,^^,^^
+^E_f08_ValleyHorse_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_BugScor_01_Name^,^엑시더스^,^^,^^,^Exodus^,^^,^^
+^E_f08_BugScor_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ValleyFrog_01_Name^,^프레이그^,^^,^^,^Fraiga^,^^,^^
+^E_f08_ValleyFrog_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ValleyFloat_01_Name^,^콜루베르^,^^,^^,^Culober^,^^,^^
+^E_f08_ValleyFloat_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ValleyCat_01_Name^,^스나웃^,^^,^^,^Snaw^,^^,^^
+^E_f08_ValleyCat_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_RustedDrake_01_Name^,^녹슨 나티로스^,^^,^^,^Rusty Nathilos^,^^,^^
+^E_f08_RustedDrake_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ValleySpid_01_Name^,^다이아덴^,^^,^^,^Daiden^,^^,^^
+^E_f08_ValleySpid_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceBet_07_Name^,^투구 익시드^,^^,^^,^Helm Exid^,^^,^^
+^E_f08_ExceBet_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikMenti_04_Name^,^긴 뿔 익시드^,^^,^^,^Long Horn Exid^,^^,^^
+^E_f08_IlikMenti_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_arcplant_03_Name^,^아크란 무지개꽃^,^^,^^,^Aklan Rainbow Flower^,^^,^^
+^E_f08_arcplant_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_landspid_03_Name^,^아크란 숲 거미^,^^,^^,^Aklan Forest Spider^,^^,^^
+^E_f08_landspid_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikWork_03_Name^,^일리크 일 벌레^,^^,^^,^Ilric Bug Worker^,^^,^^
+^E_f08_IlikWork_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikMenti_05_Name^,^일리크 낫 벌레^,^^,^^,^Ilric Sickle Worm^,^^,^^
+^E_f08_IlikMenti_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikBomb_03_Name^,^일리크 자폭벌레^,^^,^^,^Ilric Bomb Bug^,^^,^^
+^E_f08_IlikBomb_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceBet_08_Name^,^일리크 투구 벌레^,^^,^^,^Ilric Helm Bug^,^^,^^
+^E_f08_ExceBet_08_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikSpid_02_Name^,^일리크 동굴 거미^,^^,^^,^Ilric Cave Spider^,^^,^^
+^E_f08_IlikSpid_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikRoscal_02_Name^,^일리크 동굴 유충^,^^,^^,^Ilric Cave larva^,^^,^^
+^E_f08_IlikRoscal_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bugmanti2_05_Name^,^수상한 암살자^,^^,^^,^Suspicious Assassin^,^^,^^
+^E_f08_Bugmanti2_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bugmanti2_06_Name^,^공격대 습격병^,^^,^^,^Raiders Attacker^,^^,^^
+^E_f08_Bugmanti2_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bugmanti2_07_Name^,^로샤^,^^,^^,^Rocha^,^^,^^
+^E_f08_Bugmanti2_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bugmanti2_08_Name^,^로이크^,^^,^^,^Roque^,^^,^^
+^E_f08_Bugmanti2_08_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceBettle2_05_Name^,^나온크^,^^,^^,^Naonku^,^^,^^
+^E_f08_ExceBettle2_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikRoscal_03_Name^,^일리크 동굴 유충^,^^,^^,^Ilric Cave larva^,^^,^^
+^E_f08_IlikRoscal_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cavespid_01_Name^,^동굴 거미^,^^,^^,^Cave spider^,^^,^^
+^E_f08_cavespid_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cavespid_02_Name^,^동굴 거미^,^^,^^,^Cave spider^,^^,^^
+^E_f08_cavespid_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_brokenagl_01_Name^,^조각난 방패 채집꾼^,^^,^^,^SHattered Shield Collector^,^^,^^
+^E_f08_brokenagl_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_brokenagl_02_Name^,^조각난 방패 투사^,^^,^^,^SHattered Shield Projection^,^^,^^
+^E_f08_brokenagl_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_brokenagl_03_Name^,^조각난 방패 제사장^,^^,^^,^SHattered Shield Priest^,^^,^^
+^E_f08_brokenagl_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_brokenagl_04_Name^,^조각난 방패 수렵꾼^,^^,^^,^SHattered Shield Hunter^,^^,^^
+^E_f08_brokenagl_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_brokenagl_05_Name^,^디글록^,^^,^^,^Diglok^,^^,^^
+^E_f08_brokenagl_05_NameDetail^,^조각난 방패 족장^,^^,^^,^SHattered Shield Chief^,^^,^^
+^E_f08_lanceagl_01_Name^,^부러진 창 채집꾼^,^^,^^,^SHattered Window Collector^,^^,^^
+^E_f08_lanceagl_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_lanceagl_02_Name^,^부러진 창 투사^,^^,^^,^SHattered Window Projection^,^^,^^
+^E_f08_lanceagl_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_lanceagl_03_Name^,^부러진 창 제사장^,^^,^^,^SHattered Window Priest^,^^,^^
+^E_f08_lanceagl_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_lanceagl_04_Name^,^부러진 창 수렵꾼^,^^,^^,^SHattered Window Hunter^,^^,^^
+^E_f08_lanceagl_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_lanceagl_05_Name^,^머글록^,^^,^^,^Merclock^,^^,^^
+^E_f08_lanceagl_05_NameDetail^,^부러진 창 족장^,^^,^^,^SHattered Window Chief^,^^,^^
+^E_f08_WaterDragon_02_Name^,^번개의 칼리아트^,^^,^^,^Lightning Kalliatu^,^^,^^
+^E_f08_WaterDragon_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_forestspid_01_Name^,^길들여진 거미^,^^,^^,^Domesticated Spider^,^^,^^
+^E_f08_forestspid_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_forestspid_02_Name^,^길들여진 거미^,^^,^^,^Domesticated Spider^,^^,^^
+^E_f08_forestspid_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_forestspid_03_Name^,^길들여진 거미^,^^,^^,^Domesticated Spider^,^^,^^
+^E_f08_forestspid_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_forestdeer_01_Name^,^거친 털 사슴^,^^,^^,^Shag Deer^,^^,^^
+^E_f08_forestdeer_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_forestdeer_02_Name^,^거친 털 사슴^,^^,^^,^Shag Deer^,^^,^^
+^E_f08_forestdeer_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_forestdeer_03_Name^,^거친 털 사슴^,^^,^^,^Shag Deer^,^^,^^
+^E_f08_forestdeer_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_forestboar_01_Name^,^투림란 야생 돼지^,^^,^^,^Turiman Wild Pig^,^^,^^
+^E_f08_forestboar_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_forestboar_02_Name^,^투림란 야생 돼지^,^^,^^,^Turiman Wild Pig^,^^,^^
+^E_f08_forestboar_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_forestboar_03_Name^,^투림란 야생 돼지^,^^,^^,^Turiman Wild Pig^,^^,^^
+^E_f08_forestboar_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_forestfox_01_Name^,^굶주린 여우^,^^,^^,^Starving Fox^,^^,^^
+^E_f08_forestfox_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_forestfox_02_Name^,^굶주린 여우^,^^,^^,^Starving Fox^,^^,^^
+^E_f08_forestfox_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_forestfox_03_Name^,^굶주린 여우^,^^,^^,^Starving Fox^,^^,^^
+^E_f08_forestfox_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bugsha_01_Name^,^샤가르^,^^,^^,^Shagar^,^^,^^
+^E_f08_Bugsha_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_hideexced_01_Name^,^매복한 가시 익시드^,^^,^^,^Ambush Thorn Exid^,^^,^^
+^E_f08_hideexced_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_hideexced_02_Name^,^매복한 자폭 익시드^,^^,^^,^Ambush Suicide Exid^,^^,^^
+^E_f08_hideexced_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_hideexced_03_Name^,^매복한 투구 익시드^,^^,^^,^Ambush Helm Exid^,^^,^^
+^E_f08_hideexced_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_hideexced_04_Name^,^매복한 긴뿔 익시드^,^^,^^,^Ambush Long Horn Exid^,^^,^^
+^E_f08_hideexced_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_hideexced_05_Name^,^매복한 가시 익시드^,^^,^^,^Ambush Thorn Exid^,^^,^^
+^E_f08_hideexced_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_hideexced_06_Name^,^매복한 자폭 익시드^,^^,^^,^Ambush Suicide Exid^,^^,^^
+^E_f08_hideexced_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_hideexced_07_Name^,^매복한 투구 익시드^,^^,^^,^Ambush Helm Exid^,^^,^^
+^E_f08_hideexced_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_hideexced_08_Name^,^매복한 긴뿔 익시드^,^^,^^,^Ambush Long Horn Exid^,^^,^^
+^E_f08_hideexced_08_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_sommonIlik_01_Name^,^매복 익시드^,^^,^^,^Ambush Exid^,^^,^^
+^E_f08_sommonIlik_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Spirwisp_01_Name^,^배회하는 위습^,^^,^^,^WandeRing Wisp^,^^,^^
+^E_f08_Spirwisp_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Spirwisp_02_Name^,^배회하는 위습^,^^,^^,^WandeRing Wisp^,^^,^^
+^E_f08_Spirwisp_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Spirwisp_03_Name^,^배회하는 위습^,^^,^^,^WandeRing Wisp^,^^,^^
+^E_f08_Spirwisp_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_giantExce_01_Name^,^거대 가시 익시드^,^^,^^,^Giant Thorn Exid^,^^,^^
+^E_f08_giantExce_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_SpoFly_01_Name^,^투림란 야생 잠자리^,^^,^^,^Turiman Wild Dragonfly^,^^,^^
+^E_f08_SpoFly_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_SpoFly_02_Name^,^투림란 야생 잠자리^,^^,^^,^Turiman Wild Dragonfly^,^^,^^
+^E_f08_SpoFly_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_SpoFly_03_Name^,^투림란 야생 잠자리^,^^,^^,^Turiman Wild Dragonfly^,^^,^^
+^E_f08_SpoFly_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_ExceBet_02_Name^,^포식자의 하수인^,^^,^^,^Predator Minion^,^^,^^
+^E_D07_ExceBet_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_ExceBet_03_Name^,^투구벌레 익시드^,^^,^^,^Beetle Exid^,^^,^^
+^E_D07_ExceBet_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_ExceBet_04_Name^,^투구벌레 익시드^,^^,^^,^Beetle Exid^,^^,^^
+^E_D07_ExceBet_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_BugBet2_05_Name^,^살자르의 전령^,^^,^^,^The messenger of Salazar^,^^,^^
+^E_f08_BugBet2_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_BugBet2_06_Name^,^선봉장 모크자^,^^,^^,^Spearhead Mokja^,^^,^^
+^E_f08_BugBet2_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_BugStag2_03_Name^,^정보장교 아튜칸^,^^,^^,^Information Officer Atukan^,^^,^^
+^E_f08_BugStag2_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_BugStag2_04_Name^,^보좌관 바샤르^,^^,^^,^Helper Bashar^,^^,^^
+^E_f08_BugStag2_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bugmanti2_09_Name^,^작전참모 페티카^,^^,^^,^Operation Chief Petrica^,^^,^^
+^E_f08_Bugmanti2_09_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_BugStag_07_Name^,^본거지 경비병^,^^,^^,^Headquarter Guard^,^^,^^
+^E_f08_BugStag_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Bugsworm3_05_Name^,^본거지 땅굴 벌레^,^^,^^,^Headquarters Worm^,^^,^^
+^E_f08_Bugsworm3_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_hideexced_09_Name^,^매복한 가시 익시드^,^^,^^,^Ambush Thorn Exid^,^^,^^
+^E_f08_hideexced_09_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_hideexced_10_Name^,^매복한 가시 익시드^,^^,^^,^Ambush Thorn Exid^,^^,^^
+^E_f08_hideexced_10_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_yastfight_07_Name^,^마을 침략자^,^^,^^,^Town Invader^,^^,^^
+^E_f08_yastfight_07_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_chakan_01_Name^,^부족장 차칸^,^^,^^,^Tribal Chief Chakan^,^^,^^
+^E_f08_chakan_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_arcplant_04_Name^,^군락지 흡혈초^,^^,^^,^Vampire Plant^,^^,^^
+^E_f08_arcplant_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_arcplant_05_Name^,^아크란 흡광초^,^^,^^,^Aklan Absorber^,^^,^^
+^E_f08_arcplant_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_arctree_01_Name^,^아크란 광채나무^,^^,^^,^Aklan Shining Tree^,^^,^^
+^E_f08_arctree_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_arctree_02_Name^,^아크란 광채나무^,^^,^^,^Aklan Shining Tree^,^^,^^
+^E_f08_arctree_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_yastfight_08_Name^,^작업반장 부칸^,^^,^^,^Operation Boss Bhakan^,^^,^^
+^E_f08_yastfight_08_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_yastfight_09_Name^,^심술쟁이 아칸^,^^,^^,^Horny Akan^,^^,^^
+^E_f08_yastfight_09_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_yastfight_10_Name^,^제사장 사칸^,^^,^^,^Priest Sakan^,^^,^^
+^E_f08_yastfight_10_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_bugzeca_01_Name^,^부대장 제카르^,^^,^^,^Commander Zekhar^,^^,^^
+^E_f08_bugzeca_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ValleyCro_02_Name^,^대협곡 악어^,^^,^^,^Grand Canyon Crocodile^,^^,^^
+^E_f08_ValleyCro_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_aglworker_01_Name^,^채집꾼^,^^,^^,^The collector^,^^,^^
+^E_f08_aglworker_01_NameDetail^,^조난당한 아굴족^,^^,^^,^The distressed Agul^,^^,^^
+^E_f08_GagoTampl_01_Name^,^협곡 가고일^,^^,^^,^Gorge Gargoyles^,^^,^^
+^E_f08_GagoTampl_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_GagoTampl_02_Name^,^협곡 가고일^,^^,^^,^Gorge Gargoyles^,^^,^^
+^E_f08_GagoTampl_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_draca_01_Name^,^드라카^,^^,^^,^Draca^,^^,^^
+^E_f08_draca_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_bonedra_01_Name^,^본드래곤^,^^,^^,^Bone Dragon^,^^,^^
+^E_f08_bonedra_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_flyfrog_01_Name^,^그룹^,^^,^^,^Grub^,^^,^^
+^E_f08_flyfrog_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_flyfloat_01_Name^,^루누라타^,^^,^^,^Lunurata^,^^,^^
+^E_f08_flyfloat_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_shriek_01_Name^,^스크리머^,^^,^^,^Screamer^,^^,^^
+^E_f08_shriek_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_drag_01_Name^,^드라이드^,^^,^^,^Draivu^,^^,^^
+^E_f08_drag_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_kama_01_Name^,^카마라^,^^,^^,^Camara^,^^,^^
+^E_f08_kama_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cabeassa_01_Name^,^카브임 암살자^,^^,^^,^Khabim Assassin^,^^,^^
+^E_f08_cabeassa_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cabehunt_01_Name^,^카브임 사냥꾼^,^^,^^,^Khabim Hunter^,^^,^^
+^E_f08_cabehunt_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cabeassa_02_Name^,^카브임 암살자^,^^,^^,^Khabim Assassin^,^^,^^
+^E_f08_cabeassa_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cabehunt_02_Name^,^카브임 사냥꾼^,^^,^^,^Khabim Hunter^,^^,^^
+^E_f08_cabehunt_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cabeMcian_01_Name^,^카브임 마도사^,^^,^^,^Khabim Magician^,^^,^^
+^E_f08_cabeMcian_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cabeMarte_02_Name^,^마르테^,^^,^^,^Marte^,^^,^^
+^E_f08_cabeMarte_02_NameDetail^,^대마도사^,^^,^^,^Tsushima Island^,^^,^^
+^E_f08_cabedar_01_Name^,^집행자 다르미안^,^^,^^,^Executor Darumian^,^^,^^
+^E_f08_cabedar_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cabeymi_01_Name^,^도살자 이미누스^,^^,^^,^Butcher Iminus^,^^,^^
+^E_f08_cabeymi_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_ExceWork_01_Name^,^배양관 일벌레^,^^,^^,^Culture Tube Worker^,^^,^^
+^E_D07_ExceWork_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_yastfight_11_Name^,^의술사 주칸^,^^,^^,^Doctor Zujan^,^^,^^
+^E_f08_yastfight_11_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_Excebomb_01_Name^,^폭탄 벌레^,^^,^^,^Bomb Worm^,^^,^^
+^E_D07_Excebomb_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ArcSpir_03_Name^,^광채나무 요정^,^^,^^,^Shining Tree Fairy^,^^,^^
+^E_f08_ArcSpir_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_IlikBug1_05_Name^,^키누자크^,^^,^^,^Kinujak^,^^,^^
+^E_D07_IlikBug1_05_NameDetail^,^배양소 순찰자^,^^,^^,^Culture Patrol^,^^,^^
+^E_f08_yastfight_12_Name^,^제사장 유칸^,^^,^^,^Priest Yukan^,^^,^^
+^E_f08_yastfight_12_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_yastfight_13_Name^,^무르칸의 수호병^,^^,^^,^Murkan's Guardian^,^^,^^
+^E_f08_yastfight_13_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_yastfight_14_Name^,^무르칸의 수하^,^^,^^,^Murkan's Subordinate^,^^,^^
+^E_f08_yastfight_14_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_yastfight_15_Name^,^감시자 조네수^,^^,^^,^Supervisor Jones^,^^,^^
+^E_f08_yastfight_15_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikBug_02_Name^,^피비린내 나는 은소비스^,^^,^^,^Bloody Silver Bee^,^^,^^
+^E_f08_IlikBug_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikBug_03_Name^,^일리스^,^^,^^,^Ilis^,^^,^^
+^E_f08_IlikBug_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_prisoner_01_Name^,^풀려난 포로^,^^,^^,^Released Prisoner^,^^,^^
+^E_f08_prisoner_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_d07_sand_01_Name^,^부식 독액^,^^,^^,^Corrosive Venom^,^^,^^
+^E_d07_sand_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Antares_02_Name^,^냉철한 안타레스^,^^,^^,^Calm Antares^,^^,^^
+^E_f08_Antares_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_BugsTrain_05_Name^,^[정예] 부화장 감독관^,^^,^^,^[Elite] Hatchery Supervisor^,^^,^^
+^E_f08_BugsTrain_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceBet_09_Name^,^부화장 톱날 익시드^,^^,^^,^Hatchery Saw Blade Exid^,^^,^^
+^E_f08_ExceBet_09_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_ExceMenti_06_Name^,^[정예] 부화장 부화사^,^^,^^,^[Elite] Hatchery Buhwasa^,^^,^^
+^E_f08_ExceMenti_06_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikBug_04_Name^,^[정예] 츠라카^,^^,^^,^[Elite] Tsuraka^,^^,^^
+^E_f08_IlikBug_04_NameDetail^,^제 1 수문장^,^^,^^,^The First Leader^,^^,^^
+^E_f08_IlikBug_05_Name^,^[정예] 즈루타^,^^,^^,^[Elite] Zuluta^,^^,^^
+^E_f08_IlikBug_05_NameDetail^,^제 2 수문장^,^^,^^,^The Second Leader^,^^,^^
+^E_f08_IlikWork_04_Name^,^부화한 새끼익시드^,^^,^^,^Hatching Cubs^,^^,^^
+^E_f08_IlikWork_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_IlikWork_05_Name^,^부화한 새끼익시드^,^^,^^,^Hatching Cubs^,^^,^^
+^E_f08_IlikWork_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_hestin_01_Name^,^겁화의 헤스틴^,^^,^^,^Scarlet Hestin^,^^,^^
+^E_f08_hestin_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_celfneebl_01_Name^,^만인대장 니블 로드헤임^,^^,^^,^Leader of All Nibble Rodheim^,^^,^^
+^e_f08_celfneebl_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_firegole_01_Name^,^고대의 화염 골렘^,^^,^^,^Ancient Flame Golem^,^^,^^
+^e_f08_firegole_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_giancrab_01_Name^,^스칼리온^,^^,^^,^Scalion^,^^,^^
+^e_f08_giancrab_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_ImmoMerc_01_Name^,^집행자 머큐리스^,^^,^^,^Executioner Mercury^,^^,^^
+^e_f08_ImmoMerc_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_poisonira_01_Name^,^맹독 마녀 포이즌 아이라^,^^,^^,^Poisonous Witch Poison Ira^,^^,^^
+^e_f08_poisonira_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cabeassa_03_Name^,^카브임 암살자^,^^,^^,^Khabim Assassin^,^^,^^
+^E_f08_cabeassa_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cabehunt_03_Name^,^카브임 사냥꾼^,^^,^^,^Khabim Hunter^,^^,^^
+^E_f08_cabehunt_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cabelancer01_Name^,^카브임 처형자^,^^,^^,^Khabim Executive^,^^,^^
+^E_f08_cabelancer01_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_dragrasha_001_Name^,^붉은 갑옷새^,^^,^^,^Red Armor Bird^,^^,^^
+^e_f08_dragrasha_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_GagoTampl_03_Name^,^부유섬 가고일^,^^,^^,^Floating Island Gargoyle^,^^,^^
+^E_f08_GagoTampl_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cabebomb01_Name^,^카브임 습격자^,^^,^^,^Khabim Raider^,^^,^^
+^E_f08_cabebomb01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_cabetroop01_Name^,^카브임 집행자^,^^,^^,^Khabim Executioner^,^^,^^
+^E_f08_cabetroop01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_F08_CarmWatch_01_Name^,^스칸 공적단 강습약탈자^,^^,^^,^Skan Predator^,^^,^^
+^E_F08_CarmWatch_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_F08_CarmWatch_02_Name^,^어둠의 기사 스카^,^^,^^,^Assassin Knight^,^^,^^
+^E_F08_CarmWatch_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_F08_FanaSnipe_01_Name^,^스칸 공적단 정찰병^,^^,^^,^Skan Scout^,^^,^^
+^E_F08_FanaSnipe_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_firebird_01_Name^,^아로트^,^^,^^,^Arot^,^^,^^
+^E_f08_firebird_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_firebird_02_Name^,^아루이드^,^^,^^,^Aruid^,^^,^^
+^E_f08_firebird_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_firedrag_01_Name^,^불새 검은 폭풍^,^^,^^,^Black Stormwing^,^^,^^
+^E_f08_firedrag_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_ImmoGorak_01_Name^,^불사 군단 고락투스^,^^,^^,^Immortal Legion Goraktus^,^^,^^
+^e_f08_ImmoGorak_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_ImmoKnigh_01_Name^,^불사 군단 기사^,^^,^^,^Immortal Legion Knight^,^^,^^
+^e_f08_ImmoKnigh_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_ImmoKnigh_02_Name^,^불사 군단 검은 용기사^,^^,^^,^Immortal Legion Black Dragon Knight^,^^,^^
+^e_f08_ImmoKnigh_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_ImmoKnigh_03_Name^,^불사 군단 기사^,^^,^^,^Immortal Legion Knight^,^^,^^
+^e_f08_ImmoKnigh_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_ImmoKnigh_04_Name^,^불사 군단 용기사^,^^,^^,^Immortal Legion Dragon Knight^,^^,^^
+^e_f08_ImmoKnigh_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_ImmoMagi_01_Name^,^불사 군단 주술사^,^^,^^,^Immortal Legion Shaman^,^^,^^
+^e_f08_ImmoMagi_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_ImmoMagi_02_Name^,^불사 군단 해골 주문사^,^^,^^,^Immortal Legion Skeleton^,^^,^^
+^e_f08_ImmoMagi_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_ImmoTeran_01_Name^,^불사 군단 테라누스^,^^,^^,^Immortal Legion Teranus^,^^,^^
+^e_f08_ImmoTeran_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^e_f08_ImmoUranu_01_Name^,^불사 군단 우라누스^,^^,^^,^Immortal Legion Uranus^,^^,^^
+^e_f08_ImmoUranu_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_f08_Rabiniyo_01_Name^,^라비니 영미니^,^^,^^,^Rabbini Young Mini^,^^,^^
+^E_f08_Rabiniyo_01_NameDetail^,^비밀상점^,^^,^^,^Secret shop^,^^,^^
+^E_D07_sandworm_04_Name^,^트루아즈^,^^,^^,^Sandworm^,^^,^^
+^E_D07_sandworm_04_NameDetail^,^동굴 포식자^,^^,^^,^Cave Predator^,^^,^^
+^E_D07_IlikBug1_07_Name^,^키누자크^,^^,^^,^Kinujak^,^^,^^
+^E_D07_IlikBug1_07_NameDetail^,^배양소 순찰자^,^^,^^,^Culture Patrol^,^^,^^
+^E_D07_IlikBug2_04_Name^,^자르크^,^^,^^,^Zarq^,^^,^^
+^E_D07_IlikBug2_04_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_IlikBug3_04_Name^,^자누크^,^^,^^,^Zanuq^,^^,^^
+^E_D07_IlikBug3_04_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_BugKuro_05_Name^,^쿠로디언^,^^,^^,^Kurodian^,^^,^^
+^E_D07_BugKuro_05_NameDetail^,^곤충군단 생체학자^,^^,^^,^Insect Legion Biologist^,^^,^^
+^E_D07_BugKuro_06_Name^,^쿠로디언^,^^,^^,^Kurodian^,^^,^^
+^E_D07_BugKuro_06_NameDetail^,^곤충군단 생체학자^,^^,^^,^Insect Legion Biologist^,^^,^^
+^E_D07_IlikBug2_05_Name^,^자르크^,^^,^^,^Zarq^,^^,^^
+^E_D07_IlikBug2_05_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_IlikBug3_05_Name^,^자누크^,^^,^^,^Zanuq^,^^,^^
+^E_D07_IlikBug3_05_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_bioinsect_01_Name^,^생체 수정^,^^,^^,^Biological Modification^,^^,^^
+^E_D07_bioinsect_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_eggbug_02_Name^,^악성 기생 거미^,^^,^^,^Malignant Parasite Spider^,^^,^^
+^E_D07_eggbug_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_BugLanc_02_Name^,^변이된 중장병^,^^,^^,^Mutaded Soldier^,^^,^^
+^E_D07_BugLanc_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_Bughostf_02_Name^,^변이된 여인^,^^,^^,^Mutated Young Woman^,^^,^^
+^E_D07_Bughostf_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_ExceBet_05_Name^,^부식독 익시드^,^^,^^,^Corrosive Poison Exid^,^^,^^
+^E_D07_ExceBet_05_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_wormlava_04_Name^,^트루아즈 유충^,^^,^^,^Sandworm Larva^,^^,^^
+^E_D07_wormlava_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_Bugsworm_01_Name^,^트루아즈 성충^,^^,^^,^Adult Sandworm^,^^,^^
+^E_D07_Bugsworm_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_IlikBug1_08_Name^,^키누자크^,^^,^^,^Kinujak^,^^,^^
+^E_D07_IlikBug1_08_NameDetail^,^배양소 순찰자^,^^,^^,^Culture Patrol^,^^,^^
+^E_D07_IlikBug2_06_Name^,^자르크^,^^,^^,^Zarq^,^^,^^
+^E_D07_IlikBug2_06_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_IlikBug3_06_Name^,^자누크^,^^,^^,^Zanuq^,^^,^^
+^E_D07_IlikBug3_06_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_IlikBug2_07_Name^,^자르크^,^^,^^,^Zarq^,^^,^^
+^E_D07_IlikBug2_07_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_D07_IlikBug3_07_Name^,^자누크^,^^,^^,^Zanuq^,^^,^^
+^E_D07_IlikBug3_07_NameDetail^,^키누자크의 새끼^,^^,^^,^Kinujak's Cub^,^^,^^
+^E_d07_GoleBelte_01_Name^,^홍옥의 벨테누스^,^^,^^,^Ruby Bentenus^,^^,^^
+^E_d07_GoleBelte_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_d07_GoleBelte_02_Name^,^청옥의 벨테누스^,^^,^^,^Sapphire Bentenus^,^^,^^
+^E_d07_GoleBelte_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_d07_CapBelte_01_Name^,^약화된 홍옥의 벨테누스^,^^,^^,^Weakened Ruby Bentenus^,^^,^^
+^E_d07_CapBelte_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_d07_CapBelte_02_Name^,^약화된 청옥의 벨테누스^,^^,^^,^Weakened Sapphire Bentenus^,^^,^^
+^E_d07_CapBelte_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_CapKuro_01_Name^,^약화된 쿠로디언^,^^,^^,^Weakened Kurodian^,^^,^^
+^E_D07_CapKuro_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_fail_01_Name^,^알 수 없는 힘^,^^,^^,^Unknown Power^,^^,^^
+^E_D07_fail_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_Spirwisp_02_Name^,^동굴 위습^,^^,^^,^Cave Wisp^,^^,^^
+^E_D07_Spirwisp_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D07_ExceMot_03_Name^,^동굴 나방^,^^,^^,^Cave Moth^,^^,^^
+^E_D07_ExceMot_03_NameDetail^,^^,^^,^^,^^,^^,^^

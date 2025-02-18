@@ -1,0 +1,839 @@
+t_key,t_korean
+^E_01_0_0001_0000_Name^,^Rhino guards^
+^E_01_0_0001_0000_NameDetail^,^^
+^E_01_0_0002_0000_Name^,^Rhino fighters^
+^E_01_0_0002_0000_NameDetail^,^^
+^E_02_1_0007_0000_Name^,^Gray Wolf^
+^E_02_1_0007_0000_NameDetail^,^^
+^E_02_1_0007_0001_Name^,^Wild Grey Wolf^
+^E_02_1_0007_0001_NameDetail^,^^
+^E_02_1_0007_0002_Name^,^Wild Grey Wolf^
+^E_02_1_0007_0002_NameDetail^,^^
+^E_02_4_0008_0000_Name^,^wood nymph^
+^E_02_4_0008_0000_NameDetail^,^^
+^E_02_1_0010_0000_Name^,^mane Boar^
+^E_02_1_0010_0000_NameDetail^,^^
+^E_02_1_0010_0001_Name^,^mane Boar^
+^E_02_1_0010_0001_NameDetail^,^^
+^E_02_1_0011_0000_Name^,^wild mane Boar^
+^E_02_1_0011_0000_NameDetail^,^^
+^E_02_1_0011_0001_Name^,^wild mane Boar^
+^E_02_1_0011_0001_NameDetail^,^^
+^E_02_1_0011_0002_Name^,^molar boar^
+^E_02_1_0011_0002_NameDetail^,^^
+^E_02_0_0012_0000_Name^,^Brage Scout^
+^E_02_0_0012_0000_NameDetail^,^^
+^E_02_0_0016_0000_Name^,^Brage workers^
+^E_02_0_0016_0000_NameDetail^,^^
+^E_02_0_0017_0000_Name^,^Brage fighters^
+^E_02_0_0017_0000_NameDetail^,^^
+^E_02_0_0018_0000_Name^,^Brage Hunter^
+^E_02_0_0018_0000_NameDetail^,^^
+^E_02_0_0021_0000_Name^,^Xiamen Brage^
+^E_02_0_0021_0000_NameDetail^,^^
+^E_02_1_0030_0000_Name^,^wild boar^
+^E_02_1_0030_0000_NameDetail^,^^
+^E_51_0_0001_0000_Name^,^Yeti warriors^
+^E_51_0_0001_0000_NameDetail^,^^
+^E_51_0_0002_0000_Name^,^Yeti Shaman^
+^E_51_0_0002_0000_NameDetail^,^^
+^E_51_0_0013_0000_Name^,^yeti hunters^
+^E_51_0_0013_0000_NameDetail^,^^
+^E_51_0_0019_0000_Name^,^Yeti colon Santin^
+^E_51_0_0019_0000_NameDetail^,^^
+^E_02_0_0032_0000_Name^,^Brage Beast Trainer^
+^E_02_0_0032_0000_NameDetail^,^^
+^E_01_0_0007_0000_Name^,^Rhino guards^
+^E_01_0_0007_0000_NameDetail^,^^
+^E_01_0_0008_0000_Name^,^Rhino guards^
+^E_01_0_0008_0000_NameDetail^,^^
+^E_01_0_0009_0000_Name^,^Rhino fighters^
+^E_01_0_0009_0000_NameDetail^,^^
+^E_51_0_0020_0000_Name^,^yeti hunters^
+^E_51_0_0020_0000_NameDetail^,^^
+^E_51_0_0015_0000_Name^,^Yeti warriors^
+^E_51_0_0015_0000_NameDetail^,^^
+^E_51_0_0016_0000_Name^,^Yeti Shaman^
+^E_51_0_0016_0000_NameDetail^,^^
+^E_02_0_0036_0000_Name^,^Brage workers^
+^E_02_0_0036_0000_NameDetail^,^^
+^E_51_5_0001_0000_Name^,^furnace^
+^E_51_5_0001_0000_NameDetail^,^^
+^E_02_0_0037_0000_Name^,^Brage workers^
+^E_02_0_0037_0000_NameDetail^,^^
+^E_02_0_0040_0000_Name^,^Brage predatory warrior^
+^E_02_0_0040_0000_NameDetail^,^^
+^E_02_0_0041_0000_Name^,^Xiamen Brage^
+^E_02_0_0041_0000_NameDetail^,^^
+^E_02_0_0042_0000_Name^,^Brage home to the mighty^
+^E_02_0_0042_0000_NameDetail^,^^
+^E_02_0_0043_0000_Name^,^Brage workers^
+^E_02_0_0043_0000_NameDetail^,^^
+^E_02_0_0044_0000_Name^,^Brage workers^
+^E_02_0_0044_0000_NameDetail^,^^
+^E_02_0_0045_0000_Name^,^Brage workers^
+^E_02_0_0045_0000_NameDetail^,^^
+^E_02_0_0046_0000_Name^,^Brage fighters^
+^E_02_0_0046_0000_NameDetail^,^^
+^E_02_0_0016_0001_Name^,^Brage workers^
+^E_02_0_0016_0001_NameDetail^,^^
+^E_01_4_0637_0000_Name^,^head-to-Rex^
+^E_01_4_0637_0000_NameDetail^,^^
+^E_02_0_1022_0000_Name^,^Brage supervisor^
+^E_02_0_1022_0000_NameDetail^,^^
+^E_02_0_0644_0000_Name^,^ancient ruins Ghost^
+^E_02_0_0644_0000_NameDetail^,^^
+^E_02_0_0012_0001_Name^,^Brage Scout^
+^E_02_0_0012_0001_NameDetail^,^^
+^E_02_0_0661_0000_Name^,^Brage penetration promoting^
+^E_02_0_0661_0000_NameDetail^,^^
+^E_02_0_0017_0002_Name^,^Brage fighters^
+^E_02_0_0017_0002_NameDetail^,^^
+^E_02_0_0653_0000_Name^,^extinction early^
+^E_02_0_0653_0000_NameDetail^,^^
+^E_02_0_0654_0000_Name^,^sheen wood nymph^
+^E_02_0_0654_0000_NameDetail^,^^
+^E_02_0_0654_0001_Name^,^sheen wood nymph^
+^E_02_0_0654_0001_NameDetail^,^^
+^E_02_0_0655_0000_Name^,^Fairy Queen elkwineseu^
+^E_02_0_0655_0000_NameDetail^,^^
+^E_02_0_0656_0000_Name^,^holy land managers Ghost^
+^E_02_0_0656_0000_NameDetail^,^^
+^E_02_0_0657_0000_Name^,^Brage collected tout^
+^E_02_0_0657_0000_NameDetail^,^^
+^E_02_0_0658_0000_Name^,^Brage combat troops home^
+^E_02_0_0658_0000_NameDetail^,^^
+^E_02_0_0658_0001_Name^,^Brage combat troops home^
+^E_02_0_0658_0001_NameDetail^,^^
+^E_02_0_0659_0000_Name^,^Brage chiefs^
+^E_02_0_0659_0000_NameDetail^,^^
+^E_02_0_0660_0000_Name^,^spirit of the cold crystal^
+^E_02_0_0660_0000_NameDetail^,^^
+^E_02_1_0007_0003_Name^,^Gray Wolf sights^
+^E_02_1_0007_0003_NameDetail^,^^
+^E_02_0_0021_0001_Name^,^Xiamen Brage^
+^E_02_0_0021_0001_NameDetail^,^^
+^E_02_0_0661_0001_Name^,^Brage penetration disease^
+^E_02_0_0661_0001_NameDetail^,^^
+^E_02_0_0662_0000_Name^,^Brage collected tout^
+^E_02_0_0662_0000_NameDetail^,^^
+^E_02_1_0344_0000_Name^,^red fox sites^
+^E_02_1_0344_0000_NameDetail^,^^
+^E_02_0_0033_0001_Name^,^Brage workers^
+^E_02_0_0033_0001_NameDetail^,^^
+^E_02_0_0036_0001_Name^,^Brage workers^
+^E_02_0_0036_0001_NameDetail^,^^
+^E_02_0_0037_0001_Name^,^Brage workers^
+^E_02_0_0037_0001_NameDetail^,^^
+^E_02_0_0045_0001_Name^,^Brage workers^
+^E_02_0_0045_0001_NameDetail^,^^
+^E_02_0_0607_0000_Name^,^Wild boar cub^
+^E_02_0_0607_0000_NameDetail^,^^
+^E_02_0_0012_0002_Name^,^Brage Scout^
+^E_02_0_0012_0002_NameDetail^,^^
+^E_02_5_0001_0002_Name^,^Brage Crossbow^
+^E_02_5_0001_0002_NameDetail^,^^
+^E_02_0_0043_0001_Name^,^Brage Crossbow repair Bottle^
+^E_02_0_0043_0001_NameDetail^,^^
+^E_02_0_0654_0002_Name^,^wild wood nymph^
+^E_02_0_0654_0002_NameDetail^,^^
+^E_02_0_0045_0002_Name^,^Brage home workers^
+^E_02_0_0045_0002_NameDetail^,^^
+^E_02_0_0662_0001_Name^,^Brage collected tout^
+^E_02_0_0662_0001_NameDetail^,^^
+^E_02_0_0044_0001_Name^,^Brage home workers^
+^E_02_0_0044_0001_NameDetail^,^^
+^E_02_0_0043_0002_Name^,^Brage home workers^
+^E_02_0_0043_0002_NameDetail^,^^
+^E_02_0_0658_0002_Name^,^Paladin Brage disease^
+^E_02_0_0658_0002_NameDetail^,^^
+^E_50_0_0666_0000_Name^,^SmoldeRing Skeleton Soldier^
+^E_50_0_0666_0000_NameDetail^,^^
+^E_50_0_0666_0001_Name^,^SmoldeRing Skeleton Soldier^
+^E_50_0_0666_0001_NameDetail^,^^
+^E_50_0_0667_0000_Name^,^SmoldeRing Skeleton Knight^
+^E_50_0_0667_0000_NameDetail^,^^
+^E_50_0_0667_0001_Name^,^SmoldeRing Skeleton Knight^
+^E_50_0_0667_0001_NameDetail^,^^
+^E_50_0_0718_0000_Name^,^bulgiun Seorin Ghost^
+^E_50_0_0718_0000_NameDetail^,^^
+^E_50_0_0613_0000_Name^,^Rock Fire Guard^
+^E_50_0_0613_0000_NameDetail^,^^
+^E_50_0_0650_0000_Name^,^Fire Bomb Rock^
+^E_50_0_0650_0000_NameDetail^,^^
+^E_50_0_0648_0000_Name^,^Ancient Fire Golem^
+^E_50_0_0648_0000_NameDetail^,^^
+^E_02_1_0344_0001_Name^,^red fox^
+^E_02_1_0344_0001_NameDetail^,^^
+^E_02_0_0309_0000_Name^,^man-eating wolf Shah frit^
+^E_02_0_0309_0000_NameDetail^,^^
+^E_02_0_0309_0001_Name^,^Females program nisya^
+^E_02_0_0309_0001_NameDetail^,^wolf head^
+^E_02_0_0309_0002_Name^,^gray wolf head^
+^E_02_0_0309_0002_NameDetail^,^^
+^E_02_0_0676_0000_Name^,^ghost spider^
+^E_02_0_0676_0000_NameDetail^,^^
+^E_02_0_0676_0001_Name^,^Giant Spider taseulran^
+^E_02_0_0676_0001_NameDetail^,^^
+^E_03_0_0676_0000_Name^,^gray spider^
+^E_03_0_0676_0000_NameDetail^,^^
+^E_03_0_0671_0000_Name^,^reindeer^
+^E_03_0_0671_0000_NameDetail^,^^
+^E_03_0_0083_0000_Name^,^hungry bear^
+^E_03_0_0083_0000_NameDetail^,^^
+^E_03_0_0083_0001_Name^,^true head shots^
+^E_03_0_0083_0001_NameDetail^,^^
+^E_03_0_0309_0000_Name^,^wounded wolf gray^
+^E_03_0_0309_0000_NameDetail^,^^
+^E_03_0_0309_0001_Name^,^Dark Assassin Wolf^
+^E_03_0_0309_0001_NameDetail^,^^
+^E_03_0_0309_0002_Name^,^Penrith harsh Assassins^
+^E_03_0_0309_0002_NameDetail^,^^
+^E_03_0_0700_0000_Name^,^werewolf variant (man)^
+^E_03_0_0700_0000_NameDetail^,^^
+^E_03_0_0702_0000_Name^,^werewolf variant (woman)^
+^E_03_0_0702_0000_NameDetail^,^^
+^E_03_0_0700_0001_Name^,^werewolves raiders^
+^E_03_0_0700_0001_NameDetail^,^^
+^E_03_0_0702_0001_Name^,^Werewolf Assassin^
+^E_03_0_0702_0001_NameDetail^,^^
+^E_03_0_0700_0002_Name^,^Werewolf Hunter^
+^E_03_0_0700_0002_NameDetail^,^^
+^E_03_0_0701_0000_Name^,^Jack Hunter colon^
+^E_03_0_0701_0000_NameDetail^,^^
+^E_03_0_0309_0003_Name^,^black Assassin hounds fresh^
+^E_03_0_0309_0003_NameDetail^,^^
+^E_03_0_0309_0004_Name^,^Assassin of Fear Wolf^
+^E_03_0_0309_0004_NameDetail^,^^
+^E_03_0_0606_0000_Name^,^Big Boar hoof^
+^E_03_0_0606_0000_NameDetail^,^^
+^E_03_0_0671_0001_Name^,^modify reindeer antlers^
+^E_03_0_0671_0001_NameDetail^,^^
+^E_03_0_0309_0005_Name^,^harsh Assassins Wolf^
+^E_03_0_0309_0005_NameDetail^,^^
+^E_03_0_0694_0000_Name^,^La Beanie tribe shoplifters^
+^E_03_0_0694_0000_NameDetail^,^^
+^E_03_0_0682_0000_Name^,^bee^
+^E_03_0_0682_0000_NameDetail^,^^
+^E_03_0_0682_0001_Name^,^conquer disease^
+^E_03_0_0682_0001_NameDetail^,^^
+^E_03_0_0115_0000_Name^,^hippo frog^
+^E_03_0_0115_0000_NameDetail^,^^
+^E_03_0_0672_0000_Name^,^black cow^
+^E_03_0_0672_0000_NameDetail^,^^
+^E_03_0_0083_0002_Name^,^wild bear^
+^E_03_0_0083_0002_NameDetail^,^^
+^E_03_0_0606_0001_Name^,^big boar^
+^E_03_0_0606_0001_NameDetail^,^^
+^E_03_0_0041_0000_Name^,^Pelican big mouth^
+^E_03_0_0041_0000_NameDetail^,^^
+^E_03_0_0245_0000_Name^,^Black Panther^
+^E_03_0_0245_0000_NameDetail^,^^
+^E_03_0_0245_0001_Name^,^cha chi-eyed^
+^E_03_0_0245_0001_NameDetail^,^^
+^E_03_0_0900_0000_Name^,^The farmer is a vampire^
+^E_03_0_0900_0000_NameDetail^,^^
+^E_03_0_0910_0000_Name^,^vampire woman has been^
+^E_03_0_0910_0000_NameDetail^,^^
+^E_03_0_0900_0001_Name^,^Vampire Inspector General Hector Wilkinson^
+^E_03_0_0900_0001_NameDetail^,^^
+^E_03_0_0672_0001_Name^,^angry buffalo^
+^E_03_0_0672_0001_NameDetail^,^^
+^E_03_0_1010_0000_Name^,^reconnaissance tout^
+^E_03_0_1010_0000_NameDetail^,^followers of the Dark^
+^E_03_0_1000_0000_Name^,^combat troops^
+^E_03_0_1000_0000_NameDetail^,^followers of the Dark^
+^E_03_0_1010_0001_Name^,^Jason Clermont key^
+^E_03_0_1010_0001_NameDetail^,^followers of the Dark^
+^E_03_0_0682_0002_Name^,^Amber Wasp^
+^E_03_0_0682_0002_NameDetail^,^^
+^E_03_0_0682_0003_Name^,^Wasps soldiers pumpkin^
+^E_03_0_0682_0003_NameDetail^,^^
+^E_03_0_0682_0004_Name^,^Pumpkin Queen Wasp kwinbi^
+^E_03_0_0682_0004_NameDetail^,^^
+^E_03_0_0694_0001_Name^,^La Beanie group thief^
+^E_03_0_0694_0001_NameDetail^,^^
+^E_03_0_0900_0002_Name^,^vampire guards^
+^E_03_0_0900_0002_NameDetail^,^^
+^E_03_0_0910_0001_Name^,^Vampire maids^
+^E_03_0_0910_0001_NameDetail^,^^
+^E_03_0_0711_0000_Name^,^poltergeist^
+^E_03_0_0711_0000_NameDetail^,^^
+^E_03_0_0900_0003_Name^,^Butler Ram beurandeu^
+^E_03_0_0900_0003_NameDetail^,^^
+^E_03_0_0902_0000_Name^,^Chef's nine host^
+^E_03_0_0902_0000_NameDetail^,^^
+^E_03_0_0714_0000_Name^,^Countess Lisa Karl reang^
+^E_03_0_0714_0000_NameDetail^,^^
+^E_03_0_0900_0004_Name^,^Count Karl reang^
+^E_03_0_0900_0004_NameDetail^,^^
+^E_03_0_1000_0001_Name^,^assault bottle^
+^E_03_0_1000_0001_NameDetail^,^followers of the Dark^
+^E_03_0_1000_0002_Name^,^Trainer^
+^E_03_0_1000_0002_NameDetail^,^followers of the Dark^
+^E_03_0_0309_0006_Name^,^domesticated wolf^
+^E_03_0_0309_0006_NameDetail^,^^
+^E_03_0_1010_0002_Name^,^watcher^
+^E_03_0_1010_0002_NameDetail^,^followers of the Dark^
+^E_03_0_1001_0000_Name^,^McSpazatron.Okay Klee key^
+^E_03_0_1001_0000_NameDetail^,^followers of the Dark^
+^E_03_0_1001_0001_Name^,^Tony Clegg Key^
+^E_03_0_1001_0001_NameDetail^,^followers of the Dark^
+^E_03_0_0614_0000_Name^,^Yeti fighter^
+^E_03_0_0614_0000_NameDetail^,^^
+^E_03_0_0616_0000_Name^,^Yeti scouting party^
+^E_03_0_0616_0000_NameDetail^,^^
+^E_03_0_0615_0000_Name^,^Yeti Shaman^
+^E_03_0_0615_0000_NameDetail^,^^
+^E_03_0_0611_0000_Name^,^Frost Spider^
+^E_03_0_0611_0000_NameDetail^,^^
+^E_03_0_0695_0000_Name^,^decayed zombie^
+^E_03_0_0695_0000_NameDetail^,^^
+^E_03_0_0695_0001_Name^,^body burn eating^
+^E_03_0_0695_0001_NameDetail^,^^
+^E_03_0_0676_0001_Name^,^spider body^
+^E_03_0_0676_0001_NameDetail^,^^
+^E_03_0_0718_0000_Name^,^maids of the high king^
+^E_03_0_0718_0000_NameDetail^,^^
+^E_03_0_0718_0001_Name^,^sweetheart Lena^
+^E_03_0_0718_0001_NameDetail^,^^
+^E_03_0_1100_0000_Name^,^Lesser Demon contractors^
+^E_03_0_1100_0000_NameDetail^,^Wizard of Darkness^
+^E_03_0_0720_0000_Name^,^imp of darkness^
+^E_03_0_0720_0000_NameDetail^,^^
+^E_03_0_1110_0000_Name^,^priests of bright red blood Camilla^
+^E_03_0_1110_0000_NameDetail^,^Wizard of Darkness^
+^E_03_0_0666_0000_Name^,^Paladin Skull^
+^E_03_0_0666_0000_NameDetail^,^^
+^E_03_0_0666_0001_Name^,^Skull SS ahsyuram chapter^
+^E_03_0_0666_0001_NameDetail^,^^
+^E_03_0_0722_0000_Name^,^It is said the Great Khan^
+^E_03_0_0722_0000_NameDetail^,^^
+^E_03_0_0696_0000_Name^,^Whelp^
+^E_03_0_0696_0000_NameDetail^,^flame ryongjok^
+^E_03_0_1010_0003_Name^,^herald greater Pyrgos robbers^
+^E_03_0_1010_0003_NameDetail^,^^
+^E_03_0_1000_0003_Name^,^size Pyrgos robbers ambushed the sportsman^
+^E_03_0_1000_0003_NameDetail^,^^
+^E_03_0_1010_0004_Name^,^pokpabyeong^
+^E_03_0_1010_0004_NameDetail^,^followers of the Dark^
+^E_03_0_1000_0004_Name^,^sniper^
+^E_03_0_1000_0004_NameDetail^,^followers of the Dark^
+^E_03_0_1000_0005_Name^,^Advanced Practitioner^
+^E_03_0_1000_0005_NameDetail^,^followers of the Dark^
+^E_03_0_1002_0000_Name^,^ruthless Zerah Nin^
+^E_03_0_1002_0000_NameDetail^,^followers of the Dark^
+^E_03_0_1300_0000_Name^,^Cara de Pirate yeonrakbyeong^
+^E_03_0_1300_0000_NameDetail^,^^
+^E_02_0_0676_0002_Name^,^tarantula sites^
+^E_02_0_0676_0002_NameDetail^,^^
+^E_01_5_0001_0000_Name^,^between the ruling chief seats^
+^E_01_5_0001_0000_NameDetail^,^^
+^E_02_1_0606_0000_Name^,^molar angry boar^
+^E_02_1_0606_0000_NameDetail^,^^
+^E_02_1_0344_0002_Name^,^angry red fox^
+^E_02_1_0344_0002_NameDetail^,^^
+^E_02_0_0718_0000_Name^,^ghost of an ancient religious^
+^E_02_0_0718_0000_NameDetail^,^^
+^E_02_0_0013_0001_Name^,^sheen wood Wisp^
+^E_02_0_0013_0001_NameDetail^,^^
+^E_50_0_0667_0002_Name^,^SmoldeRing Skeleton Knight-Commander^
+^E_50_0_0667_0002_NameDetail^,^^
+^E_50_0_0666_0003_Name^,^Sleeping Skeleton Soldier^
+^E_50_0_0666_0003_NameDetail^,^^
+^E_01_0_0245_0000_Name^,^Leo^
+^E_01_0_0245_0000_NameDetail^,^^
+^E_03_0_0697_0000_Name^,^Mori four lakes Agur^
+^E_03_0_0697_0000_NameDetail^,^^
+^E_03_0_0676_0002_Name^,^ferocious fur Spider^
+^E_03_0_0676_0002_NameDetail^,^^
+^E_03_0_0671_0002_Name^,^white mane reindeer^
+^E_03_0_0671_0002_NameDetail^,^^
+^E_03_0_0083_0003_Name^,^brown bear^
+^E_03_0_0083_0003_NameDetail^,^^
+^E_03_0_0309_0007_Name^,^Gray Wolf Mountain Surf^
+^E_03_0_0309_0007_NameDetail^,^^
+^E_03_0_0671_0003_Name^,^modify reindeer antlers^
+^E_03_0_0671_0003_NameDetail^,^^
+^E_03_0_0682_0005_Name^,^Bumblebee ferocious^
+^E_03_0_0682_0005_NameDetail^,^^
+^E_03_0_0013_0000_Name^,^blue Wisp^
+^E_03_0_0013_0000_NameDetail^,^^
+^E_03_0_0672_0002_Name^,^bison shag^
+^E_03_0_0672_0002_NameDetail^,^^
+^E_03_0_0682_0006_Name^,^soldiers Bumblebee^
+^E_03_0_0682_0006_NameDetail^,^^
+^E_03_0_0672_0003_Name^,^cow became Berserker^
+^E_03_0_0672_0003_NameDetail^,^^
+^E_03_0_0692_0000_Name^,^Turtle Lake Four Mori^
+^E_03_0_0692_0000_NameDetail^,^^
+^E_03_0_0344_0000_Name^,^dark red fox^
+^E_03_0_0344_0000_NameDetail^,^^
+^E_03_0_0687_0000_Name^,^yulmogi^
+^E_03_0_0687_0000_NameDetail^,^^
+^E_03_0_0245_0002_Name^,^big Black Panther^
+^E_03_0_0245_0002_NameDetail^,^^
+^E_51_0_1201_0000_Name^,^frozen zombie^
+^E_51_0_1201_0000_NameDetail^,^^
+^E_51_0_1210_0000_Name^,^frozen zombie^
+^E_51_0_1210_0000_NameDetail^,^^
+^E_51_0_0611_0000_Name^,^Frost Spider^
+^E_51_0_0611_0000_NameDetail^,^^
+^E_51_0_0616_0000_Name^,^spider yeti trainer^
+^E_51_0_0616_0000_NameDetail^,^^
+^E_03_0_0700_0003_Name^,^Young Mok Jeff^
+^E_03_0_0700_0003_NameDetail^,^^
+^E_03_0_0692_0001_Name^,^Ownership of the lake Kell Gaborone (giant tortoises)^
+^E_03_0_0692_0001_NameDetail^,^^
+^E_51_0_0019_0001_Name^,^Yeti colon Santin^
+^E_51_0_0019_0001_NameDetail^,^^
+^E_51_0_1500_0000_Name^,^Dark Summoner^
+^E_51_0_1500_0000_NameDetail^,^^
+^E_03_0_0671_0004_Name^,^reindeer^
+^E_03_0_0671_0004_NameDetail^,^^
+^E_03_0_0671_0005_Name^,^white mane reindeer^
+^E_03_0_0671_0005_NameDetail^,^^
+^E_03_0_0671_0006_Name^,^reindeer^
+^E_03_0_0671_0006_NameDetail^,^^
+^E_03_0_0083_0004_Name^,^hungry bear^
+^E_03_0_0083_0004_NameDetail^,^^
+^E_03_0_0083_0005_Name^,^brown bear^
+^E_03_0_0083_0005_NameDetail^,^^
+^E_03_0_0309_0008_Name^,^wounded wolf gray^
+^E_03_0_0309_0008_NameDetail^,^^
+^E_03_0_0309_0009_Name^,^Dark Assassin Wolf^
+^E_03_0_0309_0009_NameDetail^,^^
+^E_03_0_0694_0002_Name^,^La Beanie family strength^
+^E_03_0_0694_0002_NameDetail^,^^
+^E_03_0_0694_0003_Name^,^La Beanie family nalgangdo^
+^E_03_0_0694_0003_NameDetail^,^^
+^E_03_0_0694_0004_Name^,^Levy wangdoduk City^
+^E_03_0_0694_0004_NameDetail^,^^
+^E_52_0_0900_0000_Name^,^Thane Vampire^
+^E_52_0_0900_0000_NameDetail^,^^
+^E_52_0_0910_0000_Name^,^hungry maid to avoid^
+^E_52_0_0910_0000_NameDetail^,^^
+^E_52_0_0900_0001_Name^,^vampire guards encouraged^
+^E_52_0_0900_0001_NameDetail^,^^
+^E_52_0_1100_0000_Name^,^shaman curse^
+^E_52_0_1100_0000_NameDetail^,^Wizard of Darkness^
+^E_03_0_0700_0004_Name^,^werewolf variant^
+^E_03_0_0700_0004_NameDetail^,^^
+^E_03_0_0309_0010_Name^,^Assassin hounds^
+^E_03_0_0309_0010_NameDetail^,^^
+^E_03_0_0700_0005_Name^,^Werewolf Hunter^
+^E_03_0_0700_0005_NameDetail^,^^
+^E_03_0_0309_0011_Name^,^Dark Assassin Wolf^
+^E_03_0_0309_0011_NameDetail^,^^
+^E_03_0_0671_0007_Name^,^modify reindeer antlers^
+^E_03_0_0671_0007_NameDetail^,^^
+^E_03_0_0671_0008_Name^,^modify reindeer antlers^
+^E_03_0_0671_0008_NameDetail^,^^
+^E_03_0_0687_0001_Name^,^kittens Hydrus^
+^E_03_0_0687_0001_NameDetail^,^^
+^E_03_0_0687_0002_Name^,^water snake^
+^E_03_0_0687_0002_NameDetail^,^^
+^E_03_0_0013_0001_Name^,^blue Wisp^
+^E_03_0_0013_0001_NameDetail^,^^
+^E_03_0_0900_0005_Name^,^The young man is a vampire^
+^E_03_0_0900_0005_NameDetail^,^^
+^E_03_0_0900_0006_Name^,^The farmer is a vampire^
+^E_03_0_0900_0006_NameDetail^,^^
+^E_03_0_0910_0002_Name^,^vampire woman has been^
+^E_03_0_0910_0002_NameDetail^,^^
+^E_03_0_0910_0003_Name^,^vampire^
+^E_03_0_0910_0003_NameDetail^,^^
+^E_03_0_1000_0006_Name^,^size Pyrgos robbers fighter^
+^E_03_0_1000_0006_NameDetail^,^^
+^E_03_0_0900_0007_Name^,^Vampire heavy bottle^
+^E_03_0_0900_0007_NameDetail^,^^
+^E_03_0_0900_0008_Name^,^vampire servant^
+^E_03_0_0900_0008_NameDetail^,^^
+^E_03_0_0900_0009_Name^,^Vampire heavy bottle^
+^E_03_0_0900_0009_NameDetail^,^^
+^E_03_0_0900_0010_Name^,^vampire guards^
+^E_03_0_0900_0010_NameDetail^,^^
+^E_03_0_0900_0011_Name^,^Vampire goalkeeper Marlon^
+^E_03_0_0900_0011_NameDetail^,^^
+^E_03_0_0611_0001_Name^,^Frost Spider^
+^E_03_0_0611_0001_NameDetail^,^^
+^E_03_0_1000_0007_Name^,^gungbyeong^
+^E_03_0_1000_0007_NameDetail^,^followers of the Dark^
+^E_03_0_1000_0008_Name^,^therapist^
+^E_03_0_1000_0008_NameDetail^,^followers of the Dark^
+^E_03_0_0671_0009_Name^,^major modification reindeer antlers^
+^E_03_0_0671_0009_NameDetail^,^^
+^E_03_5_0001_0000_Name^,^Shining Tree^
+^E_03_5_0001_0000_NameDetail^,^^
+^E_03_0_0687_0003_Name^,^green snake^
+^E_03_0_0687_0003_NameDetail^,^^
+^E_03_0_0687_0004_Name^,^Snakes^
+^E_03_0_0687_0004_NameDetail^,^^
+^E_03_0_0687_0005_Name^,^water snake^
+^E_03_0_0687_0005_NameDetail^,^^
+^E_03_0_0687_0006_Name^,^Venom Snakes^
+^E_03_0_0687_0006_NameDetail^,^^
+^E_03_0_0687_0007_Name^,^Venom Snakes^
+^E_03_0_0687_0007_NameDetail^,^^
+^E_03_0_0344_0001_Name^,^dark red fox^
+^E_03_0_0344_0001_NameDetail^,^^
+^E_03_0_0245_0003_Name^,^long fangs Black Panther^
+^E_03_0_0245_0003_NameDetail^,^^
+^E_03_0_0245_0004_Name^,^long fangs Black Panther^
+^E_03_0_0245_0004_NameDetail^,^^
+^E_03_0_0672_0004_Name^,^became wild bull^
+^E_03_0_0672_0004_NameDetail^,^^
+^E_03_0_0672_0005_Name^,^became wild bull^
+^E_03_0_0672_0005_NameDetail^,^^
+^E_03_0_0700_0006_Name^,^Werewolf Hunter^
+^E_03_0_0700_0006_NameDetail^,^^
+^E_03_0_0702_0002_Name^,^Werewolf Assassin^
+^E_03_0_0702_0002_NameDetail^,^^
+^E_03_0_0700_0007_Name^,^werewolves raiders^
+^E_03_0_0700_0007_NameDetail^,^^
+^E_03_0_0900_0012_Name^,^The young man is a vampire^
+^E_03_0_0900_0012_NameDetail^,^^
+^E_03_0_0900_0013_Name^,^The farmer is a vampire^
+^E_03_0_0900_0013_NameDetail^,^^
+^E_03_0_0900_0014_Name^,^The farmer is a vampire^
+^E_03_0_0900_0014_NameDetail^,^^
+^E_03_0_0900_0015_Name^,^vampire load of Inspector General^
+^E_03_0_0900_0015_NameDetail^,^^
+^E_03_0_0900_0016_Name^,^vampire guards^
+^E_03_0_0900_0016_NameDetail^,^^
+^E_03_0_0666_0002_Name^,^Paladin Skull^
+^E_03_0_0666_0002_NameDetail^,^^
+^E_03_0_1100_0001_Name^,^executor^
+^E_03_0_1100_0001_NameDetail^,^Wizard of Darkness^
+^E_03_0_0695_0002_Name^,^decayed zombie sorcerer^
+^E_03_0_0695_0002_NameDetail^,^^
+^E_51_0_0013_0001_Name^,^coward Yeti^
+^E_51_0_0013_0001_NameDetail^,^^
+^E_51_0_0019_0002_Name^,^Yeti colon Santin^
+^E_51_0_0019_0002_NameDetail^,^^
+^E_51_0_0015_0001_Name^,^Yeti warriors^
+^E_51_0_0015_0001_NameDetail^,^^
+^E_52_0_0910_0001_Name^,^flocking to crave blood.^
+^E_52_0_0910_0001_NameDetail^,^^
+^E_52_0_0900_0002_Name^,^vampire Sentinel^
+^E_52_0_0900_0002_NameDetail^,^^
+^E_52_0_1100_0001_Name^,^cursed bailiff^
+^E_52_0_1100_0001_NameDetail^,^Wizard of Darkness^
+^E_52_0_0900_0003_Name^,^Vampire senior officers^
+^E_52_0_0900_0003_NameDetail^,^^
+^E_00_0_0686_0000_Name^,^Eagle^
+^E_00_0_0686_0000_NameDetail^,^^
+^E_00_0_0083_0000_Name^,^Bear^
+^E_00_0_0083_0000_NameDetail^,^^
+^E_00_0_0602_0000_Name^,^Brage Scout^
+^E_00_0_0602_0000_NameDetail^,^^
+^E_00_0_0704_0000_Name^,^The Firebird^
+^E_00_0_0704_0000_NameDetail^,^^
+^E_00_0_0245_0000_Name^,^Leo^
+^E_00_0_0245_0000_NameDetail^,^^
+^E_03_0_1210_0001_Name^,^Corruption woman zombie^
+^E_03_0_1210_0001_NameDetail^,^^
+^E_03_0_1210_0002_Name^,^body burn eating^
+^E_03_0_1210_0002_NameDetail^,^^
+^E_03_0_0083_0006_Name^,^Three Toes Black Bear^
+^E_03_0_0083_0006_NameDetail^,^^
+^E_03_0_0083_0007_Name^,^Three Toes Black Bear^
+^E_03_0_0083_0007_NameDetail^,^^
+^E_04_0_0309_0000_Name^,^quick-witted Blue Wolf^
+^E_04_0_0309_0000_NameDetail^,^^
+^E_04_0_0309_0001_Name^,^Wild Blue Wolf^
+^E_04_0_0309_0001_NameDetail^,^^
+^E_04_0_0309_0002_Name^,^Wolf King Shaka la^
+^E_04_0_0309_0002_NameDetail^,^^
+^E_04_0_0691_0000_Name^,^Turtle Rock^
+^E_04_0_0691_0000_NameDetail^,^^
+^E_04_0_0691_0001_Name^,^old monggeu monggeu^
+^E_04_0_0691_0001_NameDetail^,^^
+^E_04_0_0041_0000_Name^,^sandy shore of Pelican^
+^E_04_0_0041_0000_NameDetail^,^^
+^E_04_0_0678_0000_Name^,^sand crab Shield^
+^E_04_0_0678_0000_NameDetail^,^^
+^E_04_0_1300_0000_Name^,^Cara de Pirate deckhand^
+^E_04_0_1300_0000_NameDetail^,^^
+^E_04_0_1300_0001_Name^,^Cara de Pirate mate^
+^E_04_0_1300_0001_NameDetail^,^^
+^E_04_0_1302_0000_Name^,^Cara de Pirate Treasure Watcher^
+^E_04_0_1302_0000_NameDetail^,^^
+^E_04_0_1300_0002_Name^,^Cara de Pirate Watchtower disease^
+^E_04_0_1300_0002_NameDetail^,^^
+^E_04_0_1300_0003_Name^,^Cara de Pirate Watchtower advanced disease^
+^E_04_0_1300_0003_NameDetail^,^^
+^E_04_0_1310_0000_Name^,^Cara de Pirate Swashbuckler^
+^E_04_0_1310_0000_NameDetail^,^^
+^E_04_0_1310_0001_Name^,^Cara de Pirate Swashbuckler Senior^
+^E_04_0_1310_0001_NameDetail^,^^
+^E_04_0_1310_0002_Name^,^Cara de Pirate Ranger^
+^E_04_0_1310_0002_NameDetail^,^^
+^E_04_0_1310_0003_Name^,^Cara de Pirate Senior Ranger^
+^E_04_0_1310_0003_NameDetail^,^^
+^E_04_0_1301_0000_Name^,^Cara de Pirate Octopus Trainer^
+^E_04_0_1301_0000_NameDetail^,^^
+^E_04_0_0677_0000_Name^,^rock octopus^
+^E_04_0_0677_0000_NameDetail^,^^
+^E_04_0_0180_0000_Name^,^dwarf pirates Krill^
+^E_04_0_0180_0000_NameDetail^,^^
+^E_04_0_1302_0001_Name^,^Bi ruthless^
+^E_04_0_1302_0001_NameDetail^,^^
+^E_04_0_1300_0004_Name^,^A thorough Bahru present^
+^E_04_0_1300_0004_NameDetail^,^^
+^E_04_0_1300_0005_Name^,^Merle boat first mate^
+^E_04_0_1300_0005_NameDetail^,^^
+^E_04_0_1301_0001_Name^,^Pirate King at Karnak^
+^E_04_0_1301_0001_NameDetail^,^^
+^E_04_0_1510_0000_Name^,^Frost Golem wizard^
+^E_04_0_1510_0000_NameDetail^,^^
+^E_04_0_0691_0002_Name^,^autumnal Turtle Rock^
+^E_04_0_0691_0002_NameDetail^,^^
+^E_04_0_0041_0001_Name^,^long beak pelican^
+^E_04_0_0041_0001_NameDetail^,^^
+^E_04_0_0041_0002_Name^,^Steel Chin Pelican^
+^E_04_0_0041_0002_NameDetail^,^^
+^E_04_0_0041_0003_Name^,^Perry sat biting beak^
+^E_04_0_0041_0003_NameDetail^,^^
+^E_04_0_0612_0000_Name^,^merciless frost Golem^
+^E_04_0_0612_0000_NameDetail^,^^
+^E_04_0_0683_0000_Name^,^mureo mijok to Spearman^
+^E_04_0_0683_0000_NameDetail^,^^
+^E_04_0_0683_0001_Name^,^mureo mijok gungbyeong^
+^E_04_0_0683_0001_NameDetail^,^^
+^E_04_0_0684_0000_Name^,^mureo mijok fighters^
+^E_04_0_0684_0000_NameDetail^,^^
+^E_04_0_0684_0001_Name^,^mureo mijok assault bottle^
+^E_04_0_0684_0001_NameDetail^,^^
+^E_04_0_0683_0002_Name^,^mureo mijok Priest^
+^E_04_0_0683_0002_NameDetail^,^^
+^E_04_0_0683_0003_Name^,^gungbyeong colon or pose^
+^E_04_0_0683_0003_NameDetail^,^^
+^E_04_0_0685_0000_Name^,^Colon said Mion assault^
+^E_04_0_0685_0000_NameDetail^,^^
+^E_04_0_0683_0004_Name^,^high priest of Lake Verna^
+^E_04_0_0683_0004_NameDetail^,^^
+^E_04_0_0685_0001_Name^,^Kerr came patriarch^
+^E_04_0_0685_0001_NameDetail^,^^
+^E_04_0_0083_0000_Name^,^ferocious grizzly^
+^E_04_0_0083_0000_NameDetail^,^^
+^E_04_0_0083_0001_Name^,^jipchae enough wool^
+^E_04_0_0083_0001_NameDetail^,^^
+^E_04_0_0245_0000_Name^,^snow tiger^
+^E_04_0_0245_0000_NameDetail^,^^
+^E_04_0_0245_0001_Name^,^Krueger Ice Fang^
+^E_04_0_0245_0001_NameDetail^,^^
+^E_04_0_0697_0000_Name^,^salt sand Agur workers^
+^E_04_0_0697_0000_NameDetail^,^^
+^E_04_0_0697_0001_Name^,^Agur salt sand hunting sportsman^
+^E_04_0_0697_0001_NameDetail^,^^
+^E_04_0_0697_0002_Name^,^salt sand Agur fighter^
+^E_04_0_0697_0002_NameDetail^,^^
+^E_04_0_0697_0003_Name^,^Agur salt sand sorcerer^
+^E_04_0_0697_0003_NameDetail^,^^
+^E_04_0_0697_0004_Name^,^Merced head Glock^
+^E_04_0_0697_0004_NameDetail^,^^
+^E_04_0_0678_0001_Name^,^crab spawning Shield^
+^E_04_0_0678_0001_NameDetail^,^^
+^E_04_0_0614_0000_Name^,^Yeti fighter^
+^E_04_0_0614_0000_NameDetail^,^^
+^E_04_0_0616_0000_Name^,^Yeti javelin tout^
+^E_04_0_0616_0000_NameDetail^,^^
+^E_04_0_0615_0000_Name^,^Yeti Shaman^
+^E_04_0_0615_0000_NameDetail^,^^
+^E_04_0_0616_0001_Name^,^Yeti Beast Trainer^
+^E_04_0_0616_0001_NameDetail^,^^
+^E_04_0_0245_0002_Name^,^domesticated snow tiger^
+^E_04_0_0245_0002_NameDetail^,^^
+^E_04_0_0615_0001_Name^,^Yeti four-healing^
+^E_04_0_0615_0001_NameDetail^,^^
+^E_04_0_0621_0000_Name^,^Yeti projection^
+^E_04_0_0621_0000_NameDetail^,^^
+^E_04_0_0621_0001_Name^,^ice punch kuntin^
+^E_04_0_0621_0001_NameDetail^,^^
+^E_04_0_0623_0000_Name^,^avalanche climb Syracuse^
+^E_04_0_0623_0000_NameDetail^,^^
+^E_04_0_1800_0000_Name^,^Frost Wyvern^
+^E_04_0_1800_0000_NameDetail^,^^
+^E_04_0_1801_0000_Name^,^Ice Wings of Fear^
+^E_04_0_1801_0000_NameDetail^,^^
+^E_02_0_0676_0003_Name^,^kittens Spider^
+^E_02_0_0676_0003_NameDetail^,^^
+^E_02_0_0676_0004_Name^,^taseulran cubs Spider^
+^E_02_0_0676_0004_NameDetail^,^^
+^E_51_0_0624_0000_Name^,^Mato blacksmith kontin^
+^E_51_0_0624_0000_NameDetail^,^^
+^E_51_0_0622_0000_Name^,^ahyiren of cold^
+^E_51_0_0622_0000_NameDetail^,^^
+^E_00_0_0605_0000_Name^,^predatory warrior Brage (for video)^
+^E_00_0_0605_0000_NameDetail^,^^
+^E_53_0_0695_0000_Name^,^revived zombie specimens^
+^E_53_0_0695_0000_NameDetail^,^^
+^E_53_0_0666_0000_Name^,^Ancient Skeleton Soldier^
+^E_53_0_0666_0000_NameDetail^,^^
+^E_53_0_0666_0001_Name^,^Ancient Skeleton Archer^
+^E_53_0_0666_0001_NameDetail^,^^
+^E_53_0_0667_0000_Name^,^Dark Magic Enchanted Skeleton Soldier^
+^E_53_0_0667_0000_NameDetail^,^^
+^E_53_0_0666_0002_Name^,^Dark Magic Enchanted Skeleton Archer^
+^E_53_0_0666_0002_NameDetail^,^^
+^E_53_0_1100_0000_Name^,^necromancer^
+^E_53_0_1100_0000_NameDetail^,^Wizard of Darkness^
+^E_53_0_0644_0000_Name^,^priests of ancient ghost^
+^E_53_0_0644_0000_NameDetail^,^^
+^E_53_0_0619_0000_Name^,^cursed Armor guard^
+^E_53_0_0619_0000_NameDetail^,^^
+^E_53_0_1110_0000_Name^,^priests of bright red blood Camilla^
+^E_53_0_1110_0000_NameDetail^,^^
+^E_53_0_0667_0001_Name^,^Dark Knight ahsyuram^
+^E_53_0_0667_0001_NameDetail^,^^
+^E_53_0_1100_0001_Name^,^Wizard of destruction Lee Silesia^
+^E_53_0_1100_0001_NameDetail^,^^
+^E_53_0_1120_0000_Name^,^Lee Silesia's skull wand^
+^E_53_0_1120_0000_NameDetail^,^^
+^E_53_0_1120_0001_Name^,^Lee Silesia magic crystal ball^
+^E_53_0_1120_0001_NameDetail^,^^
+^E_53_0_1120_0002_Name^,^Lee Circle droplets of Silesia^
+^E_53_0_1120_0002_NameDetail^,^^
+^E_53_0_1100_0002_Name^,^Wizard of destruction Lee Silesia^
+^E_53_0_1100_0002_NameDetail^,^^
+^E_00_0_1100_0000_Name^,^Wizard of Darkness high priest (for video)^
+^E_00_0_1100_0000_NameDetail^,^^
+^E_52_0_0900_0004_Name^,^Vampire Chef^
+^E_52_0_0900_0004_NameDetail^,^^
+^E_03_0_1100_0002_Name^,^Lesser contractors^
+^E_03_0_1100_0002_NameDetail^,^Wizard of Darkness^
+^E_03_0_1100_0003_Name^,^junior researcher^
+^E_03_0_1100_0003_NameDetail^,^Wizard of Darkness^
+^E_03_0_1100_0004_Name^,^Attendant^
+^E_03_0_1100_0004_NameDetail^,^Wizard of Darkness^
+^E_03_0_1210_0003_Name^,^Watcher of Darkness burn^
+^E_03_0_1210_0003_NameDetail^,^^
+^E_03_0_0013_0002_Name^,^cursed ghost^
+^E_03_0_0013_0002_NameDetail^,^^
+^E_53_0_1110_0001_Name^,^sohwansulsa^
+^E_53_0_1110_0001_NameDetail^,^Wizard of Darkness^
+^E_53_0_1110_0002_Name^,^sohwansulsa^
+^E_53_0_1110_0002_NameDetail^,^Wizard of Darkness^
+^E_03_0_0013_0003_Name^,^cursed ghost^
+^E_03_0_0013_0003_NameDetail^,^^
+^E_02_0_0013_0002_Name^,^wandeRing ghost^
+^E_02_0_0013_0002_NameDetail^,^^
+^E_02_1_0007_0004_Name^,^Wild Wolf^
+^E_02_1_0007_0004_NameDetail^,^^
+^E_51_0_0001_0001_Name^,^Yeti warriors^
+^E_51_0_0001_0001_NameDetail^,^^
+^E_51_0_0002_0001_Name^,^Yeti Shaman^
+^E_51_0_0002_0001_NameDetail^,^^
+^E_51_0_0013_0002_Name^,^yeti hunters^
+^E_51_0_0013_0002_NameDetail^,^^
+^E_51_0_0015_0002_Name^,^Yeti warriors^
+^E_51_0_0015_0002_NameDetail^,^^
+^E_51_0_0616_0001_Name^,^Yeti Bears Trainer^
+^E_51_0_0616_0001_NameDetail^,^^
+^E_51_0_0083_0000_Name^,^Frost Polar Bear Claw^
+^E_51_0_0083_0000_NameDetail^,^^
+^E_51_0_0001_0002_Name^,^Yeti warriors^
+^E_51_0_0001_0002_NameDetail^,^^
+^E_51_0_0001_0003_Name^,^Yeti warriors^
+^E_51_0_0001_0003_NameDetail^,^^
+^E_51_0_0013_0003_Name^,^yeti hunters^
+^E_51_0_0013_0003_NameDetail^,^^
+^E_51_0_0002_0002_Name^,^Yeti Shaman^
+^E_51_0_0002_0002_NameDetail^,^^
+^E_02_1_0606_0001_Name^,^Brage Commissioner of wild boar^
+^E_02_1_0606_0001_NameDetail^,^^
+^E_02_1_0606_0002_Name^,^Frost molar Porch^
+^E_02_1_0606_0002_NameDetail^,^^
+^E_03_0_0672_0006_Name^,^domesticated bison^
+^E_03_0_0672_0006_NameDetail^,^^
+^E_03_0_1010_0005_Name^,^raiders^
+^E_03_0_1010_0005_NameDetail^,^followers of the Dark^
+^E_51_5_0001_0001_Name^,^Altar of origin^
+^E_51_5_0001_0001_NameDetail^,^^
+^E_03_0_0769_0000_Name^,^Black Wind^
+^E_03_0_0769_0000_NameDetail^,^^
+^E_03_0_0769_0001_Name^,^pony^
+^E_03_0_0769_0001_NameDetail^,^^
+^E_02_1_0606_0003_Name^,^a breeding boar^
+^E_02_1_0606_0003_NameDetail^,^^
+^E_02_1_0309_0000_Name^,^Black Wolf^
+^E_02_1_0309_0000_NameDetail^,^^
+^E_50_0_0245_0000_Name^,^Magma Hound^
+^E_50_0_0245_0000_NameDetail^,^^
+^E_03_0_0692_0002_Name^,^Thor Ostrava tooth^
+^E_03_0_0692_0002_NameDetail^,^^
+^E_03_0_1720_0000_Name^,^experimental Unicorn^
+^E_03_0_1720_0000_NameDetail^,^^
+^E_03_0_1720_0001_Name^,^unicorn foal^
+^E_03_0_1720_0001_NameDetail^,^^
+^E_03_0_0654_0000_Name^,^Lake Fairy^
+^E_03_0_0654_0000_NameDetail^,^^
+^E_03_0_0704_0000_Name^,^black wings^
+^E_03_0_0704_0000_NameDetail^,^flame ryongjok^
+^E_03_0_0704_0001_Name^,^Flame breath^
+^E_03_0_0704_0001_NameDetail^,^flame ryongjok^
+^E_03_0_1715_0000_Name^,^Dragon Ass terrace^
+^E_03_0_1715_0000_NameDetail^,^flame ryongjok^
+^E_03_0_0676_0003_Name^,^spider forest^
+^E_03_0_0676_0003_NameDetail^,^^
+^E_03_0_0676_0004_Name^,^hairy spider^
+^E_03_0_0676_0004_NameDetail^,^^
+^E_03_0_0676_0005_Name^,^Tarantula^
+^E_03_0_0676_0005_NameDetail^,^^
+^E_03_0_1010_0006_Name^,^Do not bomb all the Cardinals^
+^E_03_0_1010_0006_NameDetail^,^followers of the Dark^
+^E_03_0_0696_0001_Name^,^elite for assault^
+^E_03_0_0696_0001_NameDetail^,^flame ryongjok^
+^E_03_0_0696_0002_Name^,^Whelp lost^
+^E_03_0_0696_0002_NameDetail^,^flame ryongjok^
+^E_51_0_1100_0000_Name^,^Dark Summoner^
+^E_51_0_1100_0000_NameDetail^,^Wizard of Darkness^
+^E_51_0_1100_0001_Name^,^Ring magicians jepeto^
+^E_51_0_1100_0001_NameDetail^,^Wizard of Darkness^
+^E_03_0_0666_0003_Name^,^wanted Seorin Avengers^
+^E_03_0_0666_0003_NameDetail^,^^
+^E_03_0_0666_0004_Name^,^Watcher of the Dead^
+^E_03_0_0666_0004_NameDetail^,^^
+^E_03_0_0666_0005_Name^,^revived Skeleton Soldier^
+^E_03_0_0666_0005_NameDetail^,^^
+^E_03_0_0682_0007_Name^,^pumpkin Hatched wasp^
+^E_03_0_0682_0007_NameDetail^,^^
+^E_52_0_0620_0000_Name^,^vampire bat^
+^E_52_0_0620_0000_NameDetail^,^^
+^E_52_0_1110_0000_Name^,^cursed executioner Regina^
+^E_52_0_1110_0000_NameDetail^,^Wizard of Darkness^
+^E_52_0_0900_0005_Name^,^Vampire Captain ranto^
+^E_52_0_0900_0005_NameDetail^,^^
+^E_52_0_0900_0006_Name^,^hungry gardeners to avoid^
+^E_52_0_0900_0006_NameDetail^,^^
+^E_52_0_0900_0007_Name^,^starved janitor to avoid^
+^E_52_0_0900_0007_NameDetail^,^^
+^E_03_0_0013_0004_Name^,^specter of darkness^
+^E_03_0_0013_0004_NameDetail^,^^
+^E_03_0_0001_0000_Name^,^Executioner of the death Ander^
+^E_03_0_0001_0000_NameDetail^,^Wizard of Darkness^
+^E_03_0_0002_0000_Name^,^Duke Lee Young Ae Ekaterina^
+^E_03_0_0002_0000_NameDetail^,^followers of the Dark^
+^E_03_0_0708_0000_Name^,^Trainer^
+^E_03_0_0708_0000_NameDetail^,^followers of the Dark^
+^E_52_0_0620_0001_Name^,^vampire bat^
+^E_52_0_0620_0001_NameDetail^,^^
+^E_52_0_1100_0002_Name^,^shaman curse^
+^E_52_0_1100_0002_NameDetail^,^Wizard of Darkness^
+^E_04_0_0728_0000_Name^,^Water Spirit^
+^E_04_0_0728_0000_NameDetail^,^^
+^E_04_0_0728_0001_Name^,^Wild Water Spirit^
+^E_04_0_0728_0001_NameDetail^,^^
+^E_04_0_0731_0000_Name^,^wild ice Spirits^
+^E_04_0_0731_0000_NameDetail^,^^
+^E_04_0_0731_0001_Name^,^wild ice Spirits^
+^E_04_0_0731_0001_NameDetail^,^^
+^E_03_0_0704_0002_Name^,^green impact^
+^E_03_0_0704_0002_NameDetail^,^Phoenix Flames ryongjok^
+^E_03_0_0704_0003_Name^,^Assassin blue^
+^E_03_0_0704_0003_NameDetail^,^Phoenix Flames ryongjok^
+^E_04_0_1300_0006_Name^,^Cara de Pirate navigation sportsman^
+^E_04_0_1300_0006_NameDetail^,^^
+^E_04_0_1302_0003_Name^,^Cara de Pirate Marauders^
+^E_04_0_1302_0003_NameDetail^,^^

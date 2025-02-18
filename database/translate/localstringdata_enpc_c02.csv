@@ -1,0 +1,684 @@
+t_key,t_koreanorg,t_jpn,t_chinese,t_korean,t_eng_2,t_eng_3
+^E_C02_RondL_00_Name^,^복면의 남자^,^^,^^,^Cloaked Man^,^^,^^
+^E_C02_RondL_00_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_RondL_01_Name^,^론도 테라문스^,^^,^^,^Rondo Terramunce^,^^,^^
+^E_C02_RondL_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_CabeHerut_0_Name^,^냉혈의 헤러틱^,^^,^^,^Cold-blooded Heretic^,^^,^^
+^E_C02_CabeHerut_0_NameDetail^,^카라드 해적단^,^^,^^,^Karrad Pirate^,^^,^^
+^E_C02_bismoneye_1_Name^,^카라드 해적단 습격자^,^^,^^,^Karrad Marauder^,^^,^^
+^E_C02_bismoneye_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_cabebombf_1_Name^,^카라드 해적단 포병^,^^,^^,^Karrad Artilleryman^,^^,^^
+^E_C02_cabebombf_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_carmdeckh_1_Name^,^카라드 해적단 항해사^,^^,^^,^Karrad Shipmate^,^^,^^
+^E_C02_carmdeckh_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_corstreas_1_Name^,^카라드 해적단 강탈자^,^^,^^,^Karrad Raider^,^^,^^
+^E_C02_corstreas_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_fanasnipe_1_Name^,^카라드 해적단 저격수^,^^,^^,^Karrad Marksman^,^^,^^
+^E_C02_fanasnipe_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_mohahealer_1_Name^,^카라드 해적단 선의^,^^,^^,^Karrad Medic^,^^,^^
+^E_C02_mohahealer_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_bismoneye_2_Name^,^크피르 도적단 망루병^,^^,^^,^Khapir Lookout^,^^,^^
+^E_C02_bismoneye_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_fanarecon_2_Name^,^크피르 도적단 습격자^,^^,^^,^Khapir Marauder^,^^,^^
+^E_C02_fanarecon_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_fanasnipe_2_Name^,^크피르 도적단 저격수^,^^,^^,^Khapir Marksman^,^^,^^
+^E_C02_fanasnipe_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_mohascout_2_Name^,^크피르 도적단 탐색꾼^,^^,^^,^Khapir Explorer^,^^,^^
+^E_C02_mohascout_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_mohasnipe_2_Name^,^크피르 도적단 감시자^,^^,^^,^Khapir Watcher^,^^,^^
+^E_C02_mohasnipe_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_bismoneye_3_Name^,^모하바 용병단 암살자^,^^,^^,^Mohaban Assassin^,^^,^^
+^E_C02_bismoneye_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_corstreas_3_Name^,^모하바 용병단 강탈자^,^^,^^,^Mohaban Raider^,^^,^^
+^E_C02_corstreas_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_fanarecon_3_Name^,^모하바 용병단 습격자^,^^,^^,^Mohaban Marauder^,^^,^^
+^E_C02_fanarecon_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_fanasnipe_3_Name^,^모하바 용병단 저격수^,^^,^^,^Mohaban Sniper^,^^,^^
+^E_C02_fanasnipe_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_mohahealer_3_Name^,^모하바 용병단 정찰꾼^,^^,^^,^Mohaban Scout^,^^,^^
+^E_C02_mohahealer_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_mohascout_3_Name^,^모하바 용병단 탐색꾼^,^^,^^,^Mohaban Explorer^,^^,^^
+^E_C02_mohascout_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_mohasnipe_3_Name^,^모하바 용병단 감시자^,^^,^^,^Mohaban Watcher^,^^,^^
+^E_C02_mohasnipe_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_carmboatm_1_Name^,^부선장 호니골드^,^^,^^,^Vice Captain Honeygold^,^^,^^
+^E_C02_carmboatm_1_NameDetail^,^카라드 해적단^,^^,^^,^Karrad Pirate^,^^,^^
+^E_C02_fanastone_1_Name^,^행동대장 허크^,^^,^^,^Combat Leader Huck^,^^,^^
+^E_C02_fanastone_1_NameDetail^,^크피르 도적단^,^^,^^,^Khapir Thieves^,^^,^^
+^E_C02_treesequie_1_Name^,^크리덴^,^^,^^,^Kiriden^,^^,^^
+^E_C02_treesequie_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_treethorn_1_Name^,^브로덴^,^^,^^,^Boroden^,^^,^^
+^E_C02_treethorn_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_undergrass_1_Name^,^식인초^,^^,^^,^Carnivorous Plant^,^^,^^
+^E_C02_undergrass_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_immosoldi_1_Name^,^[정예] 환각의 악마^,^^,^^,^[Elite] Ember Illusion Demon^,^^,^^
+^E_C02_immosoldi_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_immomagi_1_Name^,^[정예] 환각의 악마^,^^,^^,^[Elite] Cinder Illusion Demon^,^^,^^
+^E_C02_immomagi_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_chaodawiz_1_Name^,^[정예] 환각의 흑마법사^,^^,^^,^[Elite] Illusion Dark Mage^,^^,^^
+^E_C02_chaodawiz_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_vampfarm_1_Name^,^악령에 씌인 농부^,^^,^^,^Demon-possessed Farmer^,^^,^^
+^E_C02_vampfarm_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_vampmaid_1_Name^,^악령에 씌인 여인^,^^,^^,^Demon-possessed Woman^,^^,^^
+^E_C02_vampmaid_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_childgirl_1_Name^,^악령에 씌인 아이^,^^,^^,^Demon-possessed Child^,^^,^^
+^E_C02_childgirl_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_moorankel_1_Name^,^케이넬^,^^,^^,^Kaynel^,^^,^^
+^E_C02_moorankel_1_NameDetail^,^변절자 무러미^,^^,^^,^Merumi Defector^,^^,^^
+^E_C02_moorberna_1_Name^,^[정예] 물의 사제^,^^,^^,^[Elite] Water Priest^,^^,^^
+^E_C02_moorberna_1_NameDetail^,^오염된 무러미^,^^,^^,^Contaminated Merumi^,^^,^^
+^E_C02_moorkeron_1_Name^,^[정예] 물의 수호병^,^^,^^,^[Elite] Water Guardian^,^^,^^
+^E_C02_moorkeron_1_NameDetail^,^오염된 무러미^,^^,^^,^Contaminated Merumi^,^^,^^
+^E_C02_moortroop_1_Name^,^[정예] 물의 전투병^,^^,^^,^[Elite] Water Skirmisher^,^^,^^
+^E_C02_moortroop_1_NameDetail^,^오염된 무러미^,^^,^^,^Contaminated Merumi^,^^,^^
+^E_C02_moorbowma_1_Name^,^[정예] 물의 감시병^,^^,^^,^[Elite] Water Sentry^,^^,^^
+^E_C02_moorbowma_1_NameDetail^,^오염된 무러미^,^^,^^,^Contaminated Merumi^,^^,^^
+^E_C02_RedrCrotus_1_Name^,^디투가렌^,^^,^^,^Divagren^,^^,^^
+^E_C02_RedrCrotus_1_NameDetail^,^어둠의 마법사^,^^,^^,^Assassincaster^,^^,^^
+^E_C02_fanajeranin_1_Name^,^식탐의 벨레투브^,^^,^^,^Beletov of Avarice^,^^,^^
+^E_C02_fanajeranin_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_C02_FanaTony_1_Name^,^나태의 켈레고르^,^^,^^,^Kelgor of Indolence^,^^,^^
+^E_C02_FanaTony_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_C02_mohakasim_1_Name^,^시기의 이게아탄^,^^,^^,^Jatan of Malevolance^,^^,^^
+^E_C02_mohakasim_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_C02_mohahead_1_Name^,^분노의 자탄^,^^,^^,^Igatan of Vengeance^,^^,^^
+^E_C02_mohahead_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_C02_suboshamad_1_Name^,^교만의 말리퍼^,^^,^^,^Mal Reaper of Arrogance^,^^,^^
+^E_C02_suboshamad_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_C02_subosmupad_1_Name^,^탐욕의 하몬^,^^,^^,^Zealous Harmon^,^^,^^
+^E_C02_subosmupad_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_C02_ghosmanag_1_Name^,^잊혀진 과거의 원령^,^^,^^,^Cursed Spirit^,^^,^^
+^E_C02_ghosmanag_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_bismoneye_4_Name^,^[정예] 카라드 잔혹 암살자^,^^,^^,^[Elite] Karrad Cruel Assassin^,^^,^^
+^E_C02_bismoneye_4_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_corstreas_4_Name^,^[정예] 카라드 잔혹 강탈자^,^^,^^,^[Elite] Karrad Cruel Raider^,^^,^^
+^E_C02_corstreas_4_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_fanasnipe_4_Name^,^[정예] 카라드 잔혹 저격수^,^^,^^,^[Elite] Karrad Cruel Marksman^,^^,^^
+^E_C02_fanasnipe_4_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_Phon_1_Name^,^폰^,^^,^^,^Pon^,^^,^^
+^E_C02_Phon_1_NameDetail^,^헤러틱의 늑대^,^^,^^,^Heretic's Wolf^,^^,^^
+^E_C02_anacs_1_Name^,^큰 초원 새^,^^,^^,^Large Plains Bird^,^^,^^
+^E_C02_anacs_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_matina_1_Name^,^초원 얼룩말^,^^,^^,^Plains Zebra^,^^,^^
+^E_C02_matina_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_ganesha_1_Name^,^아크라트 코끼리^,^^,^^,^Akrat Elephant^,^^,^^
+^E_C02_ganesha_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_oulos_1_Name^,^초원 거대 부엉이^,^^,^^,^Giant Plains Owl^,^^,^^
+^E_C02_oulos_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_kiku_1_Name^,^아크라트 코뿔소^,^^,^^,^Akrat Rhino^,^^,^^
+^E_C02_kiku_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_tetra_1_Name^,^테트라^,^^,^^,^Tetra^,^^,^^
+^E_C02_tetra_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_matios_1_Name^,^질풍의 마티오스^,^^,^^,^Mathios of Gale^,^^,^^
+^E_C02_matios_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_magasha_1_Name^,^흰 상아 마가샤^,^^,^^,^White Ivory Magasha^,^^,^^
+^E_C02_magasha_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_lugav_1_Name^,^붉은 빛의 루가브^,^^,^^,^Scarlet Lugab^,^^,^^
+^E_C02_lugav_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_scar_1_Name^,^초원의 제아^,^^,^^,^Grasslands Zea^,^^,^^
+^E_C02_scar_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_karil_1_Name^,^카릴 (삭제됨)^,^^,^^,^Aryl^,^^,^^
+^E_C02_karil_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_nilla_1_Name^,^초원의 제닌^,^^,^^,^Plains Cougar^,^^,^^
+^E_C02_nilla_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_toms_1_Name^,^초원의 니제아^,^^,^^,^Plains Lion Cub^,^^,^^
+^E_C02_toms_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_ragosa_1_Name^,^사냥꾼 라고샤^,^^,^^,^Lagosha^,^^,^^
+^E_C02_ragosa_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_yazar_1_Name^,^신비로운 티샤난^,^^,^^,^Mystic Tishanan^,^^,^^
+^E_C02_yazar_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_gorgos_1_Name^,^낫 뿔 고르고스^,^^,^^,^Sickle Horn Gorgoth^,^^,^^
+^E_C02_gorgos_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_neroves_1_Name^,^칠흑의 네베스^,^^,^^,^Helm-black Neves^,^^,^^
+^E_C02_neroves_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_teisa_1_Name^,^거대의 테이사^,^^,^^,^Teisha of Immensity^,^^,^^
+^E_C02_teisa_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_hydra_1_Name^,^오염의 베노티엔^,^^,^^,^Venotien of Contamination^,^^,^^
+^E_C02_hydra_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_wolfwild_1_Name^,^초원 늑대^,^^,^^,^Plains Wolf^,^^,^^
+^E_C02_wolfwild_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_mandrake_1_Name^,^초원 맨드레이크^,^^,^^,^Plains Mandrake^,^^,^^
+^E_C02_mandrake_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_planner_1_Name^,^카라드 해적단 작전병^,^^,^^,^Karrad Operative^,^^,^^
+^E_C02_planner_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_leopard_1_Name^,^길들여진 흑표범^,^^,^^,^Tamed Panther^,^^,^^
+^E_C02_leopard_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_skeleton_1_Name^,^저주받은 해골 병사^,^^,^^,^Cursed Skeleton Soldier^,^^,^^
+^E_C02_skeleton_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_rakan_1_Name^,^돌격대장 라칸^,^^,^^,^Grim Vanguard Lakaan^,^^,^^
+^E_C02_rakan_1_NameDetail^,^카라드 해적단^,^^,^^,^Karrad Pirate^,^^,^^
+^E_C02_eagle_1_Name^,^난폭해진 초원 독수리^,^^,^^,^Wild Plains Eagle^,^^,^^
+^E_C02_eagle_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_manager_1_Name^,^키바^,^^,^^,^Kiba^,^^,^^
+^E_C02_manager_1_NameDetail^,^변절한 광산 관리인^,^^,^^,^Cowardly Mine Manager^,^^,^^
+^E_C02_mohahealer_2_Name^,^크피르 도적단 치유사^,^^,^^,^Khapir Healer^,^^,^^
+^E_C02_mohahealer_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_devil_1_Name^,^환각의 악마 사령^,^^,^^,^Illusion Demon Soul^,^^,^^
+^E_C02_devil_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_devil_2_Name^,^악마의 사령체^,^^,^^,^Cursed Spirit^,^^,^^
+^E_C02_devil_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_messenger_1_Name^,^수상한 전령^,^^,^^,^Suspicious Messenger^,^^,^^
+^E_C02_messenger_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_soldier_1_Name^,^귀족의 사병^,^^,^^,^Sovereign Guardsman^,^^,^^
+^E_C02_soldier_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_chaodawiz_2_Name^,^숨어든 흑마법사^,^^,^^,^Covert Dark Mage^,^^,^^
+^E_C02_chaodawiz_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_vampfarm_2_Name^,^저주에 걸린 마을 주민^,^^,^^,^Cursed Villager^,^^,^^
+^E_C02_vampfarm_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_vampmaid_2_Name^,^저주에 걸린 마을 주민^,^^,^^,^Cursed Villager^,^^,^^
+^E_C02_vampmaid_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_tower_1_Name^,^도적단 망루^,^^,^^,^Thief Watchtower^,^^,^^
+^E_C02_tower_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_Barri_1_Name^,^해적단 방책^,^^,^^,^Pirate Barricade^,^^,^^
+^E_C02_Barri_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_moorbowma_2_Name^,^오염된 무러미 감시병^,^^,^^,^Contaminated Merumi Sentry^,^^,^^
+^E_C02_moorbowma_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_moorkeron_2_Name^,^오염된 무러미 수호병^,^^,^^,^Contaminated Merumi Heavy Infantry^,^^,^^
+^E_C02_moorkeron_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_moorberna_2_Name^,^오염된 무러미 사제^,^^,^^,^Contaminated Merumi Priest^,^^,^^
+^E_C02_moorberna_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_moortroop_2_Name^,^오염된 무러미 전투병^,^^,^^,^Contaminated Merumi Skirmisher^,^^,^^
+^E_C02_moortroop_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_chaodawiz_3_Name^,^흑마법사^,^^,^^,^Dark Mage^,^^,^^
+^E_C02_chaodawiz_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_badon_1_Name^,^바드온^,^^,^^,^Bardon^,^^,^^
+^E_C02_badon_1_NameDetail^,^무러미 선봉장^,^^,^^,^Merumi Spearhead^,^^,^^
+^E_C02_ghosmanag_2_Name^,^저주받은 과거의 망령^,^^,^^,^Cursed Spirit of the Past^,^^,^^
+^E_C02_ghosmanag_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_Bear_1_Name^,^흉폭해진 초원 불곰^,^^,^^,^Enraged Meadow Bear^,^^,^^
+^E_C02_Bear_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_snake_1_Name^,^초원 방울뱀^,^^,^^,^Plains Rattlesnake^,^^,^^
+^E_C02_snake_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_wisp_1_Name^,^원령의 사념체^,^^,^^,^Soul Fragment^,^^,^^
+^E_C02_wisp_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_moorkeron_3_Name^,^오염된 무러미 보초병^,^^,^^,^Contaminated Merumi Sentinel^,^^,^^
+^E_C02_moorkeron_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_moortroop_3_Name^,^오염된 무러미 순찰병^,^^,^^,^Contaminated Merumi Patrol Guard^,^^,^^
+^E_C02_moortroop_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_moorbowma_3_Name^,^오염된 무러미 투창병^,^^,^^,^Contaminated Merumi Javelin Soldier^,^^,^^
+^E_C02_moorbowma_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_fanasnipe_5_Name^,^모하바 용병단 밀렵꾼^,^^,^^,^Mohaban Poacher^,^^,^^
+^E_C02_fanasnipe_5_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_Bear_2_Name^,^흉폭해진 초원 회색곰^,^^,^^,^Enraged White Meadow Bear^,^^,^^
+^E_C02_Bear_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D98_StatueR_1_Name^,^루비 방어석^,^^,^^,^Red Shield Crystal^,^^,^^
+^E_D98_StatueR_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D98_StatueB_1_Name^,^사파이어 방어석^,^^,^^,^Blue Shield Crystal^,^^,^^
+^E_D98_StatueB_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_HumaElder_0_Name^,^엘더 하케인 공작^,^^,^^,^Duke Elder^,^^,^^
+^E_D12_HumaElder_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D98_StatueR_2_Name^,^루비 수호석^,^^,^^,^Red Core Shield Crystal^,^^,^^
+^E_D98_StatueR_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D98_StatueB_2_Name^,^사파이어 수호석^,^^,^^,^Blue Core Shield Crystal^,^^,^^
+^E_D98_StatueB_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D98_liger_0_Name^,^공포의 파이루드^,^^,^^,^Terrible Pyludd^,^^,^^
+^E_D98_liger_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D98_Megantes_0_Name^,^악몽의 메간테스^,^^,^^,^Nightmare Megantes^,^^,^^
+^E_D98_Megantes_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D98_DeadBismo_0_Name^,^파멸의 라노트^,^^,^^,^Deadly Ranote^,^^,^^
+^E_D98_DeadBismo_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D98_DeadJeranin_0_Name^,^고통의 히노크^,^^,^^,^Henok^,^^,^^
+^E_D98_DeadJeranin_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D98_liger_1_Name^,^파이루드 새끼^,^^,^^,^Pyludd Cub^,^^,^^
+^E_D98_liger_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D98_Megantes_1_Name^,^메간테스 새끼^,^^,^^,^Fledgling Megantes^,^^,^^
+^E_D98_Megantes_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_Ev_FoxEloraa_1_Name^,^신성의 알카닌^,^^,^^,^Divine Alkanin^,^^,^^
+^E_Ev_FoxEloraa_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_Ev_WhaleBusC_1_Name^,^블루 웨일^,^^,^^,^Blue Whale^,^^,^^
+^E_Ev_WhaleBusC_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_Flyhydra_001_Name^,^천벌의 하데스^,^^,^^,^Hades of Nemesis^,^^,^^
+^E_C02_Flyhydra_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_Ev_CatF_1_Name^,^별이다냥^,^^,^^,^Starry Cat^,^^,^^
+^E_Ev_CatF_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_Ev_CatG_1_Name^,^꽃이다냥^,^^,^^,^Flowery Cat^,^^,^^
+^E_Ev_CatG_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_HumaElder_01_Name^,^엘더 하케인 공작^,^^,^^,^Duke Elder^,^^,^^
+^E_D12_HumaElder_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_HumaElder_02_Name^,^엘더 하케인 공작^,^^,^^,^Duke Elder^,^^,^^
+^E_D12_HumaElder_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_HumaElder_03_Name^,^엘더 하케인 공작^,^^,^^,^Duke Elder^,^^,^^
+^E_D12_HumaElder_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_HumaElder_04_Name^,^엘더 하케인 공작^,^^,^^,^Duke Elder^,^^,^^
+^E_D12_HumaElder_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_DemoHelor_01_Name^,^엘더 하케인^,^^,^^,^Duke Elder^,^^,^^
+^E_D12_DemoHelor_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_DemoHelor_02_Name^,^엘더 하케인^,^^,^^,^Duke Elder^,^^,^^
+^E_D12_DemoHelor_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_DemoHelor_03_Name^,^엘더 하케인^,^^,^^,^Duke Elder^,^^,^^
+^E_D12_DemoHelor_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_DemoHelor_04_Name^,^엘더 하케인^,^^,^^,^Duke Elder^,^^,^^
+^E_D12_DemoHelor_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_Nasulos_01_Name^,^여장군 나스로스^,^^,^^,^General Nasross^,^^,^^
+^E_D12_Nasulos_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_Nasulos_02_Name^,^여장군 나스로스^,^^,^^,^General Nasross^,^^,^^
+^E_D12_Nasulos_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_Nasulos_03_Name^,^여장군 나스로스^,^^,^^,^General Nasross^,^^,^^
+^E_D12_Nasulos_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_Nasulos_04_Name^,^여장군 나스로스^,^^,^^,^General Nasross^,^^,^^
+^E_D12_Nasulos_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_AntuLagen_01_Name^,^마물 안투라겐^,^^,^^,^Evil Spirit Anturagen^,^^,^^
+^E_D12_AntuLagen_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_AntuLagen_02_Name^,^마물 안투라겐^,^^,^^,^Evil Spirit Anturagen^,^^,^^
+^E_D12_AntuLagen_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_AntuLagen_03_Name^,^마물 안투라겐^,^^,^^,^Evil Spirit Anturagen^,^^,^^
+^E_D12_AntuLagen_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_AntuLagen_04_Name^,^멸망의 안투라겐^,^^,^^,^Anturagen of Doom^,^^,^^
+^E_D12_AntuLagen_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_RedrBulmac_01_Name^,^서재 경비대^,^^,^^,^Low-Ranking Guard^,^^,^^
+^E_D12_RedrBulmac_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_RedrNakmac_01_Name^,^서재 설계사^,^^,^^,^Low-Ranking Architect^,^^,^^
+^E_D12_RedrNakmac_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_ArcDevm_1_Name^,^절망의 몽마^,^^,^^,^Sorrow Wraith^,^^,^^
+^E_D12_ArcDevm_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_ArcDevw_1_Name^,^절망의 몽마^,^^,^^,^Sorrow Wraith^,^^,^^
+^E_D12_ArcDevw_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_ArcDevwiz_1_Name^,^배양소 치안 관리자^,^^,^^,^Cultivation Manager^,^^,^^
+^E_D12_ArcDevwiz_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_EldZomb_1_Name^,^은근히 강한 실험체^,^^,^^,^Strong Specimen^,^^,^^
+^E_D12_EldZomb_1_NameDetail^,^열쇠지기^,^^,^^,^Locksmith^,^^,^^
+^E_D12_ditugaren_1_Name^,^절명 선고자 디투가렌^,^^,^^,^Elite Honorable Divagren^,^^,^^
+^E_D12_ditugaren_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_ghosmanag_1_Name^,^과거의 악령^,^^,^^,^Cursed Spirit^,^^,^^
+^E_D12_ghosmanag_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_SpiritDog_1_Name^,^실험견 K2-13^,^^,^^,^Experimental Dog K12-13^,^^,^^
+^E_D12_SpiritDog_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_DoberArmor_1_Name^,^무장 경비견^,^^,^^,^Armored Guard Dog^,^^,^^
+^E_D12_DoberArmor_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_EldGhom_1_Name^,^실험체 L1-27^,^^,^^,^Specimen L1-27^,^^,^^
+^E_D12_EldGhom_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_EldGhow_1_Name^,^실험체 H1-14^,^^,^^,^Specimen H1-14^,^^,^^
+^E_D12_EldGhow_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_GhosShrin_1_Name^,^죽음 심판자^,^^,^^,^Death Judge^,^^,^^
+^E_D12_GhosShrin_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_vampmaid_1_Name^,^엘디스트 책임자^,^^,^^,^Director Eldist^,^^,^^
+^E_D12_vampmaid_1_NameDetail^,^비밀소녀단^,^^,^^,^Secret Society^,^^,^^
+^E_D12_childgirl_1_Name^,^엘디스트 소녀^,^^,^^,^Director Eldist^,^^,^^
+^E_D12_childgirl_1_NameDetail^,^비밀소녀단^,^^,^^,^Secret Society^,^^,^^
+^E_C02_DemoHelor_01_Name^,^엘더 하케인^,^^,^^,^Duke Elder^,^^,^^
+^E_C02_DemoHelor_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_parency_01_Name^,^비명의 장막^,^^,^^,^Shrieking Tent^,^^,^^
+^E_C02_parency_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_RondL_03_Name^,^복면 론도 테라문스^,^^,^^,^Masked Rondo Terramunce^,^^,^^
+^E_C02_RondL_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_RedrCrotus_01_Name^,^크락투스^,^^,^^,^Cractus^,^^,^^
+^E_D11_RedrCrotus_01_NameDetail^,^붉은 혁명단 총수^,^^,^^,^Red Revolutionaries Commander^,^^,^^
+^E_D11_ArcKillB_1_Name^,^모하바 용병단 암살자^,^^,^^,^Mohaban Assassin^,^^,^^
+^E_D11_ArcKillB_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcStone_1_Name^,^모하바 용병단 강탈자^,^^,^^,^Mohaban Raider^,^^,^^
+^E_D11_ArcStone_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcAtkB_1_Name^,^모하바 용병단 정찰꾼^,^^,^^,^Mohaban Scout^,^^,^^
+^E_D11_ArcAtkB_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcScoB_1_Name^,^모하바 용병단 탐색꾼^,^^,^^,^Mohaban Explorer^,^^,^^
+^E_D11_ArcScoB_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcBowB_1_Name^,^모하바 용병단 감시자^,^^,^^,^Mohaban Watcher^,^^,^^
+^E_D11_ArcBowB_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcSniB_1_Name^,^모하바 용병단 밀렵꾼^,^^,^^,^Mohaban Poacher^,^^,^^
+^E_D11_ArcSniB_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcKillA_1_Name^,^카라드 해적단 습격자^,^^,^^,^Karrad Marauder^,^^,^^
+^E_D11_ArcKillA_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcBombA_1_Name^,^카라드 해적단 포병^,^^,^^,^Karrad Artilleryman^,^^,^^
+^E_D11_ArcBombA_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcDeckA_1_Name^,^카라드 해적단 항해사^,^^,^^,^Karrad Shipmate^,^^,^^
+^E_D11_ArcDeckA_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcFatA_1_Name^,^카라드 해적단 강탈자^,^^,^^,^Karrad Raider^,^^,^^
+^E_D11_ArcFatA_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcSnipA_1_Name^,^카라드 해적단 저격수^,^^,^^,^Karrad Marksman^,^^,^^
+^E_D11_ArcSnipA_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcHealA_1_Name^,^카라드 해적단 선의^,^^,^^,^Karrad Medic^,^^,^^
+^E_D11_ArcHealA_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcKillC_1_Name^,^크피르 도적단 망루병^,^^,^^,^Khapir Lookout^,^^,^^
+^E_D11_ArcKillC_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcAtkC_1_Name^,^크피르 도적단 습격자^,^^,^^,^Khapir Marauder^,^^,^^
+^E_D11_ArcAtkC_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcSniC_1_Name^,^크피르 도적단 저격수^,^^,^^,^Khapir Marksman^,^^,^^
+^E_D11_ArcSniC_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcScoC_1_Name^,^크피르 도적단 탐색꾼^,^^,^^,^Khapir Explorer^,^^,^^
+^E_D11_ArcScoC_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcBowC_1_Name^,^크피르 도적단 감시자^,^^,^^,^Khapir Watcher^,^^,^^
+^E_D11_ArcBowC_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcHealC_1_Name^,^크피르 도적단 치유사^,^^,^^,^Khapir Healer^,^^,^^
+^E_D11_ArcHealC_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_Bulmac_1_Name^,^혁명단 정예 경비대^,^^,^^,^Revolutionaries Elite Guards^,^^,^^
+^E_D11_Bulmac_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_Nakmac_1_Name^,^혁명단 무기 제작자^,^^,^^,^Revolutionaries Weaponsmith^,^^,^^
+^E_D11_Nakmac_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_BulmacA_1_Name^,^황소 맥타이먼^,^^,^^,^McTimon the Bull^,^^,^^
+^E_D11_BulmacA_1_NameDetail^,^붉은 혁명단 간부^,^^,^^,^Revolutionaries Traitor^,^^,^^
+^E_D11_CarmBaran_1_Name^,^해적단장 카라드^,^^,^^,^Pirate Leader Karrad^,^^,^^
+^E_D11_CarmBaran_1_NameDetail^,^반 데켄의 후손^,^^,^^,^Van Deken's Descendant^,^^,^^
+^E_D11_KrokDoct_1_Name^,^불의 장인 호스톤^,^^,^^,^Fire Master Hawston^,^^,^^
+^E_D11_KrokDoct_1_NameDetail^,^붉은 혁명단 대장장이^,^^,^^,^Revolutionaries Blacksmith^,^^,^^
+^E_D11_Trap_0_Name^,^혁명단 덫^,^^,^^,^Revolutionaries Trap^,^^,^^
+^E_D11_Trap_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Bomb_0_Name^,^혁명단 방어폭탄^,^^,^^,^Revolutionaries Defensive Bomb^,^^,^^
+^E_D11_Bomb_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_LelfYuDas_0_Name^,^루시드 엘퍼^,^^,^^,^Lucid Alpher^,^^,^^
+^E_D11_LelfYuDas_0_NameDetail^,^변절자^,^^,^^,^Traitor^,^^,^^
+^E_D11_SubosMupad_0_Name^,^학살자 제논^,^^,^^,^Zenon the Slayer^,^^,^^
+^E_D11_SubosMupad_0_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_MohaKasim_0_Name^,^선발대장 카심^,^^,^^,^Commander Kashim^,^^,^^
+^E_D11_MohaKasim_0_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_MohaHead_0_Name^,^마검사 라자트^,^^,^^,^Mage Aggressor Lazart^,^^,^^
+^E_D11_MohaHead_0_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_SubosHamad_0_Name^,^돌격대장 무파딘^,^^,^^,^Charge Chief Mupadin^,^^,^^
+^E_D11_SubosHamad_0_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcScoB_2_Name^,^모하바 용병단 탐색꾼^,^^,^^,^Mohaban Explorer^,^^,^^
+^E_D11_ArcScoB_2_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcKillA_2_Name^,^카라드 해적단 습격자^,^^,^^,^Karrad Marauder^,^^,^^
+^E_D11_ArcKillA_2_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_ArcDeckA_2_Name^,^카라드 해적단 항해사^,^^,^^,^Karrad Shipmate^,^^,^^
+^E_D11_ArcDeckA_2_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_CorsTreas_1_Name^,^혁명단 정예 강탈자^,^^,^^,^Revolutionaries Elite Raider^,^^,^^
+^E_D11_CorsTreas_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_CorsWatch_1_Name^,^혁명단 정예 약탈자^,^^,^^,^Revolutionaries Elite Bandit^,^^,^^
+^E_D11_CorsWatch_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_Cabebombf_1_Name^,^혁명단 정예 폭탄마^,^^,^^,^Revolutionaries Elite Bomber^,^^,^^
+^E_D11_Cabebombf_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_FanaRecon_1_Name^,^혁명단 정예 암살자^,^^,^^,^Revolutionaries Elite Assassin^,^^,^^
+^E_D11_FanaRecon_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_CarmBoatm_1_Name^,^혁명단 정예 검투사^,^^,^^,^Revolutionaries Elite Swordsman^,^^,^^
+^E_D11_CarmBoatm_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_FanaStone_1_Name^,^혁명단 정예 습격자^,^^,^^,^Revolutionaries Elite Marauder^,^^,^^
+^E_D11_FanaStone_1_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_arcrerkle_1_Name^,^도적단장 크피르^,^^,^^,^Khapir Leader^,^^,^^
+^E_D11_arcrerkle_1_NameDetail^,^붉은 혁명단 간부^,^^,^^,^Revolutionaries Traitor^,^^,^^
+^E_D11_Spir_1_Name^,^다중 포격 지점^,^^,^^,^Multiple Bombardment Point^,^^,^^
+^E_D11_Spir_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Spir_01_Name^,^포격 지점^,^^,^^,^Bombardment Point^,^^,^^
+^E_D11_Spir_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_Bandecken_0_Name^,^반 데켄^,^^,^^,^Van Deken^,^^,^^
+^E_C02_Bandecken_0_NameDetail^,^심연의 선장^,^^,^^,^Abyssal Captain^,^^,^^
+^E_C02_CabeAshu_0_Name^,^심혼^,^^,^^,^Inner Soul^,^^,^^
+^E_C02_CabeAshu_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_DeadBismo_0_Name^,^파멸의 라노트^,^^,^^,^Deadly Ranote^,^^,^^
+^E_C02_DeadBismo_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_DeadJeranin_0_Name^,^고통의 히노크^,^^,^^,^Henok^,^^,^^
+^E_C02_DeadJeranin_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_RebSword_0_Name^,^혼백^,^^,^^,^Soul^,^^,^^
+^E_C02_RebSword_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_Snomcoon_0_Name^,^고대의 몬크^,^^,^^,^Ancient Monek^,^^,^^
+^E_C02_Snomcoon_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_Spirwisp_0_Name^,^심령^,^^,^^,^Spirit^,^^,^^
+^E_C02_Spirwisp_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_UGarmu_0_Name^,^혼돈의 마그나투^,^^,^^,^Magnatu^,^^,^^
+^E_C02_UGarmu_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_P01_MPhoenix_0_Name^,^적광의 나프니스^,^^,^^,^Fiery Naphnis^,^^,^^
+^E_P01_MPhoenix_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_F05_Mutant_0_Name^,^흑염의 바일리스^,^^,^^,^Black Baileys^,^^,^^
+^E_F05_Mutant_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_Ev_WhaleBusE_0_Name^,^러블리 웨일^,^^,^^,^Lovely Whale^,^^,^^
+^E_Ev_WhaleBusE_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_ArcJason_0_Name^,^부단장 샤키스^,^^,^^,^Vice-captain Shakis^,^^,^^
+^E_D11_ArcJason_0_NameDetail^,^붉은 혁명단 간부^,^^,^^,^Revolutionaries Traitor^,^^,^^
+^E_D11_ArkSkuls_1_Name^,^망각의 병사^,^^,^^,^Oblivion Soldier^,^^,^^
+^E_D11_ArkSkuls_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_ArkSkulH_1_Name^,^저주받은 해골 선장^,^^,^^,^Cursed Skeleton Captain^,^^,^^
+^E_D11_ArkSkulH_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_magicorb_1_Name^,^의식의 마법구^,^^,^^,^Soul Sphere^,^^,^^
+^E_D11_magicorb_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_holyegg_1_Name^,^의식의 마법구^,^^,^^,^Soul Sphere^,^^,^^
+^E_D11_holyegg_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Lion_1_Name^,^거친 로가르^,^^,^^,^Khapir's Lion^,^^,^^
+^E_D11_Lion_1_NameDetail^,^크피르의 펠로우^,^^,^^,^^,^^,^^
+^E_D11_Lioness_1_Name^,^날렵한 로아르^,^^,^^,^Khapir's Lioness^,^^,^^
+^E_D11_Lioness_1_NameDetail^,^크피르의 펠로우^,^^,^^,^^,^^,^^
+^E_D11_EldGhom_1_Name^,^소환된 마물^,^^,^^,^Summoned Cursed Spirit^,^^,^^
+^E_D11_EldGhom_1_NameDetail^,^루시드 엘퍼의 실험체^,^^,^^,^Lucid Alpher's Specimen^,^^,^^
+^E_D11_EldGhow_1_Name^,^소환된 마물^,^^,^^,^Summoned Cursed Spirit^,^^,^^
+^E_D11_EldGhow_1_NameDetail^,^루시드 엘퍼의 실험체^,^^,^^,^Lucid Alpher's Specimen^,^^,^^
+^E_D11_chaodawiz_1_Name^,^숨어든 흑마법사^,^^,^^,^Covert Dark Mage^,^^,^^
+^E_D11_chaodawiz_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_SkullS1_0_Name^,^과거에 갇힌 자^,^^,^^,^Forgotten Mortal^,^^,^^
+^E_C02_SkullS1_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_Tenta_0_Name^,^얼어붙은 거대 촉수^,^^,^^,^Giant Frost Tentacle^,^^,^^
+^E_C02_Tenta_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_deathsmoke_0_Name^,^살아 움직이는 토사물^,^^,^^,^Living Vapors^,^^,^^
+^E_C02_deathsmoke_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_Spir_000_Name^,^화약이 가득한 술통^,^^,^^,^Barrel of Gunpowder^,^^,^^
+^E_C02_Spir_000_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_Spir_001_Name^,^화약이 가득한 술통^,^^,^^,^Barrel of Gunpowder^,^^,^^
+^E_C02_Spir_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_ditugaren_2_Name^,^절명 선고자 디투가렌^,^^,^^,^Death Sentencer Datugaren^,^^,^^
+^E_D12_ditugaren_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_ditugaren_3_Name^,^절명 선고자 디투가렌^,^^,^^,^Death Sentencer Datugaren^,^^,^^
+^E_D12_ditugaren_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_ditugaren_4_Name^,^절명 선고자 디투가렌^,^^,^^,^Death Sentencer Datugaren^,^^,^^
+^E_D12_ditugaren_4_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Spir_001_Name^,^해골의 눈^,^^,^^,^Skeleton Gaze^,^^,^^
+^E_D11_Spir_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Jason_001_Name^,^제이슨의 환영^,^^,^^,^Jason's Welcome^,^^,^^
+^E_D13_Jason_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Sinsia_001_Name^,^신시아의 그림자^,^^,^^,^Cynthia's Spectre^,^^,^^
+^E_D13_Sinsia_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Sinsia_002_Name^,^신시아의 그림자^,^^,^^,^Cynthia's Spectre^,^^,^^
+^E_D13_Sinsia_002_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Spir_001_Name^,^마법 함정^,^^,^^,^Magical Trap^,^^,^^
+^E_D13_Spir_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Stone_Yellow_Name^,^녹색 마석^,^^,^^,^Green Manastone^,^^,^^
+^E_D11_Stone_Yellow_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Stone_Red_Name^,^적색 마석^,^^,^^,^Red Manastone^,^^,^^
+^E_D11_Stone_Red_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Stone_Puople_Name^,^푸른 마석^,^^,^^,^Blue Manastone^,^^,^^
+^E_D11_Stone_Puople_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_MagH_0_Name^,^마그마 하운드^,^^,^^,^Magma Hound^,^^,^^
+^E_D11_MagH_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_BearTrutan_0_Name^,^우두머리 트루탄^,^^,^^,^Trutan^,^^,^^
+^E_D11_BearTrutan_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_DarkGarmu_0_Name^,^가르므^,^^,^^,^Garme^,^^,^^
+^E_D11_Ceratops_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_2015Ad_1_Name^,^아듀 양이^,^^,^^,^Adieu Lambie^,^^,^^
+^E_D97_2015Ad_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_CaspCat_1_Name^,^신기루의 파노스^,^^,^^,^Panos^,^^,^^
+^E_D97_CaspCat_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_CrabSandy_0_Name^,^소라 게^,^^,^^,^Hermit Crab^,^^,^^
+^E_D97_CrabSandy_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_CrocOasi_0_Name^,^악어^,^^,^^,^Crocodile^,^^,^^
+^E_D97_CrocOasi_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_CSDevy_1_Name^,^바캉스 데비^,^^,^^,^Vacance Devy^,^^,^^
+^E_D97_CSDevy_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_FatOwl01_1_Name^,^영리한 토로^,^^,^^,^Cleverest Toro^,^^,^^
+^E_D97_FatOwl01_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_FatOwl02_1_Name^,^피요^,^^,^^,^Pillo^,^^,^^
+^E_D97_FatOwl02_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_FireBird_1_Name^,^아로트^,^^,^^,^Caldera Firebeak^,^^,^^
+^E_D97_FireBird_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_FishFloat_0_Name^,^아귀^,^^,^^,^Angler Fish^,^^,^^
+^E_D97_FishFloat_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_FlyBny01_1_Name^,^바니체^,^^,^^,^Bruniche^,^^,^^
+^E_D97_FlyBny01_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_FlyBny02_1_Name^,^엔자니^,^^,^^,^Enjani^,^^,^^
+^E_D97_FlyBny02_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_Karil_1_Name^,^초원의 니제아^,^^,^^,^Grasslands Nizea^,^^,^^
+^E_D97_Karil_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_Ltlion_1_Name^,^신비로운 티샤난^,^^,^^,^Mystic Tishanan^,^^,^^
+^E_D97_Ltlion_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_OctoRocko_0_Name^,^문어^,^^,^^,^Octopus^,^^,^^
+^E_D97_OctoRocko_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_Seahorse_0_Name^,^해마^,^^,^^,^Seahorse^,^^,^^
+^E_D97_Seahorse_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_SewWhaleB_1_Name^,^소잉 오르카^,^^,^^,^Sewing Orca^,^^,^^
+^E_D97_SewWhaleB_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_SewWhaleC_1_Name^,^러블리 웨일^,^^,^^,^Lovely Whale^,^^,^^
+^E_D97_SewWhaleC_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_Stur_0_Name^,^바다 거북^,^^,^^,^Sea Turtle^,^^,^^
+^E_D97_Stur_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_TGorilla_1_Name^,^팡고^,^^,^^,^Pango^,^^,^^
+^E_D97_TGorilla_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_TGorilla_2_Name^,^엠씨 팡고^,^^,^^,^MC Pango^,^^,^^
+^E_D97_TGorilla_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_TGorilla_3_Name^,^미스터 팡고^,^^,^^,^Mr. Pango^,^^,^^
+^E_D97_TGorilla_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_Tube02_1_Name^,^핑크 듈리^,^^,^^,^Pink Dooly^,^^,^^
+^E_D97_Tube02_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D97_Tube03_1_Name^,^블랙 듈리^,^^,^^,^Black Dooly^,^^,^^
+^E_D97_Tube03_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_BullHun_0_Name^,^외눈박이 훈바바^,^^,^^,^Hoonbaba^,^^,^^
+^E_D11_BullHun_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_WolfWild_0_Name^,^거친 그림자 펜리스^,^^,^^,^Fenris^,^^,^^
+^E_D11_WolfWild_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_megan_0_Name^,^폭군 카라스^,^^,^^,^Karresh^,^^,^^
+^E_D11_megan_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Bulmac_2_Name^,^혁명단 5분 대기조^,^^,^^,^Revolutionaries 5-Minute Crew^,^^,^^
+^E_D11_Bulmac_2_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_Bulmac_3_Name^,^혁명단 5분 대기조^,^^,^^,^Revolutionaries 5-Minute Crew^,^^,^^
+^E_D11_Bulmac_3_NameDetail^,^붉은 혁명단^,^^,^^,^Red Revolutionary^,^^,^^
+^E_D11_fireball_0_Name^,^불의 원소^,^^,^^,^Fire Arcane^,^^,^^
+^E_D11_fireball_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Spir_004_Name^,^중앙 가열로^,^^,^^,^Center Furnace^,^^,^^
+^E_D11_Spir_004_NameDetail^,^맥타이먼의 가열로^,^^,^^,^McTimon's Furnace^,^^,^^
+^E_D11_Spir_005_Name^,^헬리오 코크스^,^^,^^,^Heliobase^,^^,^^
+^E_D11_Spir_005_NameDetail^,^불안정 마법 환원제^,^^,^^,^Unstable Magic Reducing Agent^,^^,^^
+^E_D12_EldZomb_2_Name^,^은근히 강한 실험체^,^^,^^,^Quietly Strong Zombie^,^^,^^
+^E_D12_EldZomb_2_NameDetail^,^열쇠지기^,^^,^^,^Key Keeper^,^^,^^
+^E_D12_EldZomb_3_Name^,^은근히 강한 실험체^,^^,^^,^Quietly Strong Zombie^,^^,^^
+^E_D12_EldZomb_3_NameDetail^,^열쇠지기^,^^,^^,^Key Keeper^,^^,^^
+^E_D12_Devco_1_Name^,^심연의 인도자^,^^,^^,^Abyssal Guide^,^^,^^
+^E_D12_Devco_1_NameDetail^,^인형술사^,^^,^^,^Doll Master^,^^,^^
+^E_D11_Spir_0_Name^,^체크^,^^,^^,^Cheque^,^^,^^
+^E_D11_Spir_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Spir_HP80_1_Name^,^[제이슨] 루트체크(80%)^,^^,^^,^[Jason] Roochek (80%)^,^^,^^
+^E_D13_Spir_HP80_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Spir_HP80_2_Name^,^[제이슨] 루트체크(80%)^,^^,^^,^[Jason] Roochek (80%)^,^^,^^
+^E_D13_Spir_HP80_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Spir_HP80_3_Name^,^[제이슨] 루트체크(80%)^,^^,^^,^[Jason] Roochek (80%)^,^^,^^
+^E_D13_Spir_HP80_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Spir_HP80_4_Name^,^[제이슨] 루트체크(80%)^,^^,^^,^[Jason] Roochek (80%)^,^^,^^
+^E_D13_Spir_HP80_4_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Spir_HP60_1_Name^,^[제이슨] 루트체크(60%)^,^^,^^,^[Jason] Roochek (60%)^,^^,^^
+^E_D13_Spir_HP60_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Spir_HP60_2_Name^,^[제이슨] 루트체크(60%)^,^^,^^,^[Jason] Roochek (60%)^,^^,^^
+^E_D13_Spir_HP60_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Spir_HP60_3_Name^,^[제이슨] 루트체크(60%)^,^^,^^,^[Jason] Roochek (60%)^,^^,^^
+^E_D13_Spir_HP60_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Spir_HP60_4_Name^,^[제이슨] 루트체크(60%)^,^^,^^,^[Jason] Roochek (60%)^,^^,^^
+^E_D13_Spir_HP60_4_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Spir_HP40_1_Name^,^[제이슨] 루트체크(40%)^,^^,^^,^[Jason] Roochek (40%)^,^^,^^
+^E_D13_Spir_HP40_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Spir_HP40_2_Name^,^[제이슨] 루트체크(40%)^,^^,^^,^[Jason] Roochek (40%)^,^^,^^
+^E_D13_Spir_HP40_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Bomb_1_Name^,^고폭탄 점화통^,^^,^^,^Explosives Igniter^,^^,^^
+^E_D11_Bomb_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Kraken_0_Name^,^크라켄의 칼날 촉수^,^^,^^,^Kraken Razor Tentacle^,^^,^^
+^E_D11_Kraken_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_00_McWhale_0001_Name^,^메탈 레비아탄^,^^,^^,^Mechanical Leviathan^,^^,^^
+^E_00_McWhale_0001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_F04_PGLtlDra_0001_Name^,^각성 황금 라이쿠^,^^,^^,^Awakened Golden Laiku^,^^,^^
+^E_F04_PGLtlDra_0001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_P01_SelfKill_1_Name^,^자동 소멸 객체^,^^,^^,^Auto-destruct Object^,^^,^^
+^E_P01_SelfKill_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_p02_DeadBismo_02_Name^,^[분쟁] 파멸의 라노트^,^^,^^,^[Dispute] Deadly Ranote^,^^,^^
+^E_p02_DeadBismo_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D99_DrFrBoy0_0001_Name^,^파독의 포에리온^,^^,^^,^Poreon^,^^,^^
+^E_D99_DrFrBoy0_0001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D99_DrFrBoy1_0001_Name^,^빙설의 갈레리온^,^^,^^,^Garilon^,^^,^^
+^E_D99_DrFrBoy1_0001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D99_DrFrBoy2_0001_Name^,^성광의 루네리온^,^^,^^,^Runelon^,^^,^^
+^E_D99_DrFrBoy2_0001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D99_FlyWolf_0001_Name^,^토르카이^,^^,^^,^Torkai^,^^,^^
+^E_D99_FlyWolf_0001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D99_Garesha_001_Name^,^고난의 쟈미롯^,^^,^^,^Jamirot^,^^,^^
+^E_D99_Garesha_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D99_Hydra02_001_Name^,^타락의 로데쉬^,^^,^^,^Rodesh the Cruel^,^^,^^
+^E_D99_Hydra02_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D99_KingBat_002_Name^,^황금의 샤키바^,^^,^^,^Shakiba^,^^,^^
+^E_D99_KingBat_002_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D99_MPhoenix_0_Name^,^적광의 나프니스^,^^,^^,^Scarlet Narnis^,^^,^^
+^E_D99_MPhoenix_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D99_Mutant_0_Name^,^흑염의 바일리스^,^^,^^,^Black Baileys^,^^,^^
+^E_D99_Mutant_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D99_WhaleRed_0001_Name^,^황혼의 그라비온^,^^,^^,^Graveon^,^^,^^
+^E_D99_WhaleRed_0001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_Spir_002_Name^,^마법 함정^,^^,^^,^Magical Trap^,^^,^^
+^E_D13_Spir_002_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_SO_01_Name^,^마력의 공명^,^^,^^,^Ethereal Flux^,^^,^^
+^E_D12_SO_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D12_EldGhow_2_Name^,^실험체 H1-14^,^^,^^,^Specimen H1-14^,^^,^^
+^E_D12_EldGhow_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_humadevy_1_Name^,^마법 소녀 데브리^,^^,^^,^Spellcaster Devri^,^^,^^
+^E_C02_spirspark_1_Name^,^마법에 홀린 요정^,^^,^^,^Spellbound Fairy^,^^,^^
+^E_C02_spirwisp_1_Name^,^매혹의 위습^,^^,^^,^Enchanted Wisp^,^^,^^
+^E_C02_owl_1_Name^,^마법에 홀린 피요^,^^,^^,^Spellbound Piyo^,^^,^^
+^E_C02_ltllion_1_Name^,^마법에 홀린 니제아^,^^,^^,^Spellbound Nijeya^,^^,^^
+^E_P02_IroHorsa_0001_Name^,^지배의 누실리스^,^^,^^,^Nusilis of Domination^,^^,^^
+^E_P02_KagoyleA_001_Name^,^폭염의 록시너스^,^^,^^,^Roxinus of Heat Wave^,^^,^^
+^E_P02_MegantesA_001_Name^,^냉정의 파이톤^,^^,^^,^Phyton of Calm^,^^,^^
+^E_C02_humadevy_1_NameDetail^,^매혹 마법 전문가^,^^,^^,^Enchanted Spellcasting Expert^,^^,^^
+^E_C02_spirspark_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_spirwisp_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_owl_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_C02_ltllion_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_P02_IroHorsa_0001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_P02_KagoyleA_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_P02_MegantesA_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_holyegg_2_Name^,^의식의 마법구^,^^,^^,^Soul Sphere^,^^,^^
+^E_D11_LelfYuDas_1_Name^,^루시드 엘퍼^,^^,^^,^Lucid Alpher^,^^,^^
+^E_D11_altar_01_Name^,^봉쇄의 제단^,^^,^^,^Containment Altar^,^^,^^
+^E_D11_altar_02_Name^,^약화의 제단^,^^,^^,^Devitalizing Altar^,^^,^^
+^E_D11_altar_03_Name^,^격류의 제단^,^^,^^,^Torrent Altar^,^^,^^
+^E_D11_altarmana_01_Name^,^제단의 힘 : 봉쇄^,^^,^^,^Altar Strength: Shield^,^^,^^
+^E_D11_altarmana_02_Name^,^제단의 힘 : 약화^,^^,^^,^Altar Strength: Weakening^,^^,^^
+^E_D11_altarmana_03_Name^,^제단의 힘 : 격류^,^^,^^,^Altar Strength: Torrent^,^^,^^
+^E_D11_overload_01_Name^,^억누를 수 없는 힘^,^^,^^,^Unconstrained Strength^,^^,^^
+^E_D11_manastorm_0_Name^,^마력 폭풍^,^^,^^,^Spell Storm^,^^,^^
+^E_D11_puremana_01_Name^,^타락하지 않은 기운^,^^,^^,^Steady Aura^,^^,^^
+^E_D11_phase_01_Name^,^루시드 엘퍼^,^^,^^,^Lucid Alpher^,^^,^^
+^E_D11_phase_02_Name^,^루시드 엘퍼^,^^,^^,^Lucid Alpher^,^^,^^
+^E_D11_phase_03_Name^,^루시드 엘퍼^,^^,^^,^Lucid Alpher^,^^,^^
+^E_D11_smallstorm_0_Name^,^폭풍의 눈^,^^,^^,^Eye of the Storm^,^^,^^
+^E_D11_altarcheck_01_Name^,^해제 : 봉쇄의 제단^,^^,^^,^Release: Containment Altar^,^^,^^
+^E_D11_altarcheck_02_Name^,^해제 : 약화의 제단^,^^,^^,^Release: Devitalizing Altar^,^^,^^
+^E_D11_altarcheck_03_Name^,^해제 : 격류의 제단^,^^,^^,^Release: Torrent Altar^,^^,^^
+^E_D11_holyegg_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_LelfYuDas_1_NameDetail^,^타락한 옛 대제사장^,^^,^^,^Fallen High Priest^,^^,^^
+^E_D11_altar_01_NameDetail^,^위치체크^,^^,^^,^Location Check^,^^,^^
+^E_D11_altar_02_NameDetail^,^위치체크^,^^,^^,^Location Check^,^^,^^
+^E_D11_altar_03_NameDetail^,^위치체크^,^^,^^,^Location Check^,^^,^^
+^E_D11_altarmana_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_altarmana_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_altarmana_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_overload_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_manastorm_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_puremana_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_phase_01_NameDetail^,^페이즈 1 체커^,^^,^^,^Phase 1 Checker^,^^,^^
+^E_D11_phase_02_NameDetail^,^페이즈 2 체커^,^^,^^,^Phase 2 Checker^,^^,^^
+^E_D11_phase_03_NameDetail^,^페이즈 3 체커^,^^,^^,^Phase 3 Checker^,^^,^^
+^E_D11_smallstorm_0_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_altarcheck_01_NameDetail^,^스킬 트리거^,^^,^^,^Skill Trigger^,^^,^^
+^E_D11_altarcheck_02_NameDetail^,^스킬 트리거^,^^,^^,^Skill Trigger^,^^,^^
+^E_D11_altarcheck_03_NameDetail^,^스킬 트리거^,^^,^^,^Skill Trigger^,^^,^^
+^E_D98_StatueR_3_Name^,^루비 보호석^,^^,^^,^Ruby Gemstone^,^^,^^
+^E_D98_StatueR_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D98_StatueB_3_Name^,^사파이어 보호석^,^^,^^,^Sapphire Gemstone^,^^,^^
+^E_D98_StatueB_3_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D13_CapJason_01_Name^,^약화된 제이슨^,^^,^^,^Weakened Jason^,^^,^^
+^E_D13_CapJason_01_NameDeatil^,^^,^^,^^,^^,^^,^^
+^E_D12_CapElder_01_Name^,^약화된 하케인 공작^,^^,^^,^Weakened Duke Elder Hakain^,^^,^^
+^E_D12_CapElder_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Cabebombf_2_Name^,^크피르 도적단 좀도둑^,^^,^^,^Khapir Rogue^,^^,^^
+^E_D11_Cabebombf_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_arcrerkle_2_Name^,^크피르의 환영^,^^,^^,^Khapir Illusion^,^^,^^
+^E_D11_arcrerkle_2_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_cprfire_01_Name^,^함정 장치^,^^,^^,^Trap Device^,^^,^^
+^E_D11_cprfire_01_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_cprfire_02_Name^,^함정 장치^,^^,^^,^Trap Device^,^^,^^
+^E_D11_cprfire_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_cprfire_03_Name^,^함정 장치^,^^,^^,^Trap Device^,^^,^^
+^E_D11_cprfire_03_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_cprfire_04_Name^,^함정 장치^,^^,^^,^Trap Device^,^^,^^
+^E_D11_cprfire_04_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_Trap_1_Name^,^혁명단 덫^,^^,^^,^Revolutionary Trap^,^^,^^
+^E_D11_Trap_1_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_cprfire_001_Name^,^함정 장치^,^^,^^,^Trap Device^,^^,^^
+^E_D11_cprfire_001_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_cprfire_002_Name^,^함정 장치^,^^,^^,^Trap Device^,^^,^^
+^E_D11_cprfire_002_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_cprfire_003_Name^,^함정 장치^,^^,^^,^Trap Device^,^^,^^
+^E_D11_cprfire_003_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_cprfire_004_Name^,^함정 장치^,^^,^^,^Trap Device^,^^,^^
+^E_D11_cprfire_004_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_ElferSkill_1_Name^,^루시드 엘퍼^,^^,^^,^Lucid Elpher^,^^,^^
+^E_D11_overload_02_Name^,^억누를 수 없는 힘^,^^,^^,^Power tHat can not be suppressed^,^^,^^
+^E_D11_overload_02_NameDetail^,^^,^^,^^,^^,^^,^^
+^E_D11_overload_03_Name^,^억누를 수 없는 힘^,^^,^^,^Power tHat can not be suppressed^,^^,^^
+^E_D11_overload_03_NameDetail^,^^,^^,^^,^^,^^,^^

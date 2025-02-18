@@ -1,0 +1,87 @@
+t_key,t_korean,t_jpn,t_chinese,t_enu
+^map_c01_enter_0^,^Western Town^,^西部市街^,^^,^^
+^map_c01_enter_1^,^Victory Plaza^,^勝利の大広場/工業地区^,^^,^^
+^map_c01_enter_2^,^Business District^,^商業地区^,^^,^^
+^map_c01_enter_3^,^Hakanas Castle Main Gate^,^ハカナス首都城 正門^,^^,^^
+^map_c01_forge_0^,^Hakanas Castle Main Gate^,^ハカナス首都城 正門^,^^,^^
+^map_c01_forge_1^,^Industrial District^,^工業地区^,^^,^^
+^map_c01_forge_2^,^Victory Plaza^,^勝利の大広場^,^^,^^
+^map_c01_west_0^,^Southern Town^,^南部市街^,^^,^^
+^map_c01_west_1^,^Hakanas Castle Preface^,^ハカナス首都城 西門^,^^,^^
+^map_c01_west_2^,^Fellow Laboratories^,^フェローズ研究所^,^^,^^
+^map_c01_fellow_0^,^Hakanas Castle Preface^,^ハカナス首都城 西門^,^^,^^
+^map_c01_fellow_1^,^Fellow Laboratories^,^フェローズ研究所^,^^,^^
+^map_c01_fellow_2^,^Western Town^,^西部市街^,^^,^^
+^map_c01_road01_0^,^Western Town^,^西部市街^,^^,^^
+^map_c01_road01_1^,^Victory Plaza^,^勝利の大広場^,^^,^^
+^map_c01_road01_2^,^Business District^,^商業地区^,^^,^^
+^map_c01_road01_3^,^Hakanas Castle Main Gate^,^ハカナス首都城 正門^,^^,^^
+^map_c01_square01_0^,^Western Town^,^西部市街^,^^,^^
+^map_c01_square01_1^,^Road to Glory^,^栄光の道^,^^,^^
+^map_c01_square02_0^,^Road to Glory^,^栄光の道^,^^,^^
+^map_c01_square02_1^,^Guard Training Center^,^警備隊修練場^,^^,^^
+^map_c01_square03_0^,^Auction Houses and Banks^,^オークション/銀行^,^^,^^
+^map_c01_square03_1^,^Hakanas Castle^,^ハカナス王城^,^^,^^
+^map_c01_square03_2^,^Guard Training Center^,^警備隊修練場^,^^,^^
+^map_c01_square03_3^,^Hakanas Castle Main Gate^,^ハカナス首都城 正門^,^^,^^
+^map_c01_castle01_0^,^Victory Plaza^,^勝利の大広場^,^^,^^
+^map_c01_castle01_1^,^Baela's Memorial Library^,^バエランス記念図書館^,^^,^^
+^map_c01_castle01_2^,^Hakanas Castle^,^ハカナス王城^,^^,^^
+^map_c01_castle02_0^,^Kingdom Council^,^王国議会^,^^,^^
+^map_c01_castle02_1^,^Ellora Sanctuary^,^エローラ聖所^,^^,^^
+^map_c01_castle02_2^,^Baela's Memorial Library^,^バエランス記念図書館^,^^,^^
+^map_c01_castle02_3^,^Hakanas Castle^,^ハカナス王城^,^^,^^
+^map_c01_castle03_0^,^Hakanas Castle^,^ハカナス王城^,^^,^^
+^map_c01_castle03_1^,^Ellora Sanctuary^,^エローラ聖所^,^^,^^
+^map_c01_castle04_0^,^Hakanas Castle^,^ハカナス王城^,^^,^^
+^map_c01_castle04_1^,^Kingdom Forest^,^王国樹林地^,^^,^^
+^map_c01_castle04_2^,^Ellora Sanctuary^,^エローラ聖所^,^^,^^
+^map_c01_east01_0^,^Industrial District^,^工業地区^,^^,^^
+^map_c01_east01_1^,^Business District^,^商業地区^,^^,^^
+^map_c01_east01_2^,^Eastern Town^,^東部市街^,^^,^^
+^map_c01_east02_0^,^Business District^,^商業地区^,^^,^^
+^map_c01_east02_1^,^Guard Training Center^,^警備隊修練場^,^^,^^
+^map_c01_east02_2^,^Hakanas Alumni^,^ハカナス東門^,^^,^^
+^map_c01_east02_3^,^Eastern Town^,^東部市街^,^^,^^
+^map_c01_plain01_0^,^Eastern Gate of The Capital City^,^首都城東部関門^,^^,^^
+^map_c01_plain01_1^,^Hakanas Alumni^,^ハカナス東門^,^^,^^
+^map_c01_plain01_2^,^Wild Adventurer's Harbor^,^荒い冒険家の港^,^^,^^
+^map_c01_plain02_0^,^Hakanas Capital City^,^ハカナス首都城^,^^,^^
+^map_c01_plain02_1^,^Wild Adventurer's Harbor^,^荒い冒険家の港^,^^,^^
+^map_c01_plain02_2^,^Capital City East Gate^,^ハカナス首都城 東門関門^,^^,^^
+^map_c01_plain03_0^,^Hakanas Capital City Gate^,^ハカナス首都城 関門^,^^,^^
+^map_c01_plain03_1^,^Elgrain Farm Area^,^エルグレーン農場地帯^,^^,^^
+^map_c01_plain03_2^,^Hakanas Capital City^,^ハカナス首都城^,^^,^^
+^map_c01_plain04_0^,^Elgrain Farm Area^,^エルグレーン農場地帯^,^^,^^
+^map_c01_plain04_1^,^Guild Farms^,^ギルド農場^,^^,^^
+^map_c01_plain04_2^,^Hakanas Capital City Gate^,^ハカナス首都城 関門^,^^,^^
+^map_c01_plain05_0^,^Hakanas Capital City^,^ハカナス首都城^,^^,^^
+^map_c01_plain05_1^,^Elgrain Farm Area^,^エルグレーン農場地帯^,^^,^^
+^map_c01_plain05_2^,^Guild Farm^,^ギルド農場^,^^,^^
+^map_c01_plain06_0^,^Battlefield of Glory^,^栄光の戦場^,^^,^^
+^map_c01_plain06_1^,^Hakanas Preface^,^ハカナス西門^,^^,^^
+^map_c01_plain06_2^,^Guild Farm^,^ギルド農場^,^^,^^
+^map_f02_four_0^,^KellWoods Village^,^ケルウーズ村^,^^,^^
+^map_f02_four_1^,^Northern Guard Tower^,^北部警備塔^,^^,^^
+^map_f02_four_2^,^Kellwoods Farm^,^ケルウーズ農場^,^^,^^
+^map_f02_two_0^,^KellWoods Village^,^ケルウーズ村^,^^,^^
+^map_f02_two_1^,^Guardian Divine Dragon's Gate^,^守護ゴッドドラゴンの関門^,^^,^^
+^map_f03_first_0^,^Pirate Lair^,^海賊団巣窟^,^^,^^
+^map_f03_first_1^,^Lake of Life^,^生命の湖^,^^,^^
+^map_f03_first_2^,^Reed Wind Village^,^アシ風の村^,^^,^^
+^map_f03_second_0^,^Traitor's Swamp^,^変節者の沼地^,^^,^^
+^map_f03_second_1^,^Wailing Cliff Village^,^悲しみの絶壁村^,^^,^^
+^map_f03_second_2^,^Waterfall Village Ruins^,^滝の村廃墟^,^^,^^
+^map_f03_three_0^,^Waterfall Village Ruins^,^滝の村廃墟^,^^,^^
+^map_f03_three_1^,^Traitor's Swamp^,^変節者の沼地^,^^,^^
+^map_f03_three_2^,^Wailing Cliff Village^,^悲しみの絶壁村^,^^,^^
+^map_f03_four_0^,^Waterfall Village Ruins^,^滝の村廃墟^,^^,^^
+^map_f03_four_1^,^Parlak's Territory^,^パルラーク領地^,^^,^^
+^map_f03_four_2^,^Wailing Cliff Village^,^悲しみの絶壁村^,^^,^^
+^map_f03_five_0^,^Parlac Ice Castle^,^パルラーク氷城^,^^,^^
+^map_f03_five_1^,^Blue Moonlight Village^,^青い月光の村^,^^,^^
+^map_f03_five_2^,^Waterfall Village Ruins^,^滝の村廃墟^,^^,^^
+^map_f03_first01_0^,^Traitor's Swamp^,^変節者の沼地^,^^,^^
+^map_f03_first01_1^,^Reed Wind Coast^,^アシ風の海岸^,^^,^^
+^map_f03_first01_2^,^Lake of Life^,^生命の湖^,^^,^^
+^map_f03_first01_3^,^Wailing Cliff Village^,^悲しみの絶壁村^,^^,^^

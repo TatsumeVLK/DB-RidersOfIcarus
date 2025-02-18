@@ -1,0 +1,41 @@
+t_key,t_korean,t_jpn,t_chinese,t_enu
+^DY_0_0_0000_Name^,^Gold General Hair Dye^,^一般染色薬(ゴールド)^,^^,^^
+^DY_0_0_0000_description^,^It is a normal gold dye.^,^ゴールドの一般染色薬。^,^^,^^
+^DY_0_0_0001_Name^,^High quality gold dye.^,^高級染色薬(ゴールド)^,^^,^^
+^DY_0_0_0001_description^,^It is a high-quality gold dye.^,^ゴールドの高級染色薬。^,^^,^^
+^DY_0_0_0002_Name^,^Light yellow general Random dye^,^一般ランダム染色薬(ライトイェロー)^,^^,^^
+^DY_0_0_0002_description^,^It is a light yellow general Random dye.^,^ライトイェローの一般ランダム染色薬。^,^^,^^
+^DY_0_0_0003_Name^,^Light blue general Random dye^,^一般ランダム染色薬(ライトブルー)^,^^,^^
+^DY_0_0_0003_description^,^It is a light blue general Random dye.^,^ライトブルーの一般ランダム染色薬。^,^^,^^
+^DY_0_0_0004_Name^,^Light red general Random dye^,^一般ランダム染色薬(ライトレッド)^,^^,^^
+^DY_0_0_0004_description^,^It is a light red general Random dye.^,^ライトレッドの一般ランダム染色薬。^,^^,^^
+^DY_0_0_0005_Name^,^Light yellow high-grade Random dye^,^高級ランダム染色薬(ライトイェロー)^,^^,^^
+^DY_0_0_0005_description^,^It is a light yellow high-quality Random dye.^,^ライトイェローの高級ランダム染色薬。^,^^,^^
+^DY_0_0_0006_Name^,^Light blue advanced Random dye^,^高級ランダム染色薬(ライトブルー)^,^^,^^
+^DY_0_0_0006_description^,^It is a light blue high-quality Random dye.^,^ライトブルーの高級ランダム染色薬。^,^^,^^
+^DY_0_0_0007_Name^,^Light red high-grade Random dye^,^高級ランダム染色薬(ライトレッド)^,^^,^^
+^DY_0_0_0007_description^,^It is a light red high-quality Random dye.^,^ライトレッドの高級ランダム染色薬。^,^^,^^
+^DY_1_0_0000_Name^,^hair Random dye^,^ヘアー染色薬(ランダム)^,^^,^^
+^DY_1_0_0000_description^,^It is a Random hair dye.^,^ランダムのヘアー染色薬。^,^^,^^
+^DY_1_0_0001_Name^,^bridge Random hair dye^,^ハイライト染色薬(ランダム)^,^^,^^
+^DY_1_0_0001_description^,^Bridge Random hair dye.^,^ランダムのハイライト染色薬。^,^^,^^
+^DY_1_0_0002_Name^,^red hair dye^,^ヘアー染色薬(レッド)^,^^,^^
+^DY_1_0_0002_description^,^It is a red hair dye.^,^レッドのヘアー染色薬。^,^^,^^
+^DY_1_0_0003_Name^,^blue hair dye^,^ヘアー染色薬(ブルー)^,^^,^^
+^DY_1_0_0003_description^,^Blue hair dye.^,^ブルーのヘアー染色薬。^,^^,^^
+^DY_1_0_0004_Name^,^yellow hair dye^,^ヘアー染色薬(イェロー)^,^^,^^
+^DY_1_0_0004_description^,^It is a yellow hair dye.^,^イェローのヘアー染色薬。^,^^,^^
+^DY_1_0_0005_Name^,^white hair dye^,^ヘアー染色薬(ホワイト)^,^^,^^
+^DY_1_0_0005_description^,^It is a white hair dye.^,^ホワイトのヘアー染色薬。^,^^,^^
+^DY_1_0_0006_Name^,^black hair dye^,^ヘアー染色薬(ブラック)^,^^,^^
+^DY_1_0_0006_description^,^It is a black hair dye.^,^ブラックのヘアー染色薬。^,^^,^^
+^DY_1_0_0007_Name^,^red bridge dye^,^ハイライト染色薬(レッド)^,^^,^^
+^DY_1_0_0007_description^,^It is a red bridge dye.^,^レッドのハイライト染色薬。^,^^,^^
+^DY_1_0_0008_Name^,^blue bridge dye^,^ハイライト染色薬(ブルー)^,^^,^^
+^DY_1_0_0008_description^,^Blue bridge dye.^,^ブルーのハイライト染色薬。^,^^,^^
+^DY_1_0_0009_Name^,^yellow bridge dye^,^ハイライト染色薬(イェロー)^,^^,^^
+^DY_1_0_0009_description^,^It is a yellow bridge dye.^,^イェローのハイライト染色薬。^,^^,^^
+^DY_1_0_0010_Name^,^white bridge dye^,^ハイライト染色薬(ホワイト)^,^^,^^
+^DY_1_0_0010_description^,^It is a white bridge dye.^,^ホワイトのハイライト染色薬。^,^^,^^
+^DY_1_0_0011_Name^,^black bridge dye^,^ハイライト染色薬(ブラック)^,^^,^^
+^DY_1_0_0011_description^,^It is a black bridge dye.^,^ブラックのハイライト染色薬。^,^^,^^

@@ -1,0 +1,1702 @@
+t_type,t_typename,t_key,t_eng
+^Co^,^Common^,^E_01_0_0245_0000_Name^,^Leo^
+^Co^,^Common^,^E_01_0_0245_0000_NameDetail^,^^
+^Co^,^Common^,^E_00_0_0686_0000_Name^,^Eagle^
+^Co^,^Common^,^E_00_0_0686_0000_NameDetail^,^^
+^Co^,^Common^,^E_00_0_0083_0000_Name^,^Bear^
+^Co^,^Common^,^E_00_0_0083_0000_NameDetail^,^^
+^Co^,^Common^,^E_00_0_0602_0000_Name^,^Braghin Scout^
+^Co^,^Common^,^E_00_0_0602_0000_NameDetail^,^^
+^Co^,^Common^,^E_00_0_0704_0000_Name^,^Tempest Dragon^
+^Co^,^Common^,^E_00_0_0704_0000_NameDetail^,^^
+^Co^,^Common^,^E_00_0_0245_0000_Name^,^Leo^
+^Co^,^Common^,^E_00_0_0245_0000_NameDetail^,^^
+^Co^,^Common^,^E_00_0_0605_0000_Name^,^Braghin Pillager (for video)^
+^Co^,^Common^,^E_00_0_0605_0000_NameDetail^,^^
+^Co^,^Common^,^E_00_0_1100_0000_Name^,^Shadowcaster Archpriest (for video)^
+^Co^,^Common^,^E_00_0_1100_0000_NameDetail^,^^
+^Co^,^Common^,^E_99_0_1501_0000_Name^,^Luminous Emissary^
+^Co^,^Common^,^E_99_0_1501_0000_NameDetail^,^^
+^Co^,^Common^,^E_99_0_0644_0000_Name^,^Reaper^
+^Co^,^Common^,^E_99_0_0644_0000_NameDetail^,^^
+^Co^,^Common^,^E_99_0_0003_0000_Name^,^Karade Butcher^
+^Co^,^Common^,^E_99_0_0003_0000_NameDetail^,^^
+^Co^,^Common^,^E_99_0_0002_0000_Name^,^Karade Raider^
+^Co^,^Common^,^E_99_0_0002_0000_NameDetail^,^^
+^Co^,^Common^,^E_99_0_0004_0000_Name^,^Jason Clakey^
+^Co^,^Common^,^E_99_0_0004_0000_NameDetail^,^Karrad Pirate^
+^Co^,^Common^,^E_99_0_0007_0000_Name^,^Blackbreath^
+^Co^,^Common^,^E_99_0_0007_0000_NameDetail^,^Tempest Dragon^
+^Co^,^Common^,^E_99_0_0011_0000_Name^,^Bochepa^
+^Co^,^Common^,^E_99_0_0011_0000_NameDetail^,^^
+^Co^,^Common^,^E_99_0_0006_0000_Name^,^Karade Deckhand^
+^Co^,^Common^,^E_99_0_0006_0000_NameDetail^,^^
+^Co^,^Common^,^E_99_0_0008_0000_Name^,^Karade Runner^
+^Co^,^Common^,^E_99_0_0008_0000_NameDetail^,^^
+^Co^,^Common^,^E_99_0_0005_0000_Name^,^Ruthless Jeradin^
+^Co^,^Common^,^E_99_0_0005_0000_NameDetail^,^Karade Pirate^
+^Co^,^Common^,^E_99_0_0009_0000_Name^,^Cinderwing^
+^Co^,^Common^,^E_99_0_0009_0000_NameDetail^,^Tempest Dragon^
+^Co^,^Common^,^E_99_0_0010_0000_Name^,^Karasha the Dark One^
+^Co^,^Common^,^E_99_0_0010_0000_NameDetail^,^Salant Henchman^
+^Co^,^Common^,^E_99_0_0014_0000_Name^,^Karade Raider^
+^Co^,^Common^,^E_99_0_0014_0000_NameDetail^,^^
+^Co^,^Common^,^E_99_0_0012_0000_Name^,^Karade Cutthroat^
+^Co^,^Common^,^E_99_0_0012_0000_NameDetail^,^^
+^Co^,^Common^,^E_03_0_1300_0001_Name^,^Beached Karade Pirate^
+^Co^,^Common^,^E_03_0_1300_0001_NameDetail^,^^
+^Co^,^Common^,^E_03_0_0003_0000_Name^,^Bismuth the Ruthless^
+^Co^,^Common^,^E_03_0_0003_0000_NameDetail^,^Pirate Captain^
+^Co^,^Common^,^E_99_0_0008_0001_Name^,^Karade Runner^
+^Co^,^Common^,^E_99_0_0008_0001_NameDetail^,^^
+^Co^,^Common^,^E_99_0_0008_0002_Name^,^Karade Runner^
+^Co^,^Common^,^E_99_0_0008_0002_NameDetail^,^^
+^Co^,^Common^,^e_f04_DragAster_001_Name^,^Flotier^
+^Co^,^Common^,^e_f04_DragAster_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_DragBonwy_001_Name^,^Vylet the Deep One^
+^Co^,^Common^,^e_f04_DragBonwy_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_DragAster_002_Name^,^Ashwyrm^
+^Co^,^Common^,^e_f04_DragAster_002_NameDetail^,^^
+^Co^,^Common^,^e_f04_ImmoSoldi_001_Name^,^Fallen Legion Soldier^
+^Co^,^Common^,^e_f04_ImmoSoldi_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_Dimp_001_Name^,^Fallen Legion Imp^
+^Co^,^Common^,^e_f04_Dimp_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_DragCaras_002_Name^,^Nightmare Varane^
+^Co^,^Common^,^e_f04_DragCaras_002_NameDetail^,^^
+^Co^,^Common^,^e_f04_DragAgnas_001_Name^,^Keeshar^
+^Co^,^Common^,^e_f04_DragAgnas_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_FishFloat_001_Name^,^Gapish^
+^Co^,^Common^,^e_f04_FishFloat_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_ImmoHopli_001_Name^,^Fallen Legion Lieutenant^
+^Co^,^Common^,^e_f04_ImmoHopli_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_FishFloat_002_Name^,^Gapish^
+^Co^,^Common^,^e_f04_FishFloat_002_NameDetail^,^^
+^Co^,^Common^,^e_f04_DragCaras_005_Name^,^Seabeast^
+^Co^,^Common^,^e_f04_DragCaras_005_NameDetail^,^^
+^Co^,^Common^,^e_f04_DragRasha_001_Name^,^Armored Thunderhawk^
+^Co^,^Common^,^e_f04_DragRasha_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_FlyRay_001_Name^,^Jumawu^
+^Co^,^Common^,^e_f04_FlyRay_001_NameDetail^,^^
+^Co^,^Common^,^a00_CM_rooting_0001_Name^,^Worn Chest^
+^Co^,^Common^,^a00_CM_rooting_0001_NameDetail^,^^
+^Co^,^Common^,^a00_CM_rooting_0002_Name^,^Worn Chest^
+^Co^,^Common^,^a00_CM_rooting_0002_NameDetail^,^^
+^Co^,^Common^,^a00_CM_rooting_0003_Name^,^Worn Pouch^
+^Co^,^Common^,^a00_CM_rooting_0003_NameDetail^,^^
+^Co^,^Common^,^a00_CM_rooting_0004_Name^,^Fine Pouch^
+^Co^,^Common^,^a00_CM_rooting_0004_NameDetail^,^^
+^Co^,^Common^,^a00_CM_rooting_0005_Name^,^Worn Floating Pouch^
+^Co^,^Common^,^a00_CM_rooting_0005_NameDetail^,^^
+^Co^,^Common^,^a00_CM_rooting_0006_Name^,^Fine Floating Pouch^
+^Co^,^Common^,^a00_CM_rooting_0006_NameDetail^,^^
+^Co^,^Common^,^a00_CM_rooting_0007_Name^,^Fine Chest^
+^Co^,^Common^,^a00_CM_rooting_0007_NameDetail^,^^
+^Co^,^Common^,^a00_CM_rooting_0008_Name^,^Superb Floating Pouch^
+^Co^,^Common^,^a00_CM_rooting_0008_NameDetail^,^^
+^Co^,^Common^,^a00_CM_rooting_0009_Name^,^Superb Chest^
+^Co^,^Common^,^a00_CM_rooting_0009_NameDetail^,^^
+^Co^,^Common^,^e_f04_ImmoKnigh_001_Name^,^Fallen Legion Knight^
+^Co^,^Common^,^e_f04_ImmoKnigh_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_ImmoUranu_001_Name^,^Warlord Urvus^
+^Co^,^Common^,^e_f04_ImmoUranu_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_ImmoGorak_001_Name^,^Grand Warlord Goraktus^
+^Co^,^Common^,^e_f04_ImmoGorak_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_ImmoTeran_001_Name^,^Warlord Teranus^
+^Co^,^Common^,^e_f04_ImmoTeran_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_ImmoToomb_001_Name^,^Warlord Toomba^
+^Co^,^Common^,^e_f04_ImmoToomb_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_ImmoImpsu_001_Name^,^Fallen Legion Gargoyle Summoner^
+^Co^,^Common^,^e_f04_ImmoImpsu_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_ImmoMagi_001_Name^,^Fallen Legion Enchantress^
+^Co^,^Common^,^e_f04_ImmoMagi_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_ImmoLilis_001_Name^,^Fallen Legion Lilith^
+^Co^,^Common^,^e_f04_ImmoLilis_001_NameDetail^,^^
+^Co^,^Common^,^E_f04_zelna_001_Name^,^Will of Zelnaris^
+^Co^,^Common^,^E_f04_zelna_001_NameDetail^,^^
+^Co^,^Common^,^E_f04_zelna_002_Name^,^Remnant of Zelnaris^
+^Co^,^Common^,^E_f04_zelna_002_NameDetail^,^^
+^Co^,^Common^,^E_05_0_0001_0000_Name^,^Temple Gargoyle^
+^Co^,^Common^,^E_05_0_0001_0000_NameDetail^,^^
+^Co^,^Common^,^E_05_0_0002_0000_Name^,^Obsidian Gargoyle^
+^Co^,^Common^,^E_05_0_0002_0000_NameDetail^,^^
+^Co^,^Common^,^E_05_0_0003_0000_Name^,^Stone Gargoyle^
+^Co^,^Common^,^E_05_0_0003_0000_NameDetail^,^^
+^Co^,^Common^,^E_f04_SoulStone_001_Name^,^Fallen Legion Soul Stone^
+^Co^,^Common^,^E_f04_SoulStone_001_NameDetail^,^^
+^Co^,^Common^,^e_f04_ImmoKnigh_002_Name^,^Fallen Legion Knight^
+^Co^,^Common^,^e_f04_ImmoKnigh_002_NameDetail^,^^
+^Co^,^Common^,^e_f04_ImmoMagi_002_Name^,^Fallen Legion Enchantress^
+^Co^,^Common^,^e_f04_ImmoMagi_002_NameDetail^,^^
+^Co^,^Common^,^e_f04_magic_door_001_Name^,^Fallen Doorway^
+^Co^,^Common^,^e_f04_magic_door_001_NameDetail^,^^
+^Co^,^Common^,^SO_TEST_1_0066_Name^,^Jumawu's Black Hole^
+^Co^,^Common^,^SO_TEST_1_0066_NameDetail^,^^
+^Co^,^Common^,^E_D07_AmonDos_001_Name^,^Darkmage Amandos^
+^Co^,^Common^,^E_D07_AmonDos_001_NameDetail^,^^
+^Co^,^Common^,^E_D07_GoleHogmu_001_Name^,^Hogokut the Raider^
+^Co^,^Common^,^E_D07_GoleHogmu_001_NameDetail^,^^
+^Co^,^Common^,^E_D07_GoleAncgu_001_Name^,^Corrupted Golem Cannoneer^
+^Co^,^Common^,^E_D07_GoleAncgu_001_NameDetail^,^^
+^Co^,^Common^,^E_D07_GoleComrot_001_Name^,^Corrupted Golem Raider^
+^Co^,^Common^,^E_D07_GoleComrot_001_NameDetail^,^^
+^Co^,^Common^,^E_D07_GoleRot_001_Name^,^Corrupted Golem Bomber^
+^Co^,^Common^,^E_D07_GoleRot_001_NameDetail^,^^
+^Co^,^Common^,^E_D07_GagoTampl_01_Name^,^Bladed Gargoyle^
+^Co^,^Common^,^E_D07_GagoTampl_01_NameDetail^,^^
+^Co^,^Common^,^E_D07_DragCaras_001_Name^,^Great Karasha the Dark One^
+^Co^,^Common^,^E_D07_DragCaras_001_NameDetail^,^^
+^Co^,^Common^,^E_D07_FanaDawiz_001_Name^,^Dark Necromancer^
+^Co^,^Common^,^E_D07_FanaDawiz_001_NameDetail^,^^
+^Co^,^Common^,^E_D07_LightBug_001_Name^,^Luminous Insect^
+^Co^,^Common^,^E_D07_LightBug_001_NameDetail^,^^
+^Co^,^Common^,^E_D07_BurdGole_001_Name^,^Golem Transport Zeppelin^
+^Co^,^Common^,^E_D07_BurdGole_001_NameDetail^,^^
+^Co^,^Common^,^E_D07_BugsBurbo_001_Name^,^Bubo the Graverobber^
+^Co^,^Common^,^E_D07_BugsBurbo_001_NameDetail^,^^
+^Co^,^Common^,^E_D07_RadaEyes_001_Name^,^Dark Eye Totem^
+^Co^,^Common^,^E_D07_RadaEyes_001_NameDetail^,^^
+^Co^,^Common^,^E_D07_LightBug_002_Name^,^Luminous Insect^
+^Co^,^Common^,^E_D07_LightBug_002_NameDetail^,^^
+^Co^,^Common^,^E_D07_GagoTampl_02_Name^,^Bladed Gargoyle^
+^Co^,^Common^,^E_D07_GagoTampl_02_NameDetail^,^^
+^Co^,^Common^,^E_D07_GoleRot_002_Name^,^Corrupted Golem Bomber^
+^Co^,^Common^,^E_D07_GoleRot_002_NameDetail^,^^
+^Co^,^Common^,^E_F09_TtanTran_001_Name^,^Tranua^
+^Co^,^Common^,^E_F09_TtanTran_001_NameDetail^,^^
+^Co^,^Common^,^E_F09_TtanYataDC_001_Name^,^Attaius^
+^Co^,^Common^,^E_F09_TtanYataDC_001_NameDetail^,^^
+^Co^,^Common^,^E_C01_ChaoDawiz0_001_Name^,^Dark Mage^
+^Co^,^Common^,^E_C01_ChaoDawiz0_001_NameDetail^,^^
+^Co^,^Common^,^E_C01_ImmoKnigh_001_Name^,^Infernal Knight^
+^Co^,^Common^,^E_C01_ImmoKnigh_001_NameDetail^,^^
+^Co^,^Common^,^E_C01_ImmoSoldi_001_Name^,^Infernal^
+^Co^,^Common^,^E_C01_ImmoSoldi_001_NameDetail^,^^
+^Co^,^Common^,^E_C01_ImmoLilis_001_Name^,^Rena^
+^Co^,^Common^,^E_C01_ImmoLilis_001_NameDetail^,^^
+^Co^,^Common^,^E_C01_HuMsol_0001_Name^,^Traitorous Soldier^
+^Co^,^Common^,^E_C01_HuMsol_0001_NameDetail^,^^
+^Co^,^Common^,^E_C01_FanaDevco_0001_Name^,^Khabimist Mage^
+^Co^,^Common^,^E_C01_FanaDevco_0001_NameDetail^,^^
+^Co^,^Common^,^E_C01_CabeShura_0001_Name^,^General Russell^
+^Co^,^Common^,^E_C01_CabeShura_0001_NameDetail^,^^
+^Co^,^Common^,^E_C01_FanaDevco_001_Name^,^Khabim Spellweaver^
+^Co^,^Common^,^E_C01_FanaDevco_001_NameDetail^,^^
+^Co^,^Common^,^E_C01_FanaDevco_002_Name^,^Khabim Spellweaver^
+^Co^,^Common^,^E_C01_FanaDevco_002_NameDetail^,^^
+^Co^,^Common^,^E_02_0_Yataball_0001_Name^,^Great Storm Sphere^
+^Co^,^Common^,^E_02_0_Yataball_0001_NameDetail^,^^
+^Co^,^Common^,^E_02_0_Yataball_0002_Name^,^Storm Sphere^
+^Co^,^Common^,^E_02_0_Yataball_0002_NameDetail^,^^
+^Co^,^Common^,^e_p01_bonedrag_0001_Name^,^Vylet^
+^Co^,^Common^,^e_p01_bonedrag_0001_NameDetail^,^Legendary Moonshade^
+^Co^,^Common^,^E_P01_SkulKnight_01_Name^,^Linight Swordsman^
+^Co^,^Common^,^E_P01_SkulKnight_01_NameDetail^,^Master Skeleton^
+^Co^,^Common^,^E_p01_CarmDeck_02_Name^,^Deckhand First Class^
+^Co^,^Common^,^E_p01_CarmDeck_02_NameDetail^,^Elite Pirate^
+^Co^,^Common^,^E_p01_CarmWatch_02_Name^,^Lookout First Class^
+^Co^,^Common^,^E_p01_CarmWatch_02_NameDetail^,^Elite Pirate^
+^Co^,^Common^,^E_p01_CarmTreas_02_Name^,^Defender First Class^
+^Co^,^Common^,^E_p01_CarmTreas_02_NameDetail^,^Elite Pirate^
+^Co^,^Common^,^E_p01_GhostE_01_Name^,^Ghost Acolyte^
+^Co^,^Common^,^E_p01_GhostE_01_NameDetail^,^Khabim Main Hall^
+^Co^,^Common^,^E_p01_GhostH_01_Name^,^Ghost Cultist^
+^Co^,^Common^,^E_p01_GhostH_01_NameDetail^,^Khabim Main Hall^
+^Co^,^Common^,^E_p01_MwerJack_02_Name^,^Jack the Hunter^
+^Co^,^Common^,^E_p01_MwerJack_02_NameDetail^,^Werewolf King^
+^Co^,^Common^,^E_p01_FanaStones_02_Name^,^Clakey the Eldest^
+^Co^,^Common^,^E_p01_FanaStones_02_NameDetail^,^Khabim Brotherhood^
+^Co^,^Common^,^E_p01_FanaStone_02_Name^,^Master Defender First Class^
+^Co^,^Common^,^E_p01_FanaStone_02_NameDetail^,^Elite Pirate^
+^Co^,^Common^,^E_P01_liger_0002_Name^,^Terrible Pyludd^
+^Co^,^Common^,^E_P01_liger_0002_NameDetail^,^Fierce Guardian^
+^Co^,^Common^,^E_p01_Megantes_002_Name^,^Nightmare Megantes^
+^Co^,^Common^,^E_p01_Megantes_002_NameDetail^,^Mt. Matren Guardian^
+^Co^,^Common^,^e_p01_bonedrag_0002_Name^,^Abyssal Vylet^
+^Co^,^Common^,^e_p01_bonedrag_0002_NameDetail^,^Legendary Moonshade^
+^Co^,^Common^,^E_P01_megan_0001_Name^,^Megantes^
+^Co^,^Common^,^E_P01_megan_0001_NameDetail^,^Mt. Matren Guardian^
+^Co^,^Common^,^E_P01_afohorse_0001_Name^,^Profane Apocalypse^
+^Co^,^Common^,^E_P01_afohorse_0001_NameDetail^,^Crimsonreach Steed^
+^Co^,^Common^,^E_P01_Devildog_0001_Name^,^Hellhound^
+^Co^,^Common^,^E_P01_Devildog_0001_NameDetail^,^Megantes' Hound^
+^Co^,^Common^,^E_d01_VampCook_01_Name^,^Bloodthirsty Chef^
+^Co^,^Common^,^E_d01_VampCook_01_NameDetail^,^^
+^Co^,^Common^,^E_P01_Etrule_0002_Name^,^Rage^
+^Co^,^Common^,^E_P01_Etrule_0002_NameDetail^,^Bloodmoon Lake^
+^Co^,^Common^,^E_p01_Etrule_0001_name^,^Contaminated Turtle^
+^Co^,^Common^,^E_p01_Etrule_0001_NameDetail^,^Bloodmoon Lake^
+^Co^,^Common^,^E_p01_hound_0001_name^,^Cursed Hound^
+^Co^,^Common^,^E_p01_hound_0001_NameDetail^,^^
+^Co^,^Common^,^E_p01_Black_0002_name^,^Ingid^
+^Co^,^Common^,^E_p01_Black_0002_NameDetail^,^Moonshade Dragon^
+^Co^,^Common^,^E_p01_cripan_0001_name^,^Creon the Gray^
+^Co^,^Common^,^E_p01_cripan_0001_NameDetail^,^Fierce Falcon^
+^Co^,^Common^,^E_P01_liger_0001_Name^,^Pyludd^
+^Co^,^Common^,^E_P01_liger_0001_NameDetail^,^Fierce Guardian^
+^Co^,^Common^,^E_p01_hound_0002_name^,^Grudd^
+^Co^,^Common^,^E_p01_hound_0002_NameDetail^,^^
+^Co^,^Common^,^E_F04_Pegasus_002_Name^,^Nightmare^
+^Co^,^Common^,^E_F04_Pegasus_002_NameDetail^,^^
+^Co^,^Common^,^E_p01_Rhisau_001_Name^,^Black Baranous^
+^Co^,^Common^,^E_p01_Rhisau_001_NameDetail^,^Coastal Saorous^
+^Co^,^Common^,^E_p01_Rhisau_002_Name^,^Sonos^
+^Co^,^Common^,^E_p01_Rhisau_002_NameDetail^,^Coastal Saorous^
+^Co^,^Common^,^E_P01_Yfirebird_0002_Name^,^Nivah^
+^Co^,^Common^,^E_P01_Yfirebird_0002_NameDetail^,^Fierce Falcon^
+^Co^,^Common^,^E_p01_cripan_0002_Name^,^Abritus^
+^Co^,^Common^,^E_p01_cripan_0002_NameDetail^,^Fierce Falcon^
+^Co^,^Common^,^E_p01_MwerAttack_01_Name^,^Marauder^
+^Co^,^Common^,^E_p01_MwerAttack_01_NameDetail^,^Werewolf^
+^Co^,^Common^,^E_p01_WwerAssas_01_Name^,^Assassin^
+^Co^,^Common^,^E_p01_WwerAssas_01_NameDetail^,^Werewolf^
+^Co^,^Common^,^E_p01_MwerModif_01_Name^,^Transformed Man^
+^Co^,^Common^,^E_p01_MwerModif_01_NameDetail^,^Werewolf^
+^Co^,^Common^,^E_p01_WwerModif_01_Name^,^Transformed Woman^
+^Co^,^Common^,^E_p01_WwerModif_01_NameDetail^,^Werewolf^
+^Co^,^Common^,^E_p01_MwerAttack_02_Name^,^Marauder^
+^Co^,^Common^,^E_p01_MwerAttack_02_NameDetail^,^Enhanced Werewolf^
+^Co^,^Common^,^E_p01_WwerAssas_02_Name^,^Assassin^
+^Co^,^Common^,^E_p01_WwerAssas_02_NameDetail^,^Enhanced Werewolf^
+^Co^,^Common^,^E_p01_MwerModif_02_Name^,^Transformed Man^
+^Co^,^Common^,^E_p01_MwerModif_02_NameDetail^,^Enhanced Werewolf^
+^Co^,^Common^,^E_p01_WwerModif_02_Name^,^Transformed Woman^
+^Co^,^Common^,^E_p01_WwerModif_02_NameDetail^,^Enhanced Werewolf^
+^Co^,^Common^,^E_p01_FanaStones_01_Name^,^Clakey the Elder^
+^Co^,^Common^,^E_p01_FanaStones_01_NameDetail^,^Khabim Brotherhood^
+^Co^,^Common^,^E_p01_FanaTony_01_Name^,^Clakey the Younger^
+^Co^,^Common^,^E_p01_FanaTony_01_NameDetail^,^Khabim Brotherhood^
+^Co^,^Common^,^E_p01_CarmBoatm_01_Name^,^Clakey the Youngest^
+^Co^,^Common^,^E_p01_CarmBoatm_01_NameDetail^,^Khabim Brotherhood^
+^Co^,^Common^,^E_p01_FanaRecon_01_Name^,^Scout^
+^Co^,^Common^,^E_p01_FanaRecon_01_NameDetail^,^Khabimist^
+^Co^,^Common^,^E_p01_FanaTroop_01_Name^,^Skirmisher^
+^Co^,^Common^,^E_p01_FanaTroop_01_NameDetail^,^Khabimist^
+^Co^,^Common^,^E_p01_CarmBeard_01_Name^,^Runner^
+^Co^,^Common^,^E_p01_CarmBeard_01_NameDetail^,^Khabimist^
+^Co^,^Common^,^E_p01_FanaDevco_01_Name^,^Warlock^
+^Co^,^Common^,^E_p01_FanaDevco_01_NameDetail^,^Khabimist^
+^Co^,^Common^,^E_p01_FanaMidget_01_Name^,^Abomination^
+^Co^,^Common^,^E_p01_FanaMidget_01_NameDetail^,^Khabimist^
+^Co^,^Common^,^E_p01_FanaSniper_01_Name^,^Marksmen^
+^Co^,^Common^,^E_p01_FanaSniper_01_NameDetail^,^Khabimist^
+^Co^,^Common^,^E_p01_FanaRecon_02_Name^,^Scout^
+^Co^,^Common^,^E_p01_FanaRecon_02_NameDetail^,^Khabim Brotherhood^
+^Co^,^Common^,^E_p01_FanaTroop_02_Name^,^Skirmisher^
+^Co^,^Common^,^E_p01_FanaTroop_02_NameDetail^,^Khabim Brotherhood^
+^Co^,^Common^,^E_p01_CarmBeard_02_Name^,^Runner^
+^Co^,^Common^,^E_p01_CarmBeard_02_NameDetail^,^Khabim Brotherhood^
+^Co^,^Common^,^E_p01_FanaDevco_02_Name^,^Warlock^
+^Co^,^Common^,^E_p01_FanaDevco_02_NameDetail^,^Khabim Brotherhood^
+^Co^,^Common^,^E_p01_FanaMidget_02_Name^,^Abomination^
+^Co^,^Common^,^E_p01_FanaMidget_02_NameDetail^,^Khabim Brotherhood^
+^Co^,^Common^,^E_p01_FanaSniper_02_Name^,^Marksman^
+^Co^,^Common^,^E_p01_FanaSniper_02_NameDetail^,^Khabim Brotherhood^
+^Co^,^Common^,^E_p01_MwerJack_01_Name^,^Exarahn Jack^
+^Co^,^Common^,^E_p01_MwerJack_01_NameDetail^,^Werewolf King^
+^Co^,^Common^,^E_p01_WolfWild_01_Name^,^Exarahn Wolf^
+^Co^,^Common^,^E_p01_WolfWild_01_NameDetail^,^Werewolf King's Pet^
+^Co^,^Common^,^E_p01_CabeAshu_01_Name^,^Linight Knight^
+^Co^,^Common^,^E_p01_CabeAshu_01_NameDetail^,^Master Skeleton^
+^Co^,^Common^,^E_p01_CarmDeck_01_Name^,^Deckhand^
+^Co^,^Common^,^E_p01_CarmDeck_01_NameDetail^,^Pirate^
+^Co^,^Common^,^E_p01_CarmWatch_01_Name^,^Scout^
+^Co^,^Common^,^E_p01_CarmWatch_01_NameDetail^,^Pirate^
+^Co^,^Common^,^E_p01_CarmTreas_01_Name^,^Heavy Infantry^
+^Co^,^Common^,^E_p01_CarmTreas_01_NameDetail^,^Pirate^
+^Co^,^Common^,^E_p01_FanaStone_01_Name^,^Octopus Trainer^
+^Co^,^Common^,^E_p01_FanaStone_01_NameDetail^,^Elite Pirate^
+^Co^,^Common^,^E_p01_OctoRocko_01_Name^,^Rock Octopus^
+^Co^,^Common^,^E_p01_OctoRocko_01_NameDetail^,^^
+^Co^,^Common^,^E_p01_SkulBlakn_01_Name^,^Linight Warrior^
+^Co^,^Common^,^E_p01_SkulBlakn_01_NameDetail^,^Master Skeleton^
+^Co^,^Common^,^E_p01_SkulBlarc_01_Name^,^Linight Archer^
+^Co^,^Common^,^E_p01_SkulBlarc_01_NameDetail^,^Master Skeleton^
+^Co^,^Common^,^E_p01_SkulBlaso_01_Name^,^Infantry^
+^Co^,^Common^,^E_p01_SkulBlaso_01_NameDetail^,^Skeleton^
+^Co^,^Common^,^E_p01_SkulBlarc_02_Name^,^Archer^
+^Co^,^Common^,^E_p01_SkulBlarc_02_NameDetail^,^Skeleton^
+^Co^,^Common^,^E_p01_HorsWind_001_Name^,^Dark Horse^
+^Co^,^Common^,^E_p01_HorsWind_001_NameDetail^,^Linight Steed^
+^Co^,^Common^,^E_p01_SkulBlaso_03_Name^,^Ricardo^
+^Co^,^Common^,^E_p01_SkulBlaso_03_NameDetail^,^Skeleton^
+^Co^,^Common^,^E_p01_dark_ex_01_Name^,^Corrupted Exarium^
+^Co^,^Common^,^E_p01_dark_ex_01_NameDetail^,^^
+^Co^,^Common^,^E_P01_Dragdark_0001_Name^,^Black Frost Wyvern^
+^Co^,^Common^,^E_P01_Dragdark_0001_NameDetail^,^^
+^Co^,^Common^,^E_P01_Seahors_0001_Name^,^Voidbeast Drauph^
+^Co^,^Common^,^E_P01_Seahors_0001_NameDetail^,^^
+^Co^,^Common^,^E_P01_Yfirebird_0001_Name^,^Gray Phoenix Hatchling^
+^Co^,^Common^,^E_P01_Yfirebird_0001_NameDetail^,^Fierce Falcon^
+^Co^,^Common^,^E_p01_Black_0001_name^,^Dark Carbonous^
+^Co^,^Common^,^E_p01_Black_0001_NameDetail^,^Moonshade Dragon^
+^Co^,^Common^,^E_d00_0_RabMer_0001_name^,^Roberto Rabbini^
+^Co^,^Common^,^E_d00_0_RabMer_0001_NameDetail^,^Treasure Collector^
+^Co^,^Common^,^E_d01_0_RabMer_0001_name^,^Roberto Rabbini^
+^Co^,^Common^,^E_d01_0_RabMer_0001_NameDetail^,^Treasure Collector^
+^Co^,^Common^,^E_d02_0_RabMer_0001_name^,^Roberto Rabbini^
+^Co^,^Common^,^E_d02_0_RabMer_0001_NameDetail^,^Treasure Collector^
+^Co^,^Common^,^E_d00_0_RabMer_0002_name^,^Roberto Rabbini^
+^Co^,^Common^,^E_d00_0_RabMer_0002_NameDetail^,^Treasure Collector^
+^Co^,^Common^,^E_d01_0_RabMer_0002_name^,^Roberto Rabbini^
+^Co^,^Common^,^E_d01_0_RabMer_0002_NameDetail^,^Treasure Collector^
+^Co^,^Common^,^E_d02_0_RabMer_0002_name^,^Roberto Rabbini^
+^Co^,^Common^,^E_d02_0_RabMer_0002_NameDetail^,^Treasure Collector^
+^Co^,^Common^,^E_d03_0_RabMer_0001_name^,^Roberto Rabbini^
+^Co^,^Common^,^E_d03_0_RabMer_0001_NameDetail^,^Treasure Collector^
+^Co^,^Common^,^E_d03_0_RabMer_0002_name^,^Roberto Rabbini^
+^Co^,^Common^,^E_d03_0_RabMer_0002_NameDetail^,^Treasure Collector^
+^Co^,^Common^,^E_d04_0_RabMer_0001_name^,^Roberto Rabbini^
+^Co^,^Common^,^E_d04_0_RabMer_0001_NameDetail^,^Treasure Collector^
+^Co^,^Common^,^E_d04_0_RabMer_0002_name^,^Roberto Rabbini^
+^Co^,^Common^,^E_d04_0_RabMer_0002_NameDetail^,^Treasure Collector^
+^Co^,^Common^,^E_d22_0_RabMer_0001_name^,^Roberto Rabbini^
+^Co^,^Common^,^E_d22_0_RabMer_0001_NameDetail^,^Treasure Collector^
+^Co^,^Common^,^E_d22_0_RabMer_0002_name^,^Relic Collector Roberto^
+^Co^,^Common^,^E_d22_0_RabMer_0002_NameDetail^,^^
+^Co^,^Common^,^IN_RabMerpum_0_001_name^,^Roberto Pumpkin^
+^Co^,^Common^,^IN_RabMerpum_0_001_NameDetail^,^Transformed Roberto^
+^Co^,^Common^,^E_p01_BlackBaby_0001_name^,^Ebema^
+^Co^,^Common^,^E_p01_BlackBaby_0001_NameDetail^,^Moonshade Hatchling^
+^Co^,^Common^,^E_p01_BlackBaby_0002_name^,^Ura^
+^Co^,^Common^,^E_p01_BlackBaby_0002_NameDetail^,^Moonshade Hatchling^
+^Co^,^Common^,^E_Event_0001_name^,^Dark Knight Ashuram^
+^Co^,^Common^,^E_Event_0001_NameDetail^,^^
+^Co^,^Common^,^E_Event_0002_name^,^Draku^
+^Co^,^Common^,^E_Event_0002_NameDetail^,^^
+^Co^,^Common^,^E_Event_0003_name^,^Dainok^
+^Co^,^Common^,^E_Event_0003_NameDetail^,^^
+^Co^,^Common^,^E_Event_0004_name^,^Laiku^
+^Co^,^Common^,^E_Event_0004_NameDetail^,^^
+^Co^,^Common^,^E_Event_0005_name^,^Red Horn Galadoku^
+^Co^,^Common^,^E_Event_0005_NameDetail^,^^
+^Co^,^Common^,^E_Event_Brag_01_Name^,^Braghin Villager^
+^Co^,^Common^,^E_Event_Brag_01_NameDetail^,^Gatherer^
+^Co^,^Common^,^E_F00_DraLittle_0001_name^,^Crimson Laiku^
+^Co^,^Common^,^E_F00_DraLittle_0001_NameDetail^,^^
+^Co^,^Common^,^E_f05_Dragbone_001_name^,^Void Kravid^
+^Co^,^Common^,^E_f05_Dragbone_001_NameDetail^,^^
+^Co^,^Common^,^E_f05_Whale_0001_name^,^Void Letonsia^
+^Co^,^Common^,^E_f05_Whale_0001_nameDetail^,^^
+^Co^,^Common^,^e_f04_DragRasha_002_Name^,^Redplate Drake^
+^Co^,^Common^,^e_f04_DragRasha_002_NameDetail^,^^
+^Co^,^Common^,^E_p01_RabMer_001_Name^,^Roberto Rabbini^
+^Co^,^Common^,^E_p01_RabMer_001_NameDetail^,^Treasure Collector^
+^Co^,^Common^,^E_Event_01_name^,^Apocalypse^
+^Co^,^Common^,^E_Event_01_namedetail^,^Event^
+^Co^,^Common^,^E_Event_02_name^,^Venomous Caspert^
+^Co^,^Common^,^E_Event_02_namedetail^,^Event^
+^Co^,^Common^,^E_Event_03_name^,^Karresh^
+^Co^,^Common^,^E_Event_03_namedetail^,^Event^
+^Co^,^Common^,^E_Event_04_name^,^Terror Kerav^
+^Co^,^Common^,^E_Event_04_namedetail^,^Event^
+^Co^,^Common^,^E_Event_05_name^,^Karasha the Dark One^
+^Co^,^Common^,^E_Event_05_namedetail^,^Event^
+^Co^,^Common^,^E_Event_06_name^,^Paragas the Mad^
+^Co^,^Common^,^E_Event_06_namedetail^,^Event^
+^Co^,^Common^,^E_Event_07_name^,^Femuto^
+^Co^,^Common^,^E_Event_07_namedetail^,^Event^
+^Co^,^Common^,^E_Event_08_name^,^Lunafont^
+^Co^,^Common^,^E_Event_08_namedetail^,^Event^
+^Co^,^Common^,^E_Event_09_name^,^Void Kargyle^
+^Co^,^Common^,^E_Event_09_namedetail^,^Event^
+^Co^,^Common^,^E_Event_10_name^,^Twilight Kargyle^
+^Co^,^Common^,^E_Event_10_namedetail^,^Event^
+^Co^,^Common^,^E_Event_11_name^,^Garme^
+^Co^,^Common^,^E_Event_11_namedetail^,^Event^
+^Co^,^Common^,^E_Event_12_name^,^Agnas the Red^
+^Co^,^Common^,^E_Event_12_namedetail^,^Event^
+^Co^,^Common^,^E_Event_13_name^,^Phantom^
+^Co^,^Common^,^E_Event_13_namedetail^,^Event^
+^Co^,^Common^,^E_Event_14_name^,^Bonethorpe^
+^Co^,^Common^,^E_Event_14_namedetail^,^Event^
+^Co^,^Common^,^E_Event_15_name^,^Void Kravid^
+^Co^,^Common^,^E_Event_15_namedetail^,^Event^
+^Co^,^Common^,^E_Event_16_name^,^Taslan the Devourer^
+^Co^,^Common^,^E_Event_16_namedetail^,^Event^
+^Co^,^Common^,^E_Event_17_name^,^Fenris^
+^Co^,^Common^,^E_Event_17_namedetail^,^Event^
+^Co^,^Common^,^E_Event_18_name^,^Leorid^
+^Co^,^Common^,^E_Event_18_namedetail^,^Event^
+^Co^,^Common^,^E_Event_19_name^,^Windrunner^
+^Co^,^Common^,^E_Event_19_namedetail^,^Event^
+^Co^,^Common^,^E_Event_20_name^,^Lashaka^
+^Co^,^Common^,^E_Event_20_namedetail^,^Event^
+^Co^,^Common^,^E_Event_21_name^,^Straiga^
+^Co^,^Common^,^E_Event_21_namedetail^,^Event^
+^Co^,^Common^,^E_Event_22_name^,^Camara^
+^Co^,^Common^,^E_Event_22_namedetail^,^Event^
+^Co^,^Common^,^E_Event_23_name^,^Uru^
+^Co^,^Common^,^E_Event_23_namedetail^,^Event^
+^Co^,^Common^,^E_Event_24_name^,^Troy^
+^Co^,^Common^,^E_Event_24_namedetail^,^Event^
+^Co^,^Common^,^E_Event_25_name^,^Blue Frost Wyvern^
+^Co^,^Common^,^E_Event_25_namedetail^,^Event^
+^Co^,^Common^,^E_Event_26_name^,^Voidbeast Drauph^
+^Co^,^Common^,^E_Event_26_namedetail^,^Event^
+^Co^,^Common^,^E_Event_27_name^,^Blade^
+^Co^,^Common^,^E_Event_27_namedetail^,^Event^
+^Co^,^Common^,^E_Event_28_name^,^Leonid^
+^Co^,^Common^,^E_Event_28_namedetail^,^Event^
+^Co^,^Common^,^E_Event_29_name^,^Black Dragon Balark^
+^Co^,^Common^,^E_Event_29_namedetail^,^Event^
+^Co^,^Common^,^E_Event_30_name^,^Golden Wings Abras^
+^Co^,^Common^,^E_Event_30_namedetail^,^Event^
+^Co^,^Common^,^E_d00_LskulArch_01_name^,^Scorching Skeleton Marksman^
+^Co^,^Common^,^E_d00_LskulArch_01_namedetail^,^Enhanced Ruins Mage^
+^Co^,^Common^,^E_d00_LskulArch_02_name^,^Scorching Skeleton Marksman^
+^Co^,^Common^,^E_d00_LskulArch_02_namedetail^,^^
+^Co^,^Common^,^E_d01_Lfanadev_01_name^,^Shadow Shaman^
+^Co^,^Common^,^E_d01_Lfanadev_01_namedetail^,^Enhanced Manor Mage^
+^Co^,^Common^,^E_d02_Lsnomagic_01_name^,^Yeti Prophet^
+^Co^,^Common^,^E_d02_Lsnomagic_01_namedetail^,^^
+^Co^,^Common^,^E_d02_Lsnohunter_01_name^,^Yeti Marksman^
+^Co^,^Common^,^E_d02_Lsnohunter_01_namedetail^,^Enhanced Ancient Ruins Mage^
+^Co^,^Common^,^E_d01_Ev_01_name^,^Vampire Maid^
+^Co^,^Common^,^E_d01_Ev_01_namedetail^,^^
+^Co^,^Common^,^E_d01_Ev_02_name^,^Vampire Housekeeper^
+^Co^,^Common^,^E_d01_Ev_02_namedetail^,^^
+^Co^,^Common^,^E_d01_Ev_03_name^,^Vampire Chef^
+^Co^,^Common^,^E_d01_Ev_03_namedetail^,^^
+^Co^,^Common^,^E_d01_Ev_04_name^,^Vampire Gardener^
+^Co^,^Common^,^E_d01_Ev_04_namedetail^,^^
+^Co^,^Common^,^E_d01_Ev_05_name^,^Vampire Laborer^
+^Co^,^Common^,^E_d01_Ev_05_namedetail^,^^
+^Co^,^Common^,^E_d01_Ev_06_name^,^Warlock^
+^Co^,^Common^,^E_d01_Ev_06_namedetail^,^^
+^Co^,^Common^,^E_F05_KrokEngee_004_name^,^[Elite] Scorpion Rider^
+^Co^,^Common^,^E_F05_KrokEngee_004_namedetail^,^^
+^Co^,^Common^,^E_F05_KrokBowma_003_name^,^[Elite] Scorpion Archer^
+^Co^,^Common^,^E_F05_KrokBowma_003_namedetail^,^^
+^Co^,^Common^,^E_F05_KrokPries_002_name^,^[Elite] Scorpion Priest^
+^Co^,^Common^,^E_F05_KrokPries_002_namedetail^,^^
+^Co^,^Common^,^E_F05_KrokGladi_005_name^,^[Elite] Scorpion Swordsman^
+^Co^,^Common^,^E_F05_KrokGladi_005_namedetail^,^^
+^Co^,^Common^,^e_f01_fanadawiz_002_name^,^Khabimist Mage^
+^Co^,^Common^,^e_f01_fanadawiz_002_namedetail^,^^
+^Co^,^Common^,^E_P01_liger_0003_name^,^Young Pyludd^
+^Co^,^Common^,^E_P01_liger_0003_namedetail^,^^
+^Co^,^Common^,^E_P01_megan_0003_name^,^Young Megantes^
+^Co^,^Common^,^E_P01_megan_0003_namedetail^,^^
+^Co^,^Common^,^e_p01_bonedrag_0003_name^,^Young Vylet^
+^Co^,^Common^,^e_p01_bonedrag_0003_namedetail^,^^
+^Co^,^Common^,^E_P01_Atan_0001_name^,^Atan^
+^Co^,^Common^,^E_P01_Atan_0001_namedetail^,^Hellhound Alpha^
+^Co^,^Common^,^E_P01_Berite_0001_name^,^Berit^
+^Co^,^Common^,^E_P01_Berite_0001_namedetail^,^Hellhound Alpha^
+^Co^,^Common^,^E_P01_Karnin_0001_name^,^Karnin^
+^Co^,^Common^,^E_P01_Karnin_0001_namedetail^,^Hellhound Alpha^
+^Co^,^Common^,^E_Event_31_Name^,^Gigant o' Lantern^
+^Co^,^Common^,^E_Event_31_NameDetail^,^Hadakhan's Haunting^
+^Co^,^Common^,^E_Event_32_Name^,^Wee o' Lantern^
+^Co^,^Common^,^E_Event_32_NameDetail^,^Hadakhan's Haunting^
+^Co^,^Common^,^E_Event_33_Name^,^Rot o' Lantern^
+^Co^,^Common^,^E_Event_33_NameDetail^,^Hadakhan's Haunting^
+^Co^,^Common^,^E_Event_34_Name^,^Stink o' Lantern^
+^Co^,^Common^,^E_Event_34_NameDetail^,^Hadakhan's Haunting^
+^Co^,^Common^,^E_p01_Mineturtle_000_Name^,^Karoneh^
+^Co^,^Common^,^E_p01_Mineturtle_000_NameDetail^,^Mine Guardian Turtle^
+^Co^,^Common^,^E_Event_35_Name^,^Gleeful Snowman^
+^Co^,^Common^,^E_Event_35_NameDetail^,^Ellandfel Event^
+^Co^,^Common^,^E_Event_36_Name^,^Murderous Snowman^
+^Co^,^Common^,^E_Event_36_NameDetail^,^Ellandfel Event^
+^Co^,^Common^,^E_Event_37_Name^,^Tiny Snowman^
+^Co^,^Common^,^E_Event_37_NameDetail^,^Ellandfel Event^
+^Co^,^Common^,^E_Event_38_Name^,^Scheming Snowman^
+^Co^,^Common^,^E_Event_38_NameDetail^,^Ellandfel Event^
+^Co^,^Common^,^E_99_0_1501_0001_Name^,^Luminous Emissary^
+^Co^,^Common^,^E_99_0_1501_0002_Name^,^Luminous Emissary^
+^Co^,^Common^,^E_F09_TtanYataDC_002_Name^,^Attaius^
+^Co^,^Common^,^E_F09_TtanYataDC_002_NameDetail^,^^
+^Co^,^Common^,^E_F02_magstone_0001_Name^,^Sky Warding Stone^
+^Co^,^Common^,^E_F02_magstone_0001_NameDetail^,^^
+^Co^,^Common^,^E_02_0_Yataball_0003_Name^,^Great Storm Sphere^
+^Co^,^Common^,^E_02_0_Yataball_0003_NameDetail^,^^
+^Co^,^Common^,^E_02_0_Yataball_0004_Name^,^Storm Sphere^
+^Co^,^Common^,^E_02_0_Yataball_0004_NameDetail^,^^
+^Co^,^Common^,^E_99_0_1503_0000_Name^,^^
+^Co^,^Common^,^E_99_0_1503_0000_NameDetail^,^^
+^Co^,^Common^,^E_99_0_1503_0001_Name^,^^
+^Co^,^Common^,^E_99_0_1503_0001_NameDetail^,^^
+^Co^,^Common^,^E_99_0_1503_0002_Name^,^^
+^Co^,^Common^,^E_99_0_1503_0002_NameDetail^,^^
+^Co^,^Common^,^E_99_Grim_1_Name^,^Spirit Reaper of Protection^
+^Co^,^Common^,^E_99_Grim_1_NameDetail^,^^
+^Co^,^Common^,^E_99_Grim_2_Name^,^Spirit Reaper of Revival^
+^Co^,^Common^,^E_99_Grim_2_NameDetail^,^^
+^Co^,^Common^,^E_99_Grim_3_Name^,^Spirit Reaper of Combat^
+^Co^,^Common^,^E_99_Grim_3_NameDetail^,^^
+^Co^,^Common^,^E_99_Grim_4_Name^,^Spirit Reaper^
+^Co^,^Common^,^E_99_Grim_4_NameDetail^,^^
+^Co^,^Common^,^E_99_festival_1_Name^,^[Doll] Agnas^
+^Co^,^Common^,^E_99_festival_2_Name^,^[Doll] Phantom^
+^Co^,^Common^,^E_99_festival_3_Name^,^[Doll] Festival Luna^
+^Co^,^Common^,^E_99_festival_4_Name^,^[Doll]Pink Plush Letonsia^
+^Co^,^Common^,^E_99_festival_1_NameDetail^,^^
+^Co^,^Common^,^E_99_festival_2_NameDetail^,^^
+^Co^,^Common^,^E_99_festival_3_NameDetail^,^^
+^Co^,^Common^,^E_99_festival_4_NameDetail^,^^
+^Co^,^Common^,^E_99_festival_5_Name^,^Treble^
+^Co^,^Common^,^E_99_festival_6_Name^,^Hive^
+^Co^,^Common^,^E_99_festival_7_Name^,^Nartan^
+^Co^,^Common^,^E_99_festival_5_NameDetail^,^^
+^Co^,^Common^,^E_99_festival_6_NameDetail^,^^
+^Co^,^Common^,^E_99_festival_7_NameDetail^,^^
+^Co^,^Common^,^E_00_BMcWhale_0001_Name^,^^
+^Co^,^Common^,^E_00_BMcWhale_0001_NameDetail^,^^
+^Co^,^Common^,^E_C00_BCaCat01_001_Name^,^^
+^Co^,^Common^,^E_C00_BCaCat01_001_NameDetail^,^^
+^Co^,^Common^,^E_C00_BDragDoll_001_Name^,^^
+^Co^,^Common^,^E_C00_BDragDoll_001_NameDetail^,^^
+^Co^,^Common^,^E_C00_BDragMech_001_Name^,^^
+^Co^,^Common^,^E_C00_BDragMech_001_NameDetail^,^^
+^Co^,^Common^,^E_C00_BHorsDoll_001_Name^,^^
+^Co^,^Common^,^E_C00_BHorsDoll_001_NameDetail^,^^
+^Co^,^Common^,^E_C00_BHorsMech_001_Name^,^^
+^Co^,^Common^,^E_C00_BHorsMech_001_NameDetail^,^^
+^Co^,^Common^,^E_C00_BMcCat01_001_Name^,^^
+^Co^,^Common^,^E_C00_BMcCat01_001_NameDetail^,^^
+^Co^,^Common^,^E_C00_BMchWolf1_001_Name^,^^
+^Co^,^Common^,^E_C00_BMchWolf1_001_NameDetail^,^^
+^Co^,^Common^,^E_C00_BMecaOwl_001_Name^,^^
+^Co^,^Common^,^E_C00_BMecaOwl_001_NameDetail^,^^
+^Co^,^Common^,^E_C00_BSewWhaleB_01_Name^,^^
+^Co^,^Common^,^E_C00_BSewWhaleB_01_NameDetail^,^^
+^Co^,^Common^,^E_C00_BToyOwlA_001_Name^,^Awakened Lovely Poyo^
+^Co^,^Common^,^E_C00_BToyOwlA_001_NameDetail^,^^
+^Co^,^Common^,^E_C00_BWolfDollB_01_Name^,^^
+^Co^,^Common^,^E_C00_BWolfDollB_01_NameDetail^,^^
+^Co^,^Common^,^E_P02_Garesha_003_Name^,^Wild Nebess^
+^Co^,^Common^,^E_P02_Garesha_003_NameDetail^,^^
+^Co^,^Common^,^E_P02_Garesha_004_Name^,^Awakened Nebess^
+^Co^,^Common^,^E_P02_Garesha_004_NameDetail^,^^
+^Co^,^Common^,^E_E01_Barri_1_Name^,^Barrier^
+^Co^,^Common^,^E_E01_Barri_1_NameDetail^,^^
+^Co^,^Common^,^E_E01_DeadJeranin_1_Name^,^Torment^
+^Co^,^Common^,^E_E01_DeadJeranin_1_NameDetail^,^^
+^Co^,^Common^,^E_E01_door_1_Name^,^Haunted Manor Iron Gate^
+^Co^,^Common^,^E_E01_door_1_NameDetail^,^^
+^Co^,^Common^,^E_E01_door_cut_1_Name^,^Iron Gate^
+^Co^,^Common^,^E_E01_door_cut_1_NameDetail^,^^
+^Co^,^Common^,^E_E01_door_cut_2_Name^,^Iron Gate^
+^Co^,^Common^,^E_E01_door_cut_2_NameDetail^,^^
+^Co^,^Common^,^E_E01_ghosmanag_1_Name^,^Ghost^
+^Co^,^Common^,^E_E01_ghosmanag_1_NameDetail^,^^
+^Co^,^Common^,^E_E01_GhosShrin_1_Name^,^Reaper^
+^Co^,^Common^,^E_E01_GhosShrin_1_NameDetail^,^^
+^Co^,^Common^,^E_E01_GhoulWdea_1_Name^,^Ghost Priest^
+^Co^,^Common^,^E_E01_GhoulWdea_1_NameDetail^,^^
+^Co^,^Common^,^E_E01_GhoulWdea_2_Name^,^Ghost Priest^
+^Co^,^Common^,^E_E01_GhoulWdea_2_NameDetail^,^^
+^Co^,^Common^,^E_E01_Spir_sinsia_1_Name^,^Trap^
+^Co^,^Common^,^E_E01_Spir_sinsia_1_NameDetail^,^^
+^Co^,^Common^,^E_E01_ZombSlave_1_Name^,^Outsider^
+^Co^,^Common^,^E_E01_ZombSlave_1_NameDetail^,^^
+^Co^,^Common^,^E_E01_ZombSlave_2_Name^,^Outsider^
+^Co^,^Common^,^E_E01_ZombSlave_2_NameDetail^,^^
+^Co^,^Common^,^E_E01_ZombSlave_3_Name^,^Corrupted Outsider^
+^Co^,^Common^,^E_E01_ZombSlave_3_NameDetail^,^^
+^Co^,^Common^,^E_E01_ZombSlave_4_Name^,^Awakened Outsider^
+^Co^,^Common^,^E_E01_ZombSlave_4_NameDetail^,^^
+^Co^,^Common^,^E_E01_Trap_001_Name^,^Trap^
+^Co^,^Common^,^E_E01_Trap_001_NameDetail^,^^
+^Co^,^Common^,^E_E01_Trap_002_Name^,^Trap^
+^Co^,^Common^,^E_E01_Trap_002_NameDetail^,^^
+^Co^,^Common^,^E_E01_Trap_003_Name^,^Trap^
+^Co^,^Common^,^E_E01_Trap_003_NameDetail^,^^
+^Co^,^Common^,^E_E01_Trap_004_Name^,^Trap^
+^Co^,^Common^,^E_E01_Trap_004_NameDetail^,^^
+^Co^,^Common^,^E_E01_Trap_005_Name^,^Trap^
+^Co^,^Common^,^E_E01_Trap_005_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_1_Name^,^^
+^Co^,^Common^,^E_d03_route_1_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_10_Name^,^^
+^Co^,^Common^,^E_d03_route_10_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_11_Name^,^^
+^Co^,^Common^,^E_d03_route_11_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_12_Name^,^^
+^Co^,^Common^,^E_d03_route_12_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_13_Name^,^^
+^Co^,^Common^,^E_d03_route_13_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_14_Name^,^^
+^Co^,^Common^,^E_d03_route_14_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_15_Name^,^^
+^Co^,^Common^,^E_d03_route_15_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_16_Name^,^^
+^Co^,^Common^,^E_d03_route_16_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_17_Name^,^^
+^Co^,^Common^,^E_d03_route_17_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_18_Name^,^^
+^Co^,^Common^,^E_d03_route_18_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_19_Name^,^^
+^Co^,^Common^,^E_d03_route_19_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_2_Name^,^^
+^Co^,^Common^,^E_d03_route_2_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_20_Name^,^^
+^Co^,^Common^,^E_d03_route_20_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_3_Name^,^^
+^Co^,^Common^,^E_d03_route_3_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_4_Name^,^^
+^Co^,^Common^,^E_d03_route_4_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_5_Name^,^^
+^Co^,^Common^,^E_d03_route_5_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_6_Name^,^^
+^Co^,^Common^,^E_d03_route_6_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_7_Name^,^^
+^Co^,^Common^,^E_d03_route_7_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_8_Name^,^^
+^Co^,^Common^,^E_d03_route_8_NameDetail^,^^
+^Co^,^Common^,^E_d03_route_9_Name^,^^
+^Co^,^Common^,^E_d03_route_9_NameDetail^,^^
+^Co^,^Common^,^E_d99_Megantes_002_Name^,^Nightmare Megantes^
+^Co^,^Common^,^E_d99_Megantes_002_NameDetail^,^Matren Guardian^
+^Co^,^Common^,^E_d99_0_1715_0000_Name^,^Agnas the Red^
+^Co^,^Common^,^E_d99_BoneCru03_001_Name^,^Voknos^
+^Co^,^Common^,^E_d99_0_1801_0000_Name^,^Terror Kerav^
+^Co^,^Common^,^E_d99_liger_0002_Name^,^Terrible Pyludd^
+^Co^,^Common^,^E_d99_liger_0002_NameDetail^,^^
+^Co^,^Common^,^e_d99_bonedrag_0002_Name^,^Abyssal Vylet^
+^Co^,^Common^,^e_d99_bonedrag_0002_NameDetail^,^^
+^Co^,^Common^,^E_d24_Hydra02_001_Name^,^^
+^Co^,^Common^,^E_d24_Hydra02_001_NameDetail^,^^
+^Co^,^Common^,^E_d24_ScorTong_001_Name^,^^
+^Co^,^Common^,^E_d24_ScorTong_001_NameDetail^,^^
+^Co^,^Common^,^E_Event_Rabormi_01_Name^,^^
+^Co^,^Common^,^E_Event_Rabormi_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_RabEv2M_5_Name^,^^
+^Co^,^Common^,^E_Event_RabEv2M_5_NameDetail^,^^
+^Co^,^Common^,^E_P02_Mphonix_003_Name^,^[Mark] Finion^
+^Co^,^Common^,^E_P02_Mphonix_003_NameDetail^,^^
+^Co^,^Common^,^E_P02_IroHors_0003_Name^,^[Mark] Calypos^
+^Co^,^Common^,^E_P02_IroHors_0003_NameDetail^,^^
+^Co^,^Common^,^E_P02_Megantes_0003_Name^,^[Mark] Frenzy Atilla^
+^Co^,^Common^,^E_P02_Megantes_0003_NameDetail^,^^
+^Co^,^Common^,^E_P02_Mphonix_004_Name^,^Finion^
+^Co^,^Common^,^E_P02_Mphonix_004_NameDetail^,^^
+^Co^,^Common^,^E_P02_IroHors_0004_Name^,^Calypos^
+^Co^,^Common^,^E_P02_IroHors_0004_NameDetail^,^^
+^Co^,^Common^,^E_P02_Megantes_0004_Name^,^Atilla^
+^Co^,^Common^,^E_P02_Megantes_0004_NameDetail^,^^
+^Co^,^Common^,^E_Event_Rabormi_02_Name^,^^
+^Co^,^Common^,^E_Event_Rabormi_02_NameDetail^,^^
+^Co^,^Common^,^E_Event_Rabormi_03_Name^,^^
+^Co^,^Common^,^E_Event_Rabormi_03_NameDetail^,^^
+^Co^,^Common^,^E_CabeShuraA_01_Name^,^Dullahan^
+^Co^,^Common^,^E_CabeShuraA_01_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraA_02_Name^,^Dullahan^
+^Co^,^Common^,^E_CabeShuraA_02_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraA_03_Name^,^Dullahan^
+^Co^,^Common^,^E_CabeShuraA_03_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraA_11_Name^,^Dullahan^
+^Co^,^Common^,^E_CabeShuraA_11_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraA_22_Name^,^Dullahan^
+^Co^,^Common^,^E_CabeShuraA_22_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraA_33_Name^,^Dullahan^
+^Co^,^Common^,^E_CabeShuraA_33_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraA_04_Name^,^Dullahan^
+^Co^,^Common^,^E_CabeShuraA_04_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraA_05_Name^,^Dullahan^
+^Co^,^Common^,^E_CabeShuraA_05_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraA_06_Name^,^Dullahan^
+^Co^,^Common^,^E_CabeShuraA_06_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraA_44_Name^,^Dullahan^
+^Co^,^Common^,^E_CabeShuraA_44_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraA_55_Name^,^Dullahan^
+^Co^,^Common^,^E_CabeShuraA_55_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraA_66_Name^,^Dullahan^
+^Co^,^Common^,^E_CabeShuraA_66_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_F04_Tagris_01_Name^,^Tagris^
+^Co^,^Common^,^E_F04_Tagris_01_NameDetail^,^Shard of Attaius^
+^Co^,^Common^,^E_F04_Tagris_02_Name^,^Traes^
+^Co^,^Common^,^E_F04_Tagris_02_NameDetail^,^Shard of Tranua^
+^Co^,^Common^,^E_na_Event_01_Name^,^Dullahan^
+^Co^,^Common^,^E_na_Event_01_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_C01_BrindleHe_01_Name^,^Tropical Ramphastos^
+^Co^,^Common^,^E_C01_BrindleHe_01_NameDetail^,^^
+^Co^,^Common^,^e_D06_ImmoKnigh_006_Name^,^Undying Defender^
+^Co^,^Common^,^e_D06_ImmoKnigh_006_NameDetail^,^Mercurius's Pawn^
+^Co^,^Common^,^E_C01_ReinxmasA_01_Name^,^Sainted Festive Reindeer^
+^Co^,^Common^,^E_C01_ReinxmasA_01_NameDetail^,^Ellandfel Event^
+^Co^,^Common^,^E_C01_Reinxmas_01_Name^,^Sainted Festive Reindeer^
+^Co^,^Common^,^E_C01_Reinxmas_01_NameDetail^,^Ellandfel Event^
+^Co^,^Common^,^e_c01_spirwisp_01_Name^,^Evil Spirit^
+^Co^,^Common^,^e_c01_spirwisp_01_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KingRab_1_Name^,^Lucius Volifax Rabbini^
+^Co^,^Common^,^Ev_NA_KingRab_1_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_1_Name^,^Bernard Thortor^
+^Co^,^Common^,^Ev_NA_KeepRab_1_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_2_Name^,^Latanyan^
+^Co^,^Common^,^Ev_NA_KeepRab_2_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_3_Name^,^Heath Rabbit^
+^Co^,^Common^,^Ev_NA_KeepRab_3_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_4_Name^,^Johnie Rabbini^
+^Co^,^Common^,^Ev_NA_KeepRab_4_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_5_Name^,^Leander Rabbini^
+^Co^,^Common^,^Ev_NA_KeepRab_5_NameDetail^,^^
+^Co^,^Common^,^ev_na_aquabeast_1_Name^,^Aquavrios^
+^Co^,^Common^,^ev_na_aquabeast_1_NameDetail^,^^
+^Co^,^Common^,^e_d99_kingbat_003_Name^,^Awakened Shakiba^
+^Co^,^Common^,^e_d99_kingbat_003_NameDetail^,^^
+^Co^,^Common^,^E_02_0_0309_0001_Name^,^Pritsha the Cannibal^
+^Co^,^Common^,^E_02_0_0309_0001_NameDetail^,^^
+^Co^,^Common^,^E_99_0_0010_0003_Name^,^Karasha the Dark One^
+^Co^,^Common^,^E_99_0_0010_0003_NameDetail^,^Salant Henchman^
+^Co^,^Common^,^E_f01_bragassa_02_Name^,^Braghin Seeker^
+^Co^,^Common^,^E_f01_bragassa_02_NameDetail^,^^
+^map_d98^,^pvp_arena^,^e_d98_Demos_001_name^,^Servant^
+^map_d98^,^pvp_arena^,^e_d98_Laher_001_name^,^Servant^
+^map_d98^,^pvp_arena^,^E_d98_icemagician_01_name^,^Servant^
+^map_d98^,^pvp_arena^,^E_d98_chaodawiz_02_name^,^Servant^
+^Co^,^Common^,^ev_na_academyrab_1_name^,^Leander Rabbini^
+^Co^,^Common^,^ev_na_academyrab_2_name^,^Leander Rabbini^
+^Co^,^Common^,^ev_na_academyrab_3_name^,^Leander Rabbini^
+^Co^,^Common^,^ev_na_academyrab_4_name^,^Leander Rabbini^
+^Co^,^Common^,^ev_na_academyrab_5_name^,^Leander Rabbini^
+^Co^,^Common^,^ev_na_academyrab_6_name^,^Leander Rabbini^
+^Co^,^Common^,^ev_na_academyrab_7_name^,^Leander Rabbini^
+^Co^,^Common^,^ev_na_academyrab_8_name^,^Leander Rabbini^
+^Co^,^Common^,^ev_na_academyrab_9_name^,^Leander Rabbini^
+^Co^,^Common^,^ev_na_academyrab_10_name^,^Leander Rabbini^
+^Co^,^Common^,^e_e02_halloween_01_name^,^Phantom Bloodwyrm^
+^Co^,^Common^,^e_e02_halloween_02_name^,^Phantom Benthic^
+^Co^,^Common^,^e_e02_halloween_03_name^,^Phantom Vylet^
+^Co^,^Common^,^e_e02_halloween_04_name^,^Phantom Veldon^
+^Co^,^Common^,^e_e02_halloween_05_name^,^Phantom Tolus^
+^Co^,^Common^,^e_e02_halloween_06_name^,^Phantom Torkai^
+^Co^,^Common^,^e_e02_halloween_07_name^,^Phantom Atan^
+^Co^,^Common^,^e_f09_thundergru_01_name^,^Blazeur^
+^Co^,^Common^,^e_f09_thundergru_02_name^,^Storm Sphere^
+^Co^,^Common^,^E_CabeShuraB_01_Name^,^Abyssal Dullahan^
+^Co^,^Common^,^E_CabeShuraB_01_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraB_11_Name^,^Abyssal Dullahan^
+^Co^,^Common^,^E_CabeShuraB_11_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraB_02_Name^,^Abyssal Dullahan^
+^Co^,^Common^,^E_CabeShuraB_02_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraB_22_Name^,^Abyssal Dullahan^
+^Co^,^Common^,^E_CabeShuraB_22_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraB_03_Name^,^Abyssal Dullahan^
+^Co^,^Common^,^E_CabeShuraB_03_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraB_33_Name^,^Abyssal Dullahan^
+^Co^,^Common^,^E_CabeShuraB_33_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraB_04_Name^,^Abyssal Dullahan^
+^Co^,^Common^,^E_CabeShuraB_04_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraB_44_Name^,^Abyssal Dullahan^
+^Co^,^Common^,^E_CabeShuraB_44_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraB_05_Name^,^Abyssal Dullahan^
+^Co^,^Common^,^E_CabeShuraB_05_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraB_55_Name^,^Abyssal Dullahan^
+^Co^,^Common^,^E_CabeShuraB_55_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraB_06_Name^,^Abyssal Dullahan^
+^Co^,^Common^,^E_CabeShuraB_06_NameDetail^,^Headless Rider^
+^Co^,^Common^,^E_CabeShuraB_66_Name^,^Abyssal Dullahan^
+^Co^,^Common^,^E_CabeShuraB_66_NameDetail^,^Headless Rider^
+^map_e02^,^Xmasdungeon^,^e_e02_snowman_1_name^,^Mini Snowman^
+^map_e02^,^Xmasdungeon^,^e_e02_elfrab_01_Name^,^Elbini^
+^map_e02^,^Xmasdungeon^,^e_e02_elfrab_01_NameDetail^,^Rascally Elf Rabbini^
+^map_e02^,^Xmasdungeon^,^E_e02_santarab_01_Name^,^Santana^
+^map_e02^,^Xmasdungeon^,^E_e02_santarab_01_NameDetail^,^Rascally Sainted Rabbini^
+^map_e02^,^Xmasdungeon^,^e_e02_elfrab_02_Name^,^Elbini^
+^map_e02^,^Xmasdungeon^,^e_e02_elfrab_02_NameDetail^,^Rascally Elf Rabbini^
+^map_e02^,^Xmasdungeon^,^E_e02_santarab_02_Name^,^Santana^
+^map_e02^,^Xmasdungeon^,^E_e02_santarab_02_NameDetail^,^Rascally Sainted Rabbini^
+^map_e02^,^Xmasdungeon^,^E_e02_Whale_1_Name^,^Ellandfel Sky Titan^
+^map_e02^,^Xmasdungeon^,^E02_Bigbox_S_Name^,^Flashy Gift Box^
+^map_e02^,^Xmasdungeon^,^E02_Bigbox_A_Name^,^Flashy Gift Box^
+^Co^,^Common^,^Ev_NA_ElfRab_1_name^,^Rascally Sainted Rabbini^
+^Co^,^Common^,^Ev_NA_ElfRab_1_description^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_11_Name^,^Bernard Thortor^
+^Co^,^Common^,^Ev_NA_KeepRab_11_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_22_Name^,^Latanyan^
+^Co^,^Common^,^Ev_NA_KeepRab_22_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_33_Name^,^Heath Rabbit^
+^Co^,^Common^,^Ev_NA_KeepRab_33_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_44_Name^,^Johnie Rabbini^
+^Co^,^Common^,^Ev_NA_KeepRab_44_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_55_Name^,^Leander Rabbini^
+^Co^,^Common^,^Ev_NA_KeepRab_55_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_111_Name^,^Bernard Thortor^
+^Co^,^Common^,^Ev_NA_KeepRab_111_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_222_Name^,^Latanyan^
+^Co^,^Common^,^Ev_NA_KeepRab_222_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_333_Name^,^Heath Rabbit^
+^Co^,^Common^,^Ev_NA_KeepRab_333_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_444_Name^,^Johnie Rabbini^
+^Co^,^Common^,^Ev_NA_KeepRab_444_NameDetail^,^^
+^Co^,^Common^,^Ev_NA_KeepRab_555_Name^,^Leander Rabbini^
+^Co^,^Common^,^Ev_NA_KeepRab_555_NameDetail^,^^
+^Co^,^Common^,^E_Event_RabOlym_01_Name^,^Savage Rabbini^
+^Co^,^Common^,^E_Event_RabOlym_01_NameDetail^,^Vicious Rabbini^
+^Co^,^Common^,^E_Event_RabOlym_02_Name^,^Fierce Rabbini^
+^Co^,^Common^,^E_Event_RabOlym_02_NameDetail^,^Elite Vicious Rabbini^
+^Co^,^Common^,^E_Event_RabOlym_03_Name^,^Bruiser Rabbini^
+^Co^,^Common^,^E_Event_RabOlym_03_NameDetail^,^Rabbini Rabble Leader^
+^Co^,^Common^,^E_Event_RabOlym_04_Name^,^Chief Rabbini^
+^Co^,^Common^,^E_Event_RabOlym_04_NameDetail^,^Rabbini Hooligan Leader^
+^Co^,^Common^,^E_Event_BearOlym_01_Name^,^Half-Moon^
+^Co^,^Common^,^E_Event_BearOlym_01_NameDetail^,^Torch Relay Runner^
+^Co^,^Common^,^E_Event_WorldRaid_01_Name^,^Brancas^
+^Co^,^Common^,^E_Event_WorldRaid_02_Name^,^Merciless^
+^Co^,^Common^,^E_Event_WorldRaid_01_NameDetail^,^Pawns of God of Ruin^
+^Co^,^Common^,^E_Event_WorldRaid_02_NameDetail^,^Pawns of God of Ruin^
+^Co^,^Common^,^E_Event_RUWC_02_Name^,^Brown Bear Rabbini^
+^Co^,^Common^,^E_Event_RUWC_02_Description^,^Soccer hater^
+^Co^,^Common^,^E_Event_Gdragon_01_Name^,^Gilded Infernal Demoroth^
+^Co^,^Common^,^E_99_0_1501_0003_Name^,^Chaos Lion^
+^Co^,^Common^,^E_99_0_1501_0003_NameDetail^,^^
+^Co^,^Common^,^E_f07_BFlyWolf_0001_Name^,^Awakened Torkai^
+^Co^,^Common^,^E_Event_RabMer_001_Name^,^Watermelon Rabbini^
+^Co^,^Common^,^E_E01_Tavor_0001_Name^,^Tavor^
+^Co^,^Common^,^E_E01_Pega_0001_Name^,^Nebula the Chaos^
+^Co^,^Common^,^E_P02_bUGarmu_0001_Name^,^Ancient Magnatu^
+^Co^,^Common^,^E_P02_bUGarmu_0001_NameDetail^,^^
+^Co^,^Common^,^E_03_bCaras_0001_Name^,^Ancient Veldon^
+^Co^,^Common^,^E_03_bCaras_0001_NameDetail^,^^
+^Co^,^Common^,^e_f05_bMatura_001_Name^,^Ancient Caspert^
+^Co^,^Common^,^e_f05_bMatura_001_NameDetail^,^^
+^Co^,^Common^,^E_d25_bUGarmu_01_Name^,^Ancient Caspert^
+^Co^,^Common^,^E_d25_bUGarmu_01_NameDetail^,^^
+^Co^,^Common^,^E_F08_btoms_1_Name^,^Dark Nijeya^
+^Co^,^Common^,^E_F08_btoms_1_NameDetail^,^^
+^Co^,^Common^,^E_99_idollroxi_01_Name^,^Burning Roxinus^
+^Co^,^Common^,^E_99_idollGar_01_Name^,^Garme^
+^Co^,^Common^,^E_99_idollpano_01_Name^,^Panos^
+^Co^,^Common^,^E_C00_HalowGhst_001_Name^,^Soda Whisper^
+^Co^,^Common^,^E_C00_HalowGhst_001_NameDetail^,^^
+^Co^,^Common^,^E_C00_HalowGhstA_01_Name^,^Strawberry Whisper^
+^Co^,^Common^,^E_C00_HalowGhstA_01_NameDetail^,^^
+^Co^,^Common^,^E_C00_HalowGhstB_01_Name^,^Mango Whisper^
+^Co^,^Common^,^E_C00_HalowGhstB_01_NameDetail^,^^
+^Co^,^Common^,^e_d96_zombomb_01_Name^,^Explosive Mummy^
+^Co^,^Common^,^e_d96_zombomb_01_NameDetail^,^^
+^Co^,^Common^,^e_d96_exced_01_Name^,^Unstable Spirit^
+^Co^,^Common^,^e_d96_exced_01_NameDetail^,^^
+^Co^,^Common^,^e_d96_exced_02_Name^,^Contaminated Spirit^
+^Co^,^Common^,^e_d96_exced_02_NameDetail^,^^
+^Co^,^Common^,^e_d96_KrokGener_01_Name^,^Gredis of Deadlands^
+^Co^,^Common^,^e_d96_KrokGener_01_NameDetail^,^^
+^Co^,^Common^,^e_d96_mwer_001_Name^,^Labyrinth Werewolf^
+^Co^,^Common^,^e_d96_mwer_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_cabeashu_001_Name^,^Mighty Skeleton^
+^Co^,^Common^,^e_d96_cabeashu_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_armordog_001_Name^,^Armored Jackal^
+^Co^,^Common^,^e_d96_armordog_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_evilgirl_001_Name^,^Possesed Girl^
+^Co^,^Common^,^e_d96_evilgirl_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_necro_001_Name^,^Labyrinth Necromancer^
+^Co^,^Common^,^e_d96_necro_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_eviltree_001_Name^,^Corrupted Ashwood^
+^Co^,^Common^,^e_d96_eviltree_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_Lakan_001_Name^,^Cursed Graverobber^
+^Co^,^Common^,^e_d96_Lakan_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_Dgarmu_001_Name^,^Erega^
+^Co^,^Common^,^e_d96_Dgarmu_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_Demos_001_Name^,^Rotte^
+^Co^,^Common^,^e_d96_Demos_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_Laher_001_Name^,^Blaus^
+^Co^,^Common^,^e_d96_Laher_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_HJack_001_Name^,^Herd Leader Borupu^
+^Co^,^Common^,^e_d96_HJack_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_Talos_001_Name^,^Bishop Kaishiku^
+^Co^,^Common^,^e_d96_Talos_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_Lanot_001_Name^,^Ranote^
+^Co^,^Common^,^e_d96_Lanot_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_Heeno_001_Name^,^Henok^
+^Co^,^Common^,^e_d96_Heeno_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_Monk_001_Name^,^Monek^
+^Co^,^Common^,^e_d96_Monk_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_Heret_001_Name^,^Heretic^
+^Co^,^Common^,^e_d96_Heret_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_Vandk_001_Name^,^Van Deken^
+^Co^,^Common^,^e_d96_Vandk_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_Mucu_001_Name^,^Mercurius^
+^Co^,^Common^,^e_d96_Mucu_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_ashurm_001_Name^,^Ashuram^
+^Co^,^Common^,^e_d96_ashurm_001_NameDetail^,^^
+^Co^,^Common^,^e_d96_ImmoMagi_01_Name^,^Fallen Legion Magi^
+^Co^,^Common^,^e_d96_ImmoMagi_01_NameDetail^,^^
+^Co^,^Common^,^e_d96_dstone_01_Name^,^Moon Crystal^
+^Co^,^Common^,^e_d96_dstone_01_NameDetail^,^^
+^Co^,^Common^,^e_d96_dstone_02_Name^,^Flame Crystal^
+^Co^,^Common^,^e_d96_dstone_02_NameDetail^,^^
+^Co^,^Common^,^e_d96_dstone_03_Name^,^Water Crystal^
+^Co^,^Common^,^e_d96_dstone_03_NameDetail^,^^
+^Co^,^Common^,^e_d96_dstone_04_Name^,^Tree Crystal^
+^Co^,^Common^,^e_d96_dstone_04_NameDetail^,^^
+^Co^,^Common^,^e_d96_dstone_05_Name^,^Gold Crystal^
+^Co^,^Common^,^e_d96_dstone_05_NameDetail^,^^
+^Co^,^Common^,^e_d96_dstone_06_Name^,^Earth Crystal^
+^Co^,^Common^,^e_d96_dstone_06_NameDetail^,^^
+^Co^,^Common^,^e_d96_dstone_07_Name^,^Sun Crystal^
+^Co^,^Common^,^e_d96_dstone_07_NameDetail^,^^
+^Co^,^Common^,^e_d96_KrokGener_02_Name^,^Gredis of Deadlands^
+^Co^,^Common^,^e_d96_KrokGener_02_NameDetail^,^^
+^Co^,^Common^,^E_D96_CapGreed_01_Name^,^Frail Gredis^
+^Co^,^Common^,^E_D96_CapGreed_01_NameDetail^,^^
+^Co^,^Common^,^E_D96_fail_01_Name^,^Shattered Crystal^
+^Co^,^Common^,^E_D96_fail_01_NameDetail^,^^
+^Co^,^Common^,^E_D96_GoleBomb_01_Name^,^Animated Bomb^
+^Co^,^Common^,^E_D96_GoleBomb_01_NameDetail^,^^
+^Co^,^Common^,^e_d96_HJack_002_Name^,^Herd Leader Borupu^
+^Co^,^Common^,^e_d96_HJack_002_NameDetail^,^^
+^Co^,^Common^,^e_d96_Talos_002_Name^,^Bishop Kaishiku^
+^Co^,^Common^,^e_d96_Talos_002_NameDetail^,^^
+^Co^,^Common^,^e_na_chaser_001_Name^,^Spirit Chaser^
+^Co^,^Common^,^e_na_chaser_001_NameDetail^,^^
+^Co^,^Common^,^e_na_RuneGolem_001_Name^,^Rune Golem^
+^Co^,^Common^,^e_na_RuneGolem_001_NameDetail^,^^
+^Co^,^Common^,^e_00_skilltest_01_Name^,^PoyoPoyo^
+^Co^,^Common^,^e_00_skilltest_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_Rabormi_05_Name^,^Royal Thief Ravish^
+^Co^,^Common^,^E_Event_Rabormi_05_NameDetail^,^^
+^Co^,^Common^,^E_Event_Agnas_01_Name^,^Glacial Agnas^
+^Co^,^Common^,^E_Event_Agnas_01_NameDetail^,^Tempest Dragon^
+^Co^,^Common^,^e_na_algidus_001_Name^,^Algidus^
+^Co^,^Common^,^e_na_algidus_001_NameDetail^,^^
+^Co^,^Common^,^e_na_luminiel_001_Name^,^Crimson Aeolus^
+^Co^,^Common^,^e_na_luminiel_001_NameDetail^,^^
+^Co^,^Common^,^e_na_winstein_001_Name^,^Winstein^
+^Co^,^Common^,^e_na_winstein_001_NameDetail^,^^
+^Co^,^Common^,^e_na_winstein_002_Name^,^DJ Winstein^
+^Co^,^Common^,^e_na_winstein_002_NameDetail^,^^
+^Co^,^Common^,^e_na_winstein_003_Name^,^Pimp Winstein^
+^Co^,^Common^,^e_na_winstein_003_NameDetail^,^^
+^Co^,^Common^,^ev_na_aquabeast_2_Name^,^Radiant Aquavrios^
+^Co^,^Common^,^E_Event_RabMer_002_Name^,^Watermelon Rabbini^
+^Co^,^Common^,^E_VALOFE_0001_Name^,^N'alex Orohn^
+^Co^,^Common^,^E_VALOFE_0001_NameDetail^,^The World Ender^
+^Co^,^Common^,^e_ev_halloween19_01_Name^,^Haunted Pumpkin^
+^Co^,^Common^,^e_ev_halloween19_01_NameDetail^,^Official Halloween Spookers^
+^Co^,^Common^,^e_ev_halloween19_02_Name^,^Possessed Pumpkin^
+^Co^,^Common^,^e_ev_halloween19_02_NameDetail^,^Official Halloween Spookers^
+^Co^,^Common^,^e_ev_halloween19_03_Name^,^Cursed Pumpkin^
+^Co^,^Common^,^e_ev_halloween19_03_NameDetail^,^Official Halloween Spookers^
+^Co^,^Common^,^e_ev_halloween19_04_Name^,^Plagued Pumpkin^
+^Co^,^Common^,^e_ev_halloween19_04_NameDetail^,^Official Halloween Spookers^
+^Co^,^Common^,^e_ev_halloween19_05_Name^,^Tormented Pumpkin^
+^Co^,^Common^,^e_ev_halloween19_05_NameDetail^,^Official Halloween Spookers^
+^Co^,^Common^,^e_ev_halloween19_06_Name^,^Jack O'^
+^Co^,^Common^,^e_ev_halloween19_06_NameDetail^,^The Great Dark One^
+^Co^,^Common^,^e_ev_na_pnight_01_Name^,^Phantasmal Nightshade^
+^Co^,^Common^,^e_ev_halloween19_07_Name^,^Jack O'^
+^Co^,^Common^,^e_ev_halloween19_07_NameDetail^,^The Great Dark One^
+^Co^,^Common^,^E_EV_Reinxmas_01_Name^,^Festive Reindeer^
+^Co^,^Common^,^E_EV_Reinxmas_01_NameDetail^,^^
+^Co^,^Common^,^E_EV_Reinxmas_02_Name^,^Festive Reindeer^
+^Co^,^Common^,^E_EV_Reinxmas_02_NameDetail^,^^
+^Co^,^Common^,^E_d00_FirePega_004_Name^,^^
+^Co^,^Common^,^E_d00_FirePega_004_NameDetail^,^^
+^Co^,^Common^,^E_d01_DarkPega_004_Name^,^^
+^Co^,^Common^,^E_d01_DarkPega_004_NameDetail^,^^
+^Co^,^Common^,^E_d02_IcePega_004_Name^,^^
+^Co^,^Common^,^E_d02_IcePega_004_NameDetail^,^^
+^Co^,^Common^,^E_f03_DrFrBoy0_0004_Name^,^^
+^Co^,^Common^,^E_f03_DrFrBoy0_0004_NameDetail^,^^
+^Co^,^Common^,^E_f03_DrFrBoy1_0004_Name^,^^
+^Co^,^Common^,^E_f03_DrFrBoy1_0004_NameDetail^,^^
+^Co^,^Common^,^E_f04_DrFrBoy2_0004_Name^,^^
+^Co^,^Common^,^E_f04_DrFrBoy2_0004_NameDetail^,^^
+^Co^,^Common^,^e_d98_Demos_001_NameDetail^,^^
+^Co^,^Common^,^e_d98_Laher_001_NameDetail^,^^
+^Co^,^Common^,^E_d98_icemagician_01_NameDetail^,^^
+^Co^,^Common^,^E_d98_chaodawiz_02_NameDetail^,^^
+^Co^,^Common^,^E_C00_HomiDoll_001_Name^,^^
+^Co^,^Common^,^E_C00_HomiDoll_001_NameDetail^,^^
+^Co^,^Common^,^E_d22_0_RabMer_0005_Name^,^^
+^Co^,^Common^,^E_d22_0_RabMer_0005_NameDetail^,^^
+^Co^,^Common^,^E_d22_0_RabMer_0006_Name^,^^
+^Co^,^Common^,^E_d22_0_RabMer_0006_NameDetail^,^^
+^Co^,^Common^,^E_Event_RabSanta_01_Name^,^^
+^Co^,^Common^,^E_Event_RabSanta_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_RabSanta_02_Name^,^^
+^Co^,^Common^,^E_Event_RabSanta_02_NameDetail^,^^
+^Co^,^Common^,^E_Event_SnowG_01_Name^,^^
+^Co^,^Common^,^E_Event_SnowG_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_SnowB_01_Name^,^^
+^Co^,^Common^,^E_Event_SnowB_01_NameDetail^,^^
+^Co^,^Common^,^E_99_idollroxi_01_NameDetail^,^^
+^Co^,^Common^,^E_99_idollGar_01_NameDetail^,^^
+^Co^,^Common^,^E_99_idollpano_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_Chicken_01_Name^,^^
+^Co^,^Common^,^E_Event_Chicken_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_Chicken_02_Name^,^^
+^Co^,^Common^,^E_Event_Chicken_02_NameDetail^,^^
+^Co^,^Common^,^E_Event_DaeBak_01_Name^,^^
+^Co^,^Common^,^E_Event_DaeBak_01_NameDetail^,^^
+^Co^,^Common^,^e_d96_capdevy_01_Name^,^^
+^Co^,^Common^,^e_d96_capdevy_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_bearpooh_01_Name^,^Honey Champion Popo^
+^Co^,^Common^,^e_d95_bearpooh_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_bearpooh_02_Name^,^Honey Champion Popo^
+^Co^,^Common^,^e_d95_bearpooh_02_NameDetail^,^^
+^Co^,^Common^,^e_d95_bismo_01_Name^,^Drunken King Bodil^
+^Co^,^Common^,^e_d95_bismo_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_bismo_02_Name^,^Drunken King Bodil^
+^Co^,^Common^,^e_d95_bismo_02_NameDetail^,^^
+^Co^,^Common^,^e_d95_blademaster_01_Name^,^Blademaster Brutus^
+^Co^,^Common^,^e_d95_blademaster_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_bragiblade_01_Name^,^Braghin Blade^
+^Co^,^Common^,^e_d95_bragiblade_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_bugbomb_01_Name^,^A Friend on the Road^
+^Co^,^Common^,^e_d95_bugbomb_01_NameDetail^,^^
+^Co^,^Common^,^E_d95_BugKuro_01_Name^,^Kurodian of the Tomb^
+^Co^,^Common^,^E_d95_BugKuro_01_NameDetail^,^^
+^Co^,^Common^,^E_d95_cabesicra_0_Name^,^Shikra Dune^
+^Co^,^Common^,^E_d95_cabesicra_0_NameDetail^,^^
+^Co^,^Common^,^e_d95_gargo_02_Name^,^The Nameless One^
+^Co^,^Common^,^e_d95_gargo_02_NameDetail^,^^
+^Co^,^Common^,^e_d95_ghoulmdea_01_Name^,^Succumbed Zombie^
+^Co^,^Common^,^e_d95_ghoulmdea_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_honeycomb_01_Name^,^Honeycomb^
+^Co^,^Common^,^e_d95_honeycomb_01_NameDetail^,^^
+^Co^,^Common^,^E_d95_IlikBug_01_Name^,^A Friend on the Street^
+^Co^,^Common^,^E_d95_IlikBug_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_KrokGener_01_Name^,^Gredis of the Deadlands^
+^Co^,^Common^,^e_d95_KrokGener_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_madbee_01_Name^,^Furious Bees^
+^Co^,^Common^,^e_d95_madbee_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_markree_01_Name^,^A Wild Soul^
+^Co^,^Common^,^e_d95_markree_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_orkus_Name^,^Jealous Iren^
+^Co^,^Common^,^e_d95_orkus_NameDetail^,^^
+^Co^,^Common^,^e_d95_poisonfrog_01_Name^,^Frog Inside the Well^
+^Co^,^Common^,^e_d95_poisonfrog_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_poisonfrog_02_Name^,^Frog Outside the Well^
+^Co^,^Common^,^e_d95_poisonfrog_02_NameDetail^,^^
+^Co^,^Common^,^E_d95_SubosMupad_0_Name^,^Zenon of the Red^
+^Co^,^Common^,^E_d95_SubosMupad_0_NameDetail^,^^
+^Co^,^Common^,^e_d95_zombieslave_01_Name^,^Weakest Zombie^
+^Co^,^Common^,^e_d95_zombieslave_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_gargo_01_Name^,^The Nameless One^
+^Co^,^Common^,^e_d95_gargo_01_NameDetail^,^^
+^Co^,^Common^,^e_d95_darkmagi_01_Name^,^Fallen Warlock^
+^Co^,^Common^,^e_d95_darkmagi_01_NameDetail^,^^
+^Co^,^Common^,^E_C01_CapDevy_01_Name^,^Weakened Sweet Daveen^
+^Co^,^Common^,^E_C01_CapDevy_01_NameDetail^,^^
+^Co^,^Common^,^E_f00_golebreak_01_Name^,^^
+^Co^,^Common^,^E_f00_golebreak_01_NameDetail^,^^
+^Co^,^Common^,^E_D95_smallstorm_0_Name^,^Eye of the Storm^
+^Co^,^Common^,^E_D95_smallstorm_0_NameDetail^,^^
+^Co^,^Common^,^e_d95_ghoulmdea_02_Name^,^Resistant Zombie^
+^Co^,^Common^,^e_d95_ghoulmdea_02_NameDetail^,^^
+^Co^,^Common^,^e_d95_defencewall_01_Name^,^Wall^
+^Co^,^Common^,^e_d95_defencewall_01_NameDetail^,^^
+^Co^,^Common^,^E_D95_AElephant_001_Name^,^Awakened Taisha^
+^Co^,^Common^,^E_D95_AElephant_001_NameDetail^,^^
+^Co^,^Common^,^E_D95_firestorm_0_Name^,^Fire Storm^
+^Co^,^Common^,^E_D95_firestorm_0_NameDetail^,^^
+^Co^,^Common^,^E_D95_SnomHunt_01_Name^,^Yeti Hunter^
+^Co^,^Common^,^E_D95_SnomHunt_01_NameDetail^,^Iren's Puppet^
+^Co^,^Common^,^E_D95_Snommagi_01_Name^,^Yeti Shaman^
+^Co^,^Common^,^E_D95_Snommagi_01_NameDetail^,^Iren's Puppet^
+^Co^,^Common^,^E_D95_SnomWrrio_01_Name^,^Yeti Brute^
+^Co^,^Common^,^E_D95_SnomWrrio_01_NameDetail^,^Iren's Puppet^
+^Co^,^Common^,^E_D95_bragiTrap_1_Name^,^Braghin Trap^
+^Co^,^Common^,^E_D95_bragiTrap_1_NameDetail^,^^
+^Co^,^Common^,^e_d95_singer_01_Name^,^Chapley Singer^
+^Co^,^Common^,^e_d95_singer_01_NameDetail^,^^
+^Co^,^Common^,^E_d22_0_Rabaro_0001_Name^,^^
+^Co^,^Common^,^E_d22_0_Rabaro_0001_NameDetail^,^^
+^Co^,^Common^,^E_d22_0_Rabgus_0001_Name^,^^
+^Co^,^Common^,^E_d22_0_Rabgus_0001_NameDetail^,^^
+^Co^,^Common^,^E_d22_0_Rabsebs_0001_Name^,^^
+^Co^,^Common^,^E_d22_0_Rabsebs_0001_NameDetail^,^^
+^Co^,^Common^,^E_d22_0_Rabsub_0001_Name^,^^
+^Co^,^Common^,^E_d22_0_Rabsub_0001_NameDetail^,^^
+^Co^,^Common^,^E_D25_AElephant_01_Name^,^^
+^Co^,^Common^,^E_D25_AElephant_01_NameDetail^,^^
+^Co^,^Common^,^E_D25_AntuLagen_01_Name^,^^
+^Co^,^Common^,^E_D25_AntuLagen_01_NameDetail^,^^
+^Co^,^Common^,^E_D25_CapElder_01_Name^,^^
+^Co^,^Common^,^E_D25_CapElder_01_NameDetail^,^^
+^Co^,^Common^,^E_D25_CapJason_01_Name^,^^
+^Co^,^Common^,^E_D25_CapJason_01_NameDetail^,^^
+^Co^,^Common^,^E_D25_CapRab_01_Name^,^^
+^Co^,^Common^,^E_D25_CapRab_01_NameDetail^,^^
+^Co^,^Common^,^E_D25_CapRab_03_Name^,^^
+^Co^,^Common^,^E_D25_CapRab_03_NameDetail^,^^
+^Co^,^Common^,^E_D25_CapRab_04_Name^,^^
+^Co^,^Common^,^E_D25_CapRab_04_NameDetail^,^^
+^Co^,^Common^,^E_d25_caras_01_Name^,^^
+^Co^,^Common^,^E_d25_caras_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_DarkPega_01_Name^,^^
+^Co^,^Common^,^E_d25_DarkPega_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_DragAgnas_01_Name^,^^
+^Co^,^Common^,^E_d25_DragAgnas_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_DrFrBoy0_01_Name^,^^
+^Co^,^Common^,^E_d25_DrFrBoy0_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_DrFrBoy1_01_Name^,^^
+^Co^,^Common^,^E_d25_DrFrBoy1_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_DrFrBoy2_01_Name^,^^
+^Co^,^Common^,^E_d25_DrFrBoy2_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_FirePega_01_Name^,^^
+^Co^,^Common^,^E_d25_FirePega_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_IcePega_01_Name^,^^
+^Co^,^Common^,^E_d25_IcePega_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_Kagoyle_01_Name^,^^
+^Co^,^Common^,^E_d25_Kagoyle_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_KagoyleA_01_Name^,^^
+^Co^,^Common^,^E_d25_KagoyleA_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_Karon_001_Name^,^^
+^Co^,^Common^,^E_d25_Karon_001_NameDetail^,^^
+^Co^,^Common^,^e_d25_Matura_01_Name^,^^
+^Co^,^Common^,^e_d25_Matura_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_Matura_02_Name^,^^
+^Co^,^Common^,^E_d25_Matura_02_NameDetail^,^^
+^Co^,^Common^,^E_D25_MegantesA_01_Name^,^^
+^Co^,^Common^,^E_D25_MegantesA_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_UGarmu_01_Name^,^^
+^Co^,^Common^,^E_d25_UGarmu_01_NameDetail^,^^
+^Co^,^Common^,^E_d25_wolf_ghos_01_Name^,^^
+^Co^,^Common^,^E_d25_wolf_ghos_01_NameDetail^,^^
+^Co^,^Common^,^e_d25_bonedrag_001_Name^,^^
+^Co^,^Common^,^e_d25_bonedrag_001_NameDetail^,^^
+^Co^,^Common^,^E_d25_Flyhydra_001_Name^,^^
+^Co^,^Common^,^E_d25_Flyhydra_001_NameDetail^,^^
+^Co^,^Common^,^E_d25_hydra_1_Name^,^^
+^Co^,^Common^,^E_d25_hydra_1_NameDetail^,^^
+^Co^,^Common^,^E_d25_Pegasus_001_Name^,^^
+^Co^,^Common^,^E_d25_Pegasus_001_NameDetail^,^^
+^Co^,^Common^,^e_d25_forlizard_1_Name^,^^
+^Co^,^Common^,^e_d25_forlizard_1_NameDetail^,^^
+^Co^,^Common^,^E_Event_RabSummer_01_Name^,^^
+^Co^,^Common^,^E_Event_RabSummer_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_RabExp_01_Name^,^^
+^Co^,^Common^,^E_Event_RabExp_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_RabExp_02_Name^,^^
+^Co^,^Common^,^E_Event_RabExp_02_NameDetail^,^^
+^Co^,^Common^,^E_P02_NightMare_001_Name^,^^
+^Co^,^Common^,^E_P02_NightMare_001_NameDetail^,^^
+^Co^,^Common^,^E_P02_NightMare_002_Name^,^^
+^Co^,^Common^,^E_P02_NightMare_002_NameDetail^,^^
+^Co^,^Common^,^E_P02_Crable_01_Name^,^Kravel of Chaos^
+^Co^,^Common^,^E_P02_Crable_01_NameDetail^,^^
+^Co^,^Common^,^E_P02_Danjelion_01_Name^,^Danzelion of Courage^
+^Co^,^Common^,^E_P02_Danjelion_01_NameDetail^,^^
+^Co^,^Common^,^E_P02_Danjelion_02_Name^,^Danzelion of Wisdom^
+^Co^,^Common^,^E_P02_Danjelion_02_NameDetail^,^^
+^Co^,^Common^,^E_P02_EliteSkull_01_Name^,^^
+^Co^,^Common^,^E_P02_EliteSkull_01_NameDetail^,^^
+^Co^,^Common^,^E_ev_Rudolph_01_Name^,^^
+^Co^,^Common^,^E_ev_Rudolph_01_NameDetail^,^^
+^Co^,^Common^,^E_P02_EliteMagi_01_Name^,^^
+^Co^,^Common^,^E_P02_EliteMagi_01_NameDetail^,^^
+^Co^,^Common^,^E_P02_EliteBrute_01_Name^,^^
+^Co^,^Common^,^E_P02_EliteBrute_01_NameDetail^,^^
+^Co^,^Common^,^E_P02_EliteWarr_01_Name^,^^
+^Co^,^Common^,^E_P02_EliteWarr_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_Gdragon_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_bmchwolf_01_Name^,^^
+^Co^,^Common^,^E_Event_bmchwolf_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_SewWhaleC_01_Name^,^^
+^Co^,^Common^,^E_Event_SewWhaleC_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_Crable_01_Name^,^^
+^Co^,^Common^,^E_Event_Crable_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_Danjelion_01_Name^,^^
+^Co^,^Common^,^E_Event_Danjelion_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_Danjelion_02_Name^,^^
+^Co^,^Common^,^E_Event_Danjelion_02_NameDetail^,^^
+^Co^,^Common^,^E_Event_FoxEloraa_01_Name^,^^
+^Co^,^Common^,^E_Event_FoxEloraa_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_Antares_01_Name^,^^
+^Co^,^Common^,^E_Event_Antares_01_NameDetail^,^^
+^Co^,^Common^,^E_Event_Antares_02_Name^,^^
+^Co^,^Common^,^E_Event_Antares_02_NameDetail^,^^
+^Co^,^Common^,^E_Event_Gdragon_02_Name^,^^
+^Co^,^Common^,^E_Event_bmchwolf_02_Name^,^^
+^Co^,^Common^,^E_Event_SewWhaleC_02_Name^,^^
+^Co^,^Common^,^E_Event_FoxEloraa_02_Name^,^^
+^Co^,^Common^,^E_Event_Gdragon_02_NameDetail^,^^
+^Co^,^Common^,^E_Event_bmchwolf_02_NameDetail^,^^
+^Co^,^Common^,^E_Event_SewWhaleC_02_NameDetail^,^^
+^Co^,^Common^,^E_Event_FoxEloraa_02_NameDetail^,^^
+^Co^,^Common^,^E_Event_ConGold_01_Name^,^^
+^Co^,^Common^,^E_Event_ConGold_01_Description^,^^
+^Co^,^Common^,^E_Event_RabMer_001_NameDetail^,^^
+^Co^,^Common^,^E_Event_Rabormi_04_Name^,^^
+^Co^,^Common^,^E_Event_Rabormi_04_NameDetail^,^^
+^Co^,^Common^,^E_D11_RedrCrotus_P01_Name^,^Unstable Cractus^
+^Co^,^Common^,^E_D11_RedrCrotus_P01_NameDetail^,^Red Revolutionaries Commander^
+^Co^,^Common^,^E_D11_RedrCrotus_P03_Name^,^Frenzied Cractus^
+^Co^,^Common^,^E_D11_RedrCrotus_P03_NameDetail^,^Red Revolutionaries Commander^
+^Co^,^Common^,^E_D11_RedrCrotus_P05_Name^,^Cractus' Shade^
+^Co^,^Common^,^E_D11_RedrCrotus_P05_NameDetail^,^^
+^Co^,^Common^,^E_D11_RedrCrotus_B02_Name^,^Cractus' Phantom^
+^Co^,^Common^,^E_D11_RedrCrotus_B02_NameDetail^,^^
+^Co^,^Common^,^E_D11_RedrCrotus_B03_Name^,^Cractus' Phantom^
+^Co^,^Common^,^E_D11_RedrCrotus_B03_NameDetail^,^^
+^Co^,^Common^,^E_D11_RedrCrotus_sm1_Name^,^Reanimated Hawston^
+^Co^,^Common^,^E_D11_RedrCrotus_sm1_NameDetail^,^^
+^Co^,^Common^,^E_D11_RedrCrotus_sm2_Name^,^Reanimated Zenon^
+^Co^,^Common^,^E_D11_RedrCrotus_sm2_NameDetail^,^^
+^Co^,^Common^,^E_D11_RedrCrotus_sm3_Name^,^Reanimated Lazart^
+^Co^,^Common^,^E_D11_RedrCrotus_sm3_NameDetail^,^^
+^Co^,^Common^,^E_D11_RedrCrotus_sm4_Name^,^Reanimated Shakis^
+^Co^,^Common^,^E_D11_RedrCrotus_sm4_NameDetail^,^^
+^Co^,^Common^,^E_D11_RedrCrotus_B01_Name^,^Cractus^
+^Co^,^Common^,^E_D11_RedrCrotus_B01_NameDetail^,^Red Revolutionaries Commander^
+^Co^,^Common^,^E_D11_Dstone_01_Name^,^Crimson Manastone^
+^Co^,^Common^,^E_D11_Dstone_01_NameDetail^,^^
+^Co^,^Common^,^E_D11_RedrCrotus_P07_Name^,^Cractus' Shade^
+^Co^,^Common^,^E_D11_RedrCrotus_P07_NameDetail^,^^
+^Co^,^Common^,^E_D11_RedrCrotus_B09_Name^,^Cractus' Phantom^
+^Co^,^Common^,^E_D11_RedrCrotus_P08_Name^,^Cractus' Phantom^
+^Co^,^Common^,^E_Event_Rabormi_06_Name^,^^
+^Co^,^Common^,^E_Event_Rabormi_06_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydraa_h01_Name^,^^
+^Co^,^Common^,^E_D88_hydraa_h01_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydrab_h02_Name^,^^
+^Co^,^Common^,^E_D88_hydrab_h02_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydrac_h03_Name^,^^
+^Co^,^Common^,^E_D88_hydrac_h03_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydrad_b01_Name^,^^
+^Co^,^Common^,^E_D88_hydrad_b01_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydraa_h02_Name^,^^
+^Co^,^Common^,^E_D88_hydraa_h02_NameDetail^,^^
+^Co^,^Common^,^e_ev_stpat_1_Name^,^St. Patrick Rabbini^
+^Co^,^Common^,^e_ev_stpat_1_NameDetail^,^^
+^Co^,^Common^,^e_ev_stpat_2_Name^,^St. Patrick Rabbini^
+^Co^,^Common^,^e_ev_stpat_2_NameDetail^,^^
+^Co^,^Common^,^E_ev_prtarta_01_Name^,^Primal Tartarus^
+^Co^,^Common^,^E_ev_prtarta_01_NameDetail^,^General of the Army of Ruin^
+^Co^,^Common^,^E_ev_primmok_01_Name^,^Primal Fallen Knight^
+^Co^,^Common^,^E_ev_primmok_01_NameDetail^,^^
+^Co^,^Common^,^E_ev_primmoe_01_Name^,^Primal Fallen Enchantress^
+^Co^,^Common^,^E_ev_primmoe_01_NameDetail^,^^
+^Co^,^Common^,^E_ev_primmog_01_Name^,^Primal Obsidian Gargoyle^
+^Co^,^Common^,^E_ev_primmog_01_NameDetail^,^^
+^Co^,^Common^,^e_ev_prshard_01_Name^,^Shard of Creation^
+^Co^,^Common^,^e_ev_prshard_01_NameDetail^,^^
+^Co^,^Common^,^e_ev_ea20_1_Name^,^Kyojin Rabbini (NORM)^
+^Co^,^Common^,^e_ev_ea20_1_NameDetail^,^^
+^Co^,^Common^,^e_ev_ea20_2_Name^,^Kyojin Rabbini (DEF)^
+^Co^,^Common^,^e_ev_ea20_2_NameDetail^,^^
+^Co^,^Common^,^e_ev_ea20_3_Name^,^Kyojin Rabbini (ATK)^
+^Co^,^Common^,^e_ev_ea20_3_NameDetail^,^^
+^Co^,^Common^,^ev_na_aquabeast_3_Name^,^Rampaging Aquavrios^
+^Co^,^Common^,^E_Event_RabMer_003_Name^,^Watermelon Rabbini^
+^Co^,^Common^,^E_Event_RabMer_004_Name^,^Watermelon Rabbini^
+^Co^,^Common^,^e_na_roikuha_01_Name^,^Roikubo Hatchling^
+^Co^,^Common^,^E_HallowGhost_001_Name^,^Ghost of Joy^
+^Co^,^Common^,^E_HallowGhost_002_Name^,^Ghost of Innocence^
+^Co^,^Common^,^E_HallowGhost_003_Name^,^Ghost of Passion^
+^Co^,^Common^,^E_F02_CBRVill_01_Name^,^Scared Villager^
+^Co^,^Common^,^E_F02_CBRVill_02_Name^,^Terrorized Villager^
+^Co^,^Common^,^E_C02_CBRVill_01_Name^,^Sightseeing Villager^
+^Co^,^Common^,^E_C02_CBRVill_02_Name^,^Dozing Villager^
+^Co^,^Common^,^E_F05_CBRVill_01_Name^,^Wandering Villager^
+^Co^,^Common^,^E_F05_CBRVill_02_Name^,^Scouting Villager^
+^Co^,^Common^,^ev_cbtext_01^,^Let's start off by introducing myself, I'm Damien.^
+^Co^,^Common^,^ev_cbtext_02^,^Trust me when I say that you'll be paid after this racket.^
+^Co^,^Common^,^ev_cbtext_03^,^I'm what they call a Chaos Blacksmith.^
+^Co^,^Common^,^ev_cbtext_04^,^Essentially, I know all there is to know about making the good stuff.^
+^Co^,^Common^,^ev_cbtext_05^,^Ever made a Zelnaris equipment with only 4 materials with 1 of each?^
+^Co^,^Common^,^ev_cbtext_06^,^I'm sure you haven't.^
+^Co^,^Common^,^ev_cbtext_07^,^You might think this is a scam.^
+^Co^,^Common^,^ev_cbtext_08^,^But it really isn't.^
+^Co^,^Common^,^ev_cbtext_09^,^You just need to do something I'm sure you aren't accustomed to.^
+^Co^,^Common^,^ev_cbtext_10^,^Just a teeny bit of no-good deed…^
+^Co^,^Common^,^ev_cbtext_11^,^Probably won't harm anyone anyway.^
+^Co^,^Common^,^ev_cbtext_12^,^With Princess Laina's awakening, it's the perfect time to forge yourself one.^
+^Co^,^Common^,^ev_cbtext_13^,^No more working your behind off for something you aren't even sure is going to be a 100%.^
+^Co^,^Common^,^ev_cbtext_14^,^But with me?^
+^Co^,^Common^,^ev_cbtext_15^,^I would probably just be handing it over to you.^
+^Co^,^Common^,^ev_cbtext_16^,^We're still a bit far from where I'm headed.^
+^Co^,^Common^,^ev_cbtext_17^,^Why don't we talk about you?^
+^Co^,^Common^,^ev_cbtext_18^,^I hear you've been doing a lotta good these days.^
+^Co^,^Common^,^ev_cbtext_19^,^Must be tiring having to do all those things.^
+^Co^,^Common^,^ev_cbtext_20^,^That you have to do all these painful sacrifices.^
+^Co^,^Common^,^ev_cbtext_21^,^And for what?^
+^Co^,^Common^,^ev_cbtext_22^,^They don’t even reward you for what you deserve.^
+^Co^,^Common^,^ev_cbtext_23^,^Now, now, don't tell me that speech about "It's not about the reward.".^
+^Co^,^Common^,^ev_cbtext_24^,^A hero deserves a break, sometimes even an actual reward.^
+^Co^,^Common^,^ev_cbtext_25^,^All these do-gooders can't even appreciate a hero like you.^
+^Co^,^Common^,^ev_cbtext_26^,^I used to be like you except I did ask myself.^
+^Co^,^Common^,^ev_cbtext_27^,^When do I get to be saved?^
+^Co^,^Common^,^ev_cbtext_28^,^When do I finally get my rest?^
+^Co^,^Common^,^ev_cbtext_29^,^When do I finally get my cool looking equipment?^
+^Co^,^Common^,^ev_cbtext_30^,^It just boggles my mind that not a lot of you hero-types ask these questions.^
+^Co^,^Common^,^ev_cbtext_31^,^Just saying.^
+^Co^,^Common^,^ev_cbtext_32^,^See these people?^
+^Co^,^Common^,^ev_cbtext_33^,^They're all so content now.^
+^Co^,^Common^,^ev_cbtext_34^,^Do they still even recognize you?^
+^Co^,^Common^,^ev_cbtext_35^,^Do they even know how much you've done for them?^
+^Co^,^Common^,^ev_cbtext_36^,^Short answer is no.^
+^Co^,^Common^,^ev_cbtext_37^,^And they never will.^
+^Co^,^Common^,^F02_CBRVillager_1^,^Are you here to save us?^
+^Co^,^Common^,^F02_CBRVillager_2^,^I'm so scared…^
+^Co^,^Common^,^F02_CBRVillager_3^,^I don't want to die.^
+^Co^,^Common^,^C02_CBRVillager_1^,^Feels so great to just take a break.^
+^Co^,^Common^,^C02_CBRVillager_2^,^I should do this more often.^
+^Co^,^Common^,^C02_CBRVillager_3^,^It's good to be alive.^
+^Co^,^Common^,^F05_CBRVillager_1^,^I need to move.^
+^Co^,^Common^,^F05_CBRVillager_2^,^Maybe there's more over there.^
+^Co^,^Common^,^F05_CBRVillager_3^,^I should go.^
+^Co^,^Common^,^E_EV_Oflut_01_Name^,^Oflut's Reindeer^
+^Co^,^Common^,^E_EV_Oflut_01_NameDetail^,^^
+^Co^,^Common^,^E_EV_Oflut_02_Name^,^Oflut Clone^
+^Co^,^Common^,^E_EV_Oflut_02_NameDetail^,^^
+^Co^,^Common^,^E_EV_Oflut_03_Name^,^Oflut <Corrupted King of Snow>^
+^Co^,^Common^,^E_EV_Oflut_03_NameDetail^,^^
+^Co^,^Common^,^E_c01_XSnowEvent_00_Name^,^Nova^
+^Co^,^Common^,^E_c01_XSnowEvent_00_NameDetail^,^Emergent Snowman^
+^Co^,^Common^,^E_c01_XSnowEvent_01_Name^,^Snowvoid^
+^Co^,^Common^,^E_c01_XSnowEvent_01_NameDetail^,^Reigning Snowman^
+^Co^,^Common^,^e_ev_flospring21_01_Name^,^Egg-thief Rabbini^
+^Co^,^Common^,^e_ev_flospring21_01_NameDetail^,^Flourishing Spring Bandit^
+^Co^,^Common^,^e_ev_flospring21_02_Name^,^Mutated Flora^
+^Co^,^Common^,^e_ev_flospring21_02_NameDetail^,^^
+^Co^,^Common^,^E_jellybear_01_Name^,^Strawberry Bear^
+^Co^,^Common^,^E_jellybear_01_NameDetail^,^^
+^Co^,^Common^,^E_jellybear_02_Name^,^Apple Bear^
+^Co^,^Common^,^E_jellybear_02_NameDetail^,^^
+^Co^,^Common^,^E_jellybear_03_Name^,^Soda Bear^
+^Co^,^Common^,^E_jellybear_03_NameDetail^,^^
+^Co^,^Common^,^E_jellybear_04_Name^,^Sweet Bear^
+^Co^,^Common^,^E_jellybear_04_NameDetail^,^^
+^Co^,^Common^,^E_jellybear_05_Name^,^Split Sweet Bear^
+^Co^,^Common^,^E_jellybear_05_NameDetail^,^^
+^Co^,^Common^,^E_jellybear_06_Name^,^Little Strawberry Bear^
+^Co^,^Common^,^E_jellybear_06_NameDetail^,^^
+^Co^,^Common^,^E_jellybear_07_Name^,^Little Apple Bear^
+^Co^,^Common^,^E_jellybear_07_NameDetail^,^^
+^Co^,^Common^,^E_jellybear_08_Name^,^Little Soda Bear^
+^Co^,^Common^,^E_jellybear_08_NameDetail^,^^
+^Co^,^Common^,^E_jellybear_09_Name^,^Little Sweet Bear^
+^Co^,^Common^,^E_jellybear_09_NameDetail^,^^
+^Co^,^Common^,^E_jellybear_10_Name^,^Split Sweet Bear^
+^Co^,^Common^,^E_jellybear_10_NameDetail^,^^
+^Co^,^Common^,^E_myJellyBear_01_Name^,^Strawberry Bear^
+^Co^,^Common^,^E_myJellyBear_01_NameDetail^,^^
+^Co^,^Common^,^E_myJellyBear_02_Name^,^Apple Bear^
+^Co^,^Common^,^E_myJellyBear_02_NameDetail^,^^
+^Co^,^Common^,^E_myJellyBear_03_Name^,^Soda Bear^
+^Co^,^Common^,^E_myJellyBear_03_NameDetail^,^^
+^Co^,^Common^,^e_ev_flnhusk_01_Name^,^Nature's Husk^
+^Co^,^Common^,^e_ev_flnhusk_01_NameDetail^,^Experimental Failure^
+^Co^,^Common^,^E_Event_Rabini_001_Name^,^Mecha Thief Rabbini^
+^Co^,^Common^,^E_Event_Rabini_001_NameDetails^,^Parts Pilferer^
+^Co^,^Common^,^e_event_2021Tiger_01_name^,^Shadow Tiger^
+^Co^,^Common^,^e_event_2021Tiger_02_name^,^Shadow Tiger^
+^Co^,^Common^,^E_D88_hydra_h01_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h01_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h02_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h02_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h03_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h03_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_b01_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_b01_NameDetail^,^^
+^Co^,^Common^,^E_D88_mong_001_Name^,^Hideout Guardian^
+^Co^,^Common^,^E_D88_mong_001_NameDetail^,^^
+^Co^,^Common^,^E_D88_monw_001_Name^,^Hideout Footman^
+^Co^,^Common^,^E_D88_monw_001_NameDetail^,^^
+^Co^,^Common^,^E_D88_monb_001_Name^,^Hideout Archer^
+^Co^,^Common^,^E_D88_monb_001_NameDetail^,^^
+^Co^,^Common^,^E_D88_mont_001_Name^,^Hideout Assassin^
+^Co^,^Common^,^E_D88_mont_001_NameDetail^,^^
+^Co^,^Common^,^E_D88_mongc_001_Name^,^Hideout Gatekeeper^
+^Co^,^Common^,^E_D88_mongc_001_NameDetail^,^^
+^Co^,^Common^,^E_D88_mons_001_Name^,^Hideout StoneGuard^
+^Co^,^Common^,^E_D88_mons_001_NameDetail^,^^
+^Co^,^Common^,^E_D88_nid_001_Name^,^Niidemble, the Flame^
+^Co^,^Common^,^E_D88_nid_001_NameDetail^,^^
+^Co^,^Common^,^E_D88_fold_001_Name^,^Foldserra, the Storm^
+^Co^,^Common^,^E_D88_fold_001_NameDetail^,^^
+^Co^,^Common^,^E_D88_quad_001_Name^,^Quadrakan, the Sucessor^
+^Co^,^Common^,^E_D88_quad_001_NameDetail^,^^
+^Co^,^Common^,^E_D88_quad_002_Name^,^Quadrakan, the Sucessor^
+^Co^,^Common^,^E_D88_quad_002_NameDetail^,^^
+^Co^,^Common^,^E_D88_quad_003_Name^,^Quadrakan, the Sucessor^
+^Co^,^Common^,^E_D88_quad_003_NameDetail^,^^
+^Co^,^Common^,^E_D88_statue_01_Name^,^Corroded Statue of Goddess^
+^Co^,^Common^,^E_D88_statue_01_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_b02_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_b02_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h04_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h04_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h05_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h05_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h06_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h06_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_b03_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_b03_NameDetail^,^^
+^Co^,^Common^,^E_D88_es_01_Name^,^Head of Great Goddess Statue^
+^Co^,^Common^,^E_D88_es_01_NameDetail^,^^
+^Co^,^Common^,^E_D88_es_02_Name^,^Great Goddess Statue^
+^Co^,^Common^,^E_D88_es_02_NameDetail^,^^
+^Co^,^Common^,^E_D88_es_03_Name^,^Wings of Great Goddess Statue^
+^Co^,^Common^,^E_D88_es_03_NameDetail^,^^
+^Co^,^Common^,^E_D88_Thunder_001_Name^,^Thundercloud of storm^
+^Co^,^Common^,^E_D88_Thunder_001_NameDetail^,^^
+^Co^,^Common^,^E_D88_monbs_001_Name^,^Hideout Archer^
+^Co^,^Common^,^E_D88_monbs_001_NameDetail^,^^
+^Co^,^Common^,^E_D88_nidfire_001_Name^,^Flame Ground^
+^Co^,^Common^,^E_D88_nidfire_001_NameDetail^,^^
+^Co^,^Common^,^E_d88_trap_0_Name^,^Lasso Trap^
+^Co^,^Common^,^E_d88_trap_0_NameDetail^,^^
+^Co^,^Common^,^E_d88_fold_002_Name^,^Shadow Assassin^
+^Co^,^Common^,^E_d88_fold_002_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h07_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h07_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h08_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h08_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h09_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h09_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h10_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h10_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h11_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h11_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h12_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h12_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_b04_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_b04_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h13_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h13_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h14_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h14_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h15_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h15_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_b05_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_b05_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h16_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h16_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h17_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h17_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_h18_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_h18_NameDetail^,^^
+^Co^,^Common^,^E_D88_hydra_b06_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_D88_hydra_b06_NameDetail^,^^
+^Co^,^Common^,^E_D88_startdoor_01_Name^,^Old Iron Gate^
+^Co^,^Common^,^E_D88_startdoor_01_NameDetail^,^^
+^Co^,^Common^,^E_D88_modeltest_002_Name^,^Hideout Guardian Chief^
+^Co^,^Common^,^E_D88_modeltest_002_NameDetail^,^^
+^Co^,^Common^,^E_D88_nidstone_001_Name^,^Aura of Water^
+^Co^,^Common^,^E_D88_nidstone_001_NameDetail^,^^
+^Co^,^Common^,^E_D88_nidstone_002_Name^,^Aura of Water^
+^Co^,^Common^,^E_D88_nidstone_002_NameDetail^,^^
+^Co^,^Common^,^E_D88_nidstone_003_Name^,^Aura of Water^
+^Co^,^Common^,^E_D88_nidstone_003_NameDetail^,^^
+^Co^,^Common^,^E_D88_nidstone_004_Name^,^Aura of Water^
+^Co^,^Common^,^E_D88_nidstone_004_NameDetail^,^^
+^Co^,^Common^,^E_D88_quad_004_Name^,^Quadrakan, the Sucessor^
+^Co^,^Common^,^E_D88_quad_004_NameDetail^,^^
+^Co^,^Common^,^e_ev_catg_1_name^,^Flower Meowa^
+^Co^,^Common^,^e_ev_catg_1_description^,^^
+^Co^,^Common^,^E_Event_DragBF_001_Name^,^Blooming Wisteria^
+^Co^,^Common^,^E_D88_waterdar_002_Name^,^Cold-blooded Fabulion^
+^Co^,^Common^,^E_D88_waterdar_003_Name^,^Cold-blooded Fabulion^
+^Co^,^Common^,^E_D88_waterdar_001_Name^,^Cold-blooded Fabulion^
+^Co^,^Common^,^e_d88_el_r01_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r02_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r03_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r04_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r05_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r06_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r07_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r08_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r09_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r10_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r11_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r12_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r13_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r14_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r15_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r16_name^,^Magnetic Field^
+^Co^,^Common^,^e_d88_el_r17_name^,^Magnetic Field^
+^Co^,^Common^,^E_Event_DragPPer_001_Name^,^[Event] Blue Frosty Fade^
+^Co^,^Common^,^E_Event_DragPPer_002_Name^,^[Event] Red Passion Fade^
+^Co^,^Common^,^E_Event_Rabini8_001_Name^,^Banana Thief Rabbini^
+^Co^,^Common^,^E_Event_Rabini8_002_Name^,^Wannabe Sweet Rabbini ^
+^Co^,^Common^,^E_Event_Rabini8_003_Name^,^Wannabe Fresh Rabbini^
+^Co^,^Common^,^E_Event_Rabini8_004_Name^,^Wannabe Bitter Rabbini^
+^Co^,^Common^,^E_Event_Cturtle_001_Name^,^Gloomy Wattle^
+^Co^,^Common^,^E_Event_Cturtle_002_Name^,^Gloomy Wattle^
+^Co^,^Common^,^E_Event_Cturtle_003_Name^,^Gloomy Wattle^
+^Co^,^Common^,^E_Event_Gturtle_001_Name^,^Sullen Wattle^
+^Co^,^Common^,^E_Event_Gturtle_002_Name^,^Sullen Wattle^
+^Co^,^Common^,^E_Event_Gturtle_003_Name^,^Sullen Wattle^
+^Co^,^Common^,^E_Event_Bturtle_001_Name^,^Weak Wattle^
+^Co^,^Common^,^E_Event_Bturtle_002_Name^,^Weak Wattle^
+^Co^,^Common^,^E_Event_Bturtle_003_Name^,^Weak Wattle^
+^Co^,^Common^,^E_D92_CatSpirun_02_Name^,^Moonlight the Spiroon^
+^Co^,^Common^,^E_D92_CatSpirun_02_NameDetail^,^^
+^Co^,^Common^,^E_D92_CatSpirun_03_Name^,^Starlight the Spiroon^
+^Co^,^Common^,^E_D92_CatSpirun_03_NameDetail^,^^
+^Co^,^Common^,^E_D23_CapRab_01_Name^,^Jared Rabbit^
+^Co^,^Common^,^E_D23_CapRab_01_NameDetail^,^^
+^Co^,^Common^,^E_D23_CapRab_02_Name^,^Tyrant Vinisar^
+^Co^,^Common^,^E_D23_CapRab_02_NameDetail^,^^
+^Co^,^Common^,^E_D23_CapRab_03_Name^,^Golden Watermelon Rabbini^
+^Co^,^Common^,^E_D23_CapRab_03_NameDetail^,^^
+^Co^,^Common^,^E_D23_CapRab_04_Name^,^Golden Watermelon Rabbini^
+^Co^,^Common^,^E_D23_CapRab_04_NameDetail^,^^
+^Co^,^Common^,^E_D99_CapCoon_01_Name^,^Weakened Quintin^
+^Co^,^Common^,^E_D99_CapCoon_01_NameDetail^,^^
+^Co^,^Common^,^E_D13_CapJason_01_Name^,^Weakened Jason^
+^Co^,^Common^,^E_D13_CapJason_01_NameDeatil^,^^
+^Co^,^Common^,^E_D12_CapElder_01_Name^,^Weakened Duke Elder Harkane^
+^Co^,^Common^,^E_D12_CapElder_01_NameDetail^,^^
+^Co^,^Common^,^E_ghostpumpkinboom_Name^,^a pumpkin bomb^
+^Co^,^Common^,^E_event_eGhost_01_Name^,^Combat Evil ^
+^Co^,^Common^,^E_event_eGhost_02_Name^,^Production Evil ^
+^Co^,^Common^,^E_event_eGhost_03_Name^,^Fostering Evil ^
+^Co^,^Common^,^E_event_eGhost_04_Name^,^Baby Evil^
+^Co^,^Common^,^E_D25_DragStar_001_name^,^Zodiac the Magic Conductor^
+^Co^,^Common^,^E_D25_DragStar_002_name^,^Zodiac the Will Expert^
+^Co^,^Common^,^E_D25_Spid_0001_name^,^Genetic Manipulation Taslan^
+^Co^,^Common^,^E_D25_Hound_0001_name^,^Genetic Manipulation Hound^
+^Co^,^Common^,^E_D25_DraLittle_001_name^,^Genetic Manipulation Laiku^
+^Co^,^Common^,^E_D25_BPega_0001_name^,^Genetic Manipulation Nightmare^
+^Co^,^Common^,^E_D25_BigScrop_001_name^,^Genetic Manipulation Begaloos^
+^Co^,^Common^,^E_D25_Karil_001_name^,^Genetic Manipulation Negae^
+^Co^,^Common^,^E_D25_Ceratop_001_name^,^Genetic Manipulation Taraku^
+^Co^,^Common^,^E_D25_Paper_001_name^,^Yellow Pure Fade^
+^Co^,^Common^,^E_D25_Paper_002_name^,^Purple Fascination Fade^
+^Co^,^Common^,^E_event_Yeti_01_Name^,^Awakening Mao ^
+^Co^,^Common^,^E_event_Yeti_02_Name^,^Tio's clone^
+^Co^,^Common^,^E_event_Yeti_03_Name^,^a great snowman^
+^Co^,^Common^,^E_event_Yeti_04_Name^,^a small snowman^
+^Co^,^Common^,^E_event_xRudolph_01_Name^,^Rudolph on strike^
+^Co^,^Common^,^E_event_xsnowgman_01_Name^,^Olaf on strike^
+^Co^,^Common^,^E_event_xsanta_01_Name^,^Lapang on strike^
+^Co^,^Common^,^e_d96_success_01_Name^,^Wrath of Hadakhan^
+^Co^,^Common^,^e_event_whiteIRR_01_Name^,^My best friend, Rice Pearl^
+^Co^,^Common^,^e_event_PinkIRR_01_Name^,^My best friend, Peach Pearl^
+^Co^,^Common^,^e_event_GreenIRR_01_Name^,^My best friend, Herb Pearls^
+^Co^,^Common^,^e_event_PurpleIRR_01_Name^,^My best friend, Blueberry Pearl^
+^Co^,^Common^,^e_event_flowerIRR_01_Name^,^My best friend, Blossom Pearl^
+^Co^,^Common^,^e_event_SnowIRR_01_Name^,^My best friend, Snow Pearl^
+^Co^,^Common^,^e_event_fairyf_01_Name^,^Fairy Pearl^
+^Co^,^Common^,^E_d89_waterdar_003_Name^,^Cold-blooded Fabulion^
+^Co^,^Common^,^E_d89_waterdar_002_Name^,^Cold-blooded Fabulion^
+^Co^,^Common^,^E_d89_waterdar_001_Name^,^Cold-blooded Fabulion^
+^Co^,^Common^,^E_d89_trap_0_NameDetail^,^^
+^Co^,^Common^,^E_d89_trap_0_Name^,^Lasso Trap^
+^Co^,^Common^,^E_d89_Thunder_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_Thunder_001_Name^,^Thundercloud of storm^
+^Co^,^Common^,^E_d89_statue_01_NameDetail^,^^
+^Co^,^Common^,^E_d89_statue_01_Name^,^Corroded Statue of Goddess^
+^Co^,^Common^,^E_d89_startdoor_01_NameDetail^,^^
+^Co^,^Common^,^E_d89_startdoor_01_Name^,^Old Iron Gate^
+^Co^,^Common^,^E_d89_quad_004_NameDetail^,^^
+^Co^,^Common^,^E_d89_quad_004_Name^,^Rank S Succession Quadrakan^
+^Co^,^Common^,^E_d89_quad_003_NameDetail^,^^
+^Co^,^Common^,^E_d89_quad_003_Name^,^Rank A Ancient Quadrakan^
+^Co^,^Common^,^E_d89_quad_002_NameDetail^,^^
+^Co^,^Common^,^E_d89_quad_002_Name^,^Rank B Benevolent Quadrakan^
+^Co^,^Common^,^E_d89_quad_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_quad_001_Name^,^Rank C Faint Quadrakan^
+^Co^,^Common^,^E_d89_nidstone_004_NameDetail^,^^
+^Co^,^Common^,^E_d89_nidstone_004_Name^,^Aura of Water^
+^Co^,^Common^,^E_d89_nidstone_003_NameDetail^,^^
+^Co^,^Common^,^E_d89_nidstone_003_Name^,^Aura of Water^
+^Co^,^Common^,^E_d89_nidstone_002_NameDetail^,^^
+^Co^,^Common^,^E_d89_nidstone_002_Name^,^Aura of Water^
+^Co^,^Common^,^E_d89_nidstone_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_nidstone_001_Name^,^Aura of Water^
+^Co^,^Common^,^E_d89_nidfire_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_nidfire_001_Name^,^Flame Ground^
+^Co^,^Common^,^E_d89_nid_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_nid_001_Name^,^Niidemble, the Flame^
+^Co^,^Common^,^E_d89_monw_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_monw_001_Name^,^Hideout Footman^
+^Co^,^Common^,^E_d89_mont_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_mont_001_Name^,^Hideout Assassin^
+^Co^,^Common^,^E_d89_mons_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_mons_001_Name^,^Hideout StoneGuard^
+^Co^,^Common^,^E_d89_mongc_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_mongc_001_Name^,^Hideout Gatekeeper^
+^Co^,^Common^,^E_d89_mong_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_mong_001_Name^,^Hideout Guardian^
+^Co^,^Common^,^E_d89_monbs_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_monbs_001_Name^,^Hideout Archer^
+^Co^,^Common^,^E_d89_monb_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_monb_001_Name^,^Hideout Archer^
+^Co^,^Common^,^E_d89_modeltest_002_NameDetail^,^^
+^Co^,^Common^,^E_d89_modeltest_002_Name^,^Hideout Guardian Chief^
+^Co^,^Common^,^E_d89_hydrad_b01_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydrad_b01_Name^,^^
+^Co^,^Common^,^E_d89_hydrac_h03_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydrac_h03_Name^,^^
+^Co^,^Common^,^E_d89_hydrab_h02_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydrab_h02_Name^,^^
+^Co^,^Common^,^E_d89_hydraa_h02_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydraa_h02_Name^,^^
+^Co^,^Common^,^E_d89_hydraa_h01_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydraa_h01_Name^,^^
+^Co^,^Common^,^E_d89_hydra_h18_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h18_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h17_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h17_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h16_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h16_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h15_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h15_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h14_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h14_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h13_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h13_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h12_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h12_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h11_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h11_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h10_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h10_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h09_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h09_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h08_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h08_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h07_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h07_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h06_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h06_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h05_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h05_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h04_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h04_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h03_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h03_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h02_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h02_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_h01_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_h01_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_b06_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_b06_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_b05_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_b05_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_b04_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_b04_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_b03_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_b03_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_b02_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_b02_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_hydra_b01_NameDetail^,^^
+^Co^,^Common^,^E_d89_hydra_b01_Name^,^Dragon's Stone Gate^
+^Co^,^Common^,^E_d89_fold_002_NameDetail^,^^
+^Co^,^Common^,^E_d89_fold_002_Name^,^Shadow Assassin^
+^Co^,^Common^,^E_d89_fold_001_NameDetail^,^^
+^Co^,^Common^,^E_d89_fold_001_Name^,^Foldserra, the Storm^
+^Co^,^Common^,^E_d89_es_03_NameDetail^,^^
+^Co^,^Common^,^E_d89_es_03_Name^,^Wings of Great Goddess Statue^
+^Co^,^Common^,^E_d89_es_02_NameDetail^,^^
+^Co^,^Common^,^E_d89_es_02_Name^,^Great Goddess Statue^
+^Co^,^Common^,^E_d89_es_01_NameDetail^,^^
+^Co^,^Common^,^E_d89_es_01_Name^,^Head of Great Goddess Statue^
+^Co^,^Common^,^e_d89_el_r17_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r16_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r15_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r14_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r13_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r12_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r11_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r10_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r09_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r08_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r07_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r06_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r05_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r04_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r03_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r02_name^,^Magnetic Field^
+^Co^,^Common^,^e_d89_el_r01_name^,^Magnetic Field^
+^Co^,^Common^,^e_event_Kumadori_01_Name^,^Kumadori Agul Golden Afterimage^
+^Co^,^Common^,^e_event_Kumadori_02_Name^,^Kumadori Agul Afterimage^
+^Co^,^Common^,^e_event_moth_01_name^,^moth^

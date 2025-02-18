@@ -1,0 +1,155 @@
+t_key,t_korean
+^SU2_001_0_2101_EV3_Name^,^Hero's Armor I^
+^SU2_002_0_2102_EV3_Name^,^Hero's Armor II^
+^SU2_006_0_2151_EV3_Name^,^Hero's Armor III^
+^SU2_007_0_2202_EV3_Name^,^Hero's Armor IV^
+^SU2_005_0_3341_EV3_Name^,^Hero's Armor V^
+^SU2_010_0_3351_EV3_Name^,^Hero's Armor VI^
+^SU2_010_0_3301_EV3_Name^,^Hero's Armor VII^
+^SU2_006_0_3401_EV3_Name^,^Hero's Armor VIII^
+^SU0_604_018_6000_Name^,^Alsatian Shield^
+^SU5_604_000_6001_Name^,^Alsatian Crest^
+^SU2_604_011_6002_Name^,^Alsatian Gauntlets^
+^SU0_CA2_018_5000_Name^,^2nd Anniversary Ellora's Shield^
+^SU1_CA2_000_5001_Name^,^2nd Anniversary Ellora's Crest^
+^SU2_CA2_011_5002_Name^,^2nd Anniversary Ellora's Gauntlets^
+^PVP_SU0_400_018_6000_Name^,^Telleo Dark Shield^
+^PVP_SU1_400_000_6001_Name^,^Telleo Dark Crest^
+^PVP_SU2_400_011_6002_Name^,^Telleo Dark Gauntlets^
+^SU3_201_0_0000_Name^,^Lobby Teddy Bear^
+^SU3_101_0_0001_Name^,^Old Teddy Bear^
+^SU3_101_0_0004_Name^,^New Dragon Knights Teddy Bear^
+^SU3_101_0_0006_Name^,^Forest Teddy Bear^
+^SU3_110_0_0110_Name^,^Fairy Teddy Bear^
+^SU3_110_0_0009_Name^,^Contingent Teddy Bear^
+^SU3_110_0_0015_Name^,^Dead Teddy Bear^
+^SU3_110_1_0015_Name^,^Attacker's Teddy Bear^
+^SU3_120_0_0020_Name^,^Count's Teddy Bear^
+^SU3_120_0_0022_Name^,^Garrison Teddy Bear^
+^SU3_120_0_0025_Name^,^Sky Teddy Bear^
+^SU3_120_1_0025_Name^,^Snowy Teddy Bear^
+^SU3_120_0_0027_Name^,^Family Teddy Bear^
+^SU3_120_0_0028_Name^,^Cultist Teddy Bear^
+^SU3_001_0_0030_Name^,^Reinforced Mithril Teddy Bear^
+^SU3_p001_1_0030_Name^,^Lesser Hunter's Teddy Bear^
+^SU3_001_2_0030_Name^,^Shiny Mithril Teddy Bear^
+^SU3_001_0_0029_Name^,^Corrupted Follower's Teddy Bear^
+^SU3_001_0_0031_Name^,^Crocoon Teddy Bear^
+^SU3_001_0_0035_Name^,^Ice Corps Leader's Teddy Bear^
+^SU3_001_1_0035_Name^,^Shiny Enhanced Mithril Teddy Bear^
+^SU3_001_2_0035_Name^,^Cruel Fate Teddy Bear^
+^SU3_001_0_0039_Name^,^Blessed Commander Teddy Bear^
+^pvpSU3_P001_0_0040_Name^,^Master Hunter's Teddy Bear^
+^SU3_002_0_0039_Name^,^Alsec Guard Teddy Bear^
+^SU3_002_0_0040_Name^,^Shiny Turalium Teddy Bear^
+^SU3_002_1_0039_Name^,^Blessed Leader's Teddy Bear^
+^SU3_200_1_0040_Name^,^Karasha's Teddy Bear^
+^SU3_002_0_0042_Name^,^Griffon Knights Teddy Bear^
+^pvpSU3_P001_1_0045_Name^,^Lesser Slayer's Teddy Bear^
+^SU3_002_0_0049_Name^,^Shiny Adamantium Teddy Bear^
+^SU3_002_0_0047_Name^,^Hermit's Teddy Bear^
+^SU3_002_0_0048_Name^,^Dark Legion Teddy Bear^
+^pvpSU3_P002_0_0050_Name^,^Intermediate Teddy Bear^
+^SU3_002_1_0049_Name^,^Shiny Adamantium Teddy Bear^
+^SU3_002_2_0049_Name^,^Blessed Dark Commander Teddy Bear^
+^SU3_201_0_0050_Name^,^Ellora's Teddy Bear^
+^SU3_003_0_0053_Name^,^Elgaden Elite Soldier's Teddy Bear^
+^SU3_003_0_0055_Name^,^Dragonium Teddy Bear^
+^SU3_003_0_1055_Name^,^Psychedelic Teddy Bear^
+^pvpSU3_P002_0_0055_Name^,^Master Slayer's Teddy Bear^
+^SU3_004_0_0060_Name^,^Red Revolutionary Teddy Bear^
+^SU3_004_1_0060_Name^,^Dark Green Teddy Bear^
+^SU3_004_2_0060_Name^,^Blessed Dark Green Teddy Bear^
+^SU3_202_0_0060_Name^,^Alsatian Teddy Bear^
+^SU3_201_0_0060_Name^,^Demon Zelnaris' Teddy Bear^
+^SU3_110_0_0018_Name^,^Militia Teddy Bear^
+^SU3_120_0_0026_Name^,^Wind Militia's Teddy Bear^
+^SU3_001_0_0036_Name^,^Pegasus Knights Teddy Bear^
+^SU3_120_1_0020_Name^,^Vampire's Teddy Bear^
+^SU3_003_0_0050_Name^,^Raid Captain's Teddy Bear^
+^SU3_001_0_005_EV2_Name^,^Hero's Teddy Bear I^
+^SU3_002_0_010_EV2_Name^,^Hero's Teddy Bear II^
+^SU3_006_0_015_EV2_Name^,^Hero's Teddy Bear III^
+^SU3_007_0_020_EV2_Name^,^Hero's Teddy Bear IV^
+^SU3_004_0_025_EV2_Name^,^Hero's Teddy Bear V^
+^SU3_005_0_030_EV2_Name^,^Hero's Teddy Bear VI^
+^SU3_010_0_035_EV2_Name^,^Hero's Teddy Bear VII^
+^SU3_006_0_040_EV2_Name^,^Hero's Teddy Bear VIII^
+^SU3_ev1_1_0000_Name^,^(PC Room) Karasha's Teddy Bear (6 hours)^
+^SU3_ev1_2_0000_Name^,^(PC Room) Karasha's Teddy Bear (1 day)^
+^SU3_ev1_3_0000_Name^,^(Quest) Karasha's Teddy Bear (14 Days)^
+^SU3_ev1_4_0000_Name^,^(Event) Karasha's Teddy Bear (30 Days)^
+^SU3_ev2_3_0000_Name^,^Karasha's Tower Teddy Bear (2 weeks)^
+^SU3_ev2_4_0000_Name^,^Karasha's Hope Teddy Bear (30 Days)^
+^pvpSU3_003_1_0001_Name^,^Intermediate Hunter's Teddy Bear^
+^BX_SU3_005_0_0001_Name^,^Old teddy bear crescent moon^
+^BX_SU3_010_0_0001_Name^,^Teddy Bear crescent moon^
+^BX_SU3_005_0_0002_Name^,^Reinforced teddy bear crescent moon^
+^BX_SU3_006_0_0001_Name^,^Shiny teddy bear crescent moon^
+^SU3_110_0_0016_Name^,^Ancient Flame Golem Teddy Bear^
+^SU3_120_2_0020_Name^,^Cursed Family Teddy Bear^
+^SU3_120_2_0025_Name^,^Cold Teddy Bear^
+^SU3_ca1_3_0001_Name^,^(Rental) Karasha's Teddy Bear (7 days)^
+^SU3_ca2_3_0001_Name^,^(Rental) Karasha's Teddy Bear (1 day)^
+^PVP_SU3_400_000_6001_Name^,^Telleo Dark Teddy Bear^
+^CA_SU3_201_0_0050_Name^,^Pure White Teddy Bear^
+^SU0_ca2_3_0001_Name^,^(Permanent) Karasha's Shield^
+^SU1_ca2_3_0001_Name^,^(Permanent) Karasha's Crest^
+^SU2_ca2_1_0001_Name^,^(Permanent) Karasha's Gauntlets^
+^SU3_ca2_3_0002_Name^,^(Permanent) Karasha's Teddy Bear^
+^SU0_400_0_6500_Name^,^Temmain's Shield^
+^SU5_400_0_6500_Name^,^Temmain's Crest^
+^SU2_400_0_6500_Name^,^Temmain's Gauntlets^
+^SU3_400_0_6500_Name^,^Temmain's Teddy Bear^
+^SU0_300_0_6500_Name^,^Lazard's Shield^
+^SU5_300_0_6500_Name^,^Lazard's Crest^
+^SU2_300_0_6500_Name^,^Lazard's Gauntlets^
+^SU3_300_0_6500_Name^,^Lazard's Teddy Bear^
+^EV_SU0_400_018_6000_Name^,^Telleo Dark Shield (Rental)^
+^EV_SU1_400_000_6001_Name^,^Telleo Dark Crest (Rental)^
+^EV_SU2_400_011_6002_Name^,^Telleo Dark Armor (Rental)^
+^EV_SU3_400_000_6001_Name^,^Thelio's Dark Teddy Bear (Rental)^
+^EV0_504_1_3503_Name^,^Ellora's Shield (Rental)^
+^EV1_504_1_3503_Name^,^Ellora's Crest (Rental)^
+^EV2_504_1_3503_Name^,^Ellora's Gauntlets (rental)^
+^EV3_201_0_0050_Name^,^Ellora's Teddy Bear (rental)^
+^EV_SU0_0_00000_Name^,^Ellora's Shield (30 Days)^
+^EV_SU5_0_00000_Name^,^Ellora's Crest (30 Days)^
+^EV_SU2_0_00000_Name^,^Ellora's Gauntlets (30 Days)^
+^EV_SU10_0_00000_Name^,^Ellora's Teddy Bear (30 Days)^
+^EV0_604_018_6000_Name^,^(PC Room) Alsatian Shield (1 day)^
+^EV5_604_000_6001_Name^,^(PC Room) Alsatian Crest (1 day)^
+^EV2_604_011_6002_Name^,^(PC Room) Alsatian Gauntlets (1 day)^
+^EV3_202_0_0060_Name^,^(PC Room) Alsatian Teddy Bear (1 day)^
+^EV0_300_018_4000_Name^,^Growth of Light Shield^
+^EV5_300_000_4000_Name^,^Growth of Light Crest^
+^EV2_300_011_4000_Name^,^Growth of Light Gauntlets^
+^EV3_300_010_4000_Name^,^Growth of Light Teddy Bear^
+^EV0_604_018_6000_1_Name^,^Alsatian Shield (1 Day)^
+^EV5_604_000_6001_1_Name^,^Alsatian Crest (1 Day)^
+^EV2_604_011_6002_1_Name^,^Alsatian Gauntlets (1 day)^
+^EV3_202_0_0060_1_Name^,^Alsatian Teddy Bear (1 day)^
+^EV_SU0_4_018_6000_1_Name^,^McBain's Dark Shield^
+^EV_SU1_4_000_6001_1_Name^,^McBain's Dark Crest^
+^EV_SU2_4_011_6002_1_Name^,^McBain's Dark Gauntlets^
+^EV_SU3_4_000_6001_1_Name^,^McBain's Dark Teddy Bear^
+^EV_SU0_4_018_6000_2_Name^,^Demon Zelnaris Shield (30 days)^
+^EV_SU1_4_000_6001_2_Name^,^Demon Zelnaris Crest (30 days)^
+^EV_SU2_4_011_6002_2_Name^,^Demon Zelnaris Gauntlets (30 days)^
+^EV_SU3_4_000_6001_2_Name^,^Demon Zelnaris Teddy Bear (30 Days)^
+^SU0_018_6_0001_Name^,^Cold Blooded Shield^
+^SU1_000_6_0001_Name^,^Cold Blooded Crest^
+^SU2_011_6_0001_Name^,^Cold Blooded Gauntlets^
+^SU3_000_6_0001_Name^,^Cold Blooded Teddy Bear^
+^EV_SU0_4_018_6000_3_Name^,^Demon Zelnaris Shield (3 hours)^
+^EV_SU1_4_000_6001_3_Name^,^Demon Zelnaris Crest (3 hours)^
+^EV_SU2_4_011_6002_3_Name^,^Demon Zelnaris Gauntlets (3 hours)^
+^EV_SU3_4_000_6001_3_Name^,^Demon Zelnaris Teddy Bear (3 hours)^
+^EV_SU0_4_018_6000_4_Name^,^Demon Zelnaris Shield (7 days)^
+^EV_SU1_4_000_6001_4_Name^,^Demon Zelnaris Crest (7 days)^
+^EV_SU2_4_011_6002_4_Name^,^Demon Zelnaris Gauntlets (7 days)^
+^EV_SU3_4_000_6001_4_Name^,^Demon Zelnaris Teddy Bear (7 days)^
+^SU0_018_7_0001_Name^,^Velzeroth Shield ^
+^SU1_000_7_0001_Name^,^Velzeroth Crest^
+^SU2_011_7_0001_Name^,^Velzeroth Gauntlets^
+^SU3_000_7_0001_Name^,^Velzeroth Teddy Bear^

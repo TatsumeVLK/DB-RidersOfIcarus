@@ -1,0 +1,386 @@
+t_key,t_korean
+^F_Mission_001^,^Beak^
+^F_Mission_002^,^Frost wind^
+^F_Mission_003^,^I am not living^
+^F_Mission_004^,^Beast^
+^F_Mission_005^,^Awakening Conquest successful^
+^F_Mission_006^,^Birth of a new legend^
+^F_Mission_007^,^Waking legend^
+^F_Mission_008^,^I'm legend^
+^F_Mission_009^,^Suspicious Ravini Garden^
+^F_Mission_010^,^April cherry blossom fellow^
+^F_Mission_011^,^I only eat grass^
+^F_Mission_012^,^Awakening Soing Fellow's Gift^
+^F_Mission_013^,^Awakening Mecca Fellow's Gift^
+^F_Mission_014^,^Valley poisons^
+^F_Mission_015^,^Loser^
+^F_Mission_016^,^Torch^
+^F_Mission_017^,^It will not be easy^
+^F_Mission_018^,^Marvelous^
+^F_Mission_019^,^Snowfall^
+^F_Mission_020^,^Twisted beasts Part1^
+^F_Mission_021^,^Twisted beasts Part2^
+^F_Mission_022^,^Toward the airspace^
+^F_Mission_023^,^I am the best^
+^F_Mission_024^,^Bullet taxi^
+^F_Mission_025^,^Vivid Fellow^
+^F_Mission_026^,^Wild food chain^
+^F_Mission_027^,^See you at the ranch^
+^F_Mission_028^,^Children in the laboratory Part1^
+^F_Mission_029^,^Children in the laboratory Part2^
+^F_Mission_030^,^Wolf^
+^F_Mission_031^,^Dragon^
+^F_Mission_032^,^Sparrow^
+^F_Mission_033^,^Tap^
+^F_Mission_034^,^Please ask for a cat^
+^F_Mission_035^,^Spider web^
+^F_Mission_036^,^Threatening guys^
+^F_Mission_037^,^Jungle exploration^
+^F_Mission_038^,^Battlefield^
+^F_Mission_039^,^Summer^
+^F_Mission_040^,^Even though it's slow^
+^F_Mission_041^,^It's a dragon^
+^F_Mission_042^,^Regret^
+^F_Mission_043^,^Velvation good for the body^
+^F_Mission_044^,^Toward ancient times^
+^F_Mission_045^,^Ancient Fellow's Gift^
+^F_Mission_046^,^Indon where have you been there^
+^F_Mission_047^,^Horn vs molar^
+^F_Mission_048^,^Proof^
+^F_Mission_049^,^Collection^
+^F_Mission_050^,^MentoRing^
+^F_Mission_051^,^Symbol^
+^F_Mission_052^,^Introduction to evolutionary science^
+^map_c00_RewardDesc^,^common^
+^map_f01_RewardDesc^,^Hero Pet -Level 55 <UI_Y> Sealing Stone Maximum Level Option -Magic series </ui_g> magic damage 234 ~ 245 Magic Critical damage 171 ~ 178 Intelligence 35 when strengthening all stats 26 ~ 30 +5 ??</ui_g> <</ui_g> < UI_Y> Sealing Stone Maximum Level Option -Physical Attack </ui_y> <UI_G> Physical Attack 223 ~ 234 Physical Critical damage 164 ~ 170 All stats 26 ~ 30 +5 ??strength when strengthening </ui_g>^
+^map_c01_RewardDesc^,^Legendary Pet -Level 60 <UI_Y> Sewing Stone Maximum Level Options </ui_y> <UI_G> All Attacks 246 ~ 260 All Critical damage 250 ~ 262 All stats 30 ~ 34 +5^
+^map_f02_RewardDesc^,^Legend +Level Fellow -Level 60 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <UI_G> All Attacks 269 ~ 285 Maximum Health 600 ~ 620 All Stat 34 ~ 38 +5 All Stat 17 </UI_G>^
+^map_f09_RewardDesc^,^Legend Legend Fellow -Level 60 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <UI_G> All Attack 266 ~ 278 Legend Absorption Chance 25% ~ 25% Health Absorption 1% ~ 1% +5 Health 350 </UI_G>^
+^map_f03_RewardDesc^,^Legend +Level Pet -Level 60 <UI_Y> Sealing Stone Maximum Level Option -Magic series </ui_y> <Ui_g> Intelligence 170 ~ 178 Mind 188 ~ 198 All Stat 34 ~ 38 + UI_Y> Sewing Stone Maximum Level Option -Physical series </ui_y> <UI_G> Power 162 ~ 170 Agility 181 ~ 190 All Stat 34 ~ 38 +5 Unlock 23 </ui_g>^
+^map_p01_RewardDesc^,^Legend +Level Pet -Level 60 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <Ui_g> All critical damage 381 ~ 398 Critical damage decreased 299 ~ 315 All stats 36 ~ 40 +5 UI_G>^
+^map_f04_RewardDesc^,^Legend +Level Fellow -Level 60 <UI_Y> Seal Stone Maximum Level Options </ui_y> <UI_G> All Attacks 278 ~ 292 All Critical damage 233 ~ 245 All stats 34 ~ 38 +5 >^
+^map_f05_RewardDesc^,^Legend +Level Fellow -Level 60 <UI_Y> Seal Stone Maximum Level Options </ui_y> <UI_G> All Attack 285 ~ 299 Maximum Health 605 ~ 635 All Stat 36 ~ 40 +5 All Stats 15 </UI_G>^
+^map_f07_RewardDesc^,^Legend +Level Fellow -Level 60 <UI_Y> Seal Stone Maximum Level Options </UI_Y> <UI_G> Maximum Life 644 ~ 674 All defense 233 ~ 245 All stats 34 ~ 38 +5^
+^map_f08_RewardDesc^,^Legend +Level Fellow -Level 67 <UI_Y> Sealing Stone Maximum Level Option -Magic series </ui_y> <UI_G> Intelligence 203 ~ 213 Mind 205 ~ 215 All Stat 41 ~ 43 + UI_Y> Sewing Stone Maximum Level Options -Physical series </ui_y> <UI_G> Power 203 ~ 213 Agility 205 ~ 215 All Stat 41 ~ 43 +5 Unlock 27 </ui_g>^
+^map_d99_RewardDesc^,^Infinite Pagoda^
+^map_p02_RewardDesc^,^Legend +Level Fellow -Level 60 <UI_Y> Seal Stone Maximum Level Options </ui_y> <UI_G> All Attacks 293 ~ 310 All Critical damage 306 ~ 320 All stats 38 ~ 42 +5^
+^map_c02_RewardDesc^,^Legend +Level Fellow -Level 60 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <UI_G> All Attack 293 ~ 308 All Critical damage 275 ~ 288 Unleashes 38 ~ 42 +5 Unlocking Stat Limit 30 </ui_g>^
+^map_f00_RewardDesc^,^Sarant prison^
+^map_n01_RewardDesc^,^common^
+^F_Mission_001_RewardDesc^,^When used one of the heroes of the Land of Parna can be obtained With a low probability you can get a sign of taming legendary fellows^
+^F_Mission_002_RewardDesc^,^When used you can acquire one of the Hero Fellow Taming signs of the Communication of Destruction With a low probability you can get a sign of taming legendary fellows^
+^F_Mission_003_RewardDesc^,^When used you can get one of the immortal hero fellow taming signs With a low probability you can get a sign of taming legendary fellows^
+^F_Mission_004_RewardDesc^,^Hero -class Pet -Level 40 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <Ui_g> All critical damage 381 ~ 398 Critical damage decreased 299 ~ 315 All stats 36 ~ 40 </ui_g> +5 Bleeding rate when strengthening %</Ui_g>^
+^F_Mission_005_RewardDesc^,^Legendary Fellow -Level 40 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <UI_G> All Attacks 133 ~ 155 Attacks 4% All Stats 27 ~ 31 </ui_g> +5 All stats 1 ~ 2 </ui_g </ui_g </ui_g </ui_g >^
+^F_Mission_006_RewardDesc^,^When used you can get one of the following items with a certain probability <UI_G> Fellow: Awakening Hamion Fellow: Awakening Kalipto Fellow: Awakening Demonus Fellow: Awakening Gravion Fellow: Awakening Shakiba Fellows: Awakening Rodes </ui_g>^
+^F_Mission_007_RewardDesc^,^You can get four steps of 5 boosters when used <UI_G> Fellow Taming Booster Lv 5 Item Making Daesung Public Booster Lv 5 Item Enhancement Booster Booster Booster Booster Booster Lv 5 </ui_g>^
+^F_Mission_008_RewardDesc^,^<UI_G> Attack 500 Rising 5% increase 5% increase 300 Damage 300 Increases Movement Speed ??2% </UI_G> The title was collected by collecting all legendary fellows^
+^F_Mission_009_RewardDesc^,^Legend +Level Fellow -Level 55 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <UI_G> All Attacks 179 ~ 179 All Critical Hits 185 ~ 185 All Stats 32 ~ 32 </UI_G> +5 All Stat 6 ~ 7 </Ui_g>^
+^F_Mission_010_RewardDesc^,^Get a booster with spRing energy (30 days) </ui_g> <UI_G> Increase 20% chance to succeed 20% increase experience 30% increase all attack power 5% increase 3% increase <UI_G> <r_y> Cherry blossoms Karasha JR only can be registered </R_Y >^
+^F_Mission_011_RewardDesc^,^<UI_G> Acrat Meadow Hero Hero Box </ui_g>^
+^F_Mission_012_RewardDesc^,^<UI_G> Awakening Soying Fellow Gift </ui_g> </ui_g> Lucky box x1 </ui_g>^
+^F_Mission_013_RewardDesc^,^<UI_G> Awakening Mecca Fellow Gift </ui_g> </ui_g> Lucky box x1 </ui_g>^
+^F_Mission_014_RewardDesc^,^<UI_G> Obtain a fast -growing potion </ui_g>^
+^F_Mission_015_RewardDesc^,^<UI_G> All Attacks 550 All Critical Heat damage 350 Stats 15 Increases 5% increase in Critical Strike </ui_g> The title obtained by collecting all legendary rating fellows^
+^F_Mission_016_RewardDesc^,^<UI_G> Collector's Reverse Package </ui_g> </ui_g> UI_G>^
+^F_Mission_017_RewardDesc^,^Get the gold coins of the Lavini <br> <br> <UI_Y> Package components (1 type)^
+^F_Mission_018_RewardDesc^,^Collector coins are acquired <br> <br> <UI_Y> Package components (1 type) </ui_y> <ui_g> <br>^
+^F_Mission_019_RewardDesc^,^Get bleeding potion x5 </ui_g>^
+^F_Mission_020_RewardDesc^,^Acquire Interpersonal Attack Booster Lv3 </ui_g> <UI_G> Increased damage by 6% </ui_g>^
+^F_Mission_021_RewardDesc^,^Get 5 blood of the fallen royal family </ui_g>^
+^F_Mission_022_RewardDesc^,^Legendary Fellow -Level 55 <UI_Y> Sewing Stone Maximum Level Options </ui_y> <UI_G> All Attacks 133 ~ 155 Maximum Health 345 All Stat 25 </UI_G> +5 Unlock all stats 14 </ui_g>^
+^F_Mission_023_RewardDesc^,^<UI_G> Attack 5% increase 3% increase in fellowships 30% increase </ui_g> <r_y> booster items are effective only to hold a bag </R_Y>^
+^F_Mission_024_RewardDesc^,^<UI_G> Movement speed 5% increase fellow experience 30% increase </ui_g> <r_y> booster items have to be effective only to hold them in a bag </R_Y>^
+^F_Mission_025_RewardDesc^,^Get Alsas/Telio boarding weapon box </ui_g> <UI_G> Dark Crossbow of the Dark Telio of Alsas Alsas of Alsas </ui_g>^
+^F_Mission_026_RewardDesc^,^You can get one of the following items when using it <UI_G> Ikaman Red (30th) Ikaman Pink (30th) Ikaman Blue (30th) Ikaman Ellow (30th) Ikaman Black (30 days) </ui_g>^
+^F_Mission_027_RewardDesc^,^Legendary Fellow -Level 67 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <UI_G> All Attack 277 ~ 304 Maximum Health 597 ~ 640 All Stats 33 ~ 36 </UI_G> UI_G>^
+^F_Mission_028_RewardDesc^,^When used you can get one of the following items with a certain probability <UI_G> Fellow: Awakening Hamion Fellow: Awakening Kalipto Fellow: Awakening Demonus Fellow: Awakening Gravion Fellow: Awakening Shakiba Fellows: Awakening Rodes </ui_g>^
+^F_Mission_029_RewardDesc^,^Get 30% Elite Stone </ui_g>^
+^F_Mission_030_RewardDesc^,^Get the booster of faith (7 days) </ui_g> <UI_G> All Attacks 10% increase all defense 10% increase 5% reduction </ui_g>^
+^F_Mission_031_RewardDesc^,^Get the Lavini's gold coins^
+^F_Mission_032_RewardDesc^,^Elite Fellow -Level 30 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <UI_G> Magic Critical Strike 196% Critical Strike 185 ~ 185 </UI_G> +5 All stats 1 ~ 2^
+^F_Mission_033_RewardDesc^,^When used <UI_G> [Cutie Poyo] </ui_g> is created in the locker^
+^F_Mission_034_RewardDesc^,^Legendary Fellow -Level 60 <UI_Y> Sewing Stone Maximum Level Options </ui_y> <Ui_g> All Attack 263 Maximum Health 580 All Stat 35 </UI_G>^
+^F_Mission_035_RewardDesc^,^Get the gold coins of the Lavini <br> <br> <UI_Y> Package components (1 type)^
+^F_Mission_036_RewardDesc^,^Legendary Fellow -Level 60 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <UI_G> All Attacks 223 ~ 246 Maximum Health 567 ~ 594 All Stat 32 ~ 35 </UI_G> UI_G>^
+^F_Mission_037_RewardDesc^,^Collector coins are acquired <br> <br> <UI_Y> Package components (1 type) </ui_y> <ui_g> <br>^
+^F_Mission_038_RewardDesc^,^<UI_G> Damage to Critical Strike 280 Increases Critical Defense 100 Attacks 3% Increases 2% Increases Defense </UI_G> The title was collected by collecting all the battlefield fellows^
+^F_Mission_039_RewardDesc^,^Collector coins are acquired <br> <br> <UI_Y> Package components (1 type) </ui_y> <ui_g> <br>^
+^F_Mission_040_RewardDesc^,^Get a lucky box for the axis^
+^F_Mission_041_RewardDesc^,^Legendary Pet -Level 60 <UI_Y> Sewing Stone Maximum Level Options </ui_y> <UI_G> All Attacks 161 ~ 180 Life 318 ~ 368 All stats 23 ~ 25 </ui_g>^
+^F_Mission_042_RewardDesc^,^Golden fishing rods (3 days) </ui_g>^
+^F_Mission_043_RewardDesc^,^Get the gold coins of the Lavini <br> <br> <UI_Y> Package components (1 type)^
+^F_Mission_044_RewardDesc^,^When used you can get one of the following ancient fellow summons <UI_G> Ancient Valdon Summoning Magnatu Summons Ancient Caspert Summon </ui_g>^
+^F_Mission_045_RewardDesc^,^Level 65 Legend Transcendence </ui_g>^
+^F_Mission_046_RewardDesc^,^Get five blood of the fallen royal family^
+^F_Mission_047_RewardDesc^,^Obtain an attack booster (permanent) </ui_g>^
+^F_Mission_048_RewardDesc^,^Legendary Fellow -Level 67 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <Ui_g> All Critical Hits 405 ~ 435 All Critical Strikes 308 ~ 349 All Stats 35 ~ 38 </UI_G> +5 Maximum Health 583 ~ 643 < /Ui_g>^
+^F_Mission_049_RewardDesc^,^You can get this item when you use it <UI_G> Legend Reverse Reverse Stone X5 Reverse Verifications X5 </ui_g>^
+^F_Mission_050_RewardDesc^,^When used you can get one of the following items with a certain probability <UI_G> Level 60 Legendary Armor Legend 60 Level Legendary Armor Legend 60 Level Legend Legend^
+^F_Mission_051_RewardDesc^,^When used you can get one of the following items with a certain probability <UI_G> Legendary Armor Legend Legend Legend Legend of Legend of Legend of Legend </UI_G>^
+^F_Mission_052_RewardDesc^,^Get the booster of evolution (7 days) </ui_g> <UI_G> Taming Proceeds 10% Character Experience 10% Increase in all damage 5% </ui_g>^
+^F_Mission_001_RewardName^,^Compensation 1^
+^F_Mission_001_RewardDescription^,^Compensation Description 1^
+^F_Mission_002_RewardName^,^Compensation 2^
+^F_Mission_002_RewardDescription^,^Compensation Description 2^
+^F_Mission_003_RewardName^,^Compensation 3^
+^F_Mission_003_RewardDescription^,^Compensation Description 3^
+^F_Mission_004_RewardName^,^Compensation 4^
+^F_Mission_004_RewardDescription^,^Compensation Description 4^
+^F_Mission_005_RewardName^,^Compensation 5^
+^F_Mission_005_RewardDescription^,^Compensation Description 5^
+^F_Mission_006_RewardName^,^Compensation 6^
+^F_Mission_006_RewardDescription^,^Compensation Description 6^
+^F_Mission_007_RewardName^,^Compensation 7^
+^F_Mission_007_RewardDescription^,^Compensation Description 7^
+^F_Mission_008_RewardName^,^Compensation 8^
+^F_Mission_008_RewardDescription^,^Compensation Description 8^
+^F_Mission_009_RewardName^,^Compensation 9^
+^F_Mission_009_RewardDescription^,^Compensation Description 9^
+^F_Mission_010_RewardName^,^Compensation 10^
+^F_Mission_010_RewardDescription^,^Compensation Description 10^
+^F_Mission_011_RewardName^,^Compensation 11^
+^F_Mission_011_RewardDescription^,^Compensation Description 11^
+^F_Mission_012_RewardName^,^Compensation 12^
+^F_Mission_012_RewardDescription^,^Compensation Description 12^
+^F_Mission_013_RewardName^,^Compensation 13^
+^F_Mission_013_RewardDescription^,^Compensation Description 13^
+^F_Mission_014_RewardName^,^Compensation 14^
+^F_Mission_014_RewardDescription^,^Compensation Description 14^
+^F_Mission_015_RewardName^,^Compensation 15^
+^F_Mission_015_RewardDescription^,^Compensation Description 15^
+^F_Mission_016_RewardName^,^Compensation 16^
+^F_Mission_016_RewardDescription^,^Compensation Description 16^
+^F_Mission_017_RewardName^,^Compensation 17^
+^F_Mission_017_RewardDescription^,^Compensation Description 17^
+^F_Mission_018_RewardName^,^Compensation 18^
+^F_Mission_018_RewardDescription^,^Compensation Description 18^
+^F_Mission_019_RewardName^,^Compensation 19^
+^F_Mission_019_RewardDescription^,^Compensation Description 19^
+^F_Mission_020_RewardName^,^Compensation 20^
+^F_Mission_020_RewardDescription^,^Compensation Description 20^
+^F_Mission_021_RewardName^,^Compensation 21^
+^F_Mission_021_RewardDescription^,^Compensation Description 21^
+^F_Mission_022_RewardName^,^Compensation 22^
+^F_Mission_022_RewardDescription^,^Compensation Description 22^
+^F_Mission_023_RewardName^,^Compensation 23^
+^F_Mission_023_RewardDescription^,^Compensation Description 23^
+^F_Mission_024_RewardName^,^Compensation 24^
+^F_Mission_024_RewardDescription^,^Compensation Description 24^
+^F_Mission_025_RewardName^,^Compensation 25^
+^F_Mission_025_RewardDescription^,^Compensation Description 25^
+^F_Mission_026_RewardName^,^Compensation 26^
+^F_Mission_026_RewardDescription^,^Compensation Description 26^
+^F_Mission_027_RewardName^,^Compensation 27^
+^F_Mission_027_RewardDescription^,^Compensation Description 27^
+^F_Mission_028_RewardName^,^Compensation 28^
+^F_Mission_028_RewardDescription^,^Compensation Description 28^
+^F_Mission_029_RewardName^,^Compensation 29^
+^F_Mission_029_RewardDescription^,^Compensation Description 29^
+^F_Mission_030_RewardName^,^Compensation 30^
+^F_Mission_030_RewardDescription^,^Compensation Description 30^
+^F_Mission_031_RewardName^,^Compensation 31^
+^F_Mission_031_RewardDescription^,^Compensation Description 31^
+^F_Mission_032_RewardName^,^Compensation 32^
+^F_Mission_032_RewardDescription^,^Compensation Description 32^
+^F_Mission_033_RewardName^,^Compensation 33^
+^F_Mission_033_RewardDescription^,^Compensation Description 33^
+^F_Mission_034_RewardName^,^Compensation 34^
+^F_Mission_034_RewardDescription^,^Compensation Description 34^
+^F_Mission_035_RewardName^,^Compensation 35^
+^F_Mission_035_RewardDescription^,^Compensation Description 35^
+^F_Mission_036_RewardName^,^Compensation 36^
+^F_Mission_036_RewardDescription^,^Compensation Description 36^
+^F_Mission_037_RewardName^,^Compensation 37^
+^F_Mission_037_RewardDescription^,^Compensation Description 37^
+^F_Mission_038_RewardName^,^Compensation 38^
+^F_Mission_038_RewardDescription^,^Compensation Description 38^
+^F_Mission_039_RewardName^,^Compensation 39^
+^F_Mission_039_RewardDescription^,^Compensation Description 39^
+^F_Mission_040_RewardName^,^Compensation 40^
+^F_Mission_040_RewardDescription^,^Compensation Description 40^
+^F_Mission_041_RewardName^,^Compensation 41^
+^F_Mission_041_RewardDescription^,^Compensation Description 41^
+^F_Mission_042_RewardName^,^Compensation 42^
+^F_Mission_042_RewardDescription^,^Compensation Description 42^
+^F_Mission_043_RewardName^,^Compensation 43^
+^F_Mission_043_RewardDescription^,^Compensation Description 43^
+^F_Mission_044_RewardName^,^Compensation 44^
+^F_Mission_044_RewardDescription^,^Compensation Description 44^
+^F_Mission_045_RewardName^,^Compensation 45^
+^F_Mission_045_RewardDescription^,^Compensation Description 45^
+^F_Mission_046_RewardName^,^Compensation 46^
+^F_Mission_046_RewardDescription^,^Compensation Description 46^
+^F_Mission_047_RewardName^,^Compensation 47^
+^F_Mission_047_RewardDescription^,^Compensation Description 47^
+^F_Mission_048_RewardName^,^Compensation 48^
+^F_Mission_048_RewardDescription^,^Compensation Description 48^
+^F_Mission_049_RewardName^,^Compensation 49^
+^F_Mission_049_RewardDescription^,^Compensation Description 49^
+^F_Mission_050_RewardName^,^Reward 50^
+^F_Mission_050_RewardDescription^,^Compensation Description 50^
+^F_Mission_051_RewardName^,^Compensation 51^
+^F_Mission_051_RewardDescription^,^Compensation Description 51^
+^F_Mission_052_RewardName^,^Compensation 52^
+^F_Mission_052_RewardDescription^,^Compensation Description 52^
+^map_c00_RewardDescription^,^common^
+^map_f01_RewardDescription^,^Bracar Forest^
+^map_c01_RewardDescription^,^Hakanas Water Castle^
+^map_f02_RewardDescription^,^Hakanas Direct Order^
+^map_f09_RewardDescription^,^Hakanas^
+^map_f03_RewardDescription^,^Parnah's land^
+^map_p01_RewardDescription^,^Exzan Lawy Zone^
+^map_f04_RewardDescription^,^Destruction^
+^map_f05_RewardDescription^,^Immortal^
+^map_f07_RewardDescription^,^Ellora's sanctuary^
+^map_f08_RewardDescription^,^Turim Valley^
+^map_d99_RewardDescription^,^Infinite Pagoda^
+^map_p02_RewardDescription^,^Archeron lawlessness^
+^map_c02_RewardDescription^,^Acrat meadow^
+^map_f00_RewardDescription^,^Sarant prison^
+^evn_r01_Name^,^Awakening Fellow^
+^evn_e01_Name^,^Event Fellow^
+^evn_c01_Name^,^Pet -Physics^
+^evn_c02_Name^,^Pet -Magic series^
+^evn_c03_Name^,^Pet -public^
+^col_r01_Name^,^Collection reward^
+^F_Mission_053^,^Introduction to evolution of valor^
+^F_Mission_054^,^Introduction to evolution of wisdom^
+^F_Mission_055^,^All for one^
+^F_Mission_053_RewardDesc^,^#ERROR!^
+^F_Mission_054_RewardDesc^,^#ERROR!^
+^F_Mission_055_RewardDesc^,^Legendary Pet -Level 67 <UI_Y> Sewing Stone Maximum level option -Physical series </ui_y> <UI_G> Power 175 ~ 190 Agility 195 ~ 210 All stats 39 ~ 42 +5 All stats 16 ~ 18 </ui_g> < UI_Y> Sealing Stone Maximum Level Option -Magic series </ui_y> <UI_G> Intelligence 175 ~ 190 Mental 195 ~ 210 All stats 39 ~ 42 +5 All stats 16 ~ 18 </ui_g>^
+^F_Mission_056^,^Fellows sewn with love^
+^F_Mission_056_RewardDesc^,^Get a fellow order for the collection <br> <br> <UI_Y> Package components (2 types) /Ui_g>^
+^map_p02_part2_RewardDescription^,^Archeron in -depth^
+^map_p02_part2_RewardDesc^,^Legendary Fellow -Level 50 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <UI_G> All critical damage 353 ~ 372 Life 591 ~ 655 All stats 33 ~ 36 </ui_g>^
+^map_p02_part2_name^,^Archeron in -depth^
+^F_Mission_057^,^Symbol^
+^F_Mission_057_RewardDesc^,^It is an order document tHat can unlock the attraction of 1 ~ 50LV items Use it for items you want to release after right -clicking <IT_G> -Us you can use the level of the item to be used only </IT_G>^
+^F_Mission_058^,^Suspicious Ravini Garden^
+^F_Mission_058_RewardDesc^,^Legend+Level Fellow -Level 55 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <UI_G> All Attacks 179 ~ 179 All Critical Hits 185 ~ 185 All Stats 32 ~ 32 </UI_G>^
+^F_Mission_059^,^Halloween blessed gift^
+^F_Mission_059_RewardDesc^,^When used you can get one of the following items with a certain probability <UI_G> Blessed Elite Ganghwa Stone Hero Ganghwasok Blessed Jewelry Elite Ganghwa Stone Legend Legend Legend Legend of Legend of Legend of Legend^
+^F_Mission_061^,^Girlfriend^
+^F_Mission_061_RewardDesc^,^Get your girlfriend's gifts <br> <br> <UI_Y> Package components (3 types) UI_G>^
+^F_Mission_062^,^New legend^
+^F_Mission_062_RewardDesc^,^<UI_G> All Attacks 480 All Critical Heats increase 100 Stats Limit 20 Increases Upper item Drop Rate 2% increase </ui_g>^
+^F_Mission_063^,^Sharp teeth^
+^F_Mission_063_RewardDesc^,^Get blessed Ganghwa Stone Package <br> <br> <UI_Y> Package components (2 types)^
+^F_Mission_064^,^Aristocracy^
+^F_Mission_064_RewardDesc^,^Get the right to increase the number of reverse attempts^
+^F_Mission_065^,^We are a family^
+^F_Mission_065_RewardDesc^,^<UI_G> Legend Legend Fellows </ui_g>^
+^F_Mission_066^,^I only eat grass^
+^F_Mission_066_RewardDesc^,^<UI_G> Acrat Meadow Hero Hero Box </ui_g>^
+^F_Mission_067^,^Foyo's gift from White Day^
+^F_Mission_067_RewardDesc^,^Get the Holy Reinforcement Package <br> <br> <UI_Y> Package components (2 types)^
+^map_legend_RewardDescription^,^New Legend Fellow^
+^map_legend_name^,^New Legend Fellow^
+^F_Mission_068^,^April cherry blossom fellow^
+^F_Mission_068_RewardDesc^,^<UI_G> Get a booster with spRing energy (30 days) </ui_g>^
+^F_Mission_069^,^Mote Collective Taesan^
+^F_Mission_069_RewardDesc^,^<UI_G> Gain the seal of automatic acquisition </ui_g>^
+^F_Mission_070^,^Leon's Gift^
+^F_Mission_070_RewardDesc^,^<UI_G> Obtain the Arsas' Armor Box </ui_g>^
+^F_Mission_071^,^Awakening Soing Fellow's Gift^
+^F_Mission_071_RewardDesc^,^<UI_G> Awakening Soying Fellow Gift </ui_g> </ui_g> Lucky box x1 </ui_g>^
+^F_Mission_072^,^Awakening Mecca Fellow's Gift^
+^F_Mission_072_RewardDesc^,^<UI_G> Awakening Mecca Fellow Gift </ui_g> </ui_g> Lucky box x1 </ui_g>^
+^map_ancient_RewardDescription^,^Ancient fellow^
+^map_ancient_name^,^Ancient fellow^
+^F_Mission_073^,^Valley poisons^
+^F_Mission_073_RewardDesc^,^<UI_G> Obtain a fast -growing potion </ui_g>^
+^F_Mission_074^,^Loser^
+^F_Mission_074_RewardDesc^,^<UI_G> All Attacks 550 All Critical Heat damage 350 Stats 15 Increases 5% increase in Critical Strike </ui_g> The title obtained by collecting all legendary rating fellows^
+^F_Mission_075^,^Torch^
+^F_Mission_075_RewardDesc^,^<UI_G> Collector's Reverse Package </ui_g> </ui_g> UI_G>^
+^F_Mission_076_RewardDesc^,^Legend+Level Pet -Level 50 <UI_G> Maximum Health 368 ~ 431 All stats 25 ~ 29 </ui_g> <ui_y> Peak -Physics </ui_y> <UI_G> Physical hit damage 228 ~ 256 Demonstration damage defense 279 ~ 318 all Stat 27 ~ 29 </ui_g>^
+^F_Mission_077_RewardDesc^,^Legend+Level Pet -Level 50 <UI_Y> Sealing Stone Maximum Level Option -Magic </ui_y> <UI_G> Magic Attack 227 ~ 244 Life Power 401 ~ 454 All Stats 27 ~ 29 </UI_G> Physics </ui_y> <UI_G> Physical Attack 227 ~ 244 Life Power 401 ~ 454 All Stats 27 ~ 29 </ui_g>^
+^F_Mission_076^,^Yellow cloth^
+^F_Mission_077^,^Desert^
+^map_pet_RewardDescription^,^Capture^
+^map_pet_name^,^Capture^
+^F_Mission_078^,^Pole^
+^F_Mission_079^,^More than anyone else^
+^F_Mission_080^,^Indon steady steps^
+^F_Mission_081^,^Shining Legendary Item Box^
+^F_Mission_078_RewardDesc^,^Obtain a booster of intense (15 days) </ui_g> <UI_G> All damage 20% increase all defense 20% damage 20% increase 20% increase </ui_g>^
+^F_Mission_079_RewardDesc^,^Collector Booster (3 days) </ui_g> <UI_G> Increase 10% chance to increase 20% chance of captuRing successful fellow experience increases by 5% </ui_g>^
+^F_Mission_080_RewardDesc^,^<UI_G> Gain 2 Red Revolutionary List Certificates </ui_g>^
+^F_Mission_081_RewardDesc^,^<UI_G> Glow 70% Elite Stone </ui_g>^
+^map_evolution_RewardDescription^,^Evolutionary Fellow/Pet^
+^map_evolution_name^,^Evolutionary Fellow/Pet^
+^F_Mission_082^,^Wake up^
+^F_Mission_082_RewardDesc^,^When used you can get one of the general signs of the fellows/pets at the bottom list or one of the lucky signs <UI_G> Antares Hestin Spirun Golden Golden Suders Kurodian Jason Hacan Duke Beltenus Vinnisar Kunin Reventia Summons </ui_g>^
+^F_Mission_083^,^Dodo and cold^
+^F_Mission_083_RewardDesc^,^Neur's crown (15th) acquires </ui_g> <UI_G> All damage 20% increase 7% reduction of stats restrictions 30 increase </ui_g>^
+^F_Mission_084^,^Valor Blue Flash^
+^F_Mission_084_RewardDesc^,^You can get one of the following items when using it <UI_G> Level 65 Legendary Weapon Reunion Stone Level 65 Legendary Armor Legend 65 Legend Legend^
+^F_Mission_085^,^Wise^
+^F_Mission_085_RewardDesc^,^You can get one of the following items when using it <UI_G> Level 65 Legendary Weapon Reunion Stone Level 65 Legendary Armor Legend 65 Legend Legend^
+^F_Mission_086^,^Autumn sunshine from September^
+^F_Mission_086_RewardDesc^,^<UI_G> Capture success 3% chance to increase 3% chance of increasing 3% increase point consumption 3% reduction 3% increase 3% increase </ui_g>^
+^F_Mission_087^,^Color^
+^F_Mission_087_RewardDesc^,^Legendary Fellow -Level 70 <UI_Y> Sealing Stone Maximum Level Options </ui_y> <UI_G> All stats 93 ~ 100 All critical damage 668 ~ 720 Maximum life power 1020 ~ 1100 </ui_g> +5 5%</ui_g>^
+^F_Mission_088^,^Sobok's love^
+^F_Mission_088_RewardDesc^,^<UI_G> (Appearance) Black Christmas Party </ui_g>^
+^F_Mission_089^,^axis! 4th anniversary!^
+^F_Mission_089_RewardDesc^,^<UI_G> Special title: 4 years old </ui_g>^
+^F_Mission_090^,^You want to have^
+^F_Mission_090_RewardDesc^,^<UI_G> Special Title: Obtain Fellow Love </ui_g>^
+^F_Mission_091^,^Collection of memories^
+^F_Mission_091_RewardDesc^,^<UI_G> Glow 70% Elite Stone </ui_g>^
+^F_Mission_092^,^Memory of full moon^
+^F_Mission_092_RewardDesc^,^<UI_G> Booster: Obtain a blessing of the full moon </ui_g> <UI_G> Pet capture probability of 10% increase 10% chance to increase 20% chance to increase 20% chance of successful production </ui_g> increased </ui_g>^
+^F_Mission_093^,^Memories of full moon^
+^F_Mission_093_RewardDesc^,^<UI_G> Booster: Obtain a blessing of the full moon </ui_g> <UI_G> Pet capture probability of 10% increase 10% chance to increase 20% chance to increase 20% chance of successful production </ui_g> increased </ui_g>^
+^F_Mission_094^,^Doll's dream^
+^F_Mission_094_RewardDesc^,^<UI_G> Lucky Unlucky Pieces </ui_g>^
+^F_Mission_095^,^Santa fairies^
+^F_Mission_095_RewardDesc^,^<UI_G> Booster: Get Santa Fairy </ui_g> <UI_G> All Attacks 20% increase in all defenses 20% increase rate increase rate increase rate 5% increase </ui_g>^
+^F_Mission_096^,^The decision of the Yong -sin and the emotion^
+^F_Mission_096_RewardDesc^,^Legend+Level Pet -Level 70 <UI_G> Only heroes with tricolor Pavilion can be a colleague of Pet Quadragine which is sophisticated with magic </UI_G> </Ui_y> <ui_g> All damage 504 ~ 657 All stats 186 ~ 284 Critical damage defense 144 ~ 199 </ui_g>^
+^F_Mission_097^,^Go Go Beach!^
+^F_Mission_097_RewardDesc^,^<UI_G>Booster: Go to the beach~ (3 days)</UI_G>.
+<UI_G> All attack power increased by 10%
+All defense increased by 30%
+Fishing drop chance increased by 10%</UI_G>^
+^F_Mission_098^,^Play on the Beach!^
+^F_Mission_098_RewardDesc^,^<UI_G>Booster: Enjoy playing in the water~ (3 days)</UI_G>.
+<UI_G> All attack power increased by 10%
+All defense increased by 30%
+Reduce fishing time -60</UI_G>^
+^F_Mission_099^,^Let's start the collection with LucciB!^
+^F_Mission_099_RewardDesc^,^Acquire <UI_G>Ruchi Bee Fragment</UI_G>.^
+^F_Mission_100^,^Dungeon Exploration with Luccibee!^
+^F_Mission_100_RewardDesc^,^Acquire <UI_G>Ruchi Bee Fragment</UI_G>.^
+^F_Mission_101^,^ExploRing the lab with Luchbee!^
+^F_Mission_101_RewardDesc^,^Acquire <UI_G>Ruchi Bee Fragment</UI_G>.^
+^F_Mission_102^,^Fairy Dragon for me^
+^F_Mission_102_RewardDesc^,^<UI_G>Underwear: Golden Wings with Goddess' Blessing (7 days)</UI_G>.
+<UI_G> All stats +77
+All stat caps increased + 77</UI_G>^
+^F_Mission_103^,^Adventure Wanderers^
+^F_Mission_103_RewardDesc^,^Obtain Master Collector Coins.<br><br><UI_Y>Package Components (1 type)</UI_Y><UI_G><br>Master Collector Coin x10</UI_G>^
+^F_Mission_104^,^Oldest Fellow^
+^F_Mission_104_RewardDesc^,^<UI_G>Appearance: Obtain Ancient Explorer (3 days)</UI_G>.
+<UI_G> All attack power +20%
+Taming Success Chance +10%</UI_G>^
+^F_Mission_105^,^A super master of synthesis^
+^F_Mission_105_RewardDesc^,^<UI_G>Booster: Acquire super high level of synthesis (1 day)</UI_G>.
+<UI_G> Enhancement success rate +20%
+Reverse Enhancement Chance +20%
+Crafting Success Chance +20%</UI_G>^
+^F_Mission_106^,^Let's go on a trip with a cute pet^
+^F_Mission_106_RewardDesc^,^Obtain <UI_G>Alien Funny Random Box</UI_G>.^
+^F_Mission_107^,^I like sawing dragons!^
+^F_Mission_107_RewardDesc^,^Acquire <UI_G>Ruchi Bee Fragment</UI_G>.^
+^F_Mission_108^,^I like mecha!^
+^F_Mission_108_RewardDesc^,^Acquire <UI_G>Ruchi Bee Fragment</UI_G>.^
+^F_Mission_109^,^The Mascot of Delicious Ranch^
+^F_Mission_109_RewardDesc^,^Obtain <UI_G>Shoulder Ornament: Lovely Cuddle (3 days)</UI_G>.
+<UI_G>HP+5000
+Casting speed -5%</UI_G>^
+^F_Mission_110^,^The difference between an adventurer and an explorer^
+^F_Mission_110_RewardDesc^,^Acquire <UI_G>Ruchi Bee Fragment</UI_G>.^

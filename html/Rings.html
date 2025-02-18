@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="EUC-KR">
+<head>
+    <meta charset="EUC-KR">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riders of Icarus Database</title>
+    <link rel="stylesheet" href="../css/base.css" />
+    <link rel="shortcut icon" href="../imgs/favicon.png" />
+</head>
+<body>
+    <div class="conteiner">
+        <div class="selecionar">
+            <input type="text" id="searchBar" placeholder=" Search..." onkeyup="filtrarItems()">
+            <div class="botoes" id="botaoContainer">
+            </div>
+        </div>
+        <div class="itemselecionado">
+            <div class="informacao" id="itemInfo">
+                <p id="itemNome">Cooldown Reduction Necklace(99%)</p>
+                <p><span id="itemRaridade">Common(Normal)</span></p>
+                <div class="imginfos">
+                    <img src="../imgs/favicon.png" class="foto" id="itemIcone" />
+                    <p>Magic Defense <span id="itemMagicDefense"></span></p>
+                </div>
+                <hr class="espaco1" />
+                <div class="espacoentre espaco2">
+                    <p class="espaco">Requerid Level: <span id="itemNivel"></span></p>
+                    <p class="espaco verde"><span id="itemBindtype"></span></p>
+                </div>
+                <p class="espaco"><span id="itemclasses"></span></p>
+                <p class="espaco"><span id="tipoEquipamento"></span></p>
+                <p class="espaco"><span id="naopodemelhorar">Unable to Enhance</span></p>
+                <p class="espaco" id="temperingname">Tempering: 0/<span id="temperinglevel"></span></p>
+                <p class="espaco"><span id="naopodemelhorar">Dismantling Unavailable</span></p>
+                <p class="espaco verde"><span id="naopodemelhorar">Permanently Bound</span></p>
+                <p class="espaco verde"><span id="unbinds"></span></p>
+                <hr id="temefeitos" class="espaco1" />
+                <p><span id="oefeito" class="espaco"></span></p>
+                <hr class="espaco1" />
+                <p><span id="equipedeffects" class="espaco amarelo">Equipped Effects</span></p>
+                <p class="espaco3 verde2"><span id="itemEfeito1"></span></p>
+                <p class="espaco3 verde2"><span id="itemEfeito2"></span></p>
+                <p class="espaco3 verde2"><span id="itemEfeito3"></span></p>
+                <p class="espaco3 verde2"><span id="itemEfeito4"></span></p>
+                <p class="espaco3" id="randomeffects"><span id="efeitosaleatoriosmin"></span> - <span id="efeitosaleatoriosmax"></span> Random Effects</p>
+                <hr class="espaco1" id="barraslots" />
+                <p><span id="selosslots"></span></p>
+                <hr class="espaco1" id="description" />
+                <p><span id="itemdescription"></span></p>
+                <hr class="espaco1" id="barrasale" />
+                <div class="espacoentre">
+                    <span id="saleprice" class="espaco4">Sale Price</span>
+                    <span id="itemPreco" class="espaco4"></span>
+                </div>
+                <hr id="barraduration" class="espaco1"/>
+                <p id="textduration" class="amarelo">Duration</p>
+                <p id="durationtime" class="espaco4">00days 00hours 00min 00sec</p>
+            </div>
+            <div>
+                <p class="espaco2">Itemdata_acessory.csv | Code:</p>
+                <textarea id="codigoItem"></textarea>
+                <br>
+                <div class="butoescodigo espaco">
+                    <button id="botaoCarregar" class="espaco2" onclick="carregarCodigo()">Load Code Above</button>
+                    <button id="botaoVoltar" class="espaco2" onclick="voltarCodigo()">Reset code</button>
+                </div>
+                <p></p>
+                <p class="espaco2">localstringdata_item_accessory.csv or localstringdata_item_accessory_02 | Code:</p>
+                <textarea id="nomedoItemtraduzido" readonly></textarea>
+            </div>
+        </div>
+    </div>
+    <script src="../js/necklace.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+</body>
+</html>

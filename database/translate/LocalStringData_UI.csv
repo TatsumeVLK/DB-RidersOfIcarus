@@ -1,0 +1,3204 @@
+t_key,t_korean
+^UI_SC_COMMON_MESSAGEBOX_WG_BTN_MESSAGEBOX_OK_Text^,^UI_Name_Test^
+^UI_SC_COMMON_MESSAGEBOX_WG_BTN_MESSAGEBOX_OK_Tooltip^,^UI_Tooltip_Test^
+^UI_SC_STG_LOGIN_MAINFRAME_WG_BTN_OK_Text^,^Check (Test Localization)^
+^UI_SC_STG_LOGIN_MAINFRAME_WG_BTN_OK_Tooltip^,^Check Tooltip (Test Localization)^
+^UI_SC_STG_LOGIN_MAINFRAME_WG_BTN_CANCEL_Text^,^Cancel (Test Localization)^
+^UI_SC_STG_LOGIN_MAINFRAME_WG_BTN_CANCEL_Tooltip^,^Cancel Tooltip (Test Localization)^
+^ui_cuidlgskilltree_warrior_title^,^Berserker Skills^
+^ui_cuidlgskilltree_preist_title^,^Priest Skills^
+^ui_cuidlgskilltree_wizard_title^,^Wizard Skills^
+^ui_cuidlgskilltree_archer_title^,^Ranger Skills^
+^ui_cuidlgskilltree_thief_title^,^Assassin Skills^
+^ui_cuidlgskilltree_guardian_title^,^가디언 스킬^
+^ui_cuidlgskilllearn_warrior_title^,^Learn Berserker Skills^
+^ui_cuidlgskilllearn_preist_title^,^Learn Priest Skills^
+^ui_cuidlgskilllearn_wizard_title^,^Learn Wizard Skills^
+^ui_cuidlgskilllearn_nature_title^,^Learn Ranger Skills^
+^ui_cuidlgskilllearn_thief_title^,^Learn Assassin Skills^
+^ui_cuidlgskilllearn_guardian_title^,^가디언 스킬 배우기^
+^ui_cuidlgskilltree_preist_tab_default_3^,^Willpower^
+^ui_cuidlgskilltree_wizard_tab_default_1^,^Fire^
+^ui_cuidlgskilltree_wizard_tab_default_2^,^Ice^
+^ui_cuidlgskilltree_wizard_tab_default_3^,^Storm^
+^ui_cuidlgskilltree_nature_tab_default_1^,^Hunting^
+^ui_cuidlgskilltree_nature_tab_default_2^,^Support^
+^ui_cuidlgskilltree_nature_tab_default_3^,^Nature^
+^ui_cuidlgskilltree_thief_tab_default_1^,^Ambush^
+^ui_cuidlgskilltree_thief_tab_default_2^,^Retaliation^
+^ui_cuidlgskilltree_thief_tab_default_3^,^Survival^
+^ui_cuidlgskilltree_tab_blood^,^Kinship^
+^ui_cuidlgskilltree_tab_property^,^Affinity^
+^ui_cuidlgskilltree_remain_point_title^,^Tradable Points^
+^ui_cuidlgskilltree_tab_total_point_title^,^Total Points Used^
+^ui_lobbycustomizerightpanel_styleview_body_select^,^Choose Build^
+^ui_lobbycustomizerightpanel_styleview_facestyle_select^,^Choose Face Style^
+^ui_lobbycustomizerightpanel_styleview_hairstyle_select^,^Choose Hair Style^
+^ui_lobbycustomizerightpanel_styleview_color_hair1^,^Hair Color^
+^ui_lobbycustomizerightpanel_styleview_color_hair2^,^Hair Decoration Color^
+^ui_lobbycustomizerightpanel_styleview_color_skin^,^Skin Color^
+^ui_lobbycustomizerightpanel_styleview_color_eye^,^Eye Color^
+^ui_lobbycustomizerightpanel_styleview_color_lip^,^Lip Color^
+^ui_lobbycustomizerightpanel_styleview_color_item1^,^Outfit Base Color^
+^ui_lobbycustomizerightpanel_styleview_color_item2^,^Outfit Decoration Color^
+^ui_lobbycustomizerightpanel_detailview_btn_random^,^랜덤^
+^ui_lobbycustomizerightpanel_detailview_btn_initialize^,^Reset^
+^ui_lobbycustomizeleftpanel_label_character_name^,^Name^
+^ui_lobbycustomizeleftpanel_btn_character_name_check^,^Validate^
+^ui_lobbycustomizeleftpanel_checkbox_innerwear^,^Try On Underwear^
+^ui_lobbycustomizeleftpanel_label_emotion^,^Emotions^
+^ui_lobbycustomizebottompanel_btn_create^,^Created^
+^ui_lobbycustomizebottompanel_tooltip_option^,^Options^
+^ui_lobbycustomizebottompanel_tooltip_gojobselect^,^Class Selection^
+^ui_customize_tab_style^,^Style Settings^
+^ui_customize_tab_detailtab^,^Detailed Settings^
+^ui_customize_itemgroup_1body^,^Build^
+^ui_ci_head^,^Head^
+^ui_ci_height^,^Height^
+^ui_ci_neck^,^Neck Width^
+^ui_ci_necklength^,^Neck Length^
+^ui_ci_chest^,^Shoulders^
+^ui_ci_waistlength^,^Torso^
+^ui_ci_waist^,^Waist^
+^ui_ci_hip^,^Hips^
+^ui_ci_armlength^,^Arm^
+^ui_ci_uparm^,^Upper Arms^
+^ui_ci_foarm^,^Lower Arms^
+^ui_ci_hand^,^Hands^
+^ui_ci_leglength^,^Legs^
+^ui_ci_thigh^,^Thighs^
+^ui_ci_calf^,^Calves^
+^ui_ci_foot^,^Feet^
+^ui_ci_breast^,^Chest^
+^ui_ci_xsize^,^Girth^
+^ui_customize_itemgroup_2face^,^Face^
+^ui_ci_chinshape^,^Jaw^
+^ui_ci_chinextent^,^Chin Point^
+^ui_ci_chinheight^,^Chin Length^
+^ui_ci_cheekbone^,^Cheekbones^
+^ui_ci_cheektickness^,^Cheeks^
+^ui_customize_itemgroup_3eye^,^Eyes^
+^ui_ci_eyesize^,^Size^
+^ui_ci_eyedepth^,^Protrusion^
+^ui_ci_eyespace^,^Separation^
+^ui_ci_eyeposition^,^Height^
+^ui_ci_eyefront^,^Inner Depth^
+^ui_ci_eyefrontposition^,^Inner Tilt^
+^ui_ci_eyeback^,^Outer Tilt^
+^ui_ci_blowheight^,^Brow Height^
+^ui_ci_blowangle^,^Outer Brow^
+^ui_ci_blowspace^,^Brow Width^
+^ui_ci_uppereyelid^,^Upper Lids^
+^ui_ci_lowereyelid^,^Lower Lids^
+^ui_ci_eyeballsize^,^Iris^
+^ui_ci_browangle2^,^Inner Brow^
+^ui_customize_itemgroup_4nose^,^Nose^
+^ui_ci_nosetickness^,^Bridge^
+^ui_ci_noselength^,^Length^
+^ui_ci_noseheight^,^Size^
+^ui_ci_nosetip^,^Tip Tilt^
+^ui_ci_nosesize^,^Tip Size^
+^ui_ci_nosewidth^,^Flare^
+^ui_customize_itemgroup_5mouth^,^Mouth^
+^ui_ci_mouseshape^,^Shape^
+^ui_ci_mousesize^,^Size^
+^ui_ci_lipposition^,^Philtrum^
+^ui_ci_uplipshape^,^Upper Shape^
+^ui_ci_downlipshape^,^Lower Shape^
+^ui_ci_uplipsize^,^Upper Lip^
+^ui_ci_downlipsize^,^Lower Lip^
+^ui_ci_tooth^,^Protrusion^
+^ui_ci_facestyle^,^Face Shape^
+^ui_customize_class_warrior^,^Berserker^
+^ui_customize_class_priest^,^Priest^
+^ui_customize_class_thief^,^Assassin^
+^ui_customize_class_wizard^,^Wizard^
+^ui_customize_class_archer^,^Ranger^
+^ui_customize_class_guardian^,^가디언^
+^ui_customize_label_name^,^Name^
+^ui_customize_btn_name_check^,^Validate^
+^ui_customize_label_equip^,^Try On Armor^
+^ui_customize_label_pose^,^Pose^
+^ui_customize_label_voice^,^Voice^
+^ui_customize_tab_basic^,^Overall^
+^ui_customize_itemgroup_wholepreset^,^Presets^
+^ui_customize_itemgroup_face^,^Face^
+^ui_customize_itemgroup_hair^,^Hair^
+^ui_customize_itemgroup_decorate^,^Stubble^
+^ui_customize_itemgroup_body^,^Build^
+^ui_customize_itemgroup_skin^,^Skin^
+^ui_customize_tab_facemakeup^,^Decorate Face^
+^ui_customize_itemgroup_eyeshape^,^Eye Assassin^
+^ui_customize_itemgroup_eyebrows^,^Eyebrows^
+^ui_customize_itemgroup_pupil^,^Eyes^
+^ui_customize_itemgroup_mouth^,^Mouth^
+^ui_customize_itemgroup_tattoo^,^Tattoos^
+^ui_customize_tab_detail^,^Detailed Settings^
+^ui_customize_itemgroup_detailbody^,^Build^
+^ui_customize_itemgroup_detailface^,^Face^
+^ui_customize_itemgroup_detaileye^,^Eyes^
+^ui_customize_itemgroup_detailnose^,^Nose^
+^ui_customize_itemgroup_detailmouse^,^Mouth^
+^ui_customize_tab_random^,^무작위^
+^ui_customize_itemgroup_randomlimit^,^무작위 범위 설정^
+^ui_customize_btn_random^,^무작위^
+^ui_customize_label_whole^,^All^
+^ui_customize_label_body^,^Build^
+^ui_customize_label_face^,^Face^
+^ui_customize_label_faceshape^,^Face Shape^
+^ui_customize_label_eye^,^Eyes^
+^ui_customize_label_nose^,^Nose^
+^ui_customize_label_mouth^,^Mouth^
+^ui_customize_label_color^,^Color^
+^ui_customize_label_skin^,^Skin^
+^ui_customize_label_pupil^,^Pupil^
+^ui_customize_label_hair^,^Hair^
+^ui_customize_label_lips^,^Lips^
+^ui_customize_label_decorate^,^Beard^
+^ui_customize_label_eyemakeup^,^Eye Assassin^
+^ui_customize_label_eyebrows^,^Eyebrows^
+^ui_customize_label_tattoo^,^Tattoos^
+^ui_customize_btn_reset^,^Reset^
+^ui_lobbyjobselector_label_jobselect^,^Select Class^
+^ui_lobbyjobselector_btn_job_warrior^,^Berserker^
+^ui_lobbyjobselector_btn_job_priest^,^Priest^
+^ui_lobbyjobselector_btn_job_thief^,^Assassin^
+^ui_lobbyjobselector_btn_job_wizard^,^Wizard^
+^ui_lobbyjobselector_btn_job_archer^,^Ranger^
+^ui_lobbyjobselector_btn_job_guardian^,^가디언^
+^ui_lobbyjobselectormenu_gocharselector^,^Select Character^
+^ui_lobbycharselector_label_character_select^,^Select Character^
+^ui_lobbycharselector_btn_gocharacter_create^,^Create^
+^ui_lobbycharselector_btn_character_delete^,^Delete^
+^ui_lobbycharselectormenu_btn_stargame^,^Start Game^
+^ui_lobbycharselectormenu_btn_tooltip_exitgame^,^Exit Game^
+^ui_lobbycharselectormenu_btn_tooltip_gameoption^,^Options^
+^ui_lobbycharselectormenu_btn_tooltip_goserverlist^,^Select Server^
+^ui_lobbycharselectorinfo_guild^,^None^
+^ui_lobbycharselectorinfo_force^,^None^
+^ui_lobbycharselectorinfo_havenorecord^,^No information found.^
+^ui_lobbycharselectorinfo_havenoregioninfo^,^There is no location information.^
+^ui_helptopic_alarm^,^Minimize Help^
+^ui_lobbycharselectormenu_allwatch^,^View All^
+^ui_lobbycharselectormenu_btn_create^,^Create^
+^ui_lobby_prev^,^Back^
+^ui_login_title1^,^Welcome to Divine Icarus.^
+^ui_login_title2^,^Enter your username and pasSword.^
+^ui_login_login^,^Enter^
+^ui_serverlist_server_select^,^Select World^
+^ui_serverlist_server_name^,^World Name^
+^ui_serverlist_server_character_count^,^Characters^
+^ui_serverlist_server_state^,^Status^
+^ui_serverlist_create_character_state^,^Slots^
+^ui_serverlist_server_connect^,^Enter^
+^ui_common_appointed^,^To be applied^
+^ui_common_game_exit^,^Exit^
+^ui_common_character^,^Characters^
+^ui_common_warrior_male^,^Berserker (M)^
+^ui_common_warrior_female^,^Berserker (F)^
+^ui_common_priest_male^,^Priest (M)^
+^ui_common_priest_female^,^Priest (F)^
+^ui_common_thief_male^,^Assassin (M)^
+^ui_common_thief_female^,^Assassin (F)^
+^ui_common_wizard_male^,^Wizard (M)^
+^ui_common_wizard_female^,^Wizard (F)^
+^ui_common_archer_male^,^Ranger (M)^
+^ui_common_archer_female^,^Ranger (F)^
+^ui_common_guardian_male^,^가디언(남)^
+^ui_common_guardian_female^,^가디언(여)^
+^ui_lobbycharselector_guild^,^Guild^
+^ui_lobbycharselector_force^,^Alliance^
+^ui_lobbycharselector_login^,^Last Played^
+^ui_lobbycharselector_spot^,^Last Location^
+^ui_lobbycharselector_playtime^,^Total Play Time^
+^ui_lobbycharselector_createimpossible^,^!POPUP_1!Your character creation slots are full.^
+^ui_lobbycharcreate_mainstat^,^Main Stats^
+^ui_lobbycharcreate_keyword^,^Keyword^
+^ui_lobbycharcreate_disablemessage^,^You cannot create this character.^
+^ui_lobbycharcreate_explain^,^Description^
+^ui_lobbycharcreate_explain_origin_warrior_1^,^Berserkers wade into battle with little concern for their own lives, building rage with each blow they take to unleash devastating chains of attacks on anything within striking distance.^
+^ui_lobbycharcreate_explain_origin_priest_1^,^Priests wield the power of light to protect allies and smite their enemies. Advanced priests have even been known to manipulate the minds of evil creatures, bending them to their will.^
+^ui_lobbycharcreate_explain_origin_wizard_1^,^Wizards control the very fabric of nature, conjuRing the elements to unleash massive destruction over Berserker areas of the battlefield.^
+^ui_lobbycharcreate_explain_origin_thief_1^,^Assassins are nimble warriors, soaRing in to deliver a lethal chain of killing blows and aerial combos before disappeaRing to a safe distance.^
+^ui_lobbycharcreate_explain_origin_archer_1^,^Relying on arcane energy, rangers are primarily ranged combat focused with an arsenal of shortbows. In close ranged combats, they are capable of developing airtight attacks using gauntlets.^
+^ui_lobbycharcreate_explain_origin_guardian_1^,^방어적인 성향으로 신성한 힘을 사용하여 안정적인 전투를 할 수 있고, 단일 대상에게 집중 공격이 가능하다.^
+^ui_lobbycharcreate_keyword_warrior_name_1^,^GreatSword^
+^ui_lobbycharcreate_keyword_warrior_name_2^,^Heavy Armor^
+^ui_lobbycharcreate_keyword_warrior_name_3^,^Rage^
+^ui_lobbycharcreate_keyword_warrior_name_4^,^Strength^
+^ui_lobbycharcreate_keyword_warrior_description_1^,^Presses hard on to a target with various powerful attacks using his/her GreatSword.^
+^ui_lobbycharcreate_keyword_warrior_description_2^,^Wears heavy Armor to protect his/her body from the enemies' attacks while charging into them.^
+^ui_lobbycharcreate_keyword_warrior_description_3^,^His/her indomitable fighting spirit and iron will allows him/her to attack enemies even more forcefully in extreme situations.^
+^ui_lobbycharcreate_keyword_warrior_description_4^,^Uses destructive melee skills based on his/her physical strength.^
+^ui_lobbycharcreate_keyword_priest_name_1^,^Scepter^
+^ui_lobbycharcreate_keyword_priest_name_2^,^Robe^
+^ui_lobbycharcreate_keyword_priest_name_3^,^Healing^
+^ui_lobbycharcreate_keyword_priest_name_4^,^Light Mark^
+^ui_lobbycharcreate_keyword_priest_description_1^,^Loads the power of light on his/her Scepter to attack far away enemy.^
+^ui_lobbycharcreate_keyword_priest_description_2^,^Wears a Robe to indicate tHat he/she is the faithful follower of the God and to enhance his/her holy power.^
+^ui_lobbycharcreate_keyword_priest_description_3^,^Uses the power of lights to heal a target or his/her allies.^
+^ui_lobbycharcreate_keyword_priest_description_4^,^Uses the light mark, the essence of the power of light, to attack and heal.^
+^ui_lobbycharcreate_keyword_wizard_name_1^,^Staff^
+^ui_lobbycharcreate_keyword_wizard_name_2^,^Robe^
+^ui_lobbycharcreate_keyword_wizard_name_3^,^Affinity^
+^ui_lobbycharcreate_keyword_wizard_name_4^,^Magic^
+^ui_lobbycharcreate_keyword_wizard_description_1^,^Uses the magic power of his/her two-handed staff to yield even more powerful magic attacks.^
+^ui_lobbycharcreate_keyword_wizard_description_2^,^Wears a light Robe to enhance his/her low physical strength and spell power.^
+^ui_lobbycharcreate_keyword_wizard_description_3^,^Exercises elemental powers to freely manipulate each element's buff or debuff effects.^
+^ui_lobbycharcreate_keyword_wizard_description_4^,^Highly intelligent and very cold-hearted, he/she flourishes various magic attacks in dangerous battlefields.^
+^ui_lobbycharcreate_keyword_nature_name_1^,^Bow^
+^ui_lobbycharcreate_keyword_nature_name_2^,^Light Armor^
+^ui_lobbycharcreate_keyword_nature_name_3^,^Summon^
+^ui_lobbycharcreate_keyword_nature_name_4^,^Affinity^
+^ui_lobbycharcreate_keyword_nature_description_1^,^Suppresses enemies from far away using his/her bow and arrows.^
+^ui_lobbycharcreate_keyword_nature_description_2^,^Wears light Armor to protect himself/herself from the melee enemies.^
+^ui_lobbycharcreate_keyword_nature_description_3^,^Summons spirits from the nature and uses their buffs to help battle.^
+^ui_lobbycharcreate_keyword_nature_description_4^,^Your deep affinity maximizes your familiar's abilities.^
+^ui_lobbycharcreate_keyword_thief_name_1^,^Daggers^
+^ui_lobbycharcreate_keyword_thief_name_2^,^Light Armor^
+^ui_lobbycharcreate_keyword_thief_name_3^,^Speed^
+^ui_lobbycharcreate_keyword_thief_name_4^,^Evasion^
+^ui_lobbycharcreate_keyword_thief_description_1^,^Has high speed and high critical chance. He/She uses dual wielding Daggers to take down the enemies in the blink of an eye.^
+^ui_lobbycharcreate_keyword_thief_description_2^,^Wears light Armor for swift attacks and quick evasion.^
+^ui_lobbycharcreate_keyword_thief_description_3^,^Uses various tricks and physical skills tHat are so fast; it's almost invisible unless the opponent pays a very close attention.^
+^ui_lobbycharcreate_keyword_thief_description_4^,^His/her swiftness allows him/her to evade enemies' attacks in any circumstances and reverse the adverse situations to his/her favor.^
+^ui_lobbycharcreate_keyword_guardian_name_1^,^한손검^
+^ui_lobbycharcreate_keyword_guardian_name_2^,^중갑^
+^ui_lobbycharcreate_keyword_guardian_name_3^,^방패^
+^ui_lobbycharcreate_keyword_guardian_name_4^,^진압^
+^ui_lobbycharcreate_keyword_guardian_description_1^,^한손검을 사용하여 다양한 연속 공격이 가능하다.^
+^ui_lobbycharcreate_keyword_guardian_description_2^,^전장의 최전방에서 아군을 안전하게 보호하기 위해 두터운 중갑을 착용한다.^
+^ui_lobbycharcreate_keyword_guardian_description_3^,^방패를 착용하여 대상의 진형을 무너뜨리는 공격과 방어를 동시에 한다.^
+^ui_lobbycharcreate_keyword_guardian_description_4^,^적들에게 둘러쌓여도 침착하게 상대를 무력화 시킨다.^
+^ui_lobbycharcustomize_leftpanel_equiptryon^,^Try On Armor^
+^ui_lobbycharcustomize_leftpanel_createimpossible^,^You cannot create any more characters.^
+^ui_fellowelemental_nomal^,^Affinity: Physical<br><br>^
+^ui_fellowelemental_fire^,^Affinity: Fire<br><br>^
+^ui_fellowelemental_ice^,^Affinity: Ice<br><br>^
+^ui_fellowelemental_light^,^Affinity: Light<br><br>^
+^ui_fellowelemental_dark^,^Affinity: Dark<br><br>^
+^ui_fellowspiderweb_average^,^Average Attributes<br><br>^
+^ui_fellowspiderweb_1^,^-25% Line<br><br>^
+^ui_fellowspiderweb_2^,^0% Line<br><br>^
+^ui_fellowspiderweb_3^,^+25% Line<br><br>^
+^ui_fellowspiderweb_4^,^50% Line<br><br>^
+^ui_fellow_value_1^,^Attack: % - %<br><br>^
+^ui_fellow_value_2^,^Defense: %<br><br>^
+^ui_fellow_value_3^,^Move Speed: %%<br><br>^
+^ui_fellow_value_4^,^Health: %<br><br>^
+^ui_fellow_value_5^,^Mana: %<br><br>^
+^ui_fellowattack_attackpow^,^Attack: %^
+^ui_fellowattack_wpspellplus^,^Combat Power: %^
+^ui_fellowattack_attackspeed^,^Attack Speed: %^
+^ui_fellowattack_wpcrirate^,^Critical Rate: %^
+^ui_fellowattack_wphitrateplus^,^Accuracy: %^
+^ui_fellowdefense_defenserate^,^Physical Defense: %^
+^ui_fellowdefense_firedefpowplus^,^Fire Defense: %^
+^ui_fellowdefense_icedefpowplus^,^Ice Defense: %^
+^ui_fellowdefense_lightdefpowplus^,^Light Defense: %^
+^ui_fellowdefense_darkdefpowplus^,^Dark Defense: %^
+^ui_fellowdefense_avdrateplus^,^Evasion: %^
+^ui_fellowsoulstone^,^You can't check the obtainable soul stone due to your low soul binding status.^
+^ui_btn_repair^,^Repair^
+^ui_btn_allrepair^,^Repair All^
+^ui_lobbycharselector_label_characterinfo^,^Character Info^
+^ui_btn_helptopic^,^Help^
+^ui_btn_lock^,^Lock^
+^ui_btn_refresh^,^Sort^
+^ui_lobbycustomizeleftpanel_experience^,^You do not have anymore open character slots, but you can customize the characters you have.^
+^ui_btn_rader_map^,^M: Map<br>N: Transparent Map^
+^ui_btn_fellowinfo_xp^,^XP^
+^ui_btn_quickslot_menu^,^Menu^
+^ui_btn_quickslot_pcskill^,^Skills^
+^ui_btn_quickslot_pcboardskill^,^Mounted Skills^
+^ui_btn_fellowinfo_soul^,^Soul Biding^
+^ui_tooltip_consume_potion^,^Potions^
+^ui_tooltip_consume_food^,^Food^
+^ui_tooltip_consume_bandage^,^Bandage^
+^ui_tooltip_consume_scenario^,^Story^
+^ui_tooltip_consume_summon^,^Summon^
+^ui_tooltip_consume_returnregister^,^Set Recall Point^
+^ui_tooltip_consume_returnremove^,^Delete Recall Point^
+^ui_tooltip_consume_returnstone^,^Recall Stone^
+^ui_tooltip_consume_reinforcestone^,^Enhancement Stone^
+^ui_tooltip_consume_extractiontool^,^Extraction Tool^
+^ui_tooltip_consume_toggle^,^Consumption Type^
+^ui_tooltip_consume_warp^,^Warp^
+^ui_tooltip_consume_combineIngredient^,^Combine Materials^
+^ui_tooltip_consume_fellow^,^Familiar Carrier^
+^ui_tooltip_consume_fellowchangename^,^Familiar Name Change^
+^ui_tooltip_consume_farmseed^,^Seeds^
+^ui_tooltip_consume_soulTalents^,^Expand Talent Slots^
+^ui_tooltip_consumegauge^,^Consume^
+^ui_tab_characterinfo_myinfo^,^My Info^
+^ui_tab_characterinfo_characteristic^,^Talents^
+^ui_tab_characterinfo_property^,^Affinity^
+^ui_tab_actionlist_common^,^Basic^
+^ui_tab_actionlist_community^,^Social^
+^ui_tab_actionlist_skill^,^Skills^
+^ui_tab_actionlist_collection^,^GatheRing/Crafting^
+^ui_tab_actionlist_emotion^,^Emotes^
+^ui_tab_skill_class^,^Class^
+^ui_tab_skill_riding^,^Mount^
+^ui_button_skill_learn^,^Learn^
+^ui_totalmap_portalview^,^World Map^
+^ui_zonemap_portalview^,^Regional Map^
+^fellowinfo^,^Basic Info^
+^sell_list^,^Sales List^
+^rebuy_list^,^Buyback^
+^noneprioritize^,^None^
+^questprioritize^,^Quest Items First^
+^consumeprioritize^,^Consumable Items First^
+^otherprioritize^,^Misc Items First^
+^weaponprioritize^,^Weapon First^
+^armorprioritize^,^방어구 아이템 우선^
+^gearprioritize^,^Equipment First^
+^materialprioritize^,^Material First^
+^ui_tab_maillist_receive^,^Inbox^
+^ui_tab_maillist_write^,^Send^
+^ui_tab_maillist_sent^,^Sent Mail^
+^ui_skill_no_need_skill_name^,^You do not have the required skill.^
+^ui_skill_need_skill_name^,^You do not have the required skill.^
+^ui_fellowbook_listempty^,^No List^
+^ui_fellowbook_infoempty^,^Familiar information not found.^
+^chat_exe_party_invite^,^파티초대^
+^chat_exe_party_delegation^,^파티장위임^
+^chat_exe_party_kick^,^파티원추방^
+^chat_exe_party_leave^,^파티탈퇴^
+^chat_exe_party_release^,^파티해제^
+^chat_exe_trade_invite^,^거래^
+^chat_exe_duel_invite^,^결투^
+^chat_exe_party_duel_invite^,^파티결투^
+^chat_exe_friend_invite^,^친구초대^
+^chat_exe_guild_invite^,^길드초대^
+^chat_exe_guild_leave^,^길드탈퇴^
+^chat_exe_guild_kick^,^길드추방^
+^ui_systemmenu^,^Game Menu^
+^ui_characterinfo_slottooltip_helmet^,^투구^
+^ui_characterinfo_slottooltip_style1^,^Costume^
+^ui_characterinfo_slottooltip_Necklace^,^Necklace^
+^ui_characterinfo_slottooltip_Shoulders^,^Shoulders^
+^ui_characterinfo_slottooltip_Jacket^,^Armor^
+^ui_characterinfo_slottooltip_Gloves^,^Gloves^
+^ui_characterinfo_slottooltip_Ring1^,^Ring^
+^ui_characterinfo_slottooltip_Ring2^,^Ring^
+^ui_characterinfo_slottooltip_Shoes^,^Shoes^
+^ui_characterinfo_slottooltip_RidingRightHand^,^Active mounted weapon^
+^ui_characterinfo_slottooltip_RidingSub^,^Active mounted weapon^
+^ui_characterinfo_slottooltip_RidingswapRightHand^,^Inactive mounted weapon^
+^ui_characterinfo_slottooltip_RidingswapSub^,^Inactive mounted weapon^
+^ui_characterinfo_slottooltip_RightHand^,^Primary Weapon^
+^ui_characterinfo_slottooltip_Sub^,^Secondary Weapon^
+^ui_characterinfo_label_stat^,^Attributes^
+^ui_characterinfo_label_str^,^Strength^
+^ui_characterinfo_label_dex^,^Intelligence^
+^ui_characterinfo_label_vtl^,^Dexterity^
+^ui_characterinfo_label_int^,^Intelligence^
+^ui_characterinfo_label_mtl^,^Willpower^
+^ui_gamemenu_characterinfo^,^Character^
+^ui_gamemenu_questinfo^,^Quest^
+^ui_gamemenu_systemmenu^,^Menu (ESC)^
+^ui_gamemenu_friend^,^Friends^
+^ui_gamemenu_alliance^,^Alliance^
+^ui_gamemenu_help^,^Help^
+^ui_gamemenu_gm^,^GM^
+^ui_quickslot_class^,^Class Slots^
+^ui_quickslot_board^,^Mount Slots^
+^ui_inventory_range^,^Sort^
+^ui_charinfo_detailinfo^,^Details^
+^ui_quest_reward^,^Rewards^
+^ui_quest_reward_base^,^Basic Rewards^
+^ui_quest_reward_select^,^Select^
+^ui_quest_task^,^Objective^
+^ui_quest_report_finish^,^Results^
+^ui_ci_name^,^THat is not a valid character name. Names must consist^
+^ui_show_can_use_item^,^Usable Items^
+^ui_channel_dungeon^,^Dungeons^
+^ui_channel_eventchannel^,^Story^
+^ui_attainment_learnskill^,^You acquired a new skill!^
+^ui_npcpotal_title^,^Transit Shrine^
+^ui_graphic_screensetting^,^Display Settings^
+^ui_graphic_totalsetting^,^General Graphics^
+^ui_graphic_quality^,^Graphics Quality^
+^ui_graphic_viewdst^,^Draw Distance^
+^ui_graphic_displaylimit^,^Display Restrictions^
+^ui_graphic_light^,^Lighting^
+^ui_graphic_higheffect^,^Advanced^
+^ui_graphic_etc^,^Other^
+^ui_graphic_lod^,^LOD^
+^game^,^Game^
+^ui_game_name^,^Name^
+^ui_game_statusbar^,^Status Bars^
+^ui_game_community^,^Social^
+^ui_game_combatinfo^,^Combat Info^
+^ui_game_extendquickslot^,^Expanded Slots^
+^ui_game_camera^,^Camera^
+^ui_game_gauge^,^Gauge^
+^ui_game_etc^,^Other^
+^ui_shortcut_control^,^Controls^
+^ui_shortcut_menu^,^Menu^
+^ui_shortcut_combat^,^Combat^
+^ui_shortcut_party^,^Party^
+^ui_shortcut_token^,^Mark^
+^ui_shortcut_basicquickslot^,^Basic Slots^
+^ui_shortcut_extendquickslot^,^Expanded Slots^
+^ui_tab_friendlist_friend^,^Friends^
+^ui_tab_friendlist_delfriend^,^Remove Friend^
+^quick_trade_invite^,^Trade Request^
+^quick_party_invite^,^Party Invite^
+^quick_party_kick_member^,^Kick from Party^
+^quick_party_change_master^,^Delegate party leader^
+^quick_party_leave^,^Leave Party^
+^quick_party_distribution^,^Loot Distribution^
+^ui_player_gauge_hp^,^You will die if your HP reaches 0.^
+^ui_player_gauge_mp^,^Mana is used for skills and magic.^
+^ui_player_gauge_fp^,^Rage is used for skills. Engaging in battle will increase your rage, but it will drain slowly outside of combat.^
+^ui_player_gauge_tp^,^Stamina is used for skills. It automatically regenerates over time out of combat.^
+^ui_player_gauge_sp^,^Priests summon and consume motes of light for their skills.^
+^ui_player_gauge_ep^,^Familiar energy is used for mounted skills and will deplete while riding.^
+^ui_createjob_warrior^,^Berserker^
+^ui_createjob_guardian^,^가디언^
+^ui_createjob_thief^,^Assassin^
+^ui_createjob_wizard^,^Wizard^
+^ui_createjob_priest^,^Priest^
+^ui_createjob_archer^,^Ranger^
+^quick_instancedungeon_initial^,^Reset Dungeon^
+^quick_friend_registration^,^Add Friend^
+^quick_whisper^,^Whisper^
+^shortcut_moveforward^,^Move Forward^
+^shortcut_moveforward_sub^,^Move Forward (Secondary)^
+^shortcut_moveback^,^Move Back^
+^shortcut_moveback_sub^,^Move Back (Secondary)^
+^shortcut_rotateleft^,^Turn Left^
+^shortcut_rotateleft_sub^,^Turn Left (Secondary)^
+^shortcut_rotateright^,^Turn Right^
+^shortcut_rotateright_sub^,^Turn Right (Secondary)^
+^shortcut_moveleft^,^Move Left^
+^shortcut_moveleft_sub^,^Move Left (Secondary)^
+^shortcut_moveright^,^Move Right^
+^shortcut_moveright_sub^,^Move Right (Secondary)^
+^shortcut_autointeraction^,^Interact^
+^shortcut_autointeraction_sub^,^Interact (Secondary)^
+^shortcut_change_move_stance^,^Run/Walk^
+^shortcut_change_move_stance_sub^,^Run/Walk (Secondary)^
+^shortcut_autorunkeyboard^,^Auto-run^
+^shortcut_autorunkeyboard_sub^,^Auto-run (Secondary)^
+^shortcut_sitstandup^,^Sit/Stand^
+^shortcut_sitstandup_sub^,^Sit/Stand (Secondary)^
+^shortcut_moveupward^,^Jump/Flight Ascent^
+^shortcut_moveupward_sub^,^Jump/Flight Ascent (Secondary)^
+^shortcut_movedownward^,^Flight Descent^
+^shortcut_movedownward_sub^,^Flight Descent (Secondary)^
+^shortcut_ride^,^Mount Familiar^
+^shortcut_ride_sub^,^Mount Familiar (Secondary)^
+^shortcut_ui_toggle_character_info^,^Character Info^
+^shortcut_ui_toggle_character_info_sub^,^Character Info (Secondary)^
+^shortcut_ui_toggle_fellowinfo^,^Familiar Info^
+^shortcut_ui_toggle_fellowinfo_sub^,^Familiar Info (Secondary)^
+^shortcut_ui_toggle_fellowbook^,^Bestiary^
+^shortcut_ui_toggle_fellowbook_sub^,^Bestiary (Secondary)^
+^shortcut_ui_toggle_skilltree^,^Skills^
+^shortcut_ui_toggle_skilltree_sub^,^Skills (Secondary)^
+^shortcut_ui_toggle_questlist^,^Quest^
+^shortcut_ui_toggle_questlist_sub^,^Quest Journal (Secondary)^
+^shortcut_ui_toggle_inventory^,^Inventory^
+^shortcut_ui_toggle_inventory_sub^,^Inventory (Secondary)^
+^shortcut_ui_toggle_actionlist^,^Actions^
+^shortcut_ui_toggle_actionlist_sub^,^Actions (Secondary)^
+^shortcut_ui_toggle_worldmap_default^,^Map^
+^shortcut_ui_toggle_worldmap_default_sub^,^Map (Secondary)^
+^shortcut_ui_toggle_friendlist^,^Friends^
+^shortcut_ui_toggle_friendlist_sub^,^Friends (Secondary)^
+^shortcut_ui_toggle_gm^,^GM^
+^shortcut_ui_toggle_gm_sub^,^GM (Secondary)^
+^shortcut_ui_toggle_guild^,^Guild^
+^shortcut_ui_toggle_guild_sub^,^Guild (Secondary)^
+^shortcut_ui_toggle_raid^,^Raid^
+^shortcut_ui_toggle_raid_sub^,^Raid (Secondary)^
+^shortcut_ui_toggle_helptopic^,^Help^
+^shortcut_ui_toggle_helptopic_sub^,^Help (Secondary)^
+^shortcut_ui_toggle_option^,^Options^
+^shortcut_ui_toggle_option_sub^,^Options (Secondary)^
+^shortcut_combat_changecombatstance^,^Toggle Combat Stance^
+^shortcut_combat_changecombatstance_sub^,^Toggle Combat Stance (Secondary)^
+^shortcut_combat_nearenemyselect^,^Target Nearest Enemy^
+^shortcut_combat_nearenemyselect_sub^,^Target Nearest Enemy (Secondary)^
+^shortcut_combat_markselect^,^Target Marked Enemy^
+^shortcut_combat_markselect_sub^,^Target Marked Enemy (Secondary)^
+^shortcut_combat_targetoftargetselect^,^Target Ally's Target^
+^shortcut_combat_targetoftargetselect_sub^,^Target Ally's Target (Secondary)^
+^shortcut_combat_linkskill1^,^Follow-up 1^
+^shortcut_combat_linkskill1_sub^,^Follow-up 1 (Secondary)^
+^shortcut_combat_linkskill2^,^Follow-up 2^
+^shortcut_combat_linkskill2_sub^,^Follow-up 2 (Secondary)^
+^shortcut_combat_linkskill3^,^Follow-up 3^
+^shortcut_combat_linkskill3_sub^,^Follow-up 3 (Secondary)^
+^shortcut_combat_linkskill4^,^Follow-up 4^
+^shortcut_combat_linkskill4_sub^,^Follow-up 4 (Secondary)^
+^shortcut_party_myplayerselect^,^Target Self^
+^shortcut_party_myplayerselect_sub^,^Target Self (Secondary)^
+^shortcut_party_member1select^,^Target Party Member 1^
+^shortcut_party_member1select_sub^,^Target Party Member 1 (Secondary)^
+^shortcut_party_member2select^,^Target Party Member 2^
+^shortcut_party_member2select_sub^,^Target Party Member 2 (Secondary)^
+^shortcut_party_member3select^,^Target Party Member 3^
+^shortcut_party_member3select_sub^,^Target Party Member 3 (Secondary)^
+^shortcut_party_member4select^,^Target Party Member 4^
+^shortcut_party_member4select_sub^,^Target Party Member 4 (Secondary)^
+^shortcut_token_deletetoken^,^Clear Mark^
+^shortcut_token_deletetoken_sub^,^Remove Mark (Secondary)^
+^shortcut_mark_1_display^,^'1'' Mark^
+^shortcut_mark_1_display_sub^,^1 Mark (Secondary)^
+^shortcut_mark_2_display^,^'2'' Mark^
+^shortcut_mark_2_display_sub^,^2 Mark (Secondary)^
+^shortcut_mark_3_display^,^'3'' Mark^
+^shortcut_mark_3_display_sub^,^3 Mark (Secondary)^
+^shortcut_mark_4_display^,^Shield Mark^
+^shortcut_mark_4_display_sub^,^Display Mark On Shied (Sub)^
+^shortcut_mark_5_display^,^Swords Mark^
+^shortcut_mark_5_display_sub^,^Display Mark On Sword (Sub)^
+^shortcut_mark_6_display^,^Cross Mark^
+^shortcut_mark_6_display_sub^,^Display Mark On Cross (Sub)^
+^shortcut_mark_7_display^,^Sleep Mark^
+^shortcut_mark_7_display_sub^,^Sleep Mark (secondary)^
+^shortcut_mark_8_display^,^Arrow Mark^
+^shortcut_mark_8_display_sub^,^Display Marker Arrow (Secondary)^
+^shortcut_mark_9_display^,^Off Limits Mark^
+^shortcut_mark_9_display_sub^,^Display prohibit mark(sub)^
+^shortcut_quickslot_0^,^Quickslot 1^
+^shortcut_quickslot_0_sub^,^Quickslot 1 (Secondary)^
+^shortcut_quickslot_1^,^Quickslot 2^
+^shortcut_quickslot_1_sub^,^Quickslot 2 (Secondary)^
+^shortcut_quickslot_2^,^Quickslot 3^
+^shortcut_quickslot_2_sub^,^Quickslot 3 (Secondary)^
+^shortcut_quickslot_3^,^Quickslot 4^
+^shortcut_quickslot_3_sub^,^Quickslot 4 (Secondary)^
+^shortcut_quickslot_4^,^Quickslot 5^
+^shortcut_quickslot_4_sub^,^Quickslot 5 (Secondary)^
+^shortcut_quickslot_5^,^Quickslot 6^
+^shortcut_quickslot_5_sub^,^Quickslot 6 (Secondary)^
+^shortcut_quickslot_6^,^Quickslot 7^
+^shortcut_quickslot_6_sub^,^Quickslot 7 (Secondary)^
+^shortcut_quickslot_7^,^Quickslot 8^
+^shortcut_quickslot_7_sub^,^Quickslot 8 (Secondary)^
+^shortcut_quickslot_8^,^Quickslot 9^
+^shortcut_quickslot_8_sub^,^Quickslot 9 (Secondary)^
+^shortcut_quickslot_9^,^Quickslot 10^
+^shortcut_quickslot_9_sub^,^Quickslot 10 (Secondary)^
+^shortcut_quickslot_10^,^Quickslot 11^
+^shortcut_quickslot_10_sub^,^Quickslot 11 (Secondary)^
+^shortcut_quickslot_11^,^Quickslot 12^
+^shortcut_quickslot_11_sub^,^Quickslot 12 (Secondary)^
+^shortcut_exquickslot_0^,^Quickslot 13^
+^shortcut_exquickslot_0_sub^,^Quickslot 13 (Secondary)^
+^shortcut_exquickslot_1^,^Quickslot 14^
+^shortcut_exquickslot_1_sub^,^Quickslot 14 (Secondary)^
+^shortcut_exquickslot_2^,^Quickslot 15^
+^shortcut_exquickslot_2_sub^,^Quickslot 15 (Secondary)^
+^shortcut_exquickslot_3^,^Quickslot 16^
+^shortcut_exquickslot_3_sub^,^Quickslot 16 (Secondary)^
+^shortcut_exquickslot_4^,^Quickslot 17^
+^shortcut_exquickslot_4_sub^,^Quickslot 17 (Secondary)^
+^shortcut_exquickslot_5^,^Quickslot 18^
+^shortcut_exquickslot_5_sub^,^Quickslot 18 (Secondary)^
+^shortcut_exquickslot_6^,^Quickslot 19^
+^shortcut_exquickslot_6_sub^,^Quickslot 19 (Secondary)^
+^shortcut_exquickslot_7^,^Quickslot 20^
+^shortcut_exquickslot_7_sub^,^Quickslot 20 (Secondary)^
+^shortcut_exquickslot_8^,^Quickslot 21^
+^shortcut_exquickslot_8_sub^,^Quickslot 21 (Secondary)^
+^shortcut_exquickslot_9^,^Quickslot 22^
+^shortcut_exquickslot_9_sub^,^Quickslot 22 (Secondary)^
+^shortcut_exquickslot_10^,^Quickslot 23^
+^shortcut_exquickslot_10_sub^,^Quickslot 23 (Secondary)^
+^shortcut_exquickslot_11^,^Quickslot 24^
+^shortcut_exquickslot_11_sub^,^Quickslot 24 (Secondary)^
+^shortcut_fquickslot_0^,^Familiar Quickslot 1^
+^shortcut_fquickslot_0_sub^,^Familiar Quickslot 1 (Secondary)^
+^shortcut_fquickslot_1^,^Familiar Quickslot 2^
+^shortcut_fquickslot_1_sub^,^Familiar Quickslot 2 (Secondary)^
+^shortcut_fquickslot_2^,^Familiar Quickslot 3^
+^shortcut_fquickslot_2_sub^,^Familiar Quickslot 3 (Secondary)^
+^shortcut_fquickslot_3^,^Familiar Quickslot 4^
+^shortcut_fquickslot_3_sub^,^Familiar Quickslot 4 (Secondary)^
+^shortcut_fquickslot_4^,^Familiar Quickslot 5^
+^shortcut_fquickslot_4_sub^,^Familiar Quickslot 5 (Secondary)^
+^shortcutkeydefaultdesc^,^Press ESC to cancel.^
+^shortcut_ui_toggle_partyboard^,^Party Board^
+^shortcut_ui_toggle_partyboard_sub^,^Party Board (Secondary)^
+^shortcut_ui_toggle_itemproduction^,^Craft^
+^shortcut_ui_toggle_itemproduction_sub^,^Crafting (Secondary)^
+^shortcut_combat_nearallyselect^,^Target Nearest Ally^
+^shortcut_combat_nearallyselect_sub^,^Target Nearest Ally (Secondary)^
+^shortcut_combat_recommandskill^,^Recommended Skills^
+^shortcut_combat_recommandskill_sub^,^Recommended Skills (Secondary)^
+^shortcut_combat_toggle_ridingmode^,^Lock Mounted Camera^
+^shortcut_combat_toggle_ridingmode_sub^,^Lock Mounted Camera (Secondary)^
+^shortcut_combat_combotriggerskill^,^Activate Skill^
+^shortcut_combat_combotriggerskill_sub^,^Activate Skill (Secondary)^
+^shortcut_combat_ridingweaponswap^,^Swap Mounted Weapon^
+^shortcut_combat_ridingweaponswap(보조)^,^탑승 무기 스왑(보조)^
+^shortcut_fquickslotcom_0^,^Toggle Mode^
+^shortcut_fquickslotcom_0 _sub^,^AI Mode (Secondary)^
+^shortcut_fquickslotcom_1^,^Follow^
+^shortcut_fquickslotcom_1_sub^,^Follow (Secondary)^
+^shortcut_fquickslotcom_2^,^Move^
+^shortcut_fquickslotcom_2_sub^,^Designate Location (Secondary)^
+^shortcut_fquickslotcom_3^,^Set Target^
+^shortcut_fquickslotcom_3_sub^,^Designate Target (Secondary)^
+^shortcut_fquickslotskill_0^,^Familiar Quickslot 1^
+^shortcut_fquickslotskill_0_sub^,^Familiar Quickslot 1 (Secondary)^
+^shortcut_fquickslotskill_1^,^Familiar Quickslot 2^
+^shortcut_fquickslotskill_1_sub^,^Familiar Quickslot 2 (Secondary)^
+^shortcut_fquickslotskill_2^,^Familiar Quickslot 3^
+^shortcut_fquickslotskill_2_sub^,^Familiar Quickslot 3 (Secondary)^
+^shortcut_fquickslotskill_3^,^Familiar Quickslot 4^
+^shortcut_fquickslotskill_3_sub^,^Familiar Quickslot 4 (Secondary)^
+^shortcut_fquickslotskill_4^,^Familiar Quickslot 5^
+^shortcut_fquickslotskill_4_sub^,^Familiar Quickslot 5 (Secondary)^
+^shortcut_fellowlistslot_0^,^Summon Familiar 1^
+^shortcut_fellowlistslot_0_sub^,^Familiar List Quickslot 1 (Secondary)^
+^shortcut_fellowlistslot_1^,^Summon Familiar 2^
+^shortcut_fellowlistslot_1_sub^,^Familiar List Quickslot 2 (Secondary)^
+^shortcut_fellowlistslot_2^,^Summon Familiar 3^
+^shortcut_fellowlistslot_2_sub^,^Familiar List Quickslot 3 (Secondary)^
+^shortcut_fellowlistslot_3^,^Summon Familiar 4^
+^shortcut_fellowlistslot_3_sub^,^Familiar List Quickslot 4 (Secondary)^
+^shortcut_fellowlistslot_4^,^Summon Familiar 5^
+^shortcut_fellowlistslot_4_sub^,^Familiar List Quickslot 5 (Secondary)^
+^shortcut_fellowlistslot_5^,^Summon Familiar 6^
+^shortcut_fellowlistslot_5_sub^,^Familiar List Quickslot 6 (Secondary)^
+^shortcut_fellowlistslot_6^,^Summon Familiar 7^
+^shortcut_fellowlistslot_6_sub^,^Familiar List Quickslot 7 (Secondary)^
+^shortcut_fellowlistslot_7^,^Summon Familiar 8^
+^shortcut_fellowlistslot_7_sub^,^Familiar List Quickslot 8 (Secondary)^
+^shortcut_fellowlistslot_8^,^Summon Familiar 9^
+^shortcut_fellowlistslot_8_sub^,^Familiar List Quickslot 9 (Secondary)^
+^shortcut_fellowlistslot_9^,^Summon Familiar 10^
+^shortcut_fellowlistslot_9_sub^,^Familiar List Quickslot 10 (Secondary)^
+^shortcut_make_film_mode^,^Hide UI^
+^shortcut_make_film_mode_sub^,^Hide UI (Secondary)^
+^duplicationkeydesc^,^Key has been removed.^
+^recommendskill^,^Link Skills^
+^ui_casting_stop^,^Stop^
+^learnlevel^,^Required:^
+^ui_area_f01_p_1003^,^Shimmerwood Camp^
+^ui_area_f01_p_1002^,^Ruins Camp^
+^ui_area_f01_p_1001^,^Dragon Knight Camp^
+^ui_area_f02_p_1001^,^Kellwoods^
+^ui_area_f02_p_1002^,^Sansupus Camp^
+^ui_area_f02_p_1003^,^Foothills Camp^
+^ui_map_c01_hkcity^,^Hakain's Crossing^
+^ui_game_combatoperate^,^Combat Controls^
+^channel_move_impossible^,^sec until you can change channels.^
+^channel_move_possible^,^You can now change channels.^
+^guild_guildmaster^,^Guild Leader^
+^guildmenu_party_invitation^,^Party Invite^
+^guildmenu_whisper^,^Whisper^
+^guildmenu_rank_change^,^Change Rank^
+^guildmenu_guild_master_change^,^Appoint Guild Leader^
+^guildmenu_guild_kick^,^Guild Kick^
+^guildmenu_guild_out^,^Leave Guild^
+^guild_registration_msg^,^Complete guild registration?^
+^guild_creation^,^Create^
+^guild_dissolution_msg^,^Are you sure you want to disband this guild?<br>^
+^guild_dissolution^,^Disband^
+^guild_invitation_msg^,^Do you want to invite this player to your guild?^
+^guild_invitation^,^Invite^
+^guildcreation_name_empty^,^Enter a name for your new guild.^
+^guildcreation_name_length^,^This name is too long.^
+^guildcreation_level_low^,^Your level is currently too low to create a guild.^
+^guildcreation_money_small^,^You cannot afford to create a guild.^
+^guild_master_change_msg^,^Will you delegate guild leader to this person?^
+^guild_out_msg^,^Do you want to leave this guild?^
+^guild_kick_msg^,^Do you want to kick this person from your guild?^
+^guildrank_full^,^You cannot add any more ranks.^
+^guildcreation_name_slang^,^This name contains banned words or phrases.^
+^attackbattalion_kick^,^Kick Raid Member^
+^attackbattalion_master_change^,^Delegate Raid Lead^
+^quick_attack_battalion^,^Form Raid^
+^attackbattalion_invitation_msg^,^Who would you like to invite?^
+^attackbattalion_organize_msg^,^Form a raid?^
+^ui_edit^,^Edit^
+^ui_save^,^Save^
+^fellow_transform_name^,^Transforming Familiar^
+^battalionchat^,^공격대^
+^battalioncommandchat^,^공격대명령^
+^chat_exe_battalion_invite^,^공격대초대^
+^chat_exe_battalion_leave^,^공격대탈퇴^
+^ui_area_f03_p_0001^,^Reedwatch^
+^ui_area_f03_p_0002^,^Garrison Fort^
+^ui_area_f03_p_0003^,^Hakoora^
+^ui_area_f03_p_0005^,^Sacred Shallows^
+^ui_area_f03_p_0004^,^Farlark^
+^ui_area_f09_p_0001^,^Garrison Camp^
+^ui_area_f09_p_0002^,^Fort Baellas^
+^ui_area_f09_p_0005^,^Sky Farm Camp^
+^ui_area_f04_p_1002^,^Maelstrom Perch^
+^ui_area_f04_p_1001^,^High Peak Camp^
+^ui_area_f04_p_1004^,^Eclipsed Shrine^
+^ui_area_p01_001^,^Conqueror's Gate^
+^ui_area_p01_002^,^Bloodmoon Camp^
+^ui_area_p01_003^,^Crimsonreach Camp^
+^ui_area_p01_004^,^Ashwind Camp^
+^ui_item^,^Convenience^
+^ui_buy_search_word^,^Name^
+^ui_search^,^Search^
+^ui_sellprice^,^Total Sale^
+^ui_totalitemcount^,^results.^
+^ui_auction_initbtn^,^Reset^
+^ui_buybtn^,^Purchase^
+^ui_deadline^,^Ending Time^
+^labelsellitemcount^,^Number Sold^
+^sellregister^,^Register^
+^ui_aution_sell^,^Right-click or drag an item into the marketplace window.^
+^soldtime^,^Sale Length^
+^totalsoldprice^,^Subtotal^
+^calculate^,^Transactions^
+^ui_tab_auction_buy^,^Purchase^
+^ui_tab_auction_sell^,^Sell^
+^ui_auction_msg_buy^,^selected.^
+^ui_auction_msg_buyprice^,^Purchase Total^
+^ui_auction_msg_cancelsell^,^The fees will not be refunded if you cancel.^
+^ui_auction_msg_sold^,^Calculate subtotal for items?^
+^ui_auction_msg_soldprice^,^Subtotal^
+^lowprice^,^Lowest Price^
+^highprice^,^Highest Price^
+^rare^,^Elite^
+^normal^,^Common^
+^legend^,^Legendary^
+^ui_fellowbook_collectionbook^,^Collection^
+^ui_fellowbook_area^,^Region^
+^auction^,^Marketplace^
+^limittime^,^Time Limit^
+^chat_exe_party_apply^,^파티지원^
+^chat_exe_battalion_apply^,^공격대지원^
+^ui_partyboard_title^,^Party Board^
+^ui_partyboard_level^,^Level^
+^ui_partyboard_sort^,^Sort^
+^ui_partyboard_partyrecruit^,^Recruit to Party^
+^ui_partyboard_search^,^Search^
+^ui_partyboard_refresh^,^Refresh^
+^ui_partyboard_general^,^All^
+^ui_partyboard_party^,^Party^
+^ui_partyboard_battalion^,^Raid^
+^ui_partyboard_apply^,^Support^
+^ui_partyboard_whisper^,^Whisper^
+^ui_partyboard_partyapply^,^Apply for Party^
+^ui_partyboard_contentregist^,^Submit Post^
+^ui_partyboard_recruitdelete^,^Cancel Post^
+^ui_partyboard_contentmodify^,^Edit Post^
+^ui_partyboard_classify^,^Type^
+^ui_partyboard_leader^,^Party Leader^
+^ui_partyboard_content^,^Message^
+^ui_partyboard_membercount^,^Member Limit^
+^ui_partyboard_member^,^Members^
+^ui_partyboard_name^,^Name^
+^ui_partyboard_class^,^Class^
+^ui_partyboard_detailinfo^,^Party Info^
+^ui_enchant_success_00^,^The enhancement stone level is low and you cannot succeed.^
+^ui_enchant_success_01^,^Succeedsat a low rate,^
+^ui_enchant_success_02^,^Succeedsat a normal rate,^
+^ui_enchant_success_03^,^Succeedsat a high rate,^
+^ui_enchant_success_04^,^It must succeed at enhancement.^
+^ui_enchant_fail_00^,^The level stays the same even after failure.^
+^ui_enchant_fail_01^,^It may go down on failure.^
+^ui_enchant_fail_02^,^It may reset on failure.^
+^ui_enchant_fail_03^,^It may be destroyedon failure.^
+^ui_partyboardtype_party_recruit^,^Party^
+^ui_partyboardtype_attackbattalion_recruit^,^Raid^
+^ui_partyboardtype_apply^,^Support^
+^ui_partyboardtype_invalid^,^All^
+^itemauction_bid_msg^,^Bid on this item?^
+^itemauction_renounce_msg^,^Rescind your bid?^
+^storage^,^Storage^
+^newest^,^Most Recent^
+^totalsellprice^,^Total Sale^
+^commission^,^Fee^
+^expectprice^,^Total Sold^
+^selllistamount^,^Listed Items^
+^soldlistamount^,^Sold Items^
+^ui_pieceprice^,^Individual Price^
+^dungeon_grade_none^,^None^
+^dungeon_grade_normal^,^Story^
+^dungeon_grade_elite^,^Elite^
+^dungeon_grade_hero^,^Heroic^
+^itemsearch^,^Item Search^
+^initcondition^,^Reset^
+^deadline^,^Sale Failure^
+^ui_tamingminigame_name_0^,^Control^
+^ui_tamingminigame_name_1^,^Coerce^
+^ui_tamingminigame_name_2^,^Commune^
+^ui_tamingminigame_name_3^,^Calm^
+^ui_tamingminigame_message_0^,^<font color="#FF5E00"> tries to knock you off</font>^
+^ui_tamingminigame_message_1^,^<font color="#FF5E00"> goes into a panic</font>^
+^ui_tamingminigame_message_2^,^<font color="#FF5E00"> is frightened of you</font>^
+^ui_tamingminigame_message_3^,^<font color="#FF5E00"> seems distressed</font>^
+^ui_tamingminigame_message_4^,^<font color="#FF5E00"> seems distressed</font>^
+^ui_common_expand^,^Expand^
+^ui_common_collapse^,^Collapse^
+^product_item_name^,^Crafting^
+^combotriggerskill^,^COMBO^
+^ui_shortcut_fellowquickslot^,^Familiar Commands^
+^new_mail_count^,^New Mail^
+^allcancel^,^Cancel All^
+^ui_scenario^,^Main^
+^ui_general^,^Side^
+^ui_request^,^Request^
+^ui_foothold^,^Siege^
+^ui_soultalents_block^,^The slot is extended to the level^
+^ui_soultalents_point^,^Add a sealed familiar to convert it into talent power.^
+^auction_normal^,^Common+^
+^auction_rare^,^Elite+^
+^auction_hero^,^Heroic+^
+^auction_legend^,^Legendary+^
+^ui_tamingminigame_autogame_0^,^tries to knock you off.^
+^ui_tamingminigame_autogame_1^,^goes into a panic.^
+^ui_tamingminigame_autogame_2^,^is frightened of you.^
+^ui_shortcut_etc^,^Other^
+^ui_shortcut_fellowlistquickslot^,^Minimized Familiar Info Bar^
+^ui_bid^,^Bid^
+^ui_auction_msg_allcancelsell^,^The fees will not be refunded if you cancel.^
+^guildrank_name_too_long^,^The rank name is too long.^
+^ui_final_cbt_complete^,^You have completed the FINAL CBT experience.^
+^ui_guild_gradeeffect^,^<UI_Y>Guild Level Perks</UI_Y>^
+^auction_prepagebtn^,^Forward 10 Pages^
+^auction_nextpagebtn^,^Back 10 Pages^
+^ui_close^,^Confirm^
+^ui_riding^,^Mounts^
+^ui_summon^,^Pets^
+^ui_flight^,^Flight^
+^ui_highdegree^,^Altitude^
+^auctionalarm^,^remaining.^
+^ui_riding_able^,^Can mount familiars^
+^ui_riding_unable^,^Cannot mount familiars^
+^ui_flight_able^,^Can fly^
+^ui_flight_unable^,^Cannot fly^
+^ui_summon_able^,^Can summon pets^
+^ui_summon_unable^,^Cannot summon pets^
+^auctionalarmnoprice^,^No market balance.^
+^nomailalarm^,^No new mail.^
+^ui_tab_blocklist_delfriend^,^Unblock^
+^ui_tab_blocklist_addmemo^,^Add Note^
+^ui_tab_friendlist_block^,^Blocked^
+^shortcut_token_numberone^,^'1'' Mark^
+^shortcut_token_numberone_sub^,^'1'' Mark^
+^shortcut_token_numbertwo^,^'2'' Mark^
+^shortcut_token_numbertwo_sub^,^'2'' Mark^
+^shortcut_token_numberthree^,^'3'' Mark^
+^shortcut_token_numberthree_sub^,^'3'' Mark^
+^shortcut_token_shapeshield^,^징표 방패 표시^
+^shortcut_token_shapeshield_sub^,^징표 방패 표시^
+^shortcut_token_shapesword^,^징표 검 표시^
+^shortcut_token_shapesword_sub^,^징표 검 표시^
+^shortcut_token_shapecross^,^Cross Mark^
+^shortcut_token_shapecross_sub^,^Cross Mark^
+^shortcut_token_shapesleep^,^Sleep Mark^
+^shortcut_token_shapesleep_sub^,^Sleep Mark^
+^shortcut_token_shapedownarrow^,^Arrow Mark^
+^shortcut_token_shapedownarrow_sub^,^Arrow Mark^
+^shortcut_token_symbolforbid^,^Off Limits Mark^
+^shortcut_token_symbolforbid_sub^,^Off Limits Mark^
+^quick_token^,^Mark^
+^ui_tab_actionlist_token^,^Marks^
+^actionlist_token_numberone_title^,^One^
+^actionlist_token_numbertwo_title^,^Two^
+^actionlist_token_numberthree_title^,^Three^
+^actionlist_token_shapeshield_title^,^방패^
+^actionlist_token_shapesword_title^,^검^
+^actionlist_token_shapecross_title^,^Cross^
+^actionlist_token_shapesleep_title^,^Sleep^
+^actionlist_token_shapedownarrow_title^,^Arrow^
+^actionlist_token_symbolforbid_title^,^Off Limits^
+^pvparea_warning_msg^,^Other players can attack you in this area.^
+^ap^,^Taming Points^
+^ui_Player_gauge_ap^,^Taming Points are consumed when taming familiars. They can be restored by leveling up or with some items.^
+^ui_soultalents_open^,^Talent activated.^
+^chat_exe_agreement_summon^,^소환^
+^actionlist_token_deletetoken_title^,^Clear Mark^
+^ui_gamemenu_shop^,^Ellora's Shop^
+^ui_revival_title^,^Revive^
+^ui_logout_waittime^,^Time Left^
+^ui_logout_title_lobby^,^Character Select^
+^ui_logout_title_logout^,^Exit Game^
+^guild_grade^,^Level^
+^guild_active^,^Activate^
+^ui_tab_guildmember^,^Guild Info^
+^ui_tab_guildskill^,^Guild Skills^
+^dungeon_grade_legend^,^Legendary^
+^dungeon_grade_maxuser^,^Max Members^
+^dungeon_grade_levellimit^,^Min Level^
+^dungeon_grade_standardplayer^,^Recommended Members^
+^dungeon_grade_standardlevel^,^Recommended Level^
+^dungeon_grade_reentertime^,^Wait Time^
+^ui_logout_now^,^Exit Now^
+^dungeon_grade_only^,^Max Players^
+^dungeon_grade_encourage^,^Recommended^
+^dungeon_grade_limit^,^Max Players^
+^ui_all_looting^,^Loot All^
+^gather_desc^,^GatheRing ability increases automatically as your proficiency increases.^
+^fellow_exp_desc^,^Attack power, defense, and stamina increase with your familiar's level.^
+^fellow_attpowersecond_desc^,^Equip claws on a familiar to increase its attack power.^
+^fellow_def_desc^,^Equip a saddle on a familiar to increase its defense.^
+^ridingweaponswap^,^Swap Mounted Weapons^
+^attpowersecond_desc^,^This attribute indicates how much damage you deal to enemies.^
+^defpower_desc^,^This attribute indicates how much protection you have from physical attacks.^
+^spphdefpow_desc^,^This attribute indicates how much protection you have from magic damage.^
+^tooltip_character_hp^,^Your character will die if they reach 0 HP.^
+^tooltip_character_mp^,^Mana is used for skills and magic.^
+^tooltip_character_fp^,^Rage is used for skills. Engaging in battle will increase your rage, but it will drain slowly outside of combat.^
+^tooltip_character_sp^,^Stamina is used for skills. It automatically regenerates over time out of combat.^
+^tooltip_character_str^,^Every point of strength will increase your physical attack by 1.^
+^tooltip_character_dex^,^Every point of dexterity will increase your evasion and physical critical rate by 0.045%.^
+^tooltip_character_vtl^,^Every point of constitution will increase your HP by 25.^
+^tooltip_character_int^,^Every point of intelligence will increase your magic attack by 1.^
+^tooltip_character_mtl^,^Every point of willpower will increase your mana by 25 and magic critical rate by 0.045%.^
+^tooltip_character_pkatt^,^Increases damage against players.^
+^tooltip_character_pkdef^,^Reduces damage taken from players.^
+^tooltip_character_pkbdy^,^Resists negative effects from players.^
+^ui_actor_view^,^Preview^
+^ui_ruby^,^Ellun^
+^ui_cash^,^Cash^
+^ui_charge_cash^,^Charge^
+^ui_item_count^,^count^
+^ui_cashshop_present^,^Give Gift^
+^ui_cashshop_initequip^,^Default^
+^ui_cashshop_payment^,^Purchase Confirmation^
+^ui_cashshop_storage^,^Ellora's Storage^
+^ui_select_all^,^Select All^
+^ui_use^,^Use^
+^ui_lobbycharcreate_cant^,^You cannot create any more characters.^
+^tooltip_revival_knowhow^,^Learn how to get stronger and survive longer.^
+^ui_revival_knowhow^,^Self Improvement^
+^ui_cash_shouting^,^Shout^
+^quick_boarding_apply^,^Request Ride^
+^quick_boarding_invite^,^Invite to Mount^
+^quick_boarding_kick^,^Kick Off^
+^leveldescending^,^Descending Level^
+^levelascending^,^Ascending Level^
+^initdungeon^,^Reset Dungeon Entry^
+^notuse^,^Not Used^
+^quick_judge_auto^,^Auto-Report^
+^ui_daily^,^Daily^
+^ui_lobbycharselector_btn_clicktocreate^,^New Character^
+^ui_new_skill^,^New Skills^
+^ui_newskill_desc^,^Open the skills window to see new skills^
+^damagereductionmult^,^Physical Damage Reduction^
+^ui_revival_curpos^,^Revive Here^
+^ui_revival_limitless^,^Blessed Revival^
+^ui_revival_neartown^,^Regular Revival^
+^main^,^Main^
+^rubycharge^,^Gear^
+^package^,^Familiars^
+^costume^,^Fashion^
+^ui_gift^,^Gift Box^
+^ui_lobbycharcreate_explain_difficulty_guardian^,^적의 공격을 미리 예측해서 방패 방어로 튕겨낼 수 있는 특징을 가지고 있다. 방패 방어 성공 여부에 따라 다양한 연계 공격을 이어 갈 수 있으므로 순간의 판단이 중요한 클래스다.^
+^ui_lobbycharcreate_explain_difficulty_warrior^,^This class utilizes a Berserker array of offensive skills and powerful blows to dominate the battlefield, but requires careful management and timing to be effective.^
+^ui_lobbycharcreate_explain_difficulty_thief^,^This class specializes in swift attacks and evasive actions to outmaneuver enemies and chain together attacks across both land and air.^
+^ui_lobbycharcreate_explain_difficulty_wizard^,^This class commands powerful spells to assault enemies with the elements, stacking up powerful magical combos and relying on careful planning to survive.^
+^ui_lobbycharcreate_explain_difficulty_priest^,^This class harnesses Ellora's strength to smite enemies and protect party members with a Berserker array of recovery and enhancement spells.^
+^ui_lobbycharcreate_explain_difficulty_archer^,^This Hybrid Class is using a Shortbow and a Gauntlet. It is important to maintain your HP and your arcane energy duRing Battles to change your stance according to the Situation.^
+^ui_difficulty_easiest^,^Difficulty: Very Easy^
+^ui_difficulty_easy^,^Difficulty: Easy^
+^ui_difficulty_normal^,^Difficulty: Normal^
+^ui_difficulty_hard^,^Difficulty: Hard^
+^ui_difficulty_hardest^,^Difficulty: Very Hard^
+^minimapplayer^,^Player^
+^minimapparty^,^Party^
+^minimapquest^,^Quest^
+^minimapshop^,^Shop^
+^minimapportal^,^Transit Shrine^
+^minimapregionname^,^Region Name^
+^minimapcollectionactor^,^Collectibles^
+^ui_gamemenu_cashshop^,^Ellora's Shop^
+^ui_gamemenu_present^,^Ellora's Storage^
+^ui_gamemenu_information^,^Information^
+^ui_gamemenu_contents^,^Activities^
+^ui_gamemenu_community^,^Social^
+^ui_gamemenu_system^,^System^
+^ui_gamemenu_charinfo^,^Character^
+^ui_gamemenu_inventory^,^Inventory^
+^ui_gamemenu_skilltree^,^Skills^
+^ui_gamemenu_fellowinfo^,^Familiars^
+^ui_gamemenu_fellowbook^,^Bestiary^
+^ui_gamemenu_worldmap^,^Map^
+^ui_gamemenu_questlist^,^Quests^
+^ui_gamemenu_itemproduction^,^Crafting^
+^ui_gamemenu_foothold^,^Siege^
+^ui_gamemenu_dungeonreenter^,^Dungeons^
+^ui_gamemenu_partyboard^,^Find Party^
+^ui_gamemenu_guild^,^Guild^
+^ui_gamemenu_friendlist^,^Friends^
+^ui_gamemenu_forces^,^Alliance^
+^ui_gamemenu_actionlist^,^Action^
+^ui_gamemenu_helptopic^,^Help^
+^ui_gamemenu_option^,^Settings^
+^ui_gamemenu_charselect^,^Select Character^
+^ui_gamemenu_shutdown^,^Exit Game^
+^fellowlevelupremainedtime^,^Time to Next Level:^
+^ui_reinforce_successrate^,^Success^
+^ui_reinforce_down^,^De-rank Protection^
+^ui_reinforce_init^,^Reset Protection^
+^ui_reinforce_destroy^,^Destruction Protection^
+^ui_reinforce_successrate_low^,^Low^
+^ui_reinforce_successrate_middle^,^Normal^
+^ui_reinforce_successrate_high^,^High^
+^ui_tooltip_reinforce_down^,^You can use elluns to prevent your items from losing levels on a tempeRing failure.^
+^ui_tooltip_reinforce_init^,^You can use elluns to prevent your items from having their levels reset on a tempeRing failure.^
+^ui_tooltip_reinforce_destroy^,^You can use elluns to prevent your items from being destroyed on a tempeRing failure.^
+^ui_waitrank^,^Queue Status^
+^ui_waitrank_calculating^,^Calculating...^
+^battalion^,^Raid^
+^battalioncommand^,^Raid Leader^
+^msg_cash_shouting^,^Shouts^
+^msg_notice_gm_zone^,^GM Region CHat^
+^ui_questnevi_title^,^Quest Location^
+^ui_tab_friendlist_summon^,^Summon^
+^cashshopsort_none^,^None^
+^cashshopsort_new^,^New^
+^cashshopsort_best^,^Top Sellers^
+^cashshopsort_sale^,^On Sale^
+^cashshopsort_recommand^,^Recommended^
+^ui_retract^,^Refund^
+^ui_cashshop_explain_black^,^Refund information in transaction window 1^
+^ui_cashshop_explain_red^,^Refund information in transaction window 2^
+^ui_cashshop_owncash^,^Owned^
+^ui_cashshop_ownruby^,^Elluns^
+^ui_cashshop_paycash^,^Payment^
+^ui_cashshop_payruby^,^Ellun Payment^
+^ui_cashshop_changecash^,^Remaining^
+^ui_cashshop_changeruby^,^Elluns Remaining^
+^ui_gamemenu_achievement^,^Achievements^
+^ui_achievements^,^Achievements^
+^ui_achievements_common^,^Basic^
+^ui_achievements_fellow^,^Familiars^
+^ui_achievements_quest^,^Quests^
+^ui_achievements_dungeon^,^Dungeons^
+^ui_achievements_item^,^Items^
+^ui_achievements_combat^,^Combat^
+^ui_achievements_growth^,^Level Up^
+^ui_achievements_money^,^Gold^
+^ui_achievements_action^,^General^
+^ui_achievements_gain^,^Collect^
+^ui_achievements_use^,^Transform^
+^ui_achievements_zone^,^Regional^
+^ui_achievements_reinforce^,^Temper^
+^ui_achievements_product^,^Craft^
+^ui_achievements_duel^,^Duels^
+^ui_achievements_pvp^,^PvP^
+^ui_achievements_foothold^,^Siege^
+^ui_talents_init^,^Reset^
+^ui_talents_next_init^,^Next Reset^
+^ui_achievements_summary^,^Summary^
+^ui_minimap_expand^,^Expand^
+^ui_minimap_reduce^,^Minimize^
+^ui_itemdistribution_none^,^No Limit^
+^ui_itemdistribution_normal^,^Common^
+^ui_itemdistribution_rare^,^Elite^
+^ui_itemdistribution_hero^,^Heroic^
+^ui_itemdistribution_legend^,^Legendary^
+^ui_itemdistribution_dice^,^Group Loot^
+^ui_itemdistriubtion_auction^,^Marketplace^
+^ui_tab_characterinfo_title^,^Titles^
+^shortcut_ui_toggle_achievements^,^Achievements^
+^shortcut_ui_toggle_achievements_sub^,^Achievements (Secondary)^
+^shortcut_ui_toggle_dungeonreenter^,^Re-enter Instance Dungeon^
+^shortcut_ui_toggle_dungeonreenter_sub^,^Re-enter Instance Dungeon (Sub)^
+^ui_achievements_monster^,^Monster^
+^ui_cashshop_buy^,^Purchase^
+^ui_cash_item_buyconfirm^,^Would you like to complete this purchase?^
+^ui_present_recipient^,^Recipient^
+^ui_present_message^,^Message^
+^ui_cashshop_explain_present^,^Refund explanation will be written again when it is decided.^
+^ui_retract_overtime^,^Refund Unavailable^
+^ui_cashshop_listdesc_1^,^This shop sells elluns.^
+^ui_cashshop_listdesc_2^,^This shop sells packages.^
+^ui_cashshop_listdesc_3^,^This shop sells fortune Box.^
+^ui_cashshop_listdesc_5^,^This shop sells outfits. <Y_Y>(Right-click to preview the item.)</Y_Y>^
+^ui_cashshop_listdesc_4^,^This shop sells consumables and items.^
+^ui_auction_msg_slotrelease^,^Do you want to expand the selling slots?^
+^ui_auction_msg_slotreleaseprice^,^Elluns Used^
+^quick_summon^,^Summon^
+^vitality_home^,^Vitality Gauge^
+^vitality_pc^,^PC Cafe Bonus Vitality Gauge^
+^vitality_day_remaintime^,^Remaining Daily Vitality Time^
+^vitality_week_remaintime^,^Remaining Weekly Vitality Time^
+^ui_gamemenu_attackbattalion^,^Form Raid^
+^ui_wait_delete^,^Deletion Complete^
+^ui_lobbycharselector_btn_character_recover^,^Restore Character^
+^ui_CharDeleteStandby^,^Deletion Pending^
+^ui_partyboard_partyinvite^,^Party Invite^
+^ui_secondpassword_register^,^2차 비밀번호 생성^
+^ui_secondpassword_entry^,^2차 비밀번호 확인^
+^ui_aprecovery_half^,^Recovered 50^
+^ui_aprecovery_max^,^Recovered 100^
+^ui_mail_from^,^Sender^
+^ui_title^,^Subject^
+^ui_mail_keep^,^Archive^
+^ui_mail_addmoney^,^Send Money^
+^ui_mail_additem^,^Attachments^
+^ui_mail^,^Mailbox^
+^shortcut_moveupward_fly^,^Flight Ascent^
+^shortcut_moveupward_fly_sub^,^Flight Ascent (Secondary)^
+^shortcut_movedownward_fly^,^Flight Descent^
+^shortcut_movedownward_fly_sub^,^Flight Descent (Secondary)^
+^ui_cashshop_explain_cash^,^Please look over your purchase details and make sure everything is correct.^
+^ui_cashshop_explain_ruby^,^Please look over your purchase details and make sure everything is correct.^
+^ui_purchase_explain_cash^,^This item will be moved to the Cash Inventory tab of Ellora's Storage.^
+^ui_purchase_explain_ruby^,^This item will be moved to the Cash Inventory tab of Ellora's Storage.^
+^ui_cash100101^,^WeCash^
+^ui_cash100407^,^Game Cash^
+^ui_cash_storage^,^Cash Inventory^
+^require_mastery^,^Required Proficiency^
+^masteryodds^,^Proficiency Gain^
+^mastery_no^,^None^
+^mastery_low^,^Low^
+^mastery_normal^,^Normal^
+^mastery_high^,^High^
+^mastery_impract^,^Unable to Gather^
+^ui_cashstorage_use^,^Claim^
+^dungeon_grade_boss^,^Boss^
+^guild_dissolution_confirm_msg^,^Do you really want to disband your guild?^
+^ui_itemdistribution_free^,^Free For All^
+^ui_itemdistribution_seq^,^Round Robin^
+^ui_itemdistribution_fix^,^Master Looter^
+^ui_itemdistriubtion_dice^,^Roll^
+^ui_partyboard_detailinfo_defaulttext^,^You can enter up to 32 characters.^
+^ui_aprecovery_internetcafe^,^Free PC Cafe^
+^ui_cashstorage_toinven^,^TransferRing to Inventory^
+^ui_cashstorage_retract^,^Refunding^
+^dungeoninit^,^Reset Dungeon^
+^elruncount^,^Elluns^
+^ui_lobbycharselector_btn_credit^,^Credits^
+^ui_vitalitybox_desc^,^Click the button 1 hour after logging in to open the Vitality Box. (Max count in bag: 3)^
+^expirationtime^,^Duration^
+^timestop_name^,^Vitality Time Stop^
+^ui_vitality_applyeffect^,^Daily Vitality Reset Time - Everyday at 04:00^
+^auto_only_eight_num^,^Enter 8 digits.^
+^ui_auction_needcalculate^,^Calculation Needed^
+^ui_auction_fullregist^,^Unable to List^
+^shortcut_ui_toggle_cashshop^,^Ellora's Shop^
+^shortcut_ui_toggle_cashshop_sub^,^Ellora's Shop (Secondary)^
+^shortcut_ui_toggle_cashshop_storage^,^Ellora's Storage^
+^shortcut_ui_toggle_cashshop_storage_sub^,^Ellora's Storage (Secondary)^
+^ui_achievement_rewarditem_desc^,^You can get rewards for completing achievements from the Achievement window.^
+^ui_allproduct^,^All crafting skills^
+^ui_cashstorage_restore^,^Restoration storage^
+^ui_guild_grade^,^<UI_Y>Level 1</UI_Y>^
+^ui_guild_point^,^<UI_Y>How to Acquire</UI_Y><br>1. Hunt a monster tHat fits the level of the guild member. <br>2. Level-up a guild member.<br><br><UI_Y> You can be promoted to the next grade by the Guild Manager when the guild points reach 100%.</UI_Y>^
+^quick_guild_invite^,^Guild Invite^
+^guildmenu_summon^,^Summon^
+^guildmenu_friend_registration^,^Add Friend^
+^ui_tab_friendlist_whisper^,^Whisper^
+^ui_tab_friendlist_invite_guild^,^Guild Invite^
+^ui_tab_friendlist_invite_party^,^Party Invite^
+^shortcut_rest_area_char_limit^,^Hide Characters^
+^shortcut_rest_area_char_limit_sub^,^Character Display in Common Areas (Secondary)^
+^ui_quality_normal^,^Normal^
+^ui_quality_expert^,^High^
+^ui_quality_master^,^Very High^
+^ui_restareacharlimit^,^Hide Characters^
+^ui_gamemenu_balloondesc_1^,^Ellora has blessed you with a new item!^
+^alreadyexistfellowbook^,^This book is registered.^
+^ui_cashshop_listdesc_rubycharge^,^This shop sells elluns.^
+^ui_cashshop_listdesc_package^,^This shop sells packages.^
+^ui_cashshop_listdesc_item^,^This shop sells consumables and items.^
+^ui_cashshop_listdesc_fellow^,^This shop sells familiars of all kinds.^
+^ui_cashshop_listdesc_costume^,^This shop sells outfits. <Y_Y>(Right-click to preview the item.)</Y_Y>^
+^ui_tooltip_set_screenmode^,^Windowed mode may adversely affect performance.^
+^ui_tooltip_set_resolution^,^Select a screen resolution tHat your monitor supports.^
+^ui_tooltip_set_brightness^,^Increasing this setting will increase the picture brightness. This can only be adjusted in Full Screen Mode.^
+^ui_tooltip_set_antialiasing^,^Selecting these settings will soften hard corners on rendered objects.^
+^ui_tooltip_set_directx^,^(No Description)^
+^ui_tooltip_set_graphicallset^,^This will allow you to change all graphics settings at once. High settings will favor graphics over performance.^
+^ui_tooltip_set_shadowquality^,^높을수록 그림자가 선명하게 표현됩니다. 아주낮음일 경우 그림자를 표현하지 않지만 프레임이 상승합니다.^
+^ui_tooltip_set_waterquality^,^Increasing this setting will display water waves, reflection, light distortion, etc.^
+^ui_tooltip_set_shaderquality^,^Higher settings will favor graphics over performance.^
+^ui_tooltip_set_geodec^,^Increasing this setting will display a Berserkerr range of terrain in detail.^
+^ui_tooltip_set_effectquality^,^Increasing this setting will display more special effects.^
+^ui_tooltip_set_particlequality^,^Increasing this setting will display more particle effects. Decreasing it completely will turn off particles and improve performance.^
+^ui_tooltip_set_geolod^,^Increasing this setting will display more terrain details further away.^
+^ui_tooltip_set_objlod^,^Increasing this setting will display object details further away.^
+^ui_tooltip_set_chalod^,^Increasing this setting will display character details further away.^
+^ui_tooltip_set_chasight^,^Increasing this setting will display characters further away.^
+^ui_tooltip_set_objsight^,^Increasing this setting will display objects further away.^
+^ui_tooltip_set_backsight^,^Increasing this setting will display backgrounds further away.^
+^ui_tooltip_set_gluesight^,^Increasing this setting will display grass further away.^
+^ui_tooltip_set_chashowlim^,^Select the number of characters to display.^
+^ui_tooltip_set_restchashowlim^,^Select to hide other players in common areas, such as towns and dungeons.^
+^ui_tooltip_set_effectshowlim^,^Increasing this setting will display more visual effects duRing battle. Shooting effects will always be displayed, regardless of limit.^
+^ui_tooltip_set_effectshowtarget^,^Select whose battle effects you want to display.^
+^ui_tooltip_set_rayeffect^,^Select to display sunshine.^
+^ui_tooltip_set_lowspeclight^,^Select to only show the most basic lights.^
+^ui_tooltip_set_outfocus^,^Select to blur surroundings based on the distance of your camera and character.^
+^ui_tooltip_set_hdrvolume^,^Increasing this setting will display brighter colors.^
+^ui_tooltip_set_motionblue^,^Increasing this setting will display more debris from movement.^
+^ui_tooltip_set_visibility^,^Increasing this setting will sharpen the overall screen.^
+^ui_tooltip_set_frameshow^,^Select to display your framerate.^
+^ui_tooltip_set_weathereffect^,^Displays weather effects.^
+^ui_tooltip_set_vertsync^,^Select to sync the monitor frequency and screen refresh interval. Turning off vertical sync will improve performance.^
+^ui_tooltip_set_realtimeopt^,^Select to prioritize a stable framerate. The screen may change frequently or the characters may not display.^
+^ui_tooltip_set_fixframe^,^Lock settings to the selected frame.^
+^ui_tooltip_set_allsound^,^Allows you to adjust volume for all sounds at once.^
+^ui_tooltip_set_backsound^,^Allows you to adjust background music volume.^
+^ui_tooltip_set_effectsound^,^Allows you to adjust skill, UI, effect sound volume.^
+^ui_tooltip_set_envsound^,^Allows you to adjust ambient sound volume.^
+^ui_tooltip_set_systemsound^,^Allows you to adjust system message voice.^
+^ui_tooltip_set_backlistening^,^Enable game sounds to play even when the window is not selected.^
+^ui_tooltip_set_pcname^,^Select to show your name, guild, and title above your head.^
+^ui_tooltip_set_fellowname^,^Select to show familiar names.^
+^ui_tooltip_set_npcname^,^Select to show NPC names and affiliations above their heads.^
+^ui_tooltip_set_monstername^,^Select to show monster names above their heads.^
+^ui_tooltip_set_partyname^,^Seelct to show names, guilds, and titles above party members' heads.^
+^ui_tooltip_set_otherpcname^,^Select to show names, guilds, and titles above players' heads.^
+^ui_tooltip_set_objname^,^Select to show the names of interactable objects.^
+^ui_tooltip_set_statebar^,^Select to show numbers on status bars, such as health, experience, etc.^
+^ui_tooltip_set_statusbarpercentage^,^Select to show percentages on status bars, such as health, experience, etc.^
+^ui_tooltip_set_value^,^Use actual values.^
+^ui_tooltip_set_percent^,^Use percentages.^
+^ui_tooltip_set_bubble^,^Select to see player cHat and NPC dialogue in speech bubbles.^
+^ui_tooltip_set_whisperrefusal^,^automatically rejects whispers.^
+^ui_tooltip_set_rejectguild^,^Select to automatically reject guild invitations.^
+^ui_tooltip_set_guildonline^,^Select to receive notifications when your guild members come online.^
+^ui_tooltip_set_rejectparty^,^Select to automatically reject party invites.^
+^ui_tooltip_set_rejecttrade^,^Select to automatically reject trade requests.^
+^ui_tooltip_set_rejectpvp^,^Select to automatically reject duel requests.^
+^ui_tooltip_set_rejectmultifellow^,^Select to automatically reject requests for rides on multi-person familiars.^
+^ui_tooltip_set_doubleclick^,^Controls the speed necessary to activate consecutive skills.^
+^ui_tooltip_set_ridingfixedmouse^,^Locks the camera to your mouse cursor when mounted, letting you aim without right-clicking.^
+^ui_tooltip_set_damagetome^,^Displays damage and critical hits your character receives.^
+^ui_tooltip_set_healtome^,^Displays your health recovery.^
+^ui_tooltip_set_distancetarget^,^Displays distance between you and the target.^
+^ui_tooltip_set_targetcasting^,^Displays the name and casting time of the skill tHat the target is about to use.^
+^ui_tooltip_set_targetbufffromme^,^Displays the name of any skill effects you've afflicted on the target.^
+^ui_tooltip_set_targetbufffromother^,^Displays the name of any skill effects other players have afflicted on the target.^
+^ui_tooltip_set_damagetoenemy^,^Displays damage and critical hits landed on the target.^
+^ui_tooltip_set_healtoenemy^,^Displays target's health recovery.^
+^ui_tooltip_set_targetoftarget^,^Displays enemy's current target.^
+^ui_tooltip_set_damagetofellow^,^Displays damage and critical hits your familiar receives.^
+^ui_tooltip_set_extendslot^,^Opens 12 additional skill slots.^
+^ui_tooltip_set_maxcamera^,^Adjusts the camera's max zoom distance. In-game, use the mouse wheel to zoom the camera in and out.^
+^ui_tooltip_set_rotatecamera^,^Determines your camera move speed. In-game, right-click and hold to control the camera.^
+^ui_tooltip_set_mousesens^,^Adjust mouse sensitivity.^
+^ui_tooltip_set_camerarotate^,^DuRing flight, the camera tilts with your character as you soar.^
+^ui_tooltip_set_mousemove^,^Left-click to move to a new location.^
+^ui_tooltip_set_gametip^,^Displays a regular cycle of game tips on the bottom of the screen.^
+^ui_tooltip_set_lootautocursor^,^automatically moves the mouse cursor to the item to be looted.^
+^ui_tooltip_set_questtargetmonster^,^Displays a triangle above the heads of quest monsters.^
+^ui_tooltip_set_buffremain^,^Displays remaining time of status effects on the icon.^
+^ui_tooltip_set_hpbar^,^Displays health bars of all targets above their heads. Does not display for targets with full health.^
+^ui_tooltip_set_alarmtaming^,^Displays spacebar icon duRing taming when available.^
+^ui_tooltip_set_headview^,^Displays your equipped helm.^
+^ui_tooltip_set_questtargetnpc^,^Displays a triangle above the heads of quest NPCs.^
+^ui_tooltip_set_systemmessage^,^Displays system message at the top of the screen. Deselect to display system messages in the cHat window only.^
+^ui_tooltip_set_screenshot^,^Use this key to hide or display the user interface.^
+^ui_tooltip_set_whisper^,^Use this key to reply to your most recently received whisper.^
+^ui_gain^,^Acquired^
+^ui_itemdistribution_jobdice^,^Need Before Greed^
+^optionavdrate^,^Effective Evasion Rate^
+^optionavdrate_desc^,^This value is influenced by Evasion and Dexterity rates.^
+^effavdrate^,^Bonus Evasion Rate^
+^effavdrate_desc^,^This value is increased by skills and effects. It stacks with your Effective Evasion Rate.^
+^short_default_local_key^,^s^
+^short_default_whisper_key^,^w^
+^short_default_party_key^,^p^
+^short_default_guild_key^,^g^
+^short_default_zone_key^,^c^
+^short_default_battalion_key^,^b^
+^short_default_battalion_command_key^,^q^
+^short_battalion_key^,^TEMP^
+^short_battalion_command_key^,^TEMP^
+^local_key^,^TEMP^
+^whisper_key^,^TEMP^
+^party_key^,^TEMP^
+^guild_key^,^TEMP^
+^zone_key^,^TEMP^
+^battalion_key^,^TEMP^
+^battalion_command_key^,^TEMP^
+^chat_exe_chat_help^,^h^
+^ui_min_altitude^,^Min Altitude^
+^shortcut_chat_whisper^,^귓속말 답장^
+^shortcut_chat_whisper_sub^,^귓속말 답장 (보조)^
+^ui_btn_close^,^Close^
+^ui_btn_cancel^,^Cancel^
+^ui_characterinfo_label_assistance^,^Secondary^
+^tooltip_character_castingspeedmult^,^Reduces casting, tempeRing, and crafting times.^
+^tooltip_character_cooltimemult^,^Reduces skill cooldown time.^
+^tooltip_character_ap_recovery^,^Use elluns to restore your taming points. Premium Service members may refill their taming points for free once per day.^
+^ui_premiumbox_desc^,^When the icon disappears, you can get PC Cafe Event Package II. <br> PC Cafe Event Package II will be sent to Ellora's Storage.^
+^ui_unitename^,^Alliance Name^
+^ui_unitemastername^,^Alliance Leader^
+^ui_guildname^,^Guild Name^
+^ui_guildmastername^,^Guild Leader^
+^ui_unite_delete_desc^,^You can only disband an alliance when there are no guilds in it.^
+^ui_tab_guildunite^,^Alliance^
+^guild_unitecreate_msg^,^Do you want to form a guild alliance?^
+^guild_uniteinvite_msg^,^WHat is the name of the guild you want to invite to the alliance?^
+^guild_unitenamechange_msg^,^Enter a new name for your alliance.^
+^impossible_belongitem^,^Permanently Bound^
+^unlimited_belongitem^,^Unlimited Unbindings^
+^remain_belongitem^,^Unbindings Available^
+^gmchat^,^전체공지^
+^gmzonechat^,^지역공지^
+^guild_union^,^Alliance^
+^militia^,^Militia^
+^short_default_guild_union_key^,^u^
+^short_default_militia_key^,^m^
+^short_guild_union_key^,^TEMP^
+^short_militia_key^,^TEMP^
+^GuildUnionchat^,^연합^
+^Militiachat^,^민병대^
+^guild_union_key^,^TEMP^
+^militia_key^,^TEMP^
+^getbuff^,^Militia Effect^
+^ui_guildmemberlist^,^Guild Members^
+^regist_commission^,^Registration Fee^
+^sell_commission^,^Sales Fee^
+^ui_storage_basic^,^Overall^
+^ui_storage_extend^,^Expand^
+^guild_dismiss_msg^,^Dismiss guild leader?^
+^guild_dismiss_lastaccesstime^,^Last Login^
+^guild_dismiss_desc_01^,^Guild leaders can be dismissed if they do not log in for at least 7 days. The leader will be dismissed if they do not log in for 1 day after the dismissal process begins. If the leader logs in duRing this period, dismissal will be cancelled.^
+^guild_dismiss_desc_02^,^Guild leader dismissal is being processed.^
+^guild_dismiss_date^,^Dismissal Time^
+^guild_dismiss_candidatename^,^Prospective Guild Leader^
+^militianame^,^Militia^
+^ui_tooltip_upcommission^,^Marketplace Listing Fee^
+^ui_tooltip_sellcommission^,^Marketplace Sale Fee^
+^ui_itemdice_join^,^Participate^
+^ui_itemdice_close^,^Close^
+^ui_itemdice_forgive^,^Forfeit^
+^chat_exe_unite_invite^,^Union Invitation^
+^ui_guildmaster^,^Guild Leader^
+^ui_guildofficer^,^Officer^
+^ui_guildmember^,^Guild Member^
+^regend^,^Legendary^
+^guild_dismiss_date_02^,^=+- 10 min^
+^ui_fellowcollection_itemtooltip^,^Taming item:^
+^ui_fellowcollection_tooltip^,^You do not have the required item for taming.^
+^ui_fellowcollection_title^,^Bestiary^
+^ui_nogain^,^Not Acquired^
+^ui_collect^,^Collect^
+^ui_gamemenu_fellowcollection^,^Bestiary^
+^ui_mail_cooltime^,^sec before you can send again.^
+^itemuse_equip_belonging_item^,^Binding equipped item^
+^itemuse_fellow_create_item^,^Store Familiar^
+^itemuse_sell_over_heor_item^,^Selling Heroic Item^
+^ui_tab_guildwarfare^,^Declare War^
+^ui_warfare_desc_01^,^- An alliance leader may declare war on another alliance for 10 gold.^
+^ui_warfare_desc_02^,^Accept the declaration of war?<br><br>Time Left^
+^ui_warfare_desc_03^,^kills is the goal. The first alliance to reach this goal wins.^
+^ui_game_crosshair^,^Crosshair Color^
+^ui_lobbycharselector_btn_gocharacter_change_customize^,^Character Customization^
+^ui_win^,^Win^
+^ui_lose^,^Lose^
+^ui_surrender^,^Surrender^
+^ui_title_item_list^,^Dismantling Results^
+^ui_title_changeoption^,^Change Seal^
+^ui_gamemenu_uiedit^,^Customize UI^
+^ui_edit_description^,^Rearrange windows and UI elements to change the layout.^
+^ui_area_f05_p_0001^,^Alseik Village^
+^ui_area_f05_p_0004^,^Golden Peak^
+^ui_area_f05_p_0007^,^Hermit's Town^
+^ui_label_option^,^Option^
+^ui_btn_extract^,^Extracting^
+^ui_title_bracelet_rubygold^,^Extract Gem^
+^ui_bracelet_title^,^Bracelet^
+^ui_bracelet_gold_btn^,^Extract Gold^
+^ui_bracelet_ruby_btn^,^Extract Ellun^
+^ui_title_auction^,^Marketplace^
+^ui_title_deletechar^,^Delete Character^
+^ui_title_autosend^,^Auto-Report^
+^ui_title_shouting^,^Shout^
+^ui_title_autocheck^,^Auto-Report^
+^ui_title_waitingline^,^Queue^
+^ui_title_soultalents^,^Select Talent^
+^ui_title_reinforce^,^TempeRing Items^
+^ui_title_chattaboption^,^탭 옵션^
+^ui_title_dellimittimeitem^,^ExpiRing Items^
+^ui_title_guildcreate^,^Guild Creation^
+^ui_title_guildmanager^,^Rank Setting^
+^ui_title_partyauction^,^Check Bid^
+^ui_title_splititem^,^Split Item^
+^ui_title_aprecovery^,^Recover Taming Points^
+^ui_title_attackready^,^Ready^
+^ui_title_actionlist^,^Action List^
+^ui_title_itemauction^,^Item Marketplace^
+^ui_title_friendlist^,^Friends List^
+^ui_title_production^,^Craft^
+^ui_title_looting^,^Loot^
+^ui_title_mailread^,^Read Mail^
+^ui_title_npctalk^,^Dialogue^
+^ui_title_pkranking^,^Ranking^
+^ui_title_questlist^,^Quest List^
+^ui_title_questlistitem^,^Quest Description^
+^ui_title_revival^,^Revive^
+^ui_title_secondpassword^,^2차 비밀번호^
+^ui_title_trade^,^Trading^
+^ui_title_worldmap^,^Map^
+^ui_title_attackbattalion^,^Form Raid^
+^ui_title_characterinfo^,^Character Info^
+^ui_title_soulstone^,^Bracelet^
+^ui_title_fellowinfo^,^Familiar Info^
+^ui_title_fellow_changename^,^Familiar Name Change^
+^ui_title_fellow_expandslot^,^Familiar Slot Expansion^
+^ui_title_fellow_throw^,^Release Familiar^
+^ui_title_fellow_extract^,^Extract Familiar^
+^ui_title_fellow_unseal^,^Unseal Familiar^
+^ui_title_agree_trade^,^Request Trade^
+^ui_title_agree_party^,^Party Invite^
+^ui_title_agree_duel^,^Request Battle^
+^ui_title_agree_guild^,^Invite Guild^
+^ui_title_agree_attackbattalion^,^Invite Raid^
+^ui_title_agree_combatready^,^Prepare Raid^
+^ui_title_agree_partyapply^,^Party Support^
+^ui_title_agree_attackbattalionapply^,^Raid Support^
+^ui_title_agree_summon^,^Summon^
+^ui_title_agree_boardingapply^,^Mount Support^
+^ui_title_agree_boardinginvite^,^Invite to Mount^
+^ui_title_agree_summon_invite^,^Request Summon^
+^ui_title_send_shouting^,^Shout^
+^ui_title_cancel_shouting^,^Shout^
+^ui_title_agree_guildunion_invite^,^Invite Guild Alliance^
+^ui_title_footfold_request^,^Request Base Battle^
+^ui_title_basic_option^,^Reset Options^
+^ui_title_realtimeopt_clear^,^Disable Realtime Optimization^
+^ui_title_alert_belonging^,^Bind^
+^ui_title_learn_tech^,^Obtain Technique^
+^ui_title_itemwork_reinforce^,^TempeRing Items^
+^ui_title_itemwork_extraction^,^Item Extraction^
+^ui_title_itemwork_removebelong^,^Unbind^
+^ui_title_itemwork_resetbelong^,^Unbind^
+^ui_title_itemwork_decomposition^,^Dismantling^
+^ui_title_itemwork_changeoption^,^Change Seal^
+^ui_title_itemwork_activesocket^,^Add Slot^
+^ui_title_return_point^,^Set Recall Location^
+^ui_title_equip_belonging^,^Bind^
+^ui_title_use_warp^,^Move^
+^ui_title_create_fellow^,^Familiars^
+^ui_title_sell_overhero^,^Sell^
+^ui_title_throw_item^,^Destroy^
+^ui_title_extends_storageslot^,^Expand Storage^
+^ui_title_join_npcguild^,^Join Militia^
+^ui_title_npcguild_out^,^Leave Militia^
+^ui_title_cash_retract^,^Refund^
+^ui_title_unride_passenger^,^Dismount^
+^ui_title_unride_driver^,^Dismount^
+^ui_title_fellow_invalid_name^,^Notice^
+^ui_title_join_escort_quest^,^Notice^
+^ui_title_share_quest^,^Notice^
+^ui_title_quit_game_disconnecting^,^Disconnected^
+^ui_title_kick_party^,^Kick from Party^
+^ui_title_direct_portal^,^Transit Shrine^
+^ui_title_fail_quest^,^Notice^
+^ui_title_add_friend^,^Add Friend^
+^ui_title_add_cutoff^,^Block Player^
+^ui_title_add_memo^,^Block Note^
+^ui_title_charge_ruby^,^Charge Ellun^
+^ui_title_lack_msg^,^Notice^
+^ui_title_equip_talents^,^Select Talent^
+^ui_title_init_soultalents^,^Specialty Reset^
+^ui_title_full_talents^,^Notice^
+^ui_title_attackbattalion_organize^,^Form Raid^
+^ui_title_attactbattalion_invite^,^Invite Raid^
+^ui_title_add_gem^,^Add Gem^
+^ui_title_add_bracelet^,^Add Bracelet^
+^ui_title_extract_gem^,^Extract Gem^
+^ui_title_init_dungeonreenter^,^Reset^
+^ui_title_dungeon_init^,^Reset^
+^ui_title_guild_dissolution^,^Guild Disband^
+^ui_title_guild_invite^,^Invite Guild^
+^ui_title_guild_upgrade^,^Change Guild Level^
+^ui_title_guild_nopoint^,^Notice^
+^ui_title_guild_mark^,^Guild Emblem^
+^ui_title_guild_mark_change^,^Guild Emblem^
+^ui_title_guild_mark_diffent_size^,^Guild Emblem^
+^ui_title_guild_master_change^,^Change Guild Leader^
+^ui_title_guild_kick^,^Guild Kick^
+^ui_title_guild_out^,^Leave Guild^
+^ui_title_guild_dismiss^,^Dismiss Guild Leader^
+^ui_title_unitecreate^,^Form Alliance^
+^ui_title_unite_namechange^,^Alliance Name Change^
+^ui_title_guild_uniteinvite^,^Invite Alliance^
+^ui_title_unite_delete^,^Disband Alliance^
+^ui_title_unite_kick^,^Kick from Alliance^
+^ui_title_unite_out^,^Leave Alliance^
+^ui_title_union_war_name^,^Declare War^
+^ui_title_union_war_surrender^,^Surrender^
+^ui_title_auction_renounce^,^Forfeit Bid^
+^ui_title_zone_change^,^Move^
+^ui_title_resurrection_penalty^,^Treat Dire Wounds^
+^ui_title_pvparea_warning^,^Warning^
+^ui_title_boarding_kick^,^Notice^
+^ui_title_secondpw_fail^,^Notice^
+^ui_title_aution_expandslot^,^Expand Market Slot^
+^ui_title_delete_mail^,^Mail Delete^
+^ui_title_synthesis_del_sealeditem^,^Remove Sealed Familiar^
+^ui_title_channel_readytime^,^Change Channel^
+^ui_title_skip_tutorial^,^Close Tutorial^
+^ui_title_guildrank_full^,^Notice^
+^ui_title_guild_name_empty^,^Notice^
+^ui_title_check_user_name^,^Notice^
+^ui_title_lobbycharcreate_cant^,^Notice^
+^ui_title_character_recover^,^Notice^
+^ui_title_lobbycharselector_createimpossible^,^Notice^
+^ui_title_secondpw_no_match^,^Notice^
+^ui_title_waiting_change_server^,^Notice^
+^ui_title_ruby_resurrection^,^Blessed Revival^
+^ui_title_cash_charge^,^Charge NX^
+^ui_title_cashitem_to_inven^,^Notice^
+^ui_title_retract_count_error^,^Notice^
+^ui_declare_warfare^,^Declare War^
+^ui_cancel_declare_warfare^,^Cancel Declaration^
+^ui_label_achievements_number^,^Number Achieved^
+^ui_title_common_error^,^Notice^
+^hudedit_init_msg^,^Reset your UI layout to the default?^
+^ui_title_hudedit_init^,^Reset UI Layout^
+^attendance^,^Daily Rewards^
+^ui_attendance_connect^,^Open tracker when you log in.^
+^ui_title_agreee_party^,^Party Invite^
+^ui_tootip_bracelet^,^Bracelet^
+^ui_characterinfo_slottooltip_style2^,^Shoulder Accessory^
+^wpcrirate_desc^,^Chance of your physical attack becoming a critical hit.^
+^spcrirate_desc^,^Chance of your magic attack becoming a critical hit.^
+^Limitclear^,^Remove Restriction^
+^ui_gamemenu_attendance^,^Daily Rewards^
+^tooltip_character_runspeed^,^Your character's move speed.^
+^ui_attendancetime^,^Time to Daily Reward^
+^itemuse_extract_gem^,^Extract Gem^
+^ui_title_item_production^,^Create Item^
+^ui_title_caution^,^Caution^
+^ui_lobbycustomize_btn_prev_itemmode^,^Exit^
+^ui_lobbycustomize_btn_reset^,^Default^
+^ui_lobbycustomize_btn_save^,^Save Preset^
+^ui_lobbycustomize_btn_load^,^Load Preset^
+^ui_attendance_tooltip^,^Reward unlocked on [Time].^
+^ui_attendance_day^,^Day^
+^ui_attendance_notice^,^The daily reward event continues until [Time].^
+^ui_attendance_notyet^,^You have not unlocked this daily reward.^
+^ui_achievements_score^,^Achievement Score^
+^ui_achievements_total^,^All^
+^ui_achievements_achieve^,^Earned^
+^ui_achievements_shortfall^,^Unearned^
+^ui_achievements_compensation^,^Reward^
+^ui_achievements_act^,^Achievement Rates^
+^ui_achievements_recently^,^New^
+^ui_achievements_totalsituation^,^Total^
+^ui_actionlist_close^,^Close^
+^ui_battalion_ready^,^Ready^
+^ui_battalion_ready_message^,^Are you ready for battle?^
+^ui_battalion_yes^,^Yes^
+^ui_battalion_no^,^No^
+^ui_auction_totallist^,^All List^
+^ui_bag_rank^,^Storage Priority^
+^ui_book_title^,^Book^
+^ui_book_close^,^Close^
+^ui_cashshopstoragebox_withdrawal^,^Refunding^
+^ui_cashshopstoragebox_wecash^,^WeCash^
+^ui_cashshopstoragebox_count^,^Qty^
+^ui_castingbar_taming_succes^,^Success^
+^ui_castingbar_taming_fail^,^Fail^
+^ui_changeoption_before^,^Before Change^
+^ui_changeoption_after^,^After Change^
+^ui_changeoption_check^,^Confirm^
+^ui_channel2_option^,^Minimap Display^
+^ui_channel2_minimap^,^Minimap^
+^ui_characterinfo_stat_movespeed^,^Move Speed^
+^ui_characterinfo_stat_hp^,^Health^
+^ui_characterinfo_stat_mp^,^Mana^
+^ui_characterinfo_stat_seazepoint^,^Taming Points^
+^ui_characterinfo_stat_mastery^,^Proficiency^
+^ui_characterinfo_stat_gather^,^GatheRing^
+^ui_characterinfo_stat_dps^,^DPS^
+^ui_characterinfo_stat_hit^,^Accuracy^
+^ui_characterinfo_stat_fatalchance^,^Critical Rate^
+^ui_characterinfo_stat_fataldamage^,^Critical Damage^
+^ui_characterinfo_stat_attackspeed^,^Attack Speed^
+^ui_characterinfo_stat_fataldamageprotect^,^Critical damage defense^
+^ui_characterinfo_stat_shieldblock^,^방패 막기 확률^
+^ui_characterinfo_stat_weaponblock^,^Weapon Block Chance^
+^ui_characterinfo_mycharacteristic_reset^,^Reset^
+^ui_characterinfo_charinfo_detailinfo^,^Details^
+^ui_characterinfo_charinfo_usetitle^,^Current Title^
+^ui_characterinfo_charinfo_selecttitle^,^Selected Title^
+^ui_characterinfo_charinfo_titlelist^,^Title List^
+^ui_characterinfo_charinfo_titletotal^,^All^
+^ui_characterinfo_charinfo_titleget^,^Acquired^
+^ui_characterinfo_charinfo_titleeffect^,^Effect^
+^ui_characterinfo_charinfo_titlechange^,^Change^
+^ui_characterinfo_charinfo_titlerelease^,^Remove^
+^ui_characteristic_present^,^Current Talent Power^
+^ui_characteristic_need^,^Required Talent Power^
+^ui_characteristic_remain^,^Remaining Talent Power^
+^ui_characteristic_btncheck^,^Confirm^
+^ui_characteristic_btncancel^,^Cancel^
+^ui_chattaboption_btncheck^,^확인^
+^ui_chattaboption_btncancel^,^취소^
+^ui_dellimittimeitemlist_help^,^Expiration Timer^
+^ui_dellimittimeitemlist_btncheck^,^Confirm^
+^ui_dungeongrade_explain^,^Entry Difficulty^
+^ui_dungeonreenter_title^,^Dungeons^
+^ui_dungeonreenter_subtitle^,^Dungeon Wait Time^
+^ui_dungeonreenter_btncheck^,^Confirm^
+^ui_dungeonreenter_subgrade^,^Level^
+^ui_dungeonreenter_subjoin^,^Status^
+^ui_dungeonreenter_subtime^,^Wait Time^
+^ui_fellowinfo_exp^,^EXP^
+^ui_fellowinfo_dps^,^DPS^
+^ui_fellowinfo_defense^,^Physical Defense^
+^ui_fellowinfo_altitude^,^Max Altitude^
+^ui_fellowinfo_movespeed^,^Move Speed^
+^ui_fellowinfo_attackspeed^,^Attack Speed^
+^ui_fellowinfo_characteristic^,^Type^
+^ui_fellowinfo_fellowequip^,^Familiar Equipment^
+^ui_fellowinfo_fellowskill^,^Familiar Skills^
+^ui_fellowlist_level^,^Level^
+^ui_fellowlist_grade^,^Grade^
+^ui_fellowlist_reinforce^,^TempeRing^
+^ui_fellowlist_namechange^,^Change Name^
+^ui_fellowlist_summon^,^Summon^
+^ui_fellowlist_release^,^Release^
+^ui_friendlist_blocklist_character^,^Character Name^
+^ui_friendlist_blocklist_memo^,^Note^
+^ui_friendlist_blocklist_btnnew^,^Block Player^
+^ui_friendlist_friendlist_character^,^Character Name^
+^ui_friendlist_friendlist_level^,^Level^
+^ui_friendlist_friendlist_job^,^Class^
+^ui_friendlist_friendlist_join^,^Status^
+^ui_friendlist_friendlist_onlineview^,^Online Friends Only^
+^ui_friendlist_friendlist_btnnew^,^Add Friend^
+^ui_gamegrade_btncheck^,^Confirm^
+^ui_gamegrade_gradeinfo^,^Game Rating^
+^ui_gameoption_title^,^Settings^
+^ui_gameoption_camera_maxdis^,^View Range^
+^ui_gameoption_camera_turnspeed^,^Camera Speed^
+^ui_gameoption_camera_mousesensitivity^,^Mouse Sensitivity^
+^ui_gameoption_camera_scopenear^,^Close^
+^ui_gameoption_camera_scopefar^,^Far^
+^ui_gameoption_camera_scopeslow^,^Slow^
+^ui_gameoption_camera_scopefast^,^Fast^
+^ui_gameoption_camera_camerarollingbyfellow^,^Tilt DuRing Flight^
+^ui_gameoption_combatinfo_mydamage^,^Show Damage^
+^ui_gameoption_combatinfo_targetdamage^,^Show Target Damage^
+^ui_gameoption_combatinfo_myheal^,^Show Healing^
+^ui_gameoption_combatinfo_targetheal^,^Show Target Healing^
+^ui_gameoption_combatinfo_targetbufffromme^,^Show Status Effects^
+^ui_gameoption_combatinfo_targetbufffromother^,^Show Target Status Effects^
+^ui_gameoption_combatinfo_targetdst^,^Show Target Distance^
+^ui_gameoption_combatinfo_targetoftarget^,^Show Target's Target^
+^ui_gameoption_combatinfo_targetcastingbar^,^Show Target Cast Bar^
+^ui_gameoption_combatinfo_myfellowdamage^,^Show Familiar Damage^
+^ui_gameoption_combatoperate_commanddouble^,^Double-click Input Speed^
+^ui_gameoption_combatoperate_fast^,^Fast^
+^ui_gameoption_combatoperate_slow^,^Slow^
+^ui_gameoption_combatoperate_afterskillautoattack^,^Attack After Skill^
+^ui_gameoption_combatoperate_ridingfixedmouse^,^Lock Mount Camera^
+^ui_gameoption_community_speechbubble^,^Show Speech Bubbles^
+^ui_gameoption_community_partyinviterefusal^,^Reject Party Invites^
+^ui_gameoption_community_traderefusal^,^Reject Trade Requests^
+^ui_gameoption_community_guildinviterefusal^,^Reject Guild Invites^
+^ui_gameoption_community_combatrequestrefusal^,^Reject Duel Requests^
+^ui_gameoption_community_guildmemberalarm^,^Show Guild Login Alerts^
+^ui_gameoption_community_boardingapplyrefusal^,^Reject Familiar Mount Requests^
+^ui_gameoption_community_whisperrefusal^,^Block Whispers^
+^ui_gameoption_etc_mouseleftclickmove^,^Left-click to Move^
+^ui_gameoption_etc_bufftime^,^Show Effect Duration^
+^ui_gameoption_etc_gametip^,^Show Game Tips^
+^ui_gameoption_etc_gaugedisplay^,^Simple Bars^
+^ui_gameoption_etc_lootingautocursor^,^Loot Cursor^
+^ui_gameoption_etc_tamingalarm^,^Show Taming Alert^
+^ui_gameoption_etc_helmet^,^헬멧 표시^
+^ui_gameoption_etc_questtargetnpceffdisp^,^Show Quest NPC Marker^
+^ui_gameoption_etc_questtargetmonstereffdisp^,^Show Quest Monsters Marker^
+^ui_gameoption_etc_systemmsgdisp^,^Show System Messages^
+^ui_gameoption_extendquickslot_extendquickslot^,^Expanded Slots^
+^ui_gameoption_gauge_gaugedisplay^,^Show Detailed Gauge^
+^ui_gameoption_name_playername^,^Your Name^
+^ui_gameoption_name_partymembername^,^Party Member Names^
+^ui_gameoption_name_fellowname^,^Familiar Names^
+^ui_gameoption_name_otherplayername^,^Player Names^
+^ui_gameoption_name_npcname^,^NPC Names^
+^ui_gameoption_name_interactionobjname^,^Object Names^
+^ui_gameoption_name_monstername^,^Monster Names^
+^ui_gameoption_name_guildname^,^Show Affiliation/Guild Name^
+^ui_gameoption_name_petname^,^Show Animals/Small Creatures Names^
+^ui_gameoption_name_designationname^,^Show Titles^
+^ui_gameoption_statusbar_statusbarvalue^,^Show Values^
+^ui_gameoption_statusbar_statusbarnumber^,^Numbers^
+^ui_gameoption_statusbar_statusbarpercentage^,^Show Percentage^
+^ui_gameoption_statusbar_statusbarpercent^,^Percentages^
+^ui_gameoption_graphic_displaylimit_char^,^Characters^
+^ui_gameoption_graphic_displaylimit_charlimit^,^Hide Characters^
+^ui_gameoption_graphic_displaylimit_effect^,^VFX^
+^ui_gameoption_graphic_displaylimit_low^,^Low^
+^ui_gameoption_graphic_displaylimit_high^,^High^
+^ui_gameoption_graphic_displaylimit_effecttarget^,^Effect Display Target^
+^ui_gameoption_graphic_etc_frameonoff^,^Show FPS^
+^ui_gameoption_graphic_etc_vsynconoff^,^Vertical Sync^
+^ui_gameoption_graphic_etc_realtimeoptimization^,^Optimize^
+^ui_gameoption_graphic_etc_frame^,^Frame Rate^
+^ui_gameoption_graphic_etc_weatheronoff^,^Weather Effects^
+^ui_gameoption_graphic_higheffect_outfocusing^,^Outfocusing^
+^ui_gameoption_graphic_higheffect_hdr^,^HDR Volume^
+^ui_gameoption_graphic_higheffect_motion^,^Motion Blur^
+^ui_gameoption_graphic_higheffect_clarity^,^Detail^
+^ui_gameoption_graphic_higheffect_low^,^Low^
+^ui_gameoption_graphic_higheffect_high^,^High^
+^ui_gameoption_graphic_light_sunshaftseffect^,^Sunlight Effect^
+^ui_gameoption_graphic_light_lowlighting^,^Low-spec Lighting^
+^ui_gameoption_graphic_lod_land^,^Terrain^
+^ui_gameoption_graphic_lod_things^,^Objects^
+^ui_gameoption_graphic_lod_char^,^Characters^
+^ui_gameoption_graphic_lod_low^,^Low^
+^ui_gameoption_graphic_lod_hight^,^High^
+^ui_gameoption_graphic_quality_texture^,^Texture^
+^ui_gameoption_graphic_quality_shadow^,^Shadow^
+^ui_gameoption_graphic_quality_water^,^Water^
+^ui_gameoption_graphic_quality_shader^,^Shader^
+^ui_gameoption_graphic_quality_terrain^,^Terrain^
+^ui_gameoption_graphic_quality_effect^,^VFX^
+^ui_gameoption_graphic_quality_particle^,^Particles^
+^ui_gameoption_graphic_screensetting_screenmode^,^Screen Mode^
+^ui_gameoption_graphic_screensetting_resolution^,^Resolution^
+^ui_gameoption_graphic_screensetting_anti^,^Anti-aliasing^
+^ui_gameoption_graphic_screensetting_brightness^,^Brightness^
+^ui_gameoption_graphic_screensetting_dark^,^Darker^
+^ui_gameoption_graphic_screensetting_light^,^Brighter^
+^ui_gameoption_graphic_screensetting_directx^,^Direct X^
+^ui_gameoption_graphic_screensetting_x9^,^X 9^
+^ui_gameoption_graphic_screensetting_x11^,^X 11^
+^ui_gameoption_graphic_totalsetting_totalsetting^,^Presets^
+^ui_gameoption_graphic_totalsetting_low^,^Low^
+^ui_gameoption_graphic_totalsetting_high^,^High^
+^ui_gameoption_graphic_totalsetting_custom^,^Custom^
+^ui_gameoption_graphic_viewdst_char^,^Characters^
+^ui_gameoption_graphic_viewdst_things^,^Objects^
+^ui_gameoption_graphic_viewdst_background^,^View^
+^ui_gameoption_graphic_viewdst_glue^,^Grass^
+^ui_gameoption_graphic_viewdst_low^,^Low^
+^ui_gameoption_graphic_viewdst_high^,^High^
+^ui_gameoption_sound_totalsound^,^Master^
+^ui_gameoption_sound_bgm^,^Music^
+^ui_gameoption_sound_effectsound^,^SFX^
+^ui_gameoption_sound_environmentsound^,^Ambient^
+^ui_gameoption_sound_systemsound^,^System Sounds^
+^ui_gameoption_sound_backgroundsound^,^Play in Background^
+^ui_gameoption_sound_low^,^Low^
+^ui_gameoption_sound_high^,^High^
+^ui_gameoption_shortcut_basicquickslot_main^,^Primary Key^
+^ui_gameoption_shortcut_basicquickslot_sub^,^Secondary Key^
+^ui_gameoption_shortcut_basicquickslot_1^,^Basic Slot 1^
+^ui_gameoption_shortcut_basicquickslot_2^,^Basic Slot 2^
+^ui_gameoption_shortcut_basicquickslot_3^,^Basic Slot 3^
+^ui_gameoption_shortcut_basicquickslot_4^,^Basic Slot 4^
+^ui_gameoption_shortcut_basicquickslot_5^,^Basic Slot 5^
+^ui_gameoption_shortcut_basicquickslot_6^,^Basic Slot 6^
+^ui_gameoption_shortcut_basicquickslot_7^,^Basic Slot 7^
+^ui_gameoption_shortcut_basicquickslot_8^,^Basic Slot 8^
+^ui_gameoption_shortcut_basicquickslot_9^,^Basic Slot 9^
+^ui_gameoption_shortcut_basicquickslot_10^,^Basic Slot 10^
+^ui_gameoption_shortcut_basicquickslot_11^,^Basic Slot 11^
+^ui_gameoption_shortcut_basicquickslot_12^,^Basic Slot 12^
+^ui_gameoption_shortcut_combat_main^,^Primary Key^
+^ui_gameoption_shortcut_combat_sub^,^Secondary Key^
+^ui_gameoption_shortcut_combat_1^,^Toggle Combat Stance^
+^ui_gameoption_shortcut_combat_2^,^Target Nearest Ally^
+^ui_gameoption_shortcut_combat_3^,^Target Nearest Enemy^
+^ui_gameoption_shortcut_combat_4^,^Target Marked Enemy^
+^ui_gameoption_shortcut_combat_5^,^Target Ally's Target^
+^ui_gameoption_shortcut_combat_6^,^Recommended Skills^
+^ui_gameoption_shortcut_combat_7^,^Follow-up 1^
+^ui_gameoption_shortcut_combat_8^,^Follow-up 2^
+^ui_gameoption_shortcut_combat_9^,^Follow-up 3^
+^ui_gameoption_shortcut_combat_10^,^Follow-up 4^
+^ui_gameoption_shortcut_combat_11^,^Lock Camera on Mount^
+^ui_gameoption_shortcut_combat_12^,^Activate Skill^
+^ui_gameoption_shortcut_combat_13^,^Swap Mounted Weapon^
+^ui_gameoption_shortcut_etc_main^,^Primary Key^
+^ui_gameoption_shortcut_etc_sub^,^Secondary Key^
+^ui_gameoption_etc_combat_1^,^Toggle UI^
+^ui_gameoption_etc_combat_2^,^Hide Characters^
+^ui_gameoption_etc_combat_3^,^Whisper Reply^
+^ui_gameoption_shortcut_extendquickslot_main^,^Primary Key^
+^ui_gameoption_shortcut_extendquickslot_sub^,^Secondary Key^
+^ui_gameoption_shortcut_extendquickslot_1^,^Aux Quickslot 1^
+^ui_gameoption_shortcut_extendquickslot_2^,^Aux Quickslot 2^
+^ui_gameoption_shortcut_extendquickslot_3^,^Aux Quickslot 3^
+^ui_gameoption_shortcut_extendquickslot_4^,^Aux Quickslot 4^
+^ui_gameoption_shortcut_extendquickslot_5^,^Aux Quickslot 5^
+^ui_gameoption_shortcut_extendquickslot_6^,^Aux Quickslot 6^
+^ui_gameoption_shortcut_extendquickslot_7^,^Aux Quickslot 7^
+^ui_gameoption_shortcut_extendquickslot_8^,^Aux Quickslot 8^
+^ui_gameoption_shortcut_extendquickslot_9^,^Aux Quickslot 9^
+^ui_gameoption_shortcut_extendquickslot_10^,^Aux Quickslot 10^
+^ui_gameoption_shortcut_extendquickslot_11^,^Aux Quickslot 11^
+^ui_gameoption_shortcut_extendquickslot_12^,^Aux Quickslot 12^
+^ui_gameoption_shortcut_fellowlistquickslot_main^,^Primary Key^
+^ui_gameoption_shortcut_fellowlistquickslot_sub^,^Secondary Key^
+^ui_gameoption_shortcut_fellowlistquickslot_1^,^Summon Familiar 1^
+^ui_gameoption_shortcut_fellowlistquickslot_2^,^Summon Familiar 2^
+^ui_gameoption_shortcut_fellowlistquickslot_3^,^Summon Familiar 3^
+^ui_gameoption_shortcut_fellowlistquickslot_4^,^Summon Familiar 4^
+^ui_gameoption_shortcut_fellowlistquickslot_5^,^Summon Familiar 5^
+^ui_gameoption_shortcut_fellowlistquickslot_6^,^Summon Familiar 6^
+^ui_gameoption_shortcut_fellowlistquickslot_7^,^Summon Familiar 7^
+^ui_gameoption_shortcut_fellowlistquickslot_8^,^Summon Familiar 8^
+^ui_gameoption_shortcut_fellowlistquickslot_9^,^Summon Familiar 9^
+^ui_gameoption_shortcut_fellowlistquickslot_10^,^Summon Familiar 10^
+^ui_gameoption_shortcut_fellowquickslot_main^,^Primary Key^
+^ui_gameoption_shortcut_fellowquickslot_sub^,^Secondary Key^
+^ui_gameoption_shortcut_fellowquickslot_1^,^Toggle Mode^
+^ui_gameoption_shortcut_fellowquickslot_2^,^Follow^
+^ui_gameoption_shortcut_fellowquickslot_3^,^Move^
+^ui_gameoption_shortcut_fellowquickslot_4^,^Set Target^
+^ui_gameoption_shortcut_fellowquickslot_5^,^Familiar Quickslot 1^
+^ui_gameoption_shortcut_fellowquickslot_6^,^Familiar Quickslot 2^
+^ui_gameoption_shortcut_fellowquickslot_7^,^Familiar Quickslot 3^
+^ui_gameoption_shortcut_fellowquickslot_8^,^Familiar Quickslot 4^
+^ui_gameoption_shortcut_fellowquickslot_9^,^Familiar Quickslot 5^
+^ui_gameoption_shortcut_menu_main^,^Primary Key^
+^ui_gameoption_shortcut_menu_sub^,^Secondary Key^
+^ui_gameoption_shortcut_menu_1^,^Ellora's Shop^
+^ui_gameoption_shortcut_menu_2^,^Ellora's Storage^
+^ui_gameoption_shortcut_menu_3^,^Character Info^
+^ui_gameoption_shortcut_menu_4^,^Familiar Info^
+^ui_gameoption_shortcut_menu_5^,^Bestiary^
+^ui_gameoption_shortcut_menu_6^,^Skills^
+^ui_gameoption_shortcut_menu_7^,^Quest^
+^ui_gameoption_shortcut_menu_8^,^Inventory^
+^ui_gameoption_shortcut_menu_9^,^Actions^
+^ui_gameoption_shortcut_menu_10^,^Map^
+^ui_gameoption_shortcut_menu_11^,^Friends^
+^ui_gameoption_shortcut_menu_12^,^Party Board^
+^ui_gameoption_shortcut_menu_13^,^GM^
+^ui_gameoption_shortcut_menu_14^,^Guild^
+^ui_gameoption_shortcut_menu_15^,^Raid^
+^ui_gameoption_shortcut_menu_16^,^Help^
+^ui_gameoption_shortcut_menu_17^,^Game Options^
+^ui_gameoption_shortcut_menu_18^,^Craft^
+^ui_gameoption_shortcut_menu_19^,^Dungeon Finder^
+^ui_gameoption_shortcut_menu_20^,^Achievements^
+^ui_gameoption_shortcut_move_main^,^Primary Key^
+^ui_gameoption_shortcut_move_sub^,^Secondary Key^
+^ui_gameoption_shortcut_move_1^,^Move Forward^
+^ui_gameoption_shortcut_move_2^,^Move Back^
+^ui_gameoption_shortcut_move_3^,^Turn Left^
+^ui_gameoption_shortcut_move_4^,^Turn Right^
+^ui_gameoption_shortcut_move_5^,^Walk Left^
+^ui_gameoption_shortcut_move_6^,^Walk Right^
+^ui_gameoption_shortcut_move_7^,^Interact^
+^ui_gameoption_shortcut_move_8^,^Run/Walk^
+^ui_gameoption_shortcut_move_9^,^Auto-run^
+^ui_gameoption_shortcut_move_10^,^Sit/Stand^
+^ui_gameoption_shortcut_move_11^,^Jump^
+^ui_gameoption_shortcut_move_12^,^Flight Ascent^
+^ui_gameoption_shortcut_move_13^,^Flight Descent^
+^ui_gameoption_shortcut_move_14^,^Summon Familiar^
+^ui_gameoption_shortcut_party_main^,^Primary Key^
+^ui_gameoption_shortcut_party_sub^,^Secondary Key^
+^ui_gameoption_shortcut_party_1^,^Target Self^
+^ui_gameoption_shortcut_party_2^,^Target Party Member 1^
+^ui_gameoption_shortcut_party_3^,^Target Party Member 2^
+^ui_gameoption_shortcut_party_4^,^Target Party Member 3^
+^ui_gameoption_shortcut_party_5^,^Target Party Member 4^
+^ui_gameoption_shortcut_token_main^,^Primary Key^
+^ui_gameoption_shortcut_token_sub^,^Secondary Key^
+^ui_gameoption_shortcut_token_1^,^Clear Mark^
+^ui_gameoption_btndefault^,^Default^
+^ui_gameoption_btncheck^,^Confirm^
+^ui_gameoption_btnapply^,^Apply^
+^ui_gameoption_btncancel^,^Cancel^
+^ui_guild_title^,^Guild^
+^ui_guild_unit_name^,^Alliance Name^
+^ui_guild_unit_leader^,^Alliance Leader^
+^ui_guild_unit_number^,^Member Limit^
+^ui_guild_unit_grade^,^Level^
+^ui_guild_online^,^Online Only^
+^ui_guild_local_1^,^Members^
+^ui_guild_local_2^,^Level^
+^ui_guild_local_3^,^Announcements^
+^ui_guild_local_4^,^Edit^
+^ui_guild_local_5^,^Name^
+^ui_guild_local_6^,^Class^
+^ui_guild_local_7^,^Level^
+^ui_guild_local_8^,^Location^
+^ui_guild_local_9^,^Rank^
+^ui_guild_local_10^,^Name^
+^ui_guild_local_11^,^Level^
+^ui_guild_local_12^,^Type:^
+^ui_guild_local_13^,^Guild Members^
+^ui_guild_local_14^,^Name^
+^ui_guild_local_15^,^Class^
+^ui_guild_local_16^,^Level^
+^ui_guild_local_17^,^Guild Name^
+^ui_guild_local_18^,^Rank^
+^ui_guild_local_19^,^Online Only^
+^ui_guild_local_20^,^War Notification^
+^ui_guild_local_21^,^Change Alliance Name^
+^ui_guild_local_22^,^Invite Alliance^
+^ui_guild_local_23^,^Surrender^
+^ui_guild_local_24^,^Declare War^
+^ui_guild_local_25^,^Accept^
+^ui_guild_local_26^,^Decline^
+^ui_guild_local_27^,^War Guild^
+^ui_guild_local_28^,^War Enemy^
+^ui_guild_local_29^,^Dismiss Guild Leader^
+^ui_guild_local_30^,^Rank Setting^
+^ui_guild_local_31^,^Invite Guild^
+^ui_guild_local_32^,^Leave Guild^
+^ui_guild_create_popup_phrase^,^Do you want to create a guild?^
+^ui_guild_create_popup_default^,^Enter a guild name.^
+^ui_guild_create_popup_duplication^,^Verify^
+^ui_guild_create_popup_btncreate^,^Create^
+^ui_guild_create_popup_btncancel^,^Cancel^
+^ui_guild_create_popup_createcost^,^Creation Cost:^
+^ui_guild_invite_popup_phrase^,^Do you want to invite this player to your guild?^
+^ui_guild_invite_popup_default^,^Enter the ID.^
+^ui_guild_invite_popup_btninvite^,^Invite^
+^ui_guild_invite_popup_btncancel^,^Cancel^
+^ui_guild_manage_btncancel^,^Edit^
+^ui_guild_manage_local_1^,^Invite Guild Member^
+^ui_guild_manage_local_2^,^Kick out a Guild Member^
+^ui_guild_manage_local_3^,^Change Rank^
+^ui_guild_manage_local_4^,^Announcement Setting^
+^ui_guild_manage_local_5^,^Rank Setting^
+^ui_guild_manage_local_6^,^Emblem Setting^
+^ui_guild_manage_local_7^,^Store in Guild Storage^
+^ui_guild_manage_local_8^,^Use Guild Storage^
+^ui_guild_mark_title^,^Make Guild Emblem^
+^ui_guild_mark_subtitle^,^Select the guild emblem.^
+^ui_guild_mark_btnchange^,^Change^
+^ui_guild_mark_btncancel^,^Cancel^
+^ui_guild_markup_btncheck^,^Confirm^
+^ui_guild_markup_btncancel^,^Cancel^
+^ui_guild_markup_title^,^Register User Text^
+^ui_guild_rank_title^,^Create New Rank^
+^ui_guild_rank_default^,^Input Rank Name^
+^ui_guild_rank_btnclose^,^Close^
+^ui_guild_achievement_guild^,^War Guild^
+^ui_guild_achievement_target^,^War Enemy^
+^ui_guild_warkilldeath_situation^,^War Report^
+^ui_guild_warrecord_title^,^War Report^
+^ui_guild_warrecord_recently^,^Alliance War Result^
+^ui_guild_warrecord_present^,^Alliances at War^
+^ui_guild_warrecord_btnok^,^Confirm^
+^ui_guild_warrecord_defaulttext^,^No alliances are currently at war.^
+^ui_helptopic_title^,^Help^
+^ui_helptopic_hide^,^Hide help pop-ups^
+^ui_inventory_title^,^Inventory^
+^ui_auction_local_1^,^Market Goods^
+^ui_auction_local_2^,^Starting Price:^
+^ui_auction_local_3^,^Highest bid^
+^ui_auction_local_4^,^Successful bid^
+^ui_auction_local_5^,^2nd Highest Bid^
+^ui_auction_local_6^,^Your Bid^
+^ui_auction_local_7^,^Bid^
+^ui_auction_local_8^,^Forfeit^
+^ui_auction_local_9^,^1st Highest Bid^
+^ui_auction_local_10^,^3rd Highest Bid^
+^ui_auction_local_11^,^Highest Bid^
+^ui_auction_local_12^,^Bid Amount^
+^ui_auction_local_13^,^Amount in Possession^
+^ui_auction_popup_message^,^Is this the amount you want to bid at?^
+^ui_auction_popup_btnbid^,^Bid^
+^ui_auction_popup_btncancel^,^Cancel^
+^ui_itemdice_title^,^Roll^
+^ui_itemdice_btnok^,^Confirm^
+^ui_itemdice_btncancel^,^Forfeit^
+^ui_itemdistribution_title^,^Loot Rules^
+^ui_itemdistribution_freelooting^,^Free For All^
+^ui_itemdistribution_orderlooting^,^Round Robin^
+^ui_itemdistribution_appointlooting^,^Master Looter^
+^ui_itemdistribution_gradepriority^,^By Rarity^
+^ui_itemdistribution_application^,^Rarity:^
+^ui_itemdistribution_grade^,^and above^
+^ui_itemdistribution_way^,^Rules:^
+^ui_itemdistribution_jobdistribution^,^Need Before Greed^
+^ui_itemdistribution_btnclose^,^Close^
+^ui_itemdistribution_gradepriority_tooltip^,^If you distribute loot by rarity, you won't be able to pick up items through the loot window.^
+^ui_itemlist_btnclose^,^Close^
+^ui_production_btnweapon^,^Weapon Crafting^
+^ui_production_btnarmor^,^방어구^
+^ui_production_btnacc^,^Jewelry Crafting^
+^ui_production_btnfellow^,^Barder Crafting^
+^ui_production_btnalchemy^,^Alchemy^
+^ui_production_btncook^,^Cooking^
+^ui_production_masteritem^,^Mastered^
+^ui_production_facilities^,^Required:^
+^ui_production_successprob^,^Success:^
+^ui_production_listview^,^Have Materials^
+^ui_production_normaldouble^,^Use Double^
+^ui_production_critical^,^Triumphant Crafting^
+^ui_production_product^,^Craft^
+^ui_production_allproduct^,^Craft All^
+^ui_reinforce_msg^,^Do you want to enhance !Item Name!?^
+^ui_reinforce_btnok^,^Confirm^
+^ui_reinforce_btncancel^,^Cancel^
+^ui_itemsynthesis_title^,^Seal Boost^
+^ui_itemsynthesis_grant^,^Apply^
+^ui_itemsynthesis_change^,^Change^
+^ui_lobbycharactercreate_difficulty^,^About^
+^ui_lobbycharactercreate_propensity^,^Playstyle^
+^ui_lobbycharactercreate_str^,^STR^
+^ui_lobbycharactercreate_dex^,^DEX^
+^ui_lobbycharactercreate_vtl^,^CON^
+^ui_lobbycharactercreate_int^,^INT^
+^ui_lobbycharactercreate_mtl^,^WIL^
+^ui_lobbycustomize_name^,^Name^
+^ui_lobbycustomize_namedefault^,^Enter a name for your character.^
+^ui_lobbycustomize_namecheck^,^Verify^
+^ui_lobbycustomize_random^,^무작위 설정 범위^
+^ui_lobbycustomize_btnrandom^,^무작위^
+^ui_lobbycustomize_decorate_color^,^Color^
+^ui_lobbycustomize_decorate_light^,^Brightness^
+^ui_lobbycustomize_hair_color^,^Color^
+^ui_lobbycustomize_hair_light^,^Brightness^
+^ui_lobbysystemmenu_close^,^Exit Game^
+^ui_lobbysystemmenu_select^,^Character Select^
+^ui_lobbysystemmenu_option^,^Settings^
+^ui_lobbysystemmenu_grade^,^Game Rating^
+^ui_lobbysystemmenu_cancel^,^Close^
+^ui_looting_title^,^Loot^
+^ui_maillist_listtitle^,^Recent list^
+^ui_maillist_fee^,^Mail Fee^
+^ui_maillist_sendmail^,^Send^
+^ui_maillist_rewrite^,^Discard^
+^ui_maillist_delete^,^Delete^
+^ui_msgbox_title^,^Message Box^
+^ui_msgbox_btnok^,^Confirm^
+^ui_msgbox_btncancel^,^Cancel^
+^ui_msgbox_useruby^,^Cost:^
+^ui_msgbox_autocheck_btnok^,^Confirm^
+^ui_msgbox_autosend_btnok^,^Confirm^
+^ui_msgbox_autosend_btncancel^,^Cancel^
+^ui_msgbox_deletechar_btnok^,^Confirm^
+^ui_msgbox_deletechar_btncancel^,^Cancel^
+^ui_msgbox_shouting_btnok^,^Confirm^
+^ui_msgbox_shouting_btncancel^,^Cancel^
+^ui_msgbox_shouting_defaultmsg^,^Please enter wHat you want to shout out.^
+^ui_msgbox_textonly_title^,^Connecting^
+^ui_npcportal_title^,^Transit Shrines^
+^ui_questalarm_edittitle^,^Quest Helper^
+^ui_questlimittime_edittitle^,^Quest Timer^
+^ui_questlist_btnallclose^,^Close All^
+^ui_questlistitem_btn_sharing^,^Share quest^
+^ui_questlistitem_btn_siteview^,^See Location^
+^ui_questlistitem_btn_giveup^,^Forfeit Quest^
+^ui_questunit_btnok^,^Confirm^
+^ui_questunit_btncancel^,^Cancel^
+^ui_quickslot_alarm_edittitle^,^Alerts^
+^ui_quickslot_fellow_edittitle^,^Familiar Skills^
+^ui_randombox_btnok^,^확인^
+^ui_randombox_btncancel^,^취소^
+^ui_reinforcefellow_title^,^Familiar TempeRing^
+^ui_reinforcefellow_btnok^,^TempeRing^
+^ui_secondpassword_local_1^,^Set secondary password^
+^ui_secondpassword_local_2^,^Enter 4 digit number^
+^ui_secondpassword_local_3^,^re-enter the 4 digit number^
+^ui_secondpassword_btnok^,^OK^
+^ui_secondpassword_btncancel^,^Cancel^
+^ui_shop_title^,^Shop^
+^ui_skill_title^,^Skills^
+^ui_soultalentsinit_btnok^,^Confirm^
+^ui_soultalentsinit_btncancel^,^Cancel^
+^ui_soultalentspopup_local_1^,^Current Talent Power^
+^ui_soultalentspopup_local_2^,^Required Talent Power^
+^ui_soultalentspopup_local_3^,^Remaining Talent Power^
+^ui_soultalentspopup_btnok^,^Confirm^
+^ui_splititem_defaulttext^,^Select quantity.^
+^ui_splititem_btnok^,^Confirm^
+^ui_splititem_btncancel^,^Cancel^
+^ui_systemmenu_local_1^,^Exit Game^
+^ui_systemmenu_local_2^,^Character Select^
+^ui_systemmenu_local_3^,^Settings^
+^ui_systemmenu_local_4^,^Game Rating^
+^ui_systemmenu_local_5^,^Close^
+^ui_tamingbar_succes^,^Success^
+^ui_tamingbar_fail^,^Failed^
+^ui_tamingmgame_succes^,^Success^
+^ui_tamingmgame_fail^,^Fail^
+^ui_trade_change^,^Change Goods^
+^ui_trade_tradeok^,^Complete Trade^
+^ui_vitality_edittext^,^Vitality Gauge^
+^ui_worldmap_btn_totalmap^,^World Map^
+^ui_gameoption_etc_style2^,^Show Shoulder Accessory^
+^ui_tooltip_set_style2view^,^Displays your equipped Shoulder accessory.^
+^ui_label_dungeoncount^,^Entries^
+^ui_label_dungeonreenter^,^Wait Time^
+^ui_label_dungeonenter^,^Status^
+^ui_label_dungeongd^,^Level^
+^ui_lobbycharselector_btn_gamestart^,^Start Game^
+^ui_area_fellowcollection^,^Regional^
+^ui_fellowcollection_mission^,^Collections^
+^ui_fellowcollection_allarea^,^All Regions^
+^ui_fellowgrow_ready_pcslot^,^You can raise your familiar to max level for a fee.<br>The following amount will be deducted when you retrieve your familiar.^
+^ui_fellowgrow_ready_gold^,^You can raise your familiar to max level for a fee.<br>The following amount will be deducted when you retrieve your familiar.^
+^ui_fellowgrow_finish_pcslot^,^Do you want to retrieve them?<br>The following cost will be deducted.^
+^ui_fellowgrow_finish_gold^,^Do you want to retrieve them?<br>The following cost will be deducted.^
+^ui_level^,^Level^
+^ui_type^,^Type:^
+^ui_ground^,^Land^
+^ui_btn_mailwrite_friendlist^,^Friends^
+^near_player_weapon^,^Weapon^
+^near_player_sub^,^Secondary^
+^near_player_crossbow^,^Crossbow^
+^lance^,^Lance^
+^near_player_shoulder^,^Shoulder^
+^ring2^,^Ring^
+^ui_characterinfo_label_basic_info^,^Attributes^
+^equipment^,^Equipment^
+^stat^,^Stats^
+^bracelet^,^Bracelet^
+^ui_label_achievements_none^,^There are no recent achievements.^
+^ui_title_charactercreate^,^Create Character^
+^ui_title_charactercustomize^,^Character Customization^
+^ui_title_characterselect^,^Character selection^
+^ui_gameoption_combatoperate_continueskill^,^Auto-combo Mode^
+^ui_tooltip_set_autoclick^,^When checked, hold down the skill key to automatically use combo skills and skills tHat don't have cooldowns. May be slower than manually using these skills.^
+^ui_charinfo_title_use^,^No title in use.^
+^ui_charinfo_title_select^,^No selected title.^
+^ui_area_p02_p_0001^,^Freemen Village^
+^ui_area_p02_p_0002^,^Trigg's Pub^
+^quick_observe^,^Inspect^
+^ability^,^Attributes^
+^getitemrulemythic^,^Legendary+^
+^mythic^,^Legendary+^
+^ui_detailarea^,^Home^
+^ui_itemdistribution_mythic^,^Legendary+^
+^ui_fellowgrow_finish_rubygold^,^Do you want to retrieve your familiar?<br>You can retrieve gold, elluns, or familiars.^
+^ui_fellowgrow_rubybtn^,^Retrieve Ellun^
+^ui_fellowgrow_goldbtn^,^Retrieve Gold^
+^ui_fellowgrow^,^Familiar FosteRing^
+^ui_fellowgrow_complete_desc^,^Level-up is complete.^
+^ui_fellowgrow_complete_btn^,^Retrieve^
+^ui_fellowgrow_pause^,^Level-up has stopped because your character has reached its max level.^
+^ui_fellowgrow_cancel_btn^,^Retrieve^
+^shop_tab_armor^,^방어구^
+^shop_tab_material_disabled^,^Consumable Material^
+^shop_tab_fellow_consume^,^Magic Tool^
+^shop_tab_consume_normal^,^Consumable^
+^shop_tab_weapon_class^,^Weapons^
+^shop_tab_armor_heavy^,^Heavy armor^
+^shop_tab_armor_light^,^Light armor^
+^shop_tab_armor_robe^,^Robe^
+^shop_tab_sub^,^Off-hand Gear^
+^shop_tab_consume_misc^,^General Goods^
+^shop_tab_consume_potion^,^Potions^
+^shop_tab_weapon_fellow^,^Active mounted weapon^
+^shop_tab_consume_food^,^Food^
+^shop_tab_quest^,^Quest^
+^shop_tab_box^,^Random Box^
+^shop_tab_accessory^,^Jewelry^
+^shop_tab_recipe^,^Recipe^
+^shop_tab_exchange_gold^,^Exchange Gold^
+^shop_tab_package^,^Special^
+^shop_tab_exchange_songpyeon^,^Half Moon Cake^
+^shop_tab_costume^,^Appearance^
+^shop_tab_exchange_pumpkincandy^,^Pumpkin Candy^
+^shop_tab_event^,^Event^
+^shop_tab_box_guardian^,^Guardian^
+^shop_tab_box_berserker^,^Berserker^
+^shop_tab_box_assassin^,^Assassin^
+^shop_tab_box_wizzard^,^Wizard^
+^shop_tab_box_priest^,^Priest^
+^shop_tab_material_gather^,^Raw Material^
+^shop_tab_material_production^,^Processed Material^
+^shop_tab_consume_rubybox^,^Ellun Box^
+^shop_tab_consume_attributionclear^,^Unbind^
+^shop_tab_consume_fellowextraction^,^Extract Seal^
+^shop_tab_consume_fellowoption^,^Changing Seal Stones^
+^shop_tab_consume_summonbox^,^Summoning Box^
+^shop_tab_consume_santasocks^,^Santa Stockings^
+^shop_tab_recipe_jewel^,^Gem Recipe^
+^shop_tab_box_fellow^,^Familiars^
+^shop_tab_box_class^,^Class^
+^shop_tab_exchange_silver^,^Exchange Silver^
+^shop_tab_consume_elementalstone^,^Attribute Stone^
+^shop_tab_consume_pvppotion^,^Divine Potion^
+^shop_tab_fellow_equip^,^Familiar Equipment^
+^ui_label_nearinfo_type^,^Type^
+^ui_label_nearinfo_level^,^Level^
+^ui_label_nearinfo_itemname^,^Name^
+^ui_label_nearinfo_grade^,^Level^
+^ui_label_nearinfo_fellow^,^Familiars^
+^ui_label_nearinfo_gem^,^Gem Info^
+^ui_quickslot_edittitle^,^Quickslots^
+^ui_playerinfo_edittitle^,^Player Info^
+^ui_targetinfo_edittitle^,^Target Info^
+^ui_partyinfo_edittitle^,^Party Member List^
+^ui_playerbufflist_edittitle^,^Player Buff List^
+^ui_gamemenu_edittitle^,^Game Menus^
+^ui_castingbar_edittitle^,^Cast Bars^
+^ui_fellowinfo_edittitle^,^Familiar Status Bar^
+^ui_expbar_edittitle^,^Experience Bar^
+^ui_hudedit_btn_init^,^Reset^
+^ui_hudedit_btn_apply^,^Apply^
+^ui_hudedit_btn_cancle^,^Cancel^
+^ui_hudedit_title^,^Edit UI Mode^
+^ui_collection_mission_achieve^,^Completion Collection^
+^ui_collection_area_achieve^,^Regional Collections Completed^
+^ui_mailread_reply^,^Reply^
+^ui_mailread_ok^,^Confirm^
+^ui_mailread_alllooting^,^Loot All^
+^ui_lobbycharactercreate_classname^,^Class Name^
+^ui_fellowinfo_characteristic_offence^,^Offense^
+^ui_fellowinfo_characteristic_defence^,^Defense^
+^ui_fellowinfo_characteristic_heal^,^Healing^
+^ui_fellowinfo_characteristic_mobility^,^Movement^
+^ui_fellowinfo_characteristic_magic^,^Magic^
+^ui_lobby_customize_basic^,^Overall^
+^ui_lobby_customize_face^,^Face^
+^ui_lobby_customize_detail^,^Custom^
+^ui_npctalk_btn_return^,^Back^
+^ui_npctalk_btn_apply^,^Confirm^
+^ui_actionlist_btn_close^,^Close^
+^ui_fellowinfo_tooltip_minimize^,^Minimize^
+^ui_fellowinfo_tooltip_maxmize^,^Maximize^
+^ui_auction_sort_weapon^,^Weapons^
+^ui_auction_sort_armor^,^방어구^
+^ui_auction_sort_amul^,^Jewelry^
+^ui_auction_sort_cos^,^Appearance^
+^ui_auction_sort_fellow^,^Familiars^
+^ui_auction_sort_consum^,^Consumable^
+^ui_auction_sort_item^,^General Goods^
+^ui_auction_sort_material^,^Material^
+^ui_auction_sort_recipe^,^Recipe^
+^ui_auction_sort_s1^,^Sword^
+^ui_auction_sort_s2^,^GreatSword^
+^ui_auction_sort_d1^,^Dagger^
+^ui_auction_sort_m1^,^Scepter^
+^ui_auction_sort_m2^,^Staff^
+^ui_auction_sort_l2^,^Spear^
+^ui_auction_sort_c2^,^Crossbow^
+^ui_auction_sort_pl^,^Heavy Armor^
+^ui_auction_sort_le^,^Light Armor^
+^ui_auction_sort_cl^,^Robe^
+^ui_auction_sort_sub^,^Secondary^
+^ui_auction_sort_neck^,^Necklace^
+^ui_auction_sort_ring^,^Ring^
+^ui_auction_sort_bra^,^Bracelet^
+^ui_auction_sort_gem^,^Gem^
+^ui_auction_sort_dress^,^Outfit^
+^ui_auction_sort_claw^,^Claws^
+^ui_auction_sort_saddle^,^Saddles^
+^ui_auction_sort_soulstone^,^Soul Stones^
+^ui_auction_sort_changepaper^,^Change Scroll^
+^ui_auction_sort_sealstone^,^Familiar Seal Stone^
+^ui_auction_sort_sealfellow^,^Seal Familiar^
+^ui_auction_sort_token^,^Taming Mark^
+^ui_auction_sort_tokenmaterial^,^Mark Material^
+^ui_auction_sort_pet^,^Pets^
+^ui_auction_sort_potion^,^Potions^
+^ui_auction_sort_food^,^Food^
+^ui_auction_sort_band^,^Bandage^
+^ui_auction_sort_order^,^Scrolls^
+^ui_auction_sort_etc^,^Other^
+^ui_auction_sort_reinforce^,^Enhancement Stone^
+^ui_auction_sort_bag^,^Inventory^
+^ui_auction_sort_pack^,^Special^
+^ui_auction_sort_skillbook^,^Skill Books^
+^ui_auction_sort_fellowbook^,^Bestiary^
+^ui_auction_sort_mstone^,^Ore^
+^ui_auction_sort_mgem^,^Jewelry^
+^ui_auction_sort_mgrass^,^Herbs^
+^ui_auction_sort_mdark^,^Manastone^
+^ui_auction_sort_mcloth^,^Cloth^
+^ui_auction_sort_mmeet^,^Meat^
+^ui_auction_sort_msoul^,^Spirit Remains^
+^ui_auction_sort_metc^,^Other^
+^ui_auction_sort_rweapon^,^Weapons^
+^ui_auction_sort_rarmor^,^Armor^
+^ui_auction_sort_ramul^,^Jewelry^
+^ui_auction_sort_rfellow^,^Barder Crafting^
+^ui_auction_sort_rpotion^,^Alchemy^
+^ui_auction_sort_rfood^,^Cooking^
+^ui_auction_sort_pl1^,^Helm^
+^ui_auction_sort_pl2^,^Shoulders^
+^ui_auction_sort_pl3^,^Armor^
+^ui_auction_sort_pl4^,^Gloves^
+^ui_auction_sort_pl5^,^Shoes^
+^ui_auction_sort_le1^,^Helm^
+^ui_auction_sort_le2^,^Shoulders^
+^ui_auction_sort_le3^,^Armor^
+^ui_auction_sort_le4^,^Gloves^
+^ui_auction_sort_le5^,^Shoes^
+^ui_auction_sort_cl1^,^Helm^
+^ui_auction_sort_cl2^,^Shoulders^
+^ui_auction_sort_cl3^,^Armor^
+^ui_auction_sort_cl4^,^Gloves^
+^ui_auction_sort_cl5^,^Shoes^
+^ui_auction_sort_sh^,^Shield^
+^ui_auction_sort_ar^,^Crest^
+^ui_auction_sort_hp^,^Recover HP^
+^ui_auction_sort_mp^,^Recover MP^
+^ui_auction_sort_str^,^Increase Strength^
+^ui_auction_sort_dex^,^Increase Dexterity^
+^ui_auction_sort_int^,^Increase Intelligence^
+^ui_auction_sort_vtl^,^Increase Constitution^
+^ui_auction_sort_mtl^,^Increase Willpower^
+^ui_auction_sort_phy^,^Increase Combat Power^
+^ui_auction_sort_mag^,^Increase Spell Power^
+^ui_auction_sort_ene^,^Recover Stamina^
+^ui_auction_sort_sp^,^Special Potion^
+^ui_auction_sort_rechp^,^Recover HP^
+^ui_auction_sort_recmp^,^Recover MP^
+^ui_worldmap_continent^,^Middelas^
+^ui_attackbattalion_btn_invite^,^Invite^
+^ui_attackbattalion_btn_ready^,^Ready^
+^showinfo^,^Details^
+^ui_npcportal_worldmap^,^World Map^
+^ui_gameoption_shortcut_basicquickslot_13^,^Quickslot 13^
+^ui_gameoption_shortcut_basicquickslot_14^,^Quickslot 14^
+^ui_gameoption_shortcut_basicquickslot_15^,^Quickslot 15^
+^ui_gameoption_shortcut_basicquickslot_16^,^Quickslot 16^
+^ui_gameoption_shortcut_basicquickslot_17^,^Quickslot 17^
+^ui_gameoption_shortcut_basicquickslot_18^,^Quickslot 18^
+^ui_gameoption_shortcut_basicquickslot_19^,^Quickslot 19^
+^ui_gameoption_shortcut_basicquickslot_20^,^Quickslot 20^
+^ui_gameoption_shortcut_basicquickslot_21^,^Quickslot 21^
+^ui_gameoption_shortcut_basicquickslot_22^,^Quickslot 22^
+^ui_gameoption_shortcut_basicquickslot_23^,^Quickslot 23^
+^ui_gameoption_shortcut_basicquickslot_24^,^Quickslot 24^
+^ui_synthesis_tradewarning^,^Equip a untradable seal stone and it cannot be traded.^
+^move^,^Move^
+^selectchannel^,^Selected Channel^
+^ui_playtip_edittitle^,^Game Tips^
+^ui_systemmsg_edittitle^,^System Messages^
+^ui_collection_area_achieve_all^,^Regional^
+^shortcut_exquickslot2_0^,^Expanded Slot 1^
+^shortcut_exquickslot2_0_sub^,^Expanded Slot 1 (Secondary)^
+^shortcut_exquickslot2_1^,^Expanded Slot 2^
+^shortcut_exquickslot2_1_sub^,^Expanded Slot 2 (Secondary)^
+^shortcut_exquickslot2_2^,^Expanded Slot 3^
+^shortcut_exquickslot2_2_sub^,^Expanded Slot 3 (Secondary)^
+^shortcut_exquickslot2_3^,^Expanded Slot 4^
+^shortcut_exquickslot2_3_sub^,^Expanded Slot 4 (Secondary)^
+^shortcut_exquickslot2_4^,^Expanded Slot 5^
+^shortcut_exquickslot2_4_sub^,^Expanded Slot 5 (Secondary)^
+^shortcut_exquickslot2_5^,^Expanded Slot 6^
+^shortcut_exquickslot2_5_sub^,^Expanded Slot 6 (Secondary)^
+^shortcut_exquickslot2_6^,^Expanded Slot 7^
+^shortcut_exquickslot2_6_sub^,^Expanded Slot 7 (Secondary)^
+^shortcut_exquickslot2_7^,^Expanded Slot 8^
+^shortcut_exquickslot2_7_sub^,^Expanded Slot 8 (Secondary)^
+^shortcut_exquickslot2_8^,^Expanded Slot 9^
+^shortcut_exquickslot2_8_sub^,^Expanded Slot 9 (Secondary)^
+^shortcut_exquickslot2_9^,^Expanded Slot 10^
+^shortcut_exquickslot2_9_sub^,^Expanded Slot 10 (Secondary)^
+^shortcut_exquickslot2_10^,^Expanded Slot 11^
+^shortcut_exquickslot2_10_sub^,^Expanded Slot 11 (Secondary)^
+^shortcut_exquickslot2_11^,^Expanded Slot 12^
+^shortcut_exquickslot2_11_sub^,^Expanded Slot 12 (Secondary)^
+^ui_reinforce_successrate_verylow^,^Very Low^
+^ui_reinforce_successrate_veryhigh^,^Very High^
+^shop_tab_fellow_shard^,^Familiar Fragment^
+^ui_item_acc_rate_title^,^Success^
+^ui_acc_slot_successrate_very_low^,^Very Low^
+^ui_acc_slot_successrate_low^,^Low^
+^ui_acc_slot_successrate_middle^,^Normal^
+^ui_acc_slot_successrate_high^,^High^
+^ui_acc_slot_successrate_very_high^,^Very High^
+^ui_title_acc_rate^,^Equip Socket^
+^ui_la_txtserver^,^Server^
+^ui_la_txtlocalpc^,^My Computer^
+^ui_la_slotname^,^Appearance^
+^ui_la_savemode^,^Save^
+^ui_la_loadmode^,^Load Preset^
+^ui_reinforce_drop_warning^,^Caution: Failing may degrade the item's tempeRing by 1 level.^
+^ui_btn_cashshop_refresh^,^Refresh^
+^ui_title_acc_gemslot^,^Accessory Gem Slot^
+^ui_title_extract_acc_gem^,^Extract Gem^
+^ui_lobbycustomize_label_eye_shape^,^Pupil Shape^
+^ui_lobbycustomize_label_eye_color^,^Iris Color^
+^ui_lobbycustomize_label_albumin_color^,^Scelera Color^
+^ui_lobbycustomize_label_lip_shape^,^Lip Shape^
+^ui_lobbycustomize_label_lip_color^,^Lip Color^
+^ui_area_f07_p_1001^,^Ronua Campground^
+^ui_area_f07_p_1002^,^Dragon Knight Camp^
+^ui_area_f07_p_1003^,^Elgaden^
+^ui_area_f07_p_1004^,^Eleeno Forest^
+^ui_area_f07_p_1005^,^Elf of Light Camp^
+^ui_area_f17_p_1001^,^Razor Canyon Cliffs^
+^ui_area_f17_p_1002^,^El Dor Town^
+^ui_gamemenu_fellow^,^Familiars^
+^dungeon_grade_event^,^Special^
+^ui_cashshop_listdesc_event^,^This is an event shop.^
+^ui_la_slotname_empty^,^You have no saved appearances.^
+^ui_fellowgrow_useboostitem^,^Growth boosters cannot be canceled or retrieved once used.^
+^ui_growboost_slot^,^Growth Booster Slot^
+^ui_grow_maxlvtime^,^Time Before Max Level^
+^ui_grow_lvtooltip^,^<R_Y>A familiar's max level is tied to your current level.</R_Y>^
+^ui_rbox_more^,^Open More^
+^ui_rbox_more_msg^,^Would you like to open another box?^
+^ui_la_slotname_oldversion^,^This file is an older version.^
+^ui_la_slotname_normal^,^Character Creation^
+^ui_la_slotname_extension^,^Character Customization^
+^shortcut_ui_toggle_fellowcollection^,^Bestiary^
+^shortcut_ui_toggle_fellowcollection_sub^,^Bestiary (Secondary)^
+^ui_restore_deletetime^,^To Be Deleted^
+^ui_la_slotname_enable^,^Available^
+^ui_randombox^,^종료^
+^ui_rbox_close_msg^,^Do you want to close this window?^
+^ui_grow_pay^,^Accumulated^
+^shop_tab_recipe_boost^,^Booster Recipe^
+^ui_tootip_gem^,^Gem^
+^ui_chatoption_namedefault^,^Enter a new tab name.^
+^ui_chatoption_tabname^,^Tabname^
+^shop_tab_fellow_shard_cash^,^Cash Pet Fragment^
+^randombox_default^,^randombox in use^
+^randombox_casting^,^Evaluating item^
+^reinforcestone_rand^,^TempeRing Items^
+^ui_dungeonlevel_title^,^Select Difficulty^
+^dungeonlevel_select_dod^,^Stage^
+^dungeonlevel_monster_dod^,^Monster^
+^dungeonlevel_itemdroprate_dod^,^Drop Rate^
+^ui_veryeasy^,^Very Easy^
+^ui_easy^,^Easy^
+^ui_normal^,^Normal^
+^ui_hard^,^Hard^
+^ui_veryhard^,^Very Hard^
+^ui_dungeongradestep_10^,^Elite Stage 1^
+^ui_dungeongradestep_11^,^Elite Stage 2^
+^ui_dungeongradestep_12^,^Elite Stage 3^
+^ui_dungeongradestep_13^,^Elite Stage 4^
+^ui_dungeongradestep_14^,^Elite Stage 5^
+^ui_dungeongradestep_20^,^Heroic Stage 1^
+^ui_dungeongradestep_21^,^Heroic Stage 2^
+^ui_dungeongradestep_22^,^Heroic Stage 3^
+^ui_dungeongradestep_23^,^Heroic Stage 4^
+^ui_dungeongradestep_24^,^Heroic Stage 5^
+^ui_dungeongradestep_30^,^Legendary Stage 1^
+^ui_dungeongradestep_31^,^Legendary Stage 2^
+^ui_dungeongradestep_32^,^Legendary Stage 3^
+^ui_dungeongradestep_33^,^Legendary Stage 4^
+^ui_dungeongradestep_34^,^Legendary Stage 5^
+^dungeonlevel_creation^,^Create^
+^ui_timesale_close^,^The event shop has closed.^
+^auctionalarm_cancelcount^,^item(s) have expired.^
+^ui_drop_veryeasy^,^None^
+^ui_drop_easy^,^    x1^
+^ui_drop_normal^,^    x1,4^
+^ui_drop_hard^,^    x2^
+^ui_drop_veryhard^,^    Special^
+^dungeon_grade_challenge^,^Ellora's Spire^
+^shop_tab_cash_misc^,^Cash Goods^
+^ui_tooltip_cousume_action^,^Can be used when a special costume is equipped^
+^ui_gameoption_graphic_uieffectlevel^,^UI Quality^
+^ui_tooltip_set_uieffectlevel^,^Increases the resolution for UI elements. Higher settings will favor graphics over performance.^
+^ui_goout^,^Exit^
+^ui_infinitetower_point_aquire^,^Earn Points^
+^ui_infiniteresult_timetitle^,^Time Remaining^
+^ui_infiniteresult_monstertitle^,^Kill Monsters^
+^ui_infiniteresult_totaltitle^,^Final Points^
+^ui_infiniteresult_result^,^Game Results^
+^ui_title_infinitetower_requestexit^,^Transit Shrine^
+^ui_infinitetower_requestexit_msg^,^Do you wish to forfeit?^
+^ui_infinitetower_stageclear_fail^,^You will only be scored for time when you clear Ellora's Spire.^
+^ui_gameoption_camera_height^,^Camera Height^
+^ui_tooltip_set_cameraheight^,^Adjusts the height of your camera in relation to your character.^
+^ui_forgive^,^Forfeit^
+^ui_gamemenu_infinitetower^,^Ellora's Spire Ranking^
+^ui_infinitetower_title^,^Ellora's Spire Ranking^
+^ui_ranking^,^Ranking^
+^ui_week_score^,^Weekly Score^
+^ui_clear_floor^,^Highest Floor Cleared^
+^ui_week_ranking_reward^,^Weekly Ranking Rewards^
+^ui_thisweek_ranking^,^Current Week Ranking^
+^ui_lastweek_ranking^,^Last Week Ranking^
+^ui_guild^,^Guild^
+^ui_playername^,^Character Name^
+^ui_ranking_place^,^Rank^
+^ui_ranking_less^,^or below^
+^ui_infinitetower_noresult^,^No results. Only displays top 100 of each class.^
+^ui_gameoption_shortcut_menu_21^,^Ellora's Spire Ranking^
+^ui_achievements_tower^,^Ellora's Spire^
+^dungeon_grade_eventpc^,^#VALUE!^
+^ui_infinite_ranking_rank^,^The rankings will renew everyday at 4AM.^
+^ui_infinite_ranking_clear_floor^,^The cleaRing standard is eliminating the key monsters.^
+^ui_infinite_ranking_rank_init^,^The weekly rankings will reset every Monday at 4am when rewards are distributed.^
+^ui_ranking_kor^,^Ranking^
+^growthtype^,^Growth Type^
+^ui_title_change_soultalents^,^Changing Talents^
+^ui_cashshop_amount^,^Remaining^
+^ui_ci_hscale^,^Proportions^
+^ui_title_carve^,^Check Engraving^
+^ui_delcarvelimittimeitemlist_help^,^Engraving Expiration^
+^ui_delcarvelimittimeitemlist_btncheck^,^Confirm^
+^ui_title_delcarvelimittimeitem^,^Engraving Expiration List^
+^ui_booster_inventory^,^Booster Bag^
+^ui_dailyachievement_reset^,^Time Before Reset^
+^ui_achievements_zdaily^,^Repeatable^
+^ui_infinitetower_noresult2^,^No Results^
+^ui_fellowcollection_maxlv^,^Leveling Rewards^
+^ui_dungeon_limit_time^,^Time^
+^ui_logout_title_disconnect_relobby^,^Network Error^
+^ui_logout_disconnect_relobby^,^Reconnect^
+^ui_title_netfalure_relobby^,^Network Error^
+^ui_title_chattaboption_color^,^Color settings^
+^dungeon_grade_master^,^Master^
+^ui_tooltip_gem^,^Gem^
+^ui_player_gauge_cp^,^Skills consume arcane energy, recover your arcane energy by using your Gauntlets Battle Skills.^
+^ui_auction_sort_b1^,^Shortbow^
+^ui_auction_sort_ga^,^Gauntlets^
+^lobby_createranger_btn^,^Create Ranger^
+^ui_rangerpromotion_time^,^Ranger Promotion^
+^shop_tab_box_ranger^,^Ranger^
+^ui_overrise_title^,^Transcending^
+^ui_overrise^,^Transcend^
+^ui_overrise_level^,^Transcendence^
+^ui_overrise_precess^,^Progress^
+^ui_overrise_result^,^Result^
+^ui_overrise_desc0^,^When you click the button, you can check the results^
+^ui_overrise_desc1^,^When progress button is clicked, the transcendence is processed.^
+^ui_overrise_target^,^Target^
+^ui_overrise_extra^,^Transcendence Material^
+^ui_overrise_msgbox_msg0^,^This item is used to transcend the material.^
+^ui_overrise_msgbox_msg1^,^The item will be used to strengthen materials.^
+^ui_overrise_msgbox_msg2^,^This item is used as a seal mounting material.^
+^ui_overrise_msgbox_msg3^,^Are you sure you want to proceed with the Transcendence?^
+^ui_overrrise^,^Transcend^
+^ui_achievements_1daily^,^Daily^
+^ui_achievements_2weekly^,^Weekly^
+^ui_achievements_3monthly^,^Monthly^
+^ui_collection_mission_point^,^Points achieved^
+^ui_collection_resetpoint^,^Points needed to reset^
+^ui_collection_requestitem^,^Items needed^
+^ui_msgbox_mission_reset^,^Would you like to reset this special collection?^
+^ui_buy_costume^,^Purchase^
+^ui_change_costume^,^Change^
+^ui_cancel_costume^,^Cancel^
+^ui_costume_initequip^,^Default^
+^ui_title_fellow_costume^,^Familiar Skins^
+^ui_achievements_datedesc_2weekly^,^Resets Mondays at 4am.^
+^ui_achievements_datedesc_3monthly^,^Resets on the first at 4am.^
+^ui_collection_resettime^,^Reset Cooltime^
+^ui_questlistitem_rubybtn^,^Instant Complete^
+^ui_fellowlist_costume^,^Familiar Skins^
+^ui_title_buy_fellow_costume^,^Purchase Familiar Skin^
+^ui_title_change_fellow_costume^,^Change Familiar Skin^
+^ui_collection_resetlock^,^After a scheduled update.^
+^ui_costume_haveitem^,^Purchase Complete^
+^ui_costume_apply^,^Applying^
+^ui_title_init_fellow_costume^,^Equip Skin Style^
+^ui_btn_fellow_init^,^Overall^
+^ui_gameoption_etc_eventshopbanner^,^Event Shop^
+^ui_tooltip_gameoption_eventshopbanner^,^Display the event shop banner.^
+^ui_month_ranking^,^Monthly Rankings^
+^ui_month_score^,^Monthly Score^
+^ui_lastmonth_ranking^,^Last Month^
+^ui_thisweek^,^This Week^
+^ui_lastweek^,^Last Week^
+^ui_thismonth^,^This Month^
+^ui_lastmonth^,^Last Month^
+^ui_month_ranking_reward^,^Monthly Rewards^
+^ui_infinitetower_noresult3^,^No Results^
+^ui_dungionreenterinit_title^,^Reset Dungeon^
+^ui_msgbox_btnelrun^,^Use Elluns^
+^ui_msgbox_btnexplore^,^Use Voucher^
+^ui_area_p02_p_0003^,^Dead Town^
+^randombox^,^Lucky box^
+^ui_title_agree_duelrank^,^Duel Rankings^
+^ui_duel_ranking_rank_desc^,^Scores reset on Mondays at 4am. Rewards will be sent out at this time.^
+^quick_duelranking^,^Apply for Ranked Duel^
+^ui_duelranking_noresult^,^No results. Only displays top 100 of each class.^
+^ui_user_ranking_title^,^Duel Rankings^
+^ui_week_ranking^,^Last Week's Score^
+^ui_lastweek_rank^,^Last Week's Rank^
+^ui_cooltime_title^,^Cooldown^
+^ui_last_week_ranking^,^Last Week's Rank^
+^ui_this_week_ranking^,^This Week^
+^ui_rank_mine^,^Your Rank^
+^ui_gamemenu_duelranking^,^Duel Rankings^
+^ui_day_count^,^Available Duels^
+^ui_tooltip_daycount^,^You can do 20 ''Ranked Duels'' every day.^
+^ui_cashshop_listdesc_randombox^,^This is a store where you can purchase lucky box items.^
+^magicstonetime_title^,^Manastone Battle^
+^ui_magicstone_title^,^Target^
+^ui_magicstone_time_tooltip^,^Once the Vantara Manastone is destroyed, the battle will end regardless of the remaining time.^
+^ui_magicstone_msg_tooltip^,^The guild tHat delivers the manastone to the Manastone Oracle will reap their reward.^
+^ui_magicstone_msg_0^,^Retrieve the manastone and^
+^ui_magicstone_msg_1^,^Retrieve the manastone and^
+^ui_magicstone_msg_2^,^Retrieve the manastone and^
+^ui_magicstone_msg_3^,^Retrieve the manastone and^
+^ui_magicstone_msg_4^,^Retrieve the manastone and^
+^ui_magicstone_msg_5^,^Retrieve the manastone and^
+^ui_tooltip_duelrank_cooltime^,^Duel ranking is unavailable at this time.^
+^ui_duelrank_cooltime_title^,^Cooldown^
+^magicstoneowntime_title^,^Time^
+^ui_duelrank_cooltime_done^,^Ready^
+^ui_characterinfo_slottooltip_style3^,^Weapon Costume^
+^ui_magicstoneown_time_tooltip^,^You can currently carry the Vantara Manastone. Once the timer runs out, you will no longer be able to hold it.^
+^ui_beforechange_option^,^Before Refining^
+^ui_afterchange_option^,^After Refining^
+^ui_optionchange_des^,^Target^
+^ui_optionchange_mtl^,^Material^
+^ui_itemoption_change_list^,^Attributes^
+^ui_need_gold^,^Gold^
+^ui_need_ruby^,^Ellun^
+^ui_item_option_change_title^,^Refine^
+^ui_btn_optionchange^,^Refine^
+^ui_itemchange_default^,^Select the item you wish to refine.^
+^ui_title_change_option^,^Attribute List^
+^ui_btn_retry^,^Retry^
+^tooltip_character_cridmgpassmult^,^The percentage amount you penetrate through your target's critical defense.^
+^tooltip_character_attackercridamplusreducerate^,^The percentage amount of incoming damage reduced when an enemy critically hits you.^
+^ui_lowram_graphicdowntitle^,^The low-resolution texture mode has been set^
+^ui_lowram_graphicdown^,^It has set the resolution of the low resolution textures for ensuRing client safety.^
+^ui_tooltip_set_textureresolution^,^Texture resolutions will be optimized automatically based on system specs. For higher texture resolutions, you need at least 4GB of RAM and a 64-bit Windows operating system.^
+^ui_lowram_graphicdownpopup^,^In order to ensure client stability, texture resolutions have been lowered.<br>Please check the Divine Icarus website for recommended system specifications.^
+^ui_lowram_graphicdownpopup_title^,^Low Texture Resolution^
+^ui_adpage_buy^,^Buy Now^
+^btn_grade^,^Sort by Grade^
+^btn_level^,^Sort by Level^
+^ui_fishing_auto_title^,^Auto Fishing^
+^ui_fishing_auto_msg^,^Do you want to continue fishing?^
+^ui_fishing_stop_title^,^Stop Fishing^
+^ui_fishing_stop_msg^,^Are you sure you want to stop fishing?^
+^fishing_start_desc^,^Start Fishing^
+^fishing_stop_desc^,^Stop Fishing^
+^ui_fishing_auto^,^Auto^
+^ui_fishing_manual^,^Manual^
+^ui_overrise_Itemdel^,^Failure will destroy the Transcendence Material^
+^ui_overrise_gradedn^,^Failure will destroy the Transcendence Material and reduce the Transcendence Level^
+^ui_fishing_item_title^,^#VALUE!^
+^ui_fishing_close^,^Confirm^
+^price^,^Price^
+^ui_btn_fellowcompose^,^Unity^
+^ui_btn_fellowrecompose^,^Re-Unity^
+^ui_fellowlist_compose^,^Unity^
+^fellow_compose_addfellow^,^Please select the familiars to synthesize^
+^ui_adpage_title^,^Please select a Fellow to synthesize.^
+^ui_adpage_today^,^Do not display again^
+^ui_adpage_level_01^,^This advertisement will only display up to Lv.^
+^ui_adpage_level_02^,^.^
+^fellow_compose_complete^,^Unity Completed^
+^shop_tab_FishShop_fishingRod^,^Fishing Rod^
+^shop_tab_FishShop_bait^,^bait^
+^shop_tab_FishShop_reel^,^reel^
+^shop_tab_fishshop_specialbait^,^Special bait^
+^ui_cash100415^,^Game Cash^
+^ui_title_character_change_gender????^,^Gender change^
+^ui_lobbycustomize_btn_character_change_gender^,^Change Gender^
+^ui_gameoption_name_servername^,^Server Names^
+^ui_tooltip_set_servername^,^Select to show server names.^
+^Ui_one^,^One^
+^Ui_two^,^Two^
+^Ui_three^,^Three^
+^Ui_hopestone_rate^,^Synthetic success rate^
+^Ui_result_compose^,^Synthetic results^
+^Ui_compose_info^,^Information^
+^ui_intergration_item_use^,^Can Be Used Anywhere^
+^ui_intergration_item_not_use^,^Can't Be Used in Some Locations^
+^ui_compose_ruby_protect^,^Stone Protection^
+^fellow_compose_fail^,^Failed to synthesize^
+^ui_gameoption_shortcut_menu_22^,^Duel Rankings^
+^ui_partyboard_title_02^,^Integrated Party Board^
+^pvparea_warning_msg_02^,^In this PvP area, you can get attacked by everyone<br>Do you want to enter?<br>(If you move to a Integrated Channel, your current party will be disbanded)^
+^ui_magicstone_owner_title^,^Manastone Bearer^
+^tooltip_character_absorbvitalitysuccessrate^,^The percentage chance of activating health absorption when you attack an enemy.^
+^tooltip_character_absorbvitalityrate^,^The percentage amount of health absorbed, based on your damage.^
+^ui_characterinfo_slottooltip_style4^,^Back Accessory^
+^ui_characterinfo_slottooltip_style5^,^Accessory^
+^ui_characterinfo_slottooltip_style6^,^Title^
+^ui_soultalents_awaken_title^,^Talent^
+^ui_awaken_block^,^You already have an active talent.^
+^ui_awaken_blank^,^You have no active talent.^
+^ui_title_awaken_add^,^Talent^
+^ui_message_awaken_add^,^Do you want to apply this talent?^
+^ui_title_awaken_remove^,^Clear^
+^ui_message_awaken_remove^,^Do you want to clear this soul talent?^
+^ui_title_awaken_init_warning^,^Clear^
+^ui_message_awaken_init_warning^,^It will cost 30 elluns to clear your talents.^
+^StrDerestPlus^,^Str limit increase^
+^StrDerestMult^,^Str limit increase^
+^DexDerestPlus^,^Dex limit increase^
+^DexDerestMult^,^Dex limit increase^
+^VtlDerestPlus^,^Const limit increase^
+^VtlDerestMult^,^Const limit increase^
+^IntDerestPlus^,^Int limit increase^
+^IntDerestMult^,^Int limit increase^
+^MtlDerestPlus^,^Willpower limit increase^
+^MtlDerestMult^,^Willpower limit increase^
+^AllStatDerestPlus^,^All Stats limit increase^
+^AllStatDerestMult^,^All Stats limit increase^
+^BdyDerestPlus^,^Phys Def limit increase^
+^BdyDerestMult^,^Phys Def limit increase^
+^MndDerestPlus^,^Magic Def limit increase^
+^MndDerestMult^,^Magic Def limit increase^
+^soulpower^,^Talent Power^
+^shop_tab_fishshop_specialfish^,^Advanced fish^
+^ui_gameoption_graphic_light_lensflare^,^Lens Flare^
+^ui_tooltip_set_lensflare^,^Select to turn on lens flare.^
+^ui_gameoption_graphic_light_preuselighting^,^Sun Rays^
+^ui_tooltip_set_preuselighting^,^Select to turn on enhanced sun rays.^
+^ui_event^,^Event Box^
+^ui_title_send_present^,^Give Gift^
+^ui_cash100402^,^Game Cash^
+^ui_dark_stone_field_occupier^,^Manastone Master^
+^FishingBigFishRateMult^,^Hook big fish probability^
+^FishingMiddleFishRateMult^,^Hook middle fish probability^
+^FishingAllRateMult^,^Fishing drop probability^
+^ui_buy_items^,^Quantity^
+^ui_titlie_fellow_collection_init^,^Select initialization^
+^ui_titlie_fellow_collection_default_init^,^Normal Initialization^
+^ui_title_fellow_collection_item_init^,^Use a scroll of collection initialization spells^
+^ui_title_fellow_collection_init_select^,^Please, choose initialization method^
+^ui_content_fellow_collection_init_desc^,^Can be applied in the middle of cooldown. The cooldown will be initialized.^
+^ui_label_fellow_collection_require_item^,^Familiar Collection Initialization Scroll 1^
+^ui_btn_fellow_collection_init^,^Initialize^
+^infinitetower_result_title^,^Tower of Challenge Result^
+^ui_title_reverse^,^Reinforce Reverse Item^
+^shop_tab_coinex_pvpgear^,^Equipments^
+^shop_tab_coinex_pvpconsume^,^General^
+^shop_tab_coinex_pvpramdom^,^Random Box^
+^ui_guild_room_icon^,^Rental Reward For Akeron Global Combat Victory.^
+^ui_guild_room_time^,^Shows Guild Room Available Time.^
+^ui_guild_attendancereward^,^Get Rewards^
+^ui_guild_attendancecheck^,^Check Attendance^
+^ui_guild_attendance_time^,^Attendance Remaining hrs.^
+^ui_guild_attended_adjesting^,^Calculating Attendance^
+^ui_title_reverse_count_down^,^Reverse Try Count Redemption^
+^comm_reverse_item_name^,^Reverse TempeRing^
+^ui_guild_room^,^Can be rented after achieving victory in the global Stygaea Battlefield.^
+^ui_guild_room_icon2^,^Can be rented after crafting a recipe from the [Guild Room Merchant] at the Hakain's Crossing Guild Hall.^
+^ui_guild_room_icon3^,^Can be rented from the [Guild Room Merchant] at the Hakain's Crossing Guild Hall.^
+^shop_tab_guildroom_consume^,^Rental Ticket^
+^shop_tab_guildroom_recipe^,^Rental Recipe^
+^ui_cashshop_icaday^,^이벤트 상점^
+^guilditem^,^Guild^
+^shop_tab_consume_wrapconsume^,^Warp Scroll^
+^shop_tab_consume_guildpotion^,^Mark^
+^ui_article_reverse_count_down_desc^,^Available Reverse Try^
+^ui_try_count^,^times^
+^npc_getbuff^,^Get buff^
+^shop_tab_fishshop_fishingspecial^,^Special Consumable^
+^ui_possible_inherit_product^,^Inheritable^
+^ui_reinforce_random_rate^,^Rinforcement probability: <font color="#56B70E">100%</font>^
+^ui_itemdistribution_ancientmythic^,^Myth^
+^ui_title_inherititem_list^,^Inheritance Crafting Source Material^
+^ui_btn_select_inherititem^,^Select Source Material^
+^ui_tooltip_title_inherit^,^About Inheritance^
+^ui_title_extract_ruby^,^Extract Seal Stone^
+^ui_btn_extract_normal^,^Normal Extract^
+^ui_btn_extract_reinforce^,^Tempered Extract^
+^shop_tab_box_boost^,^Boost Talisman^
+^near_player_style1^,^Appearance^
+^near_player_style2^,^Shoulder Accessory^
+^near_player_style3^,^Weapon Costume^
+^near_player_style4^,^Back Accessory^
+^near_player_style5^,^Jewelry^
+^near_player_style6^,^Special Title^
+^near_player_style7^,^Underwear^
+^ui_characterinfo_slottooltip_style7^,^Underwear^
+^btn_expired_bag^,^Premium^
+^Item_reinforce_synergy_title^,^Temper Effects Per Level^
+^Item_reinforce_synergy_desc^,^The effects are actived when the temper level of equipped items, PrimeWeapon/Armor/Boarding Weapon(Total 7 items) is at or higher than a specific level.^
+^ui_expired_inventory_title^,^Premium Bag^
+^ui_title_made_char^,^Information^
+^ui_btn_fellowbag^,^Familiar Bag^
+^ui_fellow_inventory_title^,^Familiar Bag^
+^ui_fellowlist_auto_looting_option^,^Auto-loot Settings^
+^ui_looting_option_title^,^Familiar Loot Settings^
+^ui_item_looting_option_text^,^Select an auto-loot option.^
+^ui_autolooting_all^,^Loot All^
+^ui_autolooting_rare^,^Loot Elite+^
+^ui_autolooting_hero^,^Loot Heroic+^
+^ui_autolooting_legend^,^Loot Legendary+^
+^ui_autolooting_ancientmythic^,^Loot Mythical+^
+^ui_auto_dice^,^Auto-roll for party loot^
+^ui_auto_looting_desc^,^Pets will automatically loot items within a certain radius.^
+^fellow_equip_lt^,^Auto-loot Emblem^
+^ui_attendancecheck_general^,^Monthly^
+^ui_attendancecheck_special^,^Special^
+^ui_fellow_farm_combine^,^Familiar Combination Effects Info.^
+^ui_fellowifarm_combine_info_title^,^Combination active Info.^
+^ui_fellowfarm_slot^,^Familiar Registration Slot^
+^ui_fellowifarm_combine_active^,^Active Combination :^
+^ui_fellowifarm_combine_time^,^Remaining Active Buff hrs. :^
+^ui_fellowifarm_combine_info^,^Familiar Combination List^
+^FeBuff01^,^EncounteRing With A Legend^
+^FeBuff02^,^Celestial War Horse^
+^FeBuff03^,^Rabbini Farm^
+^FeBuff04^,^Creepy Familiars^
+^FeBuff05^,^5 Bears^
+^FeBuff06^,^Azure Familiar^
+^ui_fellowfarmcoin_desc^,^You can redeem up to 10 familiar coins a day.^
+^shop_tab_box_idoll^,^Idoll^
+^ui_lobbycharcreate_explain_origin_idoll_1^,^Using a wand and a cute teddy bear summons grass, flowers and favorite dolls to light up surroundings. One's fun critically damages enemies.^
+^ui_lobbycharcreate_explain_difficulty_idoll^,^Using power of light and surrounding environment, attacks enemie. The power of a summoned doll enhances the power of all friendly units and the player.^
+^ui_customize_class_idoll^,^Idoll^
+^ui_customize_itemgroup_wing^,^Wings^
+^ui_customize_itemgroup_feeler^,^Feelers^
+^ui_customize_itemgroup_detailfeeler^,^Feelers^
+^ui_customize_itemgroup_detailwing^,^Wings^
+^ui_customize_itemgroup_7wing^,^Wings^
+^ui_customize_itemgroup_6feeler^,^Feelers^
+^ui_ci_feelersize^,^Feeler Size^
+^ui_ci_wingsize^,^Wing Size^
+^lobby_createshiring_btn^,^Idol pre-creation^
+^ui_week_master_score^,^Master Best Score^
+^ui_clear_master_floor^,^Master Floor Record^
+^dungeon_grade_general^,^Common^
+^ui_title_itemrelic^,^Identify^
+^ui_relic^,^Identify^
+^ui_relic_judge_require^,^Identification Required^
+^ui_relic_target_require^,^Select an item to be identified.^
+^ui_relic_successrate_up^,^Success Rate Up^
+^ui_relic_destroyrate_dn^,^Destruction Rate Down.^
+^ui_title_relic_option^,^An item to be identified required.^
+^ui_relic_need_gold^,^Golds Required^
+^ui_relic_need_elrun^,^Elluns Required^
+^ui_title_itemrelic_result^,^Identification Successful^
+^ui_title_relic_msgbox^,^Confirm Bind^
+^ui_message_relic_msgbox^,^When identified, the item is bound.^
+^ui_relic_successrate^,^Identification Success Rate^
+^FeBuff01desc^,^Character Gaining 10% More EXP(3hrs.)^
+^FeBuff02desc^,^Auction Registration ? Sales Commission 5% Down.(1hrs.)^
+^FeBuff03desc^,^Move Speed 10% Up(3hrs.)^
+^FeBuff04desc^,^All Attack 3% Up(3hrs.)^
+^FeBuff05desc^,^Familiar Gaining 15% More EXP(2hrs.)^
+^FeBuff06desc^,^Character Gaining 10% More EXP(2hrs.)^
+^FeBuff01_desc^,^Character Gaining 10% More EXP(3hrs.)^
+^FeBuff02_desc^,^Auction Registration ? Sales Commission 5% Down.(1hrs.)^
+^FeBuff03_desc^,^Move Speed 10% Up(3hrs.)^
+^FeBuff04_desc^,^All Attack 3% Up(3hrs.)^
+^FeBuff05_desc^,^Familiar Gaining 15% More EXP(2hrs.)^
+^FeBuff06_desc^,^Character Gaining 10% More EXP(2hrs.)^
+^ui_title_combine_deactivate^,^Cancel Familiar Combination Effects^
+^ui_title_combine_activate^,^Activate Familiar Combination Effects^
+^ui_characterinfo_slottooltip_relic^,^Relic^
+^ui_title_special_option^,^Special Option^
+^ui_cash100416^,^Game Cash^
+^ui_auction_sort_relic^,^Relic^
+^relic^,^Relic^
+^ui_auction_sort_special^,^Special Equipments^
+^ui_title_cooltime_init^,^Cooldown hrs. Initialization^
+^ui_title_nexon_cash_error^,^Reload Nexon Cash^
+^ui_title_receipt^,^Purchase Receipt^
+^ui_game_systemmessage^,^Full Screen Message^
+^ui_gameoption_fellowmsg_hero^,^Print Heroic Familiar Taming Message^
+^ui_tooltip_set_fellowmsg_hero^,^Prints a full screen message when other players tamed a heroic familiar.^
+^ui_gameoption_fellowmsg_legend^,^Print Legendary Familiar Taming Message^
+^ui_tooltip_set_fellowmsg_legend^,^Prints a full screen message when other players tamed a legendary familiar.^
+^ui_gameoption_itemmsg_normal^,^Print Normal Loot Message^
+^ui_tooltip_set_itemmsg_normal^,^Prints a full screen message when other players obtained a special simple item.^
+^ui_gameoption_itemmsg_elite^,^Print Elite Loot Message^
+^ui_tooltip_set_itemmsg_elite^,^Prints a full screen message when other players obtained a special elite item.^
+^ui_gameoption_itemmsg_hero^,^Print Heroic Loot Message^
+^ui_tooltip_set_itemmsg_hero^,^Prints a full screen message when other players obtained a special heroic item.^
+^ui_gameoption_itemmsg_legend^,^Print Legendary Loot Message^
+^ui_tooltip_set_itemmsg_legend^,^Prints a full screen message when other players obtained a special legendary item.(Including legendary+ items)^
+^ui_gameoption_itemmsg_mythic^,^Print Mythical Loot Message^
+^ui_tooltip_set_itemmsg_mythic^,^Prints a full screen message when other players obtained a special Mythical item.^
+^ui_fellowfarmupgrade_maintap_plain^,^Environment^
+^ui_fellowfarmupgrade_maintap_grow^,^Stable^
+^ui_fellowfarmupgrade_maintap_combination^,^Familiar Corral^
+^ui_fellowfarmupgrade_maintap_adventure^,^Adventure Station^
+^ui_fellowfarmupgrade_maintap_fishing^,^Fishing Hole^
+^ui_fellowfarmupgrade_maintap_Craft^,^Crafting Station^
+^ui_fellowfarmupgrade_maintap_Mine^,^Mining Station^
+^ui_fellowfarmupgrade_maintap_Farm^,^GatheRing Station^
+^ui_fellowfarmupgrade_maintap_Landmark^,^Landmark^
+^ui_fellowfarmupgrade_maintap_Fence^,^Outer Fence^
+^ui_fellowfarmupgrade_tile^,^Upgrade Farm^
+^ui_msgbox_upgrade^,^Upgrade^
+^ui_title_fellowfarmupgrade_buy^,^Confirm Upgrade^
+^ui_currentlyinuse_label^,^Time Left^
+^IN_F96_Shed_Skin1_Name^,^Stable Upgrade I (7 Day)^
+^IN_F96_Shed_Skin1_Description0^,^Upgrade Effect^
+^IN_F96_Shed_Skin1_Description1^,^Familiar FosteRing EXP +50%^
+^ui_fellowfarmupgrade_drop_day^,^Day^
+^ui_fellowfarmupgrade_drop_gold^,^Gold^
+^ui_fellowfarmupgrade_drop_ruby^,^Ellun^
+^ui_fellowfarmupgrade_drop_farmcoin^,^Farm Coin^
+^ui_characterinfo_slottooltip_style8^,^Appearance^
+^near_player_style8^,^Appearance^
+^ui_fellowfarmupgrade_drop_silver^,^Silver^
+^ui_fellowfarmupgrade_drop_copper^,^Copper^
+^IN_F96_Fence_Skin1_Name^,^Corral Upgrade I (7 Day)^
+^IN_F96_Fence_Skin1_Description0^,^Upgrade Effect^
+^IN_F96_Fence_Skin1_Description1^,^2 Additional Familiar Combination effects^
+^IN_F96_Range_Skin1_Name^,^Fence Upgrade I^
+^IN_F96_Range_Skin1_Description0^,^Upgrade Effect^
+^IN_F96_Range_Skin1_Description1^,^Overall Attack +200% (3 Hour)^
+^ui_fellowadv_preview^,^Choosing a higher familiar grade means more rewards.^
+^ui_fellowadv_title^,^Familiar Adventures^
+^ui_remain^,^Left^
+^ui_fellowadv_btn_init^,^Reset^
+^ui_fellowadv_btn_send^,^Send on Adventure^
+^ui_fellowadv_btn_complete^,^Adventure Complete^
+^ui_fellowadv_btn_region^,^Region Selection^
+^ui_fellowadv_drag_fellow^,^Drag and drop the familiar^
+^ui_fellowadv_drag_booster^,^Adventure Talisman^
+^ui_fellowadv_btn_gold_complete^,^Use Gold^
+^ui_fellowadv_btn_ruby_complete^,^Use Elluns^
+^ui_fellowadv_reward_title^,^Possible Rewards^
+^ui_fellowadv_grade_time^,^Difficulty: %s(%s)^
+^ui_fellowadv_after_enterable^,^until open^
+^ui_title_fellowadv_send^,^Send on Adventure^
+^ui_msg_fellowadv_send^,^Review your adventure settings^
+^ui_title_fellowadv_cooltimeinit^,^Reset Adventure^
+^ui_msg_fellowadv_cooltimeinit^,^Do you want to reset the Adventure cooldown?^
+^ui_title_fellowadv_precomplete^,^Cancel Adventure^
+^ui_msg_fellowadv_precomplete^,^Do you the familiar to return now?^
+^shop_tab_limited^,^limited^
+^shop_tab_style8^,^Style^
+^ui_gameoption_spawnmsg_onoff^,^Notify Monster Spawning^
+^ui_tooltip_set_spawnmsg_onoff^,^Prints a message in the cHat window when a Legendary or above familiar familiar appears on the field.^
+^shop_tab_rent^,^Rental^
+^ui_tooltip_set_graphic_scale_explanation^,^Scales the UI. (To address clipping issues, you'll have to readjust window positions via UI customization.)^
+^ui_gameoption_graphic_ui_scale^,^Scale^
+^ui_gameoption_graphic_ui_scale_small^,^Small^
+^ui_gameoption_graphic_ui_scale_large^,^Large^
+^ui_gameoption_graphic_ui_scale_autosetting^,^Auto^
+^ui_graphic_uiscale^,^UI Scale^
+^ui_cash100417^,^M Game Cash^
+^ui_release_all_btn^,^Unselect All^
+^ui_combine_cooltime^,^Combination Cooldown^
+^ui_fellowadv_cost_title^,^Adventure Cost^
+^IN_F96_Shed_Skin2_Name^,^Stable Upgrade II (7 Day)^
+^IN_F96_Fence_Skin2_Name^,^Corral Upgrade II (7 Day)^
+^IN_F96_Range_Skin2_Name^,^Fence Upgrade II (7 Day)^
+^IN_F96_Range_Skin2_Description0^,^Upgrade Effect^
+^IN_F96_Range_Skin2_Description1^,^Overall Attack +200% (3 Hour)^
+^IN_F96_Fence_Skin2_Description0^,^Upgrade Effect^
+^IN_F96_Fence_Skin2_Description1^,^Adds 5 Familiar Combinations^
+^IN_F96_Shed_Skin2_Description0^,^Upgrade Effect^
+^IN_F96_Shed_Skin2_Description1^,^Familiar FosteRing EXP +100%^
+^IN_F96_Fac_Skin1_Name^,^Workshop Upgrade I^
+^IN_F96_Fac_Skin1_Description0^,^Upgrade Effect^
+^IN_F96_Fac_Skin1_Description1^,^Triumphant Crafting Chance +7% at Familiar Farm^
+^FeBuff001^,^Old Enemy^
+^FeBuff002^,^Farm Cuties^
+^FeBuff003^,^3 Musketeers Forever^
+^FeBuff004^,^Luxury Familiar^
+^FeBuff005^,^The Spirit of The Lab^
+^FeBuff006^,^With The Wind^
+^FeBuff007^,^SuffeRing A Side Blow..^
+^FeBuff008^,^The Finishing^
+^FeBuff009^,^Steel Penetrating Canine^
+^FeBuff010^,^Badlands Rulers^
+^FeBuff011^,^Familiar Collector(Top)^
+^FeBuff012^,^Familiar Collector(Bottom)^
+^FeBuff013^,^I like more heads.^
+^FeBuff014^,^Glory of The Past^
+^FeBuff001desc^,^Max. HP +10%(2hrs.)^
+^FeBuff002desc^,^Taming Chance +15%(2hrs.)^
+^FeBuff003desc^,^Auction Registration Fee -5%(2hrs.)^
+^FeBuff004desc^,^Overall Attack +12%(2hrs.)^
+^FeBuff005desc^,^Taming Chance +22%(2hrs.)^
+^FeBuff006desc^,^Move Speed +15%(2hrs.)^
+^FeBuff007desc^,^Overall Defence +15%, HP +15%(2hrs.)^
+^FeBuff008desc^,^Familiar EXP +30%(2hrs.)^
+^FeBuff009desc^,^Critical Hit Penetration Rate +5%(2hrs.)^
+^FeBuff010desc^,^PvP Attack 15%, Bleeding Penetration Chance +2%(2hrs.)^
+^FeBuff011desc^,^TempeRing Success Rate +8%(2hrs.)^
+^FeBuff012desc^,^All Attack +15%, Stat. Limit Removed +50(2hrs.)^
+^FeBuff013desc^,^All Attack +15%(2hrs.)^
+^FeBuff014desc^,^PvP Attack +7%(2hrs.)^
+^FeBuff001_desc^,^Max. HP +10%(2hrs.)^
+^FeBuff002_desc^,^Taming Chance +15%(2hrs.)^
+^FeBuff003_desc^,^Auction Registration Fee -5%(2hrs.)^
+^FeBuff004_desc^,^All Attack +12%(2hrs.)^
+^FeBuff005_desc^,^Taming Chance +22%(2hrs.)^
+^FeBuff006_desc^,^Move Speed +15%(2hrs.)^
+^FeBuff007_desc^,^All Defence +15%, HP +15%(2hrs.)^
+^FeBuff008_desc^,^Familiar EXP +30%(2hrs.)^
+^FeBuff009_desc^,^Critical Hit Penetration Rate +5%(2hrs.)^
+^FeBuff010_desc^,^PvP Attack 15%, Bleeding Penetration Chance +2%(2hrs.)^
+^FeBuff011_desc^,^TempeRing Success Rate +8%(2hrs)^
+^FeBuff012_desc^,^All Attack +15%, Stat. Limit Removed +50(2hrs)^
+^FeBuff013_desc^,^All Attack +15%(2hrs.)^
+^FeBuff014_desc^,^PvP Attack +7%(2hrs.)^
+^IN_F96_Fac_Skin2_Name^,^Workshop Upgrade II^
+^IN_F96_Fac_Skin2_Description0^,^Upgrade Effect^
+^IN_F96_Fac_Skin2_Description1^,^Triumphant Crafting Chance +12% at Familiar Farm^
+^IN_F96_Fence_Skin2_Description3^,^(Includes Familiar combinations from Corral Upgrade I.)^
+^ui_fellowfarmupgrade_expiration_day^,^<font color = "# fc5300"> Expiration Date </font>^
+^ui_gameoption_etc_cutoff_shouting^,^Don't see blocked players shouting^
+^ui_tooltip_set_cutoff_shouting^,^If selected, the blocked player's shouts will not be visible.^
+^ui_fellowinfo_advcost^,^Adventure Power^
+^fellow_advcost_desc^,^It is the area tHat displays the fellow's adventure power.^
+^ui_fellowadv_advcost_title^,^Need adventure Power^
+^ui_fellowadv_rewarded_title^,^Earned rewards^
+^ui_fellowadvdetail_booster^,^Familiar Adventure Booster^
+^ui_fellowadv_advexplain_title^,^Please select an adventure area^
+^ui_fellowadvdetail_home^,^The Familiars hometown and adventure area are matched to receive additional rewards, shortening the adventure time.^
+^ui_fellowadv_remaintime_title^,^Familiar Adventure Time^
+^ui_fellowadv_advend_title^,^Familiar Adventure is completed.^
+^ui_fellowadv_btn_quick_complete^,^Adventure Return^
+^ui_fellowadv_cooltime_text^,^You can start the adventure again later.^
+^ui_enchant_stone_combine_title^,^Gem combination^
+^ui_enchant_stone_combine_desc^,^<font color = "# 66CCFF"> <font size = "14"> Please insert the gem to be combined. </font>^
+^ui_btn_enchant_stone_combine^,^Combination^
+^ui_enchant_stone_combine_main^,^Main Gem^
+^ui_enchant_stone_combine_sub^,^Secondary Gem^
+^ui_enchant_stone_combine_effect_list^,^Option list^
+^shop_tab_box_event^,^Event^
+^ui_enchant_stone_combine_succes^,^Combination Success^
+^ui_enchant_stone_combine_fail^,^<font color = "# FFCC33"> <font size = "18"> combination failed </font>^
+^ui_possible_multi_ingredient^,^Multi-Production^
+^ui_title_multiingredient_list^,^Material selection^
+^ui_btn_select_multiingredient^,^Confirm^
+^ui_moveto_master_title^,^Move to Party leader^
+^ui_party_use_item^,^Use Item^
+^ui_party_use_gold^,^Use Gold^
+^ui_partyboard_go_to_master^,^Move to Party leader^
+^ui_party_board_integration^,^Integrated^
+^ui_party_board_general^,^Common^
+^ui_tooltip_multiingredient_btn^,^By clicking the button, you can select the required material.^
+^ui_tooltip_effectgroup_01^,^Attack Power 30% ~ 50%^
+^ui_tooltip_effectgroup_02^,^Maximum HP 10% ~ 15%^
+^ui_weaponawaken_setting_mtls^,^Please select the weapon awakening material^
+^ui_weaponawaken_success^,^Weapon Awakening Succeeded^
+^ui_weaponawaken_fail^,^Weapon Awakening Failed^
+^ui_weaponawaken_press_button^,^Please press the awakening button^
+^ui_weaponawaken_awakening^,^Weapon Awakening^
+^ui_weaponawaken_btnok^,^Confirm^
+^ui_weaponawaken_reset^,^Retry^
+^specialoption^,^Special Options^
+^ancient^,^Ancient^
+^WeaponAwakenAttCnt^,^Weapon Awakening Count :^
+^WeaponAwakenSkillCnt^,^Weapon Awakening Skill Count :^
+^ui_weaponawaken_option_lock_label^,^Special Option Fixed^
+^ui_weaponawaken_destroy_lock_label^,^Weapon Destruction Prevention^
+^ui_weaponawaken_effect_lock_label^,^Fix weapon effects^
+^not_change^,^No change^
+^ui_tooltip_weaponawaken_main_weapon^,^Only +25 or more <G_Y> Karasha, Christmas, Ellora, Ice cream, Alsas, Teleo </G_Y> weapons can be awakened.^
+^ui_tooltip_weaponawaken_mtl1^,^You need an<G_Y> ancient Fellow Seal </G_Y> at maximum level.^
+^ui_tooltip_weaponawaken_mtl2^,^A weapon requires a piece of awakening material.^
+^ui_tooltip_weaponawaken_mtl3^,^<G_Y> Ancient Powder </G_Y> is required.^
+^ui_tab_party_normal^,^General Party^
+^ui_tab_party_war^,^Battleground Party^
+^ui_tab_party_warmatching^,^Battleground Matching^
+^ui_partyboard_automatching^,^Automatic Matching^
+^ui_partyboard_total_rp^,^RP summing^
+^ui_partyboard_rp^,^RP^
+^ui_matching_enemy_info_title^,^Matching party information^
+^ui_matching_msg1^,^Do you want to apply for matching?^
+^ui_matching_msg2^,^Battlefield battle application has arrived.^
+^ui_matching_msg3^,^Enter the battleground after the time shown below.^
+^ui_matching_millisecond^,^Seconds^
+^ui_matching_btn_apple1^,^Matching application^
+^ui_matching_btn_apple2^,^Accept^
+^ui_matching_btn_cancel^,^Refuse^
+^ui_partyboard_autoapply^,^Automatic Apply^
+^equip_swap_1_desc^,^The currently worn device can be saved and the saved device will be recalled when the I button is clicked.^
+^equip_swap_2_desc^,^The currently worn device can be saved and the saved device will be loaded when the II button is clicked.^
+^equip_swap_save_desc^,^Save your currently worn device.^
+^ui_item_option_value_change_title^,^Refining^
+^ui_itemvalue_change_default^,^Please select Item to refine.^
+^ui_optionvalue_change_des^,^Refining target^
+^ui_optionvalue_change_mtl^,^Refining material^
+^ui_btn_optionvalue_change^,^Refining^
+^ui_before_value_change_option^,^Before refining^
+^ui_after_value_change_option^,^After refining^
+^ui_arena_standby_time^,^Waiting time^
+^ui_arena_battle_time^,^Battle Time^
+^ui_arena_injury_time^,^Additional Time^
+^ui_arenaresult_title^,^Battleground Result^
+^ui_tab_killdeath^,^Kill / death^
+^ui_tab_point^,^Score^
+^ui_arenaresult_out^,^Reward and leave^
+^ui_arena_result_reward^,^Results Compensation^
+^ui_arena_gain_rank_point^,^Obtained Battlefield Coins^
+^ui_result_draw^,^Draw^
+^ui_title_equip_swap^,^Belonging^
+^ui_arena_revival_time^,^You will be resurrected after.^
+^ui_partyboard_partyready_no^,^Cancel preparation^
+^ui_partyboard_partyready_yes^,^Ready^
+^ui_partyboard_notpartymember^,^No party members.^
+^ui_partyboard_notmember1^,^Party not configured.^
+^ui_partyboard_notmember2^,^Please organize the battleground party.^
+^ui_partyboardtype_friendly^,^Friendship^
+^ui_partyboardtype_competition^,^Before ranking^
+^ui_partyboardtype_none^,^Party^
+^ui_partyboard_automatching_msg_yes^,^automatically matching.^
+^ui_partyboard_automatching_msg_no^,^Start matching.^
+^ui_title_partyboard_change_matching^,^Ready to Match^
+^ui_content_partyboard_change_matching^,^Ready to go to matching window.^
+^ui_automatching_btn_cancel^,^Auto-match canceled^
+^ui_partyboardtype_matching^,^Matching^
+^ui_achievements_match^,^The corridor of Lord Shrine^
+^ui_arena_grade_common^,^Commoner^
+^ui_arena_grade_knight^,^Knight^
+^ui_arena_grade_baron^,^Baron^
+^ui_arena_grade_count^,^Count^
+^ui_arena_grade_duke^,^Duke^
+^ui_arena_week_ranking^,^Weekly ranking^
+^ui_arena_join^,^Number of participation times before ranking (days)^
+^ui_arena_rank_point^,^Rank Point^
+^ui_winning_rate^,^Winning Rate^
+^ui_arena_lastweek_ranking^,^Last week's Ranking^
+^ui_week_arena_ranking_reward^,^Weekly Ranking Reward^
+^ui_arena_ranking_rank_init^,^The Battlefield Rankings are reset every Monday at 4am and rewards will be distributed.^
+^ui_arena_ranking_title^,^Battleground Ranking^
+^ui_arena_ranking_table_title^,^Information by Battleground Grade^
+^ui_arena_ranking_rank^,^Rank^
+^ui_ranktable_rank_reward^,^Rank Compensation^
+^ui_ranktable_rank_firstreward^,^Random Rewards^
+^ui_point^,^Score^
+^ui_battle_week_ranking^,^This week's ranking^
+^ui_guildwar_victory^,^Number of victories^
+^ui_guildwar_defeat^,^Number of defeats^
+^ui_partyboard_wincount^,^Winning streak^
+^ui_partyboard_losecount^,^Losing streak^
+^guildwar_victory^,^Number of victories^
+^guildwar_defeat^,^Number of defeats^
+^ui_channel_pvp^,^PVP Channel^
+^pvpchannel^,^<R_Y> PVP channel </R_Y>^
+^ui_spotbattle^,^Stronghold Transition^
+^ui_spotbattle_infomation^,^Stronghold Transition Information^
+^ui_spotbattle_guild_list^,^Guild Application List^
+^ui_recent_result^,^Recent Results^
+^ui_application_entry^,^Apply^
+^ui_application_entry_cancel^,^Cancel Application^
+^ui_application_cancel_msg^,^Would you like to cancel your application? <br> <br> <font color="#ff0000"> (Cancellations can not be refunded) </font>^
+^ui_can_not_apply^,^Cannot apply^
+^ui_spotbattle_start_time^,^Next Start^
+^ui_occupied_infomation^,^Occupation Information^
+^ui_my_guild_state^,^Friendly Guild Status^
+^ui_spotbattle_occupied_state^,^Stronghold Occupation Status^
+^ui_occupied_guard_post^,^Station Occupation^
+^ui_time^,^Time^
+^ui_occupied_territory^,^Occupied Territory^
+^ui_occupied_guild^,^Occupating Guild^
+^ui_spotbattle_occupied_honor^,^Stronghold Occupation Honor^
+^ui_final_occupied_reward^,^Final Occupation Reward^
+^ui_not_occupied_territory^,^Unoccupied Territory^
+^ui_spotbattle_not_participate_msg^,^You did not participate in the Stronghold Transition.^
+^ui_spotbattle_state^,^Stations Status^
+^ui_spotbattle_end^,^End^
+^ui_acquire_honor^,^Acquired Honor^
+^ui_participation_compensation_item^,^Participation Reward Item^
+^ui_occupation_compensation_item^,^Occupation Reward Item^
+^ui_application_entry_msg^,^Would you like to apply for the Stronghold Transition?<br> <br> <font color="#ff0000"> (After you apply, you can not assign or remove knights.) </font><br> <font color="#ff0000"> (Cancellation fees can not be refunded.) </font>^
+^ui_guildmember_only^,^Guild Members only^
+^ui_guildknight_only^,^Knights only^
+^shop_tab_event1^,^Event 1^
+^shop_tab_event2^,^Event 2^
+^shop_tab_event3^,^Event 3^
+^shop_tab_sox^,^Santa socks^
+^shop_tab_goldsox^,^Golden Santa Socks^
+^IN_F96_Range_Skin3_name^,^A melhor cerca de rancho^
+^IN_F96_Range_Skin3_Description0^,^Efeito da atualização^
+^IN_F96_Range_Skin3_Description1^,^Chance de Drop de Pesca no Rancho +12%^
+^IN_F96_Fence_Skin3_name^,^Nossos companheiros de primeira classe^
+^IN_F96_Fence_Skin3_Description0^,^Efeito da atualização^
+^IN_F96_Fence_Skin3_Description1^,^Adicionado 10 combinações de companheiros^
+^IN_F96_Fence_Skin3_Description3^,^ (incluindo nossa antiga fórmula Fellows)^
+^IN_F96_Fac_Skin3_name^,^A oficina da mais alta qualidade^
+^IN_F96_Fac_Skin3_Description0^,^Efeito de atualização^
+^IN_F96_Fac_Skin3_Description1^,^Ao criar no rancho, chance de sucesso +15%^
+^IN_F96_Shed_Skin3_name^,^Congratulações dos melhores companheiros^
+^IN_F96_Shed_Skin3_Description0^,^Efeito de atualização^
+^IN_F96_Shed_Skin3_Description1^,^Fellow Consignment EXP +150%^
+^rstpowplus^,^Magic Resistance^
+^rp^,^rage^
+^ui_gameoption_shortcut_fellowquickslot_10^,^Fellow quickslot 6^
+^ui_gameoption_shortcut_fellowquickslot_11^,^Fellow quickslot 7^
+^ui_gameoption_shortcut_fellowquickslot_12^,^Fellow quickslot 8^
+^ui_gameoption_shortcut_fellowquickslot_13^,^Fellow quickslot 9^
+^ui_gameoption_shortcut_fellowquickslot_14^,^Fellow quickslot 10^
+^ui_gameoption_shortcut_fellowquickslot_15^,^Fellow quickslot 11^
+^ui_gameoption_shortcut_fellowquickslot_16^,^Fellow quickslot 12^
