@@ -1,29 +1,40 @@
-﻿// Variaveis
-const arquivosDeTraducao = [
+﻿// --------- //
+// Variables //
+// --------- //
+const buttonItems = "../database/button/itemdata_accessory.csv"
+const buttonIcons = "../database/itemdata/itemres_accessory.csv"
+const buttonType = "ri"
+// arquivoPrincipal
+const itemInformations = "../database/itemdata/itemdata_accessory.csv"
+const itemTranslations = [
     "../database/translate/localstringdata_item_accessory.csv",
-    "../database/translate/localstringdata_item_accessory_02.csv"
+    "../database/translate/localstringdata_item_accessory_02.csv",
+    "../database/translate/localstringdata_item_armor.csv",
+    "../database/translate/localstringdata_item_armor_02.csv",
+    "../database/translate/localstringdata_item_weapon.csv",
+    "../database/translate/localstringdata_item_weapon_02.csv"
 ];
-const arquivoPrincipal = "../database/itemdata/itemdata_accessory.csv"
-const arquivoEfeitos = "../database/translate/MinhaTraducao.csv"
-const arquivoButton = "../database/button/itemdata_accessory.csv"
-const arquivoIcones = "../database/itemdata/itemres_accessory.csv"
-const filtraTipo = "ri"
-const itemPadrao = "AC0_1_1000;쿨타임 감소 목걸이(99%);0.000000;1.000000;0.000000;1.000000;GD_WR_TF_AC_WZ_PR_DO_MG;*;*;1.000000;ne;30.000000;6102.000000;611.000000;0.000000;0.000000;9.000000;(쿨타임%,-99);*;*;*;0.000000;0.000000;0.000000;5000,3000,1000,1000;*;0.000000;0.000000;0.000000;r1;1.000000;0.000000;0.000000;0.000000;req;get;ch;0.000000;*;0.000000;Auction_302;*;0.000000;0.000000;GU_Test_3_0004;AC0_EV_4_0_0002;*;*;1.000000;0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;*;*;*;1.000000;0.000000;0.000000;30.000000;100.000000;*;*;*"
+const itemDefault = "AC0_0_1000;마리아의 보호부적;0.000000;17.000000;0.000000;17.000000;GD_WR_TF_AC_WZ_PR_DO_MG;*;*;1.000000;ri;30.000000;1801.000000;181.000000;0.000000;0.000000;19.000000;*;*;*;*;0.000000;0.000000;0.000000;5000,3000,1000,1000;*;0.000000;0.000000;0.000000;r1;1.000000;0.000000;0.000000;0.000000;req;get;ch;0.000000;*;0.000000;Auction_301;*;0.000000;0.000000;GU_Test_3_0003;AC0_EV_4_0_0001;*;*;1.000000;0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;*;*;*;17.000000;0.000000;0.000000;30.000000;100.000000;*;*;*"
+const effectsTranslation = "../database/translate/minhatraducao.csv"
 let mapaDeTraducoes = {}
 let itemArray = []
-let mapaEfeitos = {}
+let itemSetData = [];      // Dados do arquivo itemset_setcharacter.csv
+let setNameMap = {};       // Mapeamento do arquivo localstringdata_item_setitem.csv
+let effectMap = {};        // Mapeamento do arquivo minhatraducao.csv
+
 let codigoOriginal // não mexer aqui <<
 
-// Carrega Arquivos .csv
-// loadItems = Cria botões pra cada item encontrado.
-async function loadItems(itemPath, iconPath, filterType) {
-    const response = await fetch(itemPath);
+// ------------------ //
+// Carrega a Arquivos //
+// ------------------ //
+async function loadButton() {
+    const response = await fetch(buttonItems + "?nocache=" + new Date().getTime());
     const text = await response.text();
     const lines = text.trim().split(/\r?\n/);
 
-    const responseI = await fetch(iconPath);
-    const textoI = await responseI.text();
-    const linesI = textoI.trim().split(/\r?\n/);
+    const responseI = await fetch(buttonIcons + "?nocache=" + new Date().getTime());
+    const textI = await responseI.text();
+    const linesI = textI.trim().split(/\r?\n/);
 
     // Remove cabeçalhos
     lines.shift();
@@ -42,7 +53,7 @@ async function loadItems(itemPath, iconPath, filterType) {
         const [id, level, rarity, type] = line.split(';');
         let leveli = parseInt(level);
 
-        if (type !== filterType) return;
+        if (type !== buttonType) return;
 
         const button = document.createElement("button");
         button.className = "item-button";
@@ -105,10 +116,9 @@ async function loadItems(itemPath, iconPath, filterType) {
     });
 }
 
-
 async function carregarTraducoes() {
-    const promessas = arquivosDeTraducao.map(arquivo =>
-        fetch(arquivo)
+    const promessas = itemTranslations.map(arquivo =>
+        fetch(arquivo + "?nocache=" + new Date().getTime())
             .then(response => response.text())
             .then(csvText => {
                 let linhasCorrigidas = csvText.replace(/\n(?=[^\^])/g, " ")
@@ -117,12 +127,11 @@ async function carregarTraducoes() {
             .then(dados => {
                 dados.forEach(row => {
                     if (!row.t_key || !row.t_korean || !row.t_key.startsWith("^")) {
-                        console.warn(`⚠️ Linha inválida ignorada em ${arquivo}:`, row);
-                        return; // Ignora linhas desalinhadas
+                        return;
                     }
 
-                    let id = row.t_key.replace(/^(\^)|(\^$)/g, ""); // Remove ^ do início e fim
-                    let textoTraduzido = row.t_korean.replace(/\^/g, "").trim(); // Remove ^ internos
+                    let id = row.t_key.replace(/^(\^)|(\^$)/g, "");
+                    let textoTraduzido = row.t_korean.replace(/\^/g, "").trim();
 
                     if (id.endsWith("_Name")) {
                         id = id.replace("_Name", "");
@@ -134,14 +143,14 @@ async function carregarTraducoes() {
                     }
                 })
             })
-            .catch(error => console.error(`❌ Erro ao carregar ${arquivo}:`, error))
+            .catch(error => console.error(`❌ Error in ${arquivo}:`, error))
     );
 
     await Promise.all(promessas); // Aguarda todos os arquivos carregarem
 }
 
 async function carregarCSV() {
-    const response = await fetch(arquivoPrincipal);
+    const response = await fetch(itemInformations);
     const blob = await response.blob(); // Obtém os dados como um Blob
     const reader = new FileReader();
 
@@ -152,28 +161,32 @@ async function carregarCSV() {
             header: true,
             skipEmptyLines: true,
             complete: function (parsed) {
-                itemArray = parsed.data; // Salva os dados no array global
+                itemArray = parsed.data;
             }
         });
     };
 
-    reader.readAsArrayBuffer(blob); // Lê o Blob como ArrayBuffer
+    reader.readAsArrayBuffer(blob);
 }
 
-function exibirLinhaOriginal(id) {
-    let nomeTraduzido = mapaDeTraducoes[id]?.nome || "";
-
-    if (!nomeTraduzido) {
-        nomeTraduzido = "";
-    }
-
-    let linhaOriginal = `^${id}_Name^,^${nomeTraduzido}^`;
-
-    document.getElementById("nomedoItemtraduzido").value = linhaOriginal;
+async function carregarEffectTranslations() {
+    const response = await fetch(effectsTranslation + "?nocache=" + new Date().getTime());
+    let text = await response.text();
+    let parsed = Papa.parse(text, { header: true, skipEmptyLines: true, delimiter: "," });
+  
+    let effectMap = {};
+  
+    parsed.data.forEach(row => {
+      if (row.t_key && row.t_eng) {
+        let key = row.t_key.trim();
+        effectMap[key] = row.t_eng.trim();
+      }
+    });
+    return effectMap;
 }
 
 async function carregarIconeDoItem(itemID) {
-    const response = await fetch(arquivoIcones);
+    const response = await fetch(buttonIcons + "?nocache=" + new Date().getTime());
     const text = await response.text();
     const lines = text.trim().split(/\r?\n/);
 
@@ -200,10 +213,314 @@ async function carregarIconeDoItem(itemID) {
     }
 }
 
+async function carregarItemSetData() {
+    const response = await fetch("../database/itemdata/itemset_setcharacter.csv" + "?nocache=" + new Date().getTime());
+    const buffer = await response.arrayBuffer(); // Lê como array buffer
+    const text = new TextDecoder("euc-kr").decode(buffer); // Decodifica como EUC-KR
+    let parsed = Papa.parse(text, { 
+        header: true, 
+        skipEmptyLines: true, 
+        delimiter: ";" 
+    });
+    itemSetData = parsed.data;
+}
+
+async function carregarSetNameTranslations() {
+    const response = await fetch("../database/translate/localstringdata_item_setitem.csv" + "?nocache=" + new Date().getTime());
+    const text = await response.text();
+    // Faz o parse do CSV usando vírgula como delimitador
+    let parsed = Papa.parse(text, { header: true, skipEmptyLines: true, delimiter: "," });
+    
+    parsed.data.forEach(row => {
+      if (row.t_key && row.t_korean) {
+        // Remove os '^' e o sufixo _Name, converte a chave para minúsculo para padronização
+        let key = row.t_key.replace(/\^/g, "").replace("_Name", "").trim().toLowerCase();
+
+        // Armazena a tradução exatamente como está (mantendo a case original)
+        setNameMap[key] = row.t_korean.replace(/\^/g, "").trim();
+      }
+    });
+  }
+
+async function carregarDadosSets() {
+  await Promise.all([
+    carregarItemSetData(),
+    carregarSetNameTranslations(),
+    carregarEffectTranslations()
+  ]);
+}
+
+async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, containerId) {
+    let effectMap = await carregarEffectTranslations();
+    let container = document.getElementById(containerId);
+    if (!container) return;
+
+    if (countEffect > 0) {
+        container.style.display = "block";
+
+        for (let j = 1; j <= 4; j++) {
+            let effectElem = document.getElementById(`${effectPrefix}${j}`);
+
+            let effectField = setRow[`${effectPrefix}${j}`];
+            if (effectField && effectField.trim() !== "*") {
+                let effectStr = effectField.replace(/[(\')]/g, "").split(",");
+                let chaveOriginal = effectStr[0].trim();
+                let valorStr = effectStr[1] ? effectStr[1].trim() : "";
+
+                let simbolo = "";
+                if (chaveOriginal.endsWith("%") || chaveOriginal.endsWith("+")) {
+                    simbolo = chaveOriginal.slice(-1);
+                    chaveOriginal = chaveOriginal.slice(0, -1).trim();
+                }
+
+                let traducao = effectMap[chaveOriginal] || chaveOriginal;
+
+                let valorNumerico = parseFloat(valorStr);
+                let sinal = "";
+                if (simbolo === "+" && valorNumerico > 0) {
+                    sinal = "+";
+                }
+
+                let efeitoFinal = traducao;
+                if (!isNaN(valorNumerico)) {
+                    efeitoFinal += simbolo === "%" ? ` ${sinal}${valorNumerico}%` : ` ${sinal}${valorNumerico}`;
+                }
+
+                effectElem.innerText = efeitoFinal;
+                effectElem.style.display = "flex";
+            } else {
+                effectElem.style.display = "none";
+            }
+        }
+
+        // Atualiza a skill
+        let skillElem = document.getElementById(skillId);
+        if (skillElem && skillElem != 0.000000) {
+            let skillText = setRow[skillId];
+            skillElem.innerText = skillText && skillText.trim() !== "*" ? skillText.trim() : "";
+        }
+    } else {
+        // Se countEffect for 0, oculta o container
+        container.style.display = "none";
+    }
+}
+async function carregarCodigoItem(itemID) {
+    try {
+        const response = await fetch(itemInformations + "?nocache=" + new Date().getTime());
+        const csvText = await response.text();
+
+        let linhas = csvText.split("\n");
+        let header = linhas[0].split(",");
+        let dados = linhas.slice(1).map(linha => linha.split(","));
+
+        let indexID = header.indexOf("t_key"); // Encontra a coluna do ID
+
+        let itemEncontrado = dados.find(row => row[indexID] === `^${itemID}^`);
+
+        if (itemEncontrado) {
+            document.getElementById("codigoItem").value = itemEncontrado.join(",");
+        } else {
+            document.getElementById("codigoItem").value = "Item não encontrado.";
+        }
+    } catch (error) {
+        console.error("Erro ao carregar o CSV:", error);
+        document.getElementById("codigoItem").value = "Erro ao carregar os dados.";
+    }
+}
+function carregarItens() {
+    let container = document.getElementById("t_item");
+    container.innerHTML = ""; // Limpa os botões antes de gerar novos
+
+    let setRow = itemSetData.find(row => {
+        for (let i = 1; i <= 14; i++) {
+            let campo = row[`t_item${i}`];
+            if (campo && campo.trim() === itemID) {
+                return true;
+            }
+        }
+        return false;
+    });
+
+    for (let i = 1; i <= 14; i++) {
+        let campo = setRow[`t_item${i}`]; // Pegando do seu objeto setRow
+        if (campo && campo.trim() !== "*") {
+            let btn = document.createElement("button");
+            btn.id = `t_item${i}`;
+            btn.className = "espaco3 cinza";
+            btn.innerText = mapaDeTraducoes[campo]?.nome || campo;
+            btn.dataset.itemId = campo; // Guarda o ID do item no botão
+
+            btn.addEventListener("click", () => carregarCodigoItem(campo));
+
+            container.appendChild(btn);
+        }
+    }
+}
+
+async function atualizarSetDiv(itemID) {
+    // Carrega os dados, se ainda não estiverem carregados
+    await carregarDadosSets();
+  
+    const setDiv = document.getElementById("setdivcompleto");
+    if (!setDiv) return;
+    const container = document.getElementById("t_item");
+    // Procura uma linha em itemSetData onde algum dos campos t_item1 a t_item14 seja igual ao itemID
+    let setRow = itemSetData.find(row => {
+        for (let i = 1; i <= 14; i++) {
+            let campo = row[`t_item${i}`];
+            if (campo && campo.trim() === itemID) {
+                return true;
+            }
+        }
+        return false;
+    });
+  
+    if (!setRow) {
+      // Item não faz parte de nenhum set: oculta a div
+      setDiv.style.display = "none";
+      return;
+    }
+  
+    // Caso o item faça parte do set, mostra a div
+    setDiv.style.display = "block";
+  
+    // Atualiza o nome do set
+    let setID = setRow.t_setid.trim().toLowerCase(); // Por exemplo, "Setall31"
+    let setNameTraduzido = setNameMap[setID] || setID;
+  
+    // Conta quantos itens fazem parte do set (t_item1 a t_item14 que não são "*")
+    let countItems = 0;
+    for (let i = 1; i <= 14; i++) {
+        let campo = setRow[`t_item${i}`];
+        let elem = document.getElementById(`t_item${i}`);
+        if (campo && campo.trim() !== "*") {
+            countItems++;
+
+            if (elem) {
+                elem.innerText = mapaDeTraducoes[campo]?.nome || itemID;
+                elem.style.display = "block";  // Certifica que está visível
+            }
+        } else {
+            if (elem) {
+                elem.innerText = "";
+                elem.style.display = "none";   // Oculta se for "*"
+            }
+        }
+    }
+    document.getElementById("setname").innerText = setNameTraduzido + " (0/" + countItems + ")";
+
+    // Atualiza os efeitos do set para o grupo 1 como exemplo
+    // Verifica se seteffect1_count é maior que 0
+    let countEffect1 = parseInt(setRow.seteffect1_count);
+    let countEffect2 = parseInt(setRow.seteffect2_count);
+    let countEffect3 = parseInt(setRow.seteffect3_count);
+    let countEffect4 = parseInt(setRow.seteffect4_count);
+    let countEffect5 = parseInt(setRow.seteffect5_count);
+    let countEffect6 = parseInt(setRow.seteffect6_count);
+    let countEffect7 = parseInt(setRow.seteffect7_count);
+    let countEffect8 = parseInt(setRow.seteffect8_count);
+
+    document.getElementById("seteffect1").innerText = `Set Effects (${countEffect1})`;
+    document.getElementById("seteffect2").innerText = `Set Effects (${countEffect2})`;
+    document.getElementById("seteffect3").innerText = `Set Effects (${countEffect3})`;
+    document.getElementById("seteffect4").innerText = `Set Effects (${countEffect4})`;
+    document.getElementById("seteffect5").innerText = `Set Effects (${countEffect5})`;
+    document.getElementById("seteffect6").innerText = `Set Effects (${countEffect6})`;
+    document.getElementById("seteffect7").innerText = `Set Effects (${countEffect7})`;
+    document.getElementById("seteffect8").innerText = `Set Effects (${countEffect8})`;
+
+    // Atualiza os efeitos:
+    atualizarSetEffect(setRow, countEffect1, "t_seteffect1_effect", "t_seteffect1_skill", "hasseteffect1")
+    atualizarSetEffect(setRow, countEffect2, "t_seteffect2_effect", "t_seteffect2_skill", "hasseteffect2")
+    atualizarSetEffect(setRow, countEffect3, "t_seteffect3_effect", "t_seteffect3_skill", "hasseteffect3")
+    atualizarSetEffect(setRow, countEffect4, "t_seteffect4_effect", "t_seteffect4_skill", "hasseteffect4")
+    atualizarSetEffect(setRow, countEffect5, "t_seteffect5_effect", "t_seteffect5_skill", "hasseteffect5")
+    atualizarSetEffect(setRow, countEffect6, "t_seteffect6_effect", "t_seteffect6_skill", "hasseteffect6")
+    atualizarSetEffect(setRow, countEffect7, "t_seteffect7_effect", "t_seteffect7_skill", "hasseteffect7")
+    atualizarSetEffect(setRow, countEffect8, "t_seteffect8_effect", "t_seteffect8_skill", "hasseteffect8")
+    
+}
+
+function formatarTempo(segundos) {
+    let dias = Math.floor(segundos / 86400);
+    segundos %= 86400;
+    let horas = Math.floor(segundos / 3600);
+    segundos %= 3600;
+    let minutos = Math.floor(segundos / 60);
+    segundos %= 60;
+
+    let resultado = [];
+
+    if (dias > 0) resultado.push(`${dias}Days`);
+    if (horas > 0) resultado.push(`${horas}Hours`);
+    if (minutos > 0) resultado.push(`${minutos}Min`);
+    if (segundos > 0) resultado.push(`${segundos}Secs`);
+
+    return resultado.join(", ");
+}
+
+async function processarEfeitosDoItem() {
+    let effectMap = await carregarEffectTranslations();
+    let codigoBruto = document.getElementById("codigoItem").value.trim();
+
+    if (!codigoBruto) return;
+
+    let partes = codigoBruto.split(";");
+    let efeitos = [partes[17], partes[18], partes[19], partes[20]]; // Efeitos do item
+
+    efeitos.forEach((efeito, index) => {
+        let elementoEfeito = document.getElementById(`itemEfeito${index + 1}`);
+
+        if (!efeito || efeito.trim() === "*") {
+            elementoEfeito.parentElement.style.display = "none";
+            return;
+        }
+
+        let efeitoFormatado = efeito.replace(/[()]/g, "").split(",");
+        let termoOriginal = efeitoFormatado[0].trim();
+        let valorNumerico = efeitoFormatado[1] ? efeitoFormatado[1].trim() : null;
+
+        let simbolo = termoOriginal.slice(-1);
+        let termoBase = (simbolo === "%" || simbolo === "+") ? termoOriginal.slice(0, -1).trim() : termoOriginal.trim();
+
+        let termoTraduzido = effectMap[termoBase] || termoBase;
+
+        let efeitoFinal = termoTraduzido;
+
+        if (valorNumerico !== null) {
+            let numero = parseFloat(valorNumerico);
+            if (simbolo === "%" && numero > 0) {
+                efeitoFinal += ` +${numero}%`;
+            } else if (simbolo === "%" && numero < 0) {
+                efeitoFinal += ` ${numero}%`;
+            } else if (simbolo === "+") {
+                efeitoFinal += numero > 0 ? ` +${numero}` : ` ${numero}`;
+            } else {
+                efeitoFinal += ` ${numero}`;
+            }
+        }
+
+        elementoEfeito.innerText = efeitoFinal;
+        elementoEfeito.parentElement.style.display = "block";
+    });
+}
+
+function exibirLinhaOriginal(id) {
+    let nomeTraduzido = mapaDeTraducoes[id]?.nome || "";
+
+    if (!nomeTraduzido) {
+        nomeTraduzido = "";
+    }
+
+    let linhaOriginal = `^${id}_Name^,^${nomeTraduzido}^`;
+
+    document.getElementById("nomedoItemtraduzido").value = linhaOriginal;
+}
+
 function atualizarItem() {
     let codigoBruto = document.getElementById("codigoItem").value.trim();
     if (!codigoBruto) {
-        document.getElementById("codigoItem").value = itemPadrao;
+        document.getElementById("codigoItem").value = itemDefault;
 
         // Atualiza codigoBruto para evitar erro no split()
         codigoBruto = document.getElementById("codigoItem").value;
@@ -254,7 +571,7 @@ function atualizarItem() {
         let classvendas = partes[40]; // Classificação da agência de vendas
         let efeitohabilidade = partes[41]; // Efeito de habilidade
         let ignoraverificacao = partes[42]; // Ignora a verificação de nivel quando descartavel
-        let periudodeuso = partes[43]; // Período de uso
+        let tempodeuso = partes[43]; // Período de uso
         let gradeupcodekey = partes[44]; // Grade up code key
         let gradeupresult = partes[45]; // Grade up result
         let iddesmontagem = partes[46]; // Id de desmontagem
@@ -368,15 +685,22 @@ function atualizarItem() {
                 respostatipoacc = tipoacc;
         }
         
+
+        if (iddesmontagem == "*") {
+            document.getElementById("naopodedismantling").style.display = "block";
+        } else {
+            document.getElementById("naopodedismantling").style.display = "none";
+        }
+        
         if (parseInt(desvinculacao) == 0) {
-            document.getElementById("unbinds").style.display = "block";
+            document.getElementById("naopodeunbind").style.display = "block";
             document.getElementById("unbinds").style.display = "none";
-        } else if (parseInt(disposed) == 0) {
-            document.getElementById("unbinds").style.display = "block";
+        } else if (parseInt(disposed) > 0) {
+            document.getElementById("naopodeunbind").style.display = "block";
             document.getElementById("unbinds").style.display = "none";
         } else {
+            document.getElementById("naopodeunbind").style.display = "none";
             document.getElementById("unbinds").style.display = "block";
-            document.getElementById("unbinds").style.display = "none";
         }
 
         if (parseInt(reforco) == 0) {
@@ -389,16 +713,19 @@ function atualizarItem() {
             document.getElementById("temperingname").style.display = "block";
         }
 
-        if (aplicacaoaleaatoriamax < 1) {
+        if (aplicacaoaleaatoria < 1) {
             document.getElementById("randomeffects").style.display = "none";
         } else {
             document.getElementById("randomeffects").style.display = "block";
+            document.getElementById("efeitosaleatoriosmin").innerText = parseInt(aplicacaoaleaatoriamin);
+            document.getElementById("efeitosaleatoriosmax").innerText = parseInt(aplicacaoaleaatoriamax);
         }
 
         switch (parseInt(efeitohabilidade)) {
             case 1:
                 document.getElementById("temefeitos").style.display = "block";
                 document.getElementById("oefeito").style.display = "block";
+                document.getElementById("oefeito").innerText = efeitohabilidade;
                 break;
             default:
                 document.getElementById("temefeitos").style.display = "none";
@@ -412,33 +739,16 @@ function atualizarItem() {
             document.getElementById("barraslots").style.display = "block";
             document.getElementById("selosslots").style.display = "block";
         }
-
-        // Converte para inteiro
-        let preco = parseInt(precosell);
-        let precoElemento = document.getElementById("itemPreco");
-        let salePriceElemento = document.getElementById("saleprice");
-        let barrasaleElemento = document.getElementById("barrasale");
-
-        // Obtém as moedas
-        let gold = Math.floor(preco / 10000);
-        let silver = Math.floor((preco % 10000) / 100);
-        let copper = preco % 100;
-        // Define os ícones como imagens
-        let goldIcon = '<img src="../imgs/goldcoin.png" class="moeda gold" />';
-        let silverIcon = '<img src="../imgs/silvercoin.png" class="moeda silver" />';
-        let copperIcon = '<img src="../imgs/coppercoin.png" class="moeda copper" />';
-
-
-        // Array para armazenar as partes do preço
-        let precoFormatado = [];
-
-        switch (true) {
-            case gold > 0:
-                precoFormatado.push(`<span class="moeda gold">${gold}${goldIcon}</span>`);
-            case silver > 0:
-                precoFormatado.push(`<span class="moeda silver">${silver}${silverIcon}</span>`);
-            case copper > 0:
-                precoFormatado.push(`<span class="moeda copper">${copper}${copperIcon}</span>`);
+        
+        if (parseInt(tempodeuso) == 0) {
+            document.getElementById("barraduration").style.display = "none";
+            document.getElementById("textduration").style.display = "none";
+            document.getElementById("durationtime").style.display = "none";
+        } else {
+            document.getElementById("barraduration").style.display = "block";
+            document.getElementById("textduration").style.display = "block";
+            document.getElementById("durationtime").style.display = "block";
+            document.getElementById("durationtime").innerText = formatarTempo(parseInt(tempodeuso))
         }
 
         // Exibir informações básicas
@@ -453,90 +763,54 @@ function atualizarItem() {
         document.getElementById("tipoEquipamento").innerText = respostatipoacc;
         document.getElementById("temperinglevel").innerText = parseInt(reforco);
         document.getElementById("unbinds").innerText = `Unbindings Available ${parseInt(desvinculacao)}/${parseInt(desvinculacao)}`;
-        document.getElementById("oefeito").innerText = efeitohabilidade;
-        document.getElementById("efeitosaleatoriosmin").innerText = parseInt(aplicacaoaleaatoriamin);
-        document.getElementById("efeitosaleatoriosmax").innerText = parseInt(aplicacaoaleaatoriamax);
-        document.getElementById("itemPreco").innerHTML = precoFormatado.join(" ");
-
-        if (preco > 0) {
-            precoElemento.innerHTML = precoFormatado.join(" ");
-            salePriceElemento.style.display = "block"; // Exibe caso esteja oculto
-            barrasaleElemento.style.display = "block"; // Exibe caso esteja oculto
-        } else {
-            salePriceElemento.style.display = "none"; // Oculta caso o preço seja 0
-            barrasaleElemento.style.display = "none"; // Oculta caso o preço seja 0
-        }
 
         document.getElementById("itemRaridade").style.color = cor;
         document.getElementById("itemNome").style.color = cor;
+
+        
+        // Array para armazenar as partes do preço
+        let precoFormatado = [];
+        // Converte para inteiro PRECO DO ITEM
+        let preco = parseInt(precosell);
+        let precoElemento = document.getElementById("itemPreco");
+        let salePriceElemento = document.getElementById("saleprice");
+        let barrasaleElemento = document.getElementById("barrasale");
+        let divsaleElemento = document.getElementById("divsale");
+
+        // Obtém as moedas
+        let gold = Math.floor(preco / 10000);
+        let silver = Math.floor((preco % 10000) / 100);
+        let copper = preco % 100;
+        // Define os ícones como imagens
+        let goldIcon = '<img src="../imgs/Coingold.png" class="moeda gold" />';
+        let silverIcon = '<img src="../imgs/Coinsilver.png" class="moeda silver" />';
+        let copperIcon = '<img src="../imgs/Coincopper.png" class="moeda copper" />';
+
+        switch (true) {
+            case gold > 0:
+                precoFormatado.push(`<span class="moeda gold">${gold}${goldIcon}</span>`);
+            case silver > 0:
+                precoFormatado.push(`<span class="moeda silver">${silver}${silverIcon}</span>`);
+            case copper > 0:
+                precoFormatado.push(`<span class="moeda copper">${copper}${copperIcon}</span>`);
+        }
+
+        if (preco > 0) {
+            precoElemento.innerHTML = precoFormatado.join(" ");
+            salePriceElemento.style.display = "block"; 
+            barrasaleElemento.style.display = "block"; 
+            divsaleElemento.style.display = "flex";
+        } else {
+            salePriceElemento.style.display = "none";
+            barrasaleElemento.style.display = "none";
+            divsaleElemento.style.display = "none";
+        }
+
+        document.getElementById("itemPreco").innerHTML = precoFormatado.join(" ");
+        atualizarSetDiv(id);
     } else {
         alert("Invalid code!, This code is for Rings or Necklace?");
     }
-}
-
-async function carregarEfeitos() {
-    let resposta = await fetch(arquivoEfeitos);
-    let texto = await resposta.text();
-    let linhas = texto.split("\n");
-
-    let mapaEfeitos = {};
-
-    linhas.forEach(linha => {
-        let partes = linha.split(",");
-        if (partes.length === 2) {
-            let chave = partes[0].trim();
-            let traducao = partes[1].trim();
-            mapaEfeitos[chave] = traducao;
-        }
-    });
-
-    return mapaEfeitos;
-}
-
-async function processarEfeitosDoItem() {
-    let mapaEfeitos = await carregarEfeitos();
-    let codigoBruto = document.getElementById("codigoItem").value.trim();
-
-    if (!codigoBruto) return;
-
-    let partes = codigoBruto.split(";");
-    let efeitos = [partes[17], partes[18], partes[19], partes[20]]; // Efeitos do item
-
-    efeitos.forEach((efeito, index) => {
-        let elementoEfeito = document.getElementById(`itemEfeito${index + 1}`);
-
-        if (!efeito || efeito.trim() === "*") {
-            elementoEfeito.parentElement.style.display = "none";
-            return;
-        }
-
-        let efeitoFormatado = efeito.replace(/[()]/g, "").split(",");
-        let termoOriginal = efeitoFormatado[0].trim();
-        let valorNumerico = efeitoFormatado[1] ? efeitoFormatado[1].trim() : null;
-
-        let simbolo = termoOriginal.slice(-1);
-        let termoBase = (simbolo === "%" || simbolo === "+") ? termoOriginal.slice(0, -1).trim() : termoOriginal.trim();
-
-        let termoTraduzido = mapaEfeitos[termoBase] || termoBase;
-
-        let efeitoFinal = termoTraduzido;
-
-        if (valorNumerico !== null) {
-            let numero = parseFloat(valorNumerico);
-            if (simbolo === "%" && numero > 0) {
-                efeitoFinal += ` +${numero}%`;
-            } else if (simbolo === "%" && numero < 0) {
-                efeitoFinal += ` ${numero}%`;
-            } else if (simbolo === "+") {
-                efeitoFinal += numero > 0 ? ` +${numero}` : ` ${numero}`;
-            } else {
-                efeitoFinal += ` ${numero}`;
-            }
-        }
-
-        elementoEfeito.innerText = efeitoFinal;
-        elementoEfeito.parentElement.style.display = "block";
-    });
 }
 
 // ----------------- //
@@ -558,6 +832,7 @@ function mudarItem(index) {
     if (!item) return; // Se não existir, sai da função
 
     document.getElementById("codigoItem").value = Object.values(item).join(";");
+    codigoOriginal = Object.values(item).join(";");
 
     atualizarItem();
     processarEfeitosDoItem();
@@ -574,23 +849,25 @@ function voltarCodigo() {
     processarEfeitosDoItem()
 }
 
-// Carrega Tudo que precisa ao inicia a pagina
+// ---------------- //
+// Carrega a Pagina //
+// ---------------- //
 async function inicializarPagina() {
-    await carregarCSV();
-    await carregarTraducoes();
-    await carregarEfeitos();
-    loadItems(arquivoButton, arquivoIcones, filtraTipo);
+    await carregarCSV()
+    await carregarTraducoes()
+    await carregarEffectTranslations()
+    loadButton()
 
-    // Espera os dados serem carregados antes de atualizar
     if (!itemArray || Object.keys(mapaDeTraducoes).length === 0) {
-        console.warn("⚠️ Dados ainda não carregados. Tentando novamente em 100ms...");
-        setTimeout(inicializarPagina, 100);
-        return;
+        console.warn("⚠️ Dados ainda não carregados. Tentando novamente em 100ms...")
+        setTimeout(inicializarPagina, 100)
+        return
     }
     codigoOriginal = document.getElementById("codigoItem").value;
-    atualizarItem();
-    processarEfeitosDoItem();
-
+    atualizarItem()
+    processarEfeitosDoItem()
+    
+    document.getElementById("itemInfo").style.display = "block";
 }
 
-window.onload = inicializarPagina;
+window.onload = inicializarPagina

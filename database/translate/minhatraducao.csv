@@ -4,3 +4,7 @@ t_key,t_eng
 allstat,All Stats
 모든공격력,Overall Attack
 모든극대화확률,Reverse Enhancement Rate
+무기물리공격력,Phys Attack
+마법물리공격력,Magic Attack
+무기극대력,Phy.Crit DMG
+마법극대력,Magic.Crit DMG
