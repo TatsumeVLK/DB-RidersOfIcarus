@@ -1656,10 +1656,10 @@ function voltarCodigo() {
 // Carrega a Pagina //
 // ---------------- //
 async function inicializarPagina() {
-	mudarItem('AC5_0_6000')
     await carregarCSV()
     await carregarTraducoes()
     await carregarEffectTranslations()
+	mudarItem('AC5_0_6000')
     loadButton()
 
     if (!itemArray || Object.keys(mapaDeTraducoes).length === 0) {
