@@ -1656,7 +1656,7 @@ function voltarCodigo() {
 // Carrega a Pagina //
 // ---------------- //
 async function inicializarPagina() {
-	mudarItem(AC5_0_6000)
+	mudarItem('AC5_0_6000')
     await carregarCSV()
     await carregarTraducoes()
     await carregarEffectTranslations()
