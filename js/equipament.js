@@ -1,4 +1,4 @@
-// --------- //
+﻿// --------- //
 // Variables //
 // --------- //
 const buttonItems = [
@@ -31,19 +31,19 @@ let itemSetData = [];      // Dados do arquivo itemset_setcharacter.csv
 let setNameMap = {};       // Mapeamento do arquivo localstringdata_item_setitem.csv
 let effectMap = {};        // Mapeamento do arquivo minhatraducao.csv
 
-let codigoOriginal = itemDefault// não mexer aqui <<
+let codigoOriginal = itemDefault// n찾o mexer aqui <<
 
 // ------------------ //
 // Carrega a Arquivos //
 // ------------------ //
 async function loadButton() {
     const container = document.getElementById("botaoContainer");
-    container.innerHTML = ""; // Limpa os botões existentes
+    container.innerHTML = ""; // Limpa os bot천es existentes
 
     let mapaDeIcones = {};
     let lines = [];
 
-    // 🔹 Carregar ícones primeiro
+    // ??Carregar 챠cones primeiro
     const responseI = await fetch(buttonIcons + "?nocache=" + new Date().getTime());
     const textI = await responseI.text();
     const linesI = textI.trim().split(/\r?\n/);
@@ -53,16 +53,16 @@ async function loadButton() {
         mapaDeIcones[idI.trim()] = iconI.trim();
     });
 
-    // 🔹 Carregar os arquivos do array
+    // ??Carregar os arquivos do array
     for (const file of buttonItems) {
         const response = await fetch(file + "?nocache=" + new Date().getTime());
         const text = await response.text();
         const fileLines = text.trim().split(/\r?\n/);
-        fileLines.shift(); // Remove o cabeçalho
+        fileLines.shift(); // Remove o cabe챌alho
         lines.push(...fileLines);
     }
 
-    // 🔹 Criar botões para cada item
+    // ??Criar bot천es para cada item
     lines.forEach((line) => {
         const [id, level, rarity, type] = line.split(';');
         let leveli = parseInt(level);
@@ -80,7 +80,7 @@ async function loadButton() {
         let iconFileName = mapaDeIcones[id] || "favicon";
         img.src = `../imgs/${iconFileName}.png`;
 
-        // 🔹 Verifica se a imagem existe
+        // ??Verifica se a imagem existe
         let imgTest = new Image();
         imgTest.src = img.src;
         imgTest.onload = function () {
@@ -105,15 +105,15 @@ async function loadButton() {
         container.appendChild(button);
     });
 
-    // 🔹 Aguarda a tradução dos nomes
+    // ??Aguarda a tradu챌찾o dos nomes
     await carregarTraducoes(); 
     
     if (!mapaDeTraducoes || Object.keys(mapaDeTraducoes).length === 0) {
-        console.warn("mapaDeTraducoes ainda não carregado.");
+        console.warn("mapaDeTraducoes ainda n찾o carregado.");
         return;
     }
 
-    // 🔹 Atualiza os nomes dos itens
+    // ??Atualiza os nomes dos itens
     document.querySelectorAll(".item-button").forEach(button => {
         let itemID = button.getAttribute("data-index"); 
         let itemTraduzido = mapaDeTraducoes[itemID];
@@ -154,7 +154,7 @@ async function carregarTraducoes() {
                     }
                 })
             })
-            .catch(error => console.error(`❌ Error in ${arquivo}:`, error))
+            .catch(error => console.error(`? Error in ${arquivo}:`, error))
     );
 
     await Promise.all(promessas); // Aguarda todos os arquivos carregarem
@@ -166,7 +166,7 @@ async function carregarCSV() {
     // Usando Promise.all para carregar todos os arquivos ao mesmo tempo
     const promises = itemInformations.map(async (file) => {
         const response = await fetch(file + "?nocache=" + new Date().getTime());
-        const blob = await response.blob(); // Obtém os dados como um Blob
+        const blob = await response.blob(); // Obt챕m os dados como um Blob
         const reader = new FileReader();
 
         return new Promise((resolve, reject) => {
@@ -198,7 +198,7 @@ async function carregarCSV() {
     // Espera que todas as promessas sejam resolvidas
     await Promise.all(promises);
 
-    // Quando todos os arquivos forem carregados, você pode usar o array allItems
+    // Quando todos os arquivos forem carregados, voc챗 pode usar o array allItems
     itemArray = allItems;
 }
 
@@ -224,7 +224,7 @@ async function carregarIconeDoItem(itemID) {
     const text = await response.text();
     const lines = text.trim().split(/\r?\n/);
 
-    // Pular o cabeçalho
+    // Pular o cabe챌alho
     // lines.shift();
 
     let iconeEncontrado = null;
@@ -249,7 +249,7 @@ async function carregarIconeDoItem(itemID) {
 
 async function carregarItemSetData() {
     const response = await fetch("../database/itemdata/itemset_setcharacter.csv" + "?nocache=" + new Date().getTime());
-    const buffer = await response.arrayBuffer(); // Lê como array buffer
+    const buffer = await response.arrayBuffer(); // L챗 como array buffer
     const text = new TextDecoder("euc-kr").decode(buffer); // Decodifica como EUC-KR
     let parsed = Papa.parse(text, { 
         header: true, 
@@ -262,15 +262,15 @@ async function carregarItemSetData() {
 async function carregarSetNameTranslations() {
     const response = await fetch("../database/translate/localstringdata_item_setitem.csv" + "?nocache=" + new Date().getTime());
     const text = await response.text();
-    // Faz o parse do CSV usando vírgula como delimitador
+    // Faz o parse do CSV usando v챠rgula como delimitador
     let parsed = Papa.parse(text, { header: true, skipEmptyLines: true, delimiter: "," });
     
     parsed.data.forEach(row => {
       if (row.t_key && row.t_korean) {
-        // Remove os '^' e o sufixo _Name, converte a chave para minúsculo para padronização
+        // Remove os '^' e o sufixo _Name, converte a chave para min첬sculo para padroniza챌찾o
         let key = row.t_key.replace(/\^/g, "").replace("_Name", "").trim().toLowerCase();
 
-        // Armazena a tradução exatamente como está (mantendo a case original)
+        // Armazena a tradu챌찾o exatamente como est찼 (mantendo a case original)
         setNameMap[key] = row.t_korean.replace(/\^/g, "").trim();
       }
     });
@@ -341,7 +341,7 @@ async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, co
 }
 
 async function atualizarSetDiv(itemID) {
-    // Carrega os dados, se ainda não estiverem carregados
+    // Carrega os dados, se ainda n찾o estiverem carregados
     await carregarDadosSets();
   
     const setDiv = document.getElementById("setdivcompleto");
@@ -359,19 +359,19 @@ async function atualizarSetDiv(itemID) {
     });
   
     if (!setRow) {
-      // Item não faz parte de nenhum set: oculta a div
+      // Item n찾o faz parte de nenhum set: oculta a div
       setDiv.style.display = "none";
       return;
     }
   
-    // Caso o item faça parte do set, mostra a div
+    // Caso o item fa챌a parte do set, mostra a div
     setDiv.style.display = "block";
   
     // Atualiza o nome do set
     let setID = setRow.t_setid.trim().toLowerCase(); // Por exemplo, "Setall31"
     let setNameTraduzido = setNameMap[setID] || setID;
   
-    // Conta quantos itens fazem parte do set (t_item1 a t_item14 que não são "*")
+    // Conta quantos itens fazem parte do set (t_item1 a t_item14 que n찾o s찾o "*")
     let countItems = 0;
     for (let i = 1; i <= 14; i++) {
         let campo = setRow[`t_item${i}`];
@@ -381,7 +381,7 @@ async function atualizarSetDiv(itemID) {
 
             if (elem) {
                 elem.innerText = mapaDeTraducoes[campo]?.nome || campo;
-                elem.style.display = "block";  // Certifica que está visível
+                elem.style.display = "block";  // Certifica que est찼 vis챠vel
                 elem.setAttribute("onclick", `mudarItem('${campo}')`);
             }
         } else {
@@ -394,7 +394,7 @@ async function atualizarSetDiv(itemID) {
     document.getElementById("setname").innerText = setNameTraduzido + " (0/" + countItems + ")";
 
     // Atualiza os efeitos do set para o grupo 1 como exemplo
-    // Verifica se seteffect1_count é maior que 0
+    // Verifica se seteffect1_count 챕 maior que 0
     let countEffect1 = parseInt(setRow.seteffect1_count);
     let countEffect2 = parseInt(setRow.seteffect2_count);
     let countEffect3 = parseInt(setRow.seteffect3_count);
@@ -672,11 +672,11 @@ function atualizarItemacc() {
 
         let itemTraduzido = mapaDeTraducoes[id] || {}
         let nomeItem = itemTraduzido.nome || id
-        let descricaoItem = itemTraduzido.descricao || "Descrição não encontrada"
+        let descricaoItem = itemTraduzido.descricao || "Descri챌찾o n찾o encontrada"
 
         document.getElementById("nomedoItemtraduzido").innerText = exibirLinhaOriginal(partes[0]);
         document.getElementById("itemNome").innerText = nomeItem;
-        if (descricaoItem == "Descrição não encontrada") {
+        if (descricaoItem == "Descri챌찾o n찾o encontrada") {
             document.getElementById("description").style.display = "none";
             document.getElementById("itemdescription").style.display = "none";
         } else {
@@ -689,9 +689,9 @@ function atualizarItemacc() {
             1: "#ffffff", // Branco (Comum)
             2: "#00aaFF", // Azul (Elite)
             3: "#ffcc00", // Dourado (Heroico)
-            4: "#ff00ff", // Roxo (Lendário)
+            4: "#ff00ff", // Roxo (Lend찼rio)
             6: "#ffaa55",  // laranja (Unique)
-            7: "#ff1155"  // Vermelho (Mítico)
+            7: "#ff1155"  // Vermelho (M챠tico)
         };
         let cor = coresRaridade[parseInt(rarity)] || "#ffffff";
 
@@ -716,7 +716,7 @@ function atualizarItemacc() {
                 rarityT = "Mythical(Normal)";
                 break;
             default:
-                rarityT = rarity; // Se não for um dos casos, mantém o valor original
+                rarityT = rarity; // Se n찾o for um dos casos, mant챕m o valor original
         }
 
         let bindingT;
@@ -838,7 +838,7 @@ function atualizarItemacc() {
             document.getElementById("durationtime").innerText = formatarTempo(parseInt(usagePeriod))
         }
 
-        // Exibir informações básicas
+        // Exibir informa챌천es b찼sicas
         carregarIconeDoItem(id)
         document.getElementById("itemNivel").innerText = parseInt(requiredLevel);
         document.getElementById("itemRaridade").innerText = rarityT;
@@ -851,7 +851,7 @@ function atualizarItemacc() {
         document.getElementById("itemNome").style.color = cor;
 
         
-        // Array para armazenar as partes do preço
+        // Array para armazenar as partes do pre챌o
         let precoFormatado = [];
         // Converte para inteiro PRECO DO ITEM
         let preco = parseInt(precosell);
@@ -860,11 +860,11 @@ function atualizarItemacc() {
         let barrasaleElemento = document.getElementById("barrasale");
         let divsaleElemento = document.getElementById("divsale");
 
-        // Obtém as moedas
+        // Obt챕m as moedas
         let gold = Math.floor(preco / 10000);
         let silver = Math.floor((preco % 10000) / 100);
         let copper = preco % 100;
-        // Define os ícones como imagens
+        // Define os 챠cones como imagens
         let goldIcon = '<img src="../imgs/Coingold.png" class="moeda gold" />';
         let silverIcon = '<img src="../imgs/Coinsilver.png" class="moeda silver" />';
         let copperIcon = '<img src="../imgs/Coincopper.png" class="moeda copper" />';
@@ -978,11 +978,11 @@ function atualizarItemarmor() {
 
         let itemTraduzido = mapaDeTraducoes[id] || {};
         let nomeItem = itemTraduzido.nome || id;
-        let descricaoItem = itemTraduzido.descricao || "Descrição não encontrada";
+        let descricaoItem = itemTraduzido.descricao || "Descri챌찾o n찾o encontrada";
 
         document.getElementById("nomedoItemtraduzido").innerText = exibirLinhaOriginal(partes[0]);
         document.getElementById("itemNome").innerText = nomeItem;
-        if (descricaoItem == "Descrição não encontrada") {
+        if (descricaoItem == "Descri챌찾o n찾o encontrada") {
             document.getElementById("description").style.display = "none";
             document.getElementById("itemdescription").style.display = "none";
         } else {
@@ -994,9 +994,9 @@ function atualizarItemarmor() {
             1: "#ffffff", // Branco (Comum)
             2: "#00aaFF", // Azul (Elite)
             3: "#ffcc00", // Dourado (Heroico)
-            4: "#ff00ff", // Roxo (Lendário)
+            4: "#ff00ff", // Roxo (Lend찼rio)
             6: "#ffaa55",  // laranja (Unique)
-            7: "#ff1155"  // Vermelho (Mítico)
+            7: "#ff1155"  // Vermelho (M챠tico)
         };
         let cor = coresRaridade[parseInt(rarity)] || "#ffffff";
 
@@ -1151,7 +1151,7 @@ function atualizarItemarmor() {
             document.getElementById("durationtime").innerText = formatarTempo(parseInt(usagePeriod))
         }
 
-        // Exibir informações básicas
+        // Exibir informa챌천es b찼sicas
         carregarIconeDoItem(id)
         document.getElementById("itemNivel").innerText = parseInt(requiredLevel);
         document.getElementById("itemRaridade").innerText = rarityT;
@@ -1307,11 +1307,11 @@ function atualizarItemWeapon() {
 
         let itemTraduzido = mapaDeTraducoes[id] || {};
         let nomeItem = itemTraduzido.nome || id;
-        let descricaoItem = itemTraduzido.descricao || "Descrição não encontrada";
+        let descricaoItem = itemTraduzido.descricao || "Descri챌찾o n찾o encontrada";
 
         document.getElementById("nomedoItemtraduzido").innerText = exibirLinhaOriginal(partes[0]);
         document.getElementById("itemNome").innerText = nomeItem;
-        if (descricaoItem == "Descrição não encontrada") {
+        if (descricaoItem == "Descri챌찾o n찾o encontrada") {
             document.getElementById("description").style.display = "none";
             document.getElementById("itemdescription").style.display = "none";
         } else {
@@ -1323,9 +1323,9 @@ function atualizarItemWeapon() {
             1: "#ffffff", // Branco (Comum)
             2: "#00aaFF", // Azul (Elite)
             3: "#ffcc00", // Dourado (Heroico)
-            4: "#ff00ff", // Roxo (Lendário)
+            4: "#ff00ff", // Roxo (Lend찼rio)
             6: "#ffaa55",  // laranja (Unique)
-            7: "#ff1155"  // Vermelho (Mítico)
+            7: "#ff1155"  // Vermelho (M챠tico)
         };
         let cor = coresRaridade[parseInt(rarity)] || "#ffffff";
 
@@ -1501,7 +1501,7 @@ function atualizarItemWeapon() {
             document.getElementById("durationtime").innerText = formatarTempo(parseInt(usagePeriod))
         }
 
-        // Exibir informações básicas
+        // Exibir informa챌천es b찼sicas
         carregarIconeDoItem(id)
         document.getElementById("itemNivel").innerText = parseInt(requiredLevel);
         document.getElementById("itemRaridade").innerText = rarityT;
@@ -1559,7 +1559,7 @@ function contarValoresNaLinha(linha) {
 }
 
 // ----------------- //
-// Botões Principais //
+// Bot천es Principais //
 // ----------------- //
 function filtrarItems() {
     let input = document.getElementById("searchBar").value.toLowerCase();
@@ -1575,7 +1575,7 @@ function mudarItem(id) {
     let item = itemArray.find(item => item.t_id === id);
 
     if (!item) {
-        console.error("Item não encontrado:", id);
+        console.error("Item n찾o encontrado:", id);
         return;
     }
 
@@ -1599,7 +1599,7 @@ function mudarItem(id) {
         atualizarItemWeapon()
         processarEfeitosDoItemWeapon()
     } else {
-        console.log("Número de valores na linha:", contarValoresNaLinha(codigoBruto));
+        console.log("N첬mero de valores na linha:", contarValoresNaLinha(codigoBruto));
         alert("Invalid code!, This code could not be recognized, please check it again.");
     }
 }
@@ -1622,7 +1622,7 @@ function carregarCodigo() {
         atualizarItemWeapon()
         processarEfeitosDoItemWeapon()
     } else {
-        console.log("Número de valores na linha:", contarValoresNaLinha(codigoBruto));
+        console.log("N첬mero de valores na linha:", contarValoresNaLinha(codigoBruto));
         alert("Invalid code!, This code could not be recognized, please check it again.");
     }
 }
@@ -1647,7 +1647,7 @@ function voltarCodigo() {
         atualizarItemWeapon()
         processarEfeitosDoItemWeapon()
     } else {
-        console.log("Número de valores na linha:", contarValoresNaLinha(codigoBruto));
+        console.log("N첬mero de valores na linha:", contarValoresNaLinha(codigoBruto));
         alert("Invalid code!, This code could not be recognized, please check it again.");
     }
 }
@@ -1662,7 +1662,7 @@ async function inicializarPagina() {
     loadButton()
 
     if (!itemArray || Object.keys(mapaDeTraducoes).length === 0) {
-        console.warn("⚠️ Dados ainda não carregados. Tentando novamente em 100ms...")
+        console.warn("?截 Dados ainda n찾o carregados. Tentando novamente em 100ms...")
         setTimeout(inicializarPagina, 100)
         return
     }
@@ -1683,7 +1683,7 @@ async function inicializarPagina() {
         atualizarItemWeapon()
         processarEfeitosDoItemWeapon()
     } else {
-        console.log("Número de valores na linha:", contarValoresNaLinha(codigoBruto));
+        console.log("N첬mero de valores na linha:", contarValoresNaLinha(codigoBruto));
         alert("Invalid code!, This code could not be recognized, please check it again.");
     }
     
