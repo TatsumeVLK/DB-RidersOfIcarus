@@ -8,6 +8,7 @@
     <link rel="shortcut icon" href="../imgs/favicon.png" />
 </head>
 <body>
+    <div id="config" data-button-type="ha" data-item-default="AR0_007_1_00001;냉혈의 수호 투구;0.000000;65.000000;0.000000;135.000000;GD;GD;*;7.000000;ha;pl;no;0.000000;1319.000000;1053.000000;90.000000;262629.000000;26263.800781;(PK방어력%,35);(최대HP%,10);(출혈방어율,12);(데미지감소%,1);1.000000;4.000000;4.000000;3000,4000,2750,250;4.000000;4.000000;*;0.000000;0.000000;1.000000;W;N;N;10.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;1.000000;Auction_211;*;0.000000;0.000000;GU_Test_3_4430;AR4_400_1_10928;*;*;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;30.000000;3150.000000;1.000000;MA_13_1054;MA_13_1055"></div>
     <div class="conteiner">
         <div class="selecionar">
             <input type="text" id="searchBar" placeholder=" Search..." onkeyup="filtrarItems()">
@@ -20,7 +21,7 @@
                 <p><span id="itemRaridade">Common(Normal)</span></p>
                 <div class="imginfos">
                     <img src="../imgs/favicon.png" class="foto" id="itemIcone" />
-                    <p>Magic Defense <span id="itemMagicDefense"></span></p>
+                    <p><span id="itemMagicDefense"></span></p>
                 </div>
                 <hr class="espaco1" />
                 <div class="espacoentre espaco2">
@@ -36,15 +37,20 @@
                 <p class="espaco verde"><span id="unbinds"></span></p>
                 <hr id="temefeitos" class="espaco1" />
                 <p><span id="oefeito" class="espaco"></span></p>
-                <hr class="espaco1" />
-                <p><span id="equipedeffects" class="espaco amarelo">Equipped Effects</span></p>
-                <p class="espaco3 verde2"><span id="itemEfeito1"></span></p>
-                <p class="espaco3 verde2"><span id="itemEfeito2"></span></p>
-                <p class="espaco3 verde2"><span id="itemEfeito3"></span></p>
-                <p class="espaco3 verde2"><span id="itemEfeito4"></span></p>
-                <p class="espaco3" id="randomeffects"><span id="efeitosaleatoriosmin"></span> - <span id="efeitosaleatoriosmax"></span> Random Effects</p>
+                <div id="temefeitoserandomeffects">
+                    <hr class="espaco1" />
+                    <p><span id="equipedeffects" class="espaco amarelo">Equipped Effects</span></p>
+                    <p class="espaco3 verde2"><span id="itemEfeito1"></span></p>
+                    <p class="espaco3 verde2"><span id="itemEfeito2"></span></p>
+                    <p class="espaco3 verde2"><span id="itemEfeito3"></span></p>
+                    <p class="espaco3 verde2"><span id="itemEfeito4"></span></p>
+                    <p class="espaco3" id="randomeffects"><span id="efeitosaleatoriosmin"></span> - <span id="efeitosaleatoriosmax"></span> Random Effects</p>
+                </div>
                 <hr class="espaco1" id="barraslots" />
-                <p><span id="selosslots"></span></p>
+                <div id="divSlot">
+                    <img src="../imgs/favicon.png" id="sealSlotIcon" class="espaco"/>
+                    <span id="selosslots" class="espaco"></span>
+                </div>
                 <hr class="espaco1" id="description" />
                 <p><span id="itemdescription"></span></p>
                 <div id="setdivcompleto">
@@ -139,7 +145,7 @@
             </div>
         </div>
     </div>
-    <script src="../js/helmet.js"></script>
+    <script src="../js/equipament.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 </body>
 </html>
