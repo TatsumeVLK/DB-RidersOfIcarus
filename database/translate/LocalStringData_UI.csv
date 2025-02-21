@@ -1043,9 +1043,9 @@ t_key,t_korean
 ^ui_reinforce_successrate_low^,^Low^
 ^ui_reinforce_successrate_middle^,^Normal^
 ^ui_reinforce_successrate_high^,^High^
-^ui_tooltip_reinforce_down^,^You can use elluns to prevent your items from losing levels on a tempeRing failure.^
-^ui_tooltip_reinforce_init^,^You can use elluns to prevent your items from having their levels reset on a tempeRing failure.^
-^ui_tooltip_reinforce_destroy^,^You can use elluns to prevent your items from being destroyed on a tempeRing failure.^
+^ui_tooltip_reinforce_down^,^You can use elluns to prevent your items from losing levels on a tempering failure.^
+^ui_tooltip_reinforce_init^,^You can use elluns to prevent your items from having their levels reset on a tempering failure.^
+^ui_tooltip_reinforce_destroy^,^You can use elluns to prevent your items from being destroyed on a tempering failure.^
 ^ui_waitrank^,^Queue Status^
 ^ui_waitrank_calculating^,^Calculating...^
 ^battalion^,^Raid^
@@ -1322,7 +1322,7 @@ t_key,t_korean
 ^ui_btn_close^,^Close^
 ^ui_btn_cancel^,^Cancel^
 ^ui_characterinfo_label_assistance^,^Secondary^
-^tooltip_character_castingspeedmult^,^Reduces casting, tempeRing, and crafting times.^
+^tooltip_character_castingspeedmult^,^Reduces casting, tempering, and crafting times.^
 ^tooltip_character_cooltimemult^,^Reduces skill cooldown time.^
 ^tooltip_character_ap_recovery^,^Use elluns to restore your taming points. Premium Service members may refill their taming points for free once per day.^
 ^ui_premiumbox_desc^,^When the icon disappears, you can get PC Cafe Event Package II. <br> PC Cafe Event Package II will be sent to Ellora's Storage.^
@@ -1413,9 +1413,9 @@ t_key,t_korean
 ^ui_title_autocheck^,^Auto-Report^
 ^ui_title_waitingline^,^Queue^
 ^ui_title_soultalents^,^Select Talent^
-^ui_title_reinforce^,^TempeRing Items^
+^ui_title_reinforce^,^Tempering Items^
 ^ui_title_chattaboption^,^탭 옵션^
-^ui_title_dellimittimeitem^,^ExpiRing Items^
+^ui_title_dellimittimeitem^,^Expiring Items^
 ^ui_title_guildcreate^,^Guild Creation^
 ^ui_title_guildmanager^,^Rank Setting^
 ^ui_title_partyauction^,^Check Bid^
@@ -1465,7 +1465,7 @@ t_key,t_korean
 ^ui_title_realtimeopt_clear^,^Disable Realtime Optimization^
 ^ui_title_alert_belonging^,^Bind^
 ^ui_title_learn_tech^,^Obtain Technique^
-^ui_title_itemwork_reinforce^,^TempeRing Items^
+^ui_title_itemwork_reinforce^,^Tempering Items^
 ^ui_title_itemwork_extraction^,^Item Extraction^
 ^ui_title_itemwork_removebelong^,^Unbind^
 ^ui_title_itemwork_resetbelong^,^Unbind^
@@ -1654,7 +1654,7 @@ t_key,t_korean
 ^ui_fellowinfo_fellowskill^,^Familiar Skills^
 ^ui_fellowlist_level^,^Level^
 ^ui_fellowlist_grade^,^Grade^
-^ui_fellowlist_reinforce^,^TempeRing^
+^ui_fellowlist_reinforce^,^Tempering^
 ^ui_fellowlist_namechange^,^Change Name^
 ^ui_fellowlist_summon^,^Summon^
 ^ui_fellowlist_release^,^Release^
@@ -2090,8 +2090,8 @@ t_key,t_korean
 ^ui_quickslot_fellow_edittitle^,^Familiar Skills^
 ^ui_randombox_btnok^,^확인^
 ^ui_randombox_btncancel^,^취소^
-^ui_reinforcefellow_title^,^Familiar TempeRing^
-^ui_reinforcefellow_btnok^,^TempeRing^
+^ui_reinforcefellow_title^,^Familiar Tempering^
+^ui_reinforcefellow_btnok^,^Tempering^
 ^ui_secondpassword_local_1^,^Set secondary password^
 ^ui_secondpassword_local_2^,^Enter 4 digit number^
 ^ui_secondpassword_local_3^,^re-enter the 4 digit number^
@@ -2404,7 +2404,7 @@ t_key,t_korean
 ^ui_la_slotname^,^Appearance^
 ^ui_la_savemode^,^Save^
 ^ui_la_loadmode^,^Load Preset^
-^ui_reinforce_drop_warning^,^Caution: Failing may degrade the item's tempeRing by 1 level.^
+^ui_reinforce_drop_warning^,^Caution: Failing may degrade the item's tempering by 1 level.^
 ^ui_btn_cashshop_refresh^,^Refresh^
 ^ui_title_acc_gemslot^,^Accessory Gem Slot^
 ^ui_title_extract_acc_gem^,^Extract Gem^
@@ -2447,7 +2447,7 @@ t_key,t_korean
 ^shop_tab_fellow_shard_cash^,^Cash Pet Fragment^
 ^randombox_default^,^randombox in use^
 ^randombox_casting^,^Evaluating item^
-^reinforcestone_rand^,^TempeRing Items^
+^reinforcestone_rand^,^Tempering Items^
 ^ui_dungeonlevel_title^,^Select Difficulty^
 ^dungeonlevel_select_dod^,^Stage^
 ^dungeonlevel_monster_dod^,^Monster^
@@ -2758,7 +2758,7 @@ t_key,t_korean
 ^ui_guild_attendance_time^,^Attendance Remaining hrs.^
 ^ui_guild_attended_adjesting^,^Calculating Attendance^
 ^ui_title_reverse_count_down^,^Reverse Try Count Redemption^
-^comm_reverse_item_name^,^Reverse TempeRing^
+^comm_reverse_item_name^,^Reverse Tempering^
 ^ui_guild_room^,^Can be rented after achieving victory in the global Stygaea Battlefield.^
 ^ui_guild_room_icon2^,^Can be rented after crafting a recipe from the [Guild Room Merchant] at the Hakain's Crossing Guild Hall.^
 ^ui_guild_room_icon3^,^Can be rented from the [Guild Room Merchant] at the Hakain's Crossing Guild Hall.^
@@ -2992,7 +2992,7 @@ t_key,t_korean
 ^FeBuff008desc^,^Familiar EXP +30%(2hrs.)^
 ^FeBuff009desc^,^Critical Hit Penetration Rate +5%(2hrs.)^
 ^FeBuff010desc^,^PvP Attack 15%, Bleeding Penetration Chance +2%(2hrs.)^
-^FeBuff011desc^,^TempeRing Success Rate +8%(2hrs.)^
+^FeBuff011desc^,^Tempering Success Rate +8%(2hrs.)^
 ^FeBuff012desc^,^All Attack +15%, Stat. Limit Removed +50(2hrs.)^
 ^FeBuff013desc^,^All Attack +15%(2hrs.)^
 ^FeBuff014desc^,^PvP Attack +7%(2hrs.)^
@@ -3006,7 +3006,7 @@ t_key,t_korean
 ^FeBuff008_desc^,^Familiar EXP +30%(2hrs.)^
 ^FeBuff009_desc^,^Critical Hit Penetration Rate +5%(2hrs.)^
 ^FeBuff010_desc^,^PvP Attack 15%, Bleeding Penetration Chance +2%(2hrs.)^
-^FeBuff011_desc^,^TempeRing Success Rate +8%(2hrs)^
+^FeBuff011_desc^,^Tempering Success Rate +8%(2hrs)^
 ^FeBuff012_desc^,^All Attack +15%, Stat. Limit Removed +50(2hrs)^
 ^FeBuff013_desc^,^All Attack +15%(2hrs.)^
 ^FeBuff014_desc^,^PvP Attack +7%(2hrs.)^

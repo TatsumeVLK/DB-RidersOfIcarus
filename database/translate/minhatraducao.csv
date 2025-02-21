@@ -1,10 +1,44 @@
-t_key,t_eng
+﻿t_key,t_eng
 쿨타임,Cooldown
+캐스팅속도,Cast Time
 최대HP,Health
+최대hp,Health
+HP회복력,Base Health Regen
+hp회복력,Base Health Regen
 allstat,All Stats
+ALLSTAT,All Stats
+allstatderest,All Stats limit increase
+ALLSTATDEREST,All Stats limit increase
+STR,Strength
+INT,Intelligence
+VLT,Constitution
 모든공격력,Overall Attack
-모든극대화확률,Reverse Enhancement Rate
+모든방어력,Overall Defense
 무기물리공격력,Phys Attack
 마법물리공격력,Magic Attack
+무기물리방어력,Phys Defense
+마법방어력,Magic Defense
+데미지감소,Damage Reduction Rate
+모든극대화확률,Overall Critical Rate
+무기극대화확률,Physic Crit Rate
+마법극대화확률,Magic Crit Rate
+모든극대력,Overall Critical Damage
 무기극대력,Phy.Crit DMG
 마법극대력,Magic.Crit DMG
+마법극대화데미지,Magic Critical Damage
+치명타피해감소,Crit DMG Def
+이동속도,Move Speed
+PK공격력,PvP Attack Rate
+pk공격력,PvP Attack Rate
+PK방어력,PvP Defense
+pk방어력,PvP Defense
+PK육체계저항율,PvP Resistance
+pk육체계저항율,PvP Resistance
+출혈방어율,Bleed Defense
+강화성공확률,Tempering Chance
+리버스강화확률,Reverse Enhancement Rate
+제작성공확률,Probability of Crafting Success
+제작대성공확률,Triumphant Crafting Chance
+길들이기확률,Taming Chance
+펠로우경험치,Familiar EXP
+판매대행등록비감소,Marketplace Listing Fee

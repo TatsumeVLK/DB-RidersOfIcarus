@@ -8,7 +8,57 @@ const buttonItems = [
 ]
 const buttonIcons = "../database/itemdata/itemres_accessory.csv"
 const buttonType = document.getElementById("config").getAttribute("data-button-type");
-const itemDefault = "AC5_0_6000;마신 젤나리스의 목걸이;0.000000;60.000000;0.000000;135.000000;GD_WR_TF_AC_WZ_PR_DO_MG;*;*;7.000000;ne;30.000000;130547.000000;13055.000000;0.000000;0.000000;1808.000000;(PK공격력%,100);(쿨타임%,-13);(모든공격력%,5);*;1.000000;4.000000;4.000000;2500,2500,2500,2500;*;0.000000;0.000000;5.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;0.000000;Auction_301;*;0.000000;0.000000;GU_Test_3_0435;AC0_EV_4_0_0433;Legend_0060_ne;ac_7_60;1.000000;0.000000;0.000000;0.000000;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;0.000000;30.000000;5880.000000;MA_13_1054;MA_13_1055;*";
+let itemDefault = "";
+switch (buttonType) {
+    case "ne":
+        itemDefault = "AC5_0_6000;마신 젤나리스의 목걸이;0.000000;60.000000;0.000000;135.000000;GD_WR_TF_AC_WZ_PR_DO_MG;*;*;7.000000;ne;30.000000;130547.000000;13055.000000;0.000000;0.000000;1808.000000;(PK공격력%,100);(쿨타임%,-13);(모든공격력%,5);*;1.000000;4.000000;4.000000;2500,2500,2500,2500;*;0.000000;0.000000;5.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;0.000000;Auction_301;*;0.000000;0.000000;GU_Test_3_0435;AC0_EV_4_0_0433;Legend_0060_ne;ac_7_60;1.000000;0.000000;0.000000;0.000000;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;0.000000;30.000000;5880.000000;MA_13_1054;MA_13_1055;*"
+        break;
+    case "ri":
+        itemDefault = "AC5_1_6000;마신 젤나리스의 반지 I;0.000000;60.000000;0.000000;135.000000;GD_WR_TF_AC_WZ_PR_DO_MG;*;*;7.000000;ri;30.000000;92151.000000;9468.000000;0.000000;0.000000;904.000000;(PK방어력%,15);(이동속도%,15);(allstat%,2);*;1.000000;4.000000;4.000000;2500,2500,2500,2500;*;0.000000;0.000000;5.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;0.000000;Auction_302;itskillgod01.1;0.000000;0.000000;GU_Test_3_0433;AC0_EV_4_0_0431;Legend_0060_ri;ac_7_60;1.000000;0.000000;0.000000;0.000000;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;0.000000;30.000000;5880.000000;MA_13_1054;MA_13_1055;*"
+        break;
+    case "ha":
+        itemDefault = "AR4_007_1_00001;냉혈의 원소 모자 ;0.000000;65.000000;0.000000;135.000000;WZ_MG;WZ;*;7.000000;ha;cl;no;0.000000;568.000000;568.000000;90.000000;175086.000000;17509.199219;(PK방어력%,35);(최대HP%,10);(출혈방어율,9);(데미지감소%,1);1.000000;4.000000;4.000000;3000,4000,2750,250;4.000000;4.000000;*;0.000000;0.000000;1.000000;W;N;N;10.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;1.000000;Auction_241;*;0.000000;0.000000;GU_Test_3_4445;AR4_400_1_10943;*;*;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;30.000000;3150.000000;1.000000;MA_13_1054;MA_13_1055"
+        break;
+    case "sh":
+        itemDefault = "AR4_007_2_00001;냉혈의 원소 어깨 ;0.000000;65.000000;0.000000;135.000000;WZ_MG;WZ;*;7.000000;sh;cl;no;0.000000;600.000000;600.000000;90.000000;147441.593750;14744.400391;(PK방어력%,35);(쿨타임%,-12.5);(출혈방어율,9);(데미지감소%,1);1.000000;4.000000;4.000000;3000,4000,2750,250;4.000000;4.000000;*;0.000000;0.000000;1.000000;B;N;N;10.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;1.000000;Auction_243;*;0.000000;0.000000;GU_Test_3_4446;AR4_400_1_10944;*;*;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;30.000000;3150.000000;1.000000;MA_13_1054;MA_13_1055"
+        break;
+    case "ja":
+        itemDefault = "AR4_007_3_00001;냉혈의 원소 로브 ;0.000000;65.000000;0.000000;135.000000;WZ_MG;WZ;*;7.000000;ja;cl;no;0.000000;1335.000000;1335.000000;90.000000;184300.796875;18430.800781;(PK방어력%,35);(마법극대력+,2498);(출혈방어율,9);(데미지감소%,1);1.000000;4.000000;4.000000;3000,4000,2750,250;4.000000;4.000000;*;0.000000;0.000000;1.000000;B;N;N;10.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;1.000000;Auction_244;*;0.000000;0.000000;GU_Test_3_4447;AR4_400_1_10945;*;*;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;30.000000;3150.000000;1.000000;MA_13_1054;MA_13_1055"
+        break;
+    case "gl":
+        itemDefault = "AR4_007_4_00001;냉혈의 원소 장갑 ;0.000000;65.000000;0.000000;135.000000;WZ_MG;WZ;*;7.000000;gl;cl;no;0.000000;334.000000;334.000000;90.000000;138225.593750;13822.799805;(PK방어력%,35);(마법극대화확률+,20);(출혈방어율,9);(데미지감소%,1);1.000000;4.000000;4.000000;3000,4000,2750,250;4.000000;4.000000;*;0.000000;0.000000;1.000000;R;N;N;10.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;1.000000;Auction_245;*;0.000000;0.000000;GU_Test_3_4448;AR4_400_1_10946;*;*;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;30.000000;3150.000000;1.000000;MA_13_1054;MA_13_1055"
+        break;
+    case "bo":
+        itemDefault = "AR4_007_5_00001;냉혈의 원소 신발 ;0.000000;65.000000;0.000000;135.000000;WZ_MG;WZ;*;7.000000;bo;cl;no;0.000000;501.000000;501.000000;90.000000;129010.796875;12901.200195;(PK방어력%,35);(INT+,1116);(출혈방어율,9);(데미지감소%,1);1.000000;4.000000;4.000000;3000,4000,2750,250;4.000000;4.000000;*;0.000000;0.000000;1.000000;G;N;N;10.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;1.000000;Auction_246;*;0.000000;0.000000;GU_Test_3_4449;AR4_400_1_10947;*;*;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;30.000000;3150.000000;1.000000;MA_13_1054;MA_13_1055"
+        break;
+    case "d1":
+        itemDefault = "WE4_002_5_6001;마신 젤나리스의 단검;0.000000;60.000000;0.000000;135.000000;TF;TF;*;7.000000;we;d1;me;no;0.000000;1.000000;0.000000;2007.000000;3224.000000;0.000000;0.800000;40.000000;530102.000000;26505.000000;1.000000;1.000000;5.000000;0.000000;0.800000;0.800000;1.000000;(무기물리공격력%,5);(allstat%,1);(무기극대화데미지+,0.5);*;1.000000;4.000000;4.000000;2500,2500,2500,2500;1.000000;4.000000;4.000000;4.000000;4.000000;4;0.000000;0.000000;2.000000;R;N;N;16.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;0.000000;Auction_107;darkgodwepon.1;0.000000;0.000000;GU_Test_3_0001;WE0_400_6500;Legend_0060_d1;we_7_60;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;0.000000;*;*;30.000000;5880.000000;1.000000;1.000000;7000.000000;MA_13_1054;MA_13_1055"
+        break;
+    case "s1":
+        itemDefault = "WE0_001_5_6001;마신 젤나리스의 한손검;0.000000;60.000000;0.000000;135.000000;GD;GD;*;7.000000;we;s1;me;no;0.000000;1.000000;0.000000;3534.000000;5302.000000;0.000000;1.000000;45.000000;558012.000000;55801.000000;1.000000;1.000000;1.000000;0.000000;0.500000;0.300000;1.000000;(무기물리공격력%,10);(allstat%,2);(무기극대화데미지+,1);*;1.000000;4.000000;4.000000;2500,2500,2500,2500;1.000000;4.000000;4.000000;4.000000;4.000000;4;0.000000;0.000000;2.000000;R;N;N;16.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;0.000000;Auction_101;darkgodwepon.1;0.000000;0.000000;GU_Test_3_0001;WE0_400_6500;AMythic_All;we_7_60;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;0.000000;*;*;30.000000;5880.000000;1.000000;1.000000;15000.000000;MA_13_1054;MA_13_1055"
+        break;
+    case "s2":
+        itemDefault = "WE1_004_5_6001;마신 젤나리스의 양손검;0.000000;60.000000;0.000000;135.000000;WR;WR;*;7.000000;we;s2;me;no;0.000000;1.000000;0.000000;3931.000000;5897.000000;0.000000;1.000000;35.000000;836976.000000;41848.000000;1.000000;1.000000;3.000000;0.000000;0.500000;0.500000;1.000000;(무기물리공격력%,10);(allstat%,2);(무기극대화데미지+,1);*;1.000000;4.000000;4.000000;2500,2500,2500,2500;1.000000;4.000000;4.000000;4.000000;4.000000;4;0.000000;0.000000;2.000000;R;N;N;16.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;0.000000;Auction_102;darkgodwepon.1;0.000000;0.000000;GU_Test_3_0001;WE0_400_6500;AMythic_All;we_7_60;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;0.000000;*;*;30.000000;5880.000000;1.000000;1.000000;5000.000000;MA_13_1054;MA_13_1055"
+        break;
+    case "m1":
+        itemDefault = "WE5_005_5_6001;마신 젤나리스의 한손지팡이;0.000000;60.000000;0.000000;135.000000;PR;PR;*;7.000000;we;m1;ra;no;0.000000;20.000000;0.000000;3359.000000;6239.000000;12.000000;1.500000;55.000000;502194.000000;25109.000000;1.000000;1.000000;0.000000;1.000000;0.300000;0.300000;1.000000;(마법물리공격력%,10);(allstat%,2);(마법극대화데미지+,1);*;1.000000;4.000000;4.000000;2500,2500,2500,2500;1.000000;4.000000;4.000000;4.000000;4.000000;4;0.000000;0.000000;2.000000;R;N;N;16.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;0.000000;Auction_108;darkgodwepon2.1;0.000000;0.000000;GU_Test_3_0001;WE0_400_6500;AMythic_All;we_7_60;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;0.000000;*;*;30.000000;5880.000000;1.000000;1.000000;10000.000000;MA_13_1054;MA_13_1055"
+        break;
+    case "m2":
+        itemDefault = "WE6_003_5_6001;마신 젤나리스의 양손지팡이;0.000000;60.000000;0.000000;135.000000;WZ_MG;WZ;*;7.000000;we;m2;ra;no;0.000000;20.000000;0.000000;4811.000000;8934.000000;12.000000;2.000000;55.000000;753290.000000;37664.000000;1.000000;1.000000;0.000000;3.000000;0.500000;0.500000;1.000000;(마법물리공격력%,10);(allstat%,2);(마법극대화데미지+,1);*;1.000000;4.000000;4.000000;2500,2500,2500,2500;1.000000;4.000000;4.000000;4.000000;4.000000;4;0.000000;0.000000;2.000000;R;N;N;16.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;0.000000;Auction_109;darkgodwepon2.1;0.000000;0.000000;GU_Test_3_0001;WE0_400_6500;AMythic_All;we_7_60;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;0.000000;*;*;30.000000;5880.000000;1.000000;1.000000;24000.000000;MA_13_1054;MA_13_1055"
+        break;
+    case "W1":
+        itemDefault = "WE11_S001_0_0060;마신 젤나리스의 한손 마법봉;0.000000;60.000000;0.000000;135.000000;DO;DO;*;7.000000;we;W1;ra;no;0.000000;20.000000;0.000000;3694.000000;6862.000000;12.000000;1.500000;55.000000;502194.000000;25109.000000;1.000000;1.000000;0.000000;1.000000;0.300000;0.300000;1.000000;(마법물리공격력%,10);(allstat%,2);(마법극대화데미지+,1);*;1.000000;4.000000;4.000000;2500,2500,2500,2500;1.000000;4.000000;4.000000;4.000000;4.000000;4;0.000000;0.000000;2.000000;R;N;N;15.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;0.000000;Auction_108;darkgodwepon2.1;0.000000;0.000000;GU_Test_3_0001;WE0_400_6500;AMythic_All;we_7_60;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;0.000000;*;*;30.000000;5880.000000;1.000000;1.000000;24000.000000;MA_13_1054;MA_13_1055"
+        break;
+    case "c2":
+        itemDefault = "WE9_006_5_6000;마신 젤나리스의 석궁;0.000000;60.000000;0.000000;135.000000;WR_GD_AC_TF_PR_WZ_DO_MG;*;*;7.000000;bwe;c2;ra;no;0.000000;30.000000;70.000000;2768.000000;6461.000000;70.000000;2.000000;30.000000;350132.000000;17506.000000;1.000000;1.000000;0.100000;0.100000;0.800000;0.800000;1.000000;(최대HP%,10);(모든공격력%,3);(이동속도%,25);*;1.000000;4.000000;4.000000;2500,2500,2500,2500;1.000000;4.000000;4.000000;4.000000;4.000000;4;0.000000;0.000000;2.000000;R;N;N;16.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;0.000000;Auction_112;*;0.000000;0.000000;GU_Test_3_0001;WE0_400_6500;AMythic_All;we_7_60;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;0.000000;*;*;30.000000;5880.000000;1.000000;0.000000;0.000000;MA_13_1054;MA_13_1055"
+        break;
+    case "l2":
+        itemDefault = "WE8_007_5_6000;마신 젤나리스의 장창;0.000000;60.000000;0.000000;135.000000;WR_GD_AC_TF_PR_WZ_DO_MG;*;*;7.000000;bwe;l2;me;no;0.000000;1.000000;0.000000;2539.000000;5923.000000;0.000000;1.500000;100.000000;350132.000000;17506.000000;1.000000;1.000000;0.050000;0.050000;0.500000;0.500000;1.000000;(최대HP%,10);(모든공격력%,3);(이동속도%,25);*;1.000000;4.000000;4.000000;2500,2500,2500,2500;1.000000;4.000000;4.000000;4.000000;4.000000;4;0.000000;0.000000;2.000000;R;N;N;16.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;0.000000;Auction_111;*;0.000000;0.000000;GU_Test_3_0001;WE0_400_6500;AMythic_All;we_7_60;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;5.000000;0.000000;*;*;30.000000;5880.000000;1.000000;0.000000;0.000000;MA_13_1054;MA_13_1055"
+        break;
+    default:
+        itemDefault = "AC5_0_6000;마신 젤나리스의 목걸이;0.000000;60.000000;0.000000;135.000000;GD_WR_TF_AC_WZ_PR_DO_MG;*;*;7.000000;ne;30.000000;130547.000000;13055.000000;0.000000;0.000000;1808.000000;(PK공격력%,100);(쿨타임%,-13);(모든공격력%,5);*;1.000000;4.000000;4.000000;2500,2500,2500,2500;*;0.000000;0.000000;5.000000;r1;0.000000;0.000000;0.000000;0.000000;req;equip;ch;3.000000;*;0.000000;Auction_301;*;0.000000;0.000000;GU_Test_3_0435;AC0_EV_4_0_0433;Legend_0060_ne;ac_7_60;1.000000;0.000000;0.000000;0.000000;0.000000;0.000000;7.000000;CO_OR_A60_0001;CO_OR_A60_0002;*;60.000000;0.000000;0.000000;30.000000;5880.000000;MA_13_1054;MA_13_1055;*"
+        break;
+    }
 
 const itemInformations = [
     "../database/itemdata/itemdata_accessory.csv",
@@ -23,27 +73,29 @@ const itemTranslations = [
     "../database/translate/localstringdata_item_weapon.csv",
     "../database/translate/localstringdata_item_weapon_02.csv"
 ];
-// AC_A_600_6003
+const skillTranslations = [
+    "../database/translate/localstringdata_skill.csv",
+    "../database/translate/localstringdata_skill_archer.csv"
+]
 const effectsTranslation = "../database/translate/minhatraducao.csv"
 let mapaDeTraducoes = {}
 let itemArray = []
-let itemSetData = [];      // Dados do arquivo itemset_setcharacter.csv
-let setNameMap = {};       // Mapeamento do arquivo localstringdata_item_setitem.csv
-let effectMap = {};        // Mapeamento do arquivo minhatraducao.csv
+let itemSetData = []
+let setNameMap = {}
+let effectMap = {}
 
-let codigoOriginal = itemDefault// n찾o mexer aqui <<
+let codigoOriginal = itemDefault
 
 // ------------------ //
 // Carrega a Arquivos //
 // ------------------ //
 async function loadButton() {
     const container = document.getElementById("botaoContainer");
-    container.innerHTML = ""; // Limpa os bot천es existentes
+    container.innerHTML = "";
 
     let mapaDeIcones = {};
     let lines = [];
 
-    // ?윍? Carregar 챠cones primeiro
     const responseI = await fetch(buttonIcons + "?nocache=" + new Date().getTime());
     const textI = await responseI.text();
     const linesI = textI.trim().split(/\r?\n/);
@@ -53,16 +105,14 @@ async function loadButton() {
         mapaDeIcones[idI.trim()] = iconI.trim();
     });
 
-    // ?윍? Carregar os arquivos do array
     for (const file of buttonItems) {
         const response = await fetch(file + "?nocache=" + new Date().getTime());
         const text = await response.text();
         const fileLines = text.trim().split(/\r?\n/);
-        fileLines.shift(); // Remove o cabe챌alho
+        fileLines.shift();
         lines.push(...fileLines);
     }
 
-    // ?윍? Criar bot천es para cada item
     lines.forEach((line) => {
         const [id, level, rarity, type] = line.split(';');
         let leveli = parseInt(level);
@@ -80,7 +130,6 @@ async function loadButton() {
         let iconFileName = mapaDeIcones[id] || "favicon";
         img.src = `../imgs/${iconFileName}.png`;
 
-        // ?윍? Verifica se a imagem existe
         let imgTest = new Image();
         imgTest.src = img.src;
         imgTest.onload = function () {
@@ -105,7 +154,6 @@ async function loadButton() {
         container.appendChild(button);
     });
 
-    // ?윍? Aguarda a tradu챌찾o dos nomes
     await carregarTraducoes(); 
     
     if (!mapaDeTraducoes || Object.keys(mapaDeTraducoes).length === 0) {
@@ -113,7 +161,6 @@ async function loadButton() {
         return;
     }
 
-    // ?윍? Atualiza os nomes dos itens
     document.querySelectorAll(".item-button").forEach(button => {
         let itemID = button.getAttribute("data-index"); 
         let itemTraduzido = mapaDeTraducoes[itemID];
@@ -154,54 +201,39 @@ async function carregarTraducoes() {
                     }
                 })
             })
-            .catch(error => console.error(`?쓬 Error in ${arquivo}:`, error))
+            .catch(error => console.error(`Error in ${arquivo}:`, error))
     );
 
-    await Promise.all(promessas); // Aguarda todos os arquivos carregarem
+    await Promise.all(promessas);
 }
 
-async function carregarCSV() {
-    let allItems = []; // Array para armazenar todos os itens carregados
+function formatSkillText(text) {
+    return text.replace(/<UI_P>(.*?)<\/ui_p>/g, ' <p class="fellow"> $1 </p> ');
+}
 
-    // Usando Promise.all para carregar todos os arquivos ao mesmo tempo
-    const promises = itemInformations.map(async (file) => {
-        const response = await fetch(file + "?nocache=" + new Date().getTime());
-        const blob = await response.blob(); // Obt챕m os dados como um Blob
-        const reader = new FileReader();
-
-        return new Promise((resolve, reject) => {
-            reader.onload = function () {
-                try {
-                    const text = new TextDecoder("euc-kr").decode(reader.result); // Decodifica como EUC-KR
-                    Papa.parse(text, {
-                        delimiter: ";",
-                        header: true,
-                        skipEmptyLines: true,
-                        complete: function (parsed) {
-                            // Adiciona os itens carregados ao array allItems
-                            allItems = allItems.concat(parsed.data);
-                            resolve();
-                        },
-                        error: function (error) {
-                            reject(error);
-                        }
-                    });
-                } catch (error) {
-                    reject(error);
+async function carregarSkillTraducoes(skillId) {
+    for (const file of skillTranslations) {
+        try {
+            const response = await fetch(file + "?nocache=" + new Date().getTime())
+            const text = await response.text();
+            const lines = text.split('\n');
+            
+            for (const line of lines) {
+                const [key, value] = line.split(';');
+                
+                if (key && value) {
+                    const cleanKey = key.replace(/^\^|\^$/g, '');
+                    if (cleanKey === `${skillId}_description_1`) {
+                        return formatSkillText(value.replace(/^\^|\^$/g, ''));
+                    }
                 }
-            };
-
-            reader.readAsArrayBuffer(blob);
-        });
-    });
-
-    // Espera que todas as promessas sejam resolvidas
-    await Promise.all(promises);
-
-    // Quando todos os arquivos forem carregados, voc챗 pode usar o array allItems
-    itemArray = allItems;
+            }
+        } catch (error) {
+            console.error(`Erro in ${file}:`, error);
+        }
+    }
+    return "";
 }
-
 
 async function carregarEffectTranslations() {
     const response = await fetch(effectsTranslation + "?nocache=" + new Date().getTime());
@@ -219,13 +251,50 @@ async function carregarEffectTranslations() {
     return effectMap;
 }
 
+
+async function carregarCSV() {
+    let allItems = [];
+
+    const promises = itemInformations.map(async (file) => {
+        const response = await fetch(file + "?nocache=" + new Date().getTime());
+        const blob = await response.blob();
+        const reader = new FileReader();
+
+        return new Promise((resolve, reject) => {
+            reader.onload = function () {
+                try {
+                    const text = new TextDecoder("euc-kr").decode(reader.result);
+                    Papa.parse(text, {
+                        delimiter: ";",
+                        header: true,
+                        skipEmptyLines: true,
+                        complete: function (parsed) {
+                            allItems = allItems.concat(parsed.data);
+                            resolve();
+                        },
+                        error: function (error) {
+                            reject(error);
+                        }
+                    });
+                } catch (error) {
+                    reject(error);
+                }
+            };
+
+            reader.readAsArrayBuffer(blob);
+        });
+    });
+
+    await Promise.all(promises);
+
+    itemArray = allItems;
+}
+
+
 async function carregarIconeDoItem(itemID) {
     const response = await fetch(buttonIcons + "?nocache=" + new Date().getTime());
     const text = await response.text();
     const lines = text.trim().split(/\r?\n/);
-
-    // Pular o cabe챌alho
-    // lines.shift();
 
     let iconeEncontrado = null;
 
@@ -249,8 +318,8 @@ async function carregarIconeDoItem(itemID) {
 
 async function carregarItemSetData() {
     const response = await fetch("../database/itemdata/itemset_setcharacter.csv" + "?nocache=" + new Date().getTime());
-    const buffer = await response.arrayBuffer(); // L챗 como array buffer
-    const text = new TextDecoder("euc-kr").decode(buffer); // Decodifica como EUC-KR
+    const buffer = await response.arrayBuffer();
+    const text = new TextDecoder("euc-kr").decode(buffer);
     let parsed = Papa.parse(text, { 
         header: true, 
         skipEmptyLines: true, 
@@ -262,15 +331,12 @@ async function carregarItemSetData() {
 async function carregarSetNameTranslations() {
     const response = await fetch("../database/translate/localstringdata_item_setitem.csv" + "?nocache=" + new Date().getTime());
     const text = await response.text();
-    // Faz o parse do CSV usando v챠rgula como delimitador
     let parsed = Papa.parse(text, { header: true, skipEmptyLines: true, delimiter: "," });
     
     parsed.data.forEach(row => {
       if (row.t_key && row.t_korean) {
-        // Remove os '^' e o sufixo _Name, converte a chave para min첬sculo para padroniza챌찾o
         let key = row.t_key.replace(/\^/g, "").replace("_Name", "").trim().toLowerCase();
 
-        // Armazena a tradu챌찾o exatamente como est찼 (mantendo a case original)
         setNameMap[key] = row.t_korean.replace(/\^/g, "").trim();
       }
     });
@@ -294,24 +360,35 @@ async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, co
 
         for (let j = 1; j <= 4; j++) {
             let effectElem = document.getElementById(`${effectPrefix}${j}`);
+            effectElem.style.display = "flex";
 
             let effectField = setRow[`${effectPrefix}${j}`];
-            if (effectField && effectField.trim() !== "*") {
+            if (effectField && effectField.trim() !== "*" && effectField.trim() !== 0) {
                 let effectStr = effectField.replace(/[(\')]/g, "").split(",");
                 let chaveOriginal = effectStr[0].trim();
                 let valorStr = effectStr[1] ? effectStr[1].trim() : "";
 
+                let pkintercept = chaveOriginal.trim();
                 let simbolo = "";
-                if (chaveOriginal.endsWith("%") || chaveOriginal.endsWith("+")) {
+                if (pkintercept === "pk육체계저항율+" || pkintercept === "출혈방어율") {
+                    simbolo = "%";
+                    chaveOriginal = chaveOriginal.slice(0, -1).trim();
+                    console.log("1")
+                } else if (chaveOriginal.endsWith("%") || chaveOriginal.endsWith("+")) {
                     simbolo = chaveOriginal.slice(-1);
                     chaveOriginal = chaveOriginal.slice(0, -1).trim();
+                    console.log("2")
+                }
+
+                if (chaveOriginal === "출혈방어") {
+                    chaveOriginal = "출혈방어율"
                 }
 
                 let traducao = effectMap[chaveOriginal] || chaveOriginal;
 
                 let valorNumerico = parseFloat(valorStr);
                 let sinal = "";
-                if (simbolo === "+" && valorNumerico > 0) {
+                if (valorNumerico > 0) {
                     sinal = "+";
                 }
 
@@ -320,34 +397,38 @@ async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, co
                     efeitoFinal += simbolo === "%" ? ` ${sinal}${valorNumerico}%` : ` ${sinal}${valorNumerico}`;
                 }
 
-                effectElem.innerText = efeitoFinal;
-                effectElem.style.display = "flex";
+                effectElem.innerHTML = efeitoFinal;
                 container.style.display = "block";
             } else {
                 effectElem.style.display = "none";
             }
         }
 
-        // Atualiza a skill
         let skillElem = document.getElementById(skillId);
         if (skillElem && skillElem != 0.000000) {
             let skillText = setRow[skillId];
-            skillElem.innerText = skillText && skillText.trim() !== "*" ? skillText.trim() : "";
+            
+            if (!skillText || skillText.trim() !== "*") {
+                skillText = await carregarSkillTraducoes(skillText);
+                skillElem.style.display = "flex";
+                container.style.display = "block";
+            } else {
+                skillElem.style.display = "none";
+            }
+            
+            skillElem.innerHTML = skillText.slice(0, -2).trim();
         }
     } else {
-        // Se countEffect for 0, oculta o container
         container.style.display = "none";
     }
 }
 
 async function atualizarSetDiv(itemID) {
-    // Carrega os dados, se ainda n찾o estiverem carregados
     await carregarDadosSets();
   
     const setDiv = document.getElementById("setdivcompleto");
     if (!setDiv) return;
     const container = document.getElementById("t_item");
-    // Procura uma linha em itemSetData onde algum dos campos t_item1 a t_item14 seja igual ao itemID
     let setRow = itemSetData.find(row => {
         for (let i = 1; i <= 14; i++) {
             let campo = row[`t_item${i}`];
@@ -359,19 +440,15 @@ async function atualizarSetDiv(itemID) {
     });
   
     if (!setRow) {
-      // Item n찾o faz parte de nenhum set: oculta a div
       setDiv.style.display = "none";
       return;
     }
   
-    // Caso o item fa챌a parte do set, mostra a div
     setDiv.style.display = "block";
   
-    // Atualiza o nome do set
-    let setID = setRow.t_setid.trim().toLowerCase(); // Por exemplo, "Setall31"
+    let setID = setRow.t_setid.trim().toLowerCase();
     let setNameTraduzido = setNameMap[setID] || setID;
   
-    // Conta quantos itens fazem parte do set (t_item1 a t_item14 que n찾o s찾o "*")
     let countItems = 0;
     for (let i = 1; i <= 14; i++) {
         let campo = setRow[`t_item${i}`];
@@ -381,20 +458,18 @@ async function atualizarSetDiv(itemID) {
 
             if (elem) {
                 elem.innerText = mapaDeTraducoes[campo]?.nome || campo;
-                elem.style.display = "block";  // Certifica que est찼 vis챠vel
+                elem.style.display = "block";
                 elem.setAttribute("onclick", `mudarItem('${campo}')`);
             }
         } else {
             if (elem) {
                 elem.innerText = "";
-                elem.style.display = "none";   // Oculta se for "*"
+                elem.style.display = "none";
             }
         }
     }
     document.getElementById("setname").innerText = setNameTraduzido + " (0/" + countItems + ")";
 
-    // Atualiza os efeitos do set para o grupo 1 como exemplo
-    // Verifica se seteffect1_count 챕 maior que 0
     let countEffect1 = parseInt(setRow.seteffect1_count);
     let countEffect2 = parseInt(setRow.seteffect2_count);
     let countEffect3 = parseInt(setRow.seteffect3_count);
@@ -413,7 +488,6 @@ async function atualizarSetDiv(itemID) {
     document.getElementById("seteffect7").innerText = `Set Effects (${countEffect7})`;
     document.getElementById("seteffect8").innerText = `Set Effects (${countEffect8})`;
 
-    // Atualiza os efeitos:
     atualizarSetEffect(setRow, countEffect1, "t_seteffect1_effect", "t_seteffect1_skill", "hasseteffect1")
     atualizarSetEffect(setRow, countEffect2, "t_seteffect2_effect", "t_seteffect2_skill", "hasseteffect2")
     atualizarSetEffect(setRow, countEffect3, "t_seteffect3_effect", "t_seteffect3_skill", "hasseteffect3")
@@ -450,7 +524,7 @@ async function processarEfeitosDoItemacc() {
     if (!codigoBruto) return;
 
     let partes = codigoBruto.split(";");
-    let efeitos = [partes[17], partes[18], partes[19], partes[20]]; // Efeitos do item
+    let efeitos = [partes[17], partes[18], partes[19], partes[20]];
 
     efeitos.forEach((efeito, index) => {
         let elementoEfeito = document.getElementById(`itemEfeito${index + 1}`);
@@ -468,7 +542,10 @@ async function processarEfeitosDoItemacc() {
         let termoBase = (simbolo === "%" || simbolo === "+") ? termoOriginal.slice(0, -1).trim() : termoOriginal.trim();
 
         let termoTraduzido = effectMap[termoBase] || termoBase;
-
+        if (termoTraduzido === "Bleed Defense" || termoTraduzido === "Magic Critical Damage") {
+            simbolo = "%"
+        }
+        
         let efeitoFinal = termoTraduzido;
 
         if (valorNumerico !== null) {
@@ -496,7 +573,7 @@ async function processarEfeitosDoItemarmor() {
     if (!codigoBruto) return;
 
     let partes = codigoBruto.split(";");
-    let efeitos = [partes[19], partes[20], partes[21], partes[22]]; // Efeitos do item
+    let efeitos = [partes[19], partes[20], partes[21], partes[22]];
 
     efeitos.forEach((efeito, index) => {
         let elementoEfeito = document.getElementById(`itemEfeito${index + 1}`);
@@ -514,6 +591,9 @@ async function processarEfeitosDoItemarmor() {
         let termoBase = (simbolo === "%" || simbolo === "+") ? termoOriginal.slice(0, -1).trim() : termoOriginal.trim();
 
         let termoTraduzido = effectMap[termoBase] || termoBase;
+        if (termoTraduzido === "Bleed Defense" || termoTraduzido === "Magic Critical Damage") {
+            simbolo = "%"
+        }
 
         let efeitoFinal = termoTraduzido;
 
@@ -542,7 +622,7 @@ async function processarEfeitosDoItemWeapon() {
     if (!codigoBruto) return;
 
     let partes = codigoBruto.split(";");
-    let efeitos = [partes[31], partes[32], partes[33], partes[34]]; // Efeitos do item
+    let efeitos = [partes[31], partes[32], partes[33], partes[34]];
 
     efeitos.forEach((efeito, index) => {
         let elementoEfeito = document.getElementById(`itemEfeito${index + 1}`);
@@ -560,6 +640,9 @@ async function processarEfeitosDoItemWeapon() {
         let termoBase = (simbolo === "%" || simbolo === "+") ? termoOriginal.slice(0, -1).trim() : termoOriginal.trim();
 
         let termoTraduzido = effectMap[termoBase] || termoBase;
+        if (termoTraduzido === "Bleed Defense" || termoTraduzido === "Magic Critical Damage") {
+            simbolo = "%"
+        }
 
         let efeitoFinal = termoTraduzido;
 
@@ -593,7 +676,7 @@ function exibirLinhaOriginal(id) {
     document.getElementById("nomedoItemtraduzido").value = linhaOriginal;
 }
 
-function atualizarItemacc() {
+async function atualizarItemacc() {
     let codigoBruto = document.getElementById("codigoItem").value.trim();
     if (!codigoBruto) {
         document.getElementById("codigoItem").value = itemDefault;
@@ -634,9 +717,9 @@ function atualizarItemacc() {
         let reinforcementRestriction = partes[28]
         let reinforcementProbability = partes[29]
         let cannotBeDropped = partes[30]
-        let cannotByTrade = partes[31]
-        let cannotByDisposed = partes[32]
-        let cannotByDestroyed = partes[33]
+        let cannotBeTrade = partes[31]
+        let cannotBeDisposed = partes[32]
+        let cannotBeDestroyed = partes[33]
         let dropLevelCheck = partes[34]
         let binding = partes[35]
         let bindingTarget = partes[36]
@@ -672,11 +755,11 @@ function atualizarItemacc() {
 
         let itemTraduzido = mapaDeTraducoes[id] || {}
         let nomeItem = itemTraduzido.nome || id
-        let descricaoItem = itemTraduzido.descricao || "Descri챌찾o n찾o encontrada"
+        let descricaoItem = itemTraduzido.descricao || "Description not found"
 
         document.getElementById("nomedoItemtraduzido").innerText = exibirLinhaOriginal(partes[0]);
         document.getElementById("itemNome").innerText = nomeItem;
-        if (descricaoItem == "Descri챌찾o n찾o encontrada") {
+        if (descricaoItem === "Description not found") {
             document.getElementById("description").style.display = "none";
             document.getElementById("itemdescription").style.display = "none";
         } else {
@@ -689,9 +772,9 @@ function atualizarItemacc() {
             1: "#ffffff", // Branco (Comum)
             2: "#00aaFF", // Azul (Elite)
             3: "#ffcc00", // Dourado (Heroico)
-            4: "#ff00ff", // Roxo (Lend찼rio)
+            4: "#ff00ff", // Roxo (Lendario)
             6: "#ffaa55",  // laranja (Unique)
-            7: "#ff1155"  // Vermelho (M챠tico)
+            7: "#ff1155"  // Vermelho (Mitico)
         };
         let cor = coresRaridade[parseInt(rarity)] || "#ffffff";
 
@@ -716,7 +799,7 @@ function atualizarItemacc() {
                 rarityT = "Mythical(Normal)";
                 break;
             default:
-                rarityT = rarity; // Se n찾o for um dos casos, mant챕m o valor original
+                rarityT = rarity;
         }
 
         let bindingT;
@@ -744,7 +827,6 @@ function atualizarItemacc() {
             if (usedClass.includes("DO")) listClass.push("Assassin");
             if (usedClass.includes("MG")) listClass.push("Magician");
 
-            // Se todas as classes estiverem na string, retorna "All Classes"
             if (listClass.length === 8) {
                 return "All Classes";
             }
@@ -765,7 +847,32 @@ function atualizarItemacc() {
             default:
                 accessoryTypeT = accessoryType;
         }
+        function cannotBe() {
+            let listCannot = [];
+
+            if (cannotBeTrade > 0) listCannot.push("Untradable");
+            if (cannotBeDisposed > 0) listCannot.push("Unsellable");
+
+            return listCannot.length > 0 ? listCannot.join(", ") : "Error";
+        }
         
+        if (cannotBeTrade > 0 || cannotBeDisposed > 0 || cannotBeDropped > 0 || cannotBeDestroyed > 0) {
+            document.getElementById("cannottradesell").style.display = "block";
+            document.getElementById("cannottradesell").innerText = cannotBe();
+        } else {
+            document.getElementById("cannottradesell").style.display = "none";
+        }
+        
+
+        if (parseInt(reinforcementRestriction) == 0) {
+            document.getElementById("naopodemelhorar").style.display = "block";
+            document.getElementById("temperinglevel").style.display = "none";
+            document.getElementById("temperingname").style.display = "none";
+        } else {
+            document.getElementById("naopodemelhorar").style.display = "none";
+            document.getElementById("temperinglevel").style.display = "inline";
+            document.getElementById("temperingname").style.display = "block";
+        }
 
         if (disassemblyID == "*") {
             document.getElementById("naopodedismantling").style.display = "block";
@@ -776,22 +883,9 @@ function atualizarItemacc() {
         if (parseInt(unbindCount) == 0) {
             document.getElementById("naopodeunbind").style.display = "block";
             document.getElementById("unbinds").style.display = "none";
-        } else if (parseInt(cannotByDisposed) != 0) {
-            document.getElementById("naopodeunbind").style.display = "block";
-            document.getElementById("unbinds").style.display = "none";
         } else {
             document.getElementById("naopodeunbind").style.display = "none";
             document.getElementById("unbinds").style.display = "block";
-        }
-
-        if (parseInt(reinforcementRestriction) == 0) {
-            document.getElementById("naopodemelhorar").style.display = "block";
-            document.getElementById("temperinglevel").style.display = "none";
-            document.getElementById("temperingname").style.display = "none";
-        } else {
-            document.getElementById("naopodemelhorar").style.display = "none";
-            document.getElementById("temperinglevel").style.display = "inline";
-            document.getElementById("temperingname").style.display = "block";
         }
 
         if (randomOptionsApplication < 1) {
@@ -807,15 +901,18 @@ function atualizarItemacc() {
             document.getElementById("temefeitoserandomeffects").style.display = "block";
         }
 
-        switch (parseInt(skillEffect)) {
-            case 1:
-                document.getElementById("temefeitos").style.display = "block";
-                document.getElementById("oefeito").style.display = "block";
-                document.getElementById("oefeito").innerText = skillEffect;
-                break;
-            default:
-                document.getElementById("temefeitos").style.display = "none";
-                document.getElementById("oefeito").style.display = "none";
+        let skillElem = document.getElementById("equipedskill")
+        let skillSemFim2 = skillEffect.slice(0, -2)
+        let skillId = await carregarSkillTraducoes(skillSemFim2);
+        if (skillEffect != "*") {
+            document.getElementById("temequipedskill").style.display = "block";
+            document.getElementById("equipedskiltxt").style.display = "flex";
+            document.getElementById("equipedskill").style.display = "flex";
+            skillElem.innerText = skillId.slice(0, -2).trim();
+        } else {
+            document.getElementById("temequipedskill").style.display = "none";
+            document.getElementById("equipedskiltxt").style.display = "none";
+            document.getElementById("equipedskill").style.display = "none";
         }
 
         if (sealedFellowEquipmentMaximumEquipmentSlotNumber == 0) {
@@ -824,6 +921,7 @@ function atualizarItemacc() {
         } else {
             document.getElementById("divSlot").style.display = "flex";
             document.getElementById("barraslots").style.display = "block";
+            document.getElementById("sealSlotIcon").src = "../imgs/EmptySealSlot.png";
             document.getElementById("selosslots").innerText = parseInt(sealedFellowEquipmentMinimumEquipmentSlotNumber) + " - " + parseInt(sealedFellowEquipmentMaximumEquipmentSlotNumber) + " Slots";
         }
         
@@ -838,7 +936,6 @@ function atualizarItemacc() {
             document.getElementById("durationtime").innerText = formatarTempo(parseInt(usagePeriod))
         }
 
-        // Exibir informa챌천es b찼sicas
         carregarIconeDoItem(id)
         document.getElementById("itemNivel").innerText = parseInt(requiredLevel);
         document.getElementById("itemRaridade").innerText = rarityT;
@@ -850,21 +947,18 @@ function atualizarItemacc() {
         document.getElementById("itemRaridade").style.color = cor;
         document.getElementById("itemNome").style.color = cor;
 
-        
-        // Array para armazenar as partes do pre챌o
         let precoFormatado = [];
-        // Converte para inteiro PRECO DO ITEM
+        
         let preco = parseInt(precosell);
         let precoElemento = document.getElementById("itemPreco");
         let salePriceElemento = document.getElementById("saleprice");
         let barrasaleElemento = document.getElementById("barrasale");
         let divsaleElemento = document.getElementById("divsale");
 
-        // Obt챕m as moedas
         let gold = Math.floor(preco / 10000);
         let silver = Math.floor((preco % 10000) / 100);
         let copper = preco % 100;
-        // Define os 챠cones como imagens
+        
         let goldIcon = '<img src="../imgs/Coingold.png" class="moeda gold" />';
         let silverIcon = '<img src="../imgs/Coinsilver.png" class="moeda silver" />';
         let copperIcon = '<img src="../imgs/Coincopper.png" class="moeda copper" />';
@@ -878,7 +972,7 @@ function atualizarItemacc() {
                 precoFormatado.push(`<span class="moeda copper">${copper}${copperIcon}</span>`);
         }
 
-        if (preco > 0) {
+        if (preco > 0 && cannotBeDisposed == 0.000000) {
             precoElemento.innerHTML = precoFormatado.join(" ");
             salePriceElemento.style.display = "block"; 
             barrasaleElemento.style.display = "block"; 
@@ -896,7 +990,7 @@ function atualizarItemacc() {
     }
 }
 
-function atualizarItemarmor() {
+async function atualizarItemarmor() {
     let codigoBruto = document.getElementById("codigoItem").value.trim();
     if (!codigoBruto) {
         document.getElementById("codigoItem").value = itemPadrao;
@@ -944,9 +1038,9 @@ function atualizarItemarmor() {
         let reinforcementRestriction = partes[36]
         let reinforcementProbability = partes[37]
         let cannotBeDropped = partes[38]
-        let cannotByTrade = partes[39]
-        let cannotByDisposed = partes[40]
-        let cannotByDestroyed = partes[41]
+        let cannotBeTrade = partes[39]
+        let cannotBeDisposed = partes[40]
+        let cannotBeDestroyed = partes[41]
         let dropLevelCheck = partes[42]
         let binding = partes[43]
         let bindingTarget = partes[44]
@@ -978,11 +1072,11 @@ function atualizarItemarmor() {
 
         let itemTraduzido = mapaDeTraducoes[id] || {};
         let nomeItem = itemTraduzido.nome || id;
-        let descricaoItem = itemTraduzido.descricao || "Descri챌찾o n찾o encontrada";
+        let descricaoItem = itemTraduzido.descricao || "Description not found";
 
         document.getElementById("nomedoItemtraduzido").innerText = exibirLinhaOriginal(partes[0]);
         document.getElementById("itemNome").innerText = nomeItem;
-        if (descricaoItem == "Descri챌찾o n찾o encontrada") {
+        if (descricaoItem === "Description not found") {
             document.getElementById("description").style.display = "none";
             document.getElementById("itemdescription").style.display = "none";
         } else {
@@ -994,9 +1088,9 @@ function atualizarItemarmor() {
             1: "#ffffff", // Branco (Comum)
             2: "#00aaFF", // Azul (Elite)
             3: "#ffcc00", // Dourado (Heroico)
-            4: "#ff00ff", // Roxo (Lend찼rio)
+            4: "#ff00ff", // Roxo (Lendario)
             6: "#ffaa55",  // laranja (Unique)
-            7: "#ff1155"  // Vermelho (M챠tico)
+            7: "#ff1155"  // Vermelho (Mitico)
         };
         let cor = coresRaridade[parseInt(rarity)] || "#ffffff";
 
@@ -1067,7 +1161,7 @@ function atualizarItemarmor() {
                 armorTypeT = "Shoulders";
                 break;
             case "ja":
-                armorTypeT = "Chest";
+                armorTypeT = "Armor";
                 break;
             case "gl":
                 armorTypeT = "Gloves";
@@ -1079,22 +1173,24 @@ function atualizarItemarmor() {
                 armorTypeT = armorType;
         }
         
+        function cannotBe() {
+            let listCannot = [];
 
-        if (disassemblyID == "*") {
-            document.getElementById("naopodedismantling").style.display = "block";
-        } else {
-            document.getElementById("naopodedismantling").style.display = "none";
+            if (cannotBeTrade > 0) listCannot.push("Untradable");
+            if (cannotBeDisposed > 0) listCannot.push("Unsellable");
+
+            if (listCannot.length === 2) {
+                return "Untradable, Unsellable";
+            }
+
+            return listCannot.length > 0 ? listCannot.join(", ") : "Error";
         }
         
-        if (parseInt(unbindCount) == 0) {
-            document.getElementById("naopodeunbind").style.display = "block";
-            document.getElementById("unbinds").style.display = "none";
-        } else if (parseInt(cannotByDisposed) != 0) {
-            document.getElementById("naopodeunbind").style.display = "block";
-            document.getElementById("unbinds").style.display = "none";
+        if (cannotBeTrade > 0 || cannotBeDisposed > 0 || cannotBeDropped > 0 || cannotBeDestroyed > 0) {
+            document.getElementById("cannottradesell").style.display = "block";
+            document.getElementById("cannottradesell").innerText = cannotBe();
         } else {
-            document.getElementById("naopodeunbind").style.display = "none";
-            document.getElementById("unbinds").style.display = "block";
+            document.getElementById("cannottradesell").style.display = "none";
         }
 
         if (parseInt(reinforcementRestriction) == 0) {
@@ -1105,6 +1201,20 @@ function atualizarItemarmor() {
             document.getElementById("naopodemelhorar").style.display = "none";
             document.getElementById("temperinglevel").style.display = "inline";
             document.getElementById("temperingname").style.display = "block";
+        }
+
+        if (disassemblyID == "*") {
+            document.getElementById("naopodedismantling").style.display = "block";
+        } else {
+            document.getElementById("naopodedismantling").style.display = "none";
+        }
+        
+        if (parseInt(unbindCount) == 0) {
+            document.getElementById("naopodeunbind").style.display = "block";
+            document.getElementById("unbinds").style.display = "none";
+        } else {
+            document.getElementById("naopodeunbind").style.display = "none";
+            document.getElementById("unbinds").style.display = "block";
         }
 
         if (randomOptionsApplication < 1) {
@@ -1120,15 +1230,18 @@ function atualizarItemarmor() {
             document.getElementById("temefeitoserandomeffects").style.display = "block";
         }
 
-        switch (parseInt(skillEffect)) {
-            case 1:
-                document.getElementById("temefeitos").style.display = "block";
-                document.getElementById("oefeito").style.display = "block";
-                document.getElementById("oefeito").innerText = skillEffect;
-                break;
-            default:
-                document.getElementById("temefeitos").style.display = "none";
-                document.getElementById("oefeito").style.display = "none";
+        let skillElem = document.getElementById("equipedskill")
+        let skillSemFim2 = skillEffect.slice(0, -2)
+        let skillId = await carregarSkillTraducoes(skillSemFim2);
+        if (skillEffect != "*") {
+            document.getElementById("temequipedskill").style.display = "block";
+            document.getElementById("equipedskiltxt").style.display = "flex";
+            document.getElementById("equipedskill").style.display = "flex";
+            skillElem.innerText = skillId.slice(0, -2).trim();
+        } else {
+            document.getElementById("temequipedskill").style.display = "none";
+            document.getElementById("equipedskiltxt").style.display = "none";
+            document.getElementById("equipedskill").style.display = "none";
         }
 
         if (sealedFellowEquipmentMaximumEquipmentSlotNumber == 0) {
@@ -1137,6 +1250,7 @@ function atualizarItemarmor() {
         } else {
             document.getElementById("divSlot").style.display = "flex";
             document.getElementById("barraslots").style.display = "block";
+            document.getElementById("sealSlotIcon").src = "../imgs/EmptySealSlot.png";
             document.getElementById("selosslots").innerText = parseInt(sealedFellowEquipmentMinimumEquipmentSlotNumber) + " - " + parseInt(sealedFellowEquipmentMaximumEquipmentSlotNumber) + " Slots";
         }
         
@@ -1151,7 +1265,6 @@ function atualizarItemarmor() {
             document.getElementById("durationtime").innerText = formatarTempo(parseInt(usagePeriod))
         }
 
-        // Exibir informa챌천es b찼sicas
         carregarIconeDoItem(id)
         document.getElementById("itemNivel").innerText = parseInt(requiredLevel);
         document.getElementById("itemRaridade").innerText = rarityT;
@@ -1186,7 +1299,7 @@ function atualizarItemarmor() {
                 precoFormatado.push(`<span class="moeda copper">${copper}${copperIcon}</span>`);
         }
 
-        if (preco > 0) {
+        if (preco > 0 && cannotBeDisposed == 0.000000) {
             precoElemento.innerHTML = precoFormatado.join(" ");
             salePriceElemento.style.display = "block"; 
             barrasaleElemento.style.display = "block"; 
@@ -1204,7 +1317,7 @@ function atualizarItemarmor() {
     }
 }
 
-function atualizarItemWeapon() {
+async function atualizarItemWeapon() {
     let codigoBruto = document.getElementById("codigoItem").value.trim();
     if (!codigoBruto) {
         document.getElementById("codigoItem").value = itemPadrao;
@@ -1268,9 +1381,9 @@ function atualizarItemWeapon() {
         let reinforcementRestriction = partes[51]
         let reinforcementProbability = partes[52]
         let cannotBeDropped = partes[53]
-        let cannotByTrade = partes[54]
-        let cannotByDisposed = partes[55]
-        let cannotByDestroyed = partes[56]
+        let cannotBeTrade = partes[54]
+        let cannotBeDisposed = partes[55]
+        let cannotBeDestroyed = partes[56]
         let dropLevelCheck = partes[57]
         let binding = partes[58]
         let bindingTarget = partes[59]
@@ -1307,11 +1420,11 @@ function atualizarItemWeapon() {
 
         let itemTraduzido = mapaDeTraducoes[id] || {};
         let nomeItem = itemTraduzido.nome || id;
-        let descricaoItem = itemTraduzido.descricao || "Descri챌찾o n찾o encontrada";
+        let descricaoItem = itemTraduzido.descricao || "Description not found";
 
         document.getElementById("nomedoItemtraduzido").innerText = exibirLinhaOriginal(partes[0]);
         document.getElementById("itemNome").innerText = nomeItem;
-        if (descricaoItem == "Descri챌찾o n찾o encontrada") {
+        if (descricaoItem === "Description not found") {
             document.getElementById("description").style.display = "none";
             document.getElementById("itemdescription").style.display = "none";
         } else {
@@ -1323,9 +1436,9 @@ function atualizarItemWeapon() {
             1: "#ffffff", // Branco (Comum)
             2: "#00aaFF", // Azul (Elite)
             3: "#ffcc00", // Dourado (Heroico)
-            4: "#ff00ff", // Roxo (Lend찼rio)
+            4: "#ff00ff", // Roxo (Lendario)
             6: "#ffaa55",  // laranja (Unique)
-            7: "#ff1155"  // Vermelho (M챠tico)
+            7: "#ff1155"  // Vermelho (Mitico)
         };
         let cor = coresRaridade[parseInt(rarity)] || "#ffffff";
 
@@ -1429,22 +1542,24 @@ function atualizarItemWeapon() {
                 weaponTypeT = weaponType;
         }
         
+        function cannotBe() {
+            let listCannot = [];
 
-        if (disassemblyID == "*") {
-            document.getElementById("naopodedismantling").style.display = "block";
-        } else {
-            document.getElementById("naopodedismantling").style.display = "none";
+            if (cannotBeTrade > 0) listCannot.push("Untradable");
+            if (cannotBeDisposed > 0) listCannot.push("Unsellable");
+
+            if (listCannot.length === 2) {
+                return "Untradable, Unsellable";
+            }
+
+            return listCannot.length > 0 ? listCannot.join(" ") : "Error";
         }
         
-        if (parseInt(unbindCount) == 0) {
-            document.getElementById("naopodeunbind").style.display = "block";
-            document.getElementById("unbinds").style.display = "none";
-        } else if (parseInt(cannotByDisposed) != 0) {
-            document.getElementById("naopodeunbind").style.display = "block";
-            document.getElementById("unbinds").style.display = "none";
+        if (cannotBeTrade > 0 || cannotBeDisposed > 0 || cannotBeDropped > 0 || cannotBeDestroyed > 0) {
+            document.getElementById("cannottradesell").style.display = "block";
+            document.getElementById("cannottradesell").innerText = cannotBe();
         } else {
-            document.getElementById("naopodeunbind").style.display = "none";
-            document.getElementById("unbinds").style.display = "block";
+            document.getElementById("cannottradesell").style.display = "none";
         }
 
         if (parseInt(reinforcementRestriction) == 0) {
@@ -1455,6 +1570,20 @@ function atualizarItemWeapon() {
             document.getElementById("naopodemelhorar").style.display = "none";
             document.getElementById("temperinglevel").style.display = "inline";
             document.getElementById("temperingname").style.display = "block";
+        }
+        
+        if (disassemblyID == "*") {
+            document.getElementById("naopodedismantling").style.display = "block";
+        } else {
+            document.getElementById("naopodedismantling").style.display = "none";
+        }
+        
+        if (parseInt(unbindCount) == 0) {
+            document.getElementById("naopodeunbind").style.display = "block";
+            document.getElementById("unbinds").style.display = "none";
+        } else {
+            document.getElementById("naopodeunbind").style.display = "none";
+            document.getElementById("unbinds").style.display = "block";
         }
 
         if (randomOptionsApplication < 1) {
@@ -1470,15 +1599,18 @@ function atualizarItemWeapon() {
             document.getElementById("temefeitoserandomeffects").style.display = "block";
         }
 
-        switch (parseInt(skillEffect)) {
-            case 1:
-                document.getElementById("temefeitos").style.display = "block";
-                document.getElementById("oefeito").style.display = "block";
-                document.getElementById("oefeito").innerText = skillEffect;
-                break;
-            default:
-                document.getElementById("temefeitos").style.display = "none";
-                document.getElementById("oefeito").style.display = "none";
+        let skillElem = document.getElementById("equipedskill")
+        let skillSemFim2 = skillEffect.slice(0, -2)
+        let skillId = await carregarSkillTraducoes(skillSemFim2);
+        if (skillEffect != "*") {
+            document.getElementById("temequipedskill").style.display = "block";
+            document.getElementById("equipedskiltxt").style.display = "flex";
+            document.getElementById("equipedskill").style.display = "flex";
+            skillElem.innerText = skillId.slice(0, -2).trim();
+        } else {
+            document.getElementById("temequipedskill").style.display = "none";
+            document.getElementById("equipedskiltxt").style.display = "none";
+            document.getElementById("equipedskill").style.display = "none";
         }
 
         if (sealedFellowEquipmentMaximumEquipmentSlotNumber == 0) {
@@ -1487,6 +1619,7 @@ function atualizarItemWeapon() {
         } else {
             document.getElementById("divSlot").style.display = "flex";
             document.getElementById("barraslots").style.display = "block";
+            document.getElementById("sealSlotIcon").src = "../imgs/EmptySealSlot.png";
             document.getElementById("selosslots").innerText = parseInt(sealedFellowEquipmentMinimumEquipmentSlotNumber) + " - " + parseInt(sealedFellowEquipmentMaximumEquipmentSlotNumber) + " Slots";
         }
         
@@ -1500,8 +1633,7 @@ function atualizarItemWeapon() {
             document.getElementById("durationtime").style.display = "block";
             document.getElementById("durationtime").innerText = formatarTempo(parseInt(usagePeriod))
         }
-
-        // Exibir informa챌천es b찼sicas
+        
         carregarIconeDoItem(id)
         document.getElementById("itemNivel").innerText = parseInt(requiredLevel);
         document.getElementById("itemRaridade").innerText = rarityT;
@@ -1536,7 +1668,7 @@ function atualizarItemWeapon() {
                 precoFormatado.push(`<span class="moeda copper">${copper}${copperIcon}</span>`);
         }
 
-        if (preco > 0) {
+        if (preco > 0 && cannotBeDisposed == 0.000000) {
             precoElemento.innerHTML = precoFormatado.join(" ");
             salePriceElemento.style.display = "block"; 
             barrasaleElemento.style.display = "block"; 
@@ -1559,15 +1691,15 @@ function contarValoresNaLinha(linha) {
 }
 
 // ----------------- //
-// Bot천es Principais //
+// Botoes Principais //
 // ----------------- //
 function filtrarItems() {
     let input = document.getElementById("searchBar").value.toLowerCase();
     let buttons = document.querySelectorAll("#botaoContainer button");
 
     buttons.forEach(button => {
-        let nome = button.querySelector("p").innerText.toLowerCase(); // Pega o nome do item
-        button.style.display = nome.includes(input) ? "flex" : "none"; // Oculta ou exibe
+        let nome = button.querySelector("p").innerText.toLowerCase()
+        button.style.display = nome.includes(input) ? "flex" : "none"
     });
 }
 
@@ -1575,7 +1707,7 @@ function mudarItem(id) {
     let item = itemArray.find(item => item.t_id === id);
 
     if (!item) {
-        console.error("Item n찾o encontrado:", id);
+        console.error("Item not found:", id);
         return;
     }
 
@@ -1599,7 +1731,6 @@ function mudarItem(id) {
         atualizarItemWeapon()
         processarEfeitosDoItemWeapon()
     } else {
-        console.log("N첬mero de valores na linha:", contarValoresNaLinha(codigoBruto));
         alert("Invalid code!, This code could not be recognized, please check it again.");
     }
 }
@@ -1622,7 +1753,6 @@ function carregarCodigo() {
         atualizarItemWeapon()
         processarEfeitosDoItemWeapon()
     } else {
-        console.log("N첬mero de valores na linha:", contarValoresNaLinha(codigoBruto));
         alert("Invalid code!, This code could not be recognized, please check it again.");
     }
 }
@@ -1647,7 +1777,6 @@ function voltarCodigo() {
         atualizarItemWeapon()
         processarEfeitosDoItemWeapon()
     } else {
-        console.log("N첬mero de valores na linha:", contarValoresNaLinha(codigoBruto));
         alert("Invalid code!, This code could not be recognized, please check it again.");
     }
 }
@@ -1659,11 +1788,10 @@ async function inicializarPagina() {
     await carregarCSV()
     await carregarTraducoes()
     await carregarEffectTranslations()
-	mudarItem('AC5_0_6000')
     loadButton()
 
     if (!itemArray || Object.keys(mapaDeTraducoes).length === 0) {
-        console.warn("?슑截? Dados ainda n찾o carregados. Tentando novamente em 100ms...")
+        console.warn("Files not ready yet. Try again in 100ms...")
         setTimeout(inicializarPagina, 100)
         return
     }
@@ -1684,7 +1812,6 @@ async function inicializarPagina() {
         atualizarItemWeapon()
         processarEfeitosDoItemWeapon()
     } else {
-        console.log("N첬mero de valores na linha:", contarValoresNaLinha(codigoBruto));
         alert("Invalid code!, This code could not be recognized, please check it again.");
     }
     

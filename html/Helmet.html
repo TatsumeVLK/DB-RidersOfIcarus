@@ -8,10 +8,9 @@
     <link rel="shortcut icon" href="../imgs/favicon.png" />
 </head>
 <body>
-    <div id="config" data-button-type="ha"></div>
     <div class="conteiner">
         <div class="selecionar">
-            <input type="text" id="searchBar" placeholder=" Search..." onkeyup="filtrarItems()">
+            <input type="text" id="searchBar" placeholder=" Search..." onkeyup="filtrarItems()" autocomplete="off">
             <div class="botoes" id="botaoContainer">
             </div>
         </div>
@@ -30,13 +29,15 @@
                 </div>
                 <p class="espaco"><span id="itemclasses"></span></p>
                 <p class="espaco"><span id="tipoEquipamento"></span></p>
+                <p class="espaco"><span id="cannottradesell"></span></p>
                 <p class="espaco"><span id="naopodemelhorar">Unable to Enhance</span></p>
                 <p class="espaco" id="temperingname">Tempering: 0 / <span id="temperinglevel"></span></p>
                 <p class="espaco"><span id="naopodedismantling">Dismantling Unavailable</span></p>
                 <p class="espaco verde"><span id="naopodeunbind">Permanently Bound</span></p>
                 <p class="espaco verde"><span id="unbinds"></span></p>
-                <hr id="temefeitos" class="espaco1" />
-                <p><span id="oefeito" class="espaco"></span></p>
+                <hr id="temequipedskill" class="espaco1" />
+                <p id="equipedskiltxt" class="espaco verde">[Equipped Skill]</p>
+                <span id="equipedskill" class="espaco equipskill amarelo">Skill</span>
                 <div id="temefeitoserandomeffects">
                     <hr class="espaco1" />
                     <p><span id="equipedeffects" class="espaco amarelo">Equipped Effects</span></p>
@@ -77,49 +78,49 @@
                         <p id="seteffect1" class="cinza">Set Effects(0)</p>
                         <div class="espacoentre"><span id="t_seteffect1_effect1" class="efeitoset cinza"></span><span id="t_seteffect1_effect2" class="efeitoset cinza"></span></div>
                         <div class="espacoentre"><span id="t_seteffect1_effect3" class="efeitoset cinza"></span><span id="t_seteffect1_effect4" class="efeitoset cinza"></span></div>
-                        <span id="t_seteffect1_skill cinza" class="efeitoskill"></span>
+                        <span id="t_seteffect1_skill cinza" class="skillset cinza"></span>
                     </div>
                     <div id="hasseteffect2"> <!-- Se seteffect2_count for maior que 0, vai mostrar essa div -->
                         <p id="seteffect2" class="cinza">Set Effects(0)</p>
                         <div class="espacoentre"><span id="t_seteffect2_effect1" class="efeitoset cinza"></span><span id="t_seteffect2_effect2" class="efeitoset cinza"></span></div>
                         <div class="espacoentre"><span id="t_seteffect2_effect3" class="efeitoset cinza"></span><span id="t_seteffect2_effect4" class="efeitoset cinza"></span></div>
-                            <span id="t_seteffect2_skill" class="espaco3 cinza"></span>
+                            <span id="t_seteffect2_skill" class="skillset cinza"></span>
                     </div>
                     <div id="hasseteffect3"> <!-- Se seteffect3_count for maior que 0, vai mostrar essa div -->
                         <p id="seteffect3" class="cinza">Set Effects(0)</p>
                         <div class="espacoentre"><span id="t_seteffect3_effect1" class="efeitoset cinza"></span><span id="t_seteffect3_effect2" class="efeitoset cinza"></span></div>
                         <div class="espacoentre"><span id="t_seteffect3_effect3" class="efeitoset cinza"></span><span id="t_seteffect3_effect4" class="efeitoset cinza"></span></div>
-                            <span id="t_seteffect3_skill" class="espaco3 cinza"></span>
+                            <span id="t_seteffect3_skill" class="skillset cinza"></span>
                     </div>
                     <div id="hasseteffect4"> <!-- Se seteffect4_count for maior que 0, vai mostrar essa div -->
                         <p id="seteffect4" class="cinza">Set Effects(0)</p>
                         <div class="espacoentre"><span id="t_seteffect4_effect1" class="efeitoset cinza"></span><span id="t_seteffect4_effect2" class="efeitoset cinza"></span></div>
                         <div class="espacoentre"><span id="t_seteffect4_effect3" class="efeitoset cinza"></span><span id="t_seteffect4_effect4" class="efeitoset cinza"></span></div>
-                            <span id="t_seteffect4_skill" class="espaco3 cinza"></span>
+                            <span id="t_seteffect4_skill" class="skillset cinza"></span>
                     </div>
                     <div id="hasseteffect5"> <!-- Se seteffect5_count for maior que 0, vai mostrar essa div -->
                         <p id="seteffect5" class="cinza">Set Effects(0)</p>
                         <div class="espacoentre"><span id="t_seteffect5_effect1" class="efeitoset cinza"></span><span id="t_seteffect5_effect2" class="efeitoset cinza"></span></div>
                         <div class="espacoentre"><span id="t_seteffect5_effect3" class="efeitoset cinza"></span><span id="t_seteffect5_effect4" class="efeitoset cinza"></span></div>
-                            <span id="t_seteffect5_skill" class="espaco3 cinza"></span>
+                            <span id="t_seteffect5_skill" class="skillset cinza"></span>
                     </div>
                     <div id="hasseteffect6"> <!-- Se seteffect6_count for maior que 0, vai mostrar essa div -->
                         <p id="seteffect6" class="cinza">Set Effects(0)</p>
                         <div class="espacoentre"><span id="t_seteffect6_effect1" class="efeitoset cinza"></span><span id="t_seteffect6_effect2" class="efeitoset cinza"></span></div>
                         <div class="espacoentre"><span id="t_seteffect6_effect3" class="efeitoset cinza"></span><span id="t_seteffect6_effect4" class="efeitoset cinza"></span></div>
-                            <span id="t_seteffect6_skill" class="espaco3 cinza"></span>
+                            <span id="t_seteffect6_skill" class="skillset cinza"></span>
                     </div>
                     <div id="hasseteffect7"> <!-- Se seteffect7_count for maior que 0, vai mostrar essa div -->
                         <p id="seteffect7" class="cinza">Set Effects(0)</p>
                         <div class="espacoentre"><span id="t_seteffect7_effect1" class="efeitoset cinza"></span><span id="t_seteffect7_effect2" class="efeitoset cinza"></span></div>
                         <div class="espacoentre"><span id="t_seteffect7_effect3" class="efeitoset cinza"></span><span id="t_seteffect7_effect4" class="efeitoset cinza"></span></div>
-                            <span id="t_seteffect7_skill" class="espaco3 cinza"></span>
+                            <span id="t_seteffect7_skill" class="skillset cinza"></span>
                     </div>
                     <div id="hasseteffect8"> <!-- Se seteffect8_count for maior que 0, vai mostrar essa div -->
                         <p id="seteffect8" class="cinza">Set Effects(0)</p>
                         <div class="espacoentre"><span id="t_seteffect8_effect1" class="efeitoset cinza"></span><span id="t_seteffect8_effect2" class="efeitoset cinza"></span></div>
                         <div class="espacoentre"><span id="t_seteffect8_effect3" class="efeitoset cinza"></span><span id="t_seteffect8_effect4" class="efeitoset cinza"></span></div>
-                            <span id="t_seteffect8_skill" class="espaco3 cinza"></span>
+                            <span id="t_seteffect8_skill" class="skillset cinza"></span>
                     </div>
                 </div>
                 <hr class="espaco1" id="barrasale" />
@@ -145,6 +146,7 @@
             </div>
         </div>
     </div>
+    <div id="config" data-button-type="ha"></div>
     <script src="../js/equipament.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 </body>
