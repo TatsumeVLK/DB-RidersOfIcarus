@@ -10,8 +10,11 @@ ALLSTAT,All Stats
 allstatderest,All Stats limit increase
 ALLSTATDEREST,All Stats limit increase
 STR,Strength
+str,Strength
 INT,Intelligence
-VLT,Constitution
+int,Intelligence
+VTL,Constitution
+vtl,Constitution
 모든공격력,Overall Attack
 모든방어력,Overall Defense
 무기물리공격력,Phys Attack

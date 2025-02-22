@@ -11,6 +11,7 @@
 /* Body */
 body {
     width: 100%;
+    min-width: 1400px;
     font: bold 14px Arial;
     text-align: center;
     color: white;
@@ -52,7 +53,7 @@ img {
     width: 65px;
     height: 65px;
 }
-/* Configura��es gerais */
+/* Configs gerais */
 
 
 .espaco {
@@ -156,7 +157,7 @@ img {
 
 
 
-/* Configura��o de divs */
+/* Configs de divs */
 
 .conteiner {
     display: flex;
@@ -178,11 +179,12 @@ img {
     align-items: center;
     align-content: center;
     flex-direction: column;
-    width: 300px;
-    min-width: 400px;
-    height: 700px;
+    width: 450px;
+    min-width: 450px;
+    height: 760px;
     background-color: rgba(200, 200, 200, 10);
     overflow: auto;
+    overflow-x: hidden;
 }
     .selecionar button {
         width: 100%;
@@ -205,7 +207,6 @@ img {
     padding: 5px;
     color: white;
     width: 500px;
-    display: none;
 }
 
 .itemselecionado {
@@ -218,9 +219,24 @@ img {
     height: 790px;
     flex-direction: column;
     overflow: auto;
+    overflow-x: hidden;
 }
+    .itemselecionado::-webkit-scrollbar {
+        width: 6px;
+        height: 6px;
+    }
+    .itemselecionado::-webkit-scrollbar-thumb {
+        background: rgba(48, 48, 48, 0.719);
+        border-radius: 10px;
+    }
+    .itemselecionado::-webkit-scrollbar-thumb:hover {
+        background: rgba(26, 26, 26, 0.9);
+    }
+    .itemselecionado::-webkit-scrollbar-track {
+        background: transparent; 
+    }
 
-/* Configura��es especificas */
+/* Configs especificas */
 .botoes {
     width: 99%;
     height: 98%;
@@ -240,6 +256,7 @@ img {
     .botoes::-webkit-scrollbar-track {
         background: transparent; 
     }
+
 body::-webkit-scrollbar {
     display: none;
 }
@@ -338,4 +355,15 @@ body::-webkit-scrollbar {
     margin-right: 5px;
     display: flex;
     align-items: center;
+}
+
+#itemselecionadodentro {
+    display: none;
+}
+#growthtype {
+    display: none;
+    width: 40px;
+    color: blue;
+    margin-left: 14px;
+    text-align: center;
 }

@@ -1389,7 +1389,7 @@ t_key;t_korean
 ^bearhonest_Name^;^Bear^
 ^bearhonest_description_1^;^The defense of bears and players increases^
 ^bearmash_Name^;^Armor^
-^bearmash_description_1^;^Lower your defense by smashing the target with your forefoot from the skills tHat lower the defense of the fellow the skill is a high level of loweRing the defense^
+^bearmash_description_1^;^Lower your defense by smashing the target with your forefoot from the skills tHat lower the defense of the fellow the skill is a high level of lowering the defense^
 ^bearpush_Name^;^Push^
 ^bearpush_description_1^;^It pushes the target with the front foot to give the knockback effect^
 ^bearroar_Name^;^Roar^
@@ -1417,7 +1417,7 @@ t_key;t_korean
 ^cowpush_Name^;^Receive^
 ^cowpush_description_1^;^Attack the target and give physical damage^
 ^cowroar_Name^;^Roar^
-^cowroar_description_1^;^It is roaRing to one target to reduce the damage^
+^cowroar_description_1^;^It is roaring to one target to reduce the damage^
 ^cowthreat_Name^;^Threat^
 ^cowthreat_description_1^;^Threat one object to increase aggro^
 ^cowwild_Name^;^Cattle^
@@ -1427,7 +1427,7 @@ t_key;t_korean
 ^ledhostility_Name^;^Hostility^
 ^ledhostility_description_1^;^Here is hostile to one target The defense of the target is lowered for a certain period of time^
 ^leoArmoratk_Name^;^Armor^
-^leoArmoratk_description_1^;^Lower the defense of the queer target with the forefoot from the skills tHat lower the defense of the fellow the level of loweRing the defense is a normal skill^
+^leoArmoratk_description_1^;^Lower the defense of the queer target with the forefoot from the skills tHat lower the defense of the fellow the level of lowering the defense is a normal skill^
 ^leobite_Name^;^Biting^
 ^leobite_description_1^;^Ask your teeth and give physical damage^
 ^leobite_description_2^;^Ask your teeth and give physical damage^
@@ -1438,7 +1438,7 @@ t_key;t_korean
 ^leohuntinginstinct_Name^;^Hunting instinct^
 ^leohuntinginstinct_description_1^;^Attack and evasion rate rises over a certain period of time^
 ^leoroar_Name^;^Roar^
-^leoroar_description_1^;^It is roaRing to one target to reduce the damage^
+^leoroar_description_1^;^It is roaring to one target to reduce the damage^
 ^leorusHatk_Name^;^Hitting^
 ^leorusHatk_description_1^;^Run a target and hit it^
 ^leospeedy_Name^;^Leopard^
@@ -1455,7 +1455,7 @@ t_key;t_korean
 ^pigheadatk_description_1^;^Attack the target and give physical damage^
 ^pigheadatk_description_2^;^Attack the target and give physical damage^
 ^pignoise_Name^;^Bragi Lullaby^
-^pignoise_description_1^;^The pig makes a sound Enemies within a certain range centeRing on pigs canceled the order due to noise and the ordeRing time of ordeRing for a certain period of time is increased^
+^pignoise_description_1^;^The pig makes a sound Enemies within a certain range centering on pigs canceled the order due to noise and the ordering time of ordering for a certain period of time is increased^
 ^pigpush_Name^;^Shaking^
 ^pigpush_description_1^;^Hit the object hard and shake the center The attacked target becomes knockback and the attack speed is slowed for a certain time^
 ^pigrush_Name^;^rush^
@@ -1944,7 +1944,7 @@ t_key;t_korean
 ^food_qu_honeypie_description_6^;^Quest Skill (Honey Pie) 6^
 ^food_qu_honeypie_description_7^;^Quest Skill (Honey Pie) 7^
 ^sitdown_Name^;^rest^
-^sitdown_description_1^;^Increased health recovery duRing rest^
+^sitdown_description_1^;^Increased health recovery during rest^
 ^arkillzone01_Name^;^Instant^
 ^arkillzone01_description_1^;^Instant^
 ^gstarjump_name^;^G -Star Jump^
@@ -1962,16 +1962,16 @@ t_key;t_korean
 ^dualshot_description_9^;^Two arrows cross and fire^
 ^dualshot_description_10^;^Two arrows cross and fire^
 ^massacreshot_Name^;^Slaughter^
-^massacreshot_description_1^;^Fire an arrow made of sculptures The arrow is crushed duRing the hit which damages all of the 5m radius^
-^massacreshot_description_2^;^Fire an arrow made of sculptures The arrow is crushed duRing the hit which damages all of the 5m radius^
-^massacreshot_description_3^;^Fire an arrow made of sculptures The arrow is crushed duRing the hit which damages all of the 5m radius^
-^massacreshot_description_4^;^Fire an arrow made of sculptures The arrow is crushed duRing the hit which damages all of the 5m radius^
-^massacreshot_description_5^;^Fire an arrow made of sculptures The arrow is crushed duRing the hit which damages all of the 5m radius^
-^massacreshot_description_6^;^Fire an arrow made of sculptures The arrow is crushed duRing the hit which damages all of the 5m radius^
-^massacreshot_description_7^;^Fire an arrow made of sculptures The arrow is crushed duRing the hit which damages all of the 5m radius^
-^massacreshot_description_8^;^Fire an arrow made of sculptures The arrow is crushed duRing the hit which damages all of the 5m radius^
-^massacreshot_description_9^;^Fire an arrow made of sculptures The arrow is crushed duRing the hit which damages all of the 5m radius^
-^massacreshot_description_10^;^Fire an arrow made of sculptures The arrow is crushed duRing the hit which damages all of the 5m radius^
+^massacreshot_description_1^;^Fire an arrow made of sculptures The arrow is crushed during the hit which damages all of the 5m radius^
+^massacreshot_description_2^;^Fire an arrow made of sculptures The arrow is crushed during the hit which damages all of the 5m radius^
+^massacreshot_description_3^;^Fire an arrow made of sculptures The arrow is crushed during the hit which damages all of the 5m radius^
+^massacreshot_description_4^;^Fire an arrow made of sculptures The arrow is crushed during the hit which damages all of the 5m radius^
+^massacreshot_description_5^;^Fire an arrow made of sculptures The arrow is crushed during the hit which damages all of the 5m radius^
+^massacreshot_description_6^;^Fire an arrow made of sculptures The arrow is crushed during the hit which damages all of the 5m radius^
+^massacreshot_description_7^;^Fire an arrow made of sculptures The arrow is crushed during the hit which damages all of the 5m radius^
+^massacreshot_description_8^;^Fire an arrow made of sculptures The arrow is crushed during the hit which damages all of the 5m radius^
+^massacreshot_description_9^;^Fire an arrow made of sculptures The arrow is crushed during the hit which damages all of the 5m radius^
+^massacreshot_description_10^;^Fire an arrow made of sculptures The arrow is crushed during the hit which damages all of the 5m radius^
 ^mobragirepair02_Name^;^Crossbow^
 ^mobragirepair02_Description_1^;^Crossbow^
 ^mobragirepair03_Name^;^Crossbow^
@@ -2448,12 +2448,12 @@ t_key;t_korean
 ^mokrokbowman00_name^;^5 arrows^
 ^ev_bp00_name^;^Event Potion^
 ^gm_bless_Name^;^GM's blessing^
-^setskillgd_le4001_Description_1^;^DuRing the success of the attack the fatal energy is triggered and the 1% chance of stunning the target for 2 seconds and his attack power is increased by 20% for 10 seconds^
-^setskillwr_le4001_Description_1^;^DuRing the success of the attack the fatal energy is triggered and the 1% chance of stunning the target for 2 seconds and his attack power is increased by 20% for 10 seconds^
-^setskilltf_le4001_Description_1^;^DuRing the success of the attack the fatal energy is triggered and the 1% chance of stunning the target for 2 seconds and his attack power is increased by 20% for 10 seconds^
-^setskillwz_le4001_Description_1^;^DuRing the success of the attack the fatal energy is triggered and the 1% chance of stunning the target for 2 seconds and his attack power is increased by 20% for 10 seconds^
-^setskillpr_le4001_Description_1^;^DuRing the success of the attack the fatal energy is triggered and the 1% chance of stunning the target for 2 seconds and his attack power is increased by 20% for 10 seconds^
-^setskillac_le4001_Description_1^;^DuRing the success of the attack the fatal energy is triggered and the 1% chance of stunning the target for 2 seconds and his attack power is increased by 20% for 10 seconds^
+^setskillgd_le4001_Description_1^;^During the success of the attack the fatal energy is triggered and the 1% chance of stunning the target for 2 seconds and his attack power is increased by 20% for 10 seconds^
+^setskillwr_le4001_Description_1^;^During the success of the attack the fatal energy is triggered and the 1% chance of stunning the target for 2 seconds and his attack power is increased by 20% for 10 seconds^
+^setskilltf_le4001_Description_1^;^During the success of the attack the fatal energy is triggered and the 1% chance of stunning the target for 2 seconds and his attack power is increased by 20% for 10 seconds^
+^setskillwz_le4001_Description_1^;^During the success of the attack the fatal energy is triggered and the 1% chance of stunning the target for 2 seconds and his attack power is increased by 20% for 10 seconds^
+^setskillpr_le4001_Description_1^;^During the success of the attack the fatal energy is triggered and the 1% chance of stunning the target for 2 seconds and his attack power is increased by 20% for 10 seconds^
+^setskillac_le4001_Description_1^;^During the success of the attack the fatal energy is triggered and the 1% chance of stunning the target for 2 seconds and his attack power is increased by 20% for 10 seconds^
 ^mohelldog00_name^;^Hell^
 ^mohelldog00_description_1^;^Hell's energy attacks the enemy with a surrinal claw^
 ^ev_bp02_name^;^[Hun] Card^
@@ -2465,12 +2465,12 @@ t_key;t_korean
 ^support_crow_2_Name^;^Crow's support II^
 ^support_crow_3_Name^;^Crow's support III^
 ^support_crow_4_Name^;^Crow's support IV^
-^support_crow_5_Name^;^Crow's cheeRing v^
+^support_crow_5_Name^;^Crow's cheering v^
 ^shine_support_crow_1_Name^;^Bright Cro -Wu's support I^
 ^shine_support_crow_2_Name^;^Bright Cro -Wu's support II^
 ^shine_support_crow_3_Name^;^Bright Cro -Wu's support III^
-^shine_support_crow_4_Name^;^Bright Cro -Wu's cheeRing IV^
-^shine_support_crow_5_Name^;^Bright Cro -Wu's cheeRing v^
+^shine_support_crow_4_Name^;^Bright Cro -Wu's cheering IV^
+^shine_support_crow_5_Name^;^Bright Cro -Wu's cheering v^
 ^great_support_crow_1_Name^;^Great Crowu's support I^
 ^great_support_crow_2_Name^;^Great Crowu's support II^
 ^great_support_crow_3_Name^;^Great Crowu's support III^
@@ -2536,7 +2536,7 @@ t_key;t_korean
 ^support_rabini_2_Name^;^Ravini's support II^
 ^support_rabini_3_Name^;^Ravini's support III^
 ^support_rabini_4_Name^;^Ravini's support IV^
-^support_rabini_5_Name^;^Ravini's cheeRing v^
+^support_rabini_5_Name^;^Ravini's cheering v^
 ^love_bless_30_Name^;^Love buff^
 ^qu_bandage_Name^;^bandage^
 ^qu_foodrecoverhp_Name^;^Life -life^
@@ -2587,9 +2587,9 @@ t_key;t_korean
 ^setpvpac45_Name^;^Lower slaughter set effect^
 ^setpvpac45_description_1^;^A 2% chance to tamed the pinion of oblivion and increased 30% of adoptive defense with 2% chance^
 ^setpvpamgd45_Name^;^Slaughter^
-^setpvpamgd45_description_1^;^A 50% reduction in the attack power of the target duRing attack^
+^setpvpamgd45_description_1^;^A 50% reduction in the attack power of the target during attack^
 ^setpvpamdebuff45_Name^;^fear^
-^setpvpamdebuff45_description_1^;^A 50% reduction in the attack power of the target duRing attack^
+^setpvpamdebuff45_description_1^;^A 50% reduction in the attack power of the target during attack^
 ^newyear_bless_name^;^happy new year^
 ^setpvpgd50_Name^;^Intermediate massacre set effect^
 ^setpvpgd50_description_1^;^A 2% chance of attacking Kalip Force in Sniper increasing 50% of the attack power^
@@ -2726,7 +2726,7 @@ t_key;t_korean
 ^bot_ban_name^;^Auto program restriction^
 ^gm_authority_name^;^GM's power^
 ^gm_authority_Description_1^;^The effect of the power of GM is triggered^
-^itskilltheoneRing_name^;^Blessing of an absolute Ring^
+^itskilltheonering_name^;^Blessing of an absolute Ring^
 ^itskillsnowman_name^;^Olafu's blessing^
 ^itskillgolddraon1_name^;^Ancient energy^
 ^itskillgolddraon2_name^;^Ancient energy^
@@ -2736,7 +2736,7 @@ t_key;t_korean
 ^itemskillpkdef1_name^;^faint^
 ^itemskillpkdef2_name^;^faint^
 ^itemskillpkdef3_name^;^faint^
-^itskilltheoneRing_Description_1^;^The 5% chance of attacking the attack continued to recover from life with a 5% chance^
+^itskilltheonering_Description_1^;^The 5% chance of attacking the attack continued to recover from life with a 5% chance^
 ^itskillsnowman_Description_1^;^Reduced reuse time due to a 5% chance of attack success^
 ^itskillgolddraon1_Description_1^;^5% chance of attacking an interpersonal defense by 5% chance of attacking successful attacks^
 ^itskillgolddraon2_Description_1^;^Interpersonal defense increases by 10% due to a 5% chance of attack success^
@@ -2751,9 +2751,9 @@ t_key;t_korean
 ^dtpotiondef_name^;^Challenge^
 ^dtpotionsub_name^;^Challenge^
 ^itdt2nd_name^;^Ancient Blessing II^
-^itdt2nd_Description_1^;^Increased stats when enteRing the tower of challenge^
+^itdt2nd_Description_1^;^Increased stats when entering the tower of challenge^
 ^itdt3nd_name^;^Ancient blessing I^
-^itdt3nd_Description_1^;^Increased stats when enteRing the tower of challenge^
+^itdt3nd_Description_1^;^Increased stats when entering the tower of challenge^
 ^itdt2ndcast_name^;^Ancient Blessing II^
 ^itdt2ndcast_Description_1^;^Attack success only from the challenge tower only with a 2% chance of attacking 30% 30% defense and 20% of fatal batting average^
 ^itdt3ndcast_name^;^Ancient blessing I^
@@ -2969,7 +2969,7 @@ t_key;t_korean
 ^cash_monkeylink_Name^;^Attack light^
 ^cash_stlyemonkey_description_1^;^Attack hit 3% chance of increasing all attack power by 25% for 10 seconds^
 ^evgirlfriend01_Name^;^All your girlfriend's wish^
-^evgirlfriend00_Name^;^Mellang is cheeRing!^
+^evgirlfriend00_Name^;^Mellang is cheering!^
 ^evgirlfriend02_Name^;^Florzinha takes care!^
 ^evhappynew_Name^;^Monkey^
 ^girlfriendbuff00_Name^;^Girlfriend^
@@ -3150,11 +3150,11 @@ t_key;t_korean
 ^temainas01link_name^;^Taboo^
 ^temainas02link_name^;^Temmain^
 ^setpvpreward_Name^;^Ju -ji's trinket set effect^
-^setpvpreward_description_1^;^DuRing the attack the number of adoptive defense for 5 seconds is reduced by 50% with a 2% chance of reducing 2% chance of damage to his critical damage death defense 1000 interpersonal attack 30% defense and 20% increase^
+^setpvpreward_description_1^;^During the attack the number of adoptive defense for 5 seconds is reduced by 50% with a 2% chance of reducing 2% chance of damage to his critical damage death defense 1000 interpersonal attack 30% defense and 20% increase^
 ^setpvpreward2_Name^;^Corridor's trinket set effect^
-^setpvpreward2_description_1^;^DuRing the attack the number of adoptive defense for 5 seconds decreased by 45% with a 2% chance of reducing its own fatal damage fatal damage defense 700 interpersonal attack 25% defense and 15% increase^
+^setpvpreward2_description_1^;^During the attack the number of adoptive defense for 5 seconds decreased by 45% with a 2% chance of reducing its own fatal damage fatal damage defense 700 interpersonal attack 25% defense and 15% increase^
 ^setpvpreward3_Name^;^Battlefield trinket set effect^
-^setpvpreward3_description_1^;^DuRing the attack adoptive defense for 5 seconds decreased by 40% with a 2% chance to damage his fatal damage fatal damage defense 500 interpersonal attack 20% defense and 15% increase^
+^setpvpreward3_description_1^;^During the attack adoptive defense for 5 seconds decreased by 40% with a 2% chance to damage his fatal damage fatal damage defense 500 interpersonal attack 20% defense and 15% increase^
 ^setpvprewardbuff_Name^;^Blessing^
 ^setpvprewardbuff2_Name^;^Anger^
 ^setpvprewardbuff3_Name^;^Corridor^
@@ -3194,14 +3194,14 @@ t_key;t_korean
 ^settemain65pr_description_1^;^3% chance to attack when attacking 35% of interpersonal stats for 5 seconds and 700 reductions of fatal damage^
 ^settemain65effect_Name^;^Temmain 3 set effect^
 ^settemainacc65_Name^;^4 set effects of the Temmain Armor Armor^
-^settemainacc65_description_1^;^DuRing the attack the number of people in the target for 5 seconds is reduced by 40% and 2% chance with a 300 increase in fatal damage 300 defense of fatal damage for 10 seconds^
+^settemainacc65_description_1^;^During the attack the number of people in the target for 5 seconds is reduced by 40% and 2% chance with a 300 increase in fatal damage 300 defense of fatal damage for 10 seconds^
 ^settemainacc65eff1_Name^;^The Temmain of the Armor 4 set effect 1^
-^settemainacc65eff1_description_1^;^Adoptic defense for 5 seconds duRing the attack decreases by 40%^
+^settemainacc65eff1_description_1^;^Adoptic defense for 5 seconds during the attack decreases by 40%^
 ^settemainacc65eff2_Name^;^The Temmain of the Armor 4 set effect 2^
 ^settemainacc65eff2_description_1^;^2% chance to attack with a 2% chance of attacking your own fatal damage for 10 seconds 300 defense of fatal damage^
 ^pc_bf_02_1_name^;^Pisibani's growth of growth II^
-^foreverRing_Name^;^Eternity^
-^foreverRing_description_1^;^The special energy of the Ring appears around^
+^foreverring_Name^;^Eternity^
+^foreverring_description_1^;^The special energy of the Ring appears around^
 ^moimminestiff_Name^;^Stiffness^
 ^moimminestiff_Description_1^;^Stiffness^
 ^cash_course_01_name^;^Hakanas official^
@@ -3212,7 +3212,7 @@ t_key;t_korean
 ^cash_defense_02_name^;^Luke nutrition porridge^
 ^cash_pdefense_02_name^;^A savory nutritious porridge set^
 ^ev_bp12_name^;^Fatigue^
-^yatuman_Ring_Description_1^;^Yatu's decay debuff skill resistance^
+^yatuman_ring_Description_1^;^Yatu's decay debuff skill resistance^
 ^gs_master02_name^;^Knights of Salvation^
 ^gs_master03_name^;^Knights' oath^
 ^gs_master04_name^;^Knights' Sword^
@@ -3245,12 +3245,12 @@ t_key;t_korean
 ^gs_master99_name^;^Different guild master skills^
 ^gm_survival70_name^;^GM's survival blessing^
 ^gm_survival70_description_1^;^For 2 hours the vitality of all allies within 22m around is increased by 20%^
-^setskill_masin1mo_description_1^;^When weaRing the scales of cold blood 05% chance to attack with 350% of the attack power (probability stacking)^
-^setskill_masin1mo1_description_1^;^When weaRing the scales of cold blood 05% chance to attack with 350% of the attack power (probability stacking)^
+^setskill_masin1mo_description_1^;^When wearing the scales of cold blood 05% chance to attack with 350% of the attack power (probability stacking)^
+^setskill_masin1mo1_description_1^;^When wearing the scales of cold blood 05% chance to attack with 350% of the attack power (probability stacking)^
 ^masinamorskill_name^;^Chiller^
 ^masinamorskill1_name^;^Chiller^
-^setskill_masin3mo_description_1^;^DuRing the attack the 3% chance of attacking the 8 seconds 55% of the target of the person defense of critical damage and decreased by 1100^
-^setskill_masin5mo_description_1^;^44% reduction in adoptive defense for 5 seconds duRing attack 3% chance to increase all of your defense for 10 seconds^
+^setskill_masin3mo_description_1^;^During the attack the 3% chance of attacking the 8 seconds 55% of the target of the person defense of critical damage and decreased by 1100^
+^setskill_masin5mo_description_1^;^44% reduction in adoptive defense for 5 seconds during attack 3% chance to increase all of your defense for 10 seconds^
 ^cash_stlyeatt1_name^;^Conqueror^
 ^cash_stlyeatt_ja_name^;^Conqueror^
 ^cash_stlyeatt1_description_1^;^3% chance of attacking with a 3% chance to increase all attack power by 15% for 10 seconds^
@@ -3304,28 +3304,28 @@ t_key;t_korean
 ^2023evfood16_name^;^Octopus^
 ^yatomanne_name^;^Yatu's curse^
 ^yatomanne_description_1^;^The 2%chance of attacking attacks with a 2%chance of attacking enemy 20%for 5 seconds 40%of physical resistance reduced to fatal damage by 2000^
-^yatomanRing1_name^;^Yatu's dignity^
-^yatomanRing1_description_1^;^Attack hit with a 2% chance of attacking 80% of his attack power is continued for 1 second interval for 10 seconds^
-^yatomanRing2_name^;^Yatu's energy^
-^yatomanRing2_description_1^;^If the attack hit the 1% chance of attacking the 10% life of life is continuously recovered for 10 seconds^
-^yatomanRing1link_name^;^Yatu's dignity^
-^yatomanRing2link_name^;^Yatu's energy^
-^yatomanRing1link_description_1^;^80% caster's attack at 1 second interval^
-^yatomanRing2link_description_1^;^10% of life power at 1 second interval^
+^yatomanring1_name^;^Yatu's dignity^
+^yatomanring1_description_1^;^Attack hit with a 2% chance of attacking 80% of his attack power is continued for 1 second interval for 10 seconds^
+^yatomanring2_name^;^Yatu's energy^
+^yatomanring2_description_1^;^If the attack hit the 1% chance of attacking the 10% life of life is continuously recovered for 10 seconds^
+^yatomanring1link_name^;^Yatu's dignity^
+^yatomanring2link_name^;^Yatu's energy^
+^yatomanring1link_description_1^;^80% caster's attack at 1 second interval^
+^yatomanring2link_description_1^;^10% of life power at 1 second interval^
 ^yatomannelink_name^;^Yatu's curse^
 ^lightinglink3_name^;^Thunderbolt^
 ^lightinglink4_name^;^Thunderbolt^
 ^icaset_str_description_1^;^has 5% chance of attacking a celestial thunderbolt with a 5% chance of attacking a caster's attack power of 100%^
 ^icaset_int_description_1^;^has 5% chance of attacking a heavenly thunderbolt with a 5% chance of attacking a caster's attack power of 100%^
 ^ev_2023food01_name^;^Seaweed^
-^coldRing1_name^;^Goosebumps^
-^coldRing1_description_1^;^When an attack hits, there is a 2% chance to deal continuous damage equal to 80% of the user's ATK at 1 second intervals for 11 seconds.^
-^coldRing2_name^;^Quiet mind^
-^coldRing2_description_1^;^When an attack hits, there is a 1% chance to continuously recover 10% of your HP at 1 second intervals for 11 seconds.^
-^coldRing1link_name^;^Cold-blooded goosebumps^
-^coldRing2link_name^;^Quiet mind^
-^coldRing1link_description_1^;^Constant damage of 80% of the caster's ATK every 1 second^
-^coldRing2link_description_1^;^Restores 10% HP every 1 second over time^
+^coldring1_name^;^Goosebumps^
+^coldring1_description_1^;^When an attack hits, there is a 2% chance to deal continuous damage equal to 80% of the user's ATK at 1 second intervals for 11 seconds.^
+^coldring2_name^;^Quiet mind^
+^coldring2_description_1^;^When an attack hits, there is a 1% chance to continuously recover 10% of your HP at 1 second intervals for 11 seconds.^
+^coldring1link_name^;^Cold-blooded goosebumps^
+^coldring2link_name^;^Quiet mind^
+^coldring1link_description_1^;^Constant damage of 80% of the caster's ATK every 1 second^
+^coldring2link_description_1^;^Restores 10% HP every 1 second over time^
 ^coldne_name^;^Sopro frio^
 ^coldne_description_1^;^When attacking, there is a 1% chance to increase Overall Attack by 10% for 5 seconds. (2 stacks)^
 ^coldnelink_name^;^Cold Curse^
