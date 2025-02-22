@@ -31,8 +31,7 @@ const itemTranslations = [
     "../database/translate/localstringdata_item_weapon_02.csv"
 ];
 const skillTranslations = [
-    "../database/translate/localstringdata_skill.csv",
-    "../database/translate/localstringdata_skill_archer.csv"
+    "../database/translate/localstringdata_skill.csv"
 ]
 const effectsTranslation = "../database/translate/minhatraducao.csv"
 let mapaDeTraducoes = {}
@@ -103,7 +102,7 @@ async function carregarSkillTraducoes(skillId) {
                 
                 if (key && value) {
                     const cleanKey = key.replace(/^\^|\^$/g, '');
-                    if (cleanKey === `${skillId}_description_1`) {
+                    if (cleanKey === `${skillId}_description_1` || cleanKey === `${skillId}_Description_1`) {
                         return formatSkillText(value.replace(/^\^|\^$/g, ''));
                     }
                 }
@@ -316,9 +315,9 @@ async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, co
     let effectMap = await carregarEffectTranslations();
     let container = document.getElementById(containerId);
     if (!container) return;
-    container.style.display = "none";
 
     if (countEffect > 0) {
+        container.style.display = "none";
 
         for (let j = 1; j <= 4; j++) {
             let effectElem = document.getElementById(`${effectPrefix}${j}`);
@@ -816,7 +815,7 @@ function mudarUnbind(unbindCount) {
     }
 }
 function mudarRandomApp(randomOptionsApplication, minRandomOptionsQuantity, maxRandomOptionsQuantity) {
-    if (randomOptionsApplication < 1) {
+    if (randomOptionsApplication < 1 || maxRandomOptionsQuantity < 1) {
         document.getElementById("randomeffects").style.display = "none";
     } else {
         document.getElementById("randomeffects").style.display = "block";
