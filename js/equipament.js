@@ -1003,6 +1003,7 @@ async function atualizarItemacc() {
         let overrisematid2 = partes[64]
         let currencySettingId = partes[65]
 
+        buttonType = accessoryType
         carregarIconeDoItem(id)
         mudarNomeDesc(id)
         mudarStatusPrincipal("*", "*", "*", magicDefense)
@@ -1109,6 +1110,7 @@ async function atualizarItemarmor() {
         let overrisematid1 = partes[68]
         let overrisematid2 = partes[69]
 
+        buttonType = armorType
         carregarIconeDoItem(id)
         mudarNomeDesc(id)
         mudarStatusPrincipal("*", "*", physicalDefense, magicDefense)
@@ -1236,6 +1238,7 @@ async function atualizarItemWeapon() {
         let overrisematid1 = partes[88]
         let overrisematid2 = partes[89]
 
+        buttonType = weaponType
         carregarIconeDoItem(id)
         mudarNomeDesc(id)
         mudarStatusPrincipal(minPhysicalAttack, maxPhysicalAttack, "*", "*")
