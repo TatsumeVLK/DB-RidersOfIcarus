@@ -240,9 +240,19 @@ async function carregarIconeDoItem(itemID) {
 
 function atualizarIcone(icon) {
     let imgElement = document.getElementById("itemIcone");
-    imgElement.src = icon ? `../imgs/${icon}.png` : `../imgs/favicon.png`;
+    if (buttonType == "ne" || buttonType == "ri") {
+        imgElement.src = icon ? `../imgs/Accessory/${icon}.png` : `../imgs/favicon.png`;
+    } else if (buttonType == "ha" || buttonType == "sh" || buttonType == "ja" || buttonType == "gl") {
+        imgElement.src = icon ? `../imgs/ArmorA/${icon}.png` : `../imgs/favicon.png`;
+    } else if (buttonType == "bo") {
+        imgElement.src = icon ? `../imgs/ArmorB/${icon}.png` : `../imgs/favicon.png`;
+    } else if (buttonType == "d1" || buttonType == "s1" || buttonType == "s2" ||
+        buttonType == "m1" || buttonType == "m2" || buttonType == "W1" ||
+        buttonType == "c2" || buttonType == "b1" || buttonType == "h1" ||
+        buttonType == "h2" || buttonType == "b2" || buttonType == "l2") {
+        imgElement.src = icon ? `../imgs/Weapon/${icon}.png` : `../imgs/favicon.png`;
+    }
 }
-
 async function loadButton() {
     const container = document.getElementById("botaoContainer");
     container.innerHTML = "";
@@ -288,7 +298,18 @@ async function loadButton() {
         img.className = "item-img";
         
         let iconFileName = mapaDeIcones[id] || "favicon";
-        img.src = `../imgs/${iconFileName}.png`;
+        if (buttonType == "ne" || buttonType == "ri") {
+            img.src = iconFileName ? `../imgs/Accessory/${iconFileName}.png` : `../imgs/favicon.png`;
+        } else if (buttonType == "ha" || buttonType == "sh" || buttonType == "ja" || buttonType == "gl") {
+            img.src = iconFileName ? `../imgs/ArmorA/${iconFileName}.png` : `../imgs/favicon.png`;
+        } else if (buttonType == "bo") {
+            img.src = iconFileName ? `../imgs/ArmorB/${iconFileName}.png` : `../imgs/favicon.png`;
+        } else if (buttonType == "d1" || buttonType == "s1" || buttonType == "s2" ||
+            buttonType == "m1" || buttonType == "m2" || buttonType == "W1" ||
+            buttonType == "c2" || buttonType == "b1" || buttonType == "h1" ||
+            buttonType == "h2" || buttonType == "b2" || buttonType == "l2") {
+            img.src = iconFileName ? `../imgs/Weapon/${iconFileName}.png` : `../imgs/favicon.png`;
+        }
 
         let imgTest = new Image();
         imgTest.src = img.src;
@@ -330,7 +351,6 @@ async function loadButton() {
         }
     });
 }
-
 async function carregarItemSetData() {
     try {
         const response = await fetch("../database/itemdata/itemset_setcharacter.csv" + "?nocache=" + new Date().getTime());
@@ -356,7 +376,6 @@ async function carregarItemSetData() {
         console.error("Erro ao carregar itemset_setcharacter.csv:", error);
     }
 }
-
 async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, containerId) {
     let container = document.getElementById(containerId);
     if (!container) return;
@@ -431,7 +450,6 @@ async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, co
         container.style.display = "none";
     }
 }
-
 async function atualizarSetDiv(itemID) {
     await carregarItemSetData();
 
@@ -490,8 +508,6 @@ async function atualizarSetDiv(itemID) {
         atualizarSetEffect(setRow, countEffect, `t_seteffect${i}_effect`, `t_seteffect${i}_skill`, `hasseteffect${i}`);
     }
 }
-
-
 function formatarTempo(segundos) {
     let dias = Math.floor(segundos / 86400);
     segundos %= 86400;
@@ -509,7 +525,6 @@ function formatarTempo(segundos) {
 
     return resultado.join(", ");
 }
-
 async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4, maxRandomOptionsQuantity) {
     let efeitos = [efeito1, efeito2, efeito3, efeito4];
 
@@ -567,7 +582,6 @@ async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4, max
         document.getElementById("temefeitoserandomeffects").style.display = "block";
     }
 }
-
 function exibirLinhaOriginal(id) {
     let nomeTraduzido = mapaDeTraducoes[id]?.nome || "";
 
@@ -623,7 +637,6 @@ function definePreco(precosell, disposed, currencyid) {
 
     document.getElementById("itemPreco").innerHTML = precoFormatado.join(" ");
 }
-
 function mudarNomeDesc(id) {    
     let itemTraduzido = mapaDeTraducoes[id] || {}
     let nomeItem = itemTraduzido.nome || id
