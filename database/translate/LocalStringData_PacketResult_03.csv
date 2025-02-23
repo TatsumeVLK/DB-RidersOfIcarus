@@ -1,6 +1,0 @@
-t_key,t_korean,t_jpn,t_chinese,t_enu
-^eNetFailure_Dungeon_NotMaster^,^This function can only be used by the party leader.^,^^,^^,^^
-^eNetFailure_Move_PartyMember_LevelCondition^,^There are party members who do not meet the dungeon's level requirement.^,^^,^^,^^
-^eNetFailure_Move_PartyMember_NotConnect^,^There are party members who are not connected or are in different channels.^,^^,^^,^^
-^eNetFailure_Move_PartyMember_NeedDungeonReset^,^There are party members who either have cooldown or no entries left for the dungeon.^,^^,^^,^^
-^eNetFailure_Move_PartyMember_None^,^No party members found.^,^^,^^,^^

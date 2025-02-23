@@ -18,7 +18,7 @@ t_key,t_korean
 ^NPC_0417_Name^,^Duke (417)^
 ^NPC_0418_Name^,^Great Magician Yulnus (418)^
 ^NPC_0419_Name^,^Great Sorcerer of Destruction_Male (419)^
-^NPC_0420_Name^,^WandeRing Magician (420)^
+^NPC_0420_Name^,^W. Magician (420)^
 ^NPC_0421_Name^,^Count (421)^
 ^NPC_0422_Name^,^Maid (422)^
 ^NPC_0423_Name^,^Lord Chamberlain (423)^
@@ -26,7 +26,7 @@ t_key,t_korean
 ^NPC_0425_Name^,^Queen (425)^
 ^NPC_0426_Name^,^Mage of the Arcanum (426)^
 ^NPC_0427_Name^,^Dark Mage (427)^
-^NPC_0428_Name^,^Princess Lania (428)^
+^NPC_0428_Name^,^Princess Lania  (428)^
 ^NPC_0429_Name^,^King (429)^
 ^NPC_0430_Name^,^Royalty Lady (430)^
 ^NPC_0431_Name^,^Transit Shrine Keeper (431)^
@@ -35,8 +35,8 @@ t_key,t_korean
 ^NPC_0434_Name^,^Male Priest (434)^
 ^NPC_0435_Name^,^Female Priestess (435)^
 ^NPC_0436_Name^,^Male Plain Priest (436)^
-^NPC_0437_Name^,^Male Assassin (437)^
-^NPC_0438_Name^,^Female Assassin (438)^
+^NPC_0437_Name^,^Male Shadow (437)^
+^NPC_0438_Name^,^Female Shadow (438)^
 ^NPC_0439_Name^,^Male Master Blacksmith (439)^
 ^NPC_0440_Name^,^Male Complex Blacksmith (440)^
 ^NPC_0441_Name^,^Male Blacksmith (441)^
@@ -102,7 +102,7 @@ t_key,t_korean
 ^AR0_000_5_91031_Name^,^Shabby Stalwart Boots^
 ^AR1_000_3_91031_Name^,^Shabby Brutal Heavy Armor^
 ^AR1_000_5_91031_Name^,^Shabby Brutal Boots^
-^AR2_000_3_91031_Name^,^Shabby Wild Light Armor^
+^AR2_000_3_91031_Name^,^Shabby Wild Light Suits^
 ^AR2_000_5_91031_Name^,^Shabby Wild Boots^
 ^AR3_000_3_91031_Name^,^Shabby Veiled Light Armor^
 ^AR3_000_5_91031_Name^,^Shabby Veiled Boots^
@@ -114,7 +114,7 @@ t_key,t_korean
 ^AR0_000_5_91051_Name^,^Simple Stalwart Boots^
 ^AR1_000_3_91051_Name^,^Simple Brutal Heavy Armor^
 ^AR1_000_5_91051_Name^,^Simple Brutal Boots^
-^AR2_000_3_91051_Name^,^Simple Wild Light Armor^
+^AR2_000_3_91051_Name^,^Simple Wild Light Suits^
 ^AR2_000_5_91051_Name^,^Simple Wild Boots^
 ^AR3_000_3_91051_Name^,^Simple Veiled Light Armor^
 ^AR3_000_5_91051_Name^,^Simple Veiled Boots^
@@ -137,22 +137,22 @@ t_key,t_korean
 ^AR5_001_3_92051_Name^,^Dragon Knight Devout Robe^
 ^AR5_001_4_92051_Name^,^Dragon Knight Devout Gloves^
 ^AR5_001_5_92051_Name^,^Dragon Knight Devout Boots^
-^AR0_002_3_91102_Name^,^Sturdy Stalwart Heavy Armor^
+^AR0_002_3_91102_Name^,^Sturdy Stalwart Heavy Armor ^
 ^AR0_002_4_91102_Name^,^Sturdy Stalwart Gloves^
 ^AR0_002_5_91102_Name^,^Sturdy Stalwart Boots^
-^AR1_002_3_91102_Name^,^Sturdy Brutal Heavy Armor^
+^AR1_002_3_91102_Name^,^Sturdy Brutal Heavy Armor ^
 ^AR1_002_4_91102_Name^,^Sturdy Brutal Gloves^
 ^AR1_002_5_91102_Name^,^Sturdy Brutal Boots^
-^AR2_002_3_91102_Name^,^Sturdy Wild Light Armor^
+^AR2_002_3_91102_Name^,^Sturdy Wild Light Suits^
 ^AR2_002_4_91102_Name^,^Sturdy Wild Gloves^
 ^AR2_002_5_91102_Name^,^Sturdy Wild Boots^
-^AR3_002_3_91102_Name^,^Sturdy Veiled Light Armor^
+^AR3_002_3_91102_Name^,^Sturdy Veiled Light Armor ^
 ^AR3_002_4_91102_Name^,^Sturdy Veiled Gloves^
 ^AR3_002_5_91102_Name^,^Sturdy Veiled Boots^
-^AR4_022_3_91102_Name^,^Sturdy Arcane Robe^
+^AR4_022_3_91102_Name^,^Sturdy Arcane Robe ^
 ^AR4_022_4_91102_Name^,^Sturdy Arcane Gloves^
 ^AR4_022_5_91102_Name^,^Sturdy Arcane Boots^
-^AR5_022_3_91102_Name^,^Sturdy Devout Robe^
+^AR5_022_3_91102_Name^,^Sturdy Devout Robe ^
 ^AR5_022_4_91102_Name^,^Sturdy Devout Gloves^
 ^AR5_022_5_91102_Name^,^Sturdy Devout Boots^
 ^AR0_002_3_92103_Name^,^Fairy Stalwart Heavy Armor^
@@ -282,7 +282,7 @@ t_key,t_korean
 ^AR1_004_4_91201_Name^,^Battle-hardened Brutal Gloves^
 ^AR1_004_5_91201_Name^,^Battle-hardened Brutal Boots^
 ^AR2_006_2_91201_Name^,^Battle-hardened Wild Pauldron^
-^AR2_006_3_91201_Name^,^Battle-hardened Wild Light Armor^
+^AR2_006_3_91201_Name^,^Battle-hardened Wild Light Suits^
 ^AR2_006_4_91201_Name^,^Battle-hardened Wild Gloves^
 ^AR2_006_5_91201_Name^,^Battle-hardened Wild Boots^
 ^AR3_024_2_91201_Name^,^Battle-hardened Veiled Pauldron^
@@ -883,7 +883,7 @@ t_key,t_korean
 ^AR1_012_5_99999_Name^,^Guide's Brutal Heavy Armor Boots^
 ^AR2_110_1_99999_Name^,^Guide's Wild Helm^
 ^AR2_110_2_99999_Name^,^Guide's Wild Pauldron^
-^AR2_110_3_99999_Name^,^Guide's Wild Light Armor^
+^AR2_110_3_99999_Name^,^Guide's Wild Light Suits^
 ^AR2_110_4_99999_Name^,^Guide's Wild Gloves^
 ^AR2_110_5_99999_Name^,^Guide's Wild Boots^
 ^AR3_106_1_99999_Name^,^Guide's Veiled Helm^
@@ -1159,7 +1159,7 @@ t_key,t_korean
 ^AR1_831_1_81301_Name^,^Mithril Brutal Helm^
 ^AR1_831_2_81301_Name^,^Mithril Brutal Pauldron^
 ^AR1_831_3_81301_Name^,^Mithril Brutal Heavy Armor^
-^AR1_831_4_81301_Name^,^Mithril Brutal Glovse^
+^AR1_831_4_81301_Name^,^Mithril Brutal Gloves^
 ^AR1_831_5_81301_Name^,^Mithril Brutal Boots^
 ^AR3_831_1_81301_Name^,^Mithril Veiled Helm^
 ^AR3_831_2_81301_Name^,^Mithril Veiled Pauldron^
@@ -2526,31 +2526,31 @@ t_key,t_korean
 ^AR5_106_3_92502_Name^,^Desert Braghin Devout Robe^
 ^AR5_106_4_92502_Name^,^Desert Braghin Devout Gloves^
 ^AR5_106_5_92502_Name^,^Desert Braghin Devout Boots^
-^AR0_004_1_92503_Name^,^Dark LegionOfficer's Stalwart Helm^
-^AR0_004_2_92503_Name^,^Dark LegionOfficer's Stalwart Pauldron^
-^AR0_004_3_92503_Name^,^Dark LegionOfficer's Stalwart Heavy Armor^
-^AR0_004_4_92503_Name^,^Dark LegionOfficer's Stalwart Gloves^
-^AR0_004_5_92503_Name^,^Dark LegionOfficer's Stalwart Boots^
-^AR1_004_1_92503_Name^,^Dark LegionOfficer's Brutal Helm^
-^AR1_004_2_92503_Name^,^Dark LegionOfficer's Brutal Pauldron^
-^AR1_004_3_92503_Name^,^Dark LegionOfficer's Brutal Heavy Armor^
-^AR1_004_4_92503_Name^,^Dark LegionOfficer's Brutal Gloves^
-^AR1_004_5_92503_Name^,^Dark LegionOfficer's Brutal Boots^
-^AR3_004_1_92503_Name^,^Dark LegionOfficer's Veiled Helm^
-^AR3_004_2_92503_Name^,^Dark LegionOfficer's Veiled Pauldron^
-^AR3_004_3_92503_Name^,^Dark LegionOfficer's Veiled Light Armor^
-^AR3_004_4_92503_Name^,^Dark LegionOfficer's Veiled Gloves^
-^AR3_004_5_92503_Name^,^Dark LegionOfficer's Veiled Boots^
-^AR4_005_1_92503_Name^,^Dark LegionOfficer's Arcane Hat^
-^AR4_005_2_92503_Name^,^Dark LegionOfficer's Arcane Pauldron^
-^AR4_005_3_92503_Name^,^Dark LegionOfficer's Arcane Robe^
-^AR4_005_4_92503_Name^,^Dark LegionOfficer's Arcane Gloves^
-^AR4_005_5_92503_Name^,^Dark LegionOfficer's Arcane Boots^
-^AR5_005_1_92503_Name^,^Dark LegionOfficer's Devout Hat^
-^AR5_005_2_92503_Name^,^Dark LegionOfficer's Devout Pauldron^
-^AR5_005_3_92503_Name^,^Dark LegionOfficer's Devout Robe^
-^AR5_005_4_92503_Name^,^Dark LegionOfficer's Devout Gloves^
-^AR5_005_5_92503_Name^,^Dark LegionOfficer's Devout Boots^
+^AR0_004_1_92503_Name^,^Despot's Stalwart Helm^
+^AR0_004_2_92503_Name^,^Despot's Stalwart Pauldron^
+^AR0_004_3_92503_Name^,^Despot's Stalwart Heavy Armor^
+^AR0_004_4_92503_Name^,^Despot's Stalwart Gloves^
+^AR0_004_5_92503_Name^,^Despot's Stalwart Boots^
+^AR1_004_1_92503_Name^,^Despot's Brutal Helm^
+^AR1_004_2_92503_Name^,^Despot's Brutal Pauldron^
+^AR1_004_3_92503_Name^,^Despot's Brutal Heavy Armor^
+^AR1_004_4_92503_Name^,^Despot's Brutal Gloves^
+^AR1_004_5_92503_Name^,^Despot's Brutal Boots^
+^AR3_004_1_92503_Name^,^Despot's Veiled Helm^
+^AR3_004_2_92503_Name^,^Despot's Veiled Pauldron^
+^AR3_004_3_92503_Name^,^Despot's Veiled Light Armor^
+^AR3_004_4_92503_Name^,^Despot's Veiled Gloves^
+^AR3_004_5_92503_Name^,^Despot's Veiled Boots^
+^AR4_005_1_92503_Name^,^Despot's Arcane Hat^
+^AR4_005_2_92503_Name^,^Despot's Arcane Pauldron^
+^AR4_005_3_92503_Name^,^Despot's Arcane Robe^
+^AR4_005_4_92503_Name^,^Despot's Arcane Gloves^
+^AR4_005_5_92503_Name^,^Despot's Arcane Boots^
+^AR5_005_1_92503_Name^,^Despot's Devout Hat^
+^AR5_005_2_92503_Name^,^Despot's Devout Pauldron^
+^AR5_005_3_92503_Name^,^Despot's Devout Robe^
+^AR5_005_4_92503_Name^,^Despot's Devout Gloves^
+^AR5_005_5_92503_Name^,^Despot's Devout Boots^
 ^AR0_109_1_92501_Name^,^Hermit's Stalwart Helm^
 ^AR0_109_2_92501_Name^,^Hermit's Stalwart Pauldron^
 ^AR0_109_3_92501_Name^,^Hermit's Stalwart Heavy Armor^
@@ -2703,7 +2703,7 @@ t_key,t_korean
 ^AR5_130_5_93501_CR_Name^,^Shining Tempered Luminous Arcane Devout Boots^
 ^AR2_002_1_92105_Name^,^Karasha Wild Helm^
 ^AR2_002_2_92105_Name^,^Karasha Wild Pauldron^
-^AR2_002_3_92105_Name^,^Karasha Wild Light Armor^
+^AR2_002_3_92105_Name^,^Karasha Wild Light Suits^
 ^AR2_002_4_92105_Name^,^Karasha Wild Gloves^
 ^AR2_002_5_92105_Name^,^Karasha Wild Boots^
 ^AR0_110_1_93502_Name^,^Blessed Tyrant's Stalwart Helm^
@@ -2831,106 +2831,106 @@ t_key,t_korean
 ^AR5_110_3_92501_RE_Name^,^Devout Robe of Hope IX^
 ^AR5_110_4_92501_RE_Name^,^Devout Gloves of Hope IX^
 ^AR5_110_5_92501_RE_Name^,^Devout Boots of Hope IX^
-^AR0_504_a_1_92105_Name^,^Divine Wrath Stalwart Helm^
-^AR0_504_a_2_92105_Name^,^Divine Wrath Stalwart Pauldron^
-^AR0_504_a_3_92105_Name^,^Divine Wrath Stalwart Heavy Armor^
-^AR0_504_a_4_92105_Name^,^Divine Wrath Stalwart Gloves^
-^AR0_504_a_5_92105_Name^,^Divine Wrath Stalwart Boots^
-^AR1_504_a_1_92105_Name^,^Divine Wrath Brutal Helm^
-^AR1_504_a_2_92105_Name^,^Divine Wrath Brutal Pauldron^
-^AR1_504_a_3_92105_Name^,^Divine Wrath Brutal Heavy Armor^
-^AR1_504_a_4_92105_Name^,^Divine Wrath Brutal Gloves^
-^AR1_504_a_5_92105_Name^,^Divine Wrath Brutal Boots^
-^AR3_504_a_1_92105_Name^,^Divine Wrath Veiled Helm^
-^AR3_504_a_2_92105_Name^,^Divine Wrath Veiled Pauldron^
-^AR3_504_a_3_92105_Name^,^Divine Wrath Veiled Light Armor^
-^AR3_504_a_4_92105_Name^,^Divine Wrath Veiled Gloves^
-^AR3_504_a_5_92105_Name^,^Divine Wrath Veiled Boots^
-^AR4_504_a_1_92105_Name^,^Divine Wrath Arcane Hat^
-^AR4_504_a_2_92105_Name^,^Divine Wrath Arcane Pauldron^
-^AR4_504_a_3_92105_Name^,^Divine Wrath Arcane Robe^
-^AR4_504_a_4_92105_Name^,^Divine Wrath Arcane Gloves^
-^AR4_504_a_5_92105_Name^,^Divine Wrath Arcane Boots^
-^AR5_504_a_1_92105_Name^,^Divine Wrath Devout Hat^
-^AR5_504_a_2_92105_Name^,^Divine Wrath Devout Pauldron^
-^AR5_504_a_3_92105_Name^,^Divine Wrath Devout Robe^
-^AR5_504_a_4_92105_Name^,^Divine Wrath Devout Gloves^
-^AR5_504_a_5_92105_Name^,^Divine Wrath Devout Boots^
-^AR0_504_d_1_92105_Name^,^Ellora Bless Stalwart Helm^
-^AR0_504_d_2_92105_Name^,^Ellora Bless Stalwart Pauldron^
-^AR0_504_d_3_92105_Name^,^Ellora Bless Stalwart Heavy Armor^
-^AR0_504_d_4_92105_Name^,^Ellora Bless Stalwart Gloves^
-^AR0_504_d_5_92105_Name^,^Ellora Bless Stalwart Boots^
-^AR1_504_d_1_92105_Name^,^Ellora Bless Brutal Helm^
-^AR1_504_d_2_92105_Name^,^Ellora Bless Brutal Pauldron^
-^AR1_504_d_3_92105_Name^,^Ellora Bless Brutal Heavy Armor^
-^AR1_504_d_4_92105_Name^,^Ellora Bless Brutal Gloves^
-^AR1_504_d_5_92105_Name^,^Ellora Bless Brutal Boots^
-^AR3_504_d_1_92105_Name^,^Ellora Bless Veiled Helm^
-^AR3_504_d_2_92105_Name^,^Ellora Bless Veiled Pauldron^
-^AR3_504_d_3_92105_Name^,^Ellora Bless Veiled Light Armor^
-^AR3_504_d_4_92105_Name^,^Ellora Bless Veiled Gloves^
-^AR3_504_d_5_92105_Name^,^Ellora Bless Veiled Boots^
-^AR4_504_d_1_92105_Name^,^Ellora Bless Arcane Hat^
-^AR4_504_d_2_92105_Name^,^Ellora Bless Arcane Pauldron^
-^AR4_504_d_3_92105_Name^,^Ellora Bless Arcane Robe^
-^AR4_504_d_4_92105_Name^,^Ellora Bless Arcane Gloves^
-^AR4_504_d_5_92105_Name^,^Ellora Bless Arcane Boots^
-^AR5_504_d_1_92105_Name^,^Ellora Bless Devout Hat^
-^AR5_504_d_2_92105_Name^,^Ellora Bless Devout Pauldron^
-^AR5_504_d_3_92105_Name^,^Ellora Bless Devout Robe^
-^AR5_504_d_4_92105_Name^,^Ellora Bless Devout Gloves^
-^AR5_504_d_5_92105_Name^,^Ellora Bless Devout Boots^
-^AR0_ev1_1_1_92105_Name^,^(PC Cafe) Karasha Stalwart Helm(6hrs.)^
-^AR0_ev1_1_2_92105_Name^,^(PC Cafe) Karasha Stalwart Pauldron(6hrs.)^
-^AR0_ev1_1_3_92105_Name^,^(PC Cafe) Karasha Stalwart Heavy Armor(6hrs.)^
-^AR0_ev1_1_4_92105_Name^,^(PC Cafe) Karasha Stalwart Gloves(6hrs.)^
-^AR0_ev1_1_5_92105_Name^,^(PC Cafe) Karasha Stalwart Boots(6hrs.)^
-^AR1_ev1_1_1_92105_Name^,^(PC Cafe) Karasha Brutal Helm(6hrs.)^
-^AR1_ev1_1_2_92105_Name^,^(PC Cafe) Karasha Brutal Pauldron(6hrs.)^
-^AR1_ev1_1_3_92105_Name^,^(PC Cafe) Karasha Brutal Heavy Armor(6hrs.)^
-^AR1_ev1_1_4_92105_Name^,^(PC Cafe) Karasha Brutal Gloves(6hrs.)^
-^AR1_ev1_1_5_92105_Name^,^(PC Cafe) Karasha Brutal Boots(6hrs.)^
-^AR3_ev1_1_1_92105_Name^,^(PC Cafe) Karasha Veiled Helm(6hrs.)^
-^AR3_ev1_1_2_92105_Name^,^(PC Cafe) Karasha Veiled Pauldron(6hrs.)^
-^AR3_ev1_1_3_92105_Name^,^(PC Cafe) Karasha Veiled Light Armor(6hrs.)^
-^AR3_ev1_1_4_92105_Name^,^(PC Cafe) Karasha Veiled Gloves(6hrs.)^
-^AR3_ev1_1_5_92105_Name^,^(PC Cafe) Karasha Veiled Boots(6hrs.)^
-^AR4_ev1_1_1_92105_Name^,^(PC Cafe) Karasha Arcane Hat(6hrs.)^
-^AR4_ev1_1_2_92105_Name^,^(PC Cafe) Karasha Arcane Pauldron(6hrs.)^
-^AR4_ev1_1_3_92105_Name^,^(PC Cafe) Karasha Arcane Robe(6hrs.)^
-^AR4_ev1_1_4_92105_Name^,^(PC Cafe) Karasha Arcane Gloves(6hrs.)^
-^AR4_ev1_1_5_92105_Name^,^(PC Cafe) Karasha Arcane Boots(6hrs.)^
-^AR5_ev1_1_1_92105_Name^,^(PC Cafe) Karasha Devout Hat(6hrs.)^
-^AR5_ev1_1_2_92105_Name^,^(PC Cafe) Karasha Devout Pauldron(6hrs.)^
-^AR5_ev1_1_3_92105_Name^,^(PC Cafe) Karasha Devout Robe(6hrs.)^
-^AR5_ev1_1_4_92105_Name^,^(PC Cafe) Karasha Devout Gloves(6hrs.)^
-^AR5_ev1_1_5_92105_Name^,^(PC Cafe) Karasha Devout Boots(6hrs.)^
-^AR0_ev1_2_1_92105_Name^,^(PC Cafe) Karasha Stalwart Helm(1 day)^
-^AR0_ev1_2_2_92105_Name^,^(PC Cafe) Karasha Stalwart Pauldron(1 day)^
-^AR0_ev1_2_3_92105_Name^,^(PC Cafe) Karasha Stalwart Heavy Armor(1 day)^
-^AR0_ev1_2_4_92105_Name^,^(PC Cafe) Karasha Stalwart Gloves(1 day)^
-^AR0_ev1_2_5_92105_Name^,^(PC Cafe) Karasha Stalwart Boots(1 day)^
-^AR1_ev1_2_1_92105_Name^,^(PC Cafe) Karasha Brutal Helm(1 day)^
-^AR1_ev1_2_2_92105_Name^,^(PC Cafe) Karasha Brutal Pauldron(1 day)^
-^AR1_ev1_2_3_92105_Name^,^(PC Cafe) Karasha Brutal Heavy Armor(1 day)^
-^AR1_ev1_2_4_92105_Name^,^(PC Cafe) Karasha Brutal Gloves(1 day)^
-^AR1_ev1_2_5_92105_Name^,^(PC Cafe) Karasha Brutal Boots(1 day)^
-^AR3_ev1_2_1_92105_Name^,^(PC Cafe) Karasha Veiled Helm(1 day)^
-^AR3_ev1_2_2_92105_Name^,^(PC Cafe) Karasha Veiled Pauldron(1 day)^
-^AR3_ev1_2_3_92105_Name^,^(PC Cafe) Karasha Veiled Light Armor(1 day)^
-^AR3_ev1_2_4_92105_Name^,^(PC Cafe) Karasha Veiled Gloves(1 day)^
-^AR3_ev1_2_5_92105_Name^,^(PC Cafe) Karasha Veiled Boots(1 day)^
-^AR4_ev1_2_1_92105_Name^,^(PC Cafe) Karasha Arcane Hat(1 day)^
-^AR4_ev1_2_2_92105_Name^,^(PC Cafe) Karasha Arcane Pauldron(1 day)^
-^AR4_ev1_2_3_92105_Name^,^(PC Cafe) Karasha Arcane Robe(1 day)^
-^AR4_ev1_2_4_92105_Name^,^(PC Cafe) Karasha Arcane Gloves(1 day)^
-^AR4_ev1_2_5_92105_Name^,^(PC Cafe) Karasha Arcane Boots(1 day)^
-^AR5_ev1_2_1_92105_Name^,^(PC Cafe) Karasha Devout Hat(1 day)^
-^AR5_ev1_2_2_92105_Name^,^(PC Cafe) Karasha Devout Pauldron(1 day)^
-^AR5_ev1_2_3_92105_Name^,^(PC Cafe) Karasha Devout Robe(1 day)^
-^AR5_ev1_2_4_92105_Name^,^(PC Cafe) Karasha Devout Gloves(1 day)^
-^AR5_ev1_2_5_92105_Name^,^(PC Cafe) Karasha Devout Boots(1 day)^
+^AR0_504_a_1_92105_Name^,^Exalted Wrath Stalwart Helm^
+^AR0_504_a_2_92105_Name^,^Exalted Wrath Stalwart Pauldron^
+^AR0_504_a_3_92105_Name^,^Exalted Wrath Stalwart Heavy Armor^
+^AR0_504_a_4_92105_Name^,^Exalted Wrath Stalwart Gloves^
+^AR0_504_a_5_92105_Name^,^Exalted Wrath Stalwart Boots^
+^AR1_504_a_1_92105_Name^,^Exalted Wrath Brutal Helm^
+^AR1_504_a_2_92105_Name^,^Exalted Wrath Brutal Pauldron^
+^AR1_504_a_3_92105_Name^,^Exalted Wrath Brutal Heavy Armor^
+^AR1_504_a_4_92105_Name^,^Exalted Wrath Brutal Gloves^
+^AR1_504_a_5_92105_Name^,^Exalted Wrath Brutal Boots^
+^AR3_504_a_1_92105_Name^,^Exalted Wrath Veiled Helm^
+^AR3_504_a_2_92105_Name^,^Exalted Wrath Veiled Pauldron^
+^AR3_504_a_3_92105_Name^,^Exalted Wrath Veiled Light Armor^
+^AR3_504_a_4_92105_Name^,^Exalted Wrath Veiled Gloves^
+^AR3_504_a_5_92105_Name^,^Exalted Wrath Veiled Boots^
+^AR4_504_a_1_92105_Name^,^Exalted Wrath Arcane Hat^
+^AR4_504_a_2_92105_Name^,^Exalted Wrath Arcane Pauldron^
+^AR4_504_a_3_92105_Name^,^Exalted Wrath Arcane Robe^
+^AR4_504_a_4_92105_Name^,^Exalted Wrath Arcane Gloves^
+^AR4_504_a_5_92105_Name^,^Exalted Wrath Arcane Boots^
+^AR5_504_a_1_92105_Name^,^Exalted Wrath Devout Hat^
+^AR5_504_a_2_92105_Name^,^Exalted Wrath Devout Pauldron^
+^AR5_504_a_3_92105_Name^,^Exalted Wrath Devout Robe^
+^AR5_504_a_4_92105_Name^,^Exalted Wrath Devout Gloves^
+^AR5_504_a_5_92105_Name^,^Exalted Wrath Devout Boots^
+^AR0_504_d_1_92105_Name^,^Exalted Favor Stalwart Helm^
+^AR0_504_d_2_92105_Name^,^Exalted Favor Stalwart Pauldron^
+^AR0_504_d_3_92105_Name^,^Exalted Favor Stalwart Heavy Armor^
+^AR0_504_d_4_92105_Name^,^Exalted Favor Stalwart Gloves^
+^AR0_504_d_5_92105_Name^,^Exalted Favor Stalwart Boots^
+^AR1_504_d_1_92105_Name^,^Exalted Favor Brutal Helm^
+^AR1_504_d_2_92105_Name^,^Exalted Favor Brutal Pauldron^
+^AR1_504_d_3_92105_Name^,^Exalted Favor Brutal Heavy Armor^
+^AR1_504_d_4_92105_Name^,^Exalted Favor Brutal Gloves^
+^AR1_504_d_5_92105_Name^,^Exalted Favor Brutal Boots^
+^AR3_504_d_1_92105_Name^,^Exalted Favor Veiled Helm^
+^AR3_504_d_2_92105_Name^,^Exalted Favor Veiled Pauldron^
+^AR3_504_d_3_92105_Name^,^Exalted Favor Veiled Light Armor^
+^AR3_504_d_4_92105_Name^,^Exalted Favor Veiled Gloves^
+^AR3_504_d_5_92105_Name^,^Exalted Favor Veiled Boots^
+^AR4_504_d_1_92105_Name^,^Exalted Favor Arcane Hat^
+^AR4_504_d_2_92105_Name^,^Exalted Favor Arcane Pauldron^
+^AR4_504_d_3_92105_Name^,^Exalted Favor Arcane Robe^
+^AR4_504_d_4_92105_Name^,^Exalted Favor Arcane Gloves^
+^AR4_504_d_5_92105_Name^,^Exalted Favor Arcane Boots^
+^AR5_504_d_1_92105_Name^,^Exalted Favor Devout Hat^
+^AR5_504_d_2_92105_Name^,^Exalted Favor Devout Pauldron^
+^AR5_504_d_3_92105_Name^,^Exalted Favor Devout Robe^
+^AR5_504_d_4_92105_Name^,^Exalted Favor Devout Gloves^
+^AR5_504_d_5_92105_Name^,^Exalted Favor Devout Boots^
+^AR0_ev1_1_1_92105_Name^,^TEMP - Not Used^
+^AR0_ev1_1_2_92105_Name^,^TEMP - Not Used^
+^AR0_ev1_1_3_92105_Name^,^TEMP - Not Used^
+^AR0_ev1_1_4_92105_Name^,^TEMP - Not Used^
+^AR0_ev1_1_5_92105_Name^,^TEMP - Not Used^
+^AR1_ev1_1_1_92105_Name^,^TEMP - Not Used^
+^AR1_ev1_1_2_92105_Name^,^TEMP - Not Used^
+^AR1_ev1_1_3_92105_Name^,^TEMP - Not Used^
+^AR1_ev1_1_4_92105_Name^,^TEMP - Not Used^
+^AR1_ev1_1_5_92105_Name^,^TEMP - Not Used^
+^AR3_ev1_1_1_92105_Name^,^TEMP - Not Used^
+^AR3_ev1_1_2_92105_Name^,^TEMP - Not Used^
+^AR3_ev1_1_3_92105_Name^,^TEMP - Not Used^
+^AR3_ev1_1_4_92105_Name^,^TEMP - Not Used^
+^AR3_ev1_1_5_92105_Name^,^TEMP - Not Used^
+^AR4_ev1_1_1_92105_Name^,^TEMP - Not Used^
+^AR4_ev1_1_2_92105_Name^,^TEMP - Not Used^
+^AR4_ev1_1_3_92105_Name^,^TEMP - Not Used^
+^AR4_ev1_1_4_92105_Name^,^TEMP - Not Used^
+^AR4_ev1_1_5_92105_Name^,^TEMP - Not Used^
+^AR5_ev1_1_1_92105_Name^,^TEMP - Not Used^
+^AR5_ev1_1_2_92105_Name^,^TEMP - Not Used^
+^AR5_ev1_1_3_92105_Name^,^TEMP - Not Used^
+^AR5_ev1_1_4_92105_Name^,^TEMP - Not Used^
+^AR5_ev1_1_5_92105_Name^,^TEMP - Not Used^
+^AR0_ev1_2_1_92105_Name^,^TEMP - Not Used^
+^AR0_ev1_2_2_92105_Name^,^TEMP - Not Used^
+^AR0_ev1_2_3_92105_Name^,^TEMP - Not Used^
+^AR0_ev1_2_4_92105_Name^,^TEMP - Not Used^
+^AR0_ev1_2_5_92105_Name^,^TEMP - Not Used^
+^AR1_ev1_2_1_92105_Name^,^TEMP - Not Used^
+^AR1_ev1_2_2_92105_Name^,^TEMP - Not Used^
+^AR1_ev1_2_3_92105_Name^,^TEMP - Not Used^
+^AR1_ev1_2_4_92105_Name^,^TEMP - Not Used^
+^AR1_ev1_2_5_92105_Name^,^TEMP - Not Used^
+^AR3_ev1_2_1_92105_Name^,^TEMP - Not Used^
+^AR3_ev1_2_2_92105_Name^,^TEMP - Not Used^
+^AR3_ev1_2_3_92105_Name^,^TEMP - Not Used^
+^AR3_ev1_2_4_92105_Name^,^TEMP - Not Used^
+^AR3_ev1_2_5_92105_Name^,^TEMP - Not Used^
+^AR4_ev1_2_1_92105_Name^,^TEMP - Not Used^
+^AR4_ev1_2_2_92105_Name^,^TEMP - Not Used^
+^AR4_ev1_2_3_92105_Name^,^TEMP - Not Used^
+^AR4_ev1_2_4_92105_Name^,^TEMP - Not Used^
+^AR4_ev1_2_5_92105_Name^,^TEMP - Not Used^
+^AR5_ev1_2_1_92105_Name^,^TEMP - Not Used^
+^AR5_ev1_2_2_92105_Name^,^TEMP - Not Used^
+^AR5_ev1_2_3_92105_Name^,^TEMP - Not Used^
+^AR5_ev1_2_4_92105_Name^,^TEMP - Not Used^
+^AR5_ev1_2_5_92105_Name^,^TEMP - Not Used^
 ^AR0_002_3_92104_EV2_Name^,^Hero's Stalwart Heavy Armor I (30 Days)^
 ^AR0_002_4_92104_EV2_Name^,^Hero's Stalwart Gloves I (30 Days)^
 ^AR0_002_5_92104_EV2_Name^,^Hero's Stalwart Boots I (30 Days)^
@@ -2943,7 +2943,7 @@ t_key,t_korean
 ^AR4_022_3_92104_EV2_Name^,^Hero's Arcane Robe I (30 Days)^
 ^AR4_022_4_92104_EV2_Name^,^Hero's Arcane Gloves I (30 Days)^
 ^AR4_022_5_92104_EV2_Name^,^Hero's Arcane Boots I (30 Days)^
-^AR5_022_3_92104_EV2_Name^,^Hero's Devout Robe I (30 Days)^
+^AR5_022_3_92104_EV2_Name^,^Hero's Devout Robe I  (30 Days)^
 ^AR5_022_4_92104_EV2_Name^,^Hero's Devout Gloves I (30 Days)^
 ^AR5_022_5_92104_EV2_Name^,^Hero's Devout Boots I (30 Days)^
 ^AR0_002_3_92103_EV2_Name^,^Hero's Stalwart Heavy Armor II (30 Days)^
@@ -3150,52 +3150,52 @@ t_key,t_korean
 ^AR0_110_2_00004_Name^,^Ravager Stalwart Pauldron^
 ^AR0_110_3_00004_Name^,^Ravager Stalwart Heavy Armor^
 ^AR0_110_4_00004_Name^,^Ravager Stalwart Gloves^
-^AR0_110_5_00004_Name^,^Ravager Stalwart Boots^
-^AR1_107_1_00004_Name^,^Ravager Brutal Helm^
-^AR1_107_2_00004_Name^,^Ravager Brutal Pauldron^
-^AR1_107_3_00004_Name^,^Ravager Brutal Heavy Armor^
-^AR1_107_4_00004_Name^,^Ravager Brutal Gloves^
-^AR1_107_5_00004_Name^,^Ravager Brutal Boots^
-^AR3_107_1_00004_Name^,^Ravager Veiled Helm^
-^AR3_107_2_00004_Name^,^Ravager Veiled Pauldron^
-^AR3_107_3_00004_Name^,^Ravager Veiled Light Armor^
-^AR3_107_4_00004_Name^,^Ravager Veiled Gloves^
-^AR3_107_5_00004_Name^,^Ravager Veiled Boots^
-^AR4_107_1_00004_Name^,^Ravager Arcane Hat^
-^AR4_107_2_00004_Name^,^Ravager Arcane Pauldron^
-^AR4_107_3_00004_Name^,^Ravager Arcane Robe^
-^AR4_107_4_00004_Name^,^Ravager Arcane Gloves^
-^AR4_107_5_00004_Name^,^Ravager Arcane Boots^
-^AR5_130_1_00004_Name^,^Ravager Devout Hat^
-^AR5_130_2_00004_Name^,^Ravager Devout Pauldron^
-^AR5_130_3_00004_Name^,^Ravager Devout Robe^
-^AR5_130_4_00004_Name^,^Ravager Devout Gloves^
-^AR5_130_5_00004_Name^,^Ravager Devout Boots^
-^AR0_110_1_00005_Name^,^Chaotic Stalwart Helm^
-^AR0_110_2_00005_Name^,^Chaotic Stalwart Pauldron^
-^AR0_110_3_00005_Name^,^Chaotic Stalwart Heavy Armor^
-^AR0_110_4_00005_Name^,^Chaotic Stalwart Gloves^
-^AR0_110_5_00005_Name^,^Chaotic Stalwart Boots^
-^AR1_107_1_00005_Name^,^Chaotic Brutal Helm^
-^AR1_107_2_00005_Name^,^Chaotic Brutal Pauldron^
-^AR1_107_3_00005_Name^,^Chaotic Brutal Heavy Armor^
-^AR1_107_4_00005_Name^,^Chaotic Brutal Gloves^
-^AR1_107_5_00005_Name^,^Chaotic Brutal Boots^
-^AR3_107_1_00005_Name^,^Chaotic Veiled Helm^
-^AR3_107_2_00005_Name^,^Chaotic Veiled Pauldron^
-^AR3_107_3_00005_Name^,^Chaotic Veiled Light Armor^
-^AR3_107_4_00005_Name^,^Chaotic Veiled Gloves^
-^AR3_107_5_00005_Name^,^Chaotic Veiled Boots^
-^AR4_107_1_00005_Name^,^Chaotic Arcane Hat^
-^AR4_107_2_00005_Name^,^Chaotic Arcane Pauldron^
-^AR4_107_3_00005_Name^,^Chaotic Arcane Robe^
-^AR4_107_4_00005_Name^,^Chaotic Arcane Gloves^
-^AR4_107_5_00005_Name^,^Chaotic Arcane Boots^
-^AR5_130_1_00005_Name^,^Chaotic Devout Hat^
-^AR5_130_2_00005_Name^,^Chaotic Devout Pauldron^
-^AR5_130_3_00005_Name^,^Chaotic Devout Robe^
-^AR5_130_4_00005_Name^,^Chaotic Devout Gloves^
-^AR5_130_5_00005_Name^,^Chaotic Devout Boots^
+^AR0_110_5_00004_Name^,^Ravager Stalwart Boots ^
+^AR1_107_1_00004_Name^,^Ravager Brutal Helm ^
+^AR1_107_2_00004_Name^,^Ravager Brutal Pauldron ^
+^AR1_107_3_00004_Name^,^Ravager Brutal Heavy Armor ^
+^AR1_107_4_00004_Name^,^Ravager Brutal Gloves ^
+^AR1_107_5_00004_Name^,^Ravager Brutal Boots ^
+^AR3_107_1_00004_Name^,^Ravager Veiled Helm ^
+^AR3_107_2_00004_Name^,^Ravager Veiled Pauldron ^
+^AR3_107_3_00004_Name^,^Ravager Veiled Light Armor ^
+^AR3_107_4_00004_Name^,^Ravager Veiled Gloves ^
+^AR3_107_5_00004_Name^,^Ravager Veiled Boots ^
+^AR4_107_1_00004_Name^,^Ravager Arcane Hat ^
+^AR4_107_2_00004_Name^,^Ravager Arcane Pauldron ^
+^AR4_107_3_00004_Name^,^Ravager Arcane Robe ^
+^AR4_107_4_00004_Name^,^Ravager Arcane Gloves ^
+^AR4_107_5_00004_Name^,^Ravager Arcane Boots ^
+^AR5_130_1_00004_Name^,^Ravager Devout Hat ^
+^AR5_130_2_00004_Name^,^Ravager Devout Pauldron ^
+^AR5_130_3_00004_Name^,^Ravager Devout Robe ^
+^AR5_130_4_00004_Name^,^Ravager Devout Gloves ^
+^AR5_130_5_00004_Name^,^Ravager Devout Boots ^
+^AR0_110_1_00005_Name^,^Chaotic Stalwart Helm ^
+^AR0_110_2_00005_Name^,^Chaotic Stalwart Pauldron ^
+^AR0_110_3_00005_Name^,^Chaotic Stalwart Heavy Armor ^
+^AR0_110_4_00005_Name^,^Chaotic Stalwart Gloves ^
+^AR0_110_5_00005_Name^,^Chaotic Stalwart Boots ^
+^AR1_107_1_00005_Name^,^Chaotic Brutal Helm ^
+^AR1_107_2_00005_Name^,^Chaotic Brutal Pauldron ^
+^AR1_107_3_00005_Name^,^Chaotic Brutal Heavy Armor ^
+^AR1_107_4_00005_Name^,^Chaotic Brutal Gloves ^
+^AR1_107_5_00005_Name^,^Chaotic Brutal Boots ^
+^AR3_107_1_00005_Name^,^Chaotic Veiled Helm ^
+^AR3_107_2_00005_Name^,^Chaotic Veiled Pauldron ^
+^AR3_107_3_00005_Name^,^Chaotic Veiled Light Armor ^
+^AR3_107_4_00005_Name^,^Chaotic Veiled Gloves ^
+^AR3_107_5_00005_Name^,^Chaotic Veiled Boots ^
+^AR4_107_1_00005_Name^,^Chaotic Arcane Hat ^
+^AR4_107_2_00005_Name^,^Chaotic Arcane Pauldron ^
+^AR4_107_3_00005_Name^,^Chaotic Arcane Robe ^
+^AR4_107_4_00005_Name^,^Chaotic Arcane Gloves ^
+^AR4_107_5_00005_Name^,^Chaotic Arcane Boots ^
+^AR5_130_1_00005_Name^,^Chaotic Devout Hat ^
+^AR5_130_2_00005_Name^,^Chaotic Devout Pauldron ^
+^AR5_130_3_00005_Name^,^Chaotic Devout Robe ^
+^AR5_130_4_00005_Name^,^Chaotic Devout Gloves ^
+^AR5_130_5_00005_Name^,^Chaotic Devout Boots ^
 ^AR0_110_1_00006_Name^,^Dragonite Stalwart Helm^
 ^AR0_110_2_00006_Name^,^Dragonite Stalwart Pauldron^
 ^AR0_110_3_00006_Name^,^Dragonite Stalwart Heavy Armor^
@@ -3486,639 +3486,639 @@ t_key,t_korean
 ^AR5_ev2_3_3_92105_Name^,^Karasha Devout Robe (14 Day)^
 ^AR5_ev2_3_4_92105_Name^,^Karasha Devout Gloves (14 Day)^
 ^AR5_ev2_3_5_92105_Name^,^Karasha Devout Boots (14 Day)^
-^AR0_110_1_00010_Name^,^Blessed Chaotic Stalwart Helm^
-^AR0_110_2_00010_Name^,^Blessed Chaotic Stalwart Pauldron^
-^AR0_110_3_00010_Name^,^Blessed Chaotic Stalwart Heavy Armor^
-^AR0_110_4_00010_Name^,^Blessed Chaotic Stalwart Gloves^
-^AR0_110_5_00010_Name^,^Blessed Chaotic Stalwart Boots^
-^AR1_107_1_00010_Name^,^Blessed Chaotic Brutal Helm^
-^AR1_107_2_00010_Name^,^Blessed Chaotic Brutal Pauldron^
-^AR1_107_3_00010_Name^,^Blessed Chaotic Brutal Heavy Armor^
-^AR1_107_4_00010_Name^,^Blessed Chaotic Brutal Gloves^
-^AR1_107_5_00010_Name^,^Blessed Chaotic Brutal Boots^
-^AR3_107_1_00010_Name^,^Blessed Chaotic Veiled Helm^
-^AR3_107_2_00010_Name^,^Blessed Chaotic Veiled Pauldron^
-^AR3_107_3_00010_Name^,^Blessed Chaotic Veiled Light Armor^
-^AR3_107_4_00010_Name^,^Blessed Chaotic Veiled Gloves^
-^AR3_107_5_00010_Name^,^Blessed Chaotic Veiled Boots^
-^AR4_107_1_00010_Name^,^Blessed Chaotic Arcane Hat^
-^AR4_107_2_00010_Name^,^Blessed Chaotic Arcane Pauldron^
-^AR4_107_3_00010_Name^,^Blessed Chaotic Arcane Robe^
-^AR4_107_4_00010_Name^,^Blessed Chaotic Arcane Gloves^
-^AR4_107_5_00010_Name^,^Blessed Chaotic Arcane Boots^
-^AR5_130_1_00010_Name^,^Blessed Chaotic Devout Hat^
-^AR5_130_2_00010_Name^,^Blessed Chaotic Devout Pauldron^
-^AR5_130_3_00010_Name^,^Blessed Chaotic Devout Robe^
-^AR5_130_4_00010_Name^,^Blessed Chaotic Devout Gloves^
-^AR5_130_5_00010_Name^,^Blessed Chaotic Devout Boots^
+^AR0_110_1_00010_Name^,^Blessed Chaotic Stalwart Helm ^
+^AR0_110_2_00010_Name^,^Blessed Chaotic Stalwart Pauldron ^
+^AR0_110_3_00010_Name^,^Blessed Chaotic Stalwart Heavy Armor ^
+^AR0_110_4_00010_Name^,^Blessed Chaotic Stalwart Gloves ^
+^AR0_110_5_00010_Name^,^Blessed Chaotic Stalwart Boots ^
+^AR1_107_1_00010_Name^,^Blessed Chaotic Brutal Helm ^
+^AR1_107_2_00010_Name^,^Blessed Chaotic Brutal Pauldron ^
+^AR1_107_3_00010_Name^,^Blessed Chaotic Brutal Heavy Armor ^
+^AR1_107_4_00010_Name^,^Blessed Chaotic Brutal Gloves ^
+^AR1_107_5_00010_Name^,^Blessed Chaotic Brutal Boots ^
+^AR3_107_1_00010_Name^,^Blessed Chaotic Veiled Helm ^
+^AR3_107_2_00010_Name^,^Blessed Chaotic Veiled Pauldron ^
+^AR3_107_3_00010_Name^,^Blessed Chaotic Veiled Light Armor ^
+^AR3_107_4_00010_Name^,^Blessed Chaotic Veiled Gloves ^
+^AR3_107_5_00010_Name^,^Blessed Chaotic Veiled Boots ^
+^AR4_107_1_00010_Name^,^Blessed Chaotic Arcane Hat ^
+^AR4_107_2_00010_Name^,^Blessed Chaotic Arcane Pauldron ^
+^AR4_107_3_00010_Name^,^Blessed Chaotic Arcane Robe ^
+^AR4_107_4_00010_Name^,^Blessed Chaotic Arcane Gloves ^
+^AR4_107_5_00010_Name^,^Blessed Chaotic Arcane Boots ^
+^AR5_130_1_00010_Name^,^Blessed Chaotic Devout Hat ^
+^AR5_130_2_00010_Name^,^Blessed Chaotic Devout Pauldron ^
+^AR5_130_3_00010_Name^,^Blessed Chaotic Devout Robe ^
+^AR5_130_4_00010_Name^,^Blessed Chaotic Devout Gloves ^
+^AR5_130_5_00010_Name^,^Blessed Chaotic Devout Boots ^
 ^AR0_110_1_00020_Name^,^Level Option Test Stalwart Helm^
-^AR0_110_2_00020_Name^,^Level Option Test Stalwart Pauldron^
-^AR0_110_3_00020_Name^,^Level Option Test Stalwart Heavy Armor^
-^AR0_110_4_00020_Name^,^Level Option Test Stalwart Gloves^
-^AR0_110_5_00020_Name^,^Level Option Test Stalwart Boots^
-^AR1_107_1_00020_Name^,^Level Option Test Brutal Helm^
-^AR1_107_2_00020_Name^,^Level Option Test Brutal Pauldron^
-^AR1_107_3_00020_Name^,^Level Option Test Brutal Heavy Armor^
-^AR1_107_4_00020_Name^,^Level Option Test Brutal Gloves^
-^AR1_107_5_00020_Name^,^Level Option Test Brutal Boots^
-^AR3_107_1_00020_Name^,^Level Option Test Veiled Helm^
-^AR3_107_2_00020_Name^,^Level Option Test Veiled Pauldron^
-^AR3_107_3_00020_Name^,^Level Option Test Veiled Light Armor^
-^AR3_107_4_00020_Name^,^Level Option Test Veiled Gloves^
-^AR3_107_5_00020_Name^,^Level Option Test Veiled Boots^
-^AR4_107_1_00020_Name^,^Level Option Test Arcane Hat^
-^AR4_107_2_00020_Name^,^Level Option Test Arcane Pauldron^
-^AR4_107_3_00020_Name^,^Level Option Test Arcane Robe^
-^AR4_107_4_00020_Name^,^Level Option Test Arcane Gloves^
-^AR4_107_5_00020_Name^,^Level Option Test Arcane Boots^
-^AR5_130_1_00020_Name^,^Level Option Test Devout Hat^
-^AR5_130_2_00020_Name^,^Level Option Test Devout Pauldron^
-^AR5_130_3_00020_Name^,^Level Option Test Devout Robe^
-^AR5_130_4_00020_Name^,^Level Option Test Devout Gloves^
-^AR5_130_5_00020_Name^,^Level Option Test Devout Boots^
-^AR2_001_3_92051_Name^,^Dragon Knights Wild Light Armor^
-^AR2_001_4_92051_Name^,^Dragon Knights Wild Gloves^
-^AR2_001_5_92051_Name^,^Dragon Knights Wild Boots^
-^AR2_002_3_92103_Name^,^Fairy Wild Light Armor^
+^AR0_110_2_00020_Name^,^Level Option Test Stalwart Pauldron ^
+^AR0_110_3_00020_Name^,^Level Option Test Stalwart Heavy Armor ^
+^AR0_110_4_00020_Name^,^Level Option Test Stalwart Gloves ^
+^AR0_110_5_00020_Name^,^Level Option Test Stalwart Boots ^
+^AR1_107_1_00020_Name^,^Level Option Test Brutal Helm ^
+^AR1_107_2_00020_Name^,^Level Option Test Brutal Pauldron ^
+^AR1_107_3_00020_Name^,^Level Option Test Brutal Heavy Armor ^
+^AR1_107_4_00020_Name^,^Level Option Test Brutal Gloves ^
+^AR1_107_5_00020_Name^,^Level Option Test Brutal Boots ^
+^AR3_107_1_00020_Name^,^Level Option Test Veiled Helm ^
+^AR3_107_2_00020_Name^,^Level Option Test Veiled Pauldron ^
+^AR3_107_3_00020_Name^,^Level Option Test Veiled Light Armor ^
+^AR3_107_4_00020_Name^,^Level Option Test Veiled Gloves ^
+^AR3_107_5_00020_Name^,^Level Option Test Veiled Boots ^
+^AR4_107_1_00020_Name^,^Level Option Test Arcane Hat ^
+^AR4_107_2_00020_Name^,^Level Option Test Arcane Pauldron ^
+^AR4_107_3_00020_Name^,^Level Option Test Arcane Robe ^
+^AR4_107_4_00020_Name^,^Level Option Test Arcane Gloves ^
+^AR4_107_5_00020_Name^,^Level Option Test Arcane Boots ^
+^AR5_130_1_00020_Name^,^Level Option Test Devout Hat ^
+^AR5_130_2_00020_Name^,^Level Option Test Devout Pauldron ^
+^AR5_130_3_00020_Name^,^Level Option Test Devout Robe ^
+^AR5_130_4_00020_Name^,^Level Option Test Devout Gloves ^
+^AR5_130_5_00020_Name^,^Level Option Test Devout Boots ^
+^AR2_001_3_92051_Name^,^Dragon Knight Wild Light Suits^
+^AR2_001_4_92051_Name^,^Dragon Knight Wild Gloves^
+^AR2_001_5_92051_Name^,^Dragon Knight Wild Boots^
+^AR2_002_3_92103_Name^,^Fairy Wild Light Suits^
 ^AR2_002_4_92103_Name^,^Fairy Wild Gloves^
 ^AR2_002_5_92103_Name^,^Fairy Wild Boots^
-^AR2_002_3_92104_Name^,^Woodland Wild Light Armor^
+^AR2_002_3_92104_Name^,^Woodland Wild Light Suits^
 ^AR2_002_4_92104_Name^,^Woodland Wild Gloves^
 ^AR2_002_5_92104_Name^,^Woodland Wild Boots^
-^AR2_022_3_92131_Name^,^Royal Guards Wild Light Armor^
-^AR2_022_4_92131_Name^,^Royal Guards Wild Gloves^
-^AR2_022_5_92131_Name^,^Royal Guards Wild Boots^
-^AR2_003_3_92154_Name^,^Marauder Wild Light Armor^
+^AR2_022_3_92131_Name^,^Capital Guard Wild Light Suits^
+^AR2_022_4_92131_Name^,^Capital Guard Wild Gloves^
+^AR2_022_5_92131_Name^,^Capital Guard Wild Boots^
+^AR2_003_3_92154_Name^,^Marauder Wild Light Suits^
 ^AR2_003_4_92154_Name^,^Marauder Wild Gloves^
 ^AR2_003_5_92154_Name^,^Marauder Wild Boots^
-^AR2_003_2_92155_Name^,^Ancient Emberstone Golem Wild Pauldron^
-^AR2_003_3_92155_Name^,^Ancient Emberstone Golem Wild Light Armor^
-^AR2_003_4_92155_Name^,^Ancient Emberstone Golem Wild Gloves^
-^AR2_003_5_92155_Name^,^Ancient Emberstone Golem Wild Boots^
+^AR2_003_2_92155_Name^,^Emberstone Wild Pauldron^
+^AR2_003_3_92155_Name^,^Emberstone Wild Light Suits^
+^AR2_003_4_92155_Name^,^Emberstone Wild Gloves^
+^AR2_003_5_92155_Name^,^Emberstone Wild Boots^
 ^AR2_003_2_92156_Name^,^Detachment Wild Pauldron^
-^AR2_003_3_92156_Name^,^Detachment Wild Light Armor^
-^AR2_003_4_92156_Name^,^Detachment Wild Gloves^
-^AR2_003_5_92156_Name^,^Detachment Wild Boots^
+^AR2_003_3_92156_Name^,^Detachment Wild Light Suits^
+^AR2_003_4_92156_Name^,^Detachment Wild Light Gloves^
+^AR2_003_5_92156_Name^,^Detachment Wild Light Boots^
 ^AR2_024_2_92201_Name^,^Vampire Wild Pauldron^
-^AR2_024_3_92201_Name^,^Vampire Wild Light Armor^
+^AR2_024_3_92201_Name^,^Vampire Wild Light Suits^
 ^AR2_024_4_92201_Name^,^Vampire Wild Gloves^
 ^AR2_024_5_92201_Name^,^Vampire Wild Boots^
 ^AR2_024_2_92203_Name^,^Militia Wild Pauldron^
-^AR2_024_3_92203_Name^,^Militia Wild Light Armor^
+^AR2_024_3_92203_Name^,^Militia Wild Light Suits^
 ^AR2_024_4_92203_Name^,^Militia Wild Gloves^
 ^AR2_024_5_92203_Name^,^Militia Wild Boots^
 ^AR2_024_2_92202_Name^,^Cursed Wild Pauldron^
-^AR2_024_3_92202_Name^,^Cursed Wild Light Armor^
+^AR2_024_3_92202_Name^,^Cursed Wild Light Suits^
 ^AR2_024_4_92202_Name^,^Cursed Wild Gloves^
 ^AR2_024_5_92202_Name^,^Cursed Wild Boots^
 ^AR2_024_4_92204_Name^,^Carleon Wild Gloves^
 ^AR2_005_1_91251_Name^,^Officer's Wild Helm^
 ^AR2_005_2_91251_Name^,^Officer's Wild Pauldron^
-^AR2_005_3_91251_Name^,^Officer's Wild Light Armor^
+^AR2_005_3_91251_Name^,^Officer's Wild Light Suits^
 ^AR2_005_4_91251_Name^,^Officer's Wild Gloves^
 ^AR2_005_5_91251_Name^,^Officer's Wild Boots^
 ^AR2_005_1_92252_Name^,^Garrison Wild Helm^
 ^AR2_005_2_92252_Name^,^Garrison Wild Pauldron^
-^AR2_005_3_92252_Name^,^Garrison Wild Light Armor^
+^AR2_005_3_92252_Name^,^Garrison Wild Light Suits^
 ^AR2_005_4_92252_Name^,^Garrison Wild Gloves^
 ^AR2_005_5_92252_Name^,^Garrison Wild Boots^
-^AR2_005_1_92251_Name^,^Azure Wild Helm^
-^AR2_005_2_92251_Name^,^Azure Wild Pauldron^
-^AR2_005_3_92251_Name^,^Azure Wild Light Armor^
-^AR2_005_4_92251_Name^,^Azure Wild Gloves^
-^AR2_005_5_92251_Name^,^Azure Wild Boots^
+^AR2_005_1_92251_Name^,^Firmament Wild Helm^
+^AR2_005_2_92251_Name^,^Firmament Wild Pauldron^
+^AR2_005_3_92251_Name^,^Firmament Wild Light Suits^
+^AR2_005_4_92251_Name^,^Firmament Wild Gloves^
+^AR2_005_5_92251_Name^,^Firmament Wild Boots^
 ^AR2_022_1_92141_Name^,^Snowfield Wild Helm^
 ^AR2_022_2_92141_Name^,^Snowfield Wild Pauldron^
-^AR2_022_3_92141_Name^,^Snowfield Wild Light Armor^
+^AR2_022_3_92141_Name^,^Snowfield Wild Light Suits^
 ^AR2_022_4_92141_Name^,^Snowfield Wild Gloves^
 ^AR2_022_5_92141_Name^,^Snowfield Wild Boots^
 ^AR2_005_1_93251_Name^,^Frozen Wild Helm^
 ^AR2_005_2_93251_Name^,^Frozen Wild Pauldron^
-^AR2_005_3_93251_Name^,^Frozen Wild Light Armor^
+^AR2_005_3_93251_Name^,^Frozen Wild Light Suits^
 ^AR2_005_4_93251_Name^,^Frozen Wild Gloves^
 ^AR2_005_5_93251_Name^,^Frozen Wild Boots^
 ^AR2_005_1_92253_Name^,^Titan Wild Helm^
 ^AR2_005_2_92253_Name^,^Titan Wild Pauldron^
-^AR2_005_3_92253_Name^,^Titan Wild Light Armor^
+^AR2_005_3_92253_Name^,^Titan Wild Light Suits^
 ^AR2_005_4_92253_Name^,^Titan Wild Gloves^
 ^AR2_005_5_92253_Name^,^Titan Wild Boots^
 ^AR2_005_1_93252_Name^,^Attaius Wild Helm^
 ^AR2_005_2_93252_Name^,^Attaius Wild Pauldron^
-^AR2_005_3_93252_Name^,^Attaius Wild Light Armor^
+^AR2_005_3_93252_Name^,^Attaius Wild Light Suits^
 ^AR2_005_4_93252_Name^,^Attaius Wild Gloves^
 ^AR2_005_5_93252_Name^,^Attaius Wild Boots^
 ^AR2_005_1_91301_Name^,^Squire's Wild Helm^
 ^AR2_005_2_91301_Name^,^Squire's Wild Pauldron^
-^AR2_005_3_91301_Name^,^Squire's Wild Light Armor^
+^AR2_005_3_91301_Name^,^Squire's Wild Light Suits^
 ^AR2_005_4_91301_Name^,^Squire's Wild Gloves^
 ^AR2_005_5_91301_Name^,^Squire's Wild Boots^
 ^AR2_005_1_92301_Name^,^Merumi Wild Helm^
 ^AR2_005_2_92301_Name^,^Merumi Wild Pauldron^
-^AR2_005_3_92301_Name^,^Merumi Wild Light Armor^
+^AR2_005_3_92301_Name^,^Merumi Wild Light Suits^
 ^AR2_005_4_92301_Name^,^Merumi Wild Gloves^
 ^AR2_005_5_92301_Name^,^Merumi Wild Boots^
-^AR2_004_1_93305_Name^,^Wind Militia Wild Helm^
-^AR2_004_2_93305_Name^,^Wind Militia Wild Pauldron^
-^AR2_004_3_93305_Name^,^Wind Militia Wild Light Armor^
-^AR2_004_4_93305_Name^,^Wind Militia Wild Gloves^
-^AR2_004_5_93305_Name^,^Wind Militia Wild Boots^
+^AR2_004_1_93305_Name^,^Windstriker Wild Helm^
+^AR2_004_2_93305_Name^,^Windstriker Wild Pauldron^
+^AR2_004_3_93305_Name^,^Windstriker Wild Light Suits^
+^AR2_004_4_93305_Name^,^Windstriker Wild Gloves^
+^AR2_004_5_93305_Name^,^Windstriker Wild Boots^
 ^AR2_004_1_93306_Name^,^Corrupted Wild Helm^
 ^AR2_004_2_93306_Name^,^Corrupted Wild Pauldron^
-^AR2_004_3_93306_Name^,^Corrupted Wild Light Armor^
+^AR2_004_3_93306_Name^,^Corrupted Wild Light Suits^
 ^AR2_004_4_93306_Name^,^Corrupted Wild Gloves^
 ^AR2_004_5_93306_Name^,^Corrupted Wild Boots^
-^AR2_004_1_93304_Name^,^Grand Knight Wild Helm^
-^AR2_004_2_93304_Name^,^Grand Knight Wild Pauldron^
-^AR2_004_3_93304_Name^,^Grand Knight Wild Light Armor^
-^AR2_004_4_93304_Name^,^Grand Knight Wild Gloves^
-^AR2_004_5_93304_Name^,^Grand Knight Wild Boots^
-^AR2_004_1_93302_Name^,^Frost Guards Wild Helm^
-^AR2_004_2_93302_Name^,^Frost Guards Wild Pauldron^
-^AR2_004_3_93302_Name^,^Frost Guards Wild Light Armor^
-^AR2_004_4_93302_Name^,^Frost Guards Wild Gloves^
-^AR2_004_5_93302_Name^,^Frost Guards Wild Boots^
+^AR2_004_1_93304_Name^,^Lord Knight's Wild Helm^
+^AR2_004_2_93304_Name^,^Lord Knight's Wild Pauldron^
+^AR2_004_3_93304_Name^,^Lord Knight's Wild Light Suits^
+^AR2_004_4_93304_Name^,^Lord Knight's Wild Gloves^
+^AR2_004_5_93304_Name^,^Lord Knight's Wild Boots^
+^AR2_004_1_93302_Name^,^Frost Guard Wild Helm^
+^AR2_004_2_93302_Name^,^Frost Guard Wild Pauldron^
+^AR2_004_3_93302_Name^,^Frost Guard Wild Light Suits^
+^AR2_004_4_93302_Name^,^Frost Guard Wild Gloves^
+^AR2_004_5_93302_Name^,^Frost Guard Wild Boots^
 ^AR2_110_1_93351_Name^,^Crokhoon Helm^
 ^AR2_110_2_93351_Name^,^Crokhoon Pauldron^
 ^AR2_110_3_93351_Name^,^Crokhoon Light Armor^
 ^AR2_110_4_93351_Name^,^Crokhoon Gloves^
 ^AR2_110_5_93351_Name^,^Crokhoon Boots^
-^AR2_004_1_93301_Name^,^Frost Commander Wild Helm^
-^AR2_004_2_93301_Name^,^Frost Commander Wild Pauldron^
-^AR2_004_3_93301_Name^,^Frost Commander Wild Light Armor^
-^AR2_004_4_93301_Name^,^Frost Commander Wild Gloves^
-^AR2_004_5_93301_Name^,^Frost Commander Wild Boots^
+^AR2_004_1_93301_Name^,^Frost Command Wild Helm^
+^AR2_004_2_93301_Name^,^Frost Command Wild Pauldron^
+^AR2_004_3_93301_Name^,^Frost Command Wild Light Suits^
+^AR2_004_4_93301_Name^,^Frost Command Wild Gloves^
+^AR2_004_5_93301_Name^,^Frost Command Wild Boots^
 ^AR2_111_1_93401_Name^,^Grand Knight Wild Helm^
 ^AR2_111_2_93401_Name^,^Grand Knight Wild Pauldron^
-^AR2_111_3_93401_Name^,^Grand Knight Wild Light Armor^
+^AR2_111_3_93401_Name^,^Grand Knight Wild Light Suits^
 ^AR2_111_4_93401_Name^,^Grand Knight Wild Gloves^
 ^AR2_111_5_93401_Name^,^Grand Knight Wild Boots^
 ^AR2_108_1_93451_Name^,^Fallen Legion Wild Helm^
 ^AR2_108_2_93451_Name^,^Fallen Legion Wild Pauldron^
-^AR2_108_3_93451_Name^,^Fallen Legion Wild Light Armor^
+^AR2_108_3_93451_Name^,^Fallen Legion Wild Light Suits^
 ^AR2_108_4_93451_Name^,^Fallen Legion Wild Gloves^
 ^AR2_108_5_93451_Name^,^Fallen Legion Wild Boots^
-^AR2_109_1_93501_Name^,^Pegasus Knights Wild Helm^
-^AR2_109_2_93501_Name^,^Pegasus Knights Wild Pauldron^
-^AR2_109_3_93501_Name^,^Pegasus Knights Wild Light Armor^
-^AR2_109_4_93501_Name^,^Pegasus Knights Wild Gloves^
-^AR2_109_5_93501_Name^,^Pegasus Knights Wild Boots^
-^AR2_107_1_93551_Name^,^Supreme Commander's Wild Helm^
-^AR2_107_2_93551_Name^,^Supreme Commander's Wild Pauldron^
-^AR2_107_3_93551_Name^,^Supreme Commander's Wild Light Armor^
-^AR2_107_4_93551_Name^,^Supreme Commander's Wild Gloves^
-^AR2_107_5_93551_Name^,^Supreme Commander's Wild Boots^
+^AR2_109_1_93501_Name^,^Pegasus Knight Wild Helm^
+^AR2_109_2_93501_Name^,^Pegasus Knight Wild Pauldron^
+^AR2_109_3_93501_Name^,^Pegasus Knight Wild Light Suits^
+^AR2_109_4_93501_Name^,^Pegasus Knight Wild Gloves^
+^AR2_109_5_93501_Name^,^Pegasus Knight Wild Boots^
+^AR2_107_1_93551_Name^,^Supreme Commander Wild Helm^
+^AR2_107_2_93551_Name^,^Supreme Commander Wild Pauldron^
+^AR2_107_3_93551_Name^,^Supreme Commander Wild Light Suits^
+^AR2_107_4_93551_Name^,^Supreme Commander Wild Gloves^
+^AR2_107_5_93551_Name^,^Supreme Commander Wild Boots^
 ^AR2_912_1_82151_Name^,^Executioner Wild Helm^
 ^AR2_912_2_82151_Name^,^Executioner Wild Pauldron^
-^AR2_912_3_82151_Name^,^Executioner Wild Light Armor^
+^AR2_912_3_82151_Name^,^Executioner Wild Light Suits^
 ^AR2_912_4_82151_Name^,^Executioner Wild Gloves^
 ^AR2_912_5_82151_Name^,^Executioner Wild Boots^
-^AR2_922_1_82251_Name^,^Legendary Wild Helm^
-^AR2_922_2_82251_Name^,^Legendary Wild Pauldron^
-^AR2_922_3_82251_Name^,^Legendary Wild Light Armor^
-^AR2_922_4_82251_Name^,^Legendary Wild Gloves^
-^AR2_922_5_82251_Name^,^Legendary Wild Boots^
-^AR2_923_1_83251_Name^,^Veteran Wild Helm^
-^AR2_923_2_83251_Name^,^Veteran Wild Pauldron^
-^AR2_923_3_83251_Name^,^Veteran Wild Light Armor^
-^AR2_923_4_83251_Name^,^Veteran Wild Gloves^
-^AR2_923_5_83251_Name^,^Veteran Wild Boots^
-^AR2_811_3_81101_Name^,^Copper Wild Light Armor^
+^AR2_922_1_82251_Name^,^Fabled Wild Helm^
+^AR2_922_2_82251_Name^,^Fabled Wild Pauldron^
+^AR2_922_3_82251_Name^,^Fabled Wild Light Suits^
+^AR2_922_4_82251_Name^,^Fabled Wild Gloves^
+^AR2_922_5_82251_Name^,^Fabled Wild Boots^
+^AR2_923_1_83251_Name^,^Veteran's Wild Helm^
+^AR2_923_2_83251_Name^,^Veteran's Wild Pauldron^
+^AR2_923_3_83251_Name^,^Veteran's Wild Light Suits^
+^AR2_923_4_83251_Name^,^Veteran's Wild Gloves^
+^AR2_923_5_83251_Name^,^Veteran's Wild Boots^
+^AR2_811_3_81101_Name^,^Copper Wild Light Suits^
 ^AR2_811_4_81101_Name^,^Copper Wild Gloves^
 ^AR2_811_5_81101_Name^,^Copper Wild Boots^
 ^AR2_821_2_81201_Name^,^Steel Wild Pauldron^
-^AR2_821_3_81201_Name^,^Steel Wild Light Armor^
+^AR2_821_3_81201_Name^,^Steel Wild Light Suits^
 ^AR2_821_4_81201_Name^,^Steel Wild Gloves^
 ^AR2_821_5_81201_Name^,^Steel Wild Boots^
 ^AR2_822_2_82201_Name^,^Tempered Steel Wild Pauldron^
-^AR2_822_3_82201_Name^,^Tempered Steel Wild Light Armor^
+^AR2_822_3_82201_Name^,^Tempered Steel Wild Light Suits^
 ^AR2_822_4_82201_Name^,^Tempered Steel Wild Gloves^
 ^AR2_822_5_82201_Name^,^Tempered Steel Wild Boots^
 ^AR2_831_1_81301_Name^,^Mithril Wild Helm^
 ^AR2_831_2_81301_Name^,^Mithril Wild Pauldron^
-^AR2_831_3_81301_Name^,^Mithril Wild Light Armor^
+^AR2_831_3_81301_Name^,^Mithril Wild Light Suits^
 ^AR2_831_4_81301_Name^,^Mithril Wild Gloves^
 ^AR2_831_5_81301_Name^,^Mithril Wild Boots^
 ^AR2_832_1_82301_Name^,^Tempered Mithril Wild Helm^
 ^AR2_832_2_82301_Name^,^Tempered Mithril Wild Pauldron^
-^AR2_832_3_82301_Name^,^Tempered Mithril Wild Light Armor^
+^AR2_832_3_82301_Name^,^Tempered Mithril Wild Light Suits^
 ^AR2_832_4_82301_Name^,^Tempered Mithril Wild Gloves^
 ^AR2_832_5_82301_Name^,^Tempered Mithril Wild Boots^
 ^AR2_833_1_83301_Name^,^Shining Mithril Wild Helm^
 ^AR2_833_2_83301_Name^,^Shining Mithril Wild Pauldron^
-^AR2_833_3_83301_Name^,^Shining Mithril Wild Light Armor^
+^AR2_833_3_83301_Name^,^Shining Mithril Wild Light Suits^
 ^AR2_833_4_83301_Name^,^Shining Mithril Wild Gloves^
 ^AR2_833_5_83301_Name^,^Shining Mithril Wild Boots^
-^AR2_003_3_911511_Name^,^Infantry Wild Light Armor^
+^AR2_003_3_911511_Name^,^Infantry Wild Light Suits^
 ^AR2_003_4_911511_Name^,^Infantry Wild Gloves^
 ^AR2_003_5_911511_Name^,^Infantry Wild Boots^
-^AR2_003_3_921541_Name^,^Marauder Wild Light Armor^
+^AR2_003_3_921541_Name^,^Marauder Wild Light Suits^
 ^AR2_003_4_921541_Name^,^Marauder Wild Gloves^
 ^AR2_003_5_921541_Name^,^Marauder Wild Boots^
 ^AR2_024_2_912011_Name^,^Battle-hardened Wild Pauldron^
-^AR2_024_3_912011_Name^,^Battle-hardened Wild Light Armor^
+^AR2_024_3_912011_Name^,^Battle-hardened Wild Light Suits^
 ^AR2_024_4_912011_Name^,^Battle-hardened Wild Gloves^
 ^AR2_024_5_912011_Name^,^Battle-hardened Wild Boots^
 ^AR2_024_2_922011_Name^,^Vampire Wild Pauldron^
-^AR2_024_3_922011_Name^,^Vampire Wild Light Armor^
+^AR2_024_3_922011_Name^,^Vampire Wild Light Suits^
 ^AR2_024_4_922011_Name^,^Vampire Wild Gloves^
 ^AR2_024_5_922011_Name^,^Vampire Wild Boots^
 ^AR2_005_1_932511_Name^,^Rabbini Wild Helm^
 ^AR2_005_2_932511_Name^,^Rabbini Wild Pauldron^
-^AR2_005_3_932511_Name^,^Rabbini Wild Light Armor^
+^AR2_005_3_932511_Name^,^Rabbini Wild Light Suits^
 ^AR2_005_4_932511_Name^,^Rabbini Wild Gloves^
 ^AR2_005_5_932511_Name^,^Rabbini Wild Boots^
 ^AR2_005_1_912511_Name^,^Officer's Wild Helm^
 ^AR2_005_2_912511_Name^,^Officer's Wild Pauldron^
-^AR2_005_3_912511_Name^,^Officer's Wild Light Armor^
+^AR2_005_3_912511_Name^,^Officer's Wild Light Suits^
 ^AR2_005_4_912511_Name^,^Officer's Wild Gloves^
 ^AR2_005_5_912511_Name^,^Officer's Wild Boots^
-^AR2_005_1_922511_Name^,^Azure Wild Helm^
-^AR2_005_2_922511_Name^,^Azure Wild Pauldron^
-^AR2_005_3_922511_Name^,^Azure Wild Light Armor^
-^AR2_005_4_922511_Name^,^Azure Wild Gloves^
-^AR2_005_5_922511_Name^,^Azure Wild Boots^
+^AR2_005_1_922511_Name^,^Firmament Wild Helm^
+^AR2_005_2_922511_Name^,^Firmament Wild Pauldron^
+^AR2_005_3_922511_Name^,^Firmament Wild Light Suits^
+^AR2_005_4_922511_Name^,^Firmament Wild Gloves^
+^AR2_005_5_922511_Name^,^Firmament Wild Boots^
 ^AR2_912_1_821511_Name^,^Executioner Wild Helm^
 ^AR2_912_2_821511_Name^,^Executioner Wild Pauldron^
-^AR2_912_3_821511_Name^,^Executioner Wild Light Armor^
+^AR2_912_3_821511_Name^,^Executioner Wild Light Suits^
 ^AR2_912_4_821511_Name^,^Executioner Wild Gloves^
 ^AR2_912_5_821511_Name^,^Executioner Wild Boots^
-^AR2_922_1_822511_Name^,^Legendary Wild Helm^
-^AR2_922_2_822511_Name^,^Legendary Wild Pauldron^
-^AR2_922_3_822511_Name^,^Legendary Wild Light Armor^
-^AR2_922_4_822511_Name^,^Legendary Wild Gloves^
-^AR2_922_5_822511_Name^,^Legendary Wild Boots^
-^AR2_923_1_832511_Name^,^Veteran Wild Helm^
-^AR2_923_2_832511_Name^,^Veteran Wild Pauldron^
-^AR2_923_3_832511_Name^,^Veteran Wild Light Armor^
-^AR2_923_4_832511_Name^,^Veteran Wild Gloves^
-^AR2_923_5_832511_Name^,^Veteran Wild Boots^
+^AR2_922_1_822511_Name^,^Fabled Wild Helm^
+^AR2_922_2_822511_Name^,^Fabled Wild Pauldron^
+^AR2_922_3_822511_Name^,^Fabled Wild Light Suits^
+^AR2_922_4_822511_Name^,^Fabled Wild Gloves^
+^AR2_922_5_822511_Name^,^Fabled Wild Boots^
+^AR2_923_1_832511_Name^,^Veteran's Wild Helm^
+^AR2_923_2_832511_Name^,^Veteran's Wild Pauldron^
+^AR2_923_3_832511_Name^,^Veteran's Wild Light Suits^
+^AR2_923_4_832511_Name^,^Veteran's Wild Gloves^
+^AR2_923_5_832511_Name^,^Veteran's Wild Boots^
 ^AR2_005_1_932512_Name^,^Rabbini Wild Helm^
 ^AR2_005_2_932512_Name^,^Rabbini Wild Pauldron^
-^AR2_005_3_932512_Name^,^Rabbini Wild Light Armor^
+^AR2_005_3_932512_Name^,^Rabbini Wild Light Suits^
 ^AR2_005_4_932512_Name^,^Rabbini Wild Gloves^
 ^AR2_005_5_932512_Name^,^Rabbini Wild Boots^
 ^AR2_005_1_912512_Name^,^Officer's Wild Helm^
 ^AR2_005_2_912512_Name^,^Officer's Wild Pauldron^
-^AR2_005_3_912512_Name^,^Officer's Wild Light Armor^
+^AR2_005_3_912512_Name^,^Officer's Wild Light Suits^
 ^AR2_005_4_912512_Name^,^Officer's Wild Gloves^
 ^AR2_005_5_912512_Name^,^Officer's Wild Boots^
 ^AR2_005_1_922512_Name^,^Merumi Wild Helm^
 ^AR2_005_2_922512_Name^,^Merumi Wild Pauldron^
-^AR2_005_3_922512_Name^,^Merumi Wild Light Armor^
+^AR2_005_3_922512_Name^,^Merumi Wild Light Suits^
 ^AR2_005_4_922512_Name^,^Merumi Wild Gloves^
 ^AR2_005_5_922512_Name^,^Merumi Wild Boots^
-^AR2_922_1_822512_Name^,^Glorified Elite Wild Helm^
-^AR2_922_2_822512_Name^,^Glorified Elite Wild Pauldron^
-^AR2_922_3_822512_Name^,^Glorified Elite Wild Light Armor^
-^AR2_922_4_822512_Name^,^Glorified Elite Wild Gloves^
-^AR2_922_5_822512_Name^,^Glorified Elite Wild Boots^
-^AR2_923_1_832512_Name^,^Glorified Heroic Wild Helm^
-^AR2_923_2_832512_Name^,^Glorified Heroic Wild Pauldron^
-^AR2_923_3_832512_Name^,^Glorified Heroic Wild Light Armor^
-^AR2_923_4_832512_Name^,^Glorified Heroic Wild Gloves^
-^AR2_923_5_832512_Name^,^Glorified Heroic Wild Boots^
+^AR2_922_1_822512_Name^,^Glorified Wild Helm^
+^AR2_922_2_822512_Name^,^Glorified Wild Pauldron^
+^AR2_922_3_822512_Name^,^Glorified Wild Light Suits^
+^AR2_922_4_822512_Name^,^Glorified Wild Gloves^
+^AR2_922_5_822512_Name^,^Glorified Wild Boots^
+^AR2_923_1_832512_Name^,^Memorial Wild Helm^
+^AR2_923_2_832512_Name^,^Memorial Wild Pauldron^
+^AR2_923_3_832512_Name^,^Memorial Wild Light Suits^
+^AR2_923_4_832512_Name^,^Memorial Wild Gloves^
+^AR2_923_5_832512_Name^,^Memorial Wild Boots^
 ^pvpAR2_005_1_002528_Name^,^Modest Hunter Wild Helm^
 ^pvpAR2_005_2_002528_Name^,^Modest Hunter Wild Pauldron^
-^pvpAR2_005_3_002528_Name^,^Modest Hunter Wild Light Armor^
+^pvpAR2_005_3_002528_Name^,^Modest Hunter Wild Light Suits^
 ^pvpAR2_005_4_002528_Name^,^Modest Hunter Wild Gloves^
 ^pvpAR2_005_5_002528_Name^,^Modest Hunter Wild Boots^
 ^pvpAR2_005_1_003033_Name^,^Austere Hunter Wild Helm^
-^pvpAR2_005_2_003033_Name^,^Austere Hunter Wild Pauldron^
-^pvpAR2_005_3_003033_Name^,^Austere Hunter Wild Light Armor^
+^pvpAR2_005_2_003033_Name^,^Austere Hunter Wild Shoulders^
+^pvpAR2_005_3_003033_Name^,^Austere Hunter Wild Light Suits^
 ^pvpAR2_005_4_003033_Name^,^Austere Hunter Wild Gloves^
 ^pvpAR2_005_5_003033_Name^,^Austere Hunter Wild Boots^
 ^pvpAR2_005_1_003538_Name^,^Complex Hunter Wild Helm^
-^pvpAR2_005_2_003538_Name^,^Complex Hunter Wild Pauldron^
-^pvpAR2_005_3_003538_Name^,^Complex Hunter Wild Light Armor^
+^pvpAR2_005_2_003538_Name^,^Complex Hunter Wild Shoulders^
+^pvpAR2_005_3_003538_Name^,^Complex Hunter Wild Light Suits^
 ^pvpAR2_005_4_003538_Name^,^Complex Hunter Wild Gloves^
 ^pvpAR2_005_5_003538_Name^,^Complex Hunter Wild Boots^
 ^pvpAR2_005_1_004043_Name^,^Ornate Hunter Wild Helm^
 ^pvpAR2_005_2_004043_Name^,^Ornate Hunter Wild Pauldron^
-^pvpAR2_005_3_004043_Name^,^Ornate Hunter Wild Light Armor^
+^pvpAR2_005_3_004043_Name^,^Ornate Hunter Wild Light Suits^
 ^pvpAR2_005_4_004043_Name^,^Ornate Hunter Wild Gloves^
 ^pvpAR2_005_5_004043_Name^,^Ornate Hunter Wild Boots^
-^AR2_003_3_92157_Name^,^Dead Wild Light Armor^
-^AR2_003_4_92157_Name^,^Dead Wild Gloves^
-^AR2_003_5_92157_Name^,^Dead Wild Boots^
+^AR2_003_3_92157_Name^,^Death's Wild Light Suits^
+^AR2_003_4_92157_Name^,^Death's Wild Gloves^
+^AR2_003_5_92157_Name^,^Death's Wild Boots^
 ^AR2_024_2_92204_Name^,^Count's Wild Pauldron^
-^AR2_024_3_92204_Name^,^Count's Wild Light Armor^
+^AR2_024_3_92204_Name^,^Count's Wild Light Suits^
 ^AR2_024_4_92205_Name^,^Count's Wild Gloves^
 ^AR2_024_5_92205_Name^,^Count's Wild Boots^
 ^AR2_005_1_92255_Name^,^Yeti Wild Helm^
 ^AR2_005_2_92255_Name^,^Yeti Wild Pauldron^
-^AR2_005_3_92255_Name^,^Yeti Wild Light Armor^
+^AR2_005_3_92255_Name^,^Yeti Wild Light Suits^
 ^AR2_005_4_92255_Name^,^Yeti Wild Gloves^
 ^AR2_005_5_92255_Name^,^Yeti Wild Boots^
 ^AR2_005_1_92305_Name^,^Zealot's Wild Helm^
 ^AR2_005_2_92305_Name^,^Zealot's Wild Pauldron^
-^AR2_005_3_92305_Name^,^Zealot's Wild Light Armor^
+^AR2_005_3_92305_Name^,^Zealot's Wild Light Suits^
 ^AR2_005_4_92305_Name^,^Zealot's Wild Gloves^
 ^AR2_005_5_92305_Name^,^Zealot's Wild Boots^
 ^AR2_004_1_93307_Name^,^Frost Guard Officer's Wild Helm^
 ^AR2_004_2_93307_Name^,^Frost Guard Officer's Wild Pauldron^
-^AR2_004_3_93307_Name^,^Frost Guard Officer's Wild Light Armor^
+^AR2_004_3_93307_Name^,^Frost Guard Officer's Wild Light Suits^
 ^AR2_004_4_93307_Name^,^Frost Guard Officer's Wild Gloves^
 ^AR2_004_5_93307_Name^,^Frost Guard Officer's Wild Boots^
-^AR2_004_1_94307_Name^,^Izhora LegionOfficer's Wild Helm^
-^AR2_004_2_94307_Name^,^Izhora LegionOfficer's Wild Pauldron^
-^AR2_004_3_94307_Name^,^Izhora LegionOfficer's Wild Light Armor^
-^AR2_004_4_94307_Name^,^Izhora LegionOfficer's Wild Gloves^
-^AR2_004_5_94307_Name^,^Izhora LegionOfficer's Wild Boots^
-^AR2_004_1_93401_Name^,^Poseana's Wild Helm^
-^AR2_004_2_93401_Name^,^Poseana's Wild Pauldron^
-^AR2_004_3_93401_Name^,^Poseana's Wild Heavy Armor^
-^AR2_004_4_93401_Name^,^Poseana's Wild Gloves^
-^AR2_004_5_93401_Name^,^Poseana's Wild Boots^
-^AR2_003_3_92154_EV_Name^,^Marauding Knight's Wild Light Armor^
+^AR2_004_1_94307_Name^,^Izhora Officer's Wild Helm^
+^AR2_004_2_94307_Name^,^Izhora Officer's Wild Pauldron^
+^AR2_004_3_94307_Name^,^Izhora Officer's Wild Light Suits^
+^AR2_004_4_94307_Name^,^Izhora Officer's Wild Gloves^
+^AR2_004_5_94307_Name^,^Izhora Officer's Wild Boots^
+^AR2_004_1_93401_Name^,^Poseana Wild Helm^
+^AR2_004_2_93401_Name^,^Poseana Wild Pauldron^
+^AR2_004_3_93401_Name^,^Poseana Wild Light Suits^
+^AR2_004_4_93401_Name^,^Poseana Wild Gloves^
+^AR2_004_5_93401_Name^,^Poseana Wild Boots^
+^AR2_003_3_92154_EV_Name^,^Marauding Knight's Wild Light Suits^
 ^AR2_003_4_92154_EV_Name^,^Marauding Knight's Wild Gloves^
 ^AR2_003_5_92154_EV_Name^,^Marauding Knight's Wild Boots^
-^AR2_003_3_92154_RE_Name^,^Wild Light Armor of Hope I^
+^AR2_003_3_92154_RE_Name^,^Wild Light Suits of Hope I^
 ^AR2_003_4_92154_RE_Name^,^Wild Gloves of Hope I^
 ^AR2_003_5_92154_RE_Name^,^Wild Boots of Hope I^
 ^AR2_003_2_92156_RE_Name^,^Wild Pauldron of Hope II^
-^AR2_003_3_92156_RE_Name^,^Wild Light Armor of Hope II^
+^AR2_003_3_92156_RE_Name^,^Wild Light Suits of Hope II^
 ^AR2_003_4_92156_RE_Name^,^Wild Gloves of Hope II^
 ^AR2_003_5_92156_RE_Name^,^Wild Boots of Hope II^
 ^AR2_024_2_92201_RE_Name^,^Wild Pauldron of Hope III^
-^AR2_024_3_92201_RE_Name^,^Wild Light Armor of Hope III^
+^AR2_024_3_92201_RE_Name^,^Wild Light Suits of Hope III^
 ^AR2_024_4_92201_RE_Name^,^Wild Gloves of Hope III^
 ^AR2_024_5_92201_RE_Name^,^Wild Boots of Hope III^
 ^AR2_005_1_92251_RE_Name^,^Wild Helm of Hope IV^
 ^AR2_005_2_92251_RE_Name^,^Wild Pauldron of Hope IV^
-^AR2_005_3_92251_RE_Name^,^Wild Light Armor of Hope IV^
+^AR2_005_3_92251_RE_Name^,^Wild Light Suits of Hope IV^
 ^AR2_005_4_92251_RE_Name^,^Wild Gloves of Hope IV^
 ^AR2_005_5_92251_RE_Name^,^Wild Boots of Hope IV^
 ^AR2_022_1_92141_RE_Name^,^Wild Helm of Hope V^
 ^AR2_022_2_92141_RE_Name^,^Wild Pauldron of Hope V^
-^AR2_022_3_92141_RE_Name^,^Wild Light Armor of Hope V^
+^AR2_022_3_92141_RE_Name^,^Wild Light Suits of Hope V^
 ^AR2_022_4_92141_RE_Name^,^Wild Gloves of Hope V^
 ^AR2_022_5_92141_RE_Name^,^Wild Boots of Hope V^
 ^AR2_005_1_92301_RE_Name^,^Wild Helm of Hope VI^
 ^AR2_005_2_92301_RE_Name^,^Wild Pauldron of Hope VI^
-^AR2_005_3_92301_RE_Name^,^Wild Light Armor of Hope VI^
+^AR2_005_3_92301_RE_Name^,^Wild Light Suits of Hope VI^
 ^AR2_005_4_92301_RE_Name^,^Wild Gloves of Hope VI^
 ^AR2_005_5_92301_RE_Name^,^Wild Boots of Hope VI^
 ^AR2_004_1_93302_RE_Name^,^Wild Helm of Hope VII^
 ^AR2_004_2_93302_RE_Name^,^Wild Pauldron of Hope VII^
-^AR2_004_3_93302_RE_Name^,^Wild Light Armor of Hope VII^
+^AR2_004_3_93302_RE_Name^,^Wild Light Suits of Hope VII^
 ^AR2_004_4_93302_RE_Name^,^Wild Gloves of Hope VII^
 ^AR2_004_5_93302_RE_Name^,^Wild Boots of Hope VII^
 ^AR2_109_1_92451_RE_Name^,^Wild Helm of Hope VIII^
 ^AR2_109_2_92451_RE_Name^,^Wild Pauldron of Hope VIII^
-^AR2_109_3_92451_RE_Name^,^Wild Light Armor of Hope VIII^
+^AR2_109_3_92451_RE_Name^,^Wild Light Suits of Hope VIII^
 ^AR2_109_4_92451_RE_Name^,^Wild Gloves of Hope VIII^
 ^AR2_109_5_92451_RE_Name^,^Wild Boots of Hope VIII^
 ^AR2_109_1_92501_RE_Name^,^Wild Helm of Hope IX^
 ^AR2_109_2_92501_RE_Name^,^Wild Pauldron of Hope IX^
-^AR2_109_3_92501_RE_Name^,^Wild Light Armor of Hope IX^
+^AR2_109_3_92501_RE_Name^,^Wild Light Suits of Hope IX^
 ^AR2_109_4_92501_RE_Name^,^Wild Gloves of Hope IX^
 ^AR2_109_5_92501_RE_Name^,^Wild Boots of Hope IX^
-^AR2_835_1_83501_Name^,^Shining TempeRing Mithril Wild Helm^
-^AR2_835_2_83501_Name^,^Shining TempeRing Mithril Wild Pauldron^
-^AR2_835_3_83501_Name^,^Shining TempeRing Mithril Wild Light Armor^
-^AR2_835_4_83501_Name^,^Shining TempeRing Mithril Wild Gloves^
-^AR2_835_5_83501_Name^,^Shining TempeRing Mithril Wild Boots^
-^AR2_840_1_84001_Name^,^Shining Turalium Wild Helm^
-^AR2_840_2_84001_Name^,^Shining Turalium Wild Pauldron^
-^AR2_840_3_84001_Name^,^Shining Turalium Wild Light Armor^
-^AR2_840_4_84001_Name^,^Shining Turalium Wild Gloves^
-^AR2_840_5_84001_Name^,^Shining Turalium Wild Boots^
-^BX_AR2_004_1_93307_Name^,^Crescent Merchants Antique Wild Helm^
-^BX_AR2_004_2_93307_Name^,^Crescent Merchants Antique Wild Pauldron^
-^BX_AR2_004_3_93307_Name^,^Crescent Merchants Antique Wild Light Armor^
-^BX_AR2_004_4_93307_Name^,^Crescent Merchants Antique Wild Gloves^
-^BX_AR2_004_5_93307_Name^,^Crescent Merchants Antique Wild Boots^
-^BX_AR2_004_1_93301_Name^,^Crescent Merchants Wild Helm^
-^BX_AR2_004_2_93301_Name^,^Crescent Merchants Wild Pauldron^
-^BX_AR2_004_3_93301_Name^,^Crescent Merchants Wild Light Armor^
-^BX_AR2_004_4_93301_Name^,^Crescent Merchants Wild Gloves^
-^BX_AR2_004_5_93301_Name^,^Crescent Merchants Wild Boots^
-^BX_AR2_004_1_94307_Name^,^Crescent Merchants Tempered Wild Helm^
-^BX_AR2_004_2_94307_Name^,^Crescent Merchants Tempered Wild Pauldron^
-^BX_AR2_004_3_94307_Name^,^Crescent Merchants Tempered Wild Light Armor^
-^BX_AR2_004_4_94307_Name^,^Crescent Merchants Tempered Wild Gloves^
-^BX_AR2_004_5_94307_Name^,^Crescent Merchants Tempered Wild Boots^
-^BX_AR2_107_1_93551_Name^,^Crescent Merchants Shining Wild Helm^
-^BX_AR2_107_2_93551_Name^,^Crescent Merchants Shining Wild Pauldron^
-^BX_AR2_107_3_93551_Name^,^Crescent Merchants Shining Wild Light Armor^
-^BX_AR2_107_4_93551_Name^,^Crescent Merchants Shining Wild Gloves^
-^BX_AR2_107_5_93551_Name^,^Crescent Merchants Shining Wild Boots^
-^AR2_002_3_92104_EV1_Name^,^Hero's Wild Light Armor I^
+^AR2_835_1_83501_Name^,^Shining Tempered Mithril Wild Helm^
+^AR2_835_2_83501_Name^,^Shining Tempered Mithril Wild Pauldron^
+^AR2_835_3_83501_Name^,^Shining Tempered Mithril Wild Light Suits^
+^AR2_835_4_83501_Name^,^Shining Tempered Mithril Wild Gloves^
+^AR2_835_5_83501_Name^,^Shining Tempered Mithril Wild Boots^
+^AR2_840_1_84001_Name^,^Shining Turalium Mithril Wild Helm^
+^AR2_840_2_84001_Name^,^Shining Turalium Mithril Wild Pauldron^
+^AR2_840_3_84001_Name^,^Shining Turalium Mithril Wild Light Suits^
+^AR2_840_4_84001_Name^,^Shining Turalium Mithril Wild Gloves^
+^AR2_840_5_84001_Name^,^Shining Turalium Mithril Wild Boots^
+^BX_AR2_004_1_93307_Name^,^Antique Crescent Merchant Wild Helm^
+^BX_AR2_004_2_93307_Name^,^Antique Crescent Merchant Wild Pauldron^
+^BX_AR2_004_3_93307_Name^,^Antique Crescent Merchant Wild Light Suits^
+^BX_AR2_004_4_93307_Name^,^Antique Crescent Merchant Wild Gloves^
+^BX_AR2_004_5_93307_Name^,^Antique Crescent Merchant Wild Shoes^
+^BX_AR2_004_1_93301_Name^,^Crescent Merchant Wild Helm^
+^BX_AR2_004_2_93301_Name^,^Crescent Merchant Wild Pauldron^
+^BX_AR2_004_3_93301_Name^,^Crescent Merchant Wild Light Suits^
+^BX_AR2_004_4_93301_Name^,^Crescent Merchant Wild Gloves^
+^BX_AR2_004_5_93301_Name^,^Crescent Merchant Wild Shoes^
+^BX_AR2_004_1_94307_Name^,^Tempered Crescent Merchant Wild Helm^
+^BX_AR2_004_2_94307_Name^,^Tempered Crescent Merchant Wild Pauldron^
+^BX_AR2_004_3_94307_Name^,^Tempered Crescent Merchant Wild Light Suits^
+^BX_AR2_004_4_94307_Name^,^Tempered Crescent Merchant Wild Gloves^
+^BX_AR2_004_5_94307_Name^,^Tempered Crescent Merchant Wild Boots^
+^BX_AR2_107_1_93551_Name^,^Shining Crescent Merchant Wild Helm^
+^BX_AR2_107_2_93551_Name^,^Shining Crescent Merchant Wild Pauldron^
+^BX_AR2_107_3_93551_Name^,^Shining Crescent Merchant Wild Light Suits^
+^BX_AR2_107_4_93551_Name^,^Shining Crescent Merchant Wild Gloves^
+^BX_AR2_107_5_93551_Name^,^Shining Crescent Merchant Wild Boots^
+^AR2_002_3_92104_EV1_Name^,^Hero's Wild Light Suits I^
 ^AR2_002_4_92104_EV1_Name^,^Hero's Wild Gloves I^
 ^AR2_002_5_92104_EV1_Name^,^Hero's Wild Boots I^
-^AR2_002_3_92103_EV1_Name^,^Hero's Wild Light Armor II^
+^AR2_002_3_92103_EV1_Name^,^Hero's Wild Light Suits II^
 ^AR2_002_4_92103_EV1_Name^,^Hero's Wild Gloves II^
 ^AR2_002_5_92103_EV1_Name^,^Hero's Wild Boots II^
-^AR2_003_3_92154_EV1_Name^,^Hero's Wild Light Armor III^
+^AR2_003_3_92154_EV1_Name^,^Hero's Wild Light Suits III^
 ^AR2_003_4_92154_EV1_Name^,^Hero's Wild Gloves III^
 ^AR2_003_5_92154_EV1_Name^,^Hero's Wild Boots III^
 ^AR2_024_2_92203_EV1_Name^,^Hero's Wild Pauldron IV^
-^AR2_024_3_92203_EV1_Name^,^Hero's Wild Light Armor IV^
+^AR2_024_3_92203_EV1_Name^,^Hero's Wild Light Suits IV^
 ^AR2_024_4_92203_EV1_Name^,^Hero's Wild Gloves IV^
 ^AR2_024_5_92203_EV1_Name^,^Hero's Wild Boots IV^
 ^AR2_005_1_93251_EV1_Name^,^Hero's Wild Helm V^
 ^AR2_005_2_93251_EV1_Name^,^Hero's Wild Pauldron V^
-^AR2_005_3_93251_EV1_Name^,^Hero's Wild Light Armor V^
+^AR2_005_3_93251_EV1_Name^,^Hero's Wild Light Suits V^
 ^AR2_005_4_93251_EV1_Name^,^Hero's Wild Gloves V^
 ^AR2_005_5_93251_EV1_Name^,^Hero's Wild Boots V^
 ^AR2_004_1_93306_EV1_Name^,^Hero's Wild Helm VI^
 ^AR2_004_2_93306_EV1_Name^,^Hero's Wild Pauldron VI^
-^AR2_004_3_93306_EV1_Name^,^Hero's Wild Light Armor VI^
+^AR2_004_3_93306_EV1_Name^,^Hero's Wild Light Suits VI^
 ^AR2_004_4_93306_EV1_Name^,^Hero's Wild Gloves VI^
 ^AR2_004_5_93306_EV1_Name^,^Hero's Wild Boots VI^
 ^AR2_004_1_93301_EV1_Name^,^Hero's Wild Helm VII^
 ^AR2_004_2_93301_EV1_Name^,^Hero's Wild Pauldron VII^
-^AR2_004_3_93301_EV1_Name^,^Hero's Wild Light Armor VII^
+^AR2_004_3_93301_EV1_Name^,^Hero's Wild Light Suits VII^
 ^AR2_004_4_93301_EV1_Name^,^Hero's Wild Gloves VII^
 ^AR2_004_5_93301_EV1_Name^,^Hero's Wild Boots VII^
 ^AR2_107_1_93551_EV1_Name^,^Hero's Wild Helm VIII^
 ^AR2_107_2_93551_EV1_Name^,^Hero's Wild Pauldron VIII^
-^AR2_107_3_93551_EV1_Name^,^Hero's Wild Light Armor VIII^
+^AR2_107_3_93551_EV1_Name^,^Hero's Wild Light Suits VIII^
 ^AR2_107_4_93551_EV1_Name^,^Hero's Wild Gloves VIII^
 ^AR2_107_5_93551_EV1_Name^,^Hero's Wild Boots VIII^
-^AR2_107_1_93552_Name^,^Blessed Supreme Commander's Wild Helm^
-^AR2_107_2_93552_Name^,^Blessed Supreme Commander's Wild Pauldron^
-^AR2_107_3_93552_Name^,^Blessed Supreme Commander's Wild Light Armor^
-^AR2_107_4_93552_Name^,^Blessed Supreme Commander's Wild Gloves^
-^AR2_107_5_93552_Name^,^Blessed Supreme Commander's Wild Boots^
+^AR2_107_1_93552_Name^,^Blessed Supreme Commander Wild Helm^
+^AR2_107_2_93552_Name^,^Blessed Supreme Commander Wild Pauldron^
+^AR2_107_3_93552_Name^,^Blessed Supreme Commander Wild Light Suits^
+^AR2_107_4_93552_Name^,^Blessed Supreme Commander Wild Gloves^
+^AR2_107_5_93552_Name^,^Blessed Supreme Commander Wild Boots^
 ^AR2_107_1_93553_Name^,^Glorious Leader Wild Helm^
 ^AR2_107_2_93553_Name^,^Glorious Leader Wild Pauldron^
-^AR2_107_3_93553_Name^,^Glorious Leader Wild Light Armor^
+^AR2_107_3_93553_Name^,^Glorious Leader Wild Light Suits^
 ^AR2_107_4_93553_Name^,^Glorious Leader Wild Gloves^
 ^AR2_107_5_93553_Name^,^Glorious Leader Wild Boots^
-^AR2_111_1_91451_Name^,^Royal Guard's Wild Helm^
-^AR2_111_2_91451_Name^,^Royal Guard's Wild Pauldron^
-^AR2_111_3_91451_Name^,^Royal Guard's Wild Light Armor^
-^AR2_111_4_91451_Name^,^Royal Guard's Wild Gloves^
-^AR2_111_5_91451_Name^,^Royal Guard's Wild Boots^
+^AR2_111_1_91451_Name^,^Capital Guard Wild Helm^
+^AR2_111_2_91451_Name^,^Capital Guard Wild Pauldron^
+^AR2_111_3_91451_Name^,^Capital Guard Wild Light Suits^
+^AR2_111_4_91451_Name^,^Capital Guard Wild Gloves^
+^AR2_111_5_91451_Name^,^Capital Guard Wild Boots^
 ^AR2_109_1_92451_Name^,^Alseik Guard Wild Helm^
 ^AR2_109_2_92451_Name^,^Alseik Guard Wild Pauldron^
-^AR2_109_3_92451_Name^,^Alseik Guard Wild Light Armor^
+^AR2_109_3_92451_Name^,^Alseik Guard Wild Light Suits^
 ^AR2_109_4_92451_Name^,^Alseik Guard Wild Gloves^
 ^AR2_109_5_92451_Name^,^Alseik Guard Wild Boots^
 ^AR2_108_1_92452_Name^,^Mohaban Mercenary Wild Helm^
 ^AR2_108_2_92452_Name^,^Mohaban Mercenary Wild Pauldron^
-^AR2_108_3_92452_Name^,^Mohaban Mercenary Wild Light Armor^
+^AR2_108_3_92452_Name^,^Mohaban Mercenary Wild Light Suits^
 ^AR2_108_4_92452_Name^,^Mohaban Mercenary Wild Gloves^
 ^AR2_108_5_92452_Name^,^Mohaban Mercenary Wild Boots^
 ^AR2_004_1_92453_Name^,^Ruins Guard Wild Helm^
 ^AR2_004_2_92453_Name^,^Ruins Guard Wild Pauldron^
-^AR2_004_3_92453_Name^,^Ruins Guard Wild Light Armor^
+^AR2_004_3_92453_Name^,^Ruins Guard Wild Light Suits^
 ^AR2_004_4_92453_Name^,^Ruins Guard Wild Gloves^
-^AR2_004_5_92453_Name^,^Ruins Guard Wild Boots^
+^AR2_004_5_92453_Name^,^Ruins Guard Wild Boot^
 ^AR2_107_1_93451_Name^,^Khabimist Wild Helm^
 ^AR2_107_2_93451_Name^,^Khabimist Wild Pauldron^
-^AR2_107_3_93451_Name^,^Khabimist Wild Light Armor^
+^AR2_107_3_93451_Name^,^Khabimist Wild Light Suits^
 ^AR2_107_4_93451_Name^,^Khabimist Wild Gloves^
 ^AR2_107_5_93451_Name^,^Khabimist Wild Boots^
-^AR2_111_1_91501_Name^,^Royal Guard Officer's Wild Helm^
-^AR2_111_2_91501_Name^,^Royal Guard Officer's Wild Pauldron^
-^AR2_111_3_91501_Name^,^Royal Guard Officer's Wild Light Armor^
-^AR2_111_4_91501_Name^,^Royal Guard Officer's Wild Gloves^
-^AR2_111_5_91501_Name^,^Royal Guard Officer's Wild Boots^
-^AR2_108_1_92502_Name^,^Desert Braghi Wild Helm^
-^AR2_108_2_92502_Name^,^Desert Braghi Wild Pauldron^
-^AR2_108_3_92502_Name^,^Desert Braghi Wild Light Armor^
-^AR2_108_4_92502_Name^,^Desert Braghi Wild Gloves^
-^AR2_108_5_92502_Name^,^Desert Braghi Wild Boots^
-^AR2_004_1_92503_Name^,^Dark Commander's Wild Helm^
-^AR2_004_2_92503_Name^,^Dark Commander's Wild Pauldron^
-^AR2_004_3_92503_Name^,^Dark Commander's Wild Light Armor^
-^AR2_004_4_92503_Name^,^Dark Commander's Wild Gloves^
-^AR2_004_5_92503_Name^,^Dark Commander's Wild Boots^
+^AR2_111_1_91501_Name^,^Capital Commander's Wild Helm^
+^AR2_111_2_91501_Name^,^Capital Commander's Wild Pauldron^
+^AR2_111_3_91501_Name^,^Capital Commander's Wild Light Suits^
+^AR2_111_4_91501_Name^,^Capital Commander's Wild Gloves^
+^AR2_111_5_91501_Name^,^Capital Commander's Wild Boots^
+^AR2_108_1_92502_Name^,^Desert Braghin Wild Helm^
+^AR2_108_2_92502_Name^,^Desert Braghin Wild Pauldron^
+^AR2_108_3_92502_Name^,^Desert Braghin Wild Light Suits^
+^AR2_108_4_92502_Name^,^Desert Braghin Wild Gloves^
+^AR2_108_5_92502_Name^,^Desert Braghin Wild Boots^
+^AR2_004_1_92503_Name^,^Despot's Wild Helm^
+^AR2_004_2_92503_Name^,^Despot's Wild Pauldron^
+^AR2_004_3_92503_Name^,^Despot's Wild Light Suits^
+^AR2_004_4_92503_Name^,^Despot's Wild Gloves^
+^AR2_004_5_92503_Name^,^Despot's Wild Boots^
 ^AR2_109_1_92501_Name^,^Hermit's Wild Helm^
 ^AR2_109_2_92501_Name^,^Hermit's Wild Pauldron^
-^AR2_109_3_92501_Name^,^Hermit's Wild Light Armor^
+^AR2_109_3_92501_Name^,^Hermit's Wild Light Suits^
 ^AR2_109_4_92501_Name^,^Hermit's Wild Gloves^
 ^AR2_109_5_92501_Name^,^Hermit's Wild Boots^
-^AR2_107_1_93501_Name^,^Dark Commander Wild Helm^
-^AR2_107_2_93501_Name^,^Dark Commander Wild Pauldron^
-^AR2_107_3_93501_Name^,^Dark Commander Wild Light Armor^
-^AR2_107_4_93501_Name^,^Dark Commander Wild Gloves^
-^AR2_107_5_93501_Name^,^Dark Commander Wild Boots^
+^AR2_107_1_93501_Name^,^Tyrant's Wild Helm^
+^AR2_107_2_93501_Name^,^Tyrant's Wild Pauldron^
+^AR2_107_3_93501_Name^,^Tyrant's Wild Light Suits^
+^AR2_107_4_93501_Name^,^Tyrant's Wild Gloves^
+^AR2_107_5_93501_Name^,^Tyrant's Wild Boots^
 ^pvpAR2_005_1_004564_Name^,^Modest Slayer Wild Helm^
 ^pvpAR2_005_2_004564_Name^,^Modest Slayer Wild Pauldron^
-^pvpAR2_005_3_004564_Name^,^Modest Slayer Wild Light Armor^
+^pvpAR2_005_3_004564_Name^,^Modest Slayer Wild Light Suits^
 ^pvpAR2_005_4_004564_Name^,^Modest Slayer Wild Gloves^
 ^pvpAR2_005_5_004564_Name^,^Modest Slayer Wild Boots^
 ^pvpAR2_005_1_005069_Name^,^Austere Slayer Wild Helm^
-^pvpAR2_005_2_005069_Name^,^Austere Slayer Wild Pauldron^
-^pvpAR2_005_3_005069_Name^,^Austere Slayer Wild Light Armor^
+^pvpAR2_005_2_005069_Name^,^Austere Slayer Wild Shoulders^
+^pvpAR2_005_3_005069_Name^,^Austere Slayer Wild Light Suits^
 ^pvpAR2_005_4_005069_Name^,^Austere Slayer Wild Gloves^
 ^pvpAR2_005_5_005069_Name^,^Austere Slayer Wild Boots^
 ^AR2_107_1_93451_CR_Name^,^Shining Adamantite Wild Helm^
 ^AR2_107_2_93451_CR_Name^,^Shining Adamantite Wild Pauldron^
-^AR2_107_3_93451_CR_Name^,^Shining Adamantite Wild Light Armor^
+^AR2_107_3_93451_CR_Name^,^Shining Adamantite Wild Light Suits^
 ^AR2_107_4_93451_CR_Name^,^Shining Adamantite Wild Gloves^
 ^AR2_107_5_93451_CR_Name^,^Shining Adamantite Wild Boots^
 ^AR2_107_1_93501_CR_Name^,^Shining Tempered Adamantite Wild Helm^
 ^AR2_107_2_93501_CR_Name^,^Shining Tempered Adamantite Wild Pauldron^
-^AR2_107_3_93501_CR_Name^,^Shining Tempered Adamantite Wild Light Armor^
+^AR2_107_3_93501_CR_Name^,^Shining Tempered Adamantite Wild Light Suits^
 ^AR2_107_4_93501_CR_Name^,^Shining Tempered Adamantite Wild Gloves^
 ^AR2_107_5_93501_CR_Name^,^Shining Tempered Adamantite Wild Boots^
-^AR2_107_1_93502_Name^,^Blessed Dark Commander Wild Helm^
-^AR2_107_2_93502_Name^,^Blessed Dark Commander Wild Pauldron^
-^AR2_107_3_93502_Name^,^Blessed Dark Commander Wild Light Armor^
-^AR2_107_4_93502_Name^,^Blessed Dark Commander Wild Gloves^
-^AR2_107_5_93502_Name^,^Blessed Dark Commander Wild Boots^
-^AR2_504_a_1_92105_Name^,^Ellora Divine Wrath Wild Helm^
-^AR2_504_a_2_92105_Name^,^Ellora Divine Wrath Wild Pauldron^
-^AR2_504_a_3_92105_Name^,^Ellora Divine Wrath Wild Light Armor^
-^AR2_504_a_4_92105_Name^,^Ellora Divine Wrath Wild Gloves^
-^AR2_504_a_5_92105_Name^,^Ellora Divine Wrath Wild Boots^
-^AR2_504_d_1_92105_Name^,^Ellora Bless Wild Helm^
-^AR2_504_d_2_92105_Name^,^Ellora Bless Wild Pauldron^
-^AR2_504_d_3_92105_Name^,^Ellora Bless Wild Light Armor^
-^AR2_504_d_4_92105_Name^,^Ellora Bless Wild Gloves^
-^AR2_504_d_5_92105_Name^,^Ellora Bless Wild Boots^
+^AR2_107_1_93502_Name^,^Blessed Tyrant's Wild Helm^
+^AR2_107_2_93502_Name^,^Blessed Tyrant's Wild Pauldron^
+^AR2_107_3_93502_Name^,^Blessed Tyrant's Wild Light Suits^
+^AR2_107_4_93502_Name^,^Blessed Tyrant's Wild Gloves^
+^AR2_107_5_93502_Name^,^Blessed Tyrant's Wild Boots^
+^AR2_504_a_1_92105_Name^,^Exalted Wrath Wild Helm^
+^AR2_504_a_2_92105_Name^,^Exalted Wrath Wild Pauldron^
+^AR2_504_a_3_92105_Name^,^Exalted Wrath Wild Light Suits^
+^AR2_504_a_4_92105_Name^,^Exalted Wrath Wild Gloves^
+^AR2_504_a_5_92105_Name^,^Exalted Wrath Wild Boots^
+^AR2_504_d_1_92105_Name^,^Exalted Favor Wild Helm^
+^AR2_504_d_2_92105_Name^,^Exalted Favor Wild Pauldron^
+^AR2_504_d_3_92105_Name^,^Exalted Favor Wild Light Suits^
+^AR2_504_d_4_92105_Name^,^Exalted Favor Wild Gloves^
+^AR2_504_d_5_92105_Name^,^Exalted Favor Wild Boots^
 ^AR2_ev1_1_1_92105_Name^,^(PC Cafe) Karrasha New Year Wild Helm(6hrs.)^
 ^AR2_ev1_1_2_92105_Name^,^(PC Cafe) Karrasha New Year Wild Pauldron(6hrs.)^
-^AR2_ev1_1_3_92105_Name^,^(PC Cafe) Karrasha New Year Wild Light Armor(6hrs.)^
+^AR2_ev1_1_3_92105_Name^,^(PC Cafe) Karrasha New Year Wild Light Suits(6hrs.)^
 ^AR2_ev1_1_4_92105_Name^,^(PC Cafe) Karrasha New Year Wild Gloves(6hrs.)^
 ^AR2_ev1_1_5_92105_Name^,^(PC Cafe) Karrasha New Year Wild Boots(6hrs.)^
 ^AR2_ev1_2_1_92105_Name^,^(PC Cafe) Karrasha New Year Wild Helm(1 day)^
 ^AR2_ev1_2_2_92105_Name^,^(PC Cafe) Karrasha New Year Wild Pauldron(1 day)^
-^AR2_ev1_2_3_92105_Name^,^(PC Cafe) Karrasha New Year Wild Light Armor(1 day)^
+^AR2_ev1_2_3_92105_Name^,^(PC Cafe) Karrasha New Year Wild Light Suits(1 day)^
 ^AR2_ev1_2_4_92105_Name^,^(PC Cafe) Karrasha New Year Wild Gloves(1 day)^
 ^AR2_ev1_2_5_92105_Name^,^(PC Cafe) Karrasha New Year Wild Boots(1 day)^
-^AR2_002_3_92104_EV2_Name^,^Hero's Wild Light Armor I^
+^AR2_002_3_92104_EV2_Name^,^Hero's Wild Light Suits I^
 ^AR2_002_4_92104_EV2_Name^,^Hero's Wild Gloves I^
 ^AR2_002_5_92104_EV2_Name^,^Hero's Wild Boots I^
-^AR2_002_3_92103_EV2_Name^,^Hero's Wild Light Armor II^
+^AR2_002_3_92103_EV2_Name^,^Hero's Wild Light Suits II^
 ^AR2_002_4_92103_EV2_Name^,^Hero's Wild Gloves II^
 ^AR2_002_5_92103_EV2_Name^,^Hero's Wild Boots II^
-^AR2_003_3_92154_EV2_Name^,^Hero's Wild Light Armor III^
+^AR2_003_3_92154_EV2_Name^,^Hero's Wild Light Suits III^
 ^AR2_003_4_92154_EV2_Name^,^Hero's Wild Gloves III^
 ^AR2_003_5_92154_EV2_Name^,^Hero's Wild Boots III^
 ^AR2_024_2_92203_EV2_Name^,^Hero's Wild Pauldron IV^
-^AR2_024_3_92203_EV2_Name^,^Hero's Wild Light Armor IV^
+^AR2_024_3_92203_EV2_Name^,^Hero's Wild Light Suits IV^
 ^AR2_024_4_92203_EV2_Name^,^Hero's Wild Gloves IV^
 ^AR2_024_5_92203_EV2_Name^,^Hero's Wild Boots IV^
 ^AR2_005_1_93251_EV2_Name^,^Hero's Wild Helm V^
 ^AR2_005_2_93251_EV2_Name^,^Hero's Wild Pauldron V^
-^AR2_005_3_93251_EV2_Name^,^Hero's Wild Light Armor V^
+^AR2_005_3_93251_EV2_Name^,^Hero's Wild Light Suits V^
 ^AR2_005_4_93251_EV2_Name^,^Hero's Wild Gloves V^
 ^AR2_005_5_93251_EV2_Name^,^Hero's Wild Boots V^
 ^AR2_004_1_93306_EV2_Name^,^Hero's Wild Helm VI^
 ^AR2_004_2_93306_EV2_Name^,^Hero's Wild Pauldron VI^
-^AR2_004_3_93306_EV2_Name^,^Hero's Wild Light Armor VI^
+^AR2_004_3_93306_EV2_Name^,^Hero's Wild Light Suits VI^
 ^AR2_004_4_93306_EV2_Name^,^Hero's Wild Gloves VI^
 ^AR2_004_5_93306_EV2_Name^,^Hero's Wild Boots VI^
 ^AR2_004_1_93301_EV2_Name^,^Hero's Wild Helm VII^
 ^AR2_004_2_93301_EV2_Name^,^Hero's Wild Pauldron VII^
-^AR2_004_3_93301_EV2_Name^,^Hero's Wild Light Armor VII^
+^AR2_004_3_93301_EV2_Name^,^Hero's Wild Light Suits VII^
 ^AR2_004_4_93301_EV2_Name^,^Hero's Wild Gloves VII^
 ^AR2_004_5_93301_EV2_Name^,^Hero's Wild Boots VII^
 ^AR2_107_1_93551_EV2_Name^,^Hero's Wild Helm VIII^
 ^AR2_107_2_93551_EV2_Name^,^Hero's Wild Pauldron VIII^
-^AR2_107_3_93551_EV2_Name^,^Hero's Wild Light Armor VIII^
+^AR2_107_3_93551_EV2_Name^,^Hero's Wild Light Suits VIII^
 ^AR2_107_4_93551_EV2_Name^,^Hero's Wild Gloves VIII^
 ^AR2_107_5_93551_EV2_Name^,^Hero's Wild Boots VIII^
 ^AR2_107_1_00002_Name^,^Ronua Infantry Wild Helm^
-^AR2_107_2_00002_Name^,^Ronua Infantry Wild Pauldron^
-^AR2_107_3_00002_Name^,^Ronua Infantry Wild Light Armor^
-^AR2_107_4_00002_Name^,^Ronua Infantry Wild Gloves^
-^AR2_107_5_00002_Name^,^Ronua Infantry Wild Boots^
-^AR2_107_1_00003_Name^,^Elgaden Officer's Wild Helm^
-^AR2_107_2_00003_Name^,^Elgaden Officer's Wild Pauldron^
-^AR2_107_3_00003_Name^,^Elgaden Officer's Wild Light Armor^
-^AR2_107_4_00003_Name^,^Elgaden Officer's Wild Gloves^
-^AR2_107_5_00003_Name^,^Elgaden Officer's Wild Boots^
-^AR2_107_1_00004_Name^,^Ravager's Wild Helm^
-^AR2_107_2_00004_Name^,^Ravager's Wild Pauldron^
-^AR2_107_3_00004_Name^,^Ravager's Wild Light Armor^
-^AR2_107_4_00004_Name^,^Ravager's Wild Gloves^
-^AR2_107_5_00004_Name^,^Ravager's Wild Boots^
-^AR2_107_1_00005_Name^,^Chaos Wild Helm^
-^AR2_107_2_00005_Name^,^Chaos Wild Pauldron^
-^AR2_107_3_00005_Name^,^Chaos Wild Light Armor^
-^AR2_107_4_00005_Name^,^Chaos Wild Gloves^
-^AR2_107_5_00005_Name^,^Chaos Wild Boots^
+^AR2_107_2_00002_Name^,^Ronua Infantry Wild Pauldron ^
+^AR2_107_3_00002_Name^,^Ronua Infantry Wild Light Suits ^
+^AR2_107_4_00002_Name^,^Ronua Infantry Wild Gloves ^
+^AR2_107_5_00002_Name^,^Ronua Infantry Wild Boot ^
+^AR2_107_1_00003_Name^,^Elgaden Officer's Wild Helm ^
+^AR2_107_2_00003_Name^,^Elgaden Officer's Wild Pauldron ^
+^AR2_107_3_00003_Name^,^Elgaden Officer's Wild Light Suits ^
+^AR2_107_4_00003_Name^,^Elgaden Officer's Wild Gloves ^
+^AR2_107_5_00003_Name^,^Elgaden Officer's Wild Boots ^
+^AR2_107_1_00004_Name^,^Ravager Wild Helm ^
+^AR2_107_2_00004_Name^,^Ravager Wild Pauldron ^
+^AR2_107_3_00004_Name^,^Ravager Wild Light Suits ^
+^AR2_107_4_00004_Name^,^Ravager Wild Gloves ^
+^AR2_107_5_00004_Name^,^Ravager Wild Boots ^
+^AR2_107_1_00005_Name^,^Chaotic Wild Helm ^
+^AR2_107_2_00005_Name^,^Chaotic Wild Pauldron ^
+^AR2_107_3_00005_Name^,^Chaotic Wild Light Suits ^
+^AR2_107_4_00005_Name^,^Chaotic Wild Gloves ^
+^AR2_107_5_00005_Name^,^Chaotic Wild Boots ^
 ^AR2_107_1_00006_Name^,^Dragonium Wild Helm^
 ^AR2_107_2_00006_Name^,^Dragonium Wild Pauldron^
-^AR2_107_3_00006_Name^,^Dragonium Wild Light Armor^
+^AR2_107_3_00006_Name^,^Dragonium Wild Light Suits^
 ^AR2_107_4_00006_Name^,^Dragonium Wild Gloves^
 ^AR2_107_5_00006_Name^,^Dragonium Wild Boots^
-^AR2_003_2_92155_1_Name^,^Blessed Ancient Emberstone Golem Wild Pauldron^
-^AR2_003_3_92155_1_Name^,^Blessed Ancient Emberstone Golem Wild Light Armor^
-^AR2_003_4_92155_1_Name^,^Blessed Ancient Emberstone Golem Wild Gloves^
-^AR2_003_5_92155_1_Name^,^Blessed Ancient Emberstone Golem Wild Boots^
+^AR2_003_2_92155_1_Name^,^Blessed Emberstone Wild Pauldron^
+^AR2_003_3_92155_1_Name^,^Blessed Emberstone Wild Light Suits^
+^AR2_003_4_92155_1_Name^,^Blessed Emberstone Wild Gloves^
+^AR2_003_5_92155_1_Name^,^Blessed Emberstone Wild Boots^
 ^AR2_024_2_92202_1_Name^,^Blessed Cursed Wild Pauldron^
-^AR2_024_3_92202_1_Name^,^Blessed Cursed Wild Light Armor^
+^AR2_024_3_92202_1_Name^,^Blessed Cursed Wild Light Suits^
 ^AR2_024_4_92202_1_Name^,^Blessed Cursed Wild Gloves^
 ^AR2_024_5_92202_1_Name^,^Blessed Cursed Wild Boots^
 ^AR2_005_1_93251_1_Name^,^Blessed Frozen Wild Helm^
 ^AR2_005_2_93251_1_Name^,^Blessed Frozen Wild Pauldron^
-^AR2_005_3_93251_1_Name^,^Blessed Frozen Wild Light Armor^
+^AR2_005_3_93251_1_Name^,^Blessed Frozen Wild Light Suits^
 ^AR2_005_4_93251_1_Name^,^Blessed Frozen Wild Gloves^
 ^AR2_005_5_93251_1_Name^,^Blessed Frozen Wild Boots^
-^AR2_004_1_93306_1_Name^,^Blessed Corrupted Fellower Wild Helm^
-^AR2_004_2_93306_1_Name^,^Blessed Corrupted Fellower Wild Pauldron^
-^AR2_004_3_93306_1_Name^,^Blessed Corrupted Fellower Wild Light Armor^
-^AR2_004_4_93306_1_Name^,^Blessed Corrupted Fellower Wild Gloves^
-^AR2_004_5_93306_1_Name^,^Blessed Corrupted Fellower Wild Boots^
-^AR2_004_1_93301_1_Name^,^Blessed Frost Commander Wild Helm^
-^AR2_004_2_93301_1_Name^,^Blessed Frost Commander Wild Pauldron^
-^AR2_004_3_93301_1_Name^,^Blessed Frost Commander Wild Light Armor^
-^AR2_004_4_93301_1_Name^,^Blessed Frost Commander Wild Gloves^
-^AR2_004_5_93301_1_Name^,^Blessed Frost Commander Wild Boots^
+^AR2_004_1_93306_1_Name^,^Blessed Corrupt Wild Helm^
+^AR2_004_2_93306_1_Name^,^Blessed Corrupt Wild Pauldron^
+^AR2_004_3_93306_1_Name^,^Blessed Corrupt Wild Light Suits^
+^AR2_004_4_93306_1_Name^,^Blessed Corrupt Wild Gloves^
+^AR2_004_5_93306_1_Name^,^Blessed Corrupt Wild Boots^
+^AR2_004_1_93301_1_Name^,^Blessed Frost Command Wild Helm^
+^AR2_004_2_93301_1_Name^,^Blessed Frost Command Wild Pauldron^
+^AR2_004_3_93301_1_Name^,^Blessed Frost Command Wild Light Suits^
+^AR2_004_4_93301_1_Name^,^Blessed Frost Command Wild Gloves^
+^AR2_004_5_93301_1_Name^,^Blessed Frost Command Wild Boots^

@@ -38,9 +38,9 @@ t_key,t_korean
 ^AC0_EV_16_8001_Name^,^Acrat's absolute Ring ?^
 ^AC0_EV_16_8002_Name^,^Acrat's absolute Necklace^
 ^AC0_0_30032_TE_03_Name^,^Bragi's power (slowing speed) -test^
-^AC_A_400_6500_Name^,^Temmain Ring I^
-^AC_A_400_6501_Name^,^Temmain Ring II^
-^AC_A_400_6502_Name^,^Temmain Necklace^
+^AC_A_400_6500_Name^,^Temmajin Ring I^
+^AC_A_400_6501_Name^,^Temmajin Ring II^
+^AC_A_400_6502_Name^,^Temmajin Necklace^
 ^AC_A_300_6500_Name^,^Lazard Ring I^
 ^AC_A_300_6501_Name^,^Lazard Ring II^
 ^AC_A_300_6502_Name^,^Lazard Necklace^
@@ -55,7 +55,7 @@ t_key,t_korean
 ^AC_P_400_6008_Name^,^Battlefield Necklace^
 ^AC_FE_300_6001_Name^,^North Wind Rings I^
 ^AC_FE_300_6002_Name^,^North Wind Rings II^
-^AC_FE_300_6003_Name^,^North Wind Necklace^
+^AC_FE_300_6003_Name^,^North wind Necklace^
 ^EV_AC_A_400_6000_Name^,^Teleo Dark Ring I (Rental)^
 ^EV_AC_A_400_6001_Name^,^Teleo Dark Ring II (Rental)^
 ^EV_AC_A_400_6002_Name^,^Teleo Dark Necklace (Rental)^
@@ -111,7 +111,7 @@ t_key,t_korean
 ^EV_AC_C_002_Description^,^Magic sculpture It is not burned Let's sculpt with elite levels <O_y> Deleted when the February event starts </O_Y>^
 ^EV_AC_C_003_Description^,^Magic sculpture It is not burned Let's sculpt with elite levels <O_y> Deleted when the February event starts </O_Y>^
 ^EV_AC_C_004_Description^,^A luxurious wooden piece of special magic It is not burned I think I can make better works more than conventional wood pieces Let's sculpt with elite levels <O_y> Deleted when the February event starts </O_Y>^
-^EV_AC_C_005_Description^,^Luxurious ice sculptures tHat have become special magic It does not melt I think I can make better works more than conventional ice sculptures Let's sculpt with elite levels <O_y> Deleted when the February event starts </O_Y>^
+^EV_AC_C_005_Description^,^Luxurious ice sculptures that have become special magic It does not melt I think I can make better works more than conventional ice sculptures Let's sculpt with elite levels <O_y> Deleted when the February event starts </O_Y>^
 ^EV_AC_C_006_Description^,^Stone sculptures are naturally blessed in the village where strong magic spirits live It shines softly at night I think I can make better works more than conventional stone pieces Let's sculpt with elite levels <O_y> Deleted when the February event starts </O_Y>^
 ^EV_AC_C_007_Description^,^A special ingredient with Assassins in the part where the light touches and the Assassin is light The appearance is like a ore but when you touch it it's as cold as ice and the texture is like a tree It seems to have to be carved with a legendary rating <O_y> Deleted when the January event is terminated </O_Y>^
 ^EV_AC_C_008_Name^,^Starter^
@@ -119,3 +119,18 @@ t_key,t_korean
 ^AC_A_600_6012_Name^,^Empire Blooded Ring I^
 ^AC_A_600_6013_Name^,^Empire Blooded Ring II^
 ^AC_A_600_6014_Name^,^Empire Blooded Necklace^
+^EV_AC_C_009_Name^,^Sealed Big Martin Dessert Box^
+^EV_AC_C_009_Description^,^The dessert box that Vic Martin had sealed when he entered the ruins engulfed in fire after being falsely accused. I think I can get the answer to the double sugar dessert.
+<UI_Y>Items obtainable when disassembling</UI_Y>
+<UI_G> Double Sugar Secret Book (Honey Berry)
+Double Sugar Secret Book (Honey Mung)
+Sugar Bomb</UI_G>^
+^EV_AC_C_010_Name^,^Challenger's Lucky Ring I^
+^EV_AC_C_010_Description^,^A ring filled with luck that only those who consistently challenge the Ellora's Spire can obtain.^
+^EV_AC_C_011_Name^,^Challenger's Lucky Ring II^
+^EV_AC_C_011_Description^,^A ring filled with luck that only those who consistently challenge the Ellora's Spire can obtain.^
+^EV_AC_C_012_Name^,^Challenger's Lucky Necklace^
+^EV_AC_C_012_Description^,^A necklace filled with luck that only those who consistently challenge the Ellora's Spire can obtain.^
+^AC_A_700_0001_Name^,^Demonite Ring I^
+^AC_A_700_0002_Name^,^Demonite Ring II^
+^AC_A_700_0003_Name^,^Demonite Necklace^

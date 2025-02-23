@@ -8,14 +8,14 @@ t_key,t_korean
 ^WE7_009_0_3301_EV3_Name^,^Hero's Shortbow VII^
 ^WE7_008_0_3351_EV3_Name^,^Hero's Shortbow VIII^
 ^EW2_045_0_0003_Name^,^Maid Devy Weapon^
-^WE0_400_6000_Name^,^Alsas Sword^
-^WE1_400_6001_Name^,^Alsas Greatsword^
-^WE2_400_6002_Name^,^Alsas Dagger^
-^WE3_400_6003_Name^,^Alsas Scepter^
-^WE4_400_6004_Name^,^Alsas Staff^
-^WE5_400_6005_Name^,^Alsas Lance^
-^WE6_400_6006_Name^,^Alsas Crossbow^
-^WE6_400_6007_Name^,^Alsas Shortbow^
+^WE0_400_6000_Name^,^Alsacian Sword^
+^WE1_400_6001_Name^,^Alsacian Greatsword^
+^WE2_400_6002_Name^,^Alsacian Dagger^
+^WE3_400_6003_Name^,^Alsacian Scepter^
+^WE4_400_6004_Name^,^Alsacian Staff^
+^WE5_400_6005_Name^,^Alsacian Lance^
+^WE6_400_6006_Name^,^Alsacian Crossbow^
+^WE6_400_6007_Name^,^Alsacian Shortbow^
 ^WE0_CA2_5000_Name^,^2nd Year Anniversary Ellora's Sword^
 ^WE1_CA2_5001_Name^,^2nd Year Anniversary Ellora's Greatsword^
 ^WE4_CA2_5002_Name^,^2nd Year Anniversary Ellora's Dagger^
@@ -76,7 +76,7 @@ t_key,t_korean
 ^WE11_004_0_0060_Name^,^Red Revolutionaries' Magic Wand^
 ^WE11_004_10_0060_Name^,^Deep Green Magic Wand^
 ^WE11_004_2_0060_Name^,^Blessed Deep Green Magic Wand^
-^WE11_202_0_0060_Name^,^Alsas Magic Wand^
+^WE11_202_0_0060_Name^,^Alsacian Magic Wand^
 ^WE11_S001_0_0060_Name^,^Zelnaris Magic Wand^
 ^PVPWE11_p003_1_060_Name^,^Teleo's Dark Magic Wand^
 ^WE11_110_2_0013_Name^,^Royal Guards Magic Wand^
@@ -136,24 +136,24 @@ t_key,t_korean
 ^EV5_005_5_6001_Name^,^Zelnaris Scepter (Event)^
 ^EV7_006_5_6001_Name^,^Zelnaris Shortbow (Event)^
 ^EV11_S001_0_0060_Name^,^Zelnaris Magic Wand (Event)^
-^WE0_400_6500_Name^,^Temain's Sword^
-^WE1_400_6501_Name^,^Temain's Greatsword^
-^WE2_400_6502_Name^,^Temain's Dagger^
-^WE3_400_6503_Name^,^Temain's Scepter^
-^WE4_400_6504_Name^,^Temain's Staff^
-^WE5_400_6505_Name^,^Temain's Lance^
-^WE6_400_6506_Name^,^Temain's Crossbow^
-^WE6_400_6507_Name^,^Temain's Shortbow^
-^WE11_400_6508_Name^,^Temain's Magic Wand^
-^WE0_300_6500_Name^,^Lazard's Sword^
-^WE1_300_6501_Name^,^Lazard's Greatsword^
-^WE2_300_6502_Name^,^Lazard's Dagger^
-^WE3_300_6503_Name^,^Lazard's Scepter^
-^WE4_300_6504_Name^,^Lazard's Staff^
-^WE5_300_6505_Name^,^Lazard's Lance^
-^WE6_300_6506_Name^,^Lazard's Crossbow^
-^WE6_300_6507_Name^,^Lazard's Shortbow^
-^WE11_300_6508_Name^,^Lazard's Magic Wand^
+^WE0_400_6500_Name^,^Temmajin Sword^
+^WE1_400_6501_Name^,^Temmajin Greatsword^
+^WE2_400_6502_Name^,^Temmajin Dagger^
+^WE3_400_6503_Name^,^Temmajin Scepter^
+^WE4_400_6504_Name^,^Temmajin Staff^
+^WE5_400_6505_Name^,^Temmajin Lance^
+^WE6_400_6506_Name^,^Temmajin Crossbow^
+^WE6_400_6507_Name^,^Temmajin Shortbow^
+^WE11_400_6508_Name^,^Temmajin Magic Wand^
+^WE0_300_6500_Name^,^Lazard Sword^
+^WE1_300_6501_Name^,^Lazard Greatsword^
+^WE2_300_6502_Name^,^Lazard Dagger^
+^WE3_300_6503_Name^,^Lazard Scepter^
+^WE4_300_6504_Name^,^Lazard Staff^
+^WE5_300_6505_Name^,^Lazard Lance^
+^WE6_300_6506_Name^,^Lazard Crossbow^
+^WE6_300_6507_Name^,^Lazard Shortbow^
+^WE11_300_6508_Name^,^Lazard Magic Wand^
 ^WE0_500_6500_Name^,^Sophisticated Genazone's Sword^
 ^WE1_500_6501_Name^,^Sophisticated Genazone's Greatsword^
 ^WE2_500_6502_Name^,^Sophisticated Genazone's Dagger^
@@ -207,14 +207,14 @@ t_key,t_korean
 ^EV_WE6_1_00000_Name^,^Ellora's Lance (30 days)^
 ^EV_WE7_1_00000_Name^,^Ellora's Crossbow (30 days)^
 ^EV0_400_6000_Name^,^(PC방) 알사스의 한손 검(1일)^
-^EV1_400_6001_Name^,^Alsas Greatword (Rental)^
-^EV2_400_6002_Name^,^Alsas Dagger (Rental)^
-^EV3_400_6003_Name^,^Alsas Scepter (Rental)^
-^EV4_400_6004_Name^,^Alsas Staff (Rental)^
-^EV5_400_6005_Name^,^Alsas Lance (Rental)^
-^EV6_400_6006_Name^,^Alsas Crossbow (Rental)^
-^EV6_400_6007_Name^,^Alsas Shortbow (Rental)^
-^EV11_202_0_0060_Name^,^Alsas Magic Wand (Rental)^
+^EV1_400_6001_Name^,^Alsacian Greatword (Rental)^
+^EV2_400_6002_Name^,^Alsacian Dagger (Rental)^
+^EV3_400_6003_Name^,^Alsacian Scepter (Rental)^
+^EV4_400_6004_Name^,^Alsacian Staff (Rental)^
+^EV5_400_6005_Name^,^Alsacian Lance (Rental)^
+^EV6_400_6006_Name^,^Alsacian Crossbow (Rental)^
+^EV6_400_6007_Name^,^Alsacian Shortbow (Rental)^
+^EV11_202_0_0060_Name^,^Alsacian Magic Wand (Rental)^
 ^WE0_EV_3_0002_Name^,^Enlightened Growth Sword^
 ^WE2_EV_3_0002_Name^,^Enlightened Growth Dagger^
 ^WE4_EV_3_0002_Name^,^Enlightened Growth Staff^
@@ -224,15 +224,15 @@ t_key,t_korean
 ^WE11_EV_3_0002_Name^,^Enlightened Growth Magic Wand^
 ^WE6_EV_3_0003_Name^,^Enlightened Growth Crossbow^
 ^WE7_EV_3_0002_Name^,^Enlightened Growth Lance^
-^EV0_400_6000_1_Name^,^Alsas Sword (1 day)^
-^EV1_400_6001_1_Name^,^Alsas Greatsword (1 day)^
-^EV2_400_6002_1_Name^,^Alsas Dagger (1 day)^
-^EV3_400_6003_1_Name^,^Alsas Scepter (1 day)^
-^EV4_400_6004_1_Name^,^Alsas Staff (1 day)^
-^EV5_400_6005_1_Name^,^Alsas Lance (1 day)^
-^EV6_400_6006_1_Name^,^Alsas Crossbow (1 day)^
-^EV6_400_6007_1_Name^,^Alsas Shortbow (1 day)^
-^EV11_202_0_0060_1_Name^,^Alsas Magic Wand (1 day)^
+^EV0_400_6000_1_Name^,^Alsacian Sword (1 day)^
+^EV1_400_6001_1_Name^,^Alsacian Greatsword (1 day)^
+^EV2_400_6002_1_Name^,^Alsacian Dagger (1 day)^
+^EV3_400_6003_1_Name^,^Alsacian Scepter (1 day)^
+^EV4_400_6004_1_Name^,^Alsacian Staff (1 day)^
+^EV5_400_6005_1_Name^,^Alsacian Lance (1 day)^
+^EV6_400_6006_1_Name^,^Alsacian Crossbow (1 day)^
+^EV6_400_6007_1_Name^,^Alsacian Shortbow (1 day)^
+^EV11_202_0_0060_1_Name^,^Alsacian Magic Wand (1 day)^
 ^EV_WE0_400_6000_1_Name^,^McBain's Dark Sword^
 ^EV_WE1_400_6001_1_Name^,^McBain's Dark Greatsword^
 ^EV_WE2_400_6002_1_Name^,^McBain's Dark Dagger^
@@ -278,12 +278,35 @@ t_key,t_korean
 ^EV5_005_5_6005_name^,^Zelnaris Rental Scepter(7 days)^
 ^EV7_006_5_6005_name^,^Zelnaris Rental Shortbow(7 days)^
 ^EV11_S001_0_0064_name^,^Zelnaris Rental Magic Wand(7 days)^
-^WE0_001_5_8001_Name^,^Velzeroth Sword^
-^WE4_002_5_8001_Name^,^Velzeroth Dagger^
-^WE6_003_5_8001_Name^,^Velzeroth Staff^
-^WE1_004_5_8001_Name^,^Velzeroth Greatsword^
-^WE5_005_5_8001_Name^,^Velzeroth Scepter^
-^WE7_006_5_8001_Name^,^Velzeroth Shortbow^
-^WE9_006_5_8001_Name^,^Velzeroth Crossbow^
-^WE8_007_5_8001_Name^,^Velzeroth Lance^
-^WE11_008_5_8001_Name^,^Velzeroth Magic Wand^
+^WE0_001_5_8001_Name^,^Demonite Sword^
+^WE4_002_5_8001_Name^,^Demonite Dagger^
+^WE6_003_5_8001_Name^,^Demonite Staff^
+^WE1_004_5_8001_Name^,^Demonite Greatsword^
+^WE5_005_5_8001_Name^,^Demonite Scepter^
+^WE7_006_5_8001_Name^,^Demonite Shortbow^
+^WE9_006_5_8001_Name^,^Demonite Crossbow^
+^WE8_007_5_8001_Name^,^Demonite Lance^
+^WE11_008_5_8001_Name^,^Demonite Magic Wand^
+^WE0_001_5_7001_ev_Name^,^Guardian Sword^
+^WE4_002_5_7001_ev_Name^,^Assassin Dagger_Alpha^
+^WE6_003_5_7001_ev_Name^,^Arcane Staff^
+^WE1_004_5_7001_ev_Name^,^Berzerker GreatSword^
+^WE5_005_5_7001_ev_Name^,^Priest Scepter^
+^WE7_006_5_7001_ev_Name^,^Ranger Shortbow^
+^WE11_008_5_7001_ev_Name^,^Idol Magic Wand^
+^WE4_002_5_7001_ev_2_Name^,^Assassin Dagger_Beta^
+^WE0_001_5_7002_name^,^Cold-Blooded One-Handed Sword (30 Days)^
+^WE4_002_5_7002_name^,^Cold-Blooded Dagger (30 Days)^
+^WE6_003_5_7002_name^,^Cold-Blooded Two-Handed Staff (30 Days)^
+^WE1_004_5_7002_name^,^Cold-Blooded Two-Handed Sword (30 Days)^
+^WE5_005_5_7002_name^,^Cold-Blooded One-Handed Staff (30 Days)^
+^WE7_006_5_7002_name^,^Cold-Blooded Short Bow (30 Days)^
+^WE11_008_5_7002_name^,^Cold-Blooded One-Handed Magic Wand (30 Days)^
+^WE0_001_5_7002_ev_name^,^ColdBlooded Sword (30 Days)^
+^WE4_002_5_7002_ev_name^,^ColdBlooded Dagger (30 days)^
+^WE6_003_5_7002_ev_name^,^ColdBlooded Staff (30 days)^
+^WE1_004_5_7002_ev_name^,^ColdBlooded Greatsword (30 Days)^
+^WE5_005_5_7002_ev_name^,^ColdBlooded Scepter (30 days)^
+^WE7_006_5_7002_ev_name^,^ColdBlooded Bow (30 days)^
+^WE11_008_5_7002_ev_name^,^ColdBlooded Wand (30 Days)^
+^WE4_002_5_7002_ev_2_name^,^(30 days) Advanced Craftsman's Dagger_Beta^

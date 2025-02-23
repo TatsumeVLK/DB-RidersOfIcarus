@@ -1,441 +1,441 @@
 t_key,t_korean
-^AC0_0_1000_Name^,^Maria's Necklace^
-^AC0_1_1000_Name^,^Cooldown Reduction Necklace(99%)^
-^AC0_0_9999_Name^,^Test Ring_Critical Strike (100)^
-^AC0_0_9989_Name^,^Test Ring_Critical Strike (30)^
-^AC0_0_9988_Name^,^Test Ring_Critical Strike (70)^
-^AC0_0_10001_Name^,^Royal Ring^
-^AC0_0_10002_Name^,^Popo's Limited Ring^
+^AC0_0_1000_Name^,^Maria's Charm^
+^AC0_1_1000_Name^,^Swift Cooldown Necklace (99%)^
+^AC0_0_9999_Name^,^Ring for Testing_Critical Hit (100)^
+^AC0_0_9989_Name^,^Ring for Testing_Critical Hit (30)^
+^AC0_0_9988_Name^,^Ring for Testing_Critical Hit (70)^
+^AC0_0_10001_Name^,^Royal Family Ring^
+^AC0_0_10002_Name^,^Poe's Ring^
 ^AC0_0_21001_Name^,^Fairy Ring^
-^AC0_0_21011_Name^,^Forest's Strong Red Crystal Ring^
-^AC0_0_21012_Name^,^Forest's Wise Red Crystal Ring^
-^AC0_0_21013_Name^,^Forest Swift Red Crystal Ring^
-^AC0_0_21501_Name^,^Assault's Ring^
-^AC0_0_21511_Name^,^Delegation's Strong Ring^
-^AC0_0_21512_Name^,^Delegation's Wise Ring^
-^AC0_0_21513_Name^,^Delegation's Swift Ring^
-^AC0_0_31501_Name^,^Ring of Ancient Fire Golem^
+^AC0_0_21011_Name^,^Woodland Crystalmight Ring^
+^AC0_0_21012_Name^,^Woodland Crystalmind Ring^
+^AC0_0_21013_Name^,^Woodland Crystalheart Ring^
+^AC0_0_21501_Name^,^Marauder Ring^
+^AC0_0_21511_Name^,^Detachment Ring of STR^
+^AC0_0_21512_Name^,^Detachment Ring of Wisdom^
+^AC0_0_21513_Name^,^Detachment Ring of DEX^
+^AC0_0_31501_Name^,^Emberstone Ring^
 ^AC0_0_22001_Name^,^Vampire Ring^
-^AC0_0_22011_Name^,^Militia's Strong Ring^
-^AC0_0_22012_Name^,^Militia's Wisdom Ring^
-^AC0_0_22013_Name^,^Militia's Swift Ring^
+^AC0_0_22011_Name^,^Militia Ring of STR^
+^AC0_0_22012_Name^,^Militia Ring of Wisdom^
+^AC0_0_22013_Name^,^Militia Ring of DEX^
 ^AC0_0_32001_Name^,^Cursed Ring^
-^AC0_0_22501_Name^,^Sky Ring^
-^AC0_0_22521_Name^,^Corrupted Follower's Ring^
-^AC0_0_32501_Name^,^Cold Ring^
-^AC0_0_23001_Name^,^Snow Ring^
-^AC0_0_33001_Name^,^Yataiman's Ring^
-^AC0_0_23501_Name^,^Frost Legion's Ring^
-^AC0_0_33501_Name^,^Ice Commander's Ring^
-^AC0_0_24001_Name^,^Marshal's Ring^
-^AC0_1_21001_Name^,^Ancient Bragi Necklace^
-^AC0_1_22001_Name^,^Vampire's Necklace^
-^AC0_1_22011_Name^,^Militia's Strong Necklace^
-^AC0_1_22012_Name^,^Militia's Wise Necklace^
-^AC0_1_22013_Name^,^Militia's Swift Necklace^
+^AC0_0_22501_Name^,^Firmament Ring^
+^AC0_0_22521_Name^,^Corrupted Ring^
+^AC0_0_32501_Name^,^Frozen Ring^
+^AC0_0_23001_Name^,^Snowfield Ring^
+^AC0_0_33001_Name^,^Attaius Ring^
+^AC0_0_23501_Name^,^Frost Guard Ring^
+^AC0_0_33501_Name^,^Ankelion Ring^
+^AC0_0_24001_Name^,^Supreme Commander Ring^
+^AC0_1_21001_Name^,^Ancient Braghin Necklace^
+^AC0_1_22001_Name^,^Vampire Necklace^
+^AC0_1_22011_Name^,^Militia Necklace of STR^
+^AC0_1_22012_Name^,^Militia Necklace of Wisdom^
+^AC0_1_22013_Name^,^Militia Necklace of DEX^
 ^AC0_1_32001_Name^,^Cursed Necklace^
-^AC0_1_22501_Name^,^Yataiman's Necklace^
-^AC0_1_22521_Name^,^Ancient Flame Golem's Necklace^
-^AC0_1_32501_Name^,^Cold Necklace^
-^AC0_1_23001_Name^,^Corrupted Follower's Necklace^
-^AC0_1_33001_Name^,^Ice Commander's Necklace^
-^AC0_1_23501_Name^,^Marshal's Necklace^
+^AC0_1_22501_Name^,^Attaius Necklace^
+^AC0_1_22521_Name^,^Emberstone Necklace^
+^AC0_1_32501_Name^,^Frozen Necklace^
+^AC0_1_23001_Name^,^Corrupted Necklace^
+^AC0_1_33001_Name^,^Ankelion Necklace^
+^AC0_1_23501_Name^,^Supreme Commander Necklace^
 ^AC0_1_33501_Name^,^Fairy Necklace^
-^AC0_1_24001_Name^,^Assault's Necklace^
+^AC0_1_24001_Name^,^Marauder Necklace^
 ^AC0_0_1001_Name^,^Ruby Ring^
-^AC0_0_1141_Name^,^Kingdom Knight's Ring^
-^AC0_0_1142_Name^,^Hakanas Hero's Ring^
-^AC0_0_2141_Name^,^Onyx Ring Power^
-^AC0_0_2142_Name^,^Onyx Ring Agility^
-^AC0_0_2143_Name^,^Onyx Ring Intelligence^
-^AC0_1_2141_Name^,^Sapphire Necklace Chilled Stamina^
-^AC0_1_2142_Name^,^Sapphire Necklace Chilled Spirit^
-^AC0_1_2143_Name^,^Sapphire Necklace Chilled Power^
-^AC0_1_2144_Name^,^Sapphire Necklace Chilled Agility^
-^AC0_1_2145_Name^,^Sapphire Necklace Chilled Intelligence^
+^AC0_0_1141_Name^,^Knight Errant Ring^
+^AC0_0_1142_Name^,^Hakanas Hero Ring^
+^AC0_0_2141_Name^,^Blackblood Ring of STR^
+^AC0_0_2142_Name^,^Blackblood Ring of DEX^
+^AC0_0_2143_Name^,^Blackblood Ring of INT^
+^AC0_1_2141_Name^,^Frosted Sapphire Necklace of CONS^
+^AC0_1_2142_Name^,^Frosted Sapphire Necklace of Wisdom^
+^AC0_1_2143_Name^,^Frosted Sapphire Necklace of STR^
+^AC0_1_2144_Name^,^Frosted Sapphire Necklace of DEX^
+^AC0_1_2145_Name^,^Frosted Sapphire Necklace of INT^
 ^AC0_1_2261_Name^,^Water Pendant^
-^AC0_1_2262_Name^,^Fortified Water Pendant^
-^AC0_0_2261_Name^,^Oath Heart Ring^
-^AC0_0_2262_Name^,^Hero's Mark^
-^AC0_0_82151_Name^,^Strong Warrior's Physical Ring^
-^AC0_0_82152_Name^,^Strong Warrior's Magic Ring^
-^AC0_1_82151_Name^,^Strong Warrior's Physical Necklace^
-^AC0_1_82152_Name^,^Strong Warrior's Magic Necklace^
-^AC0_0_82251_Name^,^Legendary Physics Ring^
-^AC0_0_82252_Name^,^Legendary Magical Ring^
-^AC0_1_82251_Name^,^Legendary Physics Necklace^
-^AC0_1_82252_Name^,^Legendary Magic Necklace^
-^AC0_0_83251_Name^,^Seasoned Hero's Physics Ring^
-^AC0_0_83252_Name^,^Seasoned Hero's Magic Ring^
-^AC0_1_83251_Name^,^Seasoned Hero's Physics Necklace^
-^AC0_1_83252_Name^,^Seasoned Hero's Magic Necklace^
-^AC0_0_81101_Name^,^Physical Silver Ring^
-^AC0_0_81102_Name^,^Magic Silver Ring^
-^AC0_1_81101_Name^,^Physical Silver Necklace^
-^AC0_1_81102_Name^,^Magic Silver Necklace^
-^AC0_0_81201_Name^,^Physical Gold Ring^
-^AC0_0_81202_Name^,^Magic Gold Ring^
-^AC0_1_81201_Name^,^Physical Gold Necklace^
-^AC0_1_81202_Name^,^Magic Gold Necklace^
-^AC0_0_82201_Name^,^Enhanced Physical Gold Ring^
-^AC0_0_82202_Name^,^Enhanced Magical Gold Ring^
-^AC0_1_82201_Name^,^Enhanced Physical Gold Necklace^
-^AC0_1_82202_Name^,^Enhanced Magical Gold Necklace^
-^AC0_0_81301_Name^,^Physical Amethyst Ring^
-^AC0_0_81302_Name^,^Magic Amethyst Ring^
-^AC0_1_81301_Name^,^Physical Amethyst Necklace^
-^AC0_1_81302_Name^,^Magic Amethyst Necklace^
-^AC0_0_82301_Name^,^Enhanced Physical Amethyst Ring^
-^AC0_0_82302_Name^,^Enhanced Magical Amethyst Ring^
-^AC0_1_82301_Name^,^Enhanced Physical Amethyst Necklace^
-^AC0_1_82302_Name^,^Enhanced Magic Amethyst Necklace^
-^AC0_0_83301_Name^,^Shiny Physics Amethyst Ring^
-^AC0_0_83302_Name^,^Shiny Magical Amethyst Ring^
-^AC0_1_83301_Name^,^Shiny Physics Amethyst Necklace^
-^AC0_1_83302_Name^,^Shiny Magical Amethyst Necklace^
-^AC0_2_21501_Name^,^Kingdom Templar Ring^
-^AC0_2_220011_Name^,^Kingdom Elite Ring^
-^AC0_2_225012_Name^,^Lesser Ring of the Crokun^
-^AC0_2_325013_Name^,^Matren's Sapphire Ring of Frigid Cold^
-^AC0_2_230014_Name^,^Greater Ring of the Crocoon^
-^AC0_2_22001_Name^,^Kingdom Elite Soldier's Necklace^
-^AC0_2_22501_Name^,^Lesser Crocun Necklace^
-^AC0_2_32501_Name^,^Sapphire Necklace of Matren Cold^
-^AC0_2_23001_Name^,^Crocoon's Great Necklace^
-^AC0_2_821511_Name^,^Strong Champion's Physical Ring^
-^AC0_2_821522_Name^,^Strong Champion's Magic Ring^
-^AC0_2_82151_Name^,^Strong Champion's Physical Necklace^
-^AC0_2_82152_Name^,^Strong Champion's Magic Necklace^
-^AC0_2_822513_Name^,^Legendary Physics Ring^
-^AC0_2_822522_Name^,^Legendary Magical Ring^
-^AC0_2_82251_Name^,^Legendary Physics Necklace^
-^AC0_2_82252_Name^,^Legendary Magical Necklace^
-^AC0_2_832511_Name^,^Seasoned Hero's Physics Ring^
-^AC0_2_832522_Name^,^Seasoned Hero's Magic Ring^
-^AC0_2_83251_Name^,^Seasoned Hero's Physics Necklace^
-^AC0_2_83252_Name^,^Seasoned Hero's Magic Necklace^
+^AC0_1_2262_Name^,^Tempered Water Pendant^
+^AC0_0_2261_Name^,^Promise Ring^
+^AC0_0_2262_Name^,^Hero Mark^
+^AC0_0_82151_Name^,^Executioner Ring of Might^
+^AC0_0_82152_Name^,^Executioner Ring of Magic^
+^AC0_1_82151_Name^,^Executioner Necklace of Might^
+^AC0_1_82152_Name^,^Executioner Necklace of Magic^
+^AC0_0_82251_Name^,^Fabled Physical Ring^
+^AC0_0_82252_Name^,^Fabled Magic Ring^
+^AC0_1_82251_Name^,^Fabled Physical Necklace^
+^AC0_1_82252_Name^,^Fabled Magic Necklace^
+^AC0_0_83251_Name^,^Veteran's Physical Ring^
+^AC0_0_83252_Name^,^Veteran's Magic Ring^
+^AC0_1_83251_Name^,^Veteran's Physical Necklace^
+^AC0_1_83252_Name^,^Veteran's Magic Necklace^
+^AC0_0_81101_Name^,^Silver Physical Ring^
+^AC0_0_81102_Name^,^Silver Magic Ring^
+^AC0_1_81101_Name^,^Silver Physical Necklace^
+^AC0_1_81102_Name^,^Silver Magic Necklace^
+^AC0_0_81201_Name^,^Gold Physical Ring^
+^AC0_0_81202_Name^,^Gold Magic Ring^
+^AC0_1_81201_Name^,^Gold Physical Necklace^
+^AC0_1_81202_Name^,^Gold Magic Necklace^
+^AC0_0_82201_Name^,^Tempered Gold Physical Ring^
+^AC0_0_82202_Name^,^Tempered Gold Magic Ring^
+^AC0_1_82201_Name^,^Tempered Gold Physical Necklace^
+^AC0_1_82202_Name^,^Tempered Gold Magic Necklace^
+^AC0_0_81301_Name^,^Amethyst Physical Ring^
+^AC0_0_81302_Name^,^Amethyst Magic Ring^
+^AC0_1_81301_Name^,^Amethyst Physical Necklace^
+^AC0_1_81302_Name^,^Amethyst Magic Necklace^
+^AC0_0_82301_Name^,^Tempered Amethyst Physical Ring^
+^AC0_0_82302_Name^,^Tempered Amethyst Magic Ring^
+^AC0_1_82301_Name^,^Tempered Amethyst Physical Necklace^
+^AC0_1_82302_Name^,^Tempered Amethyst Magic Necklace^
+^AC0_0_83301_Name^,^Shining Amethyst Physical Ring^
+^AC0_0_83302_Name^,^Shining Amethyst Magic Ring^
+^AC0_1_83301_Name^,^Shining Amethyst Physical Necklace^
+^AC0_1_83302_Name^,^Shining Amethyst Magic Necklace^
+^AC0_2_21501_Name^,^Knight Errant Ring^
+^AC0_2_220011_Name^,^Kingdom Officer's Ring^
+^AC0_2_225012_Name^,^Modest Crokhoon Ring^
+^AC0_2_325013_Name^,^Frost Matren Sapphire Ring^
+^AC0_2_230014_Name^,^Complex Crokhoon Ring^
+^AC0_2_22001_Name^,^Kingdom Officer's Necklace^
+^AC0_2_22501_Name^,^Modest Crokhoon Necklace^
+^AC0_2_32501_Name^,^Frost Matren Sapphire Necklace^
+^AC0_2_23001_Name^,^Complex Crokhoon Necklace^
+^AC0_2_821511_Name^,^Executioner Ring of Might^
+^AC0_2_821522_Name^,^Executioner Ring of Magic^
+^AC0_2_82151_Name^,^Executioner Necklace of Might^
+^AC0_2_82152_Name^,^Executioner Necklace of Magic^
+^AC0_2_822513_Name^,^Fabled Physical Ring^
+^AC0_2_822522_Name^,^Fabled Magic Ring^
+^AC0_2_82251_Name^,^Fabled Physical Necklace^
+^AC0_2_82252_Name^,^Fabled Magic Necklace^
+^AC0_2_832511_Name^,^Veteran's Physical Ring^
+^AC0_2_832522_Name^,^Veteran's Magic Ring^
+^AC0_2_83251_Name^,^Veteran's Physical Necklace^
+^AC0_2_83252_Name^,^Veteran's Magic Necklace^
 ^AC0_0_2263_Name^,^PvP Ring I^
 ^AC0_0_2264_Name^,^PvP Ring II^
 ^AC0_0_2265_Name^,^PvP Ring III^
 ^AC0_0_2266_Name^,^PvP Ring IV^
 ^AC0_0_2267_Name^,^PvP Ring V^
-^AC0_0_2271_Name^,^Tamuz's Ring^
-^AC0_1_2271_Name^,^Tamuz's Necklace^
-^AC0_0_2272_Name^,^Royal Guard's Ring^
-^AC0_0_2281_Name^,^Royal Guard's Ring^
-^AC0_0_2282_Name^,^Royal Guard's Ring^
-^AC0_0_2283_Name^,^Royal Guard's Ring^
-^AC0_0_2284_Name^,^Royal Guard's Ring^
-^AC0_0_2273_Name^,^Knight Commander's Skull Ring^
-^AC0_0_2274_Name^,^Gust's Vampire Ring^
-^AC0_0_2275_Name^,^Rembrandt's Vampire Ring^
-^AC0_0_2276_Name^,^Kelone's Ring^
-^AC0_0_2277_Name^,^Dragon Seal^
-^AC0_1_2272_Name^,^Ashram's Energy^
-^AC0_1_2273_Name^,^MathuContin's Necklace^
-^AC0_0_2278_Name^,^Geppetto's Resurrection Ring^
-^pvpAC0_1_2528_Name^,^Lesser Hunter's Necklace^
-^pvpAC0_0_2528_Name^,^Lesser Hunter's Ring^
-^pvpAC0_1_3033_Name^,^Intermediate Hunter's Necklace^
-^pvpAC0_0_3033_Name^,^Intermediate Hunter's Ring^
-^pvpAC0_1_3538_Name^,^Great Hunter's Necklace^
-^pvpAC0_0_3538_Name^,^Great Hunter's Ring^
-^pvpAC0_1_4043_Name^,^Supreme Hunter's Necklace^
-^pvpAC0_0_4043_Name^,^Supreme Hunter's Ring^
-^AC0_0_2279_Name^,^Debbie's Grief^
-^AC0_0_2280_Name^,^Debbie's Wrath^
-^AC0_1_2274_Name^,^Bismuth Keg^
-^AC0_1_2275_Name^,^Bismuth Cup^
-^AC0_0_2290_Name^,^Bismuth Ring^
-^AC0_0_30000_Name^,^Garrison Strong Ring^
-^AC0_0_30001_Name^,^Garrison Wisdom Ring^
-^AC0_0_30002_Name^,^Garrison Swift Ring^
-^AC0_0_30003_Name^,^Wind Militia's Mighty Ring^
-^AC0_0_30004_Name^,^Wind Militia's Wise Ring^
-^AC0_0_30005_Name^,^Wind Militia's Swift Ring^
-^AC0_0_30006_Name^,^Krokun's Strong Ring^
-^AC0_0_30007_Name^,^Krokun's Wise Ring^
-^AC0_0_30008_Name^,^Krokun's Swift Ring^
-^AC0_0_30009_Name^,^Pegasus Knight's Strong Ring^
-^AC0_0_30010_Name^,^Pegasus Knight's Wisdom Ring^
-^AC0_0_30011_Name^,^Pegasus Knight's Swift Ring^
-^AC0_0_30012_Name^,^Burrowers Ring^
-^AC0_0_30013_Name^,^Undead Legion Ring^
-^AC0_1_30001_Name^,^Delegation's Strong Necklace^
-^AC0_1_30002_Name^,^Delegation's Wise Necklace^
-^AC0_1_30003_Name^,^Delegation's Swift Necklace^
-^AC0_1_30004_Name^,^Guard's Strong Necklace^
-^AC0_1_30005_Name^,^Guard's Wise Necklace^
-^AC0_1_30006_Name^,^Guard's Swift Necklace^
-^AC0_1_30007_Name^,^Wind Militia's Strong Necklace^
-^AC0_1_30008_Name^,^Wind Militia's Wise Necklace^
-^AC0_1_30009_Name^,^Wind Militia's Swift Necklace^
-^AC0_1_30010_Name^,^Krokun's Strong Necklace^
-^AC0_1_30011_Name^,^Krokun's Wise Necklace^
-^AC0_1_30012_Name^,^Krokun's Swift Necklace^
-^AC0_1_30013_Name^,^Pegasus Knight's Strong Necklace^
-^AC0_1_30014_Name^,^Pegasus Knight's Wise Necklace^
-^AC0_1_30015_Name^,^Pegasus Knight's Swift Necklace^
-^AC0_1_30016_Name^,^Sky Necklace^
-^AC0_1_30017_Name^,^Snowy Necklace^
-^AC0_1_30018_Name^,^Family's Necklace^
-^AC0_1_30019_Name^,^Frost Legion's Necklace^
-^AC0_1_30020_Name^,^Immortal Legion's Necklace^
-^AC0_0_30014_Name^,^Karasha's Ring I^
-^AC0_0_30014_1_Name^,^Karasha's Ring II^
-^AC0_1_30021_Name^,^Karasha's Necklace^
-^AC0_0_30015_Name^,^Zmeu's Ring^
-^AC0_1_30022_Name^,^Zmeu's Necklace^
-^AC0_1_30023_Name^,^Geranin's Bloody Skull Necklace^
-^AC0_1_30024_Name^,^Ursula's Necklace^
-^AC0_0_30016_Name^,^Ursula's Ring^
+^AC0_0_2271_Name^,^Tamus Ring^
+^AC0_1_2271_Name^,^Tamus Necklace^
+^AC0_0_2272_Name^,^Capital Guard Ring^
+^AC0_0_2281_Name^,^Capital Guard Ring^
+^AC0_0_2282_Name^,^Capital Guard Ring^
+^AC0_0_2283_Name^,^Capital Guard Ring^
+^AC0_0_2284_Name^,^Capital Guard Ring^
+^AC0_0_2273_Name^,^Knight Commander Skull Ring^
+^AC0_0_2274_Name^,^Gustav's Ring^
+^AC0_0_2275_Name^,^LeBrand's Ring^
+^AC0_0_2276_Name^,^Kelloneh's Ring^
+^AC0_0_2277_Name^,^Dragon Emblem^
+^AC0_1_2272_Name^,^Ashuram's Energy^
+^AC0_1_2273_Name^,^Matoukontin's Necklace^
+^AC0_0_2278_Name^,^Zeppello's Revival Ring^
+^pvpAC0_1_2528_Name^,^Modest Hunter Necklace^
+^pvpAC0_0_2528_Name^,^Modest Hunter Ring^
+^pvpAC0_1_3033_Name^,^Austere Hunter Necklace^
+^pvpAC0_0_3033_Name^,^Austere Hunter Ring^
+^pvpAC0_1_3538_Name^,^Complex Hunter Necklace^
+^pvpAC0_0_3538_Name^,^Complex Hunter Ring^
+^pvpAC0_1_4043_Name^,^Ornate Hunter Necklace^
+^pvpAC0_0_4043_Name^,^Ornate Hunter Ring^
+^AC0_0_2279_Name^,^Daveen's Grudge^
+^AC0_0_2280_Name^,^Daveen's Rage^
+^AC0_1_2274_Name^,^Bismuth's Booze Barrel^
+^AC0_1_2275_Name^,^Bismuth's Wine Glass^
+^AC0_0_2290_Name^,^Bismuth's Ring^
+^AC0_0_30000_Name^,^Garrison Ring of STR^
+^AC0_0_30001_Name^,^Garrison Ring of Wisdom^
+^AC0_0_30002_Name^,^Garrison Ring of DEX^
+^AC0_0_30003_Name^,^Windstriker Ring of STR^
+^AC0_0_30004_Name^,^Windstriker Ring of Wisdom^
+^AC0_0_30005_Name^,^Windstriker Ring of DEX^
+^AC0_0_30006_Name^,^Crokhoon Ring of STR^
+^AC0_0_30007_Name^,^Crokhoon Ring of Wisdom^
+^AC0_0_30008_Name^,^Crokhoon Ring of DEX^
+^AC0_0_30009_Name^,^Pegasus Knight Ring of STR^
+^AC0_0_30010_Name^,^Pegasus Knight Ring of Wisdom^
+^AC0_0_30011_Name^,^Pegasus Knight Ring of DEX^
+^AC0_0_30012_Name^,^Merumi Ring^
+^AC0_0_30013_Name^,^Fallen Legion Ring^
+^AC0_1_30001_Name^,^Detachment Necklace of STR^
+^AC0_1_30002_Name^,^Detachment Necklace of Wisdom^
+^AC0_1_30003_Name^,^Detachment Necklace of DEX^
+^AC0_1_30004_Name^,^Garrison Necklace of STR^
+^AC0_1_30005_Name^,^Garrison Necklace of Wisdom^
+^AC0_1_30006_Name^,^Garrison Necklace of DEX^
+^AC0_1_30007_Name^,^Windstriker Necklace of STR^
+^AC0_1_30008_Name^,^Windstriker Necklace of Wisdom^
+^AC0_1_30009_Name^,^Windstriker Necklace of DEX^
+^AC0_1_30010_Name^,^Crokhoon Necklace of STR^
+^AC0_1_30011_Name^,^Crokhoon Necklace of Wisdom^
+^AC0_1_30012_Name^,^Crokhoon Necklace of DEX^
+^AC0_1_30013_Name^,^Pegasus Knight Necklace of STR^
+^AC0_1_30014_Name^,^Pegasus Knight Necklace of Wisdom^
+^AC0_1_30015_Name^,^Pegasus Knight Necklace of DEX^
+^AC0_1_30016_Name^,^Firmament Necklace^
+^AC0_1_30017_Name^,^Snowfield Necklace^
+^AC0_1_30018_Name^,^Merumi Necklace^
+^AC0_1_30019_Name^,^Frost Guard Necklace^
+^AC0_1_30020_Name^,^Fallen Legion Necklace^
+^AC0_0_30014_Name^,^Karasha Ring I^
+^AC0_0_30014_1_Name^,^Karasha Ring II^
+^AC0_1_30021_Name^,^Karasha Necklace^
+^AC0_0_30015_Name^,^Jumawu's Ring^
+^AC0_1_30022_Name^,^Jumawu's Necklace^
+^AC0_1_30023_Name^,^Jeranin's Blackblood Skull Necklace^
+^AC0_1_30024_Name^,^Usula's Necklace^
+^AC0_0_30016_Name^,^Usula's Ring^
 ^AC0_0_30017_Name^,^Balboad's Ring^
-^AC0_0_30018_Name^,^De Ramache's Ring^
-^AC0_0_30019_Name^,^Ava's Ring^
+^AC0_0_30018_Name^,^De Lamarche's Ring^
+^AC0_0_30019_Name^,^Aiba's Ring^
 ^AC0_0_30020_Name^,^Baba's Ring^
-^AC0_0_30021_Name^,^Shava's Ring^
-^pvpAC1_1_3148_Name^,^Hunter Jack's Blood Necklace^
-^pvpAC1_0_3148_Name^,^Hunter Jack's Cursed Ring^
-^pvpAC1_1_3350_Name^,^Cleky's Blood Necklace^
-^pvpAC1_0_3350_Name^,^Cleky's Cursed Ring^
-^pvpAC1_1_3552_Name^,^Nightmare Blood Necklace^
-^pvpAC1_0_3552_Name^,^Nightmare Cursed Ring^
-^pvpAC1_1_3855_Name^,^Pyrud Blood Necklace^
-^pvpAC1_0_3855_Name^,^Pyrud Cursed Ring^
-^pvpAC1_1_4259_Name^,^Vilet Blood Necklace^
-^pvpAC1_0_4259_Name^,^Vilet Cursed Ring^
-^pvpAC1_1_4562_Name^,^Megantes Blood Necklace^
-^pvpAC1_0_4562_Name^,^Megantes Cursed Ring^
-^pvpAC1_2_3148_Name^,^Hunter Jack's Dark Ring^
-^pvpAC1_2_3350_Name^,^Cleky's Dark Ring^
-^pvpAC1_2_3552_Name^,^Nightmare Dark Ring^
-^pvpAC1_2_3855_Name^,^Pyrud Dark Ring^
-^pvpAC1_2_4259_Name^,^Vilet Dark Ring^
-^pvpAC1_2_4562_Name^,^Megantes Dark Ring^
-^AC0_0_30022_Name^,^Ruins Challenger's Ring^
-^AC0_0_30023_Name^,^Ruins Conqueror's Ring^
-^AC0_1_30025_Name^,^Ruins Ruler's Necklace^
-^AC0_0_30024_Name^,^Mansion Challenger Ring^
-^AC0_0_30025_Name^,^Mansion Conqueror's Ring^
-^AC0_1_30026_Name^,^Mansion Ruler's Necklace^
-^AC0_0_30026_Name^,^Ruin Challenger's Ring^
-^AC0_0_30027_Name^,^Ruin Conqueror Ring^
-^AC0_1_30027_Name^,^Ruin Lord's Necklace^
-^AC0_0_30028_Name^,^Bragain Run (50 movement speed)^
-^AC0_0_30029_Name^,^Bragain Run (100 movement speed)^
-^AC0_0_30030_Name^,^Bragain Run (200 movement speed)^
-^AC0_0_30031_Name^,^Bragain Wrath (Attack Power)^
-^AC0_0_30032_Name^,^Bragain Power (Movement/Attack Power)^
-^AC0_0_2098_Name^,^Hakanas Knight's Ring^
-^AC0_1_2098_Name^,^Hakanas Knight's Necklace^
-^AC0_0_2099_Name^,^Hakanas Sage's Ring^
-^AC0_1_2099_Name^,^Hakanas Sage's Necklace^
-^AC0_1_30028_Name^,^Cruel Destiny Necklace^
-^AC0_0_30033_Name^,^Cruel Destiny Black Ring^
-^AC0_0_30034_Name^,^Cruel Destiny Blue Ring^
-^AC0_0_83502_Name^,^Shiny Elaborate Amethyst Ring^
-^AC0_1_83501_Name^,^Shiny Elaborate Amethyst Necklace^
-^AC0_0_84002_Name^,^Shiny Sapphire Ring^
-^AC0_1_84001_Name^,^Shiny Sapphire Necklace^
-^AC0_1_90028_Name^,^Parna Champion's Necklace^
-^AC0_0_90033_Name^,^Parna Champion's Black Ring^
-^AC0_0_90034_Name^,^Parna Champion's Blue Ring^
-^AC0_0_33801_Name^,^Yataiman's Ring^
-^AC0_0_33802_Name^,^Tranoir's Ring^
-^AC0_1_33801_Name^,^Colossus Necklace^
-^BX_AC0_0_23501_Name^,^Crescent Moon Old Ring^
-^BX_AC0_1_30019_Name^,^Crescent Moon Old Necklace^
-^BX_AC0_0_33501_Name^,^Crescent Moon Ring^
-^BX_AC0_1_33001_Name^,^Crescent Moon Necklace^
-^BX_AC0_0_30013_Name^,^Reinforced Crescent Moon Ring^
-^BX_AC0_1_30020_Name^,^Reinforced Crescent Moon Necklace^
-^BX_AC0_0_24001_Name^,^Shiny Crescent Moon Ring^
-^BX_AC0_1_23501_Name^,^Shiny Crescent Moon Necklace^
+^AC0_0_30021_Name^,^Shaba's Ring^
+^pvpAC1_1_3148_Name^,^Jack the Hunter's Crimson Necklace^
+^pvpAC1_0_3148_Name^,^Jack the Hunter's Cursed Ring^
+^pvpAC1_1_3350_Name^,^Clachey's Crimson Necklace^
+^pvpAC1_0_3350_Name^,^Clachey's Cursed Ring^
+^pvpAC1_1_3552_Name^,^Nightmare's Crimson Necklace^
+^pvpAC1_0_3552_Name^,^Nightmare's Cursed Ring^
+^pvpAC1_1_3855_Name^,^Pyludd's Crimson Necklace^
+^pvpAC1_0_3855_Name^,^Pyludd's Cursed Ring^
+^pvpAC1_1_4259_Name^,^Vylet's Crimson Necklace^
+^pvpAC1_0_4259_Name^,^Vylet's Cursed Ring^
+^pvpAC1_1_4562_Name^,^Megantes's Crimson Necklace^
+^pvpAC1_0_4562_Name^,^Megantes's Cursed Ring^
+^pvpAC1_2_3148_Name^,^Jack the Hunter's Ring of Darkness^
+^pvpAC1_2_3350_Name^,^Clachey's Ring of Darkness^
+^pvpAC1_2_3552_Name^,^Nightmare's Ring of Darkness^
+^pvpAC1_2_3855_Name^,^Pyludd's Ring of Darkness^
+^pvpAC1_2_4259_Name^,^Vylet's Ring of Darkness^
+^pvpAC1_2_4562_Name^,^Megantes's Ring of Darkness^
+^AC0_0_30022_Name^,^Lavalight Challenger Ring^
+^AC0_0_30023_Name^,^Lavalight Conqueror Ring^
+^AC0_1_30025_Name^,^Lavalight Master Necklace^
+^AC0_0_30024_Name^,^Carleon Challenger Ring^
+^AC0_0_30025_Name^,^Carleon Conqueror Ring^
+^AC0_1_30026_Name^,^Carleon Master Necklace^
+^AC0_0_30026_Name^,^Matren Challenger Ring^
+^AC0_0_30027_Name^,^Matren Conqueror Ring^
+^AC0_1_30027_Name^,^Matren Master Necklace^
+^AC0_0_30028_Name^,^Braghin Dash (Speed 50)^
+^AC0_0_30029_Name^,^Braghin Dash (Speed 100)^
+^AC0_0_30030_Name^,^Braghin Dash (Speed 200)^
+^AC0_0_30031_Name^,^Braghin Rage (Attack)^
+^AC0_0_30032_Name^,^Braghin Power (Speed/Attack)^
+^AC0_0_2098_Name^,^Hakanas Knight Ring^
+^AC0_1_2098_Name^,^Hakanas Knight Necklace^
+^AC0_0_2099_Name^,^Hakanas Sage Ring^
+^AC0_1_2099_Name^,^Hakanas Sage Necklace^
+^AC0_1_30028_Name^,^Ruinous Necklace^
+^AC0_0_30033_Name^,^Ruinous Black Ring^
+^AC0_0_30034_Name^,^Ruinous Blue Ring^
+^AC0_0_83502_Name^,^Exquisite Shining Amethyst Ring^
+^AC0_1_83501_Name^,^Exquisite Shining Amethyst Necklace^
+^AC0_0_84002_Name^,^Polished Sapphire Ring^
+^AC0_1_84001_Name^,^Polished Sapphire Necklace^
+^AC0_1_90028_Name^,^Parna Warrior Necklace^
+^AC0_0_90033_Name^,^Parna Warrior Black Ring^
+^AC0_0_90034_Name^,^Parna Warrior Blue Ring^
+^AC0_0_33801_Name^,^Attaius Ring^
+^AC0_0_33802_Name^,^Tranua Ring^
+^AC0_1_33801_Name^,^Titan Necklace^
+^BX_AC0_0_23501_Name^,^Antique Crescent Merchant Ring^
+^BX_AC0_1_30019_Name^,^Antique Crescent Merchant Necklace^
+^BX_AC0_0_33501_Name^,^Crescent Merchant Ring^
+^BX_AC0_1_33001_Name^,^Crescent Merchant Necklace^
+^BX_AC0_0_30013_Name^,^Tempered Crescent Merchant Ring^
+^BX_AC0_1_30020_Name^,^Tempered Crescent Merchant Necklace^
+^BX_AC0_0_24001_Name^,^Shining Crescent Merchant Ring^
+^BX_AC0_1_23501_Name^,^Shining Crescent Merchant Necklace^
 ^AC0_0_90101_Name^,^Friendship Ring I^
 ^AC0_0_90102_Name^,^Friendship Ring II^
-^AC0_1_24001_qu_Name^,^Hakanas Hero's Necklace^
-^EV_AC0_0_33801_Name^,^Royal Guardian's Ring^
-^AC0_0_1000_EV_Name^,^Fishbunny's Rabbit Ring I^
-^AC0_0_1000_EV_Description^,^<R_Y> Fish Bunny's Rabbit Ring I can be worn for 1 hour and then disappears automatically. Fish Bunny's Rabbit Ring I consumes time from the moment it enters the bag.</R_Y>^
-^AC0_1_1000_EV_Name^,^Fishbunny's Rabbit Necklace I^
-^AC0_1_1000_EV_Description^,^<R_Y> Fish Bunny's Rabbit Necklace I can be worn for 1 hour and then disappears automatically. Fish Bunny's Rabbit Necklace I consumes time from the moment it enters the bag.</R_Y>^
-^AC0_0_1001_EV_Name^,^Fishbunny's Rabbit Ring II^
-^AC0_0_1001_EV_Description^,^<R_Y> Fishbunny's Rabbit Ring II can be worn for 3 hours and then disappears automatically. Fishbunny's Rabbit Ring II consumes time from the moment it enters your bag.</R_Y>^
-^AC0_1_1001_EV_Name^,^Fishbunny's Rabbit Necklace II^
-^AC0_1_1001_EV_Description^,^<R_Y> Fish Bunny's Rabbit Necklace II can be worn for 3 hours and then disappears automatically. Fish Bunny's Bunny Necklace II consumes time from the moment it enters the bag.</R_Y>^
-^AC0_0_1002_EV_Name^,^Fishbunny's Rabbit Ring III^
-^AC0_0_1002_EV_Description^,^<R_Y> Fish Bunny's Rabbit Ring III can be worn for 5 hours. and then disappears automatically. Fishbunny's Rabbit Ring III consumes time from the moment it enters your bag.</R_Y>^
-^AC0_1_1002_EV_Name^,^Fishbunny's Rabbit Necklace III^
-^AC0_1_1002_EV_Description^,^<R_Y> Fish Bunny's Rabbit Necklace III can be worn for 5 hours and then disappears automatically. Fish Bunny's Rabbit Necklace III consumes time from the moment it enters the bag.</R_Y>^
-^AC0_0_1003_EV_Name^,^Fishbunny's Rabbit Ring IV^
-^AC0_0_1003_EV_Description^,^<R_Y> Fishbunny's Rabbit Ring IV can be worn for 7 hours and then disappears automatically. Fishbunny's Rabbit Ring IV consumes time from the moment it enters your bag.</R_Y>^
-^AC0_1_1003_EV_Name^,^Fishbunny's Rabbit Necklace IV^
-^AC0_1_1003_EV_Description^,^<R_Y> Fish Bunny's Rabbit Necklace IV can be worn for 7 hours and then disappears automatically. Fishbani's Rabbit Necklace IV consumes time from the moment it enters your bag.</R_Y>^
-^AC0_0_1004_EV_Name^,^Fishbunny's Rabbit Ring V^
-^AC0_0_1004_EV_Description^,^<R_Y> Fish Bunny's Rabbit Ring V can be worn for 10 hours and then disappears automatically. Fish Bunny's Rabbit Ring V consumes time from the moment it enters the bag.</R_Y>^
-^AC0_1_1004_EV_Name^,^Fishbunny's Rabbit Necklace V^
-^AC0_1_1004_EV_Description^,^<R_Y> Fish Bunny's Rabbit Necklace V can be worn for 10 hours and then disappears automatically. Fish Bunny's Rabbit Necklace V consumes time from the moment it enters the bag.</R_Y>^
-^AC0_0_83512_Name^,^Shiny Elaborate Amethyst Ring^
-^AC0_1_83511_Name^,^Shiny Elaborate Amethyst Necklace^
-^AC0_0_1143_Name^,^Hakanas Guardian Ring^
-^AC0_0_30032_TE_01_Name^,^Bragain Power (Mulchi/Machi)^
-^AC0_0_30032_TE_02_Name^,^Bragain Power (Cast Speed)^
-^AC0_1_22501_qu_Name^,^Kingdom Knight's Necklace^
-^AC0_1_90128_Name^,^Airspace Guardian's Necklace^
-^AC0_0_90133_Name^,^Airspace Guardian's Black Ring^
-^AC0_0_90134_Name^,^Airspace Guardian's Blue Ring^
-^BX_AC1_1_90000_Name^,^Airspace Fighting Spirit Necklace^
-^BX_AC0_1_90040_Name^,^Airspace Fighting Spirit Ring I^
-^BX_AC0_1_90041_Name^,^Airspace Fighting Spirit Ring II^
-^AC0_1_23502_Name^,^Shining Legendary Item Box Leader's Necklace^
-^AC0_0_24002_Name^,^Shining Legendary Item Box Leader's Ring I^
-^AC0_0_24003_Name^,^Shining Legendary Item Box Leader's Ring II^
-^AC0_1_45001_Name^,^Alsec Guard's Strong Necklace^
-^AC0_1_45002_Name^,^Alsec Guard's Wise Necklace^
-^AC0_0_45001_Name^,^Alsec Guard's Strong Ring^
-^AC0_0_45002_Name^,^Alsec Guard's Wisdom Ring^
-^AC0_1_45003_Name^,^Mojava Mercenary's Necklace^
-^AC0_0_45003_Name^,^Mojava Mercenary's Ring^
-^AC0_1_45004_Name^,^Church of Cabim Necklace^
-^AC0_0_45004_Name^,^Church of Cabim Ring^
-^AC0_1_50001_Name^,^Hermit's Strong Necklace^
-^AC0_1_50002_Name^,^Hermit's Wise Necklace^
-^AC0_0_50001_Name^,^Hermit's Mighty Ring^
-^AC0_0_50002_Name^,^Hermit's Wise Ring^
-^AC0_1_50003_Name^,^Desert Bragain Necklace^
-^AC0_0_50003_Name^,^Desert Bragain Ring^
-^AC0_1_50004_Name^,^Dark Commander's Necklace^
-^AC0_0_50004_Name^,^Dark Commander's Ring^
-^pvpAC0_1_4564_Name^,^Lesser Slayer's Necklace^
-^pvpAC0_0_4564_Name^,^Lesser Slayer's Ring I^
-^pvpAC0_2_4564_Name^,^Lesser Slayer's Ring II^
-^pvpAC0_1_5069_Name^,^Middle Slayer's Necklace^
-^pvpAC0_0_5069_Name^,^Middle Slayer's Ring I^
-^pvpAC0_2_5069_Name^,^Middle Slayer's Ring II^
-^AC0_1_45004_CR_Name^,^Shiny Emerald Necklace^
-^AC0_0_45004_CR_Name^,^Shiny Emerald Ring^
-^AC0_1_50004_CR_Name^,^Shiny Exquisite Emerald Necklace^
-^AC0_0_50004_CR_Name^,^Shiny Exquisite Emerald Ring^
-^AC0_1_45005_Name^,^Refiner's Necklace^
-^AC0_0_50011_Name^,^Refiner's Mighty Ring^
-^AC0_0_50012_Name^,^Refiner's Wisdom Ring^
-^AC0_1_45006_Name^,^Merchant's Necklace^
-^AC0_0_50013_Name^,^Merchant's Mighty Ring^
-^AC0_0_50014_Name^,^Merchant's Wise Ring^
-^AC0_1_45007_Name^,^Tamer's Necklace^
-^AC0_0_50015_Name^,^Tamer's Mighty Ring^
-^AC0_0_50016_Name^,^Tamer's Ring of Wisdom^
-^AC0_1_45008_Name^,^Blacksmith's Necklace^
-^AC0_0_50017_Name^,^Blacksmith's Strong Ring^
-^AC0_0_50018_Name^,^Blacksmith's Ring of Wisdom^
-^AC0_1_45300_Name^,^Rajat's Necklace^
-^AC0_0_45300_Name^,^Rajat's Ring I^
-^AC0_0_45301_Name^,^Rajat's Ring II^
-^AC0_1_45310_Name^,^Casim's Necklace^
-^AC0_0_45310_Name^,^Casim's Ring I^
-^AC0_0_45311_Name^,^Casim's Ring II^
-^AC0_1_45320_Name^,^Zeno's Necklace^
-^AC0_0_45320_Name^,^Zeno's Ring I^
-^AC0_0_45321_Name^,^Zeno's Ring II^
-^AC0_1_45330_Name^,^Mufadin's Necklace^
-^AC0_0_45330_Name^,^Mufadin's Ring I^
-^AC0_0_45331_Name^,^Mufadin's Ring II^
+^AC0_1_24001_qu_Name^,^Hakanas Hero Necklace^
+^EV_AC0_0_33801_Name^,^Princess Guard's Ring^
+^AC0_0_1000_EV_Name^,^PCbunny Rabbit Ring I^
+^AC0_0_1000_EV_Description^,^<R_Y>This item disappears 1 hour after adding it in your inventory.</R_Y>^
+^AC0_1_1000_EV_Name^,^PCbunny Rabbit Necklace I^
+^AC0_1_1000_EV_Description^,^<R_Y>This item disappears 1 hour after adding it in your inventory.</R_Y>^
+^AC0_0_1001_EV_Name^,^PCbunny Rabbit Ring II^
+^AC0_0_1001_EV_Description^,^<R_Y>This item disappears 3 hours after adding it in your inventory.</R_Y>^
+^AC0_1_1001_EV_Name^,^PCbunny Rabbit Necklace II^
+^AC0_1_1001_EV_Description^,^<R_Y>This item disappears 3 hours after adding it in your inventory.</R_Y>^
+^AC0_0_1002_EV_Name^,^PCbunny Rabbit Ring III^
+^AC0_0_1002_EV_Description^,^<R_Y>This item disappears 5 hours after adding it in your inventory.</R_Y>^
+^AC0_1_1002_EV_Name^,^PCbunny Rabbit Necklace III^
+^AC0_1_1002_EV_Description^,^<R_Y>This item disappears 5 hours after adding it in your inventory.</R_Y>^
+^AC0_0_1003_EV_Name^,^PCbunny Rabbit Ring IV^
+^AC0_0_1003_EV_Description^,^<R_Y>This item disappears 7 hours after adding it in your inventory.</R_Y>^
+^AC0_1_1003_EV_Name^,^PCbunny Rabbit Necklace IV^
+^AC0_1_1003_EV_Description^,^<R_Y>This item disappears 7 hours after adding it in your inventory.</R_Y>^
+^AC0_0_1004_EV_Name^,^PCbunny Rabbit Ring V^
+^AC0_0_1004_EV_Description^,^<R_Y>This item disappears 10 hours after adding it in your inventory.</R_Y>^
+^AC0_1_1004_EV_Name^,^PCbunny Rabbit Necklace V^
+^AC0_1_1004_EV_Description^,^<R_Y>This item disappears 10 hours after adding it in your inventory.</R_Y>^
+^AC0_0_83512_Name^,^Exquisite Shining Amethyst Ring^
+^AC0_1_83511_Name^,^Exquisite Shining Amethyst Necklace^
+^AC0_0_1143_Name^,^Hakanas Protection Ring^
+^AC0_0_30032_TE_01_Name^,^Braghin Power (Weapon Critical/Magic Critical)^
+^AC0_0_30032_TE_02_Name^,^Braghin Power (Cast Speed)^
+^AC0_1_22501_qu_Name^,^Knight Errant Necklace^
+^AC0_1_90128_Name^,^Rift Defender Necklace^
+^AC0_0_90133_Name^,^Rift Defender Black Ring^
+^AC0_0_90134_Name^,^Rift Defender Blue Ring^
+^BX_AC1_1_90000_Name^,^Sentinel Wisp Necklace^
+^BX_AC0_1_90040_Name^,^Sentinel Wisp Ring^
+^BX_AC0_1_90041_Name^,^Rift Grit Ring^
+^AC0_1_23502_Name^,^Glorious Leader Necklace^
+^AC0_0_24002_Name^,^Glorious Leader Ring I^
+^AC0_0_24003_Name^,^Glorious Leader Ring II^
+^AC0_1_45001_Name^,^Alseik Guard Necklace of STR^
+^AC0_1_45002_Name^,^Alseik Guard Necklace of Wisdom^
+^AC0_0_45001_Name^,^Alseik Guard Ring of STR^
+^AC0_0_45002_Name^,^Alseik Guard Ring of Wisdom^
+^AC0_1_45003_Name^,^Mohaban Mercenary Necklace^
+^AC0_0_45003_Name^,^Mohaban Mercenary Ring^
+^AC0_1_45004_Name^,^Khabimist Necklace^
+^AC0_0_45004_Name^,^Khabimist Ring^
+^AC0_1_50001_Name^,^Hermit's Necklace of STR^
+^AC0_1_50002_Name^,^Hermit's Necklace of Wisdom^
+^AC0_0_50001_Name^,^Hermit's Ring of STR^
+^AC0_0_50002_Name^,^Hermit's Ring of Wisdom^
+^AC0_1_50003_Name^,^Desert Braghin Necklace^
+^AC0_0_50003_Name^,^Desert Braghin Ring^
+^AC0_1_50004_Name^,^Tyrant's Necklace^
+^AC0_0_50004_Name^,^Tyrant's Ring^
+^pvpAC0_1_4564_Name^,^Modest Slayer Necklace^
+^pvpAC0_0_4564_Name^,^Modest Slayer Ring I^
+^pvpAC0_2_4564_Name^,^Modest Slayer Ring II^
+^pvpAC0_1_5069_Name^,^Austere Slayer Necklace^
+^pvpAC0_0_5069_Name^,^Austere Slayer Ring I^
+^pvpAC0_2_5069_Name^,^Austere Slayer Ring II^
+^AC0_1_45004_CR_Name^,^Polished Emerald Necklace^
+^AC0_0_45004_CR_Name^,^Polished Emerald Ring^
+^AC0_1_50004_CR_Name^,^Exquisite Polished Emerald Necklace^
+^AC0_0_50004_CR_Name^,^Exquisite Polished Emerald Ring^
+^AC0_1_45005_Name^,^Alchemist Necklace^
+^AC0_0_50011_Name^,^Alchemist Ring of STR^
+^AC0_0_50012_Name^,^Alchemist Ring of Wisdom^
+^AC0_1_45006_Name^,^Merchant Necklace^
+^AC0_0_50013_Name^,^Merchant Ring of STR^
+^AC0_0_50014_Name^,^Merchant Ring of Wisdom^
+^AC0_1_45007_Name^,^Tamer Necklace^
+^AC0_0_50015_Name^,^Tamer Ring of STR^
+^AC0_0_50016_Name^,^Tamer Ring of Wisdom^
+^AC0_1_45008_Name^,^Blacksmith Necklace^
+^AC0_0_50017_Name^,^Blacksmith Ring of STR^
+^AC0_0_50018_Name^,^Blacksmith Ring of Wisdom^
+^AC0_1_45300_Name^,^Lazart's Necklace^
+^AC0_0_45300_Name^,^Lazart's Ring I^
+^AC0_0_45301_Name^,^Lazart's Ring II^
+^AC0_1_45310_Name^,^Kashim's Necklace^
+^AC0_0_45310_Name^,^Kashim's Ring I^
+^AC0_0_45311_Name^,^Kashim's Ring II^
+^AC0_1_45320_Name^,^Zenon's Necklace^
+^AC0_0_45320_Name^,^Zenon's Ring I^
+^AC0_0_45321_Name^,^Zenon's Ring II^
+^AC0_1_45330_Name^,^Mupadin's Necklace^
+^AC0_0_45330_Name^,^Mupadin's Ring I^
+^AC0_0_45331_Name^,^Mupadin's Ring II^
 ^AC0_1_45400_Name^,^Ancient Necklace^
 ^AC0_0_45400_Name^,^Ancient Ring I^
 ^AC0_0_45401_Name^,^Ancient Ring II^
-^AC0_0_45500_Name^,^Fectura's Poison Resistance Ring^
-^AC0_0_1000_EV2_Name^,^Fishbunny's Rabbit Ring I^
-^AC0_0_1000_EV2_Description^,^<R_Y> Fish Bunny's Rabbit Ring I can be worn for 1 hour and then disappears automatically. Fish Bunny's Rabbit Ring I consumes time from the moment it enters the bag.</R_Y>^
-^AC0_1_1000_EV2_Name^,^Fishbunny's Rabbit Necklace I^
-^AC0_1_1000_EV2_Description^,^<R_Y> Fish Bunny's Rabbit Necklace I can be worn for 1 hour and then disappears automatically. Fish Bunny's Rabbit Necklace I consumes time from the moment it enters the bag.</R_Y>^
-^AC0_0_1001_EV2_Name^,^Fishbunny's Rabbit Ring II^
-^AC0_0_1001_EV2_Description^,^<R_Y> Fishbunny's Rabbit Ring II can be worn for 3 hours and then disappears automatically. Fishbunny's Rabbit Ring II consumes time from the moment it enters your bag.</R_Y>^
-^AC0_1_1001_EV2_Name^,^Fishbunny's Rabbit Necklace II^
-^AC0_1_1001_EV2_Description^,^<R_Y> Fish Bunny's Rabbit Necklace II can be worn for 3 hours and then disappears automatically. Fish Bunny's Bunny Necklace II consumes time from the moment it enters the bag.</R_Y>^
-^AC0_0_1002_EV2_Name^,^Fishbunny's Rabbit Ring III^
-^AC0_0_1002_EV2_Description^,^<R_Y> Fish Bunny's Rabbit Ring III can be worn for 5 hours and then disappears automatically. Fishbunny's Rabbit Ring III consumes time from the moment it enters your bag.</R_Y>^
-^AC0_1_1002_EV2_Name^,^Fishbunny's Rabbit Necklace III^
-^AC0_1_1002_EV2_Description^,^<R_Y> Fish Bunny's Rabbit Necklace III can be worn for 5 hours and then disappears automatically. Fish Bunny's Rabbit Necklace III consumes time from the moment it enters the bag.</R_Y>^
-^AC0_0_1003_EV2_Name^,^Fishbunny's Rabbit Ring IV^
-^AC0_0_1003_EV2_Description^,^<R_Y> Fishbunny's Rabbit Ring IV can be worn for 7 hours and then disappears automatically. Fishbunny's Rabbit Ring IV consumes time from the moment it enters your bag.</R_Y>^
-^AC0_1_1003_EV2_Name^,^Fish Bunny's Rabbit Necklace IV^
-^AC0_1_1003_EV2_Description^,^<R_Y> Fish Bunny's Rabbit Necklace IV can be worn for 7 hours and then disappears automatically. Fishbani's Rabbit Necklace IV consumes time from the moment it enters your bag.</R_Y>^
-^AC0_0_1004_EV2_Name^,^Fishbunny's Rabbit Ring V^
-^AC0_0_1004_EV2_Description^,^<R_Y> Fish Bunny's Rabbit Ring V can be worn for 10 hours and then disappears automatically. Fish Bunny's Rabbit Ring V consumes time from the moment it enters the bag.</R_Y>^
-^AC0_1_1004_EV2_Name^,^Fish Bunny's Rabbit Necklace V^
-^AC0_1_1004_EV2_Description^,^<R_Y> Fish Bunny's Rabbit Necklace V can be worn for 10 hours and then disappears automatically. Fish Bunny's Rabbit Necklace V consumes time from the moment it enters the bag.</R_Y>^
-^AC0_1_45600_Name^,^Desert Champion's Necklace^
-^AC0_0_45600_Name^,^Desert Champion's Ring I^
-^AC0_0_45601_Name^,^Desert Champion's Ring II^
-^AC0_1_XMAS_Name^,^Christmas Necklace^
-^AC0_0_XMAS1_Name^,^Christmas Ring I^
-^AC0_0_XMAS2_Name^,^Christmas Ring II^
-^AC0_504_30014_Name^,^Ellora's Ring I^
-^AC0_504_30014_1_Name^,^Ellora's Ring II^
-^AC0_504_30021_Name^,^Elora's Necklace^
-^AC0_ev1_1_0_30014_Name^,^(PC Room) Karasha's Ring I (6 hours)^
-^AC0_ev1_1_0_30014_1_Name^,^(PC Room) Karasha's Ring II (6 hours)^
-^AC0_ev1_1_1_30021_Name^,^(PC Room) Karasha's Necklace (6 hours)^
-^AC0_ev1_2_0_30014_Name^,^(PC Room) Karasha's Ring I (1 day)^
-^AC0_ev1_2_0_30014_1_Name^,^(PC Room) Karasha's Ring II (1 day)^
-^AC0_ev1_2_1_30021_Name^,^(PC Room) Karasha's Necklace (1 day)^
-^AC0_0_1005_EV2_Name^,^Fishbunny's Rabbit Ring (3 hours)^
-^AC0_0_1005_EV2_Description^,^<R_Y> Fish Bunny's Rabbit Ring (3 hours) can be worn for 3 hours and then disappears automatically. Fish Bunny's Rabbit Ring (3 hours) consumes time from the moment it enters the bag.</R_Y>^
-^AC0_1_1005_EV2_Name^,^Fishbunny's Rabbit Necklace (3 hours)^
-^AC0_1_1005_EV2_Description^,^<R_Y> Fish Bunny's Rabbit Necklace (3 hours) can be worn for 3 hours and then disappears automatically. Fish Bunny's Rabbit Necklace (3 hours) consumes time from the moment it enters the bag.</R_Y>^
-^AC0_1_00004_Name^,^Elgarden Elite Soldier's Necklace^
-^AC0_0_00005_Name^,^Elgarden Elite Ring^
-^AC0_1_00007_Name^,^Raider's Necklace^
-^AC0_0_00008_Name^,^Raider's Ring^
-^AC0_1_00010_Name^,^Chaos Necklace^
-^AC0_0_00011_Name^,^Chaos Ring^
-^AC0_1_00013_Name^,^Shining Diamond Necklace^
-^AC0_0_00014_Name^,^Shining Diamond Ring^
-^AC0_ev1_3_0_30014_Name^,^(Quest) Karasha's Ring I (14 Days)^
-^AC0_ev1_3_0_30014_1_Name^,^(Quest) Karasha's Ring II (14 Days)^
-^AC0_ev1_3_1_30021_Name^,^(Quest) Karasha's Necklace (14 Days)^
-^AC0_1_50505_Name^,^Lennan Zest's Necklace^
-^AC0_0_50506_Name^,^Lennan Zest's left hand Ring^
-^AC0_0_50507_Name^,^Lennan Zest's right hand Ring^
-^AC0_jp_40000_Name^,^Geranin's Necklace^
-^AC0_jp_40001_Name^,^Geranin's Ring I^
-^AC0_jp_40002_Name^,^Geranin's Ring II^
-^AC0_ev1_4_0_30014_Name^,^(Event) Karasha's Ring I (30 Days)^
-^AC0_ev1_4_0_30014_1_Name^,^(Event) Karasha's Ring II (30 Days)^
-^AC0_ev1_4_1_30021_Name^,^(Event) Karasha's Necklace (30 Days)^
-^AC0_0_1144_Name^,^Absolute Ring (7 days)^
-^AC0_ev2_3_0_30014_Name^,^Karasha's Tower of Challenge Ring I (14 Days)^
-^AC0_ev2_3_0_30014_1_Name^,^Karasha's Tower of Challenge Ring II (14 Days)^
-^AC0_ev2_3_1_30021_Name^,^Karasha's Challenge Tower Necklace (14 Days)^
-^AC0_1_50510_Name^,^Chaos Elf's Necklace^
-^AC0_0_50511_Name^,^Chaos Elf Ring I^
+^AC0_0_45500_Name^,^Fractura Antidote Ring^
+^AC0_0_1000_EV2_Name^,^PCbunny Rabbit Ring I^
+^AC0_0_1000_EV2_Description^,^<R_Y>This item disappears 1 hour after adding it in your inventory.</R_Y>^
+^AC0_1_1000_EV2_Name^,^PCbunny Rabbit Necklace I^
+^AC0_1_1000_EV2_Description^,^<R_Y>This item disappears 1 hour after adding it in your inventory.</R_Y>^
+^AC0_0_1001_EV2_Name^,^PCbunny Rabbit Ring II^
+^AC0_0_1001_EV2_Description^,^<R_Y>This item disappears 3 hours after adding it in your inventory.</R_Y>^
+^AC0_1_1001_EV2_Name^,^PCbunny Rabbit Necklace II^
+^AC0_1_1001_EV2_Description^,^<R_Y>This item disappears 3 hours after adding it in your inventory.</R_Y>^
+^AC0_0_1002_EV2_Name^,^PCbunny Rabbit Ring III^
+^AC0_0_1002_EV2_Description^,^<R_Y>This item disappears 5 hours after adding it in your inventory.</R_Y>^
+^AC0_1_1002_EV2_Name^,^PCbunny Rabbit Necklace III^
+^AC0_1_1002_EV2_Description^,^<R_Y>This item disappears 5 hours after adding it in your inventory.</R_Y>^
+^AC0_0_1003_EV2_Name^,^PCbunny Rabbit Ring IV^
+^AC0_0_1003_EV2_Description^,^<R_Y>This item disappears 7 hours after adding it in your inventory.</R_Y>^
+^AC0_1_1003_EV2_Name^,^PCbunny Rabbit Necklace IV^
+^AC0_1_1003_EV2_Description^,^<R_Y>This item disappears 7 hours after adding it in your inventory.</R_Y>^
+^AC0_0_1004_EV2_Name^,^PCbunny Rabbit Ring V^
+^AC0_0_1004_EV2_Description^,^<R_Y>This item disappears 10 hours after adding it in your inventory.</R_Y>^
+^AC0_1_1004_EV2_Name^,^PCbunny Rabbit Necklace V^
+^AC0_1_1004_EV2_Description^,^<R_Y>This item disappears 10 hours after adding it in your inventory.</R_Y>^
+^AC0_1_45600_Name^,^Desert Warrior Necklace^
+^AC0_0_45600_Name^,^Desert Warrior Ring I^
+^AC0_0_45601_Name^,^Desert Warrior Ring II^
+^AC0_1_XMAS_Name^,^Ellandfel Necklace^
+^AC0_0_XMAS1_Name^,^Ellandfel Ring I^
+^AC0_0_XMAS2_Name^,^Ellandfel Ring II^
+^AC0_504_30014_Name^,^Exalted Ring I^
+^AC0_504_30014_1_Name^,^Exalted Ring II^
+^AC0_504_30021_Name^,^Exalted Necklace^
+^AC0_ev1_1_0_30014_Name^,^(PC Cafe) Karasha's Ring I (6 Hours)^
+^AC0_ev1_1_0_30014_1_Name^,^(PC Cafe) Karasha's Ring II (6 Hours)^
+^AC0_ev1_1_1_30021_Name^,^(PC Cafe) Karasha's Necklace (6 Hours)^
+^AC0_ev1_2_0_30014_Name^,^(PC Cafe) Karasha's Ring I (1 Day)^
+^AC0_ev1_2_0_30014_1_Name^,^(PC Cafe) Karasha's Ring II (1 Day)^
+^AC0_ev1_2_1_30021_Name^,^(PC Cafe) Karasha's Necklace (1 Day)^
+^AC0_0_1005_EV2_Name^,^PCbunny's Rabbit Ring (3 Hours)^
+^AC0_0_1005_EV2_Description^,^<R_Y>This item disappears 3 hours after adding it in your inventory.</R_Y>^
+^AC0_1_1005_EV2_Name^,^PCbunny's Rabbit Necklace (3 Hours)^
+^AC0_1_1005_EV2_Description^,^<R_Y>This item disappears 3 hours after adding it in your inventory.</R_Y>^
+^AC0_1_00004_Name^,^Elgaden Officer's Necklace^
+^AC0_0_00005_Name^,^Elgaden Officer's Ring^
+^AC0_1_00007_Name^,^Ravager Necklace^
+^AC0_0_00008_Name^,^Ravager Ring^
+^AC0_1_00010_Name^,^Chaotic Necklace ^
+^AC0_0_00011_Name^,^Chaotic Ring^
+^AC0_1_00013_Name^,^Polished Diamond Necklace^
+^AC0_0_00014_Name^,^Polished Diamond Ring^
+^AC0_ev1_3_0_30014_Name^,^(Quest) Karasha Ring I (14 Day)^
+^AC0_ev1_3_0_30014_1_Name^,^(Quest) Karasha Ring II (14 Day)^
+^AC0_ev1_3_1_30021_Name^,^(Quest) Karasha Necklace (14 Day)^
+^AC0_1_50505_Name^,^Pridon Roa's Necklace^
+^AC0_0_50506_Name^,^Lenanzar's Left-Hand Ring^
+^AC0_0_50507_Name^,^Lenanzar's Right-Hand Ring^
+^AC0_jp_40000_Name^,^Jeranin's Necklace^
+^AC0_jp_40001_Name^,^Jeranin's Ring I ^
+^AC0_jp_40002_Name^,^Jeranin's Ring II^
+^AC0_ev1_4_0_30014_Name^,^(Event) Karasha Ring I (30 Day)^
+^AC0_ev1_4_0_30014_1_Name^,^(Event) Karasha Ring II (30 Day)^
+^AC0_ev1_4_1_30021_Name^,^(Event) Karasha Necklace (30 Day)^
+^AC0_0_1144_Name^,^Absolute Ring (7 Days)^
+^AC0_ev2_3_0_30014_Name^,^Karasha Ring I (14 Day)^
+^AC0_ev2_3_0_30014_1_Name^,^Karasha Ring II (14 Day)^
+^AC0_ev2_3_1_30021_Name^,^Karasha Necklace (14 Day)^
+^AC0_1_50510_Name^,^Chaos Elf Necklace^
+^AC0_0_50511_Name^,^Chaos Elf Ring I ^
 ^AC0_0_50512_Name^,^Chaos Elf Ring II^
 ^AC0_1_60510_Name^,^Level Option Test Necklace^
-^AC0_0_60511_Name^,^Level Option Test Ring I^
+^AC0_0_60511_Name^,^Level Option Test Ring I ^
 ^AC0_0_60512_Name^,^Level Option Test Ring II^
-^AC0_1_00015_Name^,^Jormun Ghent's Growth Necklace^
-^AC0_1_00016_Name^,^Jormun Ghent's Growth Ring I^
-^AC0_0_00017_Name^,^Jormun Ghent's Growth Ring II^
+^AC0_1_00015_Name^,^Yorminsul's Exalted Necklace^
+^AC0_1_00016_Name^,^Yorminsul's Exalted Ring I^
+^AC0_0_00017_Name^,^Yorminsul's Exalted Ring II^
 ^AC0_1_SUMMER_Name^,^Ice Cream Necklace^
-^AC0_0_SUMMER1_Name^,^Ice Cream Ring I^
+^AC0_0_SUMMER1_Name^,^Ice Cream Ring I ^
 ^AC0_0_SUMMER2_Name^,^Ice Cream Ring II^
-^AC0_0_2285_Name^,^Royal Guard's Ring^
-^AC0_ca1_4_0_30014_Name^,^(Rental) Karasha's Ring I (7 Days)^
-^AC0_ca1_4_0_30014_1_Name^,^(Rental) Karasha's Ring II (7 Days)^
-^AC0_ca1_4_1_30021_Name^,^(Rental) Karasha's Necklace (7 days)^
-^AC0_ev2_4_0_30014_Name^,^Karasha's Hope Ring I (30 Days)^
-^AC0_ev2_4_0_30014_1_Name^,^Karasha's Hope Ring II (30 Days)^
-^AC0_ev2_4_1_30021_Name^,^Karasha's Hope Necklace (30 Days)^
-^AC0_1_33802_Name^,^Awakening Yataiman's Necklace^
-^AC0_0_33803_Name^,^Awakening Yataiman's Ring I^
-^AC0_0_33804_Name^,^Awakening Yataiman's Ring II^
-^pvpAC0_1_5569_Name^,^Great Slayer's Necklace^
-^pvpAC0_0_5569_Name^,^Great Slayer's Ring I^
-^pvpAC0_2_5569_Name^,^Great Slayer's Ring II^
-^AC0_pk1_4_1_00000_Name^,^Blood Necklace^
+^AC0_0_2285_Name^,^Capital Guard Ring^
+^AC0_ca1_4_0_30014_Name^,^(Rental)Karasha's Ring I (7 days)^
+^AC0_ca1_4_0_30014_1_Name^,^(Rental)Karasha's Ring II (7 days)^
+^AC0_ca1_4_1_30021_Name^,^(Rental)Karasha's Necklace (7 days)^
+^AC0_ev2_4_0_30014_Name^,^Karasha's Ring of Hope I (30 days)^
+^AC0_ev2_4_0_30014_1_Name^,^Karasha's Ring of Hope II (30 days)^
+^AC0_ev2_4_1_30021_Name^,^Karasha's Necklace of Hope (30 days)^
+^AC0_1_33802_Name^,^Awk Titan Necklace^
+^AC0_0_33803_Name^,^Awk Attaius Ring I^
+^AC0_0_33804_Name^,^Awk Attaius Ring II^
+^pvpAC0_1_5569_Name^,^Complex Slayer Necklace^
+^pvpAC0_0_5569_Name^,^Complex Slayer Ring I^
+^pvpAC0_2_5569_Name^,^Complex Slayer Ring II^
+^AC0_pk1_4_1_00000_Name^,^Bloodstone Necklace^
 ^AC0_pk1_4_1_00001_Name^,^Crimson Necklace^
-^AC0_pk1_4_1_00002_Name^,^Brilliance Necklace^
-^AC0_0_1145_name^,^ICA Ring (7 days)^
-^AC0_ca2_4_0_30014_Name^,^(Rental) Karasha's Ring I (1 day)^
-^AC0_ca2_4_0_30014_1_Name^,^(Rental) Karasha's Ring II (1 Day)^
-^AC0_ca2_4_1_30021_Name^,^(Rental) Karasha's Necklace (1 day)^
+^AC0_pk1_4_1_00002_Name^,^Glowing Necklace^
+^AC0_0_1145_name^,^Icarian Ring (7 Day)^
+^AC0_ca2_4_0_30014_Name^,^(Rental)Karasha's Ring I (1 day)^
+^AC0_ca2_4_0_30014_1_Name^,^(Rental)Karasha's Ring II (1 day)^
+^AC0_ca2_4_1_30021_Name^,^(Rental)Karasha's Necklace (1 day)^

@@ -6,22 +6,18 @@ const buttonItems = [
     "../database/button/itemdata_armor.csv",
     "../database/button/itemdata_weapon.csv"
 ]
-const buttonIcons = "../database/itemdata/itemres_accessory.csv"
-let buttonType = "ne"
-let itemDefault = "AC5_0_6000";
-
-async function mudarType(type) {
-    buttonType = type
-    await loadButton()
-    filtrarItems()
-}
-
+const buttonIcons = [
+    "../database/itemdata/itemres_accessory.csv",
+    "../database/itemdata/itemres_armor.csv",
+    "../database/itemdata/itemres_weapon.csv"
+]
 
 const itemInformations = [
     "../database/itemdata/itemdata_accessory.csv",
     "../database/itemdata/itemdata_armor.csv",
     "../database/itemdata/itemdata_weapon.csv"
 ]
+
 const itemTranslations = [
     "../database/translate/localstringdata_item_accessory.csv",
     "../database/translate/localstringdata_item_accessory_02.csv",
@@ -34,20 +30,34 @@ const skillTranslations = [
     "../database/translate/localstringdata_skill.csv"
 ]
 const effectsTranslation = "../database/translate/minhatraducao.csv"
+
+
+let buttonType = "ne"
+let itemDefault = "AC5_0_6000";
+
+async function mudarType(type) {
+    buttonType = type
+    await loadButton()
+    filtrarItems()
+}
+
+let buttonIiconsObj = {}
+let buttonItemsObj = {}
+let itemInformationsObj = {}
+let itemTranslationsObj = {}
 let mapaDeTraducoes = {}
-let itemArray = []
-let itemSetData = []
-let setNameMap = {}
-let effectMap = {}
+let effectObj = {}
+let itemSetObj = {};
+let setNameObj = {}
+
 let codigoOriginal;
 
 function defaultItem(id) {
-    let item = itemArray.find(item => item.t_id === id);
+    let item = itemInformationsObj[id];
 
     document.getElementById("codigoItem").value = Object.values(item).join(";");
     codigoOriginal = Object.values(item).join(";");
 }
-
 
 // ------------------ //
 // Carrega a Arquivos //
@@ -115,96 +125,122 @@ async function carregarSkillTraducoes(skillId) {
 }
 
 async function carregarEffectTranslations() {
+    if (Object.keys(effectObj).length > 0) {
+        return;
+    }
     const response = await fetch(effectsTranslation + "?nocache=" + new Date().getTime());
     let text = await response.text();
     let parsed = Papa.parse(text, { header: true, skipEmptyLines: true, delimiter: "," });
-  
-    let effectMap = {};
-  
+
     parsed.data.forEach(row => {
-      if (row.t_key && row.t_eng) {
-        let key = row.t_key.trim();
-        effectMap[key] = row.t_eng.trim();
-      }
+        if (row.t_key && row.t_eng) {
+            let key = row.t_key.trim();
+            effectObj[key] = row.t_eng.trim();
+        }
     });
-    return effectMap;
 }
 
 async function carregarSetNameTranslations() {
     const response = await fetch("../database/translate/localstringdata_item_setitem.csv" + "?nocache=" + new Date().getTime());
     const text = await response.text();
     let parsed = Papa.parse(text, { header: true, skipEmptyLines: true, delimiter: "," });
-    
-    parsed.data.forEach(row => {
-      if (row.t_key && row.t_korean) {
-        let key = row.t_key.replace(/\^/g, "").replace("_Name", "").trim().toLowerCase();
 
-        setNameMap[key] = row.t_korean.replace(/\^/g, "").trim();
-      }
+    parsed.data.forEach(row => {
+        if (row.t_key && row.t_korean) {
+            let key = row.t_key.replace(/\^/g, "").replace("_Name", "").trim().toLowerCase();
+            setNameObj[key] = row.t_korean.replace(/\^/g, "").trim();
+        }
     });
+}
+
+function buscarSetName(key) {
+    let normalizedKey = key.trim().toLowerCase();
+    return setNameObj[normalizedKey] || key;
 }
 
 async function carregarCSV() {
-    let allItems = [];
-
     const promises = itemInformations.map(async (file) => {
-        const response = await fetch(file + "?nocache=" + new Date().getTime());
-        const blob = await response.blob();
-        const reader = new FileReader();
+        try {
+            const response = await fetch(file + "?nocache=" + new Date().getTime());
+            const blob = await response.blob();
+            const reader = new FileReader();
 
-        return new Promise((resolve, reject) => {
-            reader.onload = function () {
-                try {
-                    const text = new TextDecoder("euc-kr").decode(reader.result);
-                    Papa.parse(text, {
-                        delimiter: ";",
-                        header: true,
-                        skipEmptyLines: true,
-                        complete: function (parsed) {
-                            allItems = allItems.concat(parsed.data);
-                            resolve();
-                        },
-                        error: function (error) {
-                            reject(error);
-                        }
-                    });
-                } catch (error) {
-                    reject(error);
-                }
-            };
+            return new Promise((resolve, reject) => {
+                reader.onload = function () {
+                    try {
+                        const text = new TextDecoder("euc-kr").decode(reader.result);
 
-            reader.readAsArrayBuffer(blob);
-        });
+                        Papa.parse(text, {
+                            delimiter: ";",
+                            header: true,
+                            skipEmptyLines: true,
+                            complete: function (parsed) {
+                                parsed.data.forEach(item => {
+                                    if (item.t_id) {
+                                        let id = item.t_id.trim();
+                                        itemInformationsObj[id] = item;
+                                    } else {
+                                        console.warn(`Arquivo ${file}: Linha sem t_id`, item);
+                                    }
+                                });
+                                resolve();
+                            },
+                            error: function (error) {
+                                console.error(`Erro ao processar ${file}:`, error);
+                                reject(error);
+                            }
+                        });
+                    } catch (error) {
+                        console.error(`Erro na leitura do arquivo ${file}:`, error);
+                        reject(error);
+                    }
+                };
+
+                reader.readAsArrayBuffer(blob);
+            });
+        } catch (error) {
+            console.error(`Erro ao carregar o arquivo ${file}:`, error);
+        }
     });
 
     await Promise.all(promises);
-
-    itemArray = allItems;
 }
 
 async function carregarIconeDoItem(itemID) {
-    const response = await fetch(buttonIcons + "?nocache=" + new Date().getTime());
-    const text = await response.text();
-    const lines = text.trim().split(/\r?\n/);
+    if (buttonIiconsObj[itemID]) {
+        atualizarIcone(buttonIiconsObj[itemID]);
+        return;
+    }
 
     let iconeEncontrado = null;
 
-    for (let line of lines) {
-        const [id, icon] = line.split(';');
-        if (id === itemID) {
-            iconeEncontrado = icon;
-            break;
+    for (let file of buttonIcons) {
+        try {
+            const response = await fetch(file + "?nocache=" + new Date().getTime());
+            const text = await response.text();
+            const lines = text.trim().split(/\r?\n/);
+
+            for (let line of lines) {
+                const [id, icon] = line.split(';');
+                if (id === itemID) {
+                    iconeEncontrado = icon;
+                    buttonIiconsObj[itemID] = icon;
+                    break;
+                }
+            }
+
+            if (iconeEncontrado) break;
+        } catch (error) {
+            console.error("Erro ao carregar o arquivo:", file, error);
         }
     }
 
-    let imgElement = document.getElementById("itemIcone");
-    let img = new Image();
+    atualizarIcone(iconeEncontrado);
+}
 
-    if (iconeEncontrado) {
-        imgElement.src = `../imgs/${iconeEncontrado}.png`;
-    } else {
-        imgElement.src = `../imgs/favicon.png`;
-    }
+function atualizarIcone(icon) {
+    let imgElement = document.getElementById("itemIcone");
+    imgElement.src = icon ? `../imgs/${icon}.png` : `../imgs/favicon.png`;
 }
 
 async function loadButton() {
@@ -214,14 +250,20 @@ async function loadButton() {
     let mapaDeIcones = {};
     let lines = [];
 
-    const responseI = await fetch(buttonIcons + "?nocache=" + new Date().getTime());
-    const textI = await responseI.text();
-    const linesI = textI.trim().split(/\r?\n/);
+    for (let file of buttonIcons) {
+        try {
+            const responseI = await fetch(file + "?nocache=" + new Date().getTime());
+            const textI = await responseI.text();
+            const linesI = textI.trim().split(/\r?\n/);
     
-    linesI.forEach(lineI => {
-        const [idI, iconI] = lineI.split(';');
-        mapaDeIcones[idI.trim()] = iconI.trim();
-    });
+            linesI.forEach(lineI => {
+                const [idI, iconI] = lineI.split(';');
+                mapaDeIcones[idI.trim()] = iconI.trim();
+            });
+        } catch (error) {
+            console.error("Erro ao carregar o arquivo:", file, error);
+        }
+    }
 
     for (const file of buttonItems) {
         const response = await fetch(file + "?nocache=" + new Date().getTime());
@@ -271,11 +313,9 @@ async function loadButton() {
         button.appendChild(div);
         container.appendChild(button);
     });
-
-    await carregarTraducoes(); 
     
     if (!mapaDeTraducoes || Object.keys(mapaDeTraducoes).length === 0) {
-        console.warn("mapaDeTraducoes ainda n찾o carregado.");
+        console.warn("mapaDeTraducoes ainda nao carregado.");
         return;
     }
 
@@ -292,27 +332,32 @@ async function loadButton() {
 }
 
 async function carregarItemSetData() {
-    const response = await fetch("../database/itemdata/itemset_setcharacter.csv" + "?nocache=" + new Date().getTime());
-    const buffer = await response.arrayBuffer();
-    const text = new TextDecoder("euc-kr").decode(buffer);
-    let parsed = Papa.parse(text, { 
-        header: true, 
-        skipEmptyLines: true, 
-        delimiter: ";" 
-    });
-    itemSetData = parsed.data;
-}
+    try {
+        const response = await fetch("../database/itemdata/itemset_setcharacter.csv" + "?nocache=" + new Date().getTime());
+        const buffer = await response.arrayBuffer();
+        const text = new TextDecoder("euc-kr").decode(buffer);
 
-async function carregarDadosSets() {
-  await Promise.all([
-    carregarItemSetData(),
-    carregarSetNameTranslations(),
-    carregarEffectTranslations()
-  ]);
+        let parsed = Papa.parse(text, { 
+            header: true, 
+            skipEmptyLines: true, 
+            delimiter: ";" 
+        });
+
+        parsed.data.forEach(itemSet => {
+            if (itemSet.t_setid) {
+                let id = itemSet.t_setid.trim();
+                itemSetObj[id] = itemSet;
+                buscarSetName(id)
+            } else {
+                console.warn("Linha sem t_setid no itemset_setcharacter.csv:", itemSet);
+            }
+        });
+    } catch (error) {
+        console.error("Erro ao carregar itemset_setcharacter.csv:", error);
+    }
 }
 
 async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, containerId) {
-    let effectMap = await carregarEffectTranslations();
     let container = document.getElementById(containerId);
     if (!container) return;
 
@@ -324,17 +369,13 @@ async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, co
             effectElem.style.display = "flex";
 
             let effectField = setRow[`${effectPrefix}${j}`];
-            if (effectField && effectField.trim() !== "*" && effectField.trim() !== 0) {
+            if (effectField && effectField.trim() !== "*" && effectField.trim() !== "0") {
                 let effectStr = effectField.replace(/[(\')]/g, "").split(",");
                 let chaveOriginal = effectStr[0].trim();
                 let valorStr = effectStr[1] ? effectStr[1].trim() : "";
 
-                let pkintercept = chaveOriginal.trim();
                 let simbolo = "";
-                if (pkintercept === "pk육체계저항율+" || pkintercept === "출혈방어율") {
-                    simbolo = "%";
-                    chaveOriginal = chaveOriginal.slice(0, -1).trim();
-                } else if (chaveOriginal.endsWith("%") || chaveOriginal.endsWith("+")) {
+                if (chaveOriginal.endsWith("%") || chaveOriginal.endsWith("+")) {
                     simbolo = chaveOriginal.slice(-1);
                     chaveOriginal = chaveOriginal.slice(0, -1).trim();
                 }
@@ -343,8 +384,17 @@ async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, co
                     chaveOriginal = "출혈방어율"
                 }
 
-                let traducao = effectMap[chaveOriginal] || chaveOriginal;
-
+                let traducao = effectObj[chaveOriginal] || chaveOriginal;
+                if (traducao === chaveOriginal) {
+                    console.log("Effect not Found in set: " + chaveOriginal)
+                }
+                if (traducao === "Bleed Defense" ||
+                    traducao === "Magic Critical Damage" ||
+                    traducao === "PvP Resistance" ||
+                    traducao === "Physic Crit Rate"||
+                    traducao === "Magic Crit Rate") {
+                    simbolo = "%"
+                }
                 let valorNumerico = parseFloat(valorStr);
                 let sinal = "";
                 if (valorNumerico > 0) {
@@ -364,7 +414,7 @@ async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, co
         }
 
         let skillElem = document.getElementById(skillId);
-        if (skillElem && skillElem != 0.000000) {
+        if (skillElem && skillElem.innerText !== "0") {
             let skillText = setRow[skillId];
             
             if (!skillText || skillText.trim() !== "*") {
@@ -383,35 +433,40 @@ async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, co
 }
 
 async function atualizarSetDiv(itemID) {
-    await carregarDadosSets();
-  
+    await carregarItemSetData();
+
     const setDiv = document.getElementById("setdivcompleto");
     if (!setDiv) return;
-    const container = document.getElementById("t_item");
-    let setRow = itemSetData.find(row => {
+
+    let setRow = null;
+
+    for (let setID in itemSetObj) {
+        let set = itemSetObj[setID];
         for (let i = 1; i <= 14; i++) {
-            let campo = row[`t_item${i}`];
+            let campo = set[`t_item${i}`];
             if (campo && campo.trim() === itemID) {
-                return true;
+                setRow = set;
+                break;
             }
         }
-        return false;
-    });
-  
-    if (!setRow) {
-      setDiv.style.display = "none";
-      return;
+        if (setRow) break;
     }
-  
+
+    if (!setRow) {
+        setDiv.style.display = "none";
+        return;
+    }
+
     setDiv.style.display = "block";
-  
+
     let setID = setRow.t_setid.trim().toLowerCase();
-    let setNameTraduzido = setNameMap[setID] || setID;
-  
+    let setNameTraduzido = setNameObj[setID] || setID;
+
     let countItems = 0;
     for (let i = 1; i <= 14; i++) {
         let campo = setRow[`t_item${i}`];
         let elem = document.getElementById(`t_item${i}`);
+
         if (campo && campo.trim() !== "*") {
             countItems++;
 
@@ -420,43 +475,22 @@ async function atualizarSetDiv(itemID) {
                 elem.style.display = "block";
                 elem.setAttribute("onclick", `mudarItem('${campo}')`);
             }
-        } else {
-            if (elem) {
-                elem.innerText = "";
-                elem.style.display = "none";
-            }
+        } else if (elem) {
+            elem.innerText = "";
+            elem.style.display = "none";
         }
     }
-    document.getElementById("setname").innerText = setNameTraduzido + " (0/" + countItems + ")";
 
-    let countEffect1 = parseInt(setRow.seteffect1_count);
-    let countEffect2 = parseInt(setRow.seteffect2_count);
-    let countEffect3 = parseInt(setRow.seteffect3_count);
-    let countEffect4 = parseInt(setRow.seteffect4_count);
-    let countEffect5 = parseInt(setRow.seteffect5_count);
-    let countEffect6 = parseInt(setRow.seteffect6_count);
-    let countEffect7 = parseInt(setRow.seteffect7_count);
-    let countEffect8 = parseInt(setRow.seteffect8_count);
+    document.getElementById("setname").innerText = `${setNameTraduzido} (0/${countItems})`;
 
-    document.getElementById("seteffect1").innerText = `Set Effects (${countEffect1})`;
-    document.getElementById("seteffect2").innerText = `Set Effects (${countEffect2})`;
-    document.getElementById("seteffect3").innerText = `Set Effects (${countEffect3})`;
-    document.getElementById("seteffect4").innerText = `Set Effects (${countEffect4})`;
-    document.getElementById("seteffect5").innerText = `Set Effects (${countEffect5})`;
-    document.getElementById("seteffect6").innerText = `Set Effects (${countEffect6})`;
-    document.getElementById("seteffect7").innerText = `Set Effects (${countEffect7})`;
-    document.getElementById("seteffect8").innerText = `Set Effects (${countEffect8})`;
+    for (let i = 1; i <= 8; i++) {
+        let countEffect = parseInt(setRow[`seteffect${i}_count`] || 0);
+        document.getElementById(`seteffect${i}`).innerText = `Set Effects (${countEffect})`;
 
-    atualizarSetEffect(setRow, countEffect1, "t_seteffect1_effect", "t_seteffect1_skill", "hasseteffect1")
-    atualizarSetEffect(setRow, countEffect2, "t_seteffect2_effect", "t_seteffect2_skill", "hasseteffect2")
-    atualizarSetEffect(setRow, countEffect3, "t_seteffect3_effect", "t_seteffect3_skill", "hasseteffect3")
-    atualizarSetEffect(setRow, countEffect4, "t_seteffect4_effect", "t_seteffect4_skill", "hasseteffect4")
-    atualizarSetEffect(setRow, countEffect5, "t_seteffect5_effect", "t_seteffect5_skill", "hasseteffect5")
-    atualizarSetEffect(setRow, countEffect6, "t_seteffect6_effect", "t_seteffect6_skill", "hasseteffect6")
-    atualizarSetEffect(setRow, countEffect7, "t_seteffect7_effect", "t_seteffect7_skill", "hasseteffect7")
-    atualizarSetEffect(setRow, countEffect8, "t_seteffect8_effect", "t_seteffect8_skill", "hasseteffect8")
-    
+        atualizarSetEffect(setRow, countEffect, `t_seteffect${i}_effect`, `t_seteffect${i}_skill`, `hasseteffect${i}`);
+    }
 }
+
 
 function formatarTempo(segundos) {
     let dias = Math.floor(segundos / 86400);
@@ -477,7 +511,6 @@ function formatarTempo(segundos) {
 }
 
 async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4, maxRandomOptionsQuantity) {
-    let effectMap = await carregarEffectTranslations();
     let efeitos = [efeito1, efeito2, efeito3, efeito4];
 
     efeitos.forEach((efeito, index) => {
@@ -493,11 +526,21 @@ async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4, max
         let valorNumerico = efeitoFormatado[1] ? efeitoFormatado[1].trim() : null;
 
         let simbolo = termoOriginal.slice(-1);
-        let termoBase = (simbolo === "%" || simbolo === "+") ? termoOriginal.slice(0, -1).trim() : termoOriginal.trim();
+        let termoBase = (simbolo === "%" || simbolo === "+" || simbolo === "*") ? termoOriginal.slice(0, -1).trim() : termoOriginal.trim();
 
-        let termoTraduzido = effectMap[termoBase] || termoBase;
-        if (termoTraduzido === "Bleed Defense" || termoTraduzido === "Magic Critical Damage") {
+        let termoTraduzido = effectObj[termoBase] || termoBase;
+        if (termoTraduzido === termoBase) {
+            console.log("Effect not Found in item: " + termoBase)
+        }
+        if (termoTraduzido === "Bleed Defense" ||
+            termoTraduzido === "Magic Critical Damage" ||
+            termoTraduzido === "PvP Resistance" ||
+            termoTraduzido === "Physic Crit Rate"||
+            termoTraduzido === "Magic Crit Rate" ||
+            termoTraduzido === "Money Drop Increase") {
             simbolo = "%"
+        } else if (termoTraduzido === "Dropped Money Total") {
+            simbolo = "+"
         }
         
         let efeitoFinal = termoTraduzido;
@@ -552,7 +595,7 @@ function definePreco(precosell, disposed, currencyid) {
     let goldIcon = '<img src="../imgs/Coingold.png" class="moeda gold" />';
     let silverIcon = '<img src="../imgs/Coinsilver.png" class="moeda silver" />';
     let copperIcon = '<img src="../imgs/Coincopper.png" class="moeda copper" />';
-    let nonIcon = '<img src="../imgs/CoinYatuman.png" class="moeda silver" />';
+    let nonIcon = '<img src="../imgs/icon_190001718.png" class="moeda silver" />';
 
     if (currencyid === "*") {
         switch (true) {
@@ -675,15 +718,19 @@ function mudarClasse(usedClass) {
 
         if (usedClass.includes("GD")) listClass.push("Guardian");
         if (usedClass.includes("WR")) listClass.push("Berserk");
-        if (usedClass.includes("TF")) listClass.push("Trickster");
-        if (usedClass.includes("AC")) listClass.push("Archer");
+        if (usedClass.includes("TF")) listClass.push("Assassin");
+        if (usedClass.includes("AC")) listClass.push("Ranger");
         if (usedClass.includes("WZ")) listClass.push("Wizard");
         if (usedClass.includes("PR")) listClass.push("Priest");
-        if (usedClass.includes("DO")) listClass.push("Assassin");
+        if (usedClass.includes("DO")) listClass.push("Idol");
         if (usedClass.includes("MG")) listClass.push("Magician");
 
         if (listClass.length === 8) {
             return "All Classes";
+        } else if (listClass.length === 1) {
+            return listClass.join(" ") + " Exclusive";
+        } else if (listClass.length > 1 && listClass.length < 8) {
+            return listClass.join(" ") + " Can Equip";
         }
 
         return listClass.length > 0 ? listClass.join(" ") : "Error";
@@ -715,41 +762,20 @@ function mudarItemType(type) {
         case "bo":
             TypeT = "Boots";
             break;
-        case "d1":
-            TypeT = "Daggers";
-            break;
-        case "s1":
-            TypeT = "Sword";
-            break;
-        case "s2":
-            TypeT = "Greatsword";
-            break;
-        case "m1":
-            TypeT = "Scepter";
-            break;
-        case "m2":
-            TypeT = "Staff";
-            break;
-        case "b1":
-            TypeT = "Shortbow";
-            break;
-        case "W1":
-            TypeT = "Wand";
-            break;
-        case "h2":
-            TypeT = "Axe";
-            break;
-        case "a2":
-            TypeT = "Axe";
-            break;
+        case "d1": 
+        case "s1": 
+        case "s2": 
+        case "m1": 
+        case "b1": 
+        case "h1": 
+        case "h2": 
         case "b2":
-            TypeT = "Bow";
+        case "W1":
+            TypeT = "Primary Weapon";
             break;
-        case "l2":
-            TypeT = "Lance";
-            break;
+        case "l2": 
         case "c2":
-            TypeT = "Crossbow";
+            TypeT = "Active mounted weapon";
             break;
         default:
             TypeT = type;
@@ -873,8 +899,8 @@ function mudarStatusPrincipal(minPhysicalAttack, maxPhysicalAttack, physicalDefe
     if (physicalDefense != "*") {
         document.getElementById("statusPrincipal").style.display = "block";
         document.getElementById("statusSecundario").style.display = "block";
-        document.getElementById("statusPrincipal").innerText = "Physical Defense " + parseInt(physicalDefense);
-        document.getElementById("statusSecundario").innerText = "Magical Defense " + parseInt(magicDefense);
+        document.getElementById("statusPrincipal").innerText = "Physic Defense " + parseInt(physicalDefense);
+        document.getElementById("statusSecundario").innerText = "Magic Defense " + parseInt(magicDefense);
         return;
     }
     if (magicDefense != "*") {
@@ -984,6 +1010,9 @@ async function atualizarItemacc() {
         atualizarSetDiv(id);
         definePreco(precosell, cannotBeDisposed, currencySettingId)
         mudarUsagePeriod(usagePeriod)
+        
+        document.getElementById("textCodigoItem").innerText = "Itemdata_acessory.csv | Code:";
+        document.getElementById("textNomeDoItemTraduzido").innerText = "localstringdata_item_accessory.csv or localstringdata_item_accessory_02.csv | Code:";
     } else {
         alert("Invalid code!, This code is for Rings or Necklace?");
     }
@@ -1087,6 +1116,9 @@ async function atualizarItemarmor() {
         atualizarSetDiv(id);
         definePreco(precosell, cannotBeDisposed, "*")
         mudarUsagePeriod(usagePeriod)
+        
+        document.getElementById("textCodigoItem").innerText = "Itemdata_armor.csv | Code:";
+        document.getElementById("textNomeDoItemTraduzido").innerText = "localstringdata_item_armor.csv or localstringdata_item_armor_02.csv | Code:";
     } else {
         alert("Invalid code!, This code is for Armor?");
     }
@@ -1211,6 +1243,9 @@ async function atualizarItemWeapon() {
         atualizarSetDiv(id);
         definePreco(precosell, cannotBeDisposed, "*")
         mudarUsagePeriod(usagePeriod)
+        
+        document.getElementById("textCodigoItem").innerText = "Itemdata_weapon.csv | Code:";
+        document.getElementById("textNomeDoItemTraduzido").innerText = "localstringdata_item_weapon.csv or localstringdata_item_weapon_02.csv | Code:";
     } else {
         alert("Invalid code!, This code is for Weapon?");
     }
@@ -1250,7 +1285,7 @@ function filtrarItems() {
 }
 
 function mudarItem(id) {
-    let item = itemArray.find(item => item.t_id === id);
+    let item = itemInformationsObj[id];
 
     document.getElementById("codigoItem").value = Object.values(item).join(";");
     codigoOriginal = Object.values(item).join(";");
@@ -1274,7 +1309,83 @@ function voltarCodigo() {
     checkCodigoBruto(codigoBruto)
     }
 }
+function percorrerItens() {
+    const ids = Object.keys(itemInformationsObj);
+    let index = 0;
 
+    function processarProximoItem() {
+        if (index < ids.length) {
+            let id = ids[index]; // Pega o ID atual
+            mudarItem(id); // Chama a fun??o com o ID encontrado
+            index++; // Avan?a no array
+            switch (index) {
+                case 500:
+                    console.log(index)
+                    break;
+                case 1000:
+                    console.log(index)
+                    break;
+                case 1500:
+                    console.log(index)
+                    break;
+                case 2000:
+                    console.log(index)
+                    break;
+                case 2500:
+                    console.log(index)
+                    break;
+                case 3000:
+                    console.log(index)
+                    break;
+                case 3500:
+                    console.log(index)
+                    break;
+                case 4000:
+                    console.log(index)
+                    break;
+                case 4500:
+                    console.log(index)
+                    break;
+                case 5000:
+                    console.log(index)
+                    break;
+                case 5500:
+                    console.log(index)
+                    break;
+                case 6000:
+                    console.log(index)
+                    break;
+                case 6500:
+                    console.log(index)
+                    break;
+                case 7000:
+                    console.log(index)
+                    break;
+                case 7500:
+                    console.log(index)
+                    break;
+                case 8000:
+                    console.log(index)
+                    break;
+                case 8500:
+                    console.log(index)
+                    break;
+                case 9000:
+                    console.log(index)
+                    break;
+            }
+            setTimeout(processarProximoItem, 500); // Aguarda 1 segundo antes do pr?ximo
+        } else {
+            console.log("Finalizado: Todos os itens foram processados.");
+        }
+    }
+
+    if (ids.length > 0) {
+        processarProximoItem(); // Inicia o processo
+    } else {
+        console.log("Nenhum item encontrado em itemInformationsObj.");
+    }
+}
 // ---------------- //
 // Carrega a Pagina //
 // ---------------- //
@@ -1282,6 +1393,7 @@ async function inicializarPagina() {
     await carregarCSV()
     await carregarTraducoes()
     await carregarEffectTranslations()
+    await carregarSetNameTranslations()
     loadButton()
 
     codigoOriginal = defaultItem(itemDefault)
@@ -1289,6 +1401,7 @@ async function inicializarPagina() {
     checkCodigoBruto(codigoBruto)
     
     document.getElementById("itemselecionadodentro").style.display = "block";
+
 }
 
 window.onload = inicializarPagina

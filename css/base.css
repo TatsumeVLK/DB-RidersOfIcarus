@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     border-radius: 5px;
-    font: bold 14px Arial;
+    font: 16px SdGnowB-test;
 }
 /* Body */
 body {
@@ -22,6 +22,7 @@ body {
     justify-items: center;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
 }
 
 h1 {
@@ -185,6 +186,7 @@ img {
     background-color: rgba(200, 200, 200, 10);
     overflow: auto;
     overflow-x: hidden;
+    box-shadow: black;
 }
     .selecionar button {
         width: 100%;
@@ -193,10 +195,16 @@ img {
         margin: 0;
         padding: 10px;
         display: flex;
+        align-items: center;
         justify-items: left;
-        background-color: rgba(90, 34, 139, 1);
+        background-color: rgb(20, 41, 51);
+        border-color: rgb(73, 123, 187);
         cursor: pointer;
         color: white;
+        text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+    }
+    .selecionar button div p {
+        font-size: 20px;
     }
 
 .informacao {
@@ -220,6 +228,9 @@ img {
     flex-direction: column;
     overflow: auto;
     overflow-x: hidden;
+}
+.itemselecionado * {
+    font-size: 16px
 }
     .itemselecionado::-webkit-scrollbar {
         width: 6px;
@@ -350,6 +361,8 @@ body::-webkit-scrollbar {
     cursor: pointer;
     border: none;
     text-decoration: underline dotted;
+    text-underline-offset: 5px;
+    padding-bottom: 1px;
 }
 #divSlot {
     margin-right: 5px;
@@ -366,4 +379,7 @@ body::-webkit-scrollbar {
     color: blue;
     margin-left: 14px;
     text-align: center;
+}
+#itemIcone {
+    border-radius: 10px;
 }

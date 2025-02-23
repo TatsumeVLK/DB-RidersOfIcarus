@@ -8,7 +8,7 @@ t_key,t_korean
 ^EW0_008_0_0000_Name^,^Elite Braghin Warrior's Sword^
 ^EW0_009_0_0000_Name^,^Skeleton Soldier's Sword^
 ^EW0_999_0_0000_Name^,^Rusty Iron Sword (NPC)^
-^EW0_999_0_0001_Name^,^LongSword (NPC)^
+^EW0_999_0_0001_Name^,^Longsword (NPC)^
 ^EW0_010_0_0000_Name^,^Karade Pirate Keeper's Hatchet^
 ^EW0_011_0_0000_Name^,^Chief Mate Keelhaul's Bandsaw^
 ^EW0_012_0_0000_Name^,^Pirate King Varanac's Sword^
@@ -29,9 +29,9 @@ t_key,t_korean
 ^EW0_025_0_0000_Name^,^Urvus' Sword^
 ^EW0_047_0_0000_Name^,^Envoy of Light's Shield^
 ^EW0_053_0_0000_Name^,^Count Rondo's Sword^
-^EW1_002_0_0000_Name^,^Lieutenant Shuma's Heavy Axe^
+^EW1_002_0_0000_Name^,^Shu'khan's Heavy Axe^
 ^EW1_004_0_0000_Name^,^Ashuram's Scythe^
-^EW1_012_0_0000_Name^,^Rondo's GreatSword^
+^EW1_012_0_0000_Name^,^Rondo's Greatsword^
 ^EW2_000_0_0000_Name^,^Merumi Javelin (Transparent)^
 ^EW2_001_0_0000_Name^,^Yeti Hunter's Spear^
 ^EW2_001_0_0001_Name^,^Yeti Warrior's Spear^
@@ -93,7 +93,7 @@ t_key,t_korean
 ^EW5_007_0_0001_Name^,^Healer's Rod^
 ^EW5_008_0_0000_Name^,^Agul Shaman's Bone Rod^
 ^EW5_010_0_0000_Name^,^Blood Shaman's Rod^
-^EW5_011_0_0000_Name^,^Matilda's Rod^
+^EW5_011_0_0000_Name^,^Mat'tuul's Rod^
 ^EW5_012_0_0000_Name^,^Frozen Iren's Rod^
 ^EW5_023_0_0000_Name^,^Reaper Scythe^
 ^EW5_024_0_0000_Name^,^Lead Archaeologist's Rod^
@@ -103,16 +103,16 @@ t_key,t_korean
 ^EW6_008_0_0000_Name^,^Mitanas' Staff 01^
 ^EW6_009_0_0000_Name^,^Mitanas' Staff 02^
 ^EW6_010_0_0000_Name^,^Kamillan's Staff^
-^EW6_011_0_0000_Name^,^Manatz's Staff^
+^EW6_011_0_0000_Name^,^Manaz'tuul's Staff^
 ^EW6_015_0_0000_Name^,^Apprentice's Scepter^
 ^EW7_001_0_0000_Name^,^Braghin Scout's Throwing Dagger (Ranged)^
 ^EW7_001_0_0001_Name^,^Yeti Hunter's Spear^
-^EW7_002_0_0001_Name^,^Braghin Hunter's Bow^
-^EW7_002_0_0002_Name^,^Comital Marksman's Bow^
-^EW7_002_0_0003_Name^,^Skeleton Bowman's Bow^
-^EW7_003_0_0000_Name^,^Shimmerwood Sprite's Bow^
+^EW7_002_0_0001_Name^,^Braghin Hunter Bow^
+^EW7_002_0_0002_Name^,^Comital Marksman Bow^
+^EW7_002_0_0003_Name^,^Skeleton Archer Bow^
+^EW7_003_0_0000_Name^,^Shimmerwood Sprite Bow^
 ^EW7_004_0_0000_Name^,^Poseana Bow^
-^EW7_005_0_0000_Name^,^Merumi Archer's Bow^
+^EW7_005_0_0000_Name^,^Merumi Archer Bow^
 ^EW7_006_0_0000_Name^,^Pirate King Varanac's Scorcher^
 ^EW7_027_0_0000_Name^,^Merumi Javelinier's Javelin^
 ^EW0_034_0_ch_0000_Name^,^NPC Farming Tool 1^
@@ -127,7 +127,7 @@ t_key,t_korean
 ^EW3_014_0_0000_Name^,^Balbora's Hammer^
 ^EW5_013_0_0000_Name^,^Frost Mage's Rod^
 ^EW5_014_0_0000_Name^,^Frost Battlecaster's Rod^
-^EW7_010_0_0000_Name^,^Frost Sentry's Bow^
+^EW7_010_0_0000_Name^,^Frost Sentry Bow^
 ^EW0_027_0_0000_Name^,^Rondo's Sword^
 ^EW0_050_0_0000_Name^,^TEMP - Not Used^
 ^EW0_051_0_0000_Name^,^TEMP - Not Used^
@@ -208,79 +208,79 @@ t_key,t_korean
 ^WE0_112_0_9999_Name^,^Lobby Sword 112_0^
 ^WE0_112_1_9999_Name^,^Lobby Sword 112_1^
 ^WE0_112_2_9999_Name^,^Lobby Sword 112_2^
-^WE1_000_0_9999_Name^,^Lobby GreatSword 000_0^
-^WE1_000_1_9999_Name^,^Lobby GreatSword 000_1^
-^WE1_000_2_9999_Name^,^Lobby GreatSword 000_2^
-^WE1_000_3_9999_Name^,^Lobby GreatSword 000_3^
-^WE1_001_0_9999_Name^,^Lobby GreatSword 001_0^
-^WE1_001_1_9999_Name^,^Lobby GreatSword 001_1^
-^WE1_001_2_9999_Name^,^Lobby GreatSword 001_2^
-^WE1_001_3_9999_Name^,^Lobby GreatSword 001_3^
-^WE1_002_0_9999_Name^,^Lobby GreatSword 002_0^
-^WE1_002_1_9999_Name^,^Lobby GreatSword 002_1^
-^WE1_002_2_9999_Name^,^Lobby GreatSword 002_2^
-^WE1_002_3_9999_Name^,^Lobby GreatSword 002_3^
-^WE1_003_0_9999_Name^,^Lobby GreatSword 003_0^
-^WE1_003_1_9999_Name^,^Lobby GreatSword 003_1^
-^WE1_003_2_9999_Name^,^Lobby GreatSword 003_2^
-^WE1_003_3_9999_Name^,^Lobby GreatSword 003_3^
-^WE1_004_0_9999_Name^,^Lobby GreatSword 004_0^
-^WE1_004_1_9999_Name^,^Lobby GreatSword 004_1^
-^WE1_004_2_9999_Name^,^Lobby GreatSword 004_2^
-^WE1_004_3_9999_Name^,^Lobby GreatSword 004_3^
-^WE1_005_0_9999_Name^,^Lobby GreatSword 005_0^
-^WE1_005_1_9999_Name^,^Lobby GreatSword 005_1^
-^WE1_005_2_9999_Name^,^Lobby GreatSword 005_2^
-^WE1_005_3_9999_Name^,^Lobby GreatSword 005_3^
-^WE1_006_0_9999_Name^,^Lobby GreatSword 006_0^
-^WE1_006_1_9999_Name^,^Lobby GreatSword 006_1^
-^WE1_006_2_9999_Name^,^Lobby GreatSword 006_2^
-^WE1_006_3_9999_Name^,^Lobby GreatSword 006_3^
-^WE1_106_0_9999_Name^,^Lobby GreatSword 106_0^
-^WE1_106_1_9999_Name^,^Lobby GreatSword 106_1^
-^WE1_106_2_9999_Name^,^Lobby GreatSword 106_2^
-^WE1_007_0_9999_Name^,^Lobby GreatSword 007_0^
-^WE1_007_1_9999_Name^,^Lobby GreatSword 007_1^
-^WE1_007_2_9999_Name^,^Lobby GreatSword 007_2^
-^WE1_007_3_9999_Name^,^Lobby GreatSword 007_3^
-^WE1_107_0_9999_Name^,^Lobby GreatSword 107_0^
-^WE1_107_1_9999_Name^,^Lobby GreatSword 107_1^
-^WE1_107_2_9999_Name^,^Lobby GreatSword 107_2^
-^WE1_008_0_9999_Name^,^Lobby GreatSword 008_0^
-^WE1_008_1_9999_Name^,^Lobby GreatSword 008_1^
-^WE1_008_2_9999_Name^,^Lobby GreatSword 008_2^
-^WE1_008_3_9999_Name^,^Lobby GreatSword 008_3^
-^WE1_108_0_9999_Name^,^Lobby GreatSword 108_0^
-^WE1_108_1_9999_Name^,^Lobby GreatSword 108_1^
-^WE1_108_2_9999_Name^,^Lobby GreatSword 108_2^
-^WE1_009_0_9999_Name^,^Lobby GreatSword 009_0^
-^WE1_009_1_9999_Name^,^Lobby GreatSword 009_1^
-^WE1_009_2_9999_Name^,^Lobby GreatSword 009_2^
-^WE1_009_3_9999_Name^,^Lobby GreatSword 009_3^
-^WE1_109_0_9999_Name^,^Lobby GreatSword 109_0^
-^WE1_109_1_9999_Name^,^Lobby GreatSword 109_1^
-^WE1_109_2_9999_Name^,^Lobby GreatSword 109_2^
-^WE1_010_0_9999_Name^,^Lobby GreatSword 010_0^
-^WE1_010_1_9999_Name^,^Lobby GreatSword 010_1^
-^WE1_010_2_9999_Name^,^Lobby GreatSword 010_2^
-^WE1_010_3_9999_Name^,^Lobby GreatSword 010_3^
-^WE1_110_0_9999_Name^,^Lobby GreatSword 110_0^
-^WE1_110_1_9999_Name^,^Lobby GreatSword 110_1^
-^WE1_110_2_9999_Name^,^Lobby GreatSword 110_2^
-^WE1_011_0_9999_Name^,^Lobby GreatSword 011_0^
-^WE1_011_1_9999_Name^,^Lobby GreatSword 011_1^
-^WE1_011_2_9999_Name^,^Lobby GreatSword 011_2^
-^WE1_011_3_9999_Name^,^Lobby GreatSword 011_3^
-^WE1_111_0_9999_Name^,^Lobby GreatSword 111_0^
-^WE1_111_1_9999_Name^,^Lobby GreatSword 111_1^
-^WE1_111_2_9999_Name^,^Lobby GreatSword 111_2^
-^WE1_012_0_9999_Name^,^Lobby GreatSword 012_0^
-^WE1_012_1_9999_Name^,^Lobby GreatSword 012_1^
-^WE1_012_2_9999_Name^,^Lobby GreatSword 012_2^
-^WE1_012_3_9999_Name^,^Lobby GreatSword 012_3^
-^WE1_112_0_9999_Name^,^Lobby GreatSword 112_0^
-^WE1_112_1_9999_Name^,^Lobby GreatSword 112_1^
-^WE1_112_2_9999_Name^,^Lobby GreatSword 112_2^
+^WE1_000_0_9999_Name^,^Lobby Greatsword 000_0^
+^WE1_000_1_9999_Name^,^Lobby Greatsword 000_1^
+^WE1_000_2_9999_Name^,^Lobby Greatsword 000_2^
+^WE1_000_3_9999_Name^,^Lobby Greatsword 000_3^
+^WE1_001_0_9999_Name^,^Lobby Greatsword 001_0^
+^WE1_001_1_9999_Name^,^Lobby Greatsword 001_1^
+^WE1_001_2_9999_Name^,^Lobby Greatsword 001_2^
+^WE1_001_3_9999_Name^,^Lobby Greatsword 001_3^
+^WE1_002_0_9999_Name^,^Lobby Greatsword 002_0^
+^WE1_002_1_9999_Name^,^Lobby Greatsword 002_1^
+^WE1_002_2_9999_Name^,^Lobby Greatsword 002_2^
+^WE1_002_3_9999_Name^,^Lobby Greatsword 002_3^
+^WE1_003_0_9999_Name^,^Lobby Greatsword 003_0^
+^WE1_003_1_9999_Name^,^Lobby Greatsword 003_1^
+^WE1_003_2_9999_Name^,^Lobby Greatsword 003_2^
+^WE1_003_3_9999_Name^,^Lobby Greatsword 003_3^
+^WE1_004_0_9999_Name^,^Lobby Greatsword 004_0^
+^WE1_004_1_9999_Name^,^Lobby Greatsword 004_1^
+^WE1_004_2_9999_Name^,^Lobby Greatsword 004_2^
+^WE1_004_3_9999_Name^,^Lobby Greatsword 004_3^
+^WE1_005_0_9999_Name^,^Lobby Greatsword 005_0^
+^WE1_005_1_9999_Name^,^Lobby Greatsword 005_1^
+^WE1_005_2_9999_Name^,^Lobby Greatsword 005_2^
+^WE1_005_3_9999_Name^,^Lobby Greatsword 005_3^
+^WE1_006_0_9999_Name^,^Lobby Greatsword 006_0^
+^WE1_006_1_9999_Name^,^Lobby Greatsword 006_1^
+^WE1_006_2_9999_Name^,^Lobby Greatsword 006_2^
+^WE1_006_3_9999_Name^,^Lobby Greatsword 006_3^
+^WE1_106_0_9999_Name^,^Lobby Greatsword 106_0^
+^WE1_106_1_9999_Name^,^Lobby Greatsword 106_1^
+^WE1_106_2_9999_Name^,^Lobby Greatsword 106_2^
+^WE1_007_0_9999_Name^,^Lobby Greatsword 007_0^
+^WE1_007_1_9999_Name^,^Lobby Greatsword 007_1^
+^WE1_007_2_9999_Name^,^Lobby Greatsword 007_2^
+^WE1_007_3_9999_Name^,^Lobby Greatsword 007_3^
+^WE1_107_0_9999_Name^,^Lobby Greatsword 107_0^
+^WE1_107_1_9999_Name^,^Lobby Greatsword 107_1^
+^WE1_107_2_9999_Name^,^Lobby Greatsword 107_2^
+^WE1_008_0_9999_Name^,^Lobby Greatsword 008_0^
+^WE1_008_1_9999_Name^,^Lobby Greatsword 008_1^
+^WE1_008_2_9999_Name^,^Lobby Greatsword 008_2^
+^WE1_008_3_9999_Name^,^Lobby Greatsword 008_3^
+^WE1_108_0_9999_Name^,^Lobby Greatsword 108_0^
+^WE1_108_1_9999_Name^,^Lobby Greatsword 108_1^
+^WE1_108_2_9999_Name^,^Lobby Greatsword 108_2^
+^WE1_009_0_9999_Name^,^Lobby Greatsword 009_0^
+^WE1_009_1_9999_Name^,^Lobby Greatsword 009_1^
+^WE1_009_2_9999_Name^,^Lobby Greatsword 009_2^
+^WE1_009_3_9999_Name^,^Lobby Greatsword 009_3^
+^WE1_109_0_9999_Name^,^Lobby Greatsword 109_0^
+^WE1_109_1_9999_Name^,^Lobby Greatsword 109_1^
+^WE1_109_2_9999_Name^,^Lobby Greatsword 109_2^
+^WE1_010_0_9999_Name^,^Lobby Greatsword 010_0^
+^WE1_010_1_9999_Name^,^Lobby Greatsword 010_1^
+^WE1_010_2_9999_Name^,^Lobby Greatsword 010_2^
+^WE1_010_3_9999_Name^,^Lobby Greatsword 010_3^
+^WE1_110_0_9999_Name^,^Lobby Greatsword 110_0^
+^WE1_110_1_9999_Name^,^Lobby Greatsword 110_1^
+^WE1_110_2_9999_Name^,^Lobby Greatsword 110_2^
+^WE1_011_0_9999_Name^,^Lobby Greatsword 011_0^
+^WE1_011_1_9999_Name^,^Lobby Greatsword 011_1^
+^WE1_011_2_9999_Name^,^Lobby Greatsword 011_2^
+^WE1_011_3_9999_Name^,^Lobby Greatsword 011_3^
+^WE1_111_0_9999_Name^,^Lobby Greatsword 111_0^
+^WE1_111_1_9999_Name^,^Lobby Greatsword 111_1^
+^WE1_111_2_9999_Name^,^Lobby Greatsword 111_2^
+^WE1_012_0_9999_Name^,^Lobby Greatsword 012_0^
+^WE1_012_1_9999_Name^,^Lobby Greatsword 012_1^
+^WE1_012_2_9999_Name^,^Lobby Greatsword 012_2^
+^WE1_012_3_9999_Name^,^Lobby Greatsword 012_3^
+^WE1_112_0_9999_Name^,^Lobby Greatsword 112_0^
+^WE1_112_1_9999_Name^,^Lobby Greatsword 112_1^
+^WE1_112_2_9999_Name^,^Lobby Greatsword 112_2^
 ^WE5_000_0_9999_Name^,^Lobby Scepter 000_0^
 ^WE5_000_1_9999_Name^,^Lobby Scepter 000_1^
 ^WE5_000_2_9999_Name^,^Lobby Scepter 000_2^
@@ -650,27 +650,27 @@ t_key,t_korean
 ^WE6_001_0_0000_Name^,^Rusted Staff^
 ^WE4_017_0_0000_Name^,^Rusted Dagger^
 ^WE5_001_0_0001_Name^,^Rusted Scepter^
-^WE1_001_0_0000_Name^,^Rusted GreatSword^
+^WE1_001_0_0000_Name^,^Rusted Greatsword^
 ^WE7_001_0_0000_Name^,^Rusted Bow^
 ^WE0_039_0_0000_Name^,^Chaos Elven Sword^
-^WE1_013_0_0000_Name^,^Nibble Rodheim's GreatSword^
+^WE1_013_0_0000_Name^,^Rodheim's Greatsword^
 ^WE4_014_0_0000_Name^,^Lenanzar's Sword^
 ^WE4_015_0_0000_Name^,^Chaos Elven Zweihander^
-^WE5_025_0_0000_Name^,^De Muspel's Rod^
+^WE5_025_0_0000_Name^,^Demociel's Scepter^
 ^WE5_026_0_0000_Name^,^Chaos Elven Scepter^
-^WE6_032_0_0000_Name^,^Roxanne's Rod^
+^WE6_032_0_0000_Name^,^Pridon Roa's Staff^
 ^WE6_033_0_0000_Name^,^Chaos Elven Staff^
-^EW7_020_0_0000_Name^,^Aurea's Bow^
-^WE7_021_0_0000_Name^,^Chaos Elven Longbow^
+^EW7_020_0_0000_Name^,^Aurea Bow^
+^WE7_021_0_0000_Name^,^Chaos Elf Bow^
 ^WE0_014_0_1051_Name^,^Simple Sword^
-^WE1_001_0_1051_Name^,^Simple GreatSword^
+^WE1_001_0_1051_Name^,^Simple Greatsword^
 ^WE4_017_0_1051_Name^,^Simple Dagger^
 ^WE2_017_0_1051_Name^,^Simple Warhammer^
 ^WE6_001_0_1051_Name^,^Simple Staff^
 ^WE7_001_0_1051_Name^,^Simple Bow^
 ^WE5_001_0_1051_Name^,^Simple Scepter^
 ^WE0_002_0_2051_Name^,^Dragon Knight Sword^
-^WE1_002_0_2051_Name^,^Dragon Knight GreatSword^
+^WE1_002_0_2051_Name^,^Dragon Knight Greatsword^
 ^WE4_003_0_2051_Name^,^Dragon Knight Dagger^
 ^WE2_027_0_2051_Name^,^Dragon Knight Warhammer^
 ^WE6_002_0_2051_Name^,^Dragon Knight Staff^
@@ -680,7 +680,7 @@ t_key,t_korean
 ^WE4_001_0_2101_Name^,^Woodland Dagger^
 ^WE6_003_0_2101_Name^,^Woodland Staff^
 ^WE7_010_0_2101_Name^,^Woodland Bow^
-^WE1_003_0_2101_Name^,^Woodland GreatSword^
+^WE1_003_0_2101_Name^,^Woodland Greatsword^
 ^WE3_010_0_2101_Name^,^Woodland Battle Axe^
 ^WE5_003_0_2101_Name^,^Woodland Scepter^
 ^WE2_005_0_2101_Name^,^Woodland Warhammer^
@@ -688,7 +688,7 @@ t_key,t_korean
 ^WE4_001_0_1101_Name^,^Sturdy Dagger^
 ^WE6_003_0_1101_Name^,^Sturdy Staff^
 ^WE7_010_0_1101_Name^,^Sturdy Bow^
-^WE1_003_0_1101_Name^,^Sturdy GreatSword^
+^WE1_003_0_1101_Name^,^Sturdy Greatsword^
 ^WE3_010_0_1101_Name^,^Sturdy Battle Axe^
 ^WE5_003_0_1101_Name^,^Sturdy Scepter^
 ^WE2_005_0_1101_Name^,^Sturdy Warhammer^
@@ -696,7 +696,7 @@ t_key,t_korean
 ^WE4_002_0_2102_Name^,^Fairy Dagger^
 ^WE6_011_0_2102_Name^,^Fairy Staff^
 ^WE7_003_0_2102_Name^,^Fairy Bow^
-^WE1_004_0_2102_Name^,^Fairy GreatSword^
+^WE1_004_0_2102_Name^,^Fairy Greatsword^
 ^WE3_020_0_2102_Name^,^Fairy Battle Ax^
 ^WE5_004_0_2102_Name^,^Fairy Scepter^
 ^WE2_006_0_2102_Name^,^Fairy Warhammer^
@@ -704,7 +704,7 @@ t_key,t_korean
 ^WE4_002_0_1151_Name^,^Infantry Dagger^
 ^WE6_011_0_1151_Name^,^Infantry Staff^
 ^WE7_003_0_1151_Name^,^Infantry Bow^
-^WE1_004_0_1151_Name^,^Infantry GreatSword^
+^WE1_004_0_1151_Name^,^Infantry Greatsword^
 ^WE3_020_0_1151_Name^,^Infantry Battle Axe^
 ^WE5_004_0_1151_Name^,^Infantry Scepter^
 ^WE2_006_0_1151_Name^,^Infantry Warhammer^
@@ -712,7 +712,7 @@ t_key,t_korean
 ^WE4_005_0_2141_Name^,^Emberstone Dagger^
 ^WE6_005_0_2141_Name^,^Emberstone Staff^
 ^WE7_027_0_2141_Name^,^Emberstone Bow^
-^WE1_008_0_2141_Name^,^Emberstone GreatSword^
+^WE1_008_0_2141_Name^,^Emberstone Greatsword^
 ^WE3_019_0_2141_Name^,^Emberstone Battle Axe^
 ^WE5_007_0_2141_Name^,^Emberstone Scepter^
 ^WE2_027_0_2141_Name^,^Emberstone Warhammer^
@@ -720,7 +720,7 @@ t_key,t_korean
 ^WE4_015_0_2151_Name^,^Marauder Dagger^
 ^WE6_000_0_2151_Name^,^Marauder Staff^
 ^WE7_011_0_2151_Name^,^Marauder Bow^
-^WE1_005_0_2151_Name^,^Marauder GreatSword^
+^WE1_005_0_2151_Name^,^Marauder Greatsword^
 ^WE3_005_0_2151_Name^,^Marauder Battle Axe^
 ^WE5_005_0_2151_Name^,^Marauder Scepter^
 ^WE2_007_0_2151_Name^,^Marauder Warhammer^
@@ -728,7 +728,7 @@ t_key,t_korean
 ^WE4_015_0_2171_Name^,^Detachment Dagger^
 ^WE6_000_0_2171_Name^,^Detachment Staff^
 ^WE7_011_0_2171_Name^,^Detachment Bow^
-^WE1_005_0_2171_Name^,^Detachment GreatSword^
+^WE1_005_0_2171_Name^,^Detachment Greatsword^
 ^WE3_005_0_2171_Name^,^Detachment Battle Axe^
 ^WE5_005_0_2171_Name^,^Detachment Scepter^
 ^WE2_007_0_2171_Name^,^Detachment Warhammer^
@@ -736,7 +736,7 @@ t_key,t_korean
 ^WE4_015_0_1201_Name^,^Battle-hardened Dagger^
 ^WE6_000_0_1201_Name^,^Battle-hardened Staff^
 ^WE7_011_0_1201_Name^,^Battle-hardened Bow^
-^WE1_005_0_1201_Name^,^Battle-hardened GreatSword^
+^WE1_005_0_1201_Name^,^Battle-hardened Greatsword^
 ^WE3_005_0_1201_Name^,^Battle-hardened Battle Axe^
 ^WE5_005_0_1201_Name^,^Battle-hardened Scepter^
 ^WE2_007_0_1201_Name^,^Battle-hardened Warhammer^
@@ -744,7 +744,7 @@ t_key,t_korean
 ^WE4_004_0_2201_Name^,^Vampire Dagger^
 ^WE6_004_0_2201_Name^,^Vampire Staff^
 ^WE7_002_0_2201_Name^,^Vampire Bow^
-^WE1_006_0_2201_Name^,^Vampire GreatSword^
+^WE1_006_0_2201_Name^,^Vampire Greatsword^
 ^WE3_006_0_2201_Name^,^Vampire Battle Axe^
 ^WE5_006_0_2201_Name^,^Vampire Scepter^
 ^WE2_013_0_2201_Name^,^Vampire Warhammer^
@@ -752,7 +752,7 @@ t_key,t_korean
 ^WE4_004_0_2202_Name^,^Militia Dagger^
 ^WE6_004_0_2202_Name^,^Militia Staff^
 ^WE7_002_0_2202_Name^,^Militia Bow^
-^WE1_006_0_2202_Name^,^Militia GreatSword^
+^WE1_006_0_2202_Name^,^Militia Greatsword^
 ^WE3_006_0_2202_Name^,^Militia Battle Axe^
 ^WE5_006_0_2202_Name^,^Militia Scepter^
 ^WE2_013_0_2202_Name^,^Militia Warhammer^
@@ -760,7 +760,7 @@ t_key,t_korean
 ^WE4_026_0_2222_Name^,^Cursed Dagger^
 ^WE6_026_0_2222_Name^,^Cursed Staff^
 ^WE7_012_0_2222_Name^,^Cursed Bow^
-^WE1_027_0_2222_Name^,^Cursed GreatSword^
+^WE1_027_0_2222_Name^,^Cursed Greatsword^
 ^WE3_031_0_2222_Name^,^Cursed Battle Axe^
 ^WE5_027_0_2222_Name^,^Cursed Scepter^
 ^WE2_019_0_2222_Name^,^Cursed Warhammer^
@@ -768,7 +768,7 @@ t_key,t_korean
 ^WE4_004_0_1251_Name^,^Officer's Dagger^
 ^WE6_004_0_1251_Name^,^Officer's Staff^
 ^WE7_002_0_1251_Name^,^Officer's Bow^
-^WE1_006_0_1251_Name^,^Officer's GreatSword^
+^WE1_006_0_1251_Name^,^Officer's Greatsword^
 ^WE3_006_0_1251_Name^,^Officer's Battle Axe^
 ^WE5_006_0_1251_Name^,^Officer's Scepter^
 ^WE6_026_0_1251_Name^,^Officer's Warhammer^
@@ -776,7 +776,7 @@ t_key,t_korean
 ^WE4_016_0_2241_Name^,^Garrison Dagger^
 ^WE6_015_0_2241_Name^,^Garrison Staff^
 ^WE7_013_0_2241_Name^,^Garrison Bow^
-^WE1_007_0_2241_Name^,^Garrison GreatSword^
+^WE1_007_0_2241_Name^,^Garrison Greatsword^
 ^WE3_031_0_2241_Name^,^Garrison Battle Axe^
 ^WE5_008_0_2241_Name^,^Garrison Scepter^
 ^WE2_010_0_2241_Name^,^Garrison Warhammer^
@@ -784,7 +784,7 @@ t_key,t_korean
 ^WE4_016_0_2251_Name^,^Firmament Dagger^
 ^WE6_015_0_2251_Name^,^Firmament Staff^
 ^WE7_013_0_2251_Name^,^Firmament Bow^
-^WE1_007_0_2251_Name^,^Firmament GreatSword^
+^WE1_007_0_2251_Name^,^Firmament Greatsword^
 ^WE3_008_0_2251_Name^,^Firmament Battle Axe^
 ^WE5_008_0_2251_Name^,^Firmament Scepter^
 ^WE2_017_0_2251_Name^,^Firmament Warhammer^
@@ -792,7 +792,7 @@ t_key,t_korean
 ^WE4_002_0_1141_Name^,^Snowfield Dagger^
 ^WE6_011_0_1141_Name^,^Snowfield Staff^
 ^WE7_003_0_1141_Name^,^Snowfield Bow^
-^WE1_004_0_1141_Name^,^Snowfield GreatSword^
+^WE1_004_0_1141_Name^,^Snowfield Greatsword^
 ^WE3_020_0_1141_Name^,^Snowfield Battle Axe^
 ^WE5_004_0_1141_Name^,^Snowfield Scepter^
 ^WE2_006_0_1141_Name^,^Snowfield Warhammer^
@@ -800,7 +800,7 @@ t_key,t_korean
 ^WE4_018_0_3281_Name^,^Frozen Dagger^
 ^WE6_013_0_3281_Name^,^Frozen Staff^
 ^WE7_006_0_3281_Name^,^Frozen Bow^
-^WE1_009_0_3281_Name^,^Frozen GreatSword^
+^WE1_009_0_3281_Name^,^Frozen Greatsword^
 ^WE3_017_0_3281_Name^,^Frozen Battle Axe^
 ^WE5_009_0_3281_Name^,^Frozen Scepter^
 ^WE2_012_0_3281_Name^,^Frozen Warhammer^
@@ -808,7 +808,7 @@ t_key,t_korean
 ^WE4_016_0_2252_Name^,^Titan Dagger^
 ^WE6_015_0_2252_Name^,^Titan Staff^
 ^WE7_013_0_2252_Name^,^Titan Bow^
-^WE1_007_0_2252_Name^,^Titan GreatSword^
+^WE1_007_0_2252_Name^,^Titan Greatsword^
 ^WE3_008_0_2252_Name^,^Titan Battle Axe^
 ^WE5_008_0_2252_Name^,^Titan Scepter^
 ^WE2_017_0_2252_Name^,^Titan Warhammer^
@@ -816,7 +816,7 @@ t_key,t_korean
 ^WE4_018_0_3283_Name^,^Attaius Dagger^
 ^WE6_013_0_3283_Name^,^Attaius Staff^
 ^WE7_006_0_3283_Name^,^Attaius Bow^
-^WE1_009_0_3283_Name^,^Attaius GreatSword^
+^WE1_009_0_3283_Name^,^Attaius Greatsword^
 ^WE3_017_0_3283_Name^,^Attaius Battle Axe^
 ^WE5_009_0_3283_Name^,^Attaius Scepter^
 ^WE2_012_0_3283_Name^,^Attaius Warhammer^
@@ -824,7 +824,7 @@ t_key,t_korean
 ^WE4_016_0_1301_Name^,^Squire's Dagger^
 ^WE6_015_0_1301_Name^,^Squire's Staff^
 ^WE7_013_0_1301_Name^,^Squire's Bow^
-^WE1_007_0_1301_Name^,^Squire's GreatSword^
+^WE1_007_0_1301_Name^,^Squire's Greatsword^
 ^WE3_008_0_1301_Name^,^Squire's Battle Axe^
 ^WE5_008_0_1301_Name^,^Squire's Scepter^
 ^WE2_017_0_1301_Name^,^Squire's Warhammer^
@@ -832,7 +832,7 @@ t_key,t_korean
 ^WE4_018_0_2301_Name^,^Merumi Dagger^
 ^WE6_013_0_2301_Name^,^Merumi Staff^
 ^WE7_006_0_2301_Name^,^Merumi Bow^
-^WE1_009_0_2301_Name^,^Merumi GreatSword^
+^WE1_009_0_2301_Name^,^Merumi Greatsword^
 ^WE3_009_0_2301_Name^,^Merumi Battle Axe^
 ^WE5_009_0_2301_Name^,^Merumi Scepter^
 ^WE2_009_0_2301_Name^,^Merumi Warhammer^
@@ -840,7 +840,7 @@ t_key,t_korean
 ^WE4_010_0_2261_Name^,^Windstriker Dagger^
 ^WE6_007_0_2261_Name^,^Windstriker Staff^
 ^WE7_019_0_2261_Name^,^Windstriker Bow^
-^WE1_015_0_2261_Name^,^Windstriker GreatSword^
+^WE1_015_0_2261_Name^,^Windstriker Greatsword^
 ^WE3_017_0_2261_Name^,^Windstriker Battle Axe^
 ^WE5_010_0_2261_Name^,^Windstriker Scepter^
 ^WE2_012_0_2261_Name^,^Windstriker Warhammer^
@@ -848,7 +848,7 @@ t_key,t_korean
 ^WE4_010_0_3282_Name^,^Corrupted Dagger^
 ^WE6_007_0_3282_Name^,^Corrupted Staff^
 ^WE7_019_0_3282_Name^,^Corrupted Bow^
-^WE1_015_0_3282_Name^,^Corrupted GreatSword^
+^WE1_015_0_3282_Name^,^Corrupted Greatsword^
 ^WE3_017_0_3282_Name^,^Corrupted Battle Axe^
 ^WE5_010_0_3282_Name^,^Corrupted Scepter^
 ^WE2_012_0_3282_Name^,^Corrupted Warhammer^
@@ -856,7 +856,7 @@ t_key,t_korean
 ^WE4_018_0_1351_Name^,^Lord Knight's Dagger^
 ^WE6_013_0_1351_Name^,^Lord Knight's Staff^
 ^WE7_006_0_1351_Name^,^Lord Knight's Bow^
-^WE1_009_0_1351_Name^,^Lord Knight's GreatSword^
+^WE1_009_0_1351_Name^,^Lord Knight's Greatsword^
 ^WE3_009_0_1351_Name^,^Lord Knight's Battle Axe^
 ^WE5_009_0_1351_Name^,^Lord Knight's Scepter^
 ^WE2_009_0_1351_Name^,^Lord Knight's Warhammer^
@@ -864,7 +864,7 @@ t_key,t_korean
 ^WE4_019_0_2351_Name^,^Frost Guard Dagger^
 ^WE6_014_0_2351_Name^,^Frost Guard Staff^
 ^WE7_015_0_2351_Name^,^Frost Guard Bow^
-^WE1_011_0_2351_Name^,^Frost Guard GreatSword^
+^WE1_011_0_2351_Name^,^Frost Guard Greatsword^
 ^WE3_011_0_2351_Name^,^Frost Guard Battle Axe^
 ^WE5_011_0_2351_Name^,^Frost Guard Scepter^
 ^WE2_030_0_2351_Name^,^Frost Guard Warhammer^
@@ -872,15 +872,15 @@ t_key,t_korean
 ^WE4_019_0_3341_Name^,^Crokhoon Dagger^
 ^WE6_014_0_3341_Name^,^Crokhoon Staff^
 ^WE7_015_0_3341_Name^,^Crokhoon Bow^
-^WE1_011_0_3341_Name^,^Crokhoon GreatSword^
+^WE1_011_0_3341_Name^,^Crokhoon Greatsword^
 ^WE3_011_0_3341_Name^,^Crokhoon Battle Axe^
 ^WE5_011_0_3341_Name^,^Crokhoon Scepter^
 ^WE2_030_0_3341_Name^,^Crokhoon Warhammer^
 ^WE0_005_0_3301_Name^,^Rondo's Sword^
 ^WE4_009_0_3301_Name^,^Rondo's Dagger^
 ^WE6_008_0_3301_Name^,^Aisha's Staff^
-^WE7_014_0_3301_Name^,^Cruel Frost Command Bow^
-^WE1_012_0_3301_Name^,^Rondo's GreatSword^
+^WE7_014_0_3301_Name^,^Aisha's Bow^
+^WE1_012_0_3301_Name^,^Rondo's Greatsword^
 ^WE3_029_0_3301_Name^,^Cruel Frost Command Battle Axe^
 ^WE5_012_0_3301_Name^,^Aisha's Scepter^
 ^WE2_012_0_3301_Name^,^Cruel Frost Command Warhammer^
@@ -888,7 +888,7 @@ t_key,t_korean
 ^WE4_019_0_1401_Name^,^Grand Knight Dagger^
 ^WE6_014_0_1401_Name^,^Grand Knight Staff^
 ^WE7_015_0_1401_Name^,^Grand Knight Bow^
-^WE1_011_0_1401_Name^,^Grand Knight GreatSword^
+^WE1_011_0_1401_Name^,^Grand Knight Greatsword^
 ^WE3_011_0_1401_Name^,^Grand Knight Battle Axe^
 ^WE5_011_0_1401_Name^,^Grand Knight Scepter^
 ^WE2_030_0_1401_Name^,^Grand Knight Warhammer^
@@ -896,7 +896,7 @@ t_key,t_korean
 ^WE4_011_0_2401_Name^,^Fallen Legion Dagger^
 ^WE6_012_0_2401_Name^,^Fallen Legion Staff^
 ^WE7_016_0_2401_Name^,^Fallen Legion Bow^
-^WE1_017_0_2401_Name^,^Fallen Legion GreatSword^
+^WE1_017_0_2401_Name^,^Fallen Legion Greatsword^
 ^WE3_011_0_2401_Name^,^Fallen Legion Battle Axe^
 ^WE5_014_0_2401_Name^,^Fallen Legion Scepter^
 ^WE2_030_0_2401_Name^,^Fallen Legion Warhammer^
@@ -904,7 +904,7 @@ t_key,t_korean
 ^WE4_010_0_2271_Name^,^Pegasus Knight Dagger^
 ^WE6_007_0_2271_Name^,^Pegasus Knight Staff^
 ^WE7_019_0_2271_Name^,^Pegasus Knight Bow^
-^WE1_015_0_2271_Name^,^Pegasus Knight GreatSword^
+^WE1_015_0_2271_Name^,^Pegasus Knight Greatsword^
 ^WE3_017_0_2271_Name^,^Pegasus Knight Battle Axe^
 ^WE5_010_0_2271_Name^,^Pegasus Knight Scepter^
 ^WE2_012_0_2271_Name^,^Pegasus Knight Warhammer^
@@ -912,7 +912,7 @@ t_key,t_korean
 ^WE4_008_0_3351_Name^,^Supreme Commander Dagger^
 ^WE6_018_0_3351_Name^,^Supreme Commander Staff^
 ^WE7_018_0_3351_Name^,^Supreme Commander Bow^
-^WE1_029_0_3351_Name^,^Supreme Commander GreatSword^
+^WE1_029_0_3351_Name^,^Supreme Commander Greatsword^
 ^WE3_011_0_3351_Name^,^Supreme Commander Battle Axe^
 ^WE5_018_0_3351_Name^,^Supreme Commander Scepter^
 ^WE2_030_0_3351_Name^,^Supreme Commander Warhammer^
@@ -946,7 +946,7 @@ t_key,t_korean
 ^WE8_007_0_3301_Name^,^Frost Guard Officer's Lance^
 ^WE8_002_0_1251_Name^,^Frost Command Lance^
 ^WE0_107_2_99999_Name^,^Guide's Sword^
-^WE1_005_3_99999_Name^,^Guide's GreatSword^
+^WE1_005_3_99999_Name^,^Guide's Greatsword^
 ^WE4_109_1_99999_Name^,^Guide's Blue Dragon Dagger^
 ^WE4_111_2_99999_Name^,^Guide's Red Dragon Dagger^
 ^WE5_008_2_99999_Name^,^Guide's Scepter^
@@ -960,50 +960,50 @@ t_key,t_korean
 ^WE9_006_3_99994_Name^,^TEMP - Not Used^
 ^WE0_107_2_99995_Name^,^Fire Sword^
 ^WE0_107_2_99996_Name^,^Ice Sword^
-^WE0_107_2_99997_Name^,^ShimmeRing Sword^
+^WE0_107_2_99997_Name^,^Shimmering Sword^
 ^WE0_107_2_99998_Name^,^Count's Sword^
 ^WE0_812_0_2151_Name^,^Executioner Sword^
 ^WE4_812_0_2151_Name^,^Executioner Dagger^
 ^WE6_812_0_2151_Name^,^Executioner Staff^
-^WE1_812_0_2151_Name^,^Executioner GreatSword^
+^WE1_812_0_2151_Name^,^Executioner Greatsword^
 ^WE5_812_0_2151_Name^,^Executioner Scepter^
 ^WE0_822_0_2251_Name^,^Fabled Sword^
 ^WE4_822_0_2251_Name^,^Fabled Dagger^
 ^WE6_822_0_2251_Name^,^Fabled Staff^
-^WE1_822_0_2251_Name^,^Fabled GreatSword^
+^WE1_822_0_2251_Name^,^Fabled Greatsword^
 ^WE5_822_0_2251_Name^,^Fabled Scepter^
 ^WE0_823_0_3251_Name^,^Veteran's Sword^
 ^WE4_823_0_3251_Name^,^Veteran's Dagger^
 ^WE6_823_0_3251_Name^,^Veteran's Staff^
-^WE1_823_0_3251_Name^,^Veteran's GreatSword^
+^WE1_823_0_3251_Name^,^Veteran's Greatsword^
 ^WE5_823_0_3251_Name^,^Veteran's Scepter^
 ^WE0_711_0_1101_Name^,^Copper Sword^
-^WE1_711_0_1101_Name^,^Copper GreatSword^
+^WE1_711_0_1101_Name^,^Copper Greatsword^
 ^WE4_711_0_1101_Name^,^Copper Dagger^
 ^WE5_711_0_1101_Name^,^Copper Scepter^
 ^WE6_711_0_1101_Name^,^Copper Staff^
 ^WE0_721_0_2201_Name^,^Steel Sword^
-^WE1_721_0_2201_Name^,^Steel GreatSword^
+^WE1_721_0_2201_Name^,^Steel Greatsword^
 ^WE4_721_0_2201_Name^,^Steel Dagger^
 ^WE5_721_0_2201_Name^,^Steel Scepter^
 ^WE6_721_0_2201_Name^,^Steel Staff^
 ^WE0_722_0_2201_Name^,^Tempered Steel Sword^
-^WE1_722_0_2201_Name^,^Tempered Steel GreatSword^
+^WE1_722_0_2201_Name^,^Tempered Steel Greatsword^
 ^WE4_722_0_2201_Name^,^Tempered Steel Dagger^
 ^WE5_722_0_2201_Name^,^Tempered Steel Scepter^
 ^WE6_722_0_2201_Name^,^Tempered Steel Staff^
 ^WE0_731_0_3301_Name^,^Mithril Sword^
-^WE1_731_0_3301_Name^,^Mithril GreatSword^
+^WE1_731_0_3301_Name^,^Mithril Greatsword^
 ^WE4_731_0_3301_Name^,^Mithril Dagger^
 ^WE5_731_0_3301_Name^,^Mithril Scepter^
 ^WE6_731_0_3301_Name^,^Mithril Staff^
 ^WE0_732_0_3301_Name^,^Tempered Mithril Sword^
-^WE1_732_0_3301_Name^,^Tempered Mithril GreatSword^
+^WE1_732_0_3301_Name^,^Tempered Mithril Greatsword^
 ^WE4_732_0_3301_Name^,^Tempered Mithril Dagger^
 ^WE5_732_0_3301_Name^,^Tempered Mithril Scepter^
 ^WE6_732_0_3301_Name^,^Tempered Mithril Staff^
 ^WE0_733_0_3301_Name^,^Shining Mithril Sword^
-^WE1_733_0_3301_Name^,^Shining Mithril GreatSword^
+^WE1_733_0_3301_Name^,^Shining Mithril Greatsword^
 ^WE4_733_0_3301_Name^,^Shining Mithril Dagger^
 ^WE5_733_0_3301_Name^,^Shining Mithril Scepter^
 ^WE6_733_0_3301_Name^,^Shining Mithril Staff^
@@ -1011,64 +1011,64 @@ t_key,t_korean
 ^WE4_001_0_9001_Name^,^Extracting Dagger^
 ^WE6_003_0_9001_Name^,^Extracting Staff^
 ^WE7_010_0_9001_Name^,^Extracting Bow^
-^WE1_003_0_9001_Name^,^Extracting GreatSword^
+^WE1_003_0_9001_Name^,^Extracting Greatsword^
 ^WE3_010_0_9001_Name^,^Extracting Battle Axe^
 ^WE5_003_0_9001_Name^,^Extracting Scepter^
 ^WE2_005_0_9001_Name^,^Extracting Warhammer^
 ^boxWE0_015_0_1151_Name^,^Infantry Sword^
 ^boxWE4_002_0_1151_Name^,^Infantry Dagger^
 ^boxWE6_011_0_1151_Name^,^Infantry Staff^
-^boxWE1_004_0_1151_Name^,^Infantry GreatSword^
+^boxWE1_004_0_1151_Name^,^Infantry Greatsword^
 ^boxWE5_004_0_1151_Name^,^Infantry Scepter^
 ^boxWE0_007_0_2151_Name^,^Marauder Sword^
 ^boxWE4_015_0_2151_Name^,^Marauder Dagger^
 ^boxWE6_000_0_2151_Name^,^Marauder Staff^
-^boxWE1_005_0_2151_Name^,^Marauder GreatSword^
+^boxWE1_005_0_2151_Name^,^Marauder Greatsword^
 ^boxWE5_005_0_2151_Name^,^Marauder Scepter^
 ^boxWE0_007_0_1201_Name^,^Battle-hardened Sword^
 ^boxWE4_015_0_1201_Name^,^Battle-hardened Dagger^
 ^boxWE6_000_0_1201_Name^,^Battle-hardened Staff^
-^boxWE1_005_0_1201_Name^,^Battle-hardened GreatSword^
+^boxWE1_005_0_1201_Name^,^Battle-hardened Greatsword^
 ^boxWE5_005_0_1201_Name^,^Battle-hardened Scepter^
 ^boxWE0_029_0_2201_Name^,^Vampire Sword^
 ^boxWE4_004_0_2201_Name^,^Vampire Dagger^
 ^boxWE6_004_0_2201_Name^,^Vampire Staff^
-^boxWE1_006_0_2201_Name^,^Vampire GreatSword^
+^boxWE1_006_0_2201_Name^,^Vampire Greatsword^
 ^boxWE5_006_0_2201_Name^,^Vampire Scepter^
 ^boxWE0_029_0_1251_Name^,^Officer's Sword^
 ^boxWE4_004_0_1251_Name^,^Officer's Dagger^
 ^boxWE6_004_0_1251_Name^,^Officer's Staff^
-^boxWE1_006_0_1251_Name^,^Officer's GreatSword^
+^boxWE1_006_0_1251_Name^,^Officer's Greatsword^
 ^boxWE5_006_0_1251_Name^,^Officer's Scepter^
 ^boxWE0_012_0_2251_Name^,^Firmament Sword^
 ^boxWE4_016_0_2251_Name^,^Firmament Dagger^
 ^boxWE6_015_0_2251_Name^,^Firmament Staff^
-^boxWE1_007_0_2251_Name^,^Firmament GreatSword^
+^boxWE1_007_0_2251_Name^,^Firmament Greatsword^
 ^boxWE5_008_0_2251_Name^,^Firmament Scepter^
 ^boxWE0_012_0_1301_Name^,^Squire's Sword^
 ^boxWE4_016_0_1301_Name^,^Squire's Dagger^
 ^boxWE6_015_0_1301_Name^,^Squire's Staff^
-^boxWE1_007_0_1301_Name^,^Squire's GreatSword^
+^boxWE1_007_0_1301_Name^,^Squire's Greatsword^
 ^boxWE5_008_0_1301_Name^,^Squire's Scepter^
 ^boxWE0_006_0_2301_Name^,^Merumi Sword^
 ^boxWE4_018_0_2301_Name^,^Merumi Dagger^
 ^boxWE6_013_0_2301_Name^,^Merumi Staff^
-^boxWE1_009_0_2301_Name^,^Merumi GreatSword^
+^boxWE1_009_0_2301_Name^,^Merumi Greatsword^
 ^boxWE5_009_0_2301_Name^,^Merumi Scepter^
 ^boxWE0_812_0_2151_Name^,^Executioner Sword^
 ^boxWE4_812_0_2151_Name^,^Executioner Dagger^
 ^boxWE6_812_0_2151_Name^,^Executioner Staff^
-^boxWE1_812_0_2151_Name^,^Executioner GreatSword^
+^boxWE1_812_0_2151_Name^,^Executioner Greatsword^
 ^boxWE5_812_0_2151_Name^,^Executioner Scepter^
 ^boxWE0_822_0_2251_Name^,^Fabled Sword^
 ^boxWE4_822_0_2251_Name^,^Fabled Dagger^
 ^boxWE6_822_0_2251_Name^,^Fabled Staff^
-^boxWE1_822_0_2251_Name^,^Fabled GreatSword^
+^boxWE1_822_0_2251_Name^,^Fabled Greatsword^
 ^boxWE5_822_0_2251_Name^,^Fabled Scepter^
 ^boxWE0_823_0_3251_Name^,^Veteran's Sword^
 ^boxWE4_823_0_3251_Name^,^Veteran's Dagger^
 ^boxWE6_823_0_3251_Name^,^Veteran's Staff^
-^boxWE1_823_0_3251_Name^,^Veteran's GreatSword^
+^boxWE1_823_0_3251_Name^,^Veteran's Greatsword^
 ^boxWE5_823_0_3251_Name^,^Veteran's Scepter^
 ^boxWE9_001_0_1151_Name^,^Simple Knight Crossbow^
 ^boxWE9_002_0_2151_Name^,^Premium Knight Crossbow^
@@ -1077,50 +1077,50 @@ t_key,t_korean
 ^pvpWE0_001_2_2528_Name^,^Modest Hunter Sword^
 ^pvpWE4_001_2_2528_Name^,^Modest Hunter Dagger^
 ^pvpWE6_001_2_2528_Name^,^Modest Hunter Staff^
-^pvpWE1_001_2_2528_Name^,^Modest Hunter GreatSword^
+^pvpWE1_001_2_2528_Name^,^Modest Hunter Greatsword^
 ^pvpWE5_001_2_2528_Name^,^Modest Hunter Scepter^
 ^pvpWE9_002_2_2528_Name^,^Modest Hunter Crossbow^
 ^pvpWE8_002_2_2528_Name^,^Modest Hunter Lance^
 ^pvpWE0_001_2_3033_Name^,^Austere Hunter Sword^
 ^pvpWE4_001_2_3033_Name^,^Austere Hunter Dagger^
 ^pvpWE6_001_2_3033_Name^,^Austere Hunter Staff^
-^pvpWE1_001_2_3033_Name^,^Austere Hunter GreatSword^
+^pvpWE1_001_2_3033_Name^,^Austere Hunter Greatsword^
 ^pvpWE5_001_2_3033_Name^,^Austere Hunter Scepter^
 ^pvpWE9_002_2_3033_Name^,^Austere Hunter Crossbow^
 ^pvpWE8_002_2_3033_Name^,^Austere Hunter Lance^
 ^pvpWE0_001_2_3538_Name^,^Complex Hunter Sword^
 ^pvpWE4_001_2_3538_Name^,^Complex Hunter Dagger^
 ^pvpWE6_001_2_3538_Name^,^Complex Hunter Staff^
-^pvpWE1_001_2_3538_Name^,^Complex Hunter GreatSword^
+^pvpWE1_001_2_3538_Name^,^Complex Hunter Greatsword^
 ^pvpWE5_001_2_3538_Name^,^Complex Hunter Scepter^
 ^pvpWE9_002_2_3538_Name^,^Complex Hunter Crossbow^
 ^pvpWE8_002_2_3538_Name^,^Complex Hunter Lance^
 ^pvpWE0_001_2_4043_Name^,^Ornate Hunter Sword^
 ^pvpWE4_001_2_4043_Name^,^Ornate Hunter Dagger^
 ^pvpWE6_001_2_4043_Name^,^Ornate Hunter Staff^
-^pvpWE1_001_2_4043_Name^,^Ornate Hunter GreatSword^
+^pvpWE1_001_2_4043_Name^,^Ornate Hunter Greatsword^
 ^pvpWE5_001_2_4043_Name^,^Ornate Hunter Scepter^
 ^pvpWE9_002_2_4043_Name^,^Ornate Hunter Crossbow^
 ^pvpWE8_002_2_4043_Name^,^Ornate Hunter Lance^
 ^WE9_007_0_3302_Name^,^Ankelion's Crossbow^
-^WE0_009_0_4001_Name^,^Tranua's Sword^
-^WE4_009_0_4001_Name^,^Tranua's Dagger^
-^WE6_009_0_4001_Name^,^Tranua's Staff^
-^WE1_009_0_4001_Name^,^Tranua's GreatSword^
-^WE5_009_0_4001_Name^,^Tranua's Scepter^
+^WE0_009_0_4001_Name^,^Tranua Sword^
+^WE4_009_0_4001_Name^,^Tranua Dagger^
+^WE6_009_0_4001_Name^,^Tranua Staff^
+^WE1_009_0_4001_Name^,^Tranua Greatsword^
+^WE5_009_0_4001_Name^,^Tranua Scepter^
 ^WE8_007_3601_Name^,^Ashuram's Glaive^
 ^WE0_003_0_3502_Name^,^Merumi Chieftain's Sword^
 ^WE4_003_0_3502_Name^,^Merumi Chieftain's Dagger^
 ^WE6_003_0_3502_Name^,^Merumi Chieftain's Staff^
-^WE1_003_0_3502_Name^,^Merumi Chieftain's GreatSword^
+^WE1_003_0_3502_Name^,^Merumi Chieftain's Greatsword^
 ^WE5_003_0_3502_Name^,^Merumi Chieftain's Scepter^
 ^WE2_010_0_0000_Name^,^Skeleton Soldier's Axe^
-^WE7_002_0_0003_Name^,^Skeleton Bowman's Bow^
+^WE7_002_0_0003_Name^,^Skeleton Archer Bow^
 ^WE0_007_0_2152_Name^,^Death's Sword^
 ^WE4_015_0_2152_Name^,^Death's Dagger^
 ^WE6_000_0_2152_Name^,^Death's Staff^
 ^WE7_011_0_2152_Name^,^Death's Bow^
-^WE1_005_0_2152_Name^,^Death's GreatSword^
+^WE1_005_0_2152_Name^,^Death's Greatsword^
 ^WE3_005_0_2152_Name^,^Death's Battle Axe^
 ^WE5_005_0_2152_Name^,^Death's Scepter^
 ^WE2_007_0_2152_Name^,^Death's Warhammer^
@@ -1128,7 +1128,7 @@ t_key,t_korean
 ^WE4_004_0_2203_Name^,^Count's Dagger^
 ^WE6_004_0_2203_Name^,^Count's Staff^
 ^WE7_002_0_2203_Name^,^Count's Bow^
-^WE1_006_0_2203_Name^,^Count's GreatSword^
+^WE1_006_0_2203_Name^,^Count's Greatsword^
 ^WE3_006_0_2203_Name^,^Count's Battle Axe^
 ^WE5_006_0_2203_Name^,^Count's Scepter^
 ^WE2_013_0_2203_Name^,^Count's Warhammer^
@@ -1136,7 +1136,7 @@ t_key,t_korean
 ^WE4_016_0_2253_Name^,^Yeti Dagger^
 ^WE6_015_0_2253_Name^,^Yeti Staff^
 ^WE7_013_0_2253_Name^,^Yeti Bow^
-^WE1_007_0_2253_Name^,^Yeti GreatSword^
+^WE1_007_0_2253_Name^,^Yeti Greatsword^
 ^WE3_008_0_2253_Name^,^Yeti Battle Axe^
 ^WE5_008_0_2253_Name^,^Yeti Scepter^
 ^WE2_017_0_2253_Name^,^Yeti Warhammer^
@@ -1144,7 +1144,7 @@ t_key,t_korean
 ^WE4_018_0_2302_Name^,^Zealot's Dagger^
 ^WE6_013_0_2302_Name^,^Zealot's Staff^
 ^WE7_006_0_2302_Name^,^Zealot's Bow^
-^WE1_009_0_2302_Name^,^Zealot's GreatSword^
+^WE1_009_0_2302_Name^,^Zealot's Greatsword^
 ^WE3_009_0_2302_Name^,^Zealot's Battle Axe^
 ^WE5_009_0_2302_Name^,^Zealot's Scepter^
 ^WE2_009_0_2302_Name^,^Zealot's Warhammer^
@@ -1152,7 +1152,7 @@ t_key,t_korean
 ^WE4_019_0_2352_Name^,^Frost Guard Officer's Dagger^
 ^WE6_014_0_2352_Name^,^Frost Guard Officer's Staff^
 ^WE7_015_0_2352_Name^,^Frost Guard Officer's Bow^
-^WE1_011_0_2352_Name^,^Frost Guard Officer's GreatSword^
+^WE1_011_0_2352_Name^,^Frost Guard Officer's Greatsword^
 ^WE3_011_0_2352_Name^,^Frost Guard Officer's Battle Axe^
 ^WE5_011_0_2352_Name^,^Frost Guard Officer's Scepter^
 ^WE2_030_0_2352_Name^,^Frost Guard Officer's Warhammer^
@@ -1160,7 +1160,7 @@ t_key,t_korean
 ^WE4_011_0_2402_Name^,^Izhora Officer's Dagger^
 ^WE6_012_0_2402_Name^,^Izhora Officer's Staff^
 ^WE7_016_0_2402_Name^,^Izhora Officer's Bow^
-^WE1_017_0_2402_Name^,^Izhora Officer's GreatSword^
+^WE1_017_0_2402_Name^,^Izhora Officer's Greatsword^
 ^WE3_011_0_2402_Name^,^Izhora Officer's Battle Axe^
 ^WE5_014_0_2402_Name^,^Izhora Officer's Scepter^
 ^WE2_030_0_2402_Name^,^Izhora Officer's Warhammer^
@@ -1168,7 +1168,7 @@ t_key,t_korean
 ^WE4_002_0_2103_Name^,^Karasha Dagger^
 ^WE6_011_0_2103_Name^,^Karasha Staff^
 ^WE7_003_0_2103_Name^,^Karasha Bow^
-^WE1_004_0_2103_Name^,^Karasha GreatSword^
+^WE1_004_0_2103_Name^,^Karasha Greatsword^
 ^WE3_020_0_2103_Name^,^Karasha Battle Axe^
 ^WE5_004_0_2103_Name^,^Karasha Scepter^
 ^WE2_006_0_2103_Name^,^Karasha Warhammer^
@@ -1182,7 +1182,7 @@ t_key,t_korean
 ^WE4_015_0_2153_Name^,^Capital Guard Dagger^
 ^WE6_000_0_2153_Name^,^Capital Guard Staff^
 ^WE7_011_0_2153_Name^,^Capital Guard Bow^
-^WE1_005_0_2153_Name^,^Capital Guard GreatSword^
+^WE1_005_0_2153_Name^,^Capital Guard Greatsword^
 ^WE3_005_0_2153_Name^,^Capital Guard Battle Axe^
 ^WE5_005_0_2153_Name^,^Capital Guard Scepter^
 ^WE2_007_0_2153_Name^,^Capital Guard Warhammer^
@@ -1191,67 +1191,67 @@ t_key,t_korean
 ^WE0_005_0_3401_Name^,^Chieftain Keron's Sword^
 ^WE4_009_0_3401_Name^,^Chieftain Keron's Dagger^
 ^WE6_008_0_3401_Name^,^Chieftain Keron's Staff^
-^WE1_012_0_3401_Name^,^Chieftain Keron's GreatSword^
+^WE1_012_0_3401_Name^,^Chieftain Keron's Greatsword^
 ^WE5_012_0_3401_Name^,^Chieftain Keron's Scepter^
 ^WE0_007_0_2151_EV_Name^,^Marauding Knight's Sword^
 ^WE4_015_0_2151_EV_Name^,^Marauding Knight's Dagger^
 ^WE6_000_0_2151_EV_Name^,^Marauding Knight's Staff^
-^WE1_005_0_2151_EV_Name^,^Marauding Knight's GreatSword^
+^WE1_005_0_2151_EV_Name^,^Marauding Knight's Greatsword^
 ^WE5_005_0_2151_EV_Name^,^Marauding Knight's Scepter^
 ^WE0_012_0_2251_EV_Name^,^Firmament Sword^
 ^WE4_016_0_2251_EV_Name^,^Firmament Dagger^
 ^WE6_015_0_2251_EV_Name^,^Firmament Staff^
-^WE1_007_0_2251_EV_Name^,^Firmament GreatSword^
+^WE1_007_0_2251_EV_Name^,^Firmament Greatsword^
 ^WE5_008_0_2251_EV_Name^,^Firmament Scepter^
 ^boxWE0_006_0_2301_EV_Name^,^Merumi Sword^
 ^boxWE4_018_0_2301_EV_Name^,^Merumi Dagger^
 ^boxWE6_013_0_2301_EV_Name^,^Merumi Staff^
-^boxWE1_009_0_2301_EV_Name^,^Merumi GreatSword^
+^boxWE1_009_0_2301_EV_Name^,^Merumi Greatsword^
 ^boxWE5_009_0_2301_EV_Name^,^Merumi Scepter^
 ^WE0_006_0_3281_EV_Name^,^Frozen Sword^
 ^WE4_018_0_3281_EV_Name^,^Frozen Dagger^
 ^WE6_013_0_3281_EV_Name^,^Frozen Staff^
-^WE1_009_0_3281_EV_Name^,^Frozen GreatSword^
+^WE1_009_0_3281_EV_Name^,^Frozen Greatsword^
 ^WE5_009_0_3281_EV_Name^,^Frozen Scepter^
 ^WE0_003_0_3282_EV_Name^,^Corrupted Sword^
 ^WE4_010_0_3282_EV_Name^,^Corrupted Dagger^
 ^WE6_007_0_3282_EV_Name^,^Corrupted Staff^
-^WE1_015_0_3282_EV_Name^,^Corrupted GreatSword^
+^WE1_015_0_3282_EV_Name^,^Corrupted Greatsword^
 ^WE5_010_0_3282_EV_Name^,^Corrupted Scepter^
 ^WE0_007_0_2171_RE_Name^,^Sword of Hope I^
 ^WE4_015_0_2171_RE_Name^,^Dagger of Hope I^
 ^WE6_000_0_2171_RE_Name^,^Staff of Hope I^
-^WE1_005_0_2171_RE_Name^,^GreatSword of Hope I^
+^WE1_005_0_2171_RE_Name^,^Greatsword of Hope I^
 ^WE5_005_0_2171_RE_Name^,^Scepter of Hope I^
 ^WE0_007_0_2151_RE_Name^,^Sword of Hope II^
 ^WE4_015_0_2151_RE_Name^,^Dagger of Hope II^
 ^WE6_000_0_2151_RE_Name^,^Staff of Hope II^
-^WE1_005_0_2151_RE_Name^,^GreatSword of Hope II^
+^WE1_005_0_2151_RE_Name^,^Greatsword of Hope II^
 ^WE5_005_0_2151_RE_Name^,^Scepter of Hope II^
 ^WE0_007_0_1201_RE_Name^,^Sword of Hope III^
 ^WE4_015_0_1201_RE_Name^,^Dagger of Hope III^
 ^WE6_000_0_1201_RE_Name^,^Staff of Hope III^
-^WE1_005_0_1201_RE_Name^,^GreatSword of Hope III^
+^WE1_005_0_1201_RE_Name^,^Greatsword of Hope III^
 ^WE5_005_0_1201_RE_Name^,^Scepter of Hope III^
 ^WE0_012_0_2251_RE_Name^,^Sword of Hope IV^
 ^WE4_016_0_2251_RE_Name^,^Dagger of Hope IV^
 ^WE6_015_0_2251_RE_Name^,^Staff of Hope IV^
-^WE1_007_0_2251_RE_Name^,^GreatSword of Hope IV^
+^WE1_007_0_2251_RE_Name^,^Greatsword of Hope IV^
 ^WE5_008_0_2251_RE_Name^,^Scepter of Hope IV^
 ^WE0_015_0_1141_RE_Name^,^Sword of Hope V^
 ^WE4_002_0_1141_RE_Name^,^Dagger of Hope V^
 ^WE6_011_0_1141_RE_Name^,^Staff of Hope V^
-^WE1_004_0_1141_RE_Name^,^GreatSword of Hope V^
+^WE1_004_0_1141_RE_Name^,^Greatsword of Hope V^
 ^WE5_004_0_1141_RE_Name^,^Scepter of Hope V^
 ^WE0_006_0_2301_RE_Name^,^Sword of Hope VI^
 ^WE4_018_0_2301_RE_Name^,^Dagger of Hope VI^
 ^WE6_013_0_2301_RE_Name^,^Staff of Hope VI^
-^WE1_009_0_2301_RE_Name^,^GreatSword of Hope VI^
+^WE1_009_0_2301_RE_Name^,^Greatsword of Hope VI^
 ^WE5_009_0_2301_RE_Name^,^Scepter of Hope VI^
 ^WE0_018_0_2351_RE_Name^,^Sword of Hope VII^
 ^WE4_019_0_2351_RE_Name^,^Dagger of Hope VII^
 ^WE6_014_0_2351_RE_Name^,^Staff of Hope VII^
-^WE1_011_0_2351_RE_Name^,^GreatSword of Hope VII^
+^WE1_011_0_2351_RE_Name^,^Greatsword of Hope VII^
 ^WE5_011_0_2351_RE_Name^,^Scepter of Hope VII^
 ^WE9_002_0_2151_RE_Name^,^Detachment Crossbow^
 ^WE8_003_0_2201_RE_Name^,^Militia Lance^
@@ -1261,26 +1261,26 @@ t_key,t_korean
 ^WE4_002_0_1142_Name^,^Snowfield Dagger^
 ^WE6_011_0_1142_Name^,^Snowfield Staff^
 ^WE7_003_0_1142_Name^,^Snowfield Bow^
-^WE1_004_0_1142_Name^,^Snowfield GreatSword^
+^WE1_004_0_1142_Name^,^Snowfield Greatsword^
 ^WE3_020_0_1142_Name^,^Snowfield Battle Axe^
 ^WE5_004_0_1142_Name^,^Snowfield Scepter^
 ^WE2_006_0_1142_Name^,^Snowfield Warhammer^
 ^WE0_005_0_3501_Name^,^Ruinous Sword^
 ^WE4_009_0_3501_Name^,^Ruinous Dagger^
 ^WE6_008_0_3501_Name^,^Ruinous Staff^
-^WE1_012_0_3501_Name^,^Ruinous GreatSword^
+^WE1_012_0_3501_Name^,^Ruinous Greatsword^
 ^WE5_012_0_3501_Name^,^Ruinous Scepter^
 ^WE9_002_0_3501_Name^,^Ruinous Crossbow^
 ^WE8_002_0_3501_Name^,^Ruinous Lance^
 ^WE0_733_0_3351_Name^,^Shining Tempered Mithril Sword^
-^WE1_733_0_3351_Name^,^Shining Tempered Mithril GreatSword^
+^WE1_733_0_3351_Name^,^Shining Tempered Mithril Greatsword^
 ^WE4_733_0_3351_Name^,^Shining Tempered Mithril Dagger^
 ^WE5_733_0_3351_Name^,^Shining Tempered Mithril Scepter^
 ^WE6_733_0_3351_Name^,^Shining Tempered Mithril Staff^
 ^WE9_002_0_1351_Name^,^Shining Tempered Mithril Crossbow^
 ^WE8_002_0_1351_Name^,^Shining Tempered Mithril Lance^
 ^WE0_733_0_3401_Name^,^Shining Turalium Sword^
-^WE1_733_0_3401_Name^,^Shining Turalium GreatSword^
+^WE1_733_0_3401_Name^,^Shining Turalium Greatsword^
 ^WE4_733_0_3401_Name^,^Shining Turalium Dagger^
 ^WE5_733_0_3401_Name^,^Shining Turalium Scepter^
 ^WE6_733_0_3401_Name^,^Shining Turalium Staff^
@@ -1290,7 +1290,7 @@ t_key,t_korean
 ^WE4_018_0_3383_Name^,^Attaius Dagger^
 ^WE6_013_0_3383_Name^,^Attaius Staff^
 ^WE7_006_0_3383_Name^,^Attaius Bow^
-^WE1_009_0_3383_Name^,^Attaius GreatSword^
+^WE1_009_0_3383_Name^,^Attaius Greatsword^
 ^WE3_017_0_3383_Name^,^Attaius Battle Axe^
 ^WE5_009_0_3383_Name^,^Attaius Scepter^
 ^WE2_012_0_3383_Name^,^Attaius Warhammer^
@@ -1300,7 +1300,7 @@ t_key,t_korean
 ^BX_WE4_019_0_2351_Name^,^Simple Crescent Merchant Dagger^
 ^BX_WE6_014_0_2351_Name^,^Simple Crescent Merchant Staff^
 ^BX_WE7_015_0_2351_Name^,^Simple Crescent Merchant Bow^
-^BX_WE1_011_0_2351_Name^,^Simple Crescent Merchant GreatSword^
+^BX_WE1_011_0_2351_Name^,^Simple Crescent Merchant Greatsword^
 ^BX_WE5_011_0_2351_Name^,^Simple Crescent Merchant Scepter^
 ^BX_WE9_007_0_3301_Name^,^Simple Crescent Merchant Crossbow^
 ^BX_WE8_007_0_3301_Name^,^Simple Crescent Merchant Lance^
@@ -1308,7 +1308,7 @@ t_key,t_korean
 ^BX_WE4_009_0_3301_Name^,^Keen Crescent Merchant Dagger^
 ^BX_WE6_008_0_3301_Name^,^Keen Crescent Merchant Staff^
 ^BX_WE7_014_0_3301_Name^,^Keen Crescent Merchant Bow^
-^BX_WE1_012_0_3301_Name^,^Keen Crescent Merchant GreatSword^
+^BX_WE1_012_0_3301_Name^,^Keen Crescent Merchant Greatsword^
 ^BX_WE5_012_0_3301_Name^,^Keen Crescent Merchant Scepter^
 ^BX_WE9_002_0_1251_Name^,^Keen Crescent Merchant Crossbow^
 ^BX_WE8_002_0_1251_Name^,^Keen Crescent Merchant Lance^
@@ -1316,7 +1316,7 @@ t_key,t_korean
 ^BX_WE4_011_0_2402_Name^,^Tempered Crescent Merchant Dagger^
 ^BX_WE6_012_0_2402_Name^,^Tempered Crescent Merchant Staff^
 ^BX_WE7_016_0_2402_Name^,^Tempered Crescent Merchant Bow^
-^BX_WE1_017_0_2402_Name^,^Tempered Crescent Merchant GreatSword^
+^BX_WE1_017_0_2402_Name^,^Tempered Crescent Merchant Greatsword^
 ^BX_WE5_014_0_2402_Name^,^Tempered Crescent Merchant Scepter^
 ^BX_WE9_004_0_1351_Name^,^Tempered Crescent Merchant Crossbow^
 ^BX_WE8_006_0_0000_Name^,^Tempered Crescent Merchant Lance^
@@ -1324,308 +1324,308 @@ t_key,t_korean
 ^BX_WE4_008_0_3351_Name^,^Shining Crescent Merchant Dagger^
 ^BX_WE6_018_0_3351_Name^,^Shining Crescent Merchant Staff^
 ^BX_WE7_018_0_3351_Name^,^Shining Crescent Merchant Bow^
-^BX_WE1_029_0_3351_Name^,^Shining Crescent Merchant GreatSword^
+^BX_WE1_029_0_3351_Name^,^Shining Crescent Merchant Greatsword^
 ^BX_WE5_018_0_3351_Name^,^Shining Crescent Merchant Scepter^
 ^BX_WE9_004_0_2351_Name^,^Shining Crescent Merchant Crossbow^
 ^BX_WE8_004_0_0000_Name^,^Shining Crescent Merchant Lance^
 ^WE0_021_0_2101_EV1_Name^,^Hero's Sword I^
 ^WE4_001_0_2101_EV1_Name^,^Hero's Dagger I^
 ^WE6_003_0_2101_EV1_Name^,^Hero's Staff I^
-^WE1_003_0_2101_EV1_Name^,^Hero's GreatSword I^
+^WE1_003_0_2101_EV1_Name^,^Hero's Greatsword I^
 ^WE5_003_0_2101_EV1_Name^,^Hero's Scepter I^
 ^WE0_015_0_2102_EV1_Name^,^Hero's Sword II^
 ^WE4_002_0_2102_EV1_Name^,^Hero's Dagger II^
 ^WE6_011_0_2102_EV1_Name^,^Hero's Staff II^
-^WE1_004_0_2102_EV1_Name^,^Hero's GreatSword II^
+^WE1_004_0_2102_EV1_Name^,^Hero's Greatsword II^
 ^WE5_004_0_2102_EV1_Name^,^Hero's Scepter II^
 ^WE0_007_0_2151_EV1_Name^,^Hero's Sword III^
 ^WE4_015_0_2151_EV1_Name^,^Hero's Dagger III^
 ^WE6_000_0_2151_EV1_Name^,^Hero's Staff III^
-^WE1_005_0_2151_EV1_Name^,^Hero's GreatSword III^
+^WE1_005_0_2151_EV1_Name^,^Hero's Greatsword III^
 ^WE5_005_0_2151_EV1_Name^,^Hero's Scepter III^
 ^WE0_029_0_2202_EV1_Name^,^Hero's Sword IV^
 ^WE4_004_0_2202_EV1_Name^,^Hero's Dagger IV^
 ^WE6_004_0_2202_EV1_Name^,^Hero's Staff IV^
-^WE1_006_0_2202_EV1_Name^,^Hero's GreatSword IV^
+^WE1_006_0_2202_EV1_Name^,^Hero's Greatsword IV^
 ^WE5_006_0_2202_EV1_Name^,^Hero's Scepter IV^
 ^WE0_006_0_3281_EV1_Name^,^Hero's Sword V^
 ^WE4_018_0_3281_EV1_Name^,^Hero's Dagger V^
 ^WE6_013_0_3281_EV1_Name^,^Hero's Staff V^
-^WE1_009_0_3281_EV1_Name^,^Hero's GreatSword V^
+^WE1_009_0_3281_EV1_Name^,^Hero's Greatsword V^
 ^WE5_009_0_3281_EV1_Name^,^Hero's Scepter V^
 ^WE0_003_0_3282_EV1_Name^,^Hero's Sword VI^
 ^WE4_010_0_3282_EV1_Name^,^Hero's Dagger VI^
 ^WE6_007_0_3282_EV1_Name^,^Hero's Staff VI^
-^WE1_015_0_3282_EV1_Name^,^Hero's GreatSword VI^
+^WE1_015_0_3282_EV1_Name^,^Hero's Greatsword VI^
 ^WE5_010_0_3282_EV1_Name^,^Hero's Scepter VI^
 ^WE0_009_0_3352_Name^,^Blessed Supreme Commander Sword^
 ^WE4_008_0_3352_Name^,^Blessed Supreme Commander Dagger^
 ^WE6_018_0_3352_Name^,^Blessed Supreme Commander Staff^
 ^WE7_018_0_3352_Name^,^Blessed Supreme Commander Bow^
-^WE1_029_0_3352_Name^,^Blessed Supreme Commander GreatSword^
+^WE1_029_0_3352_Name^,^Blessed Supreme Commander Greatsword^
 ^WE3_011_0_3352_Name^,^Blessed Supreme Commander Battle Axe^
 ^WE5_018_0_3352_Name^,^Blessed Supreme Commander Scepter^
 ^WE2_030_0_3352_Name^,^Blessed Supreme Commander Warhammer^
 ^WE9_004_0_2352_Name^,^Blessed Supreme Commander Crossbow^
 ^WE8_004_0_0001_Name^,^Blessed Supreme Commander Lance^
 ^ew0_039_0_0000_Name^,^Chaos Elven Sword^
-^ew1_001_0_0000_Name^,^Kashim's GreatSword^
-^ew1_013_0_0000_Name^,^Nibble Rodheim's GreatSword^
+^ew1_001_0_0000_Name^,^Kashim's Greatsword^
+^ew1_013_0_0000_Name^,^Rodheim's Greatsword^
 ^ew2_004_0_0000_Name^,^Desert Braghin Overseer's Hammer^
 ^ew2_032_0_0000_Name^,^Palken's Giant Hammer^
 ^ew4_014_0_0000_Name^,^Lenanzar's Sword^
 ^ew4_015_0_0000_Name^,^Chaos Elven Zweihander^
 ^ew5_004_0_0000_Name^,^Lanasson's Rod^
-^ew5_025_0_0000_Name^,^De Muspel's Rod^
+^ew5_025_0_0000_Name^,^Demociel's Scepter^
 ^ew5_026_0_0000_Name^,^Chaos Elven Scepter^
 ^ew6_031_0_0000_Name^,^Amandos' Rod^
-^ew6_032_0_0000_Name^,^Roxanne's Rod^
+^ew6_032_0_0000_Name^,^Pridon Roa's Staff^
 ^ew6_033_0_0000_Name^,^Chaos Elven Staff^
 ^ew7_017_0_0000_Name^,^Captain Al's Javelin^
 ^ew7_018_0_0000_Name^,^Mohaban Javelinier's Javelin^
-^ew7_019_0_0000_Name^,^Jormungand's Bow^
+^ew7_019_0_0000_Name^,^Yorminsul's Bow^
 ^ew7_020_0_0000_Name^,^Aurea's Bow^
-^ew7_021_0_0000_Name^,^Chaos Elven Longbow^
+^ew7_021_0_0000_Name^,^Chaos Elf Bow^
 ^ew7_022_0_0000_Name^,^Mermaid Harp^
 ^ew7_028_0_0000_Name^,^Molta's Crossbow^
 ^WE0_009_0_3353_Name^,^Glorious Leader Sword^
 ^WE4_008_0_3353_Name^,^Glorious Leader Dagger^
 ^WE6_018_0_3353_Name^,^Glorious Leader Staff^
 ^WE7_018_0_3353_Name^,^Glorious Leader Bow^
-^WE1_029_0_3353_Name^,^Glorious Leader GreatSword^
+^WE1_029_0_3353_Name^,^Glorious Leader Greatsword^
 ^WE3_011_0_3353_Name^,^Glorious Leader Battle Axe^
 ^WE5_018_0_3353_Name^,^Glorious Leader Scepter^
 ^WE2_030_0_3353_Name^,^Glorious Leader Warhammer^
 ^WE9_004_0_2353_Name^,^Glorious Leader Crossbow^
 ^WE8_004_0_0002_Name^,^Glorious Leader Lance^
 ^WE9_002_0_1402_Name^,^Attaius Lance^
-^WE8_002_0_1402_Name^,^Tranua's Crossbow^
+^WE8_002_0_1402_Name^,^Tranua Crossbow^
 ^WE0_045_1_4501_Name^,^Royal Guard Sword^
 ^WE4_045_1_4501_Name^,^Royal Guard Dagger^
 ^WE6_045_1_4501_Name^,^Royal Guard Staff^
-^WE1_045_1_4501_Name^,^Royal Guard GreatSword^
+^WE1_045_1_4501_Name^,^Royal Guard Greatsword^
 ^WE5_045_1_4501_Name^,^Royal Guard Scepter^
 ^WE0_045_0_4501_Name^,^Alseik Guard Sword^
 ^WE4_045_0_4501_Name^,^Alseik Guard Dagger^
 ^WE6_045_0_4501_Name^,^Alseik Guard Staff^
-^WE1_045_0_4501_Name^,^Alseik Guard GreatSword^
+^WE1_045_0_4501_Name^,^Alseik Guard Greatsword^
 ^WE5_045_0_4501_Name^,^Alseik Guard Scepter^
-^WE0_045_0_4502_Name^,^Griffon Knight Sword^
-^WE4_045_0_4502_Name^,^Griffon Knight Dagger^
-^WE6_045_0_4502_Name^,^Griffon Knight Staff^
-^WE1_045_0_4502_Name^,^Griffon Knight GreatSword^
-^WE5_045_0_4502_Name^,^Griffon Knight Scepter^
-^WE9_045_0_4502_Name^,^Griffon Knight Crossbow^
-^WE8_045_0_4502_Name^,^Griffon Knight Lance^
+^WE0_045_0_4502_Name^,^Griffin Knight Sword^
+^WE4_045_0_4502_Name^,^Griffin Knight Dagger^
+^WE6_045_0_4502_Name^,^Griffin Knight Staff^
+^WE1_045_0_4502_Name^,^Griffin Knight Greatsword^
+^WE5_045_0_4502_Name^,^Griffin Knight Scepter^
+^WE9_045_0_4502_Name^,^Griffin Knight Crossbow^
+^WE8_045_0_4502_Name^,^Griffin Knight Lance^
 ^WE0_045_8_4501_Name^,^Mohaba Mercenary Sword^
 ^WE4_045_8_4501_Name^,^Mohaba Mercenary Dagger^
 ^WE6_045_8_4501_Name^,^Mohaba Mercenary Staff^
-^WE1_045_8_4501_Name^,^Mohaba Mercenary GreatSword^
+^WE1_045_8_4501_Name^,^Mohaba Mercenary Greatsword^
 ^WE5_045_8_4501_Name^,^Mohaba Mercenary Scepter^
 ^WE0_045_3_4501_Name^,^Ruins Guard Sword^
 ^WE4_045_3_4501_Name^,^Ruins Guard Dagger^
 ^WE6_045_3_4501_Name^,^Ruins Guard Staff^
-^WE1_045_3_4501_Name^,^Ruins Guard GreatSword^
+^WE1_045_3_4501_Name^,^Ruins Guard Greatsword^
 ^WE5_045_3_4501_Name^,^Ruins Guard Scepter^
 ^WE9_045_3_4501_Name^,^Ruins Guard Crossbow^
 ^WE8_045_3_4501_Name^,^Ruins Guard Lance^
 ^WE0_045_3_4502_Name^,^Khabimist Sword^
 ^WE4_045_3_4502_Name^,^Khabimist Dagger^
 ^WE6_045_3_4502_Name^,^Khabimist Staff^
-^WE1_045_3_4502_Name^,^Khabimist GreatSword^
+^WE1_045_3_4502_Name^,^Khabimist Greatsword^
 ^WE5_045_3_4502_Name^,^Khabimist Scepter^
 ^WE9_045_3_4502_Name^,^Khabimist Crossbow^
 ^WE8_045_3_4502_Name^,^Khabimist Lance^
 ^WE0_050_1_5001_Name^,^Capital Commander's Sword^
 ^WE4_050_1_5001_Name^,^Capital Commander's Dagger^
 ^WE6_050_1_5001_Name^,^Capital Commander's Staff^
-^WE1_050_1_5001_Name^,^Capital Commander's GreatSword^
+^WE1_050_1_5001_Name^,^Capital Commander's Greatsword^
 ^WE5_050_1_5001_Name^,^Capital Commander's Scepter^
 ^WE0_050_8_5001_Name^,^Desert Braghin Sword^
 ^WE4_050_8_5001_Name^,^Desert Braghin Dagger^
 ^WE6_050_8_5001_Name^,^Desert Braghin Staff^
-^WE1_050_8_5001_Name^,^Desert Braghin GreatSword^
+^WE1_050_8_5001_Name^,^Desert Braghin Greatsword^
 ^WE5_050_8_5001_Name^,^Desert Braghin Scepter^
-^WE0_050_3_5001_Name^,^Dark LegionOfficer's Sword^
-^WE4_050_3_5001_Name^,^Dark LegionOfficer's Dagger^
-^WE6_050_3_5001_Name^,^Dark LegionOfficer's Staff^
-^WE1_050_3_5001_Name^,^Dark LegionOfficer's GreatSword^
-^WE5_050_3_5001_Name^,^Dark LegionOfficer's Scepter^
-^WE9_050_3_5001_Name^,^Dark LegionOfficer's Crossbow^
-^WE8_050_3_5001_Name^,^Dark LegionOfficer's Lance^
+^WE0_050_3_5001_Name^,^Despot's Sword^
+^WE4_050_3_5001_Name^,^Despot's Dagger^
+^WE6_050_3_5001_Name^,^Despot's Staff^
+^WE1_050_3_5001_Name^,^Despot's Greatsword^
+^WE5_050_3_5001_Name^,^Despot's Scepter^
+^WE9_050_3_5001_Name^,^Despot's Crossbow^
+^WE8_050_3_5001_Name^,^Despot's Lance^
 ^WE0_050_0_5002_Name^,^Hermit's Sword^
 ^WE4_050_0_5002_Name^,^Hermit's Dagger^
 ^WE6_050_0_5002_Name^,^Hermit's Staff^
-^WE1_050_0_5002_Name^,^Hermit's GreatSword^
+^WE1_050_0_5002_Name^,^Hermit's Greatsword^
 ^WE5_050_0_5002_Name^,^Hermit's Scepter^
 ^WE0_050_3_5002_Name^,^Tyrant's Sword^
 ^WE4_050_3_5002_Name^,^Tyrant's Dagger^
 ^WE6_050_3_5002_Name^,^Tyrant's Staff^
-^WE1_050_3_5002_Name^,^Tyrant's GreatSword^
+^WE1_050_3_5002_Name^,^Tyrant's Greatsword^
 ^WE5_050_3_5002_Name^,^Tyrant's Scepter^
 ^WE9_050_3_5002_Name^,^Tyrant's Crossbow^
 ^WE8_050_3_5002_Name^,^Tyrant's Lance^
 ^pvpWE0_001_2_4564_Name^,^Modest Slayer Sword^
 ^pvpWE4_001_2_4564_Name^,^Modest Slayer Dagger^
 ^pvpWE6_001_2_4564_Name^,^Modest Slayer Staff^
-^pvpWE1_001_2_4564_Name^,^Modest Slayer GreatSword^
+^pvpWE1_001_2_4564_Name^,^Modest Slayer Greatsword^
 ^pvpWE5_001_2_4564_Name^,^Modest Slayer Scepter^
 ^pvpWE9_002_2_4564_Name^,^Modest Slayer Crossbow^
 ^pvpWE8_002_2_4564_Name^,^Modest Slayer Lance^
 ^pvpWE0_001_2_5069_Name^,^Austere Slayer Sword^
 ^pvpWE4_001_2_5069_Name^,^Austere Slayer Dagger^
 ^pvpWE6_001_2_5069_Name^,^Austere Slayer Staff^
-^pvpWE1_001_2_5069_Name^,^Austere Slayer GreatSword^
+^pvpWE1_001_2_5069_Name^,^Austere Slayer Greatsword^
 ^pvpWE5_001_2_5069_Name^,^Austere Slayer Scepter^
 ^pvpWE9_002_2_5069_Name^,^Austere Slayer Crossbow^
 ^pvpWE8_002_2_5069_Name^,^Austere Slayer Lance^
 ^WE0_045_3_4502_CR_Name^,^Shining Adamantite Sword^
 ^WE4_045_3_4502_CR_Name^,^Shining Adamantite Dagger^
 ^WE6_045_3_4502_CR_Name^,^Shining Adamantite Staff^
-^WE1_045_3_4502_CR_Name^,^Shining Adamantite GreatSword^
+^WE1_045_3_4502_CR_Name^,^Shining Adamantite Greatsword^
 ^WE5_045_3_4502_CR_Name^,^Shining Adamantite Scepter^
 ^WE9_045_3_4502_CR_Name^,^Shining Adamantite Crossbow^
 ^WE8_045_3_4502_CR_Name^,^Shining Adamantite Lance^
 ^WE0_050_3_5002_CR_Name^,^Shining Tempered Adamantite Sword^
 ^WE4_050_3_5002_CR_Name^,^Shining Tempered Adamantite Dagger^
 ^WE6_050_3_5002_CR_Name^,^Shining Tempered Adamantite Staff^
-^WE1_050_3_5002_CR_Name^,^Shining Tempered Adamantite GreatSword^
+^WE1_050_3_5002_CR_Name^,^Shining Tempered Adamantite Greatsword^
 ^WE5_050_3_5002_CR_Name^,^Shining Tempered Adamantite Scepter^
 ^WE9_050_3_5002_CR_Name^,^Shining Tempered Adamantite Crossbow^
 ^WE8_050_3_5002_CR_Name^,^Shining Tempered Adamantite Lance^
 ^WE0_050_3_5003_Name^,^Blessed Tyrant's Sword^
 ^WE4_050_3_5003_Name^,^Blessed Tyrant's Dagger^
 ^WE6_050_3_5003_Name^,^Blessed Tyrant's Staff^
-^WE1_050_3_5003_Name^,^Blessed Tyrant's GreatSword^
+^WE1_050_3_5003_Name^,^Blessed Tyrant's Greatsword^
 ^WE5_050_3_5003_Name^,^Blessed Tyrant's Scepter^
 ^WE9_050_3_5003_Name^,^Blessed Tyrant's Crossbow^
 ^WE8_050_3_5003_Name^,^Blessed Tyrant's Lance^
 ^WE0_005_0_3301_EV1_Name^,^Hero's Sword VII^
 ^WE4_009_0_3301_EV1_Name^,^Hero's Dagger VII^
 ^WE6_008_0_3301_EV1_Name^,^Hero's Staff VII^
-^WE1_012_0_3301_EV1_Name^,^Hero's GreatSword VII^
+^WE1_012_0_3301_EV1_Name^,^Hero's Greatsword VII^
 ^WE5_012_0_3301_EV1_Name^,^Hero's Scepter VII^
-^WE9_002_0_1251_EV1_Name^,^Hero's Crossbow VII^
-^WE8_002_0_1251_EV1_Name^,^Hero's Lance VII^
+^WE9_002_0_1251_EV1_Name^,^Hero's Crossbow III^
+^WE8_002_0_1251_EV1_Name^,^Hero's Lance III^
 ^WE0_009_0_3351_EV1_Name^,^Hero's Sword VIII^
 ^WE4_008_0_3351_EV1_Name^,^Hero's Dagger VIII^
 ^WE6_018_0_3351_EV1_Name^,^Hero's Staff VIII^
-^WE1_029_0_3351_EV1_Name^,^Hero's GreatSword VIII^
+^WE1_029_0_3351_EV1_Name^,^Hero's Greatsword VIII^
 ^WE5_018_0_3351_EV1_Name^,^Hero's Scepter VIII^
-^WE9_004_0_2351_EV1_Name^,^Hero's Crossbow VIII^
-^WE8_004_0_0000_EV1_Name^,^Hero's Lance VIII^
+^WE9_004_0_2351_EV1_Name^,^Hero's Crossbow V^
+^WE8_004_0_0000_EV1_Name^,^Hero's Lance V^
 ^WE9_050_4_4501_Name^,^Ancient Virtue Crossbow^
 ^WE8_050_4_4501_Name^,^Ancient Virtue Lance^
 ^WE0_045_0_4502_RE_Name^,^Sword of Hope VIII^
 ^WE4_045_0_4502_RE_Name^,^Dagger of Hope VIII^
 ^WE6_045_0_4502_RE_Name^,^Staff of Hope VIII^
-^WE1_045_0_4502_RE_Name^,^GreatSword of Hope VIII^
+^WE1_045_0_4502_RE_Name^,^Greatsword of Hope VIII^
 ^WE5_045_0_4502_RE_Name^,^Scepter of Hope VIII^
 ^WE9_045_0_4502_RE_Name^,^Crossbow of Hope VIII^
 ^WE8_045_0_4502_RE_Name^,^Lance of Hope VIII^
 ^WE0_050_0_5002_RE_Name^,^Sword of Hope IX^
 ^WE4_050_0_5002_RE_Name^,^Dagger of Hope IX^
 ^WE6_050_0_5002_RE_Name^,^Staff of Hope VIII^
-^WE1_050_0_5002_RE_Name^,^GreatSword of Hope IX^
+^WE1_050_0_5002_RE_Name^,^Greatsword of Hope IX^
 ^WE5_050_0_5002_RE_Name^,^Scepter of Hope IX^
 ^WE9_045_0_5002_RE_Name^,^Crossbow of Hope IX^
 ^WE8_045_0_5002_RE_Name^,^Lance of Hope IX^
-^WE0_XMAS_0_2103_Name^,^Christmas Sword^
-^WE4_XMAS_0_2103_Name^,^Christmas Dagger^
-^WE6_XMAS_0_2103_Name^,^Christmas Staff^
-^WE1_XMAS_0_2103_Name^,^Christmas GreatSword^
-^WE5_XMAS_0_2103_Name^,^Christmas Scepter^
-^WE0_ev1_1_2103_Name^,^(PC Cafe) Karasha Sword ( 6 Hours )^
-^WE4_ev1_1_2103_Name^,^(PC Cafe) Karasha Dagger (6 hours)^
-^WE6_ev1_1_2103_Name^,^(PC Cafe) Karasha Staff (6 hours)^
-^WE1_ev1_1_2103_Name^,^(PC Cafe) Karasha GreatSword (6 hours)^
-^WE5_ev1_1_2103_Name^,^(PC Cafe) Karasha Scepter (6 hours)^
-^WE0_ev1_2_2103_Name^,^(PC Cafe) Karasha Sword ( 1 day )^
-^WE4_ev1_2_2103_Name^,^(PC Cafe) Karasha Dagger (1 day)^
-^WE6_ev1_2_2103_Name^,^(PC Cafe) Karasha Staff (1 day)^
-^WE1_ev1_2_2103_Name^,^(PC Cafe) Karasha GreatSword (1 day)^
-^WE5_ev1_2_2103_Name^,^(PC Cafe) Karasha Scepter (1 day)^
-^WE0_504_2103_Name^,^Ellora's Sword^
-^WE1_504_2103_Name^,^Ellora's GreatSword^
-^WE4_504_2103_Name^,^Ellora's Dagger^
-^WE5_504_2103_Name^,^Ellora's Scepter^
-^WE6_504_2103_Name^,^Ellora's Staff^
-^WE8_504_2103_Name^,^Ellora's Lance^
-^WE9_504_2103_Name^,^Ellora's Crossbow^
+^WE0_XMAS_0_2103_Name^,^TEMP - Not Used^
+^WE4_XMAS_0_2103_Name^,^TEMP - Not Used^
+^WE6_XMAS_0_2103_Name^,^TEMP - Not Used^
+^WE1_XMAS_0_2103_Name^,^TEMP - Not Used^
+^WE5_XMAS_0_2103_Name^,^TEMP - Not Used^
+^WE0_ev1_1_2103_Name^,^TEMP - Not Used^
+^WE4_ev1_1_2103_Name^,^TEMP - Not Used^
+^WE6_ev1_1_2103_Name^,^TEMP - Not Used^
+^WE1_ev1_1_2103_Name^,^TEMP - Not Used^
+^WE5_ev1_1_2103_Name^,^TEMP - Not Used^
+^WE0_ev1_2_2103_Name^,^TEMP - Not Used^
+^WE4_ev1_2_2103_Name^,^TEMP - Not Used^
+^WE6_ev1_2_2103_Name^,^TEMP - Not Used^
+^WE1_ev1_2_2103_Name^,^TEMP - Not Used^
+^WE5_ev1_2_2103_Name^,^TEMP - Not Used^
+^WE0_504_2103_Name^,^Exalted Sword^
+^WE1_504_2103_Name^,^Exalted Greatsword^
+^WE4_504_2103_Name^,^Exalted Dagger^
+^WE5_504_2103_Name^,^Exalted Scepter^
+^WE6_504_2103_Name^,^Exalted Staff^
+^WE8_504_2103_Name^,^Exalted Lance^
+^WE9_504_2103_Name^,^Exalted Crossbow^
 ^WE0_021_0_2101_EV2_Name^,^Hero's Sword I (30 Days)^
 ^WE4_001_0_2101_EV2_Name^,^Hero's Dagger I (30 Days)^
 ^WE6_003_0_2101_EV2_Name^,^Hero's Staff I (30 Days)^
-^WE1_003_0_2101_EV2_Name^,^Hero's GreatSword I (30 Days)^
+^WE1_003_0_2101_EV2_Name^,^Hero's Greatsword I (30 Days)^
 ^WE5_003_0_2101_EV2_Name^,^Hero's Scepter I (30 Days)^
 ^WE0_015_0_2102_EV2_Name^,^Hero's Sword II (30 Days)^
 ^WE4_002_0_2102_EV2_Name^,^Hero's Dagger II (30 Days)^
 ^WE6_011_0_2102_EV2_Name^,^Hero's Staff II (30 Days)^
-^WE1_004_0_2102_EV2_Name^,^Hero's GreatSword II (30 Days)^
+^WE1_004_0_2102_EV2_Name^,^Hero's Greatsword II (30 Days)^
 ^WE5_004_0_2102_EV2_Name^,^Hero's Scepter II (30 Days)^
 ^WE0_007_0_2151_EV2_Name^,^Hero's Sword II (30 Days)^
 ^WE4_015_0_2151_EV2_Name^,^Hero's Dagger II (30 Days)^
 ^WE6_000_0_2151_EV2_Name^,^Hero's Staff III (30 Days)^
-^WE1_005_0_2151_EV2_Name^,^Hero's GreatSword III (30 Days)^
+^WE1_005_0_2151_EV2_Name^,^Hero's Greatsword III (30 Days)^
 ^WE5_005_0_2151_EV2_Name^,^Hero's Scepter III (30 Days)^
 ^WE0_029_0_2202_EV2_Name^,^Hero's Sword IV (30 Days)^
 ^WE4_004_0_2202_EV2_Name^,^Hero's Dagger IV (30 Days)^
 ^WE6_004_0_2202_EV2_Name^,^Hero's Staff IV (30 Days)^
-^WE1_006_0_2202_EV2_Name^,^Hero's GreatSword IV (30 Days)^
+^WE1_006_0_2202_EV2_Name^,^Hero's Greatsword IV (30 Days)^
 ^WE5_006_0_2202_EV2_Name^,^Hero's Scepter IV (30 Days)^
 ^WE0_006_0_3281_EV2_Name^,^Hero's Sword V (30 Days)^
 ^WE4_018_0_3281_EV2_Name^,^Hero's Dagger V (30 Days)^
 ^WE6_013_0_3281_EV2_Name^,^Hero's Staff V (30 Days)^
-^WE1_009_0_3281_EV2_Name^,^Hero's GreatSword V (30 Days)^
+^WE1_009_0_3281_EV2_Name^,^Hero's Greatsword V (30 Days)^
 ^WE5_009_0_3281_EV2_Name^,^Hero's Scepter V (30 Days)^
 ^WE0_003_0_3282_EV2_Name^,^Hero's Sword VI (30 Days)^
 ^WE4_010_0_3282_EV2_Name^,^Hero's Dagger VI (30 Days)^
 ^WE6_007_0_3282_EV2_Name^,^Hero's Staff VI (30 Days)^
-^WE1_015_0_3282_EV2_Name^,^Hero's GreatSword VI (30 Days)^
+^WE1_015_0_3282_EV2_Name^,^Hero's Greatsword VI (30 Days)^
 ^WE5_010_0_3282_EV2_Name^,^Hero's Scepter VI (30 Days)^
 ^WE0_005_0_3301_EV2_Name^,^Hero's Sword VII (30 Days)^
 ^WE4_009_0_3301_EV2_Name^,^Hero's Dagger VII (30 Days)^
 ^WE6_008_0_3301_EV2_Name^,^Hero's Staff VII (30 Days)^
-^WE1_012_0_3301_EV2_Name^,^Hero's GreatSword VII (30 Days)^
+^WE1_012_0_3301_EV2_Name^,^Hero's Greatsword VII (30 Days)^
 ^WE5_012_0_3301_EV2_Name^,^Hero's Scepter VII (30 Days)^
 ^WE9_002_0_1251_EV2_Name^,^Hero's Crossbow VII (30 days)^
 ^WE8_002_0_1251_EV2_Name^,^Hero's Lance VII (30 days)^
 ^WE0_009_0_3351_EV2_Name^,^Hero's Sword VIII (30 Days)^
 ^WE4_008_0_3351_EV2_Name^,^Hero's Dagger VIII (30 Days)^
 ^WE6_018_0_3351_EV2_Name^,^Hero's Staff VIII (30 Days)^
-^WE1_029_0_3351_EV2_Name^,^Hero's GreatSword VIII (30 Days)^
+^WE1_029_0_3351_EV2_Name^,^Hero's Greatsword VIII (30 Days)^
 ^WE5_018_0_3351_EV2_Name^,^Hero's Scepter VIII (30 Days)^
 ^WE9_004_0_2351_EV2_Name^,^Hero's Crossbow VIII (30 days)^
 ^WE8_004_0_0000_EV2_Name^,^Hero's Lance VIII (30 days)^
 ^WE0_001_0_0001_Name^,^Ronua Infantry Sword^
 ^WE4_002_0_0002_Name^,^Ronua Infantry Dagger^
 ^WE6_003_0_0003_Name^,^Ronua Infantry Staff^
-^WE1_004_0_0004_Name^,^Ronua Infantry GreatSword^
+^WE1_004_0_0004_Name^,^Ronua Infantry Greatsword^
 ^WE5_005_0_0005_Name^,^Ronua Infantry Scepter^
 ^WE0_001_0_0008_Name^,^Elgaden Officer's Sword^
 ^WE4_002_0_0009_Name^,^Elgaden Officer's Dagger^
 ^WE6_003_0_0010_Name^,^Elgaden Officer's Staff^
-^WE1_004_0_0011_Name^,^Elgaden Officer's GreatSword^
+^WE1_004_0_0011_Name^,^Elgaden Officer's Greatsword^
 ^WE5_005_0_0012_Name^,^Elgaden Officer's Scepter^
 ^WE9_006_0_0013_Name^,^Elgaden Officer's Crossbow^
 ^WE8_007_0_0014_Name^,^Elgaden Officer's Lance^
 ^WE0_001_0_0015_Name^,^Ravager Sword^
 ^WE4_002_0_0016_Name^,^Ravager Dagger^
 ^WE6_003_0_0017_Name^,^Ravager Staff^
-^WE1_004_0_0018_Name^,^Ravager GreatSword^
+^WE1_004_0_0018_Name^,^Ravager Greatsword^
 ^WE5_005_0_0019_Name^,^Ravager Scepter^
 ^WE9_006_0_0020_Name^,^Ravager Crossbow^
 ^WE8_007_0_0021_Name^,^Ravager Lance^
 ^WE0_001_0_0022_Name^,^Chaotic Sword^
 ^WE4_002_0_0023_Name^,^Chaotic Dagger^
 ^WE6_003_0_0024_Name^,^Chaotic Staff^
-^WE1_004_0_0025_Name^,^Chaotic GreatSword^
+^WE1_004_0_0025_Name^,^Chaotic Greatsword^
 ^WE5_005_0_0026_Name^,^Chaotic Scepter^
 ^WE9_006_0_0027_Name^,^Chaotic Crossbow^
 ^WE8_007_0_0028_Name^,^Chaotic Lance^
 ^WE0_001_0_0001_CR_Name^,^Dragonite Sword^
 ^WE4_002_0_0002_CR_Name^,^Dragonite Dagger^
 ^WE6_003_0_0003_CR_Name^,^Dragonite Staff^
-^WE1_004_0_0004_CR_Name^,^Dragonite GreatSword^
+^WE1_004_0_0004_CR_Name^,^Dragonite Greatsword^
 ^WE5_005_0_0005_CR_Name^,^Dragonite Scepter^
 ^WE9_006_0_0006_CR_Name^,^Dragonite Crossbow^
 ^WE8_007_0_0007_CR_Name^,^Dragonite Lance^
@@ -1633,7 +1633,7 @@ t_key,t_korean
 ^WE4_005_0_2141_1_Name^,^Blessed Emberstone Dagger^
 ^WE6_005_0_2141_1_Name^,^Blessed Emberstone Staff^
 ^WE7_027_0_2141_1_Name^,^Blessed Emberstone Bow^
-^WE1_008_0_2141_1_Name^,^Blessed Emberstone GreatSword^
+^WE1_008_0_2141_1_Name^,^Blessed Emberstone Greatsword^
 ^WE3_019_0_2141_1_Name^,^Blessed Emberstone Battle Axe^
 ^WE5_007_0_2141_1_Name^,^Blessed Emberstone Scepter^
 ^WE2_027_0_2141_1_Name^,^Blessed Emberstone Warhammer^
@@ -1641,7 +1641,7 @@ t_key,t_korean
 ^WE4_026_0_2222_1_Name^,^Blessed Cursed Dagger^
 ^WE6_026_0_2222_1_Name^,^Blessed Cursed Staff^
 ^WE7_012_0_2222_1_Name^,^Blessed Cursed Bow^
-^WE1_027_0_2222_1_Name^,^Blessed Cursed GreatSword^
+^WE1_027_0_2222_1_Name^,^Blessed Cursed Greatsword^
 ^WE3_031_0_2222_1_Name^,^Blessed Cursed Battle Axe^
 ^WE5_027_0_2222_1_Name^,^Blessed Cursed Scepter^
 ^WE2_019_0_2222_1_Name^,^Blessed Cursed Warhammer^
@@ -1649,7 +1649,7 @@ t_key,t_korean
 ^WE4_018_0_3281_1_Name^,^Blessed Frozen Dagger^
 ^WE6_013_0_3281_1_Name^,^Blessed Frozen Staff^
 ^WE7_006_0_3281_1_Name^,^Blessed Frozen Bow^
-^WE1_009_0_3281_1_Name^,^Blessed Frozen GreatSword^
+^WE1_009_0_3281_1_Name^,^Blessed Frozen Greatsword^
 ^WE3_017_0_3281_1_Name^,^Blessed Frozen Battle Axe^
 ^WE5_009_0_3281_1_Name^,^Blessed Frozen Scepter^
 ^WE2_012_0_3281_1_Name^,^Blessed Frozen Warhammer^
@@ -1657,15 +1657,15 @@ t_key,t_korean
 ^WE4_010_0_3282_1_Name^,^Blessed Corrupted Dagger^
 ^WE6_007_0_3282_1_Name^,^Blessed Corrupted Staff^
 ^WE7_019_0_3282_1_Name^,^Blessed Corrupted Bow^
-^WE1_015_0_3282_1_Name^,^Blessed Corrupted GreatSword^
+^WE1_015_0_3282_1_Name^,^Blessed Corrupted Greatsword^
 ^WE3_017_0_3282_1_Name^,^Blessed Corrupted Battle Axe^
 ^WE5_010_0_3282_1_Name^,^Blessed Corrupted Scepter^
 ^WE2_012_0_3282_1_Name^,^Blessed Corrupted Warhammer^
 ^WE0_005_0_3301_1_Name^,^Blessed Rondo's Sword^
 ^WE4_009_0_3301_1_Name^,^Blessed Rondo's Dagger^
 ^WE6_008_0_3301_1_Name^,^Blessed Aisha's Staff^
-^WE7_014_0_3301_1_Name^,^Blessed Frost Command Bow^
-^WE1_012_0_3301_1_Name^,^Blessed Rondo's GreatSword^
+^WE7_014_0_3301_1_Name^,^Blessed Aisha's Bow^
+^WE1_012_0_3301_1_Name^,^Blessed Rondo's Greatsword^
 ^WE3_029_0_3301_1_Name^,^Blessed Frost Command Battle Axe^
 ^WE5_012_0_3301_1_Name^,^Blessed Aisha's Scepter^
 ^WE2_012_0_3301_1_Name^,^Blessed Frost Command Warhammer^
@@ -1678,178 +1678,178 @@ t_key,t_korean
 ^WE0_006_0_2301_RE2_Name^,^Sword of Hope I^
 ^WE4_018_0_2301_RE2_Name^,^Dagger of Hope I^
 ^WE6_013_0_2301_RE2_Name^,^Staff of Hope I^
-^WE1_009_0_2301_RE2_Name^,^GreatSword of Hope I^
+^WE1_009_0_2301_RE2_Name^,^Greatsword of Hope I^
 ^WE5_009_0_2301_RE2_Name^,^Scepter of Hope I^
 ^WE9_002_0_2151_RE2_Name^,^Crossbow of Hope I^
 ^WE8_003_0_2201_RE2_Name^,^Lance of Hope I^
 ^WE0_018_0_2351_RE2_Name^,^Sword of Hope II^
 ^WE4_019_0_2351_RE2_Name^,^Dagger of Hope II^
 ^WE6_014_0_2351_RE2_Name^,^Staff of Hope II^
-^WE1_011_0_2351_RE2_Name^,^GreatSword of Hope II^
+^WE1_011_0_2351_RE2_Name^,^Greatsword of Hope II^
 ^WE5_011_0_2351_RE2_Name^,^Scepter of Hope II^
 ^WE9_045_0_4502_RE2_Name^,^Crossbow of Hope II^
 ^WE8_045_0_4502_RE2_Name^,^Lance of Hope II^
 ^WE0_050_0_5002_RE2_Name^,^Sword of Hope III^
 ^WE4_050_0_5002_RE2_Name^,^Dagger of Hope III^
 ^WE6_050_0_5002_RE2_Name^,^Staff of Hope III^
-^WE1_050_0_5002_RE2_Name^,^GreatSword of Hope III^
+^WE1_050_0_5002_RE2_Name^,^Greatsword of Hope III^
 ^WE5_050_0_5002_RE2_Name^,^Scepter of Hope III^
 ^WE9_045_0_5002_RE2_Name^,^Crossbow of Hope III^
 ^WE8_045_0_5002_RE2_Name^,^Lance of Hope III^
 ^WE0_ev1_3_2103_Name^,^(Quest) Karasha Sword (14 Day)^
 ^WE4_ev1_3_2103_Name^,^(Quest) Karasha Dagger (14 Day)^
 ^WE6_ev1_3_2103_Name^,^(Quest) Karasha Staff (14 Day)^
-^WE1_ev1_3_2103_Name^,^(Quest) Karasha GreatSword (14 Day)^
+^WE1_ev1_3_2103_Name^,^(Quest) Karasha Greatsword (14 Day)^
 ^WE5_ev1_3_2103_Name^,^(Quest) Karasha Scepter (14 Day)^
 ^WE0_ev1_4_2103_Name^,^(Event) Karasha Sword (30 Day)^
 ^WE4_ev1_4_2103_Name^,^(Event) Karasha Dagger (30 Day)^
 ^WE6_ev1_4_2103_Name^,^(Event) Karasha Staff (30 Day)^
-^WE1_ev1_4_2103_Name^,^(Event) Karasha GreatSword (30 Day)^
+^WE1_ev1_4_2103_Name^,^(Event) Karasha Greatsword (30 Day)^
 ^WE5_ev1_4_2103_Name^,^(Event) Karasha Scepter (30 Days)^
 ^WE0_ev2_3_2103_Name^,^Karasha Sword (14 Day)^
 ^WE4_ev2_3_2103_Name^,^Karasha Dagger (14 Day)^
 ^WE6_ev2_3_2103_Name^,^Karasha Staff (14 Day)^
-^WE1_ev2_3_2103_Name^,^Karasha GreatSword (14 Day)^
+^WE1_ev2_3_2103_Name^,^Karasha Greatsword (14 Day)^
 ^WE5_ev2_3_2103_Name^,^Karasha Scepter (14 Day)^
 ^WE0_001_1_0022_Name^,^Blessed Chaotic Sword^
 ^WE4_002_1_0023_Name^,^Blessed Chaotic Dagger^
 ^WE6_003_1_0024_Name^,^Blessed Chaotic Staff^
-^WE1_004_1_0025_Name^,^Blessed Chaotic GreatSword^
+^WE1_004_1_0025_Name^,^Blessed Chaotic Greatsword^
 ^WE5_005_1_0026_Name^,^Blessed Chaotic Scepter^
 ^WE9_006_1_0027_Name^,^Blessed Chaotic Crossbow^
 ^WE8_007_1_0028_Name^,^Blessed Chaotic Lance^
 ^WE0_001_2_0022_Name^,^Level Option Test Sword^
 ^WE4_002_2_0023_Name^,^Level Option Test Dagger^
 ^WE6_003_2_0024_Name^,^Level Option Test Staff^
-^WE1_004_2_0025_Name^,^Level Option Test GreatSword^
+^WE1_004_2_0025_Name^,^Level Option Test Greatsword^
 ^WE5_005_2_0026_Name^,^Level Option Test Scepter^
-^WE9_006_2_0027_Name^,^Level Option Test Crossbow^
-^WE8_007_2_0028_Name^,^Level Option Test Lance^
-^WE9_055_2_0001_Name^,^Jormungand's Evolving Crossbow^
-^WE8_055_2_0002_Name^,^Jormungand's Evolving Lance^
-^WE9_055_2_0003_Name^,^Nerha's Development Crossbow^
-^WE8_055_2_0004_Name^,^Nerha's Development Lance^
+^WE9_006_2_0027_Name^,^Thunder Titan Crossbow^
+^WE8_007_2_0028_Name^,^Earth Titan Lance^
+^WE9_055_2_0001_Name^,^Yorminsul's Exalted Crossbow^
+^WE8_055_2_0002_Name^,^Yorminsul's Exalted Lance^
+^WE9_055_2_0003_Name^,^Nerhes's Development Crossbow^
+^WE8_055_2_0004_Name^,^Nerhes's Development Lance^
 ^WE0_SUMMER_0_0001_Name^,^Ice Cream Sword^
 ^WE4_SUMMER_0_0002_Name^,^Ice Cream Dagger^
 ^WE6_SUMMER_0_0003_Name^,^Ice Cream Staff^
-^WE1_SUMMER_0_0004_Name^,^Ice Cream GreatSword^
+^WE1_SUMMER_0_0004_Name^,^Ice Cream Greatsword^
 ^WE5_SUMMER_0_0005_Name^,^Ice Cream Scepter^
-^WE7_812_0_2151_Name^,^Executioner Shortbow^
-^WE7_822_0_2251_Name^,^Legendary Shortbow^
-^WE7_823_0_3251_Name^,^Veteran Shortbow^
-^WE7_711_0_1101_Name^,^Copper Shortbow^
-^WE7_721_0_2201_Name^,^Steel Shortbow^
-^WE7_722_0_2201_Name^,^Tempered Steel Shortbow^
-^WE7_731_0_3301_Name^,^Mithril Shortbow^
-^WE7_732_0_3301_Name^,^Tempered Mithril Shortbow^
-^WE7_733_0_3301_Name^,^Shining Mithril Shortbow^
-^WE7_733_0_3351_Name^,^Shining Tempered Mithril Shortbow^
-^WE7_733_0_3401_Name^,^Shining Turalium Shortbow^
-^pvpWE7_001_2_2528_Name^,^Modest Hunter Shortbow^
-^pvpWE7_001_2_3033_Name^,^Austere Hunter Shortbow^
-^pvpWE7_001_2_3538_Name^,^Complex Hunter Shortbow^
-^pvpWE7_001_2_4043_Name^,^Ornate Hunter Shortbow^
-^WE7_009_0_4001_Name^,^Noir Trapani Shortbow^
-^WE7_003_0_3502_Name^,^Merumi Chieftain's Shortbow^
-^WE7_015_0_2171_RE_Name^,^Shortbow of Hope I^
-^WE7_015_0_2151_RE_Name^,^Shortbow of Hope II^
-^WE7_015_0_1201_RE_Name^,^Shortbow of Hope III^
-^WE7_016_0_2251_RE_Name^,^Shortbow of Hope IV^
-^WE7_002_0_1141_RE_Name^,^Shortbow of Hope V^
-^WE7_018_0_2301_RE_Name^,^Shortbow of Hope VI^
-^WE7_019_0_2351_RE_Name^,^Shortbow of Hope VII^
-^WE7_045_0_4502_RE_Name^,^Shortbow of Hope VIII^
-^WE7_050_0_5002_RE_Name^,^Shortbow of Hope IX^
-^WE7_001_0_2101_EV1_Name^,^Hero's Shortbow I^
-^WE7_002_0_2102_EV1_Name^,^Hero's Shortbow II^
-^WE7_015_0_2151_EV1_Name^,^Hero's Shortbow III^
-^WE7_004_0_2202_EV1_Name^,^Hero's Shortbow IV^
-^WE7_018_0_3281_EV1_Name^,^Hero's Shortbow V^
-^WE7_010_0_3282_EV1_Name^,^Hero's Shortbow VI^
-^WE7_009_0_3301_EV1_Name^,^Hero's Shortbow VII^
-^WE7_008_0_3351_EV1_Name^,^Hero's Shortbow VIII^
-^WE7_045_1_4501_Name^,^Royal Guard's Shortbow^
-^WE7_045_0_4501_Name^,^Alseik Guard Shortbow^
-^WE7_045_0_4502_Name^,^Griffon Knight Shortbow^
-^WE7_045_8_4501_Name^,^Mohaba Mercenary Shortbow^
-^WE7_045_3_4501_Name^,^Ruins Guard Shortbow^
-^WE7_045_3_4502_Name^,^Khabimist Shortbow^
-^WE7_050_1_5001_Name^,^Capital Commander's Shortbow^
-^WE7_050_8_5001_Name^,^Desert Braghin Shortbow^
-^WE7_050_3_5001_Name^,^Dark LegionOfficer's Shortbow^
-^WE7_050_0_5002_Name^,^Hermit's Shortbow^
-^WE7_050_3_5002_Name^,^Tyrant's Shortbow^
-^pvpWE7_001_2_4564_Name^,^Modest Slayer Shortbow^
-^pvpWE7_001_2_5069_Name^,^Austere Slayer Shortbow^
-^WE7_045_3_4502_CR_Name^,^Shining Adamantite Shortbow^
-^WE7_050_3_5002_CR_Name^,^Shining Tempered Adamantite Shortbow^
-^WE7_050_3_5003_Name^,^Blessed Tyrant's Shortbow^
-^WE7_XMAS_0_2103_Name^,^Christmas Shortbow^
-^WE7_504_2103_Name^,^Ellora Shortbow^
-^WE7_ev1_1_2103_Name^,^(PC Cafe) Karasha Shortbow (6 hours)^
-^WE7_ev1_2_2103_Name^,^(PC Cafe) Karasha Shortbow (1 day)^
-^WE7_001_0_2101_EV2_Name^,^Hero's Shortbow I^
+^WE7_812_0_2151_Name^,^Executioner Bow^
+^WE7_822_0_2251_Name^,^Fabled Bow^
+^WE7_823_0_3251_Name^,^Veteran's Bow^
+^WE7_711_0_1101_Name^,^Copper Bow^
+^WE7_721_0_2201_Name^,^Steel Bow^
+^WE7_722_0_2201_Name^,^Tempered Steel Bow^
+^WE7_731_0_3301_Name^,^Mithril Bow^
+^WE7_732_0_3301_Name^,^Tempered Mithril Bow^
+^WE7_733_0_3301_Name^,^Shining Mithril Bow^
+^WE7_733_0_3351_Name^,^Shining Tempered Mithril Bow^
+^WE7_733_0_3401_Name^,^Shining Turalium Bow^
+^pvpWE7_001_2_2528_Name^,^Modest Hunter Bow^
+^pvpWE7_001_2_3033_Name^,^Austere Hunter Bow^
+^pvpWE7_001_2_3538_Name^,^Complex Hunter Bow^
+^pvpWE7_001_2_4043_Name^,^Ornate Hunter Bow^
+^WE7_009_0_4001_Name^,^Tranua Bow^
+^WE7_003_0_3502_Name^,^Merumi Chieftain Bow^
+^WE7_015_0_2171_RE_Name^,^Bow of Hope I^
+^WE7_015_0_2151_RE_Name^,^Bow of Hope II^
+^WE7_015_0_1201_RE_Name^,^Bow of Hope III^
+^WE7_016_0_2251_RE_Name^,^Bow of Hope IV^
+^WE7_002_0_1141_RE_Name^,^Bow of Hope V^
+^WE7_018_0_2301_RE_Name^,^Bow of Hope VI^
+^WE7_019_0_2351_RE_Name^,^Bow of Hope VII^
+^WE7_045_0_4502_RE_Name^,^Bow of Hope VIII^
+^WE7_050_0_5002_RE_Name^,^Bow of Hope IX^
+^WE7_001_0_2101_EV1_Name^,^Hero's Bow I^
+^WE7_002_0_2102_EV1_Name^,^Hero's Bow II^
+^WE7_015_0_2151_EV1_Name^,^Hero's Bow III^
+^WE7_004_0_2202_EV1_Name^,^Hero's Bow IV^
+^WE7_018_0_3281_EV1_Name^,^Hero's Bow V^
+^WE7_010_0_3282_EV1_Name^,^Hero's Bow VI^
+^WE7_009_0_3301_EV1_Name^,^Hero's Bow VII^
+^WE7_008_0_3351_EV1_Name^,^Hero's Bow VIII^
+^WE7_045_1_4501_Name^,^Capital Guard Bow^
+^WE7_045_0_4501_Name^,^Alseik Guard Bow^
+^WE7_045_0_4502_Name^,^Griffin Knight Bow^
+^WE7_045_8_4501_Name^,^Mohaba Mercenary Bow^
+^WE7_045_3_4501_Name^,^Ruins Guard Bow^
+^WE7_045_3_4502_Name^,^Khabimist Bow^
+^WE7_050_1_5001_Name^,^Capital Commander's Bow^
+^WE7_050_8_5001_Name^,^Desert Braghin Bow^
+^WE7_050_3_5001_Name^,^Despot's Bow^
+^WE7_050_0_5002_Name^,^Hermit's Bow^
+^WE7_050_3_5002_Name^,^Tyrant's Bow^
+^pvpWE7_001_2_4564_Name^,^Modest Slayer Bow^
+^pvpWE7_001_2_5069_Name^,^Austere Slayer Bow^
+^WE7_045_3_4502_CR_Name^,^Shining Adamantite Bow^
+^WE7_050_3_5002_CR_Name^,^Shining Tempered Adamantite Bow^
+^WE7_050_3_5003_Name^,^Blessed Tyrant's Bow^
+^WE7_XMAS_0_2103_Name^,^Ellandfel Bow^
+^WE7_504_2103_Name^,^Exalted Bow^
+^WE7_ev1_1_2103_Name^,^TEMP - Not Used^
+^WE7_ev1_2_2103_Name^,^TEMP - Not Used^
+^WE7_001_0_2101_EV2_Name^,^Hero's Bow I^
 ^WE7_002_0_2102_EV2_Name^,^Hero's Bow II^
-^WE7_015_0_2151_EV2_Name^,^Hero's Shortbow III^
-^WE7_004_0_2202_EV2_Name^,^Hero's Shortbow IV^
-^WE7_018_0_3281_EV2_Name^,^Hero's Shortbow V^
-^WE7_010_0_3282_EV2_Name^,^Hero's Shortbow VI^
-^WE7_009_0_3301_EV2_Name^,^Hero's Shortbow VII^
-^WE7_008_0_3351_EV2_Name^,^Hero's Shortbow VIII^
-^WE7_002_0_0002_Name^,^Ronua Infantry Shortbow^
-^WE7_002_0_0009_Name^,^Elgaden Officer's Shortbow^
-^WE7_002_0_0016_Name^,^Ravager's Shortbow^
-^WE7_002_0_0023_Name^,^Chaos Shortbow^
-^WE7_002_0_0002_CR_Name^,^Dragonium Shortbow^
-^WE7_018_0_2301_RE2_Name^,^Shortbow of Hope VI^
-^WE7_019_0_2351_RE2_Name^,^Shortbow of Hope VII^
-^WE7_050_0_5002_RE2_Name^,^Shortbow of Hope IX^
-^WE7_ev1_3_2103_Name^,^(Quest) Karasha Shortbow (14 Days)^
-^WE7_ev1_4_2103_Name^,^(Event) Karasha Shortbow (30 Days)^
-^WE7_ev2_3_2103_Name^,^Karasha Shortbow (14 Days)^
-^WE7_002_1_0023_Name^,^Blessed Chaos Shortbow^
-^boxwe7_002_0_1151_Name^,^Infantry Shortbow^
-^boxwe7_015_0_2151_Name^,^Marauder Shortbow^
-^boxwe7_015_0_1201_Name^,^Battle-hardened Shortbow^
-^boxwe7_004_0_2201_Name^,^Vampire Shortbow^
-^boxwe7_004_0_1251_Name^,^Officer's Shortbow^
-^boxwe7_016_0_2251_Name^,^Firmament Shortbow^
-^boxwe7_016_0_1301_Name^,^Squire's Shortbow^
-^boxwe7_018_0_2301_Name^,^Merumi Shortbow^
+^WE7_015_0_2151_EV2_Name^,^Hero's Bow III^
+^WE7_004_0_2202_EV2_Name^,^Hero's Bow IV^
+^WE7_018_0_3281_EV2_Name^,^Hero's Bow V^
+^WE7_010_0_3282_EV2_Name^,^Hero's Bow VI^
+^WE7_009_0_3301_EV2_Name^,^Hero's Bow VII^
+^WE7_008_0_3351_EV2_Name^,^Hero's Bow VIII^
+^WE7_002_0_0002_Name^,^Ronua Infantry Bow^
+^WE7_002_0_0009_Name^,^Elgaden Officer's Bow^
+^WE7_002_0_0016_Name^,^Ravager Bow^
+^WE7_002_0_0023_Name^,^Chaotic Bow^
+^WE7_002_0_0002_CR_Name^,^Dragonium Bow^
+^WE7_018_0_2301_RE2_Name^,^Bow of Hope VI^
+^WE7_019_0_2351_RE2_Name^,^Bow of Hope VII^
+^WE7_050_0_5002_RE2_Name^,^Bow of Hope IX^
+^WE7_ev1_3_2103_Name^,^(Quest) Karasha Bow (14 Day)^
+^WE7_ev1_4_2103_Name^,^(Event) Karasha Bow (30 Day)^
+^WE7_ev2_3_2103_Name^,^Karasha Bow (14 Day)^
+^WE7_002_1_0023_Name^,^Blessed Chaotic Bow^
+^boxwe7_002_0_1151_Name^,^Infantry Bow^
+^boxwe7_015_0_2151_Name^,^Marauder Bow^
+^boxwe7_015_0_1201_Name^,^Battle-hardened Bow^
+^boxwe7_004_0_2201_Name^,^Vampire Bow^
+^boxwe7_004_0_1251_Name^,^Officer's Bow^
+^boxwe7_016_0_2251_Name^,^Firmament Bow^
+^boxwe7_016_0_1301_Name^,^Squire's Bow^
+^boxwe7_018_0_2301_Name^,^Merumi Bow^
 ^boxwe7_812_0_2151_Name^,^Executioner Bow^
-^boxwe7_822_0_2251_Name^,^Legendary Shortbow^
-^boxwe7_823_0_3251_Name^,^Veteran's Shortbow^
-^boxwe7_018_0_2301_EV_Name^,^Merumi Shortbow^
-^BX_we7_019_0_2351_Name^,^Simple Crescent Merchant Shortbow^
-^BX_we7_009_0_3301_Name^,^Keen Crescent Merchant Shortbow^
-^BX_we7_011_0_2402_Name^,^Tempered Crescent Merchant Shortbow^
-^BX_we7_008_0_3351_Name^,^Shining Crescent Merchant Shortbow^
-^WE7_015_0_2151_EV_Name^,^Marauding Knight's Shortbow^
-^WE7_015_0_2151_Name^,^Marauder Shortbow^
+^boxwe7_822_0_2251_Name^,^Fabled Bow^
+^boxwe7_823_0_3251_Name^,^Veteran's Bow^
+^boxwe7_018_0_2301_EV_Name^,^Merumi Bow^
+^BX_we7_019_0_2351_Name^,^Simple Crescent Merchant Bow^
+^BX_we7_009_0_3301_Name^,^Keen Crescent Merchant Bow^
+^BX_we7_011_0_2402_Name^,^Tempered Crescent Merchant Bow^
+^BX_we7_008_0_3351_Name^,^Shining Crescent Merchant Bow^
+^WE7_015_0_2151_EV_Name^,^Marauding Knight's Bow^
+^WE7_015_0_2151_Name^,^Marauder Bow^
 ^WE0_ca1_4_2103_Name^,^(rental) Karasha Sword (7 days)^
 ^WE4_ca1_4_2103_Name^,^(rental) Karasha Dagger (7 days)^
 ^WE6_ca1_4_2103_Name^,^(rental) Karasha Staff (7 days)^
 ^WE1_ca1_4_2103_Name^,^(rental) Karasha GreatSword (7 days)^
 ^WE5_ca1_4_2103_Name^,^(rental) Karasha Scepter (7 days)^
 ^WE7_ca1_4_2103_Name^,^(rental) Karasha Shortbow (7 days)^
-^WE7_009_0_3501_Name^,^Ruinous Shortbow^
+^WE7_009_0_3501_Name^,^Ruinous Bow^
 ^WE0_ev2_4_2103_Name^,^Karasha Hope Sword (30 days)^
 ^WE4_ev2_4_2103_Name^,^Karasha Hope Dagger (30 days)^
 ^WE6_ev2_4_2103_Name^,^Karasha Hope Staff (30 days)^
 ^WE1_ev2_4_2103_Name^,^Karasha Hope GreatSword (30 days)^
 ^WE5_ev2_4_2103_Name^,^Karasha Hope Scepter (30 days)^
 ^WE7_ev2_4_2103_Name^,^Karasha Hope Shortbow (30 days)^
-^we7_009_0_3401_Name^,^Chieftain Keron's Shortbow^
-^WE9_504_2106_Name^,^Awakened Attaius's Crossbow^
-^WE8_504_2106_Name^,^Awakened Attaius's Lance^
-^pvpWE0_001_2_5569_Name^,^Embellished Slayer Sword^
-^pvpWE4_001_2_5569_Name^,^Embellished Slayer Dagger^
-^pvpWE6_001_2_5569_Name^,^Embellished Slayer Staff^
-^pvpWE1_001_2_5569_Name^,^Embellished Slayer GreatSword^
-^pvpWE5_001_2_5569_Name^,^Embellished Slayer Scepter^
-^pvpWE7_001_2_5569_Name^,^Embellished Slayer Shortbow^
-^pvpWE9_002_2_5569_Name^,^Embellished Slayer Crossbow^
-^pvpWE8_002_2_5569_Name^,^Embellished Slayer Lance^
+^we7_009_0_3401_Name^,^Chieftain Keron Bow^
+^WE9_504_2106_Name^,^Awk Attaius Crossbow^
+^WE8_504_2106_Name^,^Awk Attaius Lance^
+^pvpWE0_001_2_5569_Name^,^Complex Slayer Sword^
+^pvpWE4_001_2_5569_Name^,^Complex Slayer Dagger^
+^pvpWE6_001_2_5569_Name^,^Complex Slayer Staff^
+^pvpWE1_001_2_5569_Name^,^Complex Slayer Greatsword^
+^pvpWE5_001_2_5569_Name^,^Complex Slayer Scepter^
+^pvpWE7_001_2_5569_Name^,^Complex Slayer Bow^
+^pvpWE9_002_2_5569_Name^,^Complex Slayer Crossbow^
+^pvpWE8_002_2_5569_Name^,^Complex Slayer Lance^
 ^WE0_015_0_2110_Name^,^Golden Karasha Sword Costume Test^
 ^WE4_002_0_2110_Name^,^Golden Karasha Dagger Costume Test^
 ^WE6_011_0_2110_Name^,^Golden Karasha Staff Costume Test^
@@ -1859,9 +1859,9 @@ t_key,t_korean
 ^pvpWE0_001_3_5569_Name^,^Manastone Master Sword^
 ^pvpWE4_001_3_5569_Name^,^Manastone Master Dagger^
 ^pvpWE6_001_3_5569_Name^,^Manastone Master Staff^
-^pvpWE1_001_3_5569_Name^,^Manastone Master GreatSword^
+^pvpWE1_001_3_5569_Name^,^Manastone Master Greatsword^
 ^pvpWE5_001_3_5569_Name^,^Manastone Master Scepter^
-^pvpWE7_001_3_5569_Name^,^Manastone Master Shortbow^
+^pvpWE7_001_3_5569_Name^,^Manastone Master Bow^
 ^pvpWE9_002_3_5569_Name^,^Manastone Master Crossbow^
 ^pvpWE8_002_3_5569_Name^,^Manastone Master Lance^
 ^WE0_ca2_4_2103_Name^,^(rental) Karasha Sword (1 day)^
@@ -1870,47 +1870,47 @@ t_key,t_korean
 ^WE1_ca2_4_2103_Name^,^(rental) Karasha GreatSword (1 day)^
 ^WE5_ca2_4_2103_Name^,^(rental) Karasha Scepter (1 day)^
 ^WE7_ca2_4_2103_Name^,^(rental) Karasha Shortbow (1 day)^
-^WE0_001_1_6000_Name^,^Jatulan Guards Sword^
-^WE4_002_1_6000_Name^,^Jatulan Guards Dagger^
-^WE6_003_1_6000_Name^,^Jatulan Guards Staff^
-^WE1_004_1_6000_Name^,^Jatulan Guards GreatSword^
-^WE5_005_1_6000_Name^,^Jatulan Guards Scepter^
-^WE7_005_1_6000_Name^,^Jatulan Guards Shortbow^
-^WE0_001_2_6001_Name^,^Red Revolutionaries' Sword^
-^WE4_002_2_6002_Name^,^Red Revolutionaries' Dagger^
-^WE6_003_2_6002_Name^,^Red Revolutionaries' Staff^
-^WE1_004_2_6002_Name^,^Red Revolutionaries' GreatSword^
-^WE5_005_2_6002_Name^,^Red Revolutionaries' Scepter^
-^WE7_005_2_6000_Name^,^Red Revolutionaries' Shortbow^
-^WE0_001_3_6000_Name^,^Hallucination Sword^
-^WE4_002_3_6000_Name^,^Hallucination Dagger^
-^WE6_003_3_6000_Name^,^Hallucination Two-handed Wand^
-^WE1_004_3_6000_Name^,^Hallucination GreatSword^
-^WE5_005_3_6000_Name^,^Hallucination Scepter^
-^WE7_006_3_6000_Name^,^Hallucination Shortbow^
-^WE0_001_3_6001_Name^,^Blessed Deep Green Sword^
-^WE4_002_3_6001_Name^,^Blessed Deep Green Dagger^
-^WE6_003_3_6001_Name^,^Blessed Deep Green Staff^
-^WE1_004_3_6001_Name^,^Blessed Deep Green GreatSword^
-^WE5_005_3_6001_Name^,^Blessed Deep Green Scepter^
-^WE7_006_3_6001_Name^,^Blessed Deep Green Shortbow^
-^WE9_006_3_6000_Name^,^Blessed Deep Green Crossbow^
-^WE8_007_3_6000_Name^,^Blessed Deep Green Lance^
-^WE0_001_3_6002_Name^,^Deep Green Sword^
-^WE4_002_3_6002_Name^,^Deep Green Dagger^
-^WE6_003_3_6002_Name^,^Deep Green Staff^
-^WE1_004_3_6002_Name^,^Deep Green GreatSword^
-^WE5_005_3_6002_Name^,^Deep Green Scepter^
-^WE7_006_3_6002_Name^,^Deep Green Shortbow^
-^WE9_006_2_6000_Name^,^Red Revolutionaries' Crossbow^
-^WE8_007_2_6000_Name^,^Red Revolutionaries' Lance^
-^WE9_006_3_6001_Name^,^Deep Green Crossbow^
-^WE8_007_3_6001_Name^,^Deep Green Lance^
-^WE0_001_5_6001_Name^,^Demon Zelnaris Sword^
-^WE4_002_5_6001_Name^,^Demon Zelnaris Dagger^
-^WE6_003_5_6001_Name^,^Demon Zelnaris Staff^
-^WE1_004_5_6001_Name^,^Demon Zelnaris GreatSword^
-^WE5_005_5_6001_Name^,^Demon Zelnaris Scepter^
-^WE7_006_5_6001_Name^,^Demon Zelnaris Shortbow^
-^WE9_006_5_6000_Name^,^Demon Zelnaris Crossbow^
-^WE8_007_5_6000_Name^,^Demon Zelnaris Lance^
+^WE0_001_1_6000_Name^,^Jatulan Guard Sword^
+^WE4_002_1_6000_Name^,^Jatulan Guard Dagger^
+^WE6_003_1_6000_Name^,^Jatulan Guard Staff^
+^WE1_004_1_6000_Name^,^Jatulan Guard Greatsword^
+^WE5_005_1_6000_Name^,^Jatulan Guard Scepter^
+^WE7_005_1_6000_Name^,^Jatulan Guard Bow^
+^WE0_001_2_6001_Name^,^Red Revolutionary Sword^
+^WE4_002_2_6002_Name^,^Red Revolutionary Dagger^
+^WE6_003_2_6002_Name^,^Red Revolutionary Staff^
+^WE1_004_2_6002_Name^,^Red Revolutionary Greatsword^
+^WE5_005_2_6002_Name^,^Red Revolutionary Scepter^
+^WE7_005_2_6000_Name^,^Red Revolutionary Bow^
+^WE0_001_3_6000_Name^,^Illusion Sword^
+^WE4_002_3_6000_Name^,^Illusion Dagger^
+^WE6_003_3_6000_Name^,^Illusion Staff^
+^WE1_004_3_6000_Name^,^Illusion Greatsword^
+^WE5_005_3_6000_Name^,^Illusion Scepter^
+^WE7_006_3_6000_Name^,^Illusion Bow^
+^WE0_001_3_6001_Name^,^Blessed Forest Sword^
+^WE4_002_3_6001_Name^,^Blessed Forest Dagger^
+^WE6_003_3_6001_Name^,^Blessed Forest Staff^
+^WE1_004_3_6001_Name^,^Blessed Forest Greatsword^
+^WE5_005_3_6001_Name^,^Blessed Forest Scepter^
+^WE7_006_3_6001_Name^,^Blessed Forest Bow^
+^WE9_006_3_6000_Name^,^Blessed Forest Crossbow^
+^WE8_007_3_6000_Name^,^Blessed Forest Lance^
+^WE0_001_3_6002_Name^,^Forest Sword^
+^WE4_002_3_6002_Name^,^Forest Dagger^
+^WE6_003_3_6002_Name^,^Forest Staff^
+^WE1_004_3_6002_Name^,^Forest Greatsword^
+^WE5_005_3_6002_Name^,^Forest Scepter^
+^WE7_006_3_6002_Name^,^Forest Bow^
+^WE9_006_2_6000_Name^,^Red Revolutionary Crossbow^
+^WE8_007_2_6000_Name^,^Red Revolutionary Lance^
+^WE9_006_3_6001_Name^,^Forest Crossbow^
+^WE8_007_3_6001_Name^,^Forest Lance^
+^WE0_001_5_6001_Name^,^Zelnaris Sword^
+^WE4_002_5_6001_Name^,^Zelnaris Dagger^
+^WE6_003_5_6001_Name^,^Zelnaris Staff^
+^WE1_004_5_6001_Name^,^Zelnaris Greatsword^
+^WE5_005_5_6001_Name^,^Zelnaris Scepter^
+^WE7_006_5_6001_Name^,^Zelnaris Bow^
+^WE9_006_5_6000_Name^,^Zelnaris Crossbow^
+^WE8_007_5_6000_Name^,^Zelnaris Lance^

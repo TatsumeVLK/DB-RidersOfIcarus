@@ -23,6 +23,7 @@
                         <img src="../imgs/favicon.png" class="foto" id="itemIcone" />
                         <div id="divStatus">
                             <p><span id="statusPrincipal" class="espaco"></span></p>
+                            <br>
                             <p><span id="statusSecundario" class="espaco"></span></p>
                         </div>
                     </div>
@@ -84,7 +85,7 @@
                             <p id="seteffect1" class="cinza">Set Effects(0)</p>
                             <div class="espacoentre"><span id="t_seteffect1_effect1" class="efeitoset cinza"></span><span id="t_seteffect1_effect2" class="efeitoset cinza"></span></div>
                             <div class="espacoentre"><span id="t_seteffect1_effect3" class="efeitoset cinza"></span><span id="t_seteffect1_effect4" class="efeitoset cinza"></span></div>
-                            <span id="t_seteffect1_skill cinza" class="skillset cinza"></span>
+                                <span id="t_seteffect1_skill" class="skillset cinza"></span>
                         </div>
                         <div id="hasseteffect2"> <!-- Se seteffect2_count for maior que 0, vai mostrar essa div -->
                             <p id="seteffect2" class="cinza">Set Effects(0)</p>
@@ -139,7 +140,7 @@
                     <p id="durationtime" class="espaco4">00days 00hours 00min 00sec</p>
                 </div>
                 <div>
-                    <p class="espaco2">Itemdata_acessory.csv | Code:</p>
+                    <p class="espaco2" id="textCodigoItem"></p>
                     <textarea id="codigoItem"></textarea>
                     <br>
                     <div class="butoescodigo espaco">
@@ -147,7 +148,7 @@
                         <button id="botaoVoltar" class="espaco2" onclick="voltarCodigo()">Reset code</button>
                     </div>
                     <p></p>
-                    <p class="espaco2">localstringdata_item_accessory.csv or localstringdata_item_accessory_02 | Code:</p>
+                    <p class="espaco2" id="textNomeDoItemTraduzido"></p>
                     <textarea id="nomedoItemtraduzido" readonly></textarea>
                 </div>
             </div>
