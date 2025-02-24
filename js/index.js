@@ -14,11 +14,13 @@ function verPagina(pagina, type) {
     if (!iframe.src.endsWith(pagina)) {
         mudarPagina(pagina)
         iframe.onload = function () {
-            if (iframe.contentWindow.mudarType) {
-                iframe.contentWindow.mudarType(type);
-            } else {
-                console.log("Erro: Function mudarType not found.");
-            }
+            setTimeout(() => {
+                if (iframe.contentWindow.mudarType) {
+                    iframe.contentWindow.mudarType(type);
+                } else {
+                    console.log("Erro: Function mudarType not found.");
+                }
+            }, 1000);
         }
     } else {
         iframe.contentWindow.mudarType(type);
