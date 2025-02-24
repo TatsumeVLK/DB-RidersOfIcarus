@@ -4,18 +4,24 @@
 const buttonItems = [
     "../database/button/itemdata_accessory.csv",
     "../database/button/itemdata_armor.csv",
-    "../database/button/itemdata_weapon.csv"
+    "../database/button/itemdata_weapon.csv",
+    "../database/button/itemdata_bracelet.csv",
+    "../database/button/itemdata_relic.csv"
 ]
 const buttonIcons = [
-    "../database/itemdata/itemres_accessory.csv",
-    "../database/itemdata/itemres_armor.csv",
-    "../database/itemdata/itemres_weapon.csv"
+    "../database/itemres/itemres_accessory.csv",
+    "../database/itemres/itemres_armor.csv",
+    "../database/itemres/itemres_weapon.csv",
+    "../database/itemres/itemres_bracelet.csv",
+    "../database/itemres/itemres_relic.csv"
 ]
 
 const itemInformations = [
     "../database/itemdata/itemdata_accessory.csv",
     "../database/itemdata/itemdata_armor.csv",
-    "../database/itemdata/itemdata_weapon.csv"
+    "../database/itemdata/itemdata_weapon.csv",
+    "../database/itemdata/itemdata_bracelet.csv",
+    "../database/itemdata/itemdata_relic.csv"
 ]
 
 const itemTranslations = [
@@ -24,12 +30,14 @@ const itemTranslations = [
     "../database/translate/localstringdata_item_armor.csv",
     "../database/translate/localstringdata_item_armor_02.csv",
     "../database/translate/localstringdata_item_weapon.csv",
-    "../database/translate/localstringdata_item_weapon_02.csv"
+    "../database/translate/localstringdata_item_weapon_02.csv",
+    "../database/translate/localstringdata_item_bracelet.csv",
+    "../database/translate/localstringdata_item_event.csv"
 ];
 const skillTranslations = [
     "../database/translate/localstringdata_skill.csv"
 ]
-const effectsTranslation = "../database/translate/minhatraducao.csv"
+const effectsTranslation = "../database/custom/minhatraducao.csv"
 
 
 let buttonType = "ne"
@@ -58,15 +66,41 @@ function defaultItem(id) {
     document.getElementById("codigoItem").value = Object.values(item).join(";");
     codigoOriginal = Object.values(item).join(";");
 }
-
-// ------------------ //
-// Carrega a Arquivos //
-// ------------------ //
-
+// ------------------- //
+// Carrega os Arquivos //
+// ------------------- //
 function formatSkillText(text) {
-    return text.replace(/<UI_P>(.*?)<\/ui_p>/g, ' <p class="fellow"> $1 </p> ');
-}
+    const patterns = [
+        { regex: /<UI_P>(.*?)<\/UI_P>/g, replacement: '<span class="fellow" style="display: inline-block; padding-left: 5px;">$1</span>' },
+        { regex: /<UI_P>(.*?)<\/ui_p>/g, replacement: '<span class="fellow" style="display: inline-block; padding-left: 5px;">$1</span>' },
+        { regex: /<ui_p>(.*?)<\/UI_P>/g, replacement: '<span class="fellow" style="display: inline-block; padding-left: 5px;">$1</span>' },
+        { regex: /<ui_p>(.*?)<\/ui_p>/g, replacement: '<span class="fellow" style="display: inline-block; padding-left: 5px;">$1</span>' },
+        { regex: /<Y_Y>(.*?)<\/Y_Y>/g, replacement: '<span class="red" style="display: inline-block; padding-left: 5px;">$1</span>' },
+        { regex: /<Y_Y>(.*?)<\/y_y>/g, replacement: '<span class="red" style="display: inline-block; padding-left: 5px;">$1</span>' },
+        { regex: /<y_y>(.*?)<\/y_y>/g, replacement: '<span class="red" style="display: inline-block; padding-left: 5px;">$1</span>' },
+        { regex: /<y_y>(.*?)<\/Y_Y>/g, replacement: '<span class="red" style="display: inline-block; padding-left: 5px;">$1</span>' },
+        { regex: /<O_Y>(.*?)<\/O_Y>/g, replacement: '<span class="orange" style="display: inline-block; padding-left: 5px;">$1</span>' }
+    ];
 
+    patterns.forEach(({ regex, replacement }) => {
+        text = text.replace(regex, replacement);
+    });
+
+    return text;
+}
+function formatDescText(text) {
+    const patterns = [
+        { regex: /<UI_P>(.*?)<\/UI_P>/g, replacement: '<span class="lime" style="display: inline-block;">$1</span>' },
+        { regex: /<R_Y>(.*?)<\/R_Y>/g, replacement: '<span class="red" style="display: inline-block;">$1</span>' },
+        { regex: /<O_Y>(.*?)<\/O_Y>/g, replacement: '<span class="orange" style="display: inline-block;">$1</span>' }
+    ];
+
+    patterns.forEach(({ regex, replacement }) => {
+        text = text.replace(regex, replacement);
+    });
+
+    return text;
+}
 async function carregarTraducoes() {
     const promessas = itemTranslations.map(arquivo =>
         fetch(arquivo + "?nocache=" + new Date().getTime())
@@ -84,13 +118,13 @@ async function carregarTraducoes() {
                     let id = row.t_key.replace(/^(\^)|(\^$)/g, "");
                     let textoTraduzido = row.t_korean.replace(/\^/g, "").trim();
 
-                    if (id.endsWith("_Name")) {
-                        id = id.replace("_Name", "");
+                    if (id.endsWith("_Name") || id.endsWith("_name")) {
+                        id = id.replace(/_Name/gi, "");
                         mapaDeTraducoes[id] = { nome: textoTraduzido };
                     } else if (id.endsWith("_Description")) {
                         id = id.replace("_Description", "");
                         if (!mapaDeTraducoes[id]) mapaDeTraducoes[id] = {};
-                        mapaDeTraducoes[id].descricao = textoTraduzido.replace(/<[^>]+>/g, "").trim()
+                        mapaDeTraducoes[id].descricao = textoTraduzido.replace(/\^/g, "").trim()
                     }
                 })
             })
@@ -99,7 +133,6 @@ async function carregarTraducoes() {
 
     await Promise.all(promessas);
 }
-
 async function carregarSkillTraducoes(skillId) {
     for (const file of skillTranslations) {
         try {
@@ -123,7 +156,6 @@ async function carregarSkillTraducoes(skillId) {
     }
     return "";
 }
-
 async function carregarEffectTranslations() {
     if (Object.keys(effectObj).length > 0) {
         return;
@@ -139,7 +171,6 @@ async function carregarEffectTranslations() {
         }
     });
 }
-
 async function carregarSetNameTranslations() {
     const response = await fetch("../database/translate/localstringdata_item_setitem.csv" + "?nocache=" + new Date().getTime());
     const text = await response.text();
@@ -152,12 +183,10 @@ async function carregarSetNameTranslations() {
         }
     });
 }
-
 function buscarSetName(key) {
     let normalizedKey = key.trim().toLowerCase();
     return setNameObj[normalizedKey] || key;
 }
-
 async function carregarCSV() {
     const promises = itemInformations.map(async (file) => {
         try {
@@ -205,13 +234,7 @@ async function carregarCSV() {
 
     await Promise.all(promises);
 }
-
 async function carregarIconeDoItem(itemID) {
-    if (buttonIiconsObj[itemID]) {
-        atualizarIcone(buttonIiconsObj[itemID]);
-        return;
-    }
-
     let iconeEncontrado = null;
 
     for (let file of buttonIcons) {
@@ -237,20 +260,94 @@ async function carregarIconeDoItem(itemID) {
 
     atualizarIcone(iconeEncontrado);
 }
-
-function atualizarIcone(icon) {
-    let imgElement = document.getElementById("itemIcone");
-    if (buttonType == "ne" || buttonType == "ri") {
-        imgElement.src = icon ? `../imgs/Accessory/${icon}.png` : `../imgs/favicon.png`;
-    } else if (buttonType == "ha" || buttonType == "sh" || buttonType == "ja" || buttonType == "gl") {
-        imgElement.src = icon ? `../imgs/ArmorA/${icon}.png` : `../imgs/favicon.png`;
-    } else if (buttonType == "bo") {
-        imgElement.src = icon ? `../imgs/ArmorB/${icon}.png` : `../imgs/favicon.png`;
-    } else if (buttonType == "d1" || buttonType == "s1" || buttonType == "s2" ||
-        buttonType == "m1" || buttonType == "m2" || buttonType == "W1" ||
-        buttonType == "c2" || buttonType == "b1" || buttonType == "h1" ||
-        buttonType == "h2" || buttonType == "b2" || buttonType == "l2") {
-        imgElement.src = icon ? `../imgs/Weapon/${icon}.png` : `../imgs/favicon.png`;
+function atualizarIcone(iconFileName) {
+    let img = document.getElementById("itemIcone");
+    
+    switch (buttonType) {
+        case "ne":
+            img.src = `../imgs/ne/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "ri":
+            img.src = `../imgs/ri/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "brace":
+            img.src = `../imgs/brace/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "re":
+            img.src = `../imgs/re/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "ha":
+            img.src = `../imgs/ha/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "sh":
+            img.src = `../imgs/sh/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "ja":
+            img.src = `../imgs/ja/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "gl":
+            img.src = `../imgs/gl/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "bo":
+            img.src = `../imgs/bo/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "d1":
+            img.src = `../imgs/d1/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "s1":
+            img.src = `../imgs/s1/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "s2":
+            img.src = `../imgs/s2/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "m1":
+            img.src = `../imgs/m1/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "m2":
+            img.src = `../imgs/m2/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "W1":
+            img.src = `../imgs/W1/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "c2":
+            img.src = `../imgs/c2/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "b1":
+            img.src = `../imgs/b1/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "h1":
+            img.src = `../imgs/h1/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "h2":
+            img.src = `../imgs/h2/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "b2":
+            img.src = `../imgs/b2/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
+        case "l2":
+            img.src = `../imgs/l2/${iconFileName}.png`
+            img.onerror = function() { img.src = `../imgs/favicon.png`; }
+            break;
     }
 }
 async function loadButton() {
@@ -296,19 +393,95 @@ async function loadButton() {
 
         const img = document.createElement("img");
         img.className = "item-img";
+        img.className = "img"+rarity;
         
         let iconFileName = mapaDeIcones[id] || "favicon";
-        if (buttonType == "ne" || buttonType == "ri") {
-            img.src = iconFileName ? `../imgs/Accessory/${iconFileName}.png` : `../imgs/favicon.png`;
-        } else if (buttonType == "ha" || buttonType == "sh" || buttonType == "ja" || buttonType == "gl") {
-            img.src = iconFileName ? `../imgs/ArmorA/${iconFileName}.png` : `../imgs/favicon.png`;
-        } else if (buttonType == "bo") {
-            img.src = iconFileName ? `../imgs/ArmorB/${iconFileName}.png` : `../imgs/favicon.png`;
-        } else if (buttonType == "d1" || buttonType == "s1" || buttonType == "s2" ||
-            buttonType == "m1" || buttonType == "m2" || buttonType == "W1" ||
-            buttonType == "c2" || buttonType == "b1" || buttonType == "h1" ||
-            buttonType == "h2" || buttonType == "b2" || buttonType == "l2") {
-            img.src = iconFileName ? `../imgs/Weapon/${iconFileName}.png` : `../imgs/favicon.png`;
+        
+        switch (buttonType) {
+            case "ne":
+                img.src = `../imgs/ne/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "ri":
+                img.src = `../imgs/ri/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "brace":
+                img.src = `../imgs/brace/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "re":
+                img.src = `../imgs/re/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "ha":
+                img.src = `../imgs/ha/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "sh":
+                img.src = `../imgs/sh/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "ja":
+                img.src = `../imgs/ja/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "gl":
+                img.src = `../imgs/gl/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "bo":
+                img.src = `../imgs/bo/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "d1":
+                img.src = `../imgs/d1/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "s1":
+                img.src = `../imgs/s1/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "s2":
+                img.src = `../imgs/s2/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "m1":
+                img.src = `../imgs/m1/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "m2":
+                img.src = `../imgs/m2/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "W1":
+                img.src = `../imgs/W1/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "c2":
+                img.src = `../imgs/c2/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "b1":
+                img.src = `../imgs/b1/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "h1":
+                img.src = `../imgs/h1/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "h2":
+                img.src = `../imgs/h2/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "b2":
+                img.src = `../imgs/b2/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
+            case "l2":
+                img.src = `../imgs/l2/${iconFileName}.png`
+                img.onerror = function() { img.src = `../imgs/favicon.png`; }
+                break;
         }
 
         let imgTest = new Image();
@@ -411,7 +584,9 @@ async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, co
                     traducao === "Magic Critical Damage" ||
                     traducao === "PvP Resistance" ||
                     traducao === "Physic Crit Rate"||
-                    traducao === "Magic Crit Rate") {
+                    traducao === "Magic Crit Rate" ||
+                    traducao === "Money Drop Increase" ||
+                    traducao === "Weapon Critical Damage") {
                     simbolo = "%"
                 }
                 let valorNumerico = parseFloat(valorStr);
@@ -422,7 +597,7 @@ async function atualizarSetEffect(setRow, countEffect, effectPrefix, skillId, co
 
                 let efeitoFinal = traducao;
                 if (!isNaN(valorNumerico)) {
-                    efeitoFinal += simbolo === "%" ? ` ${sinal}${valorNumerico}%` : ` ${sinal}${valorNumerico}`;
+                    efeitoFinal += simbolo === "%" ? ` ${sinal}${valorNumerico.toFixed(2)}%` : ` ${sinal}${valorNumerico}`;
                 }
 
                 effectElem.innerHTML = efeitoFinal;
@@ -552,7 +727,8 @@ async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4, max
             termoTraduzido === "PvP Resistance" ||
             termoTraduzido === "Physic Crit Rate"||
             termoTraduzido === "Magic Crit Rate" ||
-            termoTraduzido === "Money Drop Increase") {
+            termoTraduzido === "Money Drop Increase" ||
+            termoTraduzido === "Weapon Critical Damage") {
             simbolo = "%"
         } else if (termoTraduzido === "Dropped Money Total") {
             simbolo = "+"
@@ -563,9 +739,9 @@ async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4, max
         if (valorNumerico !== null) {
             let numero = parseFloat(valorNumerico);
             if (simbolo === "%" && numero > 0) {
-                efeitoFinal += ` +${numero}%`;
+                efeitoFinal += ` +${numero.toFixed(2)}%`;
             } else if (simbolo === "%" && numero < 0) {
-                efeitoFinal += ` ${numero}%`;
+                efeitoFinal += ` ${numero.toFixed(2)}%`;
             } else if (simbolo === "+") {
                 efeitoFinal += numero > 0 ? ` +${numero}` : ` ${numero}`;
             } else {
@@ -651,7 +827,7 @@ function mudarNomeDesc(id) {
     } else {
         document.getElementById("description").style.display = "block";
         document.getElementById("itemdescription").style.display = "block";
-        document.getElementById("itemdescription").innerText = descricaoItem
+        document.getElementById("itemdescription").innerHTML = formatDescText(descricaoItem)
     }
 }
 function mudarCor(rarity) {
@@ -668,27 +844,52 @@ function mudarCor(rarity) {
     let cor = coresRaridade[parseInt(rarity)] || "#ffffff";
 
     let rarityT;
-    switch (parseInt(rarity)) {
-        case 1:
-            rarityT = "Common(Normal)";
-            break;
-        case 2:
-            rarityT = "Elite(Normal)";
-            break;
-        case 3:
-            rarityT = "Heroic(Normal)";
-            break;
-        case 4:
-            rarityT = "Legendary(Normal)";
-            break;
-        case 6:
-            rarityT = "Unique(Normal)";
-            break;
-        case 7:
-            rarityT = "Mythical(Normal)";
-            break;
-        default:
-            rarityT = rarity;
+    if (buttonType != "brace") {
+        switch (parseInt(rarity)) {
+            case 1:
+                rarityT = "Common(Normal)";
+                break;
+            case 2:
+                rarityT = "Elite(Normal)";
+                break;
+            case 3:
+                rarityT = "Heroic(Normal)";
+                break;
+            case 4:
+                rarityT = "Legendary(Normal)";
+                break;
+            case 6:
+                rarityT = "Unique(Normal)";
+                break;
+            case 7:
+                rarityT = "Mythical(Normal)";
+                break;
+            default:
+                rarityT = rarity;
+        }
+    } else {
+        switch (parseInt(rarity)) {
+            case 1:
+                rarityT = "Common";
+                break;
+            case 2:
+                rarityT = "Elite";
+                break;
+            case 3:
+                rarityT = "Heroic";
+                break;
+            case 4:
+                rarityT = "Legendary";
+                break;
+            case 6:
+                rarityT = "Unique";
+                break;
+            case 7:
+                rarityT = "Mythical";
+                break;
+            default:
+                rarityT = rarity;
+        }
     }
     document.getElementById("itemRaridade").innerText = rarityT;
     document.getElementById("itemRaridade").style.color = cor;
@@ -790,6 +991,15 @@ function mudarItemType(type) {
         case "c2":
             TypeT = "Active mounted weapon";
             break;
+        case "re":
+            TypeT = "Relic"
+            break;
+        case "":
+            TypeT = "Bracelet"
+            break;
+        case "*":
+            TypeT = "Wrong Type"
+            break;
         default:
             TypeT = type;
     }
@@ -823,9 +1033,14 @@ function mudarReinforcement(reinforcementRestriction) {
         document.getElementById("temperingname").style.display = "block";
         document.getElementById("temperinglevel").innerText = "0 / " + parseInt(reinforcementRestriction);
     }
+    if (reinforcementRestriction == "brace") {
+        document.getElementById("naopodemelhorar").style.display = "none";
+        document.getElementById("temperinglevel").style.display = "none";
+        document.getElementById("temperingname").style.display = "none";
+    }
 }
 function mudarReverse(reverseReinforcementRestriction) {
-    if (parseInt(reverseReinforcementRestriction) == 0) {
+    if (parseInt(reverseReinforcementRestriction) == 0 || reverseReinforcementRestriction === "*") {
         document.getElementById("reverselevel").style.display = "none";
         document.getElementById("reversename").style.display = "none";
     } else {
@@ -834,11 +1049,13 @@ function mudarReverse(reverseReinforcementRestriction) {
         document.getElementById("reverselevel").innerText = "0 / " + parseInt(reverseReinforcementRestriction);
     }
 }
-
 function mudarDisassembly(disassemblyID) {
-    
-    if (disassemblyID == "*") {
-        document.getElementById("naopodedismantling").style.display = "block";
+    if (buttonType != "brace" && buttonType != "re") {
+        if (disassemblyID == "*") {
+            document.getElementById("naopodedismantling").style.display = "block";
+        } else {
+            document.getElementById("naopodedismantling").style.display = "none";
+        }
     } else {
         document.getElementById("naopodedismantling").style.display = "none";
     }
@@ -854,12 +1071,41 @@ function mudarUnbind(unbindCount) {
     }
 }
 function mudarRandomApp(randomOptionsApplication, minRandomOptionsQuantity, maxRandomOptionsQuantity) {
-    if (randomOptionsApplication < 1 || maxRandomOptionsQuantity < 1) {
-        document.getElementById("randomeffects").style.display = "none";
+    if (buttonType != "re") {
+        const randomeffects = document.getElementById("randomeffects");
+        const ultimoEfeito = document.getElementById("itemEfeito4").parentElement;
+    
+        if (ultimoEfeito && randomeffects) {
+            ultimoEfeito.insertAdjacentElement("afterend", randomeffects);
+        }
+
+        if (randomOptionsApplication < 1 || maxRandomOptionsQuantity < 1) {
+            document.getElementById("randomeffects").style.display = "none";
+        } else {
+            document.getElementById("randomeffects").style.display = "block";
+            document.getElementById("randomeffects").innerText = parseInt(minRandomOptionsQuantity) + " - " + parseInt(maxRandomOptionsQuantity) + " Random Effects";
+        }
     } else {
         document.getElementById("randomeffects").style.display = "block";
-        document.getElementById("efeitosaleatoriosmin").innerText = parseInt(minRandomOptionsQuantity);
-        document.getElementById("efeitosaleatoriosmax").innerText = parseInt(maxRandomOptionsQuantity);
+        const randomeffects = document.getElementById("randomeffects");
+        const primeiroEfeito = document.getElementById("itemEfeito1").parentElement;
+    
+        if (primeiroEfeito && randomeffects) {
+            primeiroEfeito.parentNode.insertBefore(randomeffects, primeiroEfeito);
+        }
+        switch (parseInt(maxRandomOptionsQuantity)) {
+            case 1:
+                document.getElementById("randomeffects").innerHTML = "Identification Required";
+                break;
+            case 2:
+                document.getElementById("randomeffects").innerHTML = "Identification Required<br>Identification Required";
+                break;
+            case 3:
+                document.getElementById("randomeffects").innerHTML = "Identification Required<br>Identification Required<br>Identification Required";
+                break;
+            default:
+                document.getElementById("randomeffects").innerHTML = "Identification Required<br>Identification Required<br>Identification Required<br>Identification Required";
+        }
     }
 }
 async function mudarEquippedEffect(skillEffect) {
@@ -871,7 +1117,7 @@ async function mudarEquippedEffect(skillEffect) {
         document.getElementById("temequipedskill").style.display = "block";
         document.getElementById("equipedskiltxt").style.display = "flex";
         document.getElementById("equipedskill").style.display = "flex";
-        skillElem.innerText = skillId.slice(0, -2).trim();
+        skillElem.innerHTML = skillId.slice(0, -2).trim();
     } else {
         document.getElementById("temequipedskill").style.display = "none";
         document.getElementById("equipedskiltxt").style.display = "none";
@@ -902,14 +1148,34 @@ function mudarUsagePeriod(usagePeriod) {
         document.getElementById("durationtime").innerText = formatarTempo(parseInt(usagePeriod))
     }
 }
+function mudarGemSlots(maxGemSlots) {
+    if (maxGemSlots > 0) {
+        document.getElementById("barragemslots").style.display = "block";
+        document.getElementById("gemslots").style.display = "block";
+        document.getElementById("gemslots").innerText = "Gem Slots " + parseInt(maxGemSlots);
+    } else {
+        document.getElementById("barragemslots").style.display = "none";
+        document.getElementById("gemslots").style.display = "none";
+    }
+}
+function mudarSoulWeapon(soul, soullevel) {
+    if (soul > 0) {
+        document.getElementById("soultext").style.display = "block";
+        document.getElementById("soultext").innerHTML = 'grant soul : 0 / ' + parseInt(soul) + ' [<span class="red" style="display: inline-block;">Soul level ' + (soullevel - 1) + '</span>]';
+    } else {
+        document.getElementById("soultext").style.display = "none";
+    }
+}
 function mudarStatusPrincipal(minPhysicalAttack, maxPhysicalAttack, physicalDefense, magicDefense) {
     if (minPhysicalAttack != "*") {
+        document.getElementById("imgInfosId").style.display = "flex";
         document.getElementById("statusPrincipal").style.display = "block";
         document.getElementById("statusSecundario").style.display = "none";
         document.getElementById("statusPrincipal").innerText = "Physical Damage " + parseInt(minPhysicalAttack) + " ~ " + parseInt(maxPhysicalAttack);
         return;
     }
     if (physicalDefense != "*") {
+        document.getElementById("imgInfosId").style.display = "flex";
         document.getElementById("statusPrincipal").style.display = "block";
         document.getElementById("statusSecundario").style.display = "block";
         document.getElementById("statusPrincipal").innerText = "Physic Defense " + parseInt(physicalDefense);
@@ -917,12 +1183,15 @@ function mudarStatusPrincipal(minPhysicalAttack, maxPhysicalAttack, physicalDefe
         return;
     }
     if (magicDefense != "*") {
+        document.getElementById("imgInfosId").style.display = "flex";
         document.getElementById("statusPrincipal").style.display = "block";
         document.getElementById("statusSecundario").style.display = "none";
         document.getElementById("statusPrincipal").innerText = "Magic Defense " + parseInt(magicDefense);
+    } 
+    if (parseInt(magicDefense) == 0) {
+        document.getElementById("imgInfosId").style.display = "none";
     }
 }
-
 /* 
 
     Atualiza os items:
@@ -962,7 +1231,7 @@ async function atualizarItemacc() {
         let maxRandomOptionsQuantity = partes[23]
         let optionsApplicationRatio = partes[24]
         let variableItem = partes[25]
-        let minimumVariableItem = partes[26]
+        let minVariableItem = partes[26]
         let maxVariableItem = partes[27]
         let reinforcementRestriction = partes[28]
         let reinforcementProbability = partes[29]
@@ -1003,6 +1272,7 @@ async function atualizarItemacc() {
         let overrisematid2 = partes[64]
         let currencySettingId = partes[65]
 
+        document.getElementById("itemIcone").style.display = "block";
         buttonType = accessoryType
         carregarIconeDoItem(id)
         mudarNomeDesc(id)
@@ -1024,14 +1294,15 @@ async function atualizarItemacc() {
         atualizarSetDiv(id);
         definePreco(precosell, cannotBeDisposed, currencySettingId)
         mudarUsagePeriod(usagePeriod)
+        mudarGemSlots(0)
+        mudarSoulWeapon(0, 0)
         
         document.getElementById("textCodigoItem").innerText = "Itemdata_acessory.csv | Code:";
         document.getElementById("textNomeDoItemTraduzido").innerText = "localstringdata_item_accessory.csv or localstringdata_item_accessory_02.csv | Code:";
     } else {
-        alert("Invalid code!, This code is for Rings or Necklace?");
+        alert("Invalid code!, This code is from a Ring or Necklace?");
     }
 }
-
 async function atualizarItemarmor() {
     let codigoBruto = document.getElementById("codigoItem").value.trim();
     if (!codigoBruto) {
@@ -1069,7 +1340,7 @@ async function atualizarItemarmor() {
         let sealedFellowEquipmentMinimumEquipmentSlotNumber = partes[27]
         let sealedFellowEquipmentMaximumEquipmentSlotNumber = partes[28]
         let variableItem = partes[29]
-        let minimumVariableItem = partes[30]
+        let minVariableItem = partes[30]
         let maxVariableItem = partes[31]
         let sealedFellowEquipmentSlotsNumber = partes[32]
         let soulstoneSlot1 = partes[33]
@@ -1110,6 +1381,7 @@ async function atualizarItemarmor() {
         let overrisematid1 = partes[68]
         let overrisematid2 = partes[69]
 
+        document.getElementById("itemIcone").style.display = "block";
         buttonType = armorType
         carregarIconeDoItem(id)
         mudarNomeDesc(id)
@@ -1131,14 +1403,15 @@ async function atualizarItemarmor() {
         atualizarSetDiv(id);
         definePreco(precosell, cannotBeDisposed, "*")
         mudarUsagePeriod(usagePeriod)
+        mudarGemSlots(0)
+        mudarSoulWeapon(0, 0)
         
         document.getElementById("textCodigoItem").innerText = "Itemdata_armor.csv | Code:";
         document.getElementById("textNomeDoItemTraduzido").innerText = "localstringdata_item_armor.csv or localstringdata_item_armor_02.csv | Code:";
     } else {
-        alert("Invalid code!, This code is for Armor?");
+        alert("Invalid code!, This code is from a Armor?");
     }
 }
-
 async function atualizarItemWeapon() {
     let codigoBruto = document.getElementById("codigoItem").value.trim();
     if (!codigoBruto) {
@@ -1192,7 +1465,7 @@ async function atualizarItemWeapon() {
         let sealedFellowEquipmentMinimumProductionSlotNumber = partes[42]
         let sealedFellowEquipmentMaximumProductionSlotNumber = partes[43]
         let productionSucessSealedSlot = partes[44]
-        let minimumVariableItem = partes[45]
+        let minVariableItem = partes[45]
         let maxVariableItem = partes[46]
         let sealedFellowEquipmentSlotsNumber = partes[47]
         let soulstoneSlot1 = partes[48]
@@ -1238,6 +1511,7 @@ async function atualizarItemWeapon() {
         let overrisematid1 = partes[88]
         let overrisematid2 = partes[89]
 
+        document.getElementById("itemIcone").style.display = "block";
         buttonType = weaponType
         carregarIconeDoItem(id)
         mudarNomeDesc(id)
@@ -1259,13 +1533,198 @@ async function atualizarItemWeapon() {
         atualizarSetDiv(id);
         definePreco(precosell, cannotBeDisposed, "*")
         mudarUsagePeriod(usagePeriod)
+        mudarGemSlots(0)
+        mudarSoulWeapon(chargeMax, chargeWeapon)
         
         document.getElementById("textCodigoItem").innerText = "Itemdata_weapon.csv | Code:";
         document.getElementById("textNomeDoItemTraduzido").innerText = "localstringdata_item_weapon.csv or localstringdata_item_weapon_02.csv | Code:";
     } else {
-        alert("Invalid code!, This code is for Weapon?");
+        alert("Invalid code!, This code is from a Weapon?");
     }
 }
+async function atualizarItemBracelet() {
+    let codigoBruto = document.getElementById("codigoItem").value.trim();
+    if (!codigoBruto) {
+        defaultItem(itemDefault)
+    }
+    let partes = codigoBruto.split(";");
+
+    if (partes.length == 45) {
+        let id = partes[0]
+        let name = partes[1]
+        let development = partes[2]
+        let requiredLevel = partes[3]
+        let limitedLevel = partes[4]
+        let itemLevel = partes[5]
+        let usedClass = partes[6]
+        let randomAppliedClassStatus = partes[7]
+        let useBy = partes[8]
+        let rarity = partes[9]
+        let accessoryType = partes[10]
+        let durability = partes[11]
+        let precobuy = partes[12]
+        let precosell = partes[13]
+        let magicDefense = partes[14]
+        let equipedEffect1 = partes[15]
+        let equipedEffect2 = partes[16]
+        let equipedEffect3 = partes[17]
+        let equipedEffect4 = partes[18]
+        let randomOptionsApplication = partes[19]
+        let minRandomOptionsQuantity = partes[20]
+        let maxRandomOptionsQuantity = partes[21]
+        let optionsApplicationRatio = partes[22]
+        let variableItem = partes[23]
+        let minVariableItem = partes[24]
+        let maxVariableItem = partes[25]
+        let reinforcementRestriction = partes[26]
+        let reinforcementProbability = partes[27]
+        let cannotBeDropped = partes[28]
+        let cannotBeTrade = partes[29]
+        let cannotBeDisposed = partes[30]
+        let cannotBeDestroyed = partes[31]
+        let dropLevelCheck = partes[32]
+        let binding = partes[33]
+        let bindingTarget = partes[34]
+        let unbindCount = partes[35]
+        let useRestriction = partes[36]
+        let salesAgencyClassification = partes[37]
+        let skillEffect = partes[38]
+        let ignoreDropLevelCheck = partes[39]
+        let usagePeriod = partes[40]
+        let maxGemSlots = partes[41]
+        let contentsLevel = partes[42]
+        let unableToUseIntegratedChannel = partes[43]
+        let purchaseRestriction = partes[44]
+
+        // buttonType = "brace"
+        // carregarIconeDoItem(id)
+        mudarNomeDesc(id)
+        mudarStatusPrincipal("*", "*", "*", magicDefense)
+        mudarCor(rarity)
+        mudarLevel(requiredLevel, limitedLevel)
+        mudarBinding(binding)
+        mudarClasse(usedClass)
+        mudarItemType(accessoryType)
+        mudarCannot(cannotBeTrade, cannotBeDisposed, cannotBeDropped, cannotBeDestroyed)
+        mudarReinforcement("brace")
+        mudarUnbind(unbindCount)
+        mudarEquippedEffect(skillEffect)
+        mudarRandomApp(randomOptionsApplication, minRandomOptionsQuantity, maxRandomOptionsQuantity)
+        processarEfeitosDoItemacc(equipedEffect1, equipedEffect2, equipedEffect3, equipedEffect4, maxRandomOptionsQuantity)
+        atualizarSetDiv(id);
+        definePreco(precosell, cannotBeDisposed, "*")
+        mudarUsagePeriod(usagePeriod)
+        mudarGemSlots(maxGemSlots)
+        mudarSoulWeapon(0, 0)
+        
+        document.getElementById("itemIcone").style.display = "none";
+        document.getElementById("unbinds").style.display = "none";
+        document.getElementById("naopodeunbind").style.display = "none";
+        
+        document.getElementById("textCodigoItem").innerText = "Itemdata_bracelet.csv | Code:";
+        document.getElementById("textNomeDoItemTraduzido").innerText = "localstringdata_item_bracelet.csv | Code:";
+    } else {
+        alert("Invalid code!, This code is from a Bracelet?");
+    }
+}
+async function atualizarItemRelic() {
+    let codigoBruto = document.getElementById("codigoItem").value.trim();
+    if (!codigoBruto) {
+        defaultItem(itemDefault)
+    }
+    let partes = codigoBruto.split(";");
+
+    if (partes.length == 53) {
+        let id = partes[0]
+        let name = partes[1]
+        let requiredLevel = partes[2]
+        let limitedLevel = partes[3]
+        let itemLevel = partes[4]
+        let usedClass = partes[5]
+        let randomAppliedClassStatus = partes[6]
+        let useBy = partes[7]
+        let rarity = partes[8]
+        let rarityplus = partes[9]
+        let relicType = partes[10]
+        let durability = partes[11]
+        let precobuy = partes[12]
+        let precosell = partes[13]
+        let magicDefense = partes[14]
+        let equipedEffect1 = partes[15]
+        let equipedEffect2 = partes[16]
+        let equipedEffect3 = partes[17]
+        let equipedEffect4 = partes[18]
+        let randomOptionsApplication = partes[19]
+        let minRandomOptionsQuantity = partes[20]
+        let maxRandomOptionsQuantity = partes[21]
+        let optionsApplicationRatio = partes[22]
+        let variableItem = partes[23]
+        let minVariableItem = partes[24]
+        let maxVariableItem = partes[25]
+        let reinforcementRestriction = partes[26]
+        let reinforcementProbability = partes[27]
+        let cannotBeDropped = partes[28]
+        let cannotBeTrade = partes[29]
+        let cannotBeDisposed = partes[30]
+        let cannotBeDestroyed = partes[31]
+        let dropLevelCheck = partes[32]
+        let binding = partes[33]
+        let bindingTarget = partes[34]
+        let unbindCount = partes[35]
+        let useRestriction = partes[36]
+        let dyeing = partes[37]
+        let salesAgencyClassification = partes[38]
+        let skillEffect = partes[39]
+        let ignoreDropLevelCheck = partes[40]
+        let usagePeriod = partes[41]
+        let disassemblyID = partes[42]
+        let extractionID = partes[43]
+        let sealedFellowEquipmentMaximumEquipmentSlotNumber = partes[44]
+        let useLevelOption = partes[45]
+        let levelWeight = partes[46]
+        let overriseMax = partes[47]
+        let overriseId1 = partes[48]
+        let overriseId2 = partes[49]
+        let contentsLevel = partes[50]
+        let unableToUseIntegratedChannel = partes[51]
+        let reverseReinforcementRestriction = partes[52]
+
+        console.log(mapaDeTraducoes[id])
+        document.getElementById("itemIcone").style.display = "block";
+        buttonType = relicType
+        carregarIconeDoItem(id)
+        mudarNomeDesc(id)
+        mudarStatusPrincipal("*", "*", "*", magicDefense)
+        mudarCor(rarity)
+        mudarLevel(requiredLevel, limitedLevel)
+        mudarBinding(binding)
+        mudarClasse(usedClass)
+        mudarItemType(relicType)
+        mudarCannot(cannotBeTrade, cannotBeDisposed, cannotBeDropped, cannotBeDestroyed)
+        mudarReinforcement(reinforcementRestriction)
+        mudarReverse(reverseReinforcementRestriction)
+        mudarDisassembly(disassemblyID)
+        mudarUnbind(unbindCount)
+        mudarEquippedEffect(skillEffect)
+        mudarRandomApp(randomOptionsApplication, minRandomOptionsQuantity, maxRandomOptionsQuantity)
+        processarEfeitosDoItemacc(equipedEffect1, equipedEffect2, equipedEffect3, equipedEffect4, maxRandomOptionsQuantity)
+        mudarSealSlots(0, sealedFellowEquipmentMaximumEquipmentSlotNumber)
+        atualizarSetDiv(id);
+        definePreco(precosell, cannotBeDisposed, "*")
+        mudarUsagePeriod(usagePeriod)
+        mudarGemSlots(0)
+        mudarSoulWeapon(0, 0)
+        
+        document.getElementById("unbinds").style.display = "none";
+        document.getElementById("naopodeunbind").style.display = "none";
+        
+        document.getElementById("textCodigoItem").innerText = "Itemdata_relic.csv | Code:";
+        document.getElementById("textNomeDoItemTraduzido").innerText = "localstringdata_item_event.csv | Code:";
+    } else {
+        alert("Invalid code!, This code is Relic?");
+    }
+}
+
 function contarValoresNaLinha(linha) {
     let valores = linha.split(";");
     return valores.length;
@@ -1277,14 +1736,18 @@ function checkCodigoBruto(codigoBruto) {
     }
 
     let partes = codigoBruto.split(";");
-    if (partes.length == 66) {
+    if (partes.length <= 45) {
+        atualizarItemBracelet()
+    } else if (partes.length >= 46 && partes.length <= 53) {
+        atualizarItemRelic()
+    } else if (partes.length >= 54 && partes.length <= 66) {
         atualizarItemacc()
-    } else if (partes.length == 70) {
+    } else if (partes.length >= 67 && partes.length <= 70) {
         atualizarItemarmor()
-    } else if (partes.length == 90) {
+    } else if (partes.length >= 71 && partes.length <= 90) {
         atualizarItemWeapon()
     } else {
-        alert("Invalid code!, This code could not be recognized, please check Code again.");
+        alert("Invalid code!, This code could not be recognized, please check Code again." + " " + codigoBruto);
     }
 }
 // ----------------- //
@@ -1299,7 +1762,6 @@ function filtrarItems() {
         button.style.display = nome.includes(input) ? "flex" : "none"
     });
 }
-
 function mudarItem(id) {
     let item = itemInformationsObj[id];
 
@@ -1415,9 +1877,6 @@ async function inicializarPagina() {
     codigoOriginal = defaultItem(itemDefault)
     let codigoBruto = document.getElementById("codigoItem").value.trim();
     checkCodigoBruto(codigoBruto)
-    
-    document.getElementById("itemselecionadodentro").style.display = "block";
-
 }
 
 window.onload = inicializarPagina

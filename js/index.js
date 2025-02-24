@@ -3,11 +3,9 @@ function mudarPagina(pagina) {
     iframe.src = pagina;
 }
 function chamarMudarType(type) {
-    console.log("Clicado")
     var iframe = document.getElementById("wikiFrame");
 
     iframe.contentWindow.mudarType(type);
-    console.log(type)
 }
 
 function verPagina(pagina, type) {
@@ -18,9 +16,8 @@ function verPagina(pagina, type) {
         iframe.onload = function () {
             if (iframe.contentWindow.mudarType) {
                 iframe.contentWindow.mudarType(type);
-                console.log("Comando enviado ap?s carregamento:", type);
             } else {
-                console.log("Erro: A fun??o mudarType n?o existe no iframe.");
+                console.log("Erro: Function mudarType not found.");
             }
         }
     } else {

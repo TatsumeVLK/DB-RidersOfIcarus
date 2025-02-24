@@ -65,7 +65,7 @@ header, footer {
         .submenuitems a::after {
             font-size: 10px;
             content: "►";
-            text-align: right;
+            text-align: right;  
         }
 
 .selecao {

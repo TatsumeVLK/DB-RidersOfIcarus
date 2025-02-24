@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="EUC-KR">
+<head>
+    <meta charset="EUC-KR">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riders of Icarus Database</title>
+    <link rel="stylesheet" href="../css/base.css"/>
+    <link rel="shortcut icon" href="../imgs/favicon.png"/>
+</head>
+<body>
+    <div class="conteiner">
+        <div class="selecionar">
+            <div class="shadow"><p>Press "Enter" to Search</p>
+                <input type="text" id="searchBar" placeholder=" Search..." onkeyup="if(event.key === 'Enter') filtrarItems()" autocomplete="off">
+            </div>
+            <div class="botoes" id="botaoContainer">
+            </div>
+        </div>
+        <div class="itemselecionado">
+            <div id="itemselecionadodentro">
+                <div class="informacao" id="itemInfo">
+                    <div style="display: flex;"><p id="itemNome"></p></div>
+                    <p><span id="itemRaridade"></span></p>
+                    <hr class="espaco1" />
+                    <div class="espacoentre espaco2">
+                        <p class="espaco">Familiar Level: <span id="itemNivel"></span><span id="maxlevel" class="red"> (In Develepment)</span></p>
+                        <p class="espaco verde"><span id="itemBindtype"></span></p>
+                    </div>
+                    <p class="espaco">Talent Power <span id="traitPower"></span></p>
+                    <p class="espaco"><span id="itemclasses"></span></p>
+                    <p class="espaco"><span id="cannottradesell"></span></p>
+                    <div id="temefeitoserandomeffects">
+                        <hr class="espaco1" />
+                        <p><span id="equipedeffects" class="espaco yellow">Equipped Effects</span></p>
+                        <p class="espaco3 verde2"><span id="itemEfeito1" class="inline"></span> <span id="plus151" class="yellow">(+15%)</span></p>
+                        <p class="espaco3 verde2"><span id="itemEfeito2" class="inline"></span> <span id="plus152" class="yellow">(+15%)</span></p>
+                        <p class="espaco3 verde2"><span id="itemEfeito3" class="inline"></span> <span id="plus153" class="yellow">(+15%)</span></p>
+                        <p class="espaco3 verde2"><span id="itemEfeito4" class="inline"></span> <span id="plus154" class="yellow">(+15%)</span></p>
+                        <p class="espaco3" id="randomeffects"></p>
+                    </div>
+                    <hr id="barraduration" class="espaco1"/>
+                    <p id="textduration" class="yellow">Duration</p>
+                    <p id="durationtime" class="espaco4">00days 00hours 00min 00sec</p>
+                    <hr class="espaco1" id="description" />
+                    <p><span id="itemdescription" class="espaco yellow"></span></p>
+                    <hr class="espaco1" id="barrasale" />
+                    <div id="divsale" class="espacoentre">
+                        <span id="saleprice" class="espaco4">Sale Price</span>
+                        <span id="itemPreco" class="espaco4"></span>
+                    </div>
+                </div>
+                <div>
+                    <p class="espaco2" id="textCodigoItem"></p>
+                    <textarea id="codigoItem"></textarea>
+                    <br>
+                    <div class="butoescodigo espaco">
+                        <button id="botaoCarregar" class="espaco2 butoes" onclick="carregarCodigo()">Load Code Above</button>
+                        <button id="botaoVoltar" class="espaco2 butoes" onclick="voltarCodigo()">Reset code</button>
+                        <button id="botaoNivelAtual1" class="espaco2 butoes" onclick="mudarNivelAtual('min')">Level 1</button>
+                        <button id="botaoNivelAtual2" class="espaco2 butoes" onclick="mudarNivelAtual('max')">Level Max</button>
+                        <button id="botaoNivelAtual3" class="espaco2 butoes" onclick="mudarNivelAtual('awk')">Reinforcement +7</button>
+                    </div>
+                    <p></p>
+                    <p class="espaco2" id="textNomeDoItemTraduzido"></p>
+                    <textarea id="nomedoItemtraduzido" readonly></textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <script src="../js/fellow.js"></script>
+</body>
+</html>

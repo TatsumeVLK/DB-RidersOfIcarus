@@ -93,10 +93,6 @@ img {
     color: #29bb16;
 }
 
-.amarelo {
-    color: rgb(236, 215, 97);
-}
-
 .cinza {
     color: gray;
 }
@@ -107,6 +103,9 @@ img {
     color: #ffcc00;
 }
 .legendary {
+    color: #ff00ff;
+}
+.legendary\+ {
     color: #ff00ff;
 }
 .mythical {
@@ -121,6 +120,42 @@ img {
 .fellow {
     color: #ff00d4;
     font-weight: bold;
+}
+.red {
+    color: red;
+}
+.orange {
+    color: orange;
+}
+.yellow {
+    color: rgb(236, 215, 97);
+}
+.imgnormal {
+    border: 2px solid rgb(80, 80, 80);
+}
+.imgelite {
+    border: 2px solid dodgerblue;
+}
+.imgheroic {
+    border: 2px solid #ffcc00;
+}
+.imglegendary {
+    border: 2px solid #ff00ff;
+}
+.imglegendary\+ {
+    border: 2px solid #ff00ff;
+}
+.imgmythical {
+    border: 2px solid #ff1155;
+}
+.imgunique {
+    border: 2px solid #ffaa55;
+}
+.inline {
+    display: inline;
+}
+#plus151, #plus152, #plus153, #plus154 {
+    display: none;
 }
 .equipskill {
     display: flex;
@@ -284,7 +319,7 @@ body::-webkit-scrollbar {
 
 
 .foto {
-    padding: 0 5px 5px 5px;
+    margin: 0 5px 5px 5px;
 }
 
 .moeda {
@@ -317,7 +352,7 @@ body::-webkit-scrollbar {
         height: 50px;
         border: groove;
         margin: 0;
-        padding: 10px;
+        padding: 0;
         cursor: pointer;
         color: white;
         background-color: rgba(70, 70, 70, 1);
@@ -337,10 +372,9 @@ body::-webkit-scrollbar {
     width: 100%;
 }
 #searchBar {
-    width: 98%;
+    width: 99%;
     height: 25px;
     border: none;
-    margin-bottom: 10px;
     padding: 3px;
 }
 #nomedoItemtraduzido {
@@ -370,9 +404,6 @@ body::-webkit-scrollbar {
     align-items: center;
 }
 
-#itemselecionadodentro {
-    display: none;
-}
 #growthtype {
     display: none;
     width: 40px;
@@ -382,4 +413,23 @@ body::-webkit-scrollbar {
 }
 #itemIcone {
     border-radius: 10px;
+}
+.butoes {
+    text-align: center;
+    font-size: 13px
+}
+.shadow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 99%;
+    background-image: linear-gradient(to bottom, #e3e3e342, #afafaf, #00000047);
+    padding: 0;
+    margin-bottom: 10px;
+    box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.103);
+}
+.shadow p {
+    padding: 1px;
+    font-size: 18px;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
 }

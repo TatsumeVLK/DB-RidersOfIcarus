@@ -1,0 +1,38 @@
+t_key,t_korean,t_jpn,t_chinese,t_eng,t_eng_2,t_eng_3
+^ca_re_0_0001_name^,^Relic of Power^,^^,^^,^^,^^,^^
+^ca_re_0_0002_name^,^Relic of Knowledge^,^^,^^,^^,^^,^^
+^ca_re_0_0003_name^,^Evolved Demonic Relic (Strength)^,^^,^^,^^,^^,^^
+^ca_re_0_0004_name^,^Evolved Demonic Relic (Knowledge)^,^^,^^,^^,^^,^^
+^ev_0_0000_Name^,^Goldhorn Feather^,^^,^^,^^,^^,^^
+^ev_0_0000_Description^,^Goldhorn. the king of the golden gryphon. is a fellow with the mysterious ability to converse in human language, and its feathers are highly prized. <It_G>This is a FINAL CBT event item. the more you collect. the higher your chance of being able to exchange it for something you want</It_G>^,^^,^^,^^,^^,^^
+^ev_0_0001_Name^,^Alliance of Light Badges^,^^,^^,^^,^^,^^
+^ev_0_0001_Description^,^Insignia of the warriors who fought against the demon army in the past <It_G>- As a guild event item. collect as many as possible to prove tHat you are the best guild of Icarus.</It_G>^,^^,^^,^^,^^,^^
+^ev_0_0002_Name^,^SK hynix SSD^,^^,^^,^^,^^,^^
+^ev_0_0002_Description^,^SK hynix Affiliate promotional items. <It_G>- The more you collect. the higher your chances of winning the best SSD. </It_G>^,^^,^^,^^,^^,^^
+^ev_0_0003_Name^,^Soccer Ball^,^^,^^,^^,^^,^^
+^ev_0_0003_Description^,^Korea support event item. You can exchange for various items through <UI_G>[Soccer Ball Exchange Vendor]</UI_G>. <O_Y>Items will be deleted after the event ends.</O_Y>^,^^,^^,^^,^^,^^
+^ev_0_0004_Name^,^Golden Beads^,^^,^^,^^,^^,^^
+^ev_0_0004_Description^,^Items obtained through PC room access. It can be exchanged for various items through <UI_G>[Fish Bunny]</UI_G>. <O_Y>Items will be deleted after the event ends.</O_Y>^,^^,^^,^^,^^,^^
+^ev_0_0005_Name^,^Fish Bunny Coin^,^^,^^,^^,^^,^^
+^ev_0_0005_Description^,^Items obtained through PC room access. It can be exchanged for various items through <UI_G>[Fish Bunny]</UI_G>. <O_Y>Maximum quantity: 9999</O_Y>^,^^,^^,^^,^^,^^
+^ev_0_0006_Name^,^Legendary Fellow Exchange Coupon^,^^,^^,^^,^^,^^
+^ev_0_0006_Description^,^If you bRing it to Ravini Luluping. it will be exchanged for a Legendary Fellow Lucky Box.^,^^,^^,^^,^^,^^
+^ev_0_0007_Name^,^Grown-up Day Sign^,^^,^^,^^,^^,^^
+^ev_0_0007_Description^,^Collect 3 and bRing them to <UI_G>Ravini Ernie</UI_G> to exchange them for <UI_G>Adults Day Gift Box II</UI_G>.^,^^,^^,^^,^^,^^
+^ev_0_0008_Name^,^Light Fellow Exchange Coupon^,^^,^^,^^,^^,^^
+^ev_0_0008_Description^,^You can exchange it for <UI_G>[Physical Legend Fellow Lucky Box]</UI_G> or <UI_G>[Magical Legend Fellow Lucky Box]</UI_G> by going to <UI_G>Yetam</UI_G> in Hakanas Capital Castle.<R_Y> Only characters of level 50 or higher can purchase.Exchange can only be done once.</R_Y>^,^^,^^,^^,^^,^^
+^ev_0_0009_Name^,^Amethyst^,^^,^^,^^,^^,^^
+^ev_0_0009_Description^,^Items obtained through PC room access. It can be exchanged for Ellora Armor through <UI_G>[Fish Bunny]</UI_G>.^,^^,^^,^^,^^,^^
+^re_ts_0_0000_Name^,^Test Relic 1_Elite^,^^,^^,^^,^^,^^
+^re_ts_0_0001_Name^,^Test Relic 2_Hero^,^^,^^,^^,^^,^^
+^re_ts_0_0002_Name^,^Test Relic 2_Legend^,^^,^^,^^,^^,^^
+^re_ts_0_0003_Name^,^Test Relic 2_Myth^,^^,^^,^^,^^,^^
+^ca_re_0_0000_Name^,^Demon's Relic^,^^,^^,^^,^^,^^
+^ev_0_0010_Name^,^Zircon^,^^,^^,^^,^^,^^
+^ev_0_0010_Description^,^Items obtained through PC room access. It can be exchanged for event items through <UI_G>[Ravini Kakapon]</UI_G>. <O_Y><UI_G>Zircon</UI_G> will disappear after the maintenance on July 26th. so please exchange it in advance.</O_Y>^,^^,^^,^^,^^,^^
+^ev_0_0011_Name^,^Fishbani Carrot Coins^,^^,^^,^^,^^,^^
+^ev_0_0011_Description^,^Items obtained through PC room access. It can be exchanged for various items through <UI_G>[Fish Bunny]</UI_G>. <O_Y>Maximum quantity: 9999</O_Y>^,^^,^^,^^,^^,^^
+^ev_0_0012_Name^,^Icarus 3.1 Return Certificate^,^^,^^,^^,^^,^^
+^ev_0_0012_Description^,^Certificate certifying the return of Icarus 3.1^,^^,^^,^^,^^,^^
+^ev_0_0013_Name^,^Full Moon^,^^,^^,^^,^^,^^
+^ev_0_0013_Description^,^An item obtained by defeating Ravini Bormi. It can be exchanged for event items through <UI_G>[Glass]</UI_G>. <O_Y><UI_G>Full Moon</UI_G> will disappear after the regular maintenance on November 08. so please exchange it in advance.</O_Y>^,^^,^^,^^,^^,^^
