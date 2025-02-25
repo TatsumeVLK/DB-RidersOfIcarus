@@ -1,39 +1,45 @@
-t_key,t_korean,t_jpn,t_chinese,t_eng,t_eng_2,t_eng_3
-^BRACELET000_Name^,^Bracelet for testing 1^,^^,^^,^^,^^,^^
-^BRACELET001_Name^,^Bracelet for testing 2^,^^,^^,^^,^^,^^
-^BRACELET002_Name^,^Bracelet for testing 3^,^^,^^,^^,^^,^^
-^IT_BR_CM_0000_Name^,^Bracelet 1^,^^,^^,^^,^^,^^
-^IT_BR_CM_0001_Name^,^Bracelet 2^,^^,^^,^^,^^,^^
-^IT_BR_CM_0002_Name^,^Bracelet 3^,^^,^^,^^,^^,^^
-^CA_BR_CM_0000_Name^,^Rain Moon Door Light^,^^,^^,^^,^^,^^
+t_key,t_korean
+^BRACELET000_Name^,^Bracelet for testing 1^
+^BRACELET001_Name^,^Bracelet for testing 2^
+^BRACELET002_Name^,^Bracelet for testing 3^
+^IT_BR_CM_0000_Name^,^Bracelet 1^
+^IT_BR_CM_0001_Name^,^Bracelet 2^
+^IT_BR_CM_0002_Name^,^Bracelet 3^
+^CA_BR_CM_0000_Name^,^Rain Moon Door Light^
 ^CA_BR_CM_0000_Description^,^A treasure left by the elf Guardian <O_Y>Rain Moondoor</O_Y>.
 During the War of Light. Rain Mundor sealed the power of demons on the battlefield and combined <O_Y>3 Jewels</O_Y> into the bracelet.
 Currently. the three jewels have disappeared. but the <O_Y>power of harmony</O_Y> of the bracelet itself is said to be alive and well.
 
-<R_Y>Bracelet items cannot be removed after wearing.</R_Y>^,^^,^^,^^,^^,^^
-^EV_BR_CM_0000_Name^,^Balanced Snowflake Bracelet^,^^,^^,^^,^^,^^
-^EV_BR_CM_0000_Description^,^<R_Y>Bracelet items cannot be removed after wearing.</R_Y>^,^^,^^,^^,^^,^^
-^CA_BR_CM_0001_Name^,^Corosimo's Treasure^,^^,^^,^^,^^,^^
-^CA_BR_CM_0001_Description^,^A bracelet left by <O_Y>Corossimo</O_Y> of the Assassin. the progenitor of assassins who were active during the War of Light.
+<R_Y>Bracelet items cannot be removed after Wearing.</R_Y>^
+^EV_BR_CM_0000_Name^,^Balanced Snowflake Bracelet^
+^EV_BR_CM_0000_Description^,^<R_Y>Bracelet items cannot be removed after Wearing.</R_Y>^
+^CA_BR_CM_0001_Name^,^Koroshimo Bracelet^
+^CA_BR_CM_0001_Description^,^A bracelet left by <O_Y>Corossimo</O_Y> of the Assassin. the progenitor of assassins who were active During the War of Light.
 Corosimo used <O_Y>4 jewels</O_Y> sealed with <O_Y>spirit power</O_Y> as a gift from the great elf spirit master Banashiola to this bracelet.
 Currently. the four jewels have disappeared. but the <O_Y>power of harmony</O_Y> of the bracelet itself is said to be alive and well.
 
-<R_Y>Bracelet items cannot be removed after wearing.</R_Y>^,^^,^^,^^,^^,^^
-^CA_BR_CM_0002_Name^,^Perfect Ice Bracelet^,^^,^^,^^,^^,^^
-^CA_BR_CM_0002_Description^,^<R_Y>Bracelet items cannot be removed after wearing.</R_Y>^,^^,^^,^^,^^,^^
-^CA_BR_CM_0003_Name^,^Best Ice Bracelet^,^^,^^,^^,^^,^^
-^CA_BR_CM_0003_Description^,^<R_Y>Bracelet items cannot be removed after wearing.</R_Y>^,^^,^^,^^,^^,^^
-^CA_BR_CM_0004_Name^,^Perfect Ice Bracelet^,^^,^^,^^,^^,^^
-^CA_BR_CM_0004_Description^,^<R_Y>Bracelet items cannot be removed after wearing.</R_Y>^,^^,^^,^^,^^,^^
-^CA_BR_CM_0005_Name^,^Hakane's Bravery^,^^,^^,^^,^^,^^
+<R_Y>Bracelet items cannot be removed after Wearing.</R_Y>^
+^CA_BR_CM_0002_Name^,^Radan Bracelet^
+^CA_BR_CM_0002_Description^,^<R_Y>Bracelet items cannot be removed after Wearing.</R_Y>^
+^CA_BR_CM_0003_Name^,^Parna Bracelet^
+^CA_BR_CM_0003_Description^,^<R_Y>Bracelet items cannot be removed after Wearing.</R_Y>^
+^CA_BR_CM_0004_Name^,^Teleo Bracelet^
+^CA_BR_CM_0004_Description^,^<R_Y>Bracelet items cannot be removed after Wearing.</R_Y>^
+^CA_BR_CM_0005_Name^,^Hakanas Bravery^
 ^CA_BR_CM_0005_Description^,^A bracelet left by <O_Y>Hakane</O_Y>, the founding king of Hakanas.
 King Hakane used <O_Y>5 jewels</O_Y> sealed with <O_Y>Balaur's power</O_Y>. which was given to him by the Guardian god Velzeroth. in return for his bravery against the black dragon. .
 Currently. 5 jewels have disappeared. but the <O_Y>power of harmony</O_Y> of the bracelet itself is said to be alive and well.
 
-<R_Y>Bracelet items cannot be removed after wearing.</R_Y>^,^^,^^,^^,^^,^^
-^CA_BR_CM_0006_Name^,^Baela's Wisdom^,^^,^^,^^,^^,^^
+<R_Y>Bracelet items cannot be removed after Wearing.</R_Y>^
+^CA_BR_CM_0006_Name^,^Baelas Wisdon^
 ^CA_BR_CM_0006_Description^,^A treasure used by <O_Y>Baelas</O_Y>. who founded the Kingdom of Hakanas with Hakane and founded the Wizard of Truth.
 Just before his death. Baelas combined <O_Y>6 jewels</O_Y> containing <O_Y>his abilities</O_Y> to this bracelet.
 Currently. 6 jewels have disappeared. but the <O_Y>power of harmony</O_Y> of the bracelet itself is said to be alive and well.
 
-<R_Y>Bracelet items cannot be removed after wearing.</R_Y>^,^^,^^,^^,^^,^^
+<R_Y>Bracelet items cannot be removed after Wearing.</R_Y>^
+^CA_BR_CM_0007_Name^,^Demonite Shackles^
+^CA_BR_CM_0007_Description^,^A shackle made of tapite material mixed with the inner strength of the elders in order to seal the demon Zelnaris in the distant future.
+In order to bind the uncontrollable and powerful energy of the demon Zelnaris, the elders combined <O_Y>8 jewels</O_Y> into these shackles.
+Currently, the 8 jewels have been separated from the shackles by an unknown person, but it is known that the powerful <O_Y>seal power</O_Y> of the shackles themselves remains intact.
+
+<R_Y>The bracelet item cannot be removed after being worn.</R_Y>^

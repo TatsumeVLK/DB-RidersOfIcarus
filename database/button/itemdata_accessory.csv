@@ -1,4 +1,4 @@
-id,level,rarity,type
+t_id;t_level;t_rarity;t_type
 AC0_0_1000;17.000000;normal;ri
 AC0_1_1000;1.000000;normal;ne
 AC0_0_9999;4.000000;elite;ri
@@ -471,8 +471,8 @@ AC_P_400_6005;190.000000;legendary;ne
 AC_P_400_6006;190.000000;legendary;ri
 AC_P_400_6007;190.000000;legendary;ri
 AC_P_400_6008;190.000000;legendary;ne
-AC_FE_300_6001;190.000000;heroic;ri
-AC_FE_300_6002;190.000000;heroic;ri
+AC_Fe_300_6001;190.000000;heroic;ri
+AC_Fe_300_6002;190.000000;heroic;ri
 AC_FE_300_6003;190.000000;heroic;ne
 EV_AC_A_400_6000;111.000000;legendary;ri
 EV_AC_A_400_6001;111.000000;legendary;ri
@@ -537,3 +537,20 @@ AC_A_600_6021;135.000000;mythical;ri
 AC_A_600_6022;135.000000;mythical;ri
 AC_A_600_6023;135.000000;mythical;ne
 EV_AC_C_008;1.000000;legendary;ri
+EV_AC_C_009;1.000000;heroic;ri
+AC_A_001_00001;135.000000;mythical;ri
+AC_A_001_00002;135.000000;mythical;ri
+AC_A_001_00003;135.000000;mythical;ne
+EV_AC_C_010;175.000000;legendary;ri
+EV_AC_C_011;175.000000;legendary;ri
+EV_AC_C_012;175.000000;legendary;ne
+AC_A_700_0001;140.000000;mythical;ri
+AC_A_700_0002;140.000000;mythical;ri
+AC_A_700_0003;140.000000;mythical;ne
+AC_A_700_ceu1;140.000000;mythical;ri
+AC_A_700_ceu2;140.000000;mythical;ri
+AC_A_700_ceu3;140.000000;mythical;ne
+PVP_AC_A1_dark;140.000000;mythical;ri
+PVP_AC_A2_dark;140.000000;mythical;ri
+PVP_AC_A3_dark;140.000000;mythical;ne
+EPC_0_45500;73.000000;heroic;ri

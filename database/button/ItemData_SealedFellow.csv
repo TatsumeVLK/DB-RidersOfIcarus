@@ -1,4 +1,4 @@
-id,level,rarity,type
+t_id;t_level;t_rarity;t_type
 SF2_101_1_0001;1.000000;normal;so
 SF2_101_1_0002;1.000000;normal;so
 SF2_101_1_0003;1.000000;normal;so

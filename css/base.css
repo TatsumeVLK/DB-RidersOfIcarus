@@ -92,7 +92,9 @@ img {
 .verde2 {
     color: #29bb16;
 }
-
+.azul {
+    color: rgb(0, 255, 242);
+}
 .cinza {
     color: gray;
 }

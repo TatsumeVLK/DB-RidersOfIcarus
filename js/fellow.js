@@ -2,17 +2,14 @@
 // Variables //
 // --------- //
 const buttonItems = [
-    "../database/button/ItemData_Consume.csv",
-    "../database/button/ItemData_SealedFellow.csv"
+    "../database/button/Fellow_State.csv"
 ]
 const buttonIcons = [
-    "../database/itemres/itemres_consume.csv",
-    "../database/itemres/itemres_sealedfellow.csv"
+    "../database/itemres/Fellow_Res.csv"
 ]
 
 const itemInformations = [
-    "../database/itemdata/ItemData_Consume.csv",
-    "../database/itemdata/ItemData_SealedFellow.csv"
+    "../database/itemdata/Fellow_State.csv"
 ]
 
 const itemTranslations = [
@@ -20,13 +17,14 @@ const itemTranslations = [
     "../database/translate/localstringdata_item_consume_02.csv",
     "../database/translate/localstringdata_item_consume_03.csv",
     "../database/translate/localstringdata_item_sealedfellow.csv",
-    "../database/translate/LocalStringData_Item_SealedFellow_01.csv"
+    "../database/translate/LocalStringData_Item_SealedFellow_01.csv",
+    "../database/translate/localstringdata_fellow.csv"
 ]
 
 const effectsTranslation = "../database/custom/minhatraducao.csv"
 
 let buttonType = "so"
-let itemDefault = "SF2_101_IC_0114";
+let itemDefault = "SF2_101_2_0821";
 
 let buttonIiconsObj = {}
 let buttonItemsObj = {}
@@ -157,7 +155,7 @@ async function loadButton() {
             const linesI = textI.trim().split(/\r?\n/);
     
             linesI.forEach(lineI => {
-                const [idI, iconI] = lineI.split(';');
+                const [NoI, idI, iconI] = lineI.split(';');
                 mapaDeIcones[idI.trim()] = iconI.trim();
             });
         } catch (error) {
@@ -174,7 +172,7 @@ async function loadButton() {
     }
 
     lines.forEach((line) => {
-        const [id, level, rarity, type] = line.split(';');
+        const [no, id, level, rarity, type] = line.split(';');
         let leveli = parseInt(level);
         
         if (type !== buttonType) return;
@@ -395,7 +393,7 @@ function mudarClasse(usedClass) {
     document.getElementById("itemclasses").innerText = checkClasses();
 }
 let nivelAtual = 1;
-async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4) {
+async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4, rarity) {
     document.getElementById("temefeitoserandomeffects").style = "none"
     let efeitos = [efeito1, efeito2, efeito3, efeito4];
 
@@ -415,6 +413,10 @@ async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4) {
         if (!efeito || efeito.trim() === "*" || valorNumerico2 == 0) {
             elementoEfeito.parentElement.style.display = "none";
             return;
+        }
+        if (rarity >= 4) {
+            valorNumerico1 = (valorNumerico1 + (valorNumerico1 * 0.02))
+            valorNumerico2 = (valorNumerico2 + (valorNumerico2 * 0.02))
         }
 
         let simbolo = termoOriginal.slice(-1);
@@ -441,14 +443,13 @@ async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4) {
             case 1:
                 if (valorNumerico1 !== null && valorNumerico1 != 0) {
                     elementoEfeito.parentElement.style.display = "block";
-                    document.getElementById("itemEfeito1").style.display = "none"
+                    document.getElementById("itemEfeito1").style.display = "inline"
                     document.getElementById("itemEfeito2").style.display = "inline-block"
                     document.getElementById("itemEfeito3").style.display = "inline-block"
-                    document.getElementById("itemEfeito4").style.display = "inline-block"
+                    document.getElementById("itemEfeito4").style.display = "none"
                     document.getElementById("plus151").style.display = "none"
                     document.getElementById("plus152").style.display = "none"
                     document.getElementById("plus153").style.display = "none"
-                    document.getElementById("plus154").style.display = "none"
                     let numero1 = parseInt(valorNumerico1);
                     let numero2 = parseInt(valorNumerico2);
                     if (simbolo === "%" && numero1 > 0) {
@@ -468,11 +469,10 @@ async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4) {
                     document.getElementById("itemEfeito1").style.display = "inline-block"
                     document.getElementById("itemEfeito2").style.display = "inline-block"
                     document.getElementById("itemEfeito3").style.display = "inline-block"
-                    document.getElementById("itemEfeito4").style.display = "inline-block"
+                    document.getElementById("itemEfeito4").style.display = "none"
                     document.getElementById("plus151").style.display = "none"
                     document.getElementById("plus152").style.display = "none"
                     document.getElementById("plus153").style.display = "none"
-                    document.getElementById("plus154").style.display = "none"
                     let numero1 = parseInt(valorNumerico1);
                     let numero2 = parseInt(valorNumerico2);
                     let numero3 = parseInt(valorNumerico3);
@@ -511,21 +511,20 @@ async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4) {
                     document.getElementById("plus151").style.display = "inline-block"
                     document.getElementById("plus152").style.display = "inline-block"
                     document.getElementById("plus153").style.display = "inline-block"
-                    document.getElementById("plus154").style.display = "inline-block"
                     let numero1 = parseInt(valorNumerico1);
                     let numero2 = parseInt(valorNumerico2);
                     let numero3 = parseInt(valorNumerico3);
                     if (!valorNumerico3) {
-                        let numero13 = numero1 + (numero1 * 0.15)
-                        let numero23 = numero2 + (numero2 * 0.15)
+                        let numero13 = numero1
+                        let numero23 = numero2
                         let numero13r = parseInt(numero13)
                         let numero23r = parseInt(numero23)
                         if (simbolo === "%" && numero1 > 0) {
-                            efeitoFinal += ` ${numero13r}% - ${numero23r}%`;
+                            efeitoFinal += ` ${numero13r}% ~ ${numero23r}%`;
                         } else if (simbolo === "%" && numero1 < 0) {
-                            efeitoFinal += ` ${numero13r}% - ${numero23r}%`;
+                            efeitoFinal += ` ${numero13r}% ~ ${numero23r}%`;
                         } else if (simbolo === "+") {
-                            efeitoFinal += numero1 > 0 ? ` ${numero13r} - ${numero23r}` : `${numero13r} - ${numero23r}`;
+                            efeitoFinal += numero1 > 0 ? ` ${numero13r} ~ ${numero23r}` : `${numero13r} ~ ${numero23r}`;
                         } else {
                             efeitoFinal += ` ${numero1}`;
                         }
@@ -535,11 +534,11 @@ async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4) {
                         let numero13r = parseInt(numero13)
                         let numero23r = parseInt(numero23)
                         if (simbolo === "%" && numero13r > 0) {
-                            efeitoFinal += ` ${numero13r}% - ${numero23r}%`;
+                            efeitoFinal += ` ${numero13r}% ~ ${numero23r}%`;
                         } else if (simbolo === "%" && numero1 < 0) {
-                            efeitoFinal += ` ${numero13r}% - ${numero23r}%`;
+                            efeitoFinal += ` ${numero13r}% ~ ${numero23r}%`;
                         } else if (simbolo === "+") {
-                            efeitoFinal += numero1 > 0 ? ` ${numero13r} - ${numero23r}` : `${numero13r} - ${numero23r}`;
+                            efeitoFinal += numero1 > 0 ? ` ${numero13r} ~ ${numero23r}` : `${numero13r} ~ ${numero23r}`;
                         } else {
                             efeitoFinal += ` ${numero1}`;
                         }
@@ -564,7 +563,6 @@ async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4) {
 }
 function ocultaEfeitos() {
     document.getElementById("temefeitoserandomeffects").style.display = "none"
-    console.log(Ocultado)
 }
 
 function mudarBordaNivel(Q1, Q2, Q3) {
@@ -699,17 +697,17 @@ function checkCodigoBruto(codigoBruto) {
     if (!codigoBruto) { defaultItem(itemDefault) }
 
     let partes = codigoBruto.split(";");
-    if (partes.length <= 31) { atualizarItemSealed()
+    if (partes.length > 31) { atualizarFellow()
     } else { alert("Invalid code!, This code could not be recognized, please check Code again." + " " + codigoBruto); }
 }
-async function atualizarItemSealed() {
+async function atualizarFellow() {
     let codigoBruto = document.getElementById("codigoItem").value.trim();
     if (!codigoBruto) {
         defaultItem(itemDefault)
     }
     let partes = codigoBruto.split(";");
 
-    if (partes.length == 30) {
+    if (partes.length > 30) {
         let id = partes[0]
         let name = partes[1]
         let rarity = partes[2]
@@ -746,7 +744,7 @@ async function atualizarItemSealed() {
         mudarLevel(itemLevel)
         mudarTraitPower(traitPower)
         adicionaNome()
-        processarEfeitosDoItemacc(maxEnhancedSealedFellowEffect, sealedFellowEffect1, sealedFellowEffect2, sealedFellowEffect3)
+        processarEfeitosDoItemacc(sealedFellowEffect1, sealedFellowEffect2, sealedFellowEffect3, maxEnhancedSealedFellowEffect, rarity)
         definePreco(precosell, cannotBeDisposed, "*")
         
         mudarUsagePeriod(usePeriod)

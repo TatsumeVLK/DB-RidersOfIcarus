@@ -48,159 +48,159 @@ t_key,t_korean
 ^pvpSetpr5069_Name^,^Intermediate^
 ^pvpSetall4564_Name^,^Less massacre jewel Set^
 ^pvpSetall5069_Name^,^Intermediate massacre jewel Set^
-^Setgd3301_Name^,^Fall followers Set^
-^Setwr3301_Name^,^Fall followers Set^
-^Settf3301_Name^,^Fall followers Set^
-^Setwz3301_Name^,^Fall followers Set^
-^Setpr3301_Name^,^Fall followers Set^
-^Setgd3501_Name^,^Cold ice corps Set^
-^Setwr3501_Name^,^Cold ice corps Set^
-^Settf3501_Name^,^Cold ice corps Set^
-^Setwz3501_Name^,^Cold ice corps Set^
-^Setpr3501_Name^,^Cold ice corps Set^
-^Setall3401_Name^,^Debbie's Grind Set^
-^Setall2501_Name^,^Yatai Bay Set^
-^Setall4001_Name^,^Zmeu Set^
+^setgd3301_Name^,^Set of Corrupted Followers^
+^setwr3301_Name^,^Set Fallen Follower^
+^settf3301_Name^,^Set of Corrupted Followers^
+^setwz3301_Name^,^Set Corrupted Follower^
+^setpr3301_Name^,^Set Corrupted Follower^
+^setgd3501_Name^,^Relentless Ice Commander's Set^
+^setwr3501_Name^,^Relentless Ice Marshal Set^
+^settf3501_Name^,^Relentless Ice Legionnaire Set^
+^setwz3501_Name^,^Relentless Ice Legionnaire Set^
+^setpr3501_Name^,^Relentless Ice Commander's Set^
+^setall3401_Name^,^Debbie's Grudge Set^
+^setall2501_Name^,^Yataiman Set^
+^setall4001_Name^,^Zmeu Set^
 ^pvpSetall3148_Name^,^Hunter Jack Set^
 ^pvpSetall3350_Name^,^Clekki Set^
 ^pvpSetall3552_Name^,^Nightmare Set^
 ^pvpSetall3855_Name^,^Pyruds of Horror^
 ^pvpSetall4259_Name^,^Bearlet Set^
 ^pvpSetall4562_Name^,^Meganes Set of Nightmare^
-^Setall2013_Name^,^Set of ruins swallowed by fire^
-^Setall2023_Name^,^Carlen Mansion Jewel Set^
-^Setall2023_Name^,^Frozen ruin jewel Set^
-^Setall3031_Name^,^Bismut's trinket Set^
-^Setgd3031_Name^,^Poseina's Guardian Set^
-^Setwr3031_Name^,^Poseina's Berzerker Set^
-^Settf3031_Name^,^Poseina's Assassin Set^
-^Setwz3031_Name^,^Poseina's element Set^
-^Setpr3031_Name^,^Poseina's belief Set^
-^Setall3032_Name^,^Usla's Jewelry Set^
-^ev_Set06181_Name^,^Taegeuk Hood^
-^ev_Set06182_Name^,^Red cheeRing headband^
-^ev_Set06183_Name^,^Red cheeRing suit Set^
-^Setall3541_Name^,^A Set of trinkets of cruel destiny^
-^Setgd4001_Name^,^Commander's Guardian Set^
-^Setwr4001_Name^,^General Commander's Berzerker Set^
-^Settf4001_Name^,^Commander's Assassin Set^
-^Setwz4001_Name^,^Commander's Element Set^
-^Setpr4001_Name^,^Commander's belief Set^
-^Setall3542_Name^,^Farna Champion's Trinket Set^
-^Setgd4002_Name^,^Blessed Commander's Guardian Set^
-^Setwr4002_Name^,^A Berzerker range of blessed commander -in -chief^
-^Settf4002_Name^,^A Assassin Set of a blessed commander^
-^Setwz4002_Name^,^A Set of elements of a blessed commander^
-^Setpr4002_Name^,^Blessed commander's belief Set^
-^Setall3543_Name^,^Giant^
-^Setall4002_Name^,^Airspace Guardian Set^
-^Setall4003_Name^,^Functional Jewelry Set of airspace^
-^Setall4004_Name^,^Set of a Shining Legendary Item Box leader^
-^Setgd4011_Name^,^The Guardian Set of the Shining Legendary Item Box leader I^
-^Setgd4012_Name^,^Salent Leader's Guardian Set II^
-^Setgd4013_Name^,^Protestant Leader's Guardian Set III^
-^Setwr4011_Name^,^Shining Legendary Item Box Leader's Berzerker Set I^
-^Setwr4012_Name^,^Shining Legendary Item Box Leader's Berzerker Set II^
-^Setwr4013_Name^,^Shining Legendary Item Box Leader's Berzerker Set III^
-^Settf4011_Name^,^Assassin Set of a Shining Legendary Item Box leader^
-^Settf4012_Name^,^Assassin Set of Shining Legendary Item Box Leaders II^
-^Settf4013_Name^,^Assassin Set of Shining Legendary Item Box Leaders III^
-^Setwz4011_Name^,^Set of the Shining Legendary Item Box Leader's Element I^
-^Setwz4012_Name^,^Set the element of the Shining Legendary Item Box leader II^
-^Setwz4013_Name^,^Set of Shining Legendary Item Box Leaders III^
-^Setpr4011_Name^,^Set of the Shining Legendary Item Box Leader's Belief Set I^
-^Setpr4012_Name^,^Shining Legendary Item Box Leader's Belief Set II^
-^Setpr4013_Name^,^Shining Legendary Item Box Leader's Belief Set III^
-^Setgd4021_Name^,^Karasha's Guardian Set^
-^Setwr4021_Name^,^Karasha's Berzerker Set^
-^Settf4021_Name^,^Karasha's Assassin Set^
-^Setwz4021_Name^,^Karasha's element Set^
-^Setpr4021_Name^,^Karasha's belief Set^
-^Setall4021_Name^,^Karasha's ornament Set^
-^fq_Set2_0001_Name^,^Serry dragon's fellow Set^
-^fq_Set3_0001_Name^,^Rare Serryong's Fellow Set^
-^fq_Set2_0002_Name^,^Fellowship of outstanding spirits^
-^fq_Set3_0002_Name^,^Rare Spirit Fellow Set^
-^fq_Set2_0003_Name^,^Fellowship of outstanding Guardians^
-^fq_Set3_0003_Name^,^Rare Guardian Fellow Set^
-^fq_Set2_0004_Name^,^Fellowship of excellent blessing^
-^fq_Set3_0004_Name^,^Rare blessing fellow Set^
-^fq_Set2_0005_Name^,^Outstanding Curse Fellow Set^
-^fq_Set3_0005_Name^,^Rare Curse Fellow Set^
-^fq_Set2_0006_Name^,^Lower Hunter Fellow Set^
-^fq_Set2_0007_Name^,^Intermediate hunter fellow Set^
-^fq_Set2_0008_Name^,^Advanced Hunter Fellow Set^
-^fq_Set2_0009_Name^,^Less massacre fellow Set^
-^fq_Set2_1009_Name^,^Intermediate Massacre Fellow Set^
-^fq_Set2_0010_Name^,^Excellent sacred fellow Set^
-^fq_Set3_0006_Name^,^Rare sacred fellow Set^
-^fq_Set2_0011_Name^,^Special Cheongma Fellow Set^
-^fq_Set3_0007_Name^,^Blessed Cheongma's Fellow Set^
-^fq_Set3_0008_Name^,^Kuhalan's Fellow Set^
-^fq_Set2_0012_Name^,^Elite Knights Fellow Set^
-^fq_Set2_0013_Name^,^Fellowship of outstanding nightmares^
-^fq_Set3_0009_Name^,^Rare nightmare fellow Set^
-^fq_Set4_0001_Name^,^Fellowship of a noble nightmare^
-^fq_Set4_0002_Name^,^A noble black fellow Set^
-^Setall4005_Name^,^New Gong Set of Enhancement^
-^Setall4006_Name^,^Merchant's new Set^
-^Setall4007_Name^,^Trainer's new Set^
-^Setgd4014_Name^,^Set of Guardian wealth^
-^Setgd4015_Name^,^Guardian abundance Set^
-^Setgd4016_Name^,^Taming Guardian^
-^Setwr4014_Name^,^Set of Berzerker wealth suits^
-^Setwr4015_Name^,^Wine^
-^Setwr4016_Name^,^Berzerker width taming Set of masters^
-^Settf4014_Name^,^Assassin^
-^Settf4015_Name^,^Assassin^
-^Settf4016_Name^,^Assassin taming Set of masters^
-^Setwz4014_Name^,^Set^
-^Setwz4015_Name^,^Elemental Set^
-^Setwz4016_Name^,^Taming elements^
-^Setpr4014_Name^,^Set of beliefs^
-^Setpr4015_Name^,^Set of beliefs^
-^Setpr4016_Name^,^Taming belief^
-^Setgd5001_Name^,^Guardian Set of the Dark Army^
-^Setwr5001_Name^,^A Berzerker range of Dark corps^
-^Settf5001_Name^,^Assassin Set^
-^Setwz5001_Name^,^Elemental Set^
-^Setpr5001_Name^,^Set of the Dark Army Corps^
-^fq_Set6_0001_Name^,^Sand experience Set^
-^fq_Set6_0002_Name^,^Excellent sand experience Set^
-^fq_Set6_0003_Name^,^Mirage^
-^fq_Set6_0004_Name^,^Roded's experience Set^
-^fq_Set6_0005_Name^,^Desert experience Set^
-^fq_Set6_0006_Name^,^Excellent desert experience Set^
-^fq_Set6_0007_Name^,^Heat of experience^
-^fq_Set6_0008_Name^,^Shakiba's experience Set^
-^Setgd5002_Name^,^Blessed Dark County Guard Set^
-^Setwr5002_Name^,^A Berzerker range of blessed Dark corps^
-^Settf5002_Name^,^Assassin Set of blessed Dark corps^
-^Setwz5002_Name^,^A Set of elements of a blessed Dark corps^
-^Setpr5002_Name^,^Blessed Dark Corps' belief Set^
-^Setall4008_Name^,^Blacksmith's new Set^
-^Setall4009_Name^,^Lasat Set^
-^Setall4010_Name^,^Cassim Set^
-^Setall4011_Name^,^Xenon Set^
-^Setall4012_Name^,^Mupidine Set^
-^Setall4013_Name^,^Ancient Set^
-^Setall4014_Name^,^Desert Champion's Trinket Set^
-^SetallXMAS_Name^,^Christmas trinket Set^
-^Setgd5021_Name^,^Ellora's Punishment Guard Set^
-^Setwr5021_Name^,^Ellora's Berzerker Set^
-^Settf5021_Name^,^Ellora's Heavenly Assassin Set^
-^Setwz5021_Name^,^Ellora's Pulmonary Element Set^
-^Setpr5021_Name^,^Ellora's Pulmonary Belief Set^
-^Setgd5031_Name^,^Ellora's grace Guardian Set^
-^Setwr5031_Name^,^Ellora's Grace Set^
-^Settf5031_Name^,^Ellora's Grace Assassin Set^
-^Setwz5031_Name^,^Ellora's grace element Set^
-^Setpr5031_Name^,^Ellora's Grace Belief Set^
-^Setall5021_Name^,^Ellora's trinket Set^
-^fq_Set7_0001_Name^,^Fellowship Set of floods (unused)^
-^fq_Set7_0002_Name^,^Fellowship Set of floods^
-^fq_Set7_0003_Name^,^Turquoise^
-^fq_Set7_0004_Name^,^Torkai Fellow Set^
+^setall2013_Name^,^Fire Swallowed Ruins Accessory Set^
+^setall2018_Name^,^Carleans Palace Accessory Set^
+^setall2023_Name^,^Frozen Ruins Trinket Set^
+^setall3031_Name^,^Bismuth's Trinket Set^
+^setgd3031_Name^,^Poseina's Guardian Set^
+^setwr3031_Name^,^Poseina's Wide Set^
+^settf3031_Name^,^Poseina's Shadow Set^
+^setwz3031_Name^,^Poseina's Set of Elements^
+^setpr3031_Name^,^Poseina's Faith Set^
+^setall3032_Name^,^Usla's Accessory Set^
+^ev_set06181_Name^,^Taegeuk Hood^
+^ev_set06182_Name^,^Red cheer headband^
+^ev_set06183_Name^,^Red cheering suit set^
+^setall3541_Name^,^Trinket Set of Cruel Fate^
+^setgd4001_Name^,^The Marshal's Guardian Set^
+^setwr4001_Name^,^High Commander's Berserker Set^
+^settf4001_Name^,^The Commander-in-Chief's Shadow Set^
+^setwz4001_Name^,^High Commander's Elemental Set^
+^setpr4001_Name^,^The Marshal's Faith Set^
+^setall3542_Name^,^Parna Warrior's Accessory Set^
+^setgd4002_Name^,^Blessed Marshal's Guardian Set^
+^setwr4002_Name^,^Blessed Grand Marshal's Berserker Set^
+^settf4002_Name^,^Shadow Set of the Blessed Marshal^
+^setwz4002_Name^,^Blessed Marshal's Elemental Set^
+^setpr4002_Name^,^Blessed Marshal's Faith Set^
+^setall3543_Name^,^God's Accessory Set^
+^setall4002_Name^,^Space Guardian Set^
+^setall4003_Name^,^Area fighting spirit accessory set^
+^setall4004_Name^,^Radiant Leader's Trinket Set^
+^setgd4011_Name^,^Radiant Leader's Guardian Set I^
+^setgd4012_Name^,^Brilliant Guider's Guardian Set II^
+^setgd4013_Name^,^Radiant Leader's Guardian Set III^
+^setwr4011_Name^,^Radiant Leader's Bezel Set I^
+^setwr4012_Name^,^Radiant Leader's Berserk Set II^
+^setwr4013_Name^,^Radiant Leader's Berserk Set III^
+^settf4011_Name^,^Brilliant Guider's Shadow Set I^
+^settf4012_Name^,^Brilliant Guider's Shadow Set II^
+^settf4013_Name^,^Brilliant Guider's Shadow Set III^
+^setwz4011_Name^,^Radiant Leader's Elemental Set I^
+^setwz4012_Name^,^Radiant Leader's Elemental Set II^
+^setwz4013_Name^,^Radiant Leader's Elemental Set III^
+^setpr4011_Name^,^Radiant Leader's Faith Set I^
+^setpr4012_Name^,^Radiant Leader's Faith Set II^
+^setpr4013_Name^,^Radiant Leader's Faith Set III^
+^setgd4021_Name^,^Karasha's Guardian Set^
+^setwr4021_Name^,^Karasha's Wide Set^
+^settf4021_Name^,^Karasha's Shadow Set^
+^setwz4021_Name^,^Karasha's Set of Elements^
+^setpr4021_Name^,^Karasha's Faith Set^
+^setall4021_Name^,^Karasha's Accessory Set^
+^fq_set2_0001_Name^,^Excellent Shinryong Fellow Set^
+^fq_set3_0001_Name^,^Rare God Dragon Fellow Set^
+^fq_set2_0002_Name^,^Excellent Spirit Fellow Set^
+^fq_set3_0002_Name^,^Rare Spirit Fellow Set^
+^fq_set2_0003_Name^,^Excellent Guardian Fellow Set^
+^fq_set3_0003_Name^,^Rare Guardian Fellow Set^
+^fq_set2_0004_Name^,^Excellent Blessed Fellow Set^
+^fq_set3_0004_Name^,^Rare Blessed Fellow Set^
+^fq_set2_0005_Name^,^Excellent Set of Cursed Fellows^
+^fq_set3_0005_Name^,^Rare set of Cursed Fellows^
+^fq_set2_0006_Name^,^Lesser Hunter Fellow Set^
+^fq_set2_0007_Name^,^Intermediate Hunter Fellow Set^
+^fq_set2_0008_Name^,^Advanced Hunter Fellow Set^
+^fq_set2_0009_Name^,^Lesser Slayer Fellows Set^
+^fq_set2_1009_Name^,^Middle Slayer Fellows Set^
+^fq_set2_0010_Name^,^Set Outstanding Divine Fellows^
+^fq_set3_0006_Name^,^Rare Set of Divine Fellows^
+^fq_set2_0011_Name^,^Special Blue Horse Fellow Set^
+^fq_set3_0007_Name^,^Blessed Blue Horse Fellow Set^
+^fq_set3_0008_Name^,^Kuhalan's Fellows Set^
+^fq_set2_0012_Name^,^Elite Knights Fellow Set^
+^fq_set2_0013_Name^,^Excellent Nightmare Fellows Set^
+^fq_set3_0009_Name^,^Rare Set of Nightmare Fellows^
+^fq_set4_0001_Name^,^Noble Nightmare Fellows Set^
+^fq_set4_0002_Name^,^Noble Jet-Dark Fellows Set^
+^setall4005_Name^,^Enhancement New Art Set^
+^setall4006_Name^,^Merchant's Magic Set^
+^setall4007_Name^,^Trainer's New Skill Set^
+^setgd4014_Name^,^Set of Guardian Wealth^
+^setgd4015_Name^,^Guardian Set of Abundance^
+^setgd4016_Name^,^Guardian Taming Master's Set^
+^setwr4014_Name^,^Set of wide-brimmed riches^
+^setwr4015_Name^,^Broad Abundance Set^
+^setwr4016_Name^,^Broad Taming Master's Set^
+^settf4014_Name^,^Set of Shadow Riches^
+^settf4015_Name^,^Set of Shadow Abundance^
+^settf4016_Name^,^Shadow Taming Master's Set^
+^setwz4014_Name^,^Set of Elemental Wealth^
+^setwz4015_Name^,^Set of Elemental Abundance^
+^setwz4016_Name^,^Elemental Taming Master's Set^
+^setpr4014_Name^,^Set of Faith Wealth^
+^setpr4015_Name^,^Set of Belief Abundance^
+^setpr4016_Name^,^Training Faith Master's Set^
+^setgd5001_Name^,^Dark Legion Commander's Guardian Set^
+^setwr5001_Name^,^Dark Warlord's Berserk Set^
+^settf5001_Name^,^Shadow Set of Dark Legion Commander^
+^setwz5001_Name^,^Elemental Set of the Dark Warlord^
+^setpr5001_Name^,^Dark Legion Commander's Faith Set^
+^fq_set6_0001_Name^,^Sand experience set^
+^fq_set6_0002_Name^,^Excellent sand experience set^
+^fq_set6_0003_Name^,^Mirage's experience set^
+^fq_set6_0004_Name^,^Lohdesh's experience set^
+^fq_set6_0005_Name^,^Desert experience set^
+^fq_set6_0006_Name^,^Excellent desert experience set^
+^fq_set6_0007_Name^,^Martian's EXP Set^
+^fq_set6_0008_Name^,^Shakiba's experience set^
+^setgd5002_Name^,^Blessed Dark Legion Commander's Guardian Set^
+^setwr5002_Name^,^Blessed Dark Warlord's Berserk Set^
+^settf5002_Name^,^Blessed Dark Legion Commander's Shadow Set^
+^setwz5002_Name^,^Blessed Dark Warlord's Elemental Set^
+^setpr5002_Name^,^Blessed Dark Legion Commander's Faith Set^
+^setall4008_Name^,^Blacksmith's New Art Set^
+^setall4009_Name^,^Rajat Set^
+^setall4010_Name^,^Kasim Set^
+^setall4011_Name^,^Xenon Set^
+^setall4012_Name^,^Mufaddin Set^
+^setall4013_Name^,^Ancient Set^
+^setall4014_Name^,^Desert Warrior's Accessory Set^
+^setallXMAS_Name^,^Christmas Trinket Set^
+^setgd5021_Name^,^Elora's Punishment Set^
+^setwr5021_Name^,^Elora's Punishment Set^
+^settf5021_Name^,^Ellora's Wrath Shadow Set^
+^setwz5021_Name^,^Ellora's Wrath Elemental Set^
+^setpr5021_Name^,^Ellora's Punishment Faith Set^
+^setgd5031_Name^,^Ellora's Grace Guardian Set^
+^setwr5031_Name^,^Ellora's Grace Wide Set^
+^settf5031_Name^,^Ellora's Grace Shadow Set^
+^setwz5031_Name^,^Ellora's Grace Elemental Set^
+^setpr5031_Name^,^Ellora's Grace Faith Set^
+^setall5021_Name^,^Elora's Accessory Set^
+^fq_set7_0001_Name^,^Water damage fellow set (unused)^
+^fq_set7_0002_Name^,^Water damage fellow set^
+^fq_set7_0003_Name^,^Cyan Fellows Set^
+^fq_set7_0004_Name^,^Torkai's Fellows Set^
 ^Setgd37_1_Name^,^Blessed burning ruins of Guardian Set^
 ^Setwr38_1_Name^,^Blessed burning ruins^
 ^Settf39_1_Name^,^Blessed burning ruins Assassin Set^
@@ -216,30 +216,30 @@ t_key,t_korean
 ^Settf320_1_Name^,^Blessed frozen mellene Assassin Set^
 ^Setwz321_1_Name^,^Blessed Frozen Marten Element Set^
 ^Setpr322_1_Name^,^Blessed Frozen Marten's belief Set^
-^Setgd3301_1_Name^,^Blessed Fall Fall followers Guard Set^
-^Setwr3301_1_Name^,^Blessed fallen followers Berzerker Set^
-^Settf3301_1_Name^,^Blessed Fall Fally Follower Assassin Set^
-^Setwz3301_1_Name^,^Blessed Fall Fally Follower Element Set^
-^Setpr3301_1_Name^,^Blessed Fall Fall followers belief Set^
-^Setgd3501_1_Name^,^Blessed Ice Legion Guard Set^
-^Setwr3501_1_Name^,^Blessed Ice Legion Corps Set^
-^Settf3501_1_Name^,^A blessed blessed grim ice corps Assassin Set^
-^Setwz3501_1_Name^,^Blessed Ice Legion Element Set^
-^Setpr3501_1_Name^,^Blessed Ice Legion Belief Set^
-^Setgd4031_Name^,^Chaos^
-^Setwr4031_Name^,^A Berzerker range of chaos^
-^Settf4031_Name^,^Assassin Set^
-^Setwz4031_Name^,^Elemental Set^
-^Setpr4031_Name^,^Chaos^
-^Setall4031_Name^,^Chaos^
-^Setgd4041_Name^,^Dragonium Guardian Set^
-^Setwr4041_Name^,^Dragonium Berzerker Set^
-^Settf4041_Name^,^Dragonium Assassin Set^
-^Setwz4041_Name^,^Shining elemental Set^
-^Setpr4041_Name^,^Shining Legendary Item Box^
-^Setall4041_Name^,^Carlocksan Set^
-^Setall3001_Name^,^Zeranin jewel Set^
-^Setallsummer_Name^,^Ice cream jewel Set^
+^setgd3301_1_Name^,^Blessed Fallen Follower Guardian Set^
+^setwr3301_1_Name^,^Blessed Fallen Follower Berserk Set^
+^settf3301_1_Name^,^Blessed Fallen Follower Shadow Set^
+^setwz3301_1_Name^,^Blessed Fallen Follower Elemental Set^
+^setpr3301_1_Name^,^Blessed Fallen Follower Faith Set^
+^setgd3501_1_Name^,^Blessed Relentless Ice Corps Commander's Guardian Set^
+^setwr3501_1_Name^,^Blessed Relentless Ice Legionnaire Berserk Set^
+^settf3501_1_Name^,^Blessed Relentless Ice Warlord Shadow Set^
+^setwz3501_1_Name^,^Blessed Relentless Ice Brigade Elemental Set^
+^setpr3501_1_Name^,^Blessed Relentless Ice Legionnaire Faith Set^
+^setgd4031_Name^,^Guardian of Chaos Set^
+^setwr4031_Name^,^Chaos Berserk Set^
+^settf4031_Name^,^Shadows of Chaos Set^
+^setwz4031_Name^,^Chaotic Elemental Set^
+^setpr4031_Name^,^Chaotic Faith Set^
+^setall4031_Name^,^Chaos Accessory Set^
+^setgd4041_Name^,^Dragonium Guardian Set^
+^setwr4041_Name^,^Dragonium Berserk Set^
+^settf4041_Name^,^Dragonium Shadow Set^
+^setwz4041_Name^,^Glowing Element Set^
+^setpr4041_Name^,^Shining Faith Set^
+^setall4041_Name^,^Carl Roxanne Set^
+^setall3001_Name^,^Geranin Trinket Set^
+^setallsummer_Name^,^Ice Cream's Trinket Set^
 ^Setac27_Name^,^Cool Set of royal guards^
 ^Setac313_Name^,^Cool Set of burning ruins^
 ^Setac320_Name^,^Cursed Family Cool Set^
@@ -248,46 +248,46 @@ t_key,t_korean
 ^pvpSetac3033_Name^,^Intermediate hunter Set^
 ^pvpSetac3538_Name^,^A senior hunter Set^
 ^pvpSetac4043_Name^,^The best hunter Set^
-^Setac3302_Name^,^Fall followers Set^
-^Setac3501_Name^,^Cold ice corps Set^
-^Setac3031_Name^,^Poseina's Cool Set^
-^Setac4001_Name^,^Commander's Cool Set^
-^Setac4002_Name^,^Cool Set of blessed commander -in -chief^
-^Setac4011_Name^,^Cold Set of Shining Legendary Item Box leaders^
-^Setac4012_Name^,^Cool Set of Shining Legendary Item Box Leaders II^
-^Setac4013_Name^,^Cool Set of Shining Legendary Item Box Leaders III^
-^Setac4021_Name^,^Karasha's Cool Set^
-^Setac5001_Name^,^Cool Set of Dark corps^
-^Setac5002_Name^,^Cool Set of blessed Dark corps^
+^setac3302_Name^,^Set Corrupted Follower^
+^setac3501_Name^,^Relentless Ice Legionnaire Set^
+^setac3031_Name^,^Poseina's Calm Set^
+^setac4001_Name^,^The Commander-in-Chief's Cool Set^
+^setac4002_Name^,^Blessed Grand Marshal's Composure Set^
+^setac4011_Name^,^Radiant Leader's Calm Set I^
+^setac4012_Name^,^Radiant Leader's Calm Set II^
+^setac4013_Name^,^Radiant Leader's Calm Set III^
+^setac4021_Name^,^Karasha's Composure Set^
+^setac5001_Name^,^The Compassionate Set of Dark Legion Commanders^
+^setac5002_Name^,^Blessed Dark Legion Commander's Composure Set^
 ^pvpSetac4564_Name^,^Lower -level massacre Set^
 ^pvpSetac5069_Name^,^Intermediate^
-^Setac5021_Name^,^Ellora's Punishment Cool Set^
-^Setac5031_Name^,^Elora's Grace Cool Set^
-^Setall5544_Name^,^Awakening Yatai Bay Set^
-^fq_Set2_2009_name^,^Advanced Slaughter Fellow Set^
-^pvpSetwr5569_Name^,^Advanced Slaughter Set^
-^pvpSetall5569_Name^,^Advanced massacre jewel Set^
+^setac5021_Name^,^Elora's Punishment Calm Set^
+^setac5031_Name^,^Elora's Grace Calmness Set^
+^setall5544_Name^,^Awaken Yatai only set^
+^fq_set2_2009_name^,^Great Slayer Fellow Set^
+^pvpsetwr5569_Name^,^Greater Slayer Set^
+^pvpsetall5569_Name^,^Greater Slayer Trinket^
 ^pvpSetgd5569_Name^,^Advanced Slaughter Set^
 ^pvpSettf5569_Name^,^Advanced Slaughter Set^
 ^pvpSetwz5569_Name^,^Advanced Slaughter Set^
 ^pvpSetpr5569_Name^,^Advanced Slaughter Set^
 ^pvpSetac5569_Name^,^Advanced Slaughter Set^
-^Setac_d99_name^,^Challenger^
+^setac_d99_name^,^Challenger's Trinket Set^
 ^Setgd38_Name^,^Burning ruins of Guardian Set^
 ^Setwr39_Name^,^A Berzerker range of burning ruins^
 ^Settf310_Name^,^Assassin Set^
 ^Setwz311_Name^,^A Set of burning ruins^
 ^Setpr312_Name^,^Burning ruins of belief Set^
-^Setgd315_Name^,^Cursed family Guardian Set^
-^Setwr316_Name^,^A Berzerker range of cursed families^
-^Settf317_Name^,^Assassin Set of a cursed family^
-^Setwz318_Name^,^A Set of elements of a cursed family^
-^Setpr319_Name^,^Cursed Family Set^
-^Setgd321_Name^,^Martlen's Guardian Set^
-^Setwr322_Name^,^Martlen's Berzerker Set^
-^Settf323_Name^,^Martlen's Assassin Set^
-^Setwz324_Name^,^Set of the frozen mellene element^
-^Setpr325_Name^,^Martlen's belief Set^
+^setgd315_Name^,^Guardian Set of the Cursed Family^
+^setwr316_Name^,^Cursed Family Berserk Set^
+^settf317_Name^,^Shadow Set of Cursed Houses^
+^setwz318_Name^,^Cursed Family Set of Elements^
+^setpr319_Name^,^Cursed Family Beliefs Set^
+^setgd321_Name^,^Frozen Matelen's Guardian Set^
+^setwr322_Name^,^Frozen Matelen's Wide Set^
+^settf323_Name^,^Frozen Matelen's Shadow Set^
+^setwz324_Name^,^Frozen Matelen's Elemental Set^
+^setpr325_Name^,^Frozen Matelen's Faith Set^
 ^SeGD_3_6000_Name^,^Blessed Simrok's Guardian Set^
 ^SetWR_3_6000_Name^,^Berserker Set of blessed Simrok^
 ^SetTF_3_6000_Name^,^Blessed Simrok's Assassin Set^
@@ -300,14 +300,14 @@ t_key,t_korean
 ^SetWZ_3_6001_Name^,^Simrok's Wizard/Magician Set^
 ^SetPR_3_6001_Name^,^Simrok's Priest Set^
 ^SetAC_3_6001_Name^,^Simrang's Ranger Set^
-^Setall6000_Name^,^Sage's energy Set^
-^Setsty0000_Name^,^Slaughter^
-^Setsty0001_Name^,^Conqueror^
-^fq_SetC00_0004_Name^,^Blessing Fellow Equipment Set^
-^Setsty0002_Name^,^Jecheon Daeseong Set^
-^pvpSetall5570_Name^,^Captain of Abyss^
-^Setallgod6001_Name^,^Demon gelaris^
-^Setsty0003_Name^,^White Day Set (30 days)^
+^setall6000_Name^,^Sage's Aura Set^
+^setsty0000_Name^,^Slayer's Wicked Set^
+^setsty0001_Name^,^Conqueror's Wicked Set^
+^fq_setC00_0004_Name^,^Blessed Fellow Equipment Set^
+^setsty0002_Name^,^Jecheon Daeseong Set^
+^pvpsetall5570_Name^,^Abyssal Captain Trinket Set^
+^setallgod6001_Name^,^Demon Xelnaris' Accessory Set^
+^setsty0003_Name^,^White Day Set (30 days)^
 ^PVP_SetGD_6000_Name^,^Telleo Dark Guardian Set^
 ^PVP_SetWR_6001_Name^,^Telleo Dark Berserker Set^
 ^PVP_SetTF_6002_Name^,^Telleo Dark Assassin Set^
@@ -321,19 +321,19 @@ t_key,t_korean
 ^SetWZ_4_6003_Name^,^Alsas element Set^
 ^SetPR_4_6004_Name^,^Alsas belief Set^
 ^SetAC_4_6005_Name^,^Alsas Cool Set^
-^Setsty0004_Name^,^New Semester Set^
+^setsty0004_Name^,^Back to school set^
 ^SetALL_4_6006_Name^,^Alsas Jewelry Set^
 ^Setdo3276_Name^,^Idol Set^
 ^Setdo3277_Name^,^Idol Set^
 ^Setdo3278_Name^,^Martlen's Idol Set^
-^Setdo3301_Name^,^Fall followers Set^
-^Setdo3501_1_Name^,^Idol Set of blessed ice corps^
-^Setdo4002_Name^,^Idol Set of blessed commander -in -chief^
-^Setdo5002_Name^,^Idol Set of blessed Dark corps^
+^setdo3301_Name^,^Set Corrupted Follower^
+^setdo3501_1_Name^,^Blessed Relentless Ice Brigade Pure Set^
+^setdo4002_Name^,^Blessed Commander's Pure Set^
+^setdo5002_Name^,^Blessed Dark Legion Commander Pure Set^
 ^Setdo_3_6000_Name^,^Blessed Simrok's Idol Set^
-^Setdo4021_Name^,^Karasha's Idol Set^
-^Setdo5021_Name^,^Ellora's Punishment Idol Set^
-^Setdo5031_Name^,^Ellora's grace Idol Set^
+^setdo4021_Name^,^Karasha's Pure Set^
+^setdo5021_Name^,^Ellora's Punishment Pure Set^
+^setdo5031_Name^,^Ellora's Grace Pure Set^
 ^pvpSetdo2528_Name^,^Lower hunter Set^
 ^pvpSetdo3033_Name^,^Intermediate hunter Set^
 ^pvpSetdo3538_Name^,^A senior hunter Set^
@@ -342,25 +342,25 @@ t_key,t_korean
 ^pvpSetdo5569_Name^,^Advanced Slaughter Set^
 ^Setdo_4_6004_Name^,^Alsas Idol Set^
 ^PVP_Setdo_6004_Name^,^Telleo Dark Idol Set^
-^Setdo2295_Name^,^Idol Set^
-^Setsty0005_Name^,^Summer Set (30 days)^
-^Setsty0006_Name^,^Summer Set (15 days)^
-^fq_SetC00_0005_Name^,^Blessing Fellow Equipment Set^
-^Setsty0007_Name^,^Summer Set II (30 days)^
-^Setsty0008_Name^,^Summer Set II (7th)^
-^Setsty0009_Name^,^Ika Sports Set (30 days)^
+^setdo2295_Name^,^Pure Set of Royal Guards^
+^setsty0005_Name^,^Summer Set (30 days)^
+^setsty0006_Name^,^Summer set (15 days)^
+^fq_setC00_0005_Name^,^Blessed Fellow Equipment Set^
+^setsty0007_Name^,^Summer Set II (30 Days)^
+^setsty0008_Name^,^Summer Set II (7 Days)^
+^setsty0009_Name^,^Ika Sports Set (30 Days)^
 ^SetALL_EV4_6001_Name^,^Reaper's trinket Set^
-^Setall_16_8000_Name^,^Acrat's absolute Jewelry Set^
-^fq_SetC00_0006_Name^,^Fellows of the breeder^
-^Setsty0010_Name^,^Traditional Set (30 days)^
-^Setsty0011_Name^,^Jecheon University Set (14th)^
-^Setsty0012_Name^,^Conqueror's Wiki Set (14th)^
-^Setsty0013_Name^,^Traditional Set (14 days)^
-^Setsty0014_Name^,^New Semester Set (14th)^
-^Setsty0015_Name^,^Halloween Set (30 days)^
-^Setsty0016_Name^,^Halloween Set (14 days)^
-^Setsty0017_Name^,^Set of the Slaughter Wikid (14th)^
-^Setsty0018_Name^,^Winter Set (30 days)^
+^setall_16_8000_Name^,^Akrat's Absolute Accessory Set^
+^fq_setC00_0006_Name^,^The Zookeeper's Fellow Equipment Set^
+^setsty0010_Name^,^Traditional Set (30 days)^
+^setsty0011_Name^,^Jecheon Daeseong Set (14 days)^
+^setsty0012_Name^,^Conqueror's Wicked Set (14 Days)^
+^setsty0013_Name^,^Traditional Set (14 days)^
+^setsty0014_Name^,^New Semester Set (14 days)^
+^setsty0015_Name^,^Halloween set (30 days)^
+^setsty0016_Name^,^Halloween set (14 days)^
+^setsty0017_Name^,^Slayer's Wicked Set (14 Days)^
+^setsty0018_Name^,^Winter Set (30 days)^
 ^SetGD_4_6500_Name^,^Temmain Guardian Set^
 ^SetWR_4_6501_Name^,^Temmain Berzerker Set^
 ^SetTF_4_6502_Name^,^Temmain Assassin Set^
@@ -369,7 +369,7 @@ t_key,t_korean
 ^SetAC_4_6505_Name^,^Temmain Ranger Set^
 ^Setdo_4_6504_Name^,^Temmain Idol Set^
 ^SetALL_4_6506_Name^,^Temmain^
-^Setsty0019_Name^,^Christmas Set (30 days)^
+^setsty0019_Name^,^Christmas Set (30 Days)^
 ^SeGD_3_6500_Name^,^Lazard's Guardian Set^
 ^SetWR_3_6500_Name^,^Lazard's Berzerker Set^
 ^SetTF_3_6500_Name^,^Lajad's Assassin Set^
@@ -381,7 +381,7 @@ t_key,t_korean
 ^PVP_Reward_2_Name^,^Corridor's trinket Set^
 ^PVP_Reward_3_Name^,^Battlefield^
 ^SetFE_3_6500_Name^,^North Wind Energy Set^
-^Setsty0020_Name^,^Kurodian's energy^
+^setsty0020_Name^,^Kurodian Spirit^
 ^EV_SetGD_6000_Name^,^Telleo Dark Guardian Rental Set^
 ^EV_SetWR_6001_Name^,^Telleo Dark Berserker Rental Set^
 ^EV_SetTF_6002_Name^,^Telleo Dark Assassin Rental Set^
@@ -389,21 +389,21 @@ t_key,t_korean
 ^EV_SetPR_6004_Name^,^Telleo Dark Priest Rental Set^
 ^EV_SetAC_6005_Name^,^Telleo Dark Ranger Rental Set^
 ^EV_Setdo_6004_Name^,^Telleo Dark Idol Rental Set^
-^Setsty0021_Name^,^Ice dragon Set^
+^setsty0021_Name^,^Bingryong Set^
 ^EV_SetAll_6006_Name^,^Telleo Dark Trinkets Rental Set^
-^fq_SetC00_0007_Name^,^Fellow Fellows Set^
+^fq_setC00_0007_Name^,^Oath Fellow Equipment Set^
 ^SetALL_EV4_6002_Name^,^Trinket of trust^
-^Setsty0022_Name^,^White Day Set (14th)^
+^setsty0022_Name^,^White Day Set (14 days)^
 ^SetALL_jena_6500_Name^,^Sophisticated Jenazaon Set^
 ^SetALL_jena_6001_Name^,^Zenazaon Set^
-^Setwr5022_Name^,^Ellora's Berzerker Set (Rental)^
-^Settf5022_Name^,^Ellora's Heavenly Assassin Set (Rental)^
-^Setwz5022_Name^,^Ellora's Pulmonary element Set (rental)^
-^Setpr5022_Name^,^Ellora's Pulmonary Belief Set (Rental)^
-^Setac5022_Name^,^Ellora's Punishment Cool Set (Rental)^
-^Setgd5032_Name^,^Elora's grace Guardian Set (rental)^
-^Setdo5022_Name^,^Ellora's Purple Set (Rental)^
-^Setsty0023_Name^,^Ice Dragon Set (14th)^
+^setwr5022_Name^,^Elora Punishment Set (Rental)^
+^settf5022_Name^,^Elora Wrath Shadow Set (Rental)^
+^setwz5022_Name^,^Elora Wrath Elemental Set (Rental)^
+^setpr5022_Name^,^Elora Punishment Faith Set (Rental)^
+^setac5022_Name^,^Elora Punishment Set of Calmness (Rental)^
+^setgd5032_Name^,^Elora Grace Guardian Set (Rental)^
+^setdo5022_Name^,^Elora Wrath Pure Set (Rental)^
+^setsty0023_Name^,^Bingryong Set (14 Days)^
 ^SetGD_Ev_6000_Name^,^Alsas Guardian Set (rental)^
 ^SetWR_Ev_6001_Name^,^Alsas Berzerker Set (rental)^
 ^SetTF_Ev_6002_Name^,^Alsas Assassin Set (rental)^
@@ -412,11 +412,11 @@ t_key,t_korean
 ^SetAC_Ev_6005_Name^,^Alsas Cool Set (Rental)^
 ^SetALL_Ev_6006_Name^,^Alsas trinkets Set (rental)^
 ^Setdo_Ev_6004_Name^,^Alsas Idol Set (rental)^
-^fq_SetC00_0008_Name^,^Adrian Fellow Equipment Set^
-^Setsty0024_Name^,^Darkness Set (30 days)^
-^fq_SetC00_0009_Name^,^Faint fellow^
-^Setsty0025_Name^,^Conqueror's Wiki Set (1 Day)^
-^Setsty0026_Name^,^Darkness Set (14th)^
+^fq_setC00_0008_Name^,^Adrian Fellow Equipment Set^
+^setsty0024_Name^,^Darkness Set (30 Days)^
+^fq_setC00_0009_Name^,^Dim Blessing Fellow Equipment Set^
+^setsty0025_Name^,^Conqueror's Wicked Set (1 Day)^
+^setsty0026_Name^,^Darkness Set (14 Days)^
 ^SetAll_7000_Name^,^Bragi priest's Jewelry Set^
 ^SetAll_7001_Name^,^Yatuman Bay^
 ^PVPEV_SetGD_6000_Name^,^MacBin Dark Guardian Set^
@@ -427,27 +427,49 @@ t_key,t_korean
 ^PVPEV_SetAC_6005_Name^,^MacBin Dark Cool Set^
 ^PVPEV_Setdo_6004_Name^,^MacBin Dark Idol Set^
 ^PVPEV_SetALL_6006_Name^,^MacBin Dark Trinket Set^
-^SetGD_7_6500_Name^,^Cold Blood Guardian Set^
-^SetWR_7_6501_Name^,^Cold Blood Berzerker Set^
-^SetTF_7_6502_Name^,^Cold Blood Assassin Set^
-^SetWZ_7_6503_Name^,^Cold Blood element Set^
-^SetPR_7_6504_Name^,^Cold Blood Belief Set^
-^SetAC_7_6505_Name^,^Cold Blood Ranger Set^
-^Setdo_7_6504_Name^,^Cold Blood Idol Set^
-^Setsty0027_Name^,^Darkness S Set^
-^Setsty0028_Name^,^Ice Dragon S Set^
-^Setsty0029_Name^,^Jecheondaeseong S Set^
-^Setsty0030_Name^,^Sasin Kurodian S Set^
-^Setsty0031_Name^,^Assassin S Set^
-^Setsty0032_Name^,^Ghost S Set^
-^Setsty0033_Name^,^Halloween pumpkin Set^
-^Setsty0034_Name^,^EmpireDay Set of power^
-^Setsty0035_Name^,^EmpireDay Set^
+^SetGD_7_6500_Name^,^ColdBlood Guardian Set^
+^SetWR_7_6501_Name^,^ColdBlood Berzerker Set^
+^SetTF_7_6502_Name^,^ColdBlood Assassin Set^
+^SetWZ_7_6503_Name^,^ColdBlood element Set^
+^SetPR_7_6504_Name^,^ColdBlood Belief Set^
+^SetAC_7_6505_Name^,^ColdBlood Ranger Set^
+^Setdo_7_6504_Name^,^ColdBlood Idol Set^
+^setsty0027_Name^,^Darkness S Set^
+^setsty0028_Name^,^Bingryong S Set^
+^setsty0029_Name^,^Jecheon Daesung S Set^
+^setsty0030_Name^,^God of Death Kurodian S Set^
+^setsty0031_Name^,^Shadow S Set^
+^setsty0032_Name^,^Wraith S Set^
+^setsty0033_Name^,^Halloween Pumpkin Set^
+^setsty0034_Name^,^Icaday Set of Power^
+^setsty0035_Name^,^Icaday Set of INT^
 ^SetALL_EV5_0001_Name^,^The blacksmith of chaos^
 ^SetALL_EV5_0002_Name^,^Smelter Set^
-^Setsty0036_Name^,^Armor and Armor Set^
-^Setsty0037_Name^,^Star Quality Set^
-^Setsty0038_Name^,^Vacance season Set^
-^Setsty0039_Name^,^Lost Dark Set^
-^Setsty0040_Name^,^Continue Measures Plan Set^
-^Setsty0041_Name^,^Traditional chef^
+^setsty0036_Name^,^Armor and Armor Sets^
+^setsty0037_Name^,^Set of Star Qualities^
+^setsty0038_Name^,^Vacation Seasonal Set^
+^setsty0039_Name^,^Lost Darkness Set^
+^setsty0040_Name^,^Cold weather plan set^
+^setsty0041_Name^,^Traditional Chef's Set^
+^SetAll_7002_Name^,^Cold Blooded Trinket Set^
+^SetGD_8_7500_Name^,^Demonite Guardian^
+^SetWR_8_7501_Name^,^Demonite Berzerker^
+^SetTF_8_7502_Name^,^Demonite Assasin^
+^SetWZ_8_7503_Name^,^Demonite Elemental^
+^SetPR_8_7504_Name^,^Demonite Priest^
+^SetAC_8_7505_Name^,^Demonite Ranger^
+^Setdo_8_7504_Name^,^Demonite Idol^
+^SetGD_7_65001_Name^,^Artisan Set^
+^SetWR_7_65011_Name^,^Artisan Set^
+^SetTF_7_65021_Name^,^Artisan Set^
+^SetWZ_7_65031_Name^,^Artisan Set^
+^SetPR_7_65041_Name^,^Artisan Set^
+^SetAC_7_65051_Name^,^Artisan Set^
+^Setdo_7_65041_Name^,^Artisan Set^
+^setsty0042_Name^,^Candy Bella Halloween Set^
+^setsty0043_Name^,^Phoenix Set^
+^fq_setC00_0010_Name^,^Demonite Gear Set^
+^setsty0045_Name^,^2024 Valentine Set^
+^SetAll_8001_Name^,^Demonite Accessory Set^
+^fq_setC00_0011_Name^,^Celestial Set^
+^setsty0050_Name^,^Big Martin Kitchen Set^

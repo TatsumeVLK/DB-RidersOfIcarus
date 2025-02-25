@@ -1310,7 +1310,8 @@ async function atualizarItemarmor() {
     }
     let partes = codigoBruto.split(";");
 
-    if (partes.length == 70) {let id = partes[0]
+    if (partes.length == 70) {
+        let id = partes[0]
         let name = partes[1]
         let development = partes[2]
         let requiredLevel = partes[3]

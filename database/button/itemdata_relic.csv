@@ -1,4 +1,4 @@
-id,level,rarity,type
+t_id;t_level;t_rarity;t_type
 re_ts_0_0000;111.000000;elite;re
 re_ts_0_0001;111.000000;heroic;re
 re_ts_0_0002;111.000000;legendary;re
@@ -8,3 +8,9 @@ ca_re_0_0001;900.000000;legendary;re
 ca_re_0_0002;900.000000;legendary;re
 ca_re_0_0003;900.000000;legendary;re
 ca_re_0_0004;900.000000;legendary;re
+ca_re_0_0005;900.000000;mythical;re
+ca_re_0_0006;900.000000;mythical;re
+ca_re_0_0007;900.000000;mythical;re
+ca_re_0_0008;900.000000;mythical;re
+ca_re_0_0009;900.000000;mythical;re
+ca_re_0_0010;900.000000;mythical;re

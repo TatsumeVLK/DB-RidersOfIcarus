@@ -1,10 +1,23 @@
 t_key,t_korean
 ^EN1_2_000_0001_Name^,^Elite Tempering Stone^
-^EN1_2_000_0001_Description^,^Tempers an item up to +20 max. <It_G> - Tempers up +1-3 levels at 100% chance.</It_G> <It_G> - Tempering can be boosted up to the max. level.</It_G> <It_G> - Right-click, then select an equipment to temper.</It_G>^
+^EN1_2_000_0001_Description^,^Tempers an item up to +20 max.
+<It_G> - Tempers up +1-3 levels at 100% chance.</It_G>
+<It_G> - Tempering can be boosted up to the max. level.</It_G>
+<It_G> - Right-click, then select an equipment to temper.</It_G>^
 ^EN1_3_000_0002_Name^,^Heroic Tempering Stone^
-^EN1_3_000_0002_Description^,^Enhances the attributes of the item at a temper level higher than +20 up to 21 -25. <It_G> - Tempers up +1-3 levels at 100% chance.</It_G> <It_G> - Tempering can be boosted up to the max. level.</It_G> <It_G> - Right-click, then select an equipment to temper</It_G>^
+^EN1_3_000_0002_Description^,^Enhances the attributes of the item at a temper level higher than +20 up to 21 -25.
+<It_G> - Tempers up +1-3 levels at 100% chance.</It_G>
+<It_G> - Tempering can be boosted up to the max. level.</It_G>
+<It_G> - Right-click, then select an equipment to temper</It_G>^
 ^CO_999_0000_Name^,^2nd Year Anniversary Cake^
-^CO_999_0000_Description^,^2nd Year Anniversary Cake.  When used for 21secs. buff effects are activated for 30mins. <UI_G> - STR +200 - INT +200 - CONS 100 - DEX +100 - WILL +100</UI_G>^
+^CO_999_0000_Description^,^2nd Year Anniversary Cake.
+
+When used for 21secs. buff effects are activated for 30mins.
+<UI_G> - STR +200
+- INT +200
+- CONS 100
+- DEX +100
+- WILL +100</UI_G>^
 ^CO_999_0001_Name^,^2nd Year Anniversary Drink^
 ^CO_999_0001_Description^,^Drink for celebrating 2nd year anniversary.^
 ^CA_IT_CM_0237_Name^,^Familiar : 2nd Year Anniversary Anniversary Luna^
@@ -22,9 +35,13 @@ t_key,t_korean
 ^tt_0_0_0202_name^,^Title: Teisha of Immensity Tamer^
 ^tt_0_0_0202_description^,^A title obtained by taming Teisha of Immensity.^
 ^en5_0_000_0160_name^,^Lv.200 Elite Tempering Stone^
-^en5_0_000_0160_description^,^Tempers up an item up to +20. <It_G> - The Tempering stone can be used only on items at legendary lv.60 or higher.</It_G> <It_G> - Right-click, then select an equipment to temper</It_G>^
+^en5_0_000_0160_description^,^Tempers up an item up to +20.
+<It_G> - The Tempering stone can be used only on items at legendary lv.60 or higher.</It_G>
+<It_G> - Right-click, then select an equipment to temper</It_G>^
 ^en5_0_001_0160_name^,^Lv.200 Heroic Tempering Stone^
-^en5_0_001_0160_description^,^Tempers up an item up to +25. <It_G> - The Tempering stone can be used only on items at legendary lv.60 or higher.</It_G> <It_G> - Right-click, then select an equipment to temper</It_G>^
+^en5_0_001_0160_description^,^Tempers up an item up to +25.
+<It_G> - The Tempering stone can be used only on items at legendary lv.60 or higher.</It_G>
+<It_G> - Right-click, then select an equipment to temper</It_G>^
 ^CA_IT_CM_0243_name^,^Familiar : Phantom Torkai^
 ^CA_IT_CM_0243_description^,^When used, <UI_G>[Phantom Torkai]</UI_G> appears in your storage.^
 ^CA_IT_CM_0244_name^,^Familiar : Phantom Torkai^
@@ -48,7 +65,9 @@ t_key,t_korean
 ^CA_IT_CM_0253_name^,^Pet : Mug Rabbini^
 ^CA_IT_CM_0253_description^,^When used, <UI_G>[Mug Rabbini]</UI_G> appears in your storage.^
 ^EN5_0_000_0161_name^,^Lv.220 Elite Tempering Stone(Legendary Only)^
-^EN5_0_000_0161_description^,^Tempers up an item up to +20. <It_G> - The Tempering stone can be used only on items at legendary lv.60 or higher.</It_G> <It_G> - Right-click, then select an equipment to temper</It_G>^
+^EN5_0_000_0161_description^,^Tempers up an item up to +20.
+<It_G> - The Tempering stone can be used only on items at legendary lv.60 or higher.</It_G>
+<It_G> - Right-click, then select an equipment to temper</It_G>^
 ^CA_IT_CM_0254_name^,^Lv.60 Legendary Weapon Refining Stone^
 ^CA_IT_CM_0254_description^,^Used to change the attributes of legendary weapons.<br><br>Can only be used on Weapons that matches this item's grade and level.<br><br>Can be used by visiting Casey in Hakain's Crossing.^
 ^CA_IT_CM_0255_name^,^Lv.60 Legendary Armor Refining Stone^
@@ -130,7 +149,10 @@ t_key,t_korean
 ^CO_4_0006_Name^,^Onyx Order Premium Recovery Potion^
 ^CO_4_0006_description^,^The potion used by the experienced Onyx Order. When used, <UI_G>50% of HP </UI_G> is restored.^
 ^EN2_0_000_0167_Name^,^Shining 30% Elite Tempering Stone^
-^EN2_0_000_0167_description^,^Tempers up an item at a fixed rate. <It_G> - The fixed rate is not influenced by Tempering success booster option.</It_G> <It_G> - Cannot be used to temper items 10 levels higher than your character.</It_G> <It_G> - Right-click, then select an equipment to temper</It_G>^
+^EN2_0_000_0167_description^,^Tempers up an item at a fixed rate.
+<It_G> - The fixed rate is not influenced by Tempering success booster option.</It_G>
+<It_G> - Cannot be used to temper items 10 levels higher than your character.</It_G>
+<It_G> - Right-click, then select an equipment to temper</It_G>^
 ^CA_IT_BP_0063_Name^,^Reverse Tempering Chance Boost Elixir(1hrs.)^
 ^CA_IT_CM_0262_Name^,^Familiar : Pegasus of Eternity^
 ^CA_IT_CM_0263_Name^,^Familiar : Pegasus of Eternity^
@@ -208,17 +230,29 @@ t_key,t_korean
 ^tt_0_0_0212_name^,^Title: Phyton of Calm Tamer^
 ^tt_0_0_0212_description^,^Phyton of Calm^
 ^CA_IT_CM_0280_name^,^Elite Identification Tool^
-^CA_IT_CM_0280_description^,^Needed to change properties of an elite relic at lv.55 or lower  <It_G> - Can be used only when the item's level and grade match</It_G>^
+^CA_IT_CM_0280_description^,^Needed to change properties of an elite relic at lv.55 or lower
+
+<It_G> - Can be used only when the item's level and grade match</It_G>^
 ^CA_IT_CM_0281_name^,^Heroic Identification Tool^
-^CA_IT_CM_0281_description^,^Need to identify a heroic relic at lv.55 or lower  <It_G> - Can be used only when the item's level and grade match</It_G>^
+^CA_IT_CM_0281_description^,^Need to identify a heroic relic at lv.55 or lower
+
+<It_G> - Can be used only when the item's level and grade match</It_G>^
 ^CA_IT_CM_0282_name^,^Legendary Identification Tool^
-^CA_IT_CM_0282_description^,^Need to identify a legendary relic at lv.55 or lower  <It_G> - Can be used only when the item's level and grade match</It_G>^
+^CA_IT_CM_0282_description^,^Need to identify a legendary relic at lv.55 or lower
+
+<It_G> - Can be used only when the item's level and grade match</It_G>^
 ^CA_IT_CM_0283_name^,^Demonite Identification Tool^
-^CA_IT_CM_0283_description^,^Needed to identify a Mythical relic at lv.80 or lower  <It_G> - Can be used only when the item's level and grade match</It_G>^
+^CA_IT_CM_0283_description^,^Needed to identify a Mythical relic at lv.80 or lower
+
+<It_G> - Can be used only when the item's level and grade match</It_G>^
 ^CA_IT_CM_0295_name^,^Legendary+ Identification Tool^
-^CA_IT_CM_0295_description^,^Needed to identify a legendary+ relic at lv.55 or lower  <It_G> - Can be used only when the item's level and grade match</It_G>^
+^CA_IT_CM_0295_description^,^Needed to identify a legendary+ relic at lv.55 or lower
+
+<It_G> - Can be used only when the item's level and grade match</It_G>^
 ^CA_IT_CM_0296_name^,^Legendary+ Identification Tool^
-^CA_IT_CM_0296_description^,^Needed to identify a legendary+ relic at lv.55 or lower  <It_G> - Can be used only when the item's level and grade match</It_G>^
+^CA_IT_CM_0296_description^,^Needed to identify a legendary+ relic at lv.55 or lower
+
+<It_G> - Can be used only when the item's level and grade match</It_G>^
 ^CA_IT_CM_0297_name^,^Familiar : Unicorn of Goddess^
 ^CA_IT_CM_0297_description^,^When used, <UI_G>[Unicorn of Goddess]</UI_G> appears in your storage.^
 ^CA_IT_CM_0298_name^,^Elite Relic Refining Stone^
@@ -240,7 +274,8 @@ t_key,t_korean
 ^CA_IT_CM_0306_name^,^Familiar : Poyo of Goddess^
 ^CA_IT_CM_0306_description^,^When used, <UI_G>[Poyo of Goddess]</UI_G> appears in your storage.^
 ^CA_IT_CM_0319_Name^,^Character Customization Voucher(7 days)^
-^CA_IT_CM_0319_description^,^A voucher lets you customize your character's appearance. Bring the ticket to the beautician at Hakain's Crossing to customize your character.^
+^CA_IT_CM_0319_description^,^A voucher lets you customize your character's appearance.
+Bring the ticket to the beautician at Hakain's Crossing to customize your character.^
 ^CA_IT_CM_0320_Name^,^Portable Storage Master(3 days)^
 ^CA_IT_CM_0321_Name^,^Portable Auction Broker(3 days)^
 ^CA_IT_CM_0322_Name^,^Transit Shrine Pass (3 days)^
@@ -272,7 +307,9 @@ t_key,t_korean
 ^CA_IT_CM_0317_description^,^When used, <UI_G>[Idol Daveen]</UI_G> appears in your storage.^
 ^CA_IT_CM_0318_description^,^When used, <UI_G>[Idol Daveen]</UI_G> appears in your storage.^
 ^EV_IT_BP_0079_Name^,^Pour More And More^
-^EV_IT_BP_0079_description^,^The reward item for Hey Buddy Come Play With Me event.  <It_G>The buff is applied to all the party members equally.<It_G>^
+^EV_IT_BP_0079_description^,^The reward item for Hey Buddy Come Play With Me event.
+
+<It_G>The buff is applied to all the party members equally.<It_G>^
 ^EV_IT_CM_0005_Name^,^Familiar : Light Awakened Rodesh^
 ^EV_IT_CM_0005_description^,^When used, <UI_G>[Light Awakened Rodesh]</UI_G> appears in your storage.^
 ^CA_IT_CM_0323_name^,^Mount: Count's Coach^
@@ -294,7 +331,9 @@ t_key,t_korean
 ^PvP_CO_0_0011_Name^,^Bleeding Tempering Potion^
 ^PvP_CO_0_0011_Description^,^<O_Y>Can be used only in the Badlands</O_Y>^
 ^EV_IT_BP_9999_Name^,^Ice Candy^
-^EV_IT_BP_9999_Description^,^<UI_Y>Collect the items and bring them to <UI_Y>[Clinton Rabbini]</UI_G> in exchange for various items.</UI_Y>  <O_Y><UI_G>[Clinton Rabbini]</UI_G> and <UI_G>Ice Candy</UI_G> disappears afther the scheduled maintenance on 27th July.</O_Y>^
+^EV_IT_BP_9999_Description^,^<UI_Y>Collect the items and bring them to <UI_Y>[Clinton Rabbini]</UI_G> in exchange for various items.</UI_Y>
+
+<O_Y><UI_G>[Clinton Rabbini]</UI_G> and <UI_G>Ice Candy</UI_G> disappears afther the scheduled maintenance on 27th July.</O_Y>^
 ^CA_IT_CM_0331_Name^,^Familiar : Crimson Torkai^
 ^CA_IT_CM_0332_Name^,^Familiar : Crimson Torkai^
 ^CA_IT_CM_0331_Description^,^When used, <UI_G>[Crimson Torkai]</UI_G> appears in your storage.^
@@ -399,12 +438,18 @@ t_key,t_korean
 ^PvP_CO_0_0013_Name^,^[PvP]Attack Interceptor Bomb^
 ^PvP_CO_0_0014_Name^,^[PvP]Defence Interceptor Bomb^
 ^PvP_CO_0_0015_Name^,^[PvP]Resistance Interceptor Bomb^
-^PvP_CO_0_0012_Description^,^Interceptor Bomb is only effective against a <G_Y>Player</G_Y>. <O_Y>Can be used only in the Badlands</O_Y>^
-^PvP_CO_0_0013_Description^,^Interceptor Bomb is only effective against a <G_Y>Player</G_Y>. <O_Y>Can be used only in the Badlands</O_Y>^
-^PvP_CO_0_0014_Description^,^Interceptor Bomb is only effective against a <G_Y>Player</G_Y>. <O_Y>Can be used only in the Badlands</O_Y>^
-^PvP_CO_0_0015_Description^,^Interceptor Bomb is only effective against a <G_Y>Player</G_Y>. <O_Y>Can be used only in the Badlands</O_Y>^
+^PvP_CO_0_0012_Description^,^Interceptor Bomb is only effective against a <G_Y>Player</G_Y>.
+<O_Y>Can be used only in the Badlands</O_Y>^
+^PvP_CO_0_0013_Description^,^Interceptor Bomb is only effective against a <G_Y>Player</G_Y>.
+<O_Y>Can be used only in the Badlands</O_Y>^
+^PvP_CO_0_0014_Description^,^Interceptor Bomb is only effective against a <G_Y>Player</G_Y>.
+<O_Y>Can be used only in the Badlands</O_Y>^
+^PvP_CO_0_0015_Description^,^Interceptor Bomb is only effective against a <G_Y>Player</G_Y>.
+<O_Y>Can be used only in the Badlands</O_Y>^
 ^LU_0_0006_Name^,^Bloody Flesh^
-^LU_0_0006_Description^,^A bait that fish in Akeron fishing area like When used, the chance of catching a big or decent fish increases. <O_Y>Can be used only in Akeron fishing area</O_Y>^
+^LU_0_0006_Description^,^A bait that fish in Akeron fishing area like
+When used, the chance of catching a big or decent fish increases.
+<O_Y>Can be used only in Akeron fishing area</O_Y>^
 ^tt_0_0_0213_Name^,^Title: Awakened Sewing Karasha Tamer^
 ^tt_0_0_0213_Description^,^Awakened Sewing Karasha^
 ^tt_0_0_0214_Name^,^Title: Awakened Sewing Calypse^
@@ -601,22 +646,30 @@ t_key,t_korean
 ^CO_Buff_0001_Description^,^The power of bless increases temprarily STR/INT/CONS.^
 ^CO_Buff_0002_Description^,^The power of bless increases temprarily STR/INT/CONS.^
 ^CO_Buff_0003_Description^,^The power of bless increases temprarily STR/INT/CONS.^
-^CO_Buff_0004_Description^,^The power of bless increases temprarily STR/INT/CONS. <O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0004_Description^,^The power of bless increases temprarily STR/INT/CONS.
+<O_Y>Can be used only in the Badlands</O_Y>^
 ^CO_Buff_0005_Description^,^The power of bless increases temprarily STR/INT/CONS.^
-^CO_Buff_0006_Description^,^The power of bless increases temprarily STR/INT/CONS. <O_Y>Can be used only in the Badlands</O_Y>^
-^CO_Buff_0007_Description^,^The power of bless increases temprarily STR/INT/CONS. <O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0006_Description^,^The power of bless increases temprarily STR/INT/CONS.
+<O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0007_Description^,^The power of bless increases temprarily STR/INT/CONS.
+<O_Y>Can be used only in the Badlands</O_Y>^
 ^CO_Buff_0008_Description^,^The power of bless increases temprarily STR/INT/CONS.^
 ^CO_Buff_0009_Description^,^The power of bless increases temprarily STR/INT/CONS.^
-^CO_Buff_0010_Description^,^The power of bless increases temprarily STR/INT/CONS. <O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0010_Description^,^The power of bless increases temprarily STR/INT/CONS.
+<O_Y>Can be used only in the Badlands</O_Y>^
 ^CO_Buff_0011_Description^,^The power of bless increases temprarily STR/INT/CONS.^
 ^CO_Buff_0012_Description^,^The power of bless increases temprarily STR/INT/CONS.^
-^CO_Buff_0013_Description^,^The power of bless increases temprarily STR/INT/CONS. <O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0013_Description^,^The power of bless increases temprarily STR/INT/CONS.
+<O_Y>Can be used only in the Badlands</O_Y>^
 ^CO_Buff_0014_Description^,^The power of bless increases temprarily STR/INT/CONS.^
 ^CO_Buff_0015_Description^,^The power of bless increases temprarily STR/INT/CONS.^
-^CO_Buff_0016_Description^,^The power of bless increases temprarily STR/INT/CONS. <O_Y>Can be used only in the Tower of Challenge</O_Y>^
-^CO_Buff_0017_Description^,^The power of bless increases temprarily STR/INT/CONS. <O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0016_Description^,^The power of bless increases temprarily STR/INT/CONS.
+<O_Y>Can be used only in the Tower of Challenge</O_Y>^
+^CO_Buff_0017_Description^,^The power of bless increases temprarily STR/INT/CONS.
+<O_Y>Can be used only in the Badlands</O_Y>^
 ^CO_Buff_0018_Description^,^The power of bless increases temprarily STR/INT/CONS.^
-^CO_Buff_0019_Description^,^The power of bless increases temprarily STR/INT/CONS. <O_Y>Can be used only in the Tower of Challenge</O_Y>^
+^CO_Buff_0019_Description^,^The power of bless increases temprarily STR/INT/CONS.
+<O_Y>Can be used only in the Tower of Challenge</O_Y>^
 ^CO_Buff_0020_Description^,^The power of bless increases temprarily STR/INT/CONS.^
 ^CO_Buff_0021_Description^,^Increases physical/magic critical hit chance temporarily.^
 ^CO_Buff_0022_Description^,^Increases physical/magic critical hit chance temporarily.^
@@ -627,7 +680,8 @@ t_key,t_korean
 ^CO_Buff_0027_Name^,^El Dor Village Courage Potion^
 ^CO_Buff_0028_Name^,^Akeron  Courage Potion^
 ^CO_Buff_0027_Description^,^The power of bless increases temprarily STR/INT/CONS.^
-^CO_Buff_0028_Description^,^The power of bless increases temprarily STR/INT/CONS. <O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0028_Description^,^The power of bless increases temprarily STR/INT/CONS.
+<O_Y>Can be used only in the Badlands</O_Y>^
 ^CO_Buff_0029_Name^,^Plain WILL Potion^
 ^CO_Buff_0030_Name^,^Modest WILL Potion^
 ^CO_Buff_0031_Name^,^Austere WILL Potion^
@@ -655,25 +709,35 @@ t_key,t_korean
 ^CO_Buff_0031_Description^,^The power of bless increases WILL temporarily.^
 ^CO_Buff_0032_Description^,^The power of bless increases WILL temporarily.^
 ^CO_Buff_0033_Description^,^The power of bless increases WILL temporarily.^
-^CO_Buff_0034_Description^,^The power of bless increases WILL temporarily. <O_Y>Can be used only in the Badlands</O_Y>^
-^CO_Buff_0035_Description^,^The power of bless increases WILL temporarily. <O_Y>Can be used only in the Badlands</O_Y>^
-^CO_Buff_0036_Description^,^The power of bless increases WILL temporarily. <O_Y>Can be used only in the Badlands</O_Y>^
-^CO_Buff_0037_Description^,^The power of bless increases WILL temporarily. <O_Y>Can be used only in the Badlands</O_Y>^
-^CO_Buff_0038_Description^,^The power of bless increases WILL temporarily. <O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0034_Description^,^The power of bless increases WILL temporarily.
+<O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0035_Description^,^The power of bless increases WILL temporarily.
+<O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0036_Description^,^The power of bless increases WILL temporarily.
+<O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0037_Description^,^The power of bless increases WILL temporarily.
+<O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0038_Description^,^The power of bless increases WILL temporarily.
+<O_Y>Can be used only in the Badlands</O_Y>^
 ^CO_Buff_0039_Description^,^The power of bless increases WILL temporarily.^
 ^CO_Buff_0040_Description^,^The power of bless increases WILL temporarily.^
 ^CO_Buff_0041_Description^,^The power of bless increases WILL temporarily.^
 ^CO_Buff_0042_Description^,^The power of bless increases WILL temporarily.^
 ^CO_Buff_0043_Description^,^The power of bless increases WILL temporarily.^
 ^CO_Buff_0044_Description^,^The power of bless increases WILL temporarily.^
-^CO_Buff_0045_Description^,^The power of bless increases WILL temporarily. <O_Y>Can be used only in the Tower of Challenge</O_Y>^
-^CO_Buff_0046_Description^,^The power of bless increases WILL temporarily. <O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0045_Description^,^The power of bless increases WILL temporarily.
+<O_Y>Can be used only in the Tower of Challenge</O_Y>^
+^CO_Buff_0046_Description^,^The power of bless increases WILL temporarily.
+<O_Y>Can be used only in the Badlands</O_Y>^
 ^CO_Buff_0047_Description^,^The power of bless increases WILL temporarily.^
 ^CO_Buff_0048_Description^,^The power of bless increases WILL temporarily.^
-^CO_Buff_0049_Description^,^The power of bless increases WILL temporarily. <O_Y>Can be used only in the Badlands</O_Y>^
-^CO_Buff_0050_Description^,^The power of bless increases WILL temporarily. <O_Y>Can be used only in the Tower of Challenge</O_Y>^
+^CO_Buff_0049_Description^,^The power of bless increases WILL temporarily.
+<O_Y>Can be used only in the Badlands</O_Y>^
+^CO_Buff_0050_Description^,^The power of bless increases WILL temporarily.
+<O_Y>Can be used only in the Tower of Challenge</O_Y>^
 ^CO_Buff_0051_Name^,^Tower of Challenge Legendary Elixir^
-^CO_Buff_0051_Description^,^The item consumable only in the Tower of Challenge boosts various effects. <O_Y>Can be used only in the Tower of Challenge</O_Y>^
+^CO_Buff_0051_Description^,^The item consumable only in the Tower of Challenge boosts various effects.
+<O_Y>Can be used only in the Tower of Challenge</O_Y>^
 ^CA_IT_CM_0407_Name^,^Legendary Armor Refining Stone^
 ^CA_IT_CM_0407_Description^,^Used to change the attributes of legendary armor.<br><br>Can only be used on Armor that matches this item's grade and level.<br><br>Can be used by visiting Casey in Hakain's Crossing.^
 ^CA_IT_CM_0401_Name^,^Pet : Bat^
@@ -692,7 +756,9 @@ t_key,t_korean
 ^IT_IT_BP_0027_Name^,^Ice Castle's Ice Energy^
 ^IT_IT_BP_0028_Name^,^Breach Izhora's Soul^
 ^EN5_0_000_0160_1_Name^,^Lv.200 Elite Tempering Stone^
-^EN5_0_000_0160_1_Description^,^Tempers up an item up to +20. <It_G> - The Tempering stone can be used only on items at legendary lv.60 or higher.</It_G> <It_G> - Right-click, then select an equipment to temper</It_G>^
+^EN5_0_000_0160_1_Description^,^Tempers up an item up to +20.
+<It_G> - The Tempering stone can be used only on items at legendary lv.60 or higher.</It_G>
+<It_G> - Right-click, then select an equipment to temper</It_G>^
 ^CA_IT_CM_0408_Name^,^Pet : Ancient Elquines^
 ^CA_IT_CM_0409_Name^,^Pet : Ancient Elquines^
 ^CA_IT_CM_0410_Name^,^Pet : Ancient Elquines^
@@ -757,10 +823,18 @@ t_key,t_korean
 ^EV_IT_SC_1003_Description^,^Summons Merona Rabbini, the Auction Broker. Merona Rabbini disappears after 5 minutes. Your summoned Auction Broker will be invisible to other players.^
 ^EV_OR_L60_0001_Name^,^Lv.60 Legendary Transcending Stone^
 ^EN2_0_000_2000_Name^,^Shining 20% Elite Tempering Stone^
-^EV_OR_L60_0001_Description^,^The stone that allows to transcend legendary weapons, armors and accessories between lv.55 and 60.  <It_G> - Item transcendence can fail.</It_G> <It_G> - Right-click, then select an equipment to transcend</It_G>^
-^EN2_0_000_2000_Description^,^Tempers up an item at a fixed rate. <It_G> - The fixed rate is not influenced by Tempering success booster option.</It_G> <It_G> - Cannot be used to temper items 10 levels higher than your character.</It_G> <It_G> - Right-click, then select an equipment to temper</It_G>^
+^EV_OR_L60_0001_Description^,^The stone that allows to transcend legendary weapons, armors and accessories between lv.55 and 60.
+
+<It_G> - Item transcendence can fail.</It_G>
+<It_G> - Right-click, then select an equipment to transcend</It_G>^
+^EN2_0_000_2000_Description^,^Tempers up an item at a fixed rate.
+<It_G> - The fixed rate is not influenced by Tempering success booster option.</It_G>
+<It_G> - Cannot be used to temper items 10 levels higher than your character.</It_G>
+<It_G> - Right-click, then select an equipment to temper</It_G>^
 ^EN5_0_000_0161_1_name^,^220Level Elite Tempering Stone(Legendary Only)^
-^EN5_0_000_0161_1_description^,^Tempers up an item up to +20. <It_G> - The Tempering stone can be used only on items at legendary lv.60 or higher.</It_G> <It_G> - Right-click, then select an equipment to temper</It_G>^
+^EN5_0_000_0161_1_description^,^Tempers up an item up to +20.
+<It_G> - The Tempering stone can be used only on items at legendary lv.60 or higher.</It_G>
+<It_G> - Right-click, then select an equipment to temper</It_G>^
 ^CA_IT_CM_0434_Name^,^Pet : Golden Watermelon of Courage^
 ^CA_IT_CM_0435_Name^,^Pet : Golden Watermelon of Courage^
 ^CA_IT_CM_0436_Name^,^Pet : Golden Watermelon of Wisdom^
@@ -770,7 +844,9 @@ t_key,t_korean
 ^CA_IT_CM_0436_Description^,^When used, <UI_G>[Golden Watermelon of Wisdom]</UI_G> appears in your storage.^
 ^CA_IT_CM_0437_Description^,^When used, <UI_G>[Golden Watermelon of Wisdom]</UI_G> appears in your storage.^
 ^CO_0_0443_1_Name^,^Bynder's Tincture IV^
-^CO_0_0443_1_Description^,^A tincture invented by Bynder known as a familiar master. It increases affinity for familiars.  <O_Y>The effects of Bynder's Tinctures do not stack.</O_Y>^
+^CO_0_0443_1_Description^,^A tincture invented by Bynder known as a familiar master. It increases affinity for familiars.
+
+<O_Y>The effects of Bynder's Tinctures do not stack.</O_Y>^
 ^CA_IT_CM_0441_Name^,^Pet : Sakura Nightmare Jr.^
 ^CA_IT_CM_0442_Name^,^Pet : Sakura Karasha Jr.^
 ^CA_IT_CM_0443_Name^,^Familiar : Karasha of Radiance^
@@ -784,7 +860,9 @@ t_key,t_korean
 ^CA_IT_CM_0445_Description^,^When used, <UI_G>[Rodesh of Death]</UI_G> appears in your storage.^
 ^CA_IT_CM_0446_Description^,^When used, <UI_G>[Phoenion of Resurrection]</UI_G> appears in your storage.^
 ^CO_0_0444_1_Name^,^Bynder's Tincture V^
-^CO_0_0444_1_Description^,^A tincture invented by Bynder known as a familiar master. It increases affinity for familiars.  <O_Y>The effects of Bynder's Tinctures do not stack.</O_Y>^
+^CO_0_0444_1_Description^,^A tincture invented by Bynder known as a familiar master. It increases affinity for familiars.
+
+<O_Y>The effects of Bynder's Tinctures do not stack.</O_Y>^
 ^IT_IT_CM_8001_Name^,^Growth Elixir^
 ^IT_IT_CM_8001_Description^,^<R_Y>You can't receive more than 500% bonus experience.</R_Y>^
 ^CA_IT_CM_0447_Name^,^Supreme WILL Potion^
@@ -806,17 +884,26 @@ t_key,t_korean
 ^CA_IT_CM_0453_description^,^When used, <UI_G>[Sewing Demonus]</UI_G> appears in your storage.^
 ^CA_IT_CM_0454_description^,^When used, <UI_G>[Light Torkai]</UI_G> appears in your storage.^
 ^CO_0_0442_1_Name^,^Bynder's Tincture III^
-^CO_0_0442_1_Description^,^A tincutre invented by Bynder known as a familiar master. It increases affinity for familiars.  <O_Y>The effects of Bynder's Tinctures do not stack.</O_Y>^
+^CO_0_0442_1_Description^,^A tincutre invented by Bynder known as a familiar master. It increases affinity for familiars.
+
+<O_Y>The effects of Bynder's Tinctures do not stack.</O_Y>^
 ^LU_0_0007_Name^,^Familiar Farm Shining Bait^
 ^LU_0_0008_Name^,^Familiar Farm Simple Bait^
-^LU_0_0007_Description^,^A bait that the fish in familiar farm like. When used, the chance of catching a big or decent fish increases. <O_Y>Can be used only in familiar farm.</O_Y>^
-^LU_0_0008_Description^,^A bait that the fish in familiar farm like. When used, the chance of catching a big or decent fish increases. <O_Y>Can be used only in familiar farm.</O_Y>^
+^LU_0_0007_Description^,^A bait that the fish in familiar farm like.
+When used, the chance of catching a big or decent fish increases.
+<O_Y>Can be used only in familiar farm.</O_Y>^
+^LU_0_0008_Description^,^A bait that the fish in familiar farm like.
+When used, the chance of catching a big or decent fish increases.
+<O_Y>Can be used only in familiar farm.</O_Y>^
 ^CA_IT_CM_0455_Name^,^Familiar Farm Janitor Summoning Coupon (1 day)^
-^CA_IT_CM_0455_Description^,^You can summon Igrett, the familiar farm janitor.<br><R_Y>Igrett will disappear automatically after 5 mins. Summoned familiar farm janitor is invisible to others.</R_Y>^
+^CA_IT_CM_0455_Description^,^You can summon Igrett, the familiar farm janitor.<br><R_Y>Igrett will disappear automatically after 5 mins.
+Summoned familiar farm janitor is invisible to others.</R_Y>^
 ^CA_IT_CM_0456_Name^,^Familiar Farm Janitor Summoning Coupon (7 days)^
-^CA_IT_CM_0456_Description^,^You can summon Igrett, the familiar farm janitor.<br><R_Y>Igrett will disappear automatically after 5 mins. Summoned familiar farm janitor is invisible to others.</R_Y>^
+^CA_IT_CM_0456_Description^,^You can summon Igrett, the familiar farm janitor.<br><R_Y>Igrett will disappear automatically after 5 mins.
+Summoned familiar farm janitor is invisible to others.</R_Y>^
 ^CA_IT_CM_0457_Name^,^Familiar Farm Janitor Summoning Coupon (30 days)^
-^CA_IT_CM_0457_Description^,^You can summon Igrett, the familiar farm janitor.<br><R_Y>Igrett will disappear automatically after 5 mins. Summoned familiar farm janitor is invisible to others.</R_Y>^
+^CA_IT_CM_0457_Description^,^You can summon Igrett, the familiar farm janitor.<br><R_Y>Igrett will disappear automatically after 5 mins.
+Summoned familiar farm janitor is invisible to others.</R_Y>^
 ^CA_IT_SC_1007_Name^,^Portable Auction Broker (15 days)^
 ^CA_IT_SC_1007_description^,^Summons Merona Rabbini, the Auction Broker. Merona Rabbini disappears after 5 minutes. Your summoned Auction Broker will be invisible to other players.^
 ^CA_IT_SC_1008_Name^,^Portable Storage Master (15 days)^
@@ -824,7 +911,9 @@ t_key,t_korean
 ^CA_IT_CM_0458_Name^,^Transit Shrine Pass (15 days)^
 ^CA_IT_CM_0458_description^,^Active portals are freely available.^
 ^EV_5_0020_Name^,^Carrot bomb^
-^EV_5_0020_Description^,^You can attack Rabbini Bormi using the <UI_G> item. </UI_G>  <O_Y> This item is only available for [Rabbini Borumi]. </O_Y>^
+^EV_5_0020_Description^,^You can attack Rabbini Bormi using the <UI_G> item. </UI_G>
+
+<O_Y> This item is only available for [Rabbini Borumi]. </O_Y>^
 ^CA_IT_CM_0460_Name^,^Portable Storage Master (14 days)^
 ^CA_IT_CM_0459_Name^,^Portable Auction Broker (14 days)^
 ^CA_IT_CM_0461_Name^,^Familiar: Hades of Wrath^
@@ -841,36 +930,72 @@ t_key,t_korean
 ^CO_8_0050_Name^,^Wandering Runelon Mark^
 ^CO_8_0051_Name^,^Wandering Poron Mark^
 ^CO_8_0052_Name^,^Wandering Garilon Mark^
-^CO_8_0047_Description^,^The mark that represents <UI_G>Wandering Hameon</UI_G>. When carried, you can tame <UI_G>Wandering Hameon</UI_G>.  <UI_R> The wandering Hameon appears with a certain probability in Ruins of Matren [Legend] </R_Y># "^
-^CO_8_0048_Description^,^The mark that represents <UI_G>Wandering Calypto</UI_G>. When carried, you can tame <UI_G>Wandering Calypto</UI_G>.  <R_Y> The Wandering Calypto appears with a certain probability in the Lavalight Cave [Legend] </R_Y>^
-^CO_8_0049_Description^,^The mark that represents <UI_G>Wandering Demonus</UI_G>. When carried, you can tame <UI_G>Wandering Demonus</UI_G>.  <R_Y> The Wandering Demonus appears with a certain probability in the Carleon Manor [Legend] </R_Y>^
-^CO_8_0050_Description^,^The mark that represents <UI_G>Wandering Runelon</UI_G>. When carried, you can tame <UI_G>Wandering Runelon</UI_G>.  <R_Y> The Wandering Runelon appears with a certain probability in the The Breach [Legend] </R_Y>^
-^CO_8_0051_Description^,^The mark that represents <UI_G>Wandering Poron</UI_G>. When carried, you can tame <UI_G>Wandering Poron</UI_G>.  <R_Y> The Wandering Poron appears with a certain probability in the Cavern of the Veil [Legend] </R_Y>^
-^CO_8_0052_Description^,^The mark that represents <UI_G>Wandering Garilon</UI_G>. When carried, you can tame <UI_G>Wandering Garilon</UI_G>.  <R_Y> The Wandering Garilon appears with a certain probability in the The Frost Keep [Legend] </R_Y>^
+^CO_8_0047_Description^,^The mark that represents <UI_G>Wandering Hameon</UI_G>. When carried, you can tame <UI_G>Wandering Hameon</UI_G>.
+
+<UI_R> The wandering Hameon appears with a certain probability in Ruins of Matren [Legend] </R_Y># "^
+^CO_8_0048_Description^,^The mark that represents <UI_G>Wandering Calypto</UI_G>. When carried, you can tame <UI_G>Wandering Calypto</UI_G>.
+
+<R_Y> The Wandering Calypto appears with a certain probability in the Lavalight Cave [Legend] </R_Y>^
+^CO_8_0049_Description^,^The mark that represents <UI_G>Wandering Demonus</UI_G>. When carried, you can tame <UI_G>Wandering Demonus</UI_G>.
+
+<R_Y> The Wandering Demonus appears with a certain probability in the Carleon Manor [Legend] </R_Y>^
+^CO_8_0050_Description^,^The mark that represents <UI_G>Wandering Runelon</UI_G>. When carried, you can tame <UI_G>Wandering Runelon</UI_G>.
+
+<R_Y> The Wandering Runelon appears with a certain probability in the The Breach [Legend] </R_Y>^
+^CO_8_0051_Description^,^The mark that represents <UI_G>Wandering Poron</UI_G>. When carried, you can tame <UI_G>Wandering Poron</UI_G>.
+
+<R_Y> The Wandering Poron appears with a certain probability in the Cavern of the Veil [Legend] </R_Y>^
+^CO_8_0052_Description^,^The mark that represents <UI_G>Wandering Garilon</UI_G>. When carried, you can tame <UI_G>Wandering Garilon</UI_G>.
+
+<R_Y> The Wandering Garilon appears with a certain probability in the The Frost Keep [Legend] </R_Y>^
 ^CP_8_0047_Name^,^Wandering Hameon Mark^
 ^CP_8_0048_Name^,^Wandering Calypto Mark^
 ^CP_8_0049_Name^,^Wandering Demonus Mark^
 ^CP_8_0050_Name^,^Wandering Runelon Mark^
 ^CP_8_0051_Name^,^Wandering Poron Mark^
 ^CP_8_0052_Name^,^Wandering Garilon Mark^
-^CP_8_0047_Description^,^The mark that represents <UI_G>Wandering Hameon</UI_G>. When carried, you can tame <UI_G>Wandering Hameon</UI_G>.  <UI_R> The wandering Hameon appears with a certain probability in Ruins of Matren [Legend] </R_Y># "^
-^CP_8_0048_Description^,^The mark that represents <UI_G>Wandering Calypto</UI_G>. When carried, you can tame <UI_G>Wandering Calypto</UI_G>.  <R_Y> The Wandering Calypto appears with a certain probability in the Lavalight Cave [Legend] </R_Y>^
-^CP_8_0049_Description^,^The mark that represents <UI_G>Wandering Demonus</UI_G>. When carried, you can tame <UI_G>Wandering Demonus</UI_G>.  <R_Y> The Wandering Demonus appears with a certain probability in the Carleon Manor [Legend] </R_Y>^
-^CP_8_0050_Description^,^The mark that represents <UI_G>Wandering Runelon</UI_G>. When carried, you can tame <UI_G>Wandering Runelon</UI_G>.  <R_Y> The Wandering Runelon appears with a certain probability in the The Breach [Legend] </R_Y>^
-^CP_8_0051_Description^,^The mark that represents <UI_G>Wandering Poron</UI_G>. When carried, you can tame <UI_G>Wandering Poron</UI_G>.  <R_Y> The Wandering Poron appears with a certain probability in the Cavern of the Veil [Legend] </R_Y>^
-^CP_8_0052_Description^,^The mark that represents <UI_G>Wandering Garilon</UI_G>. When carried, you can tame <UI_G>Wandering Garilon</UI_G>.  <R_Y> The Wandering Garilon appears with a certain probability in the The Frost Keep [Legend] </R_Y>^
+^CP_8_0047_Description^,^The mark that represents <UI_G>Wandering Hameon</UI_G>. When carried, you can tame <UI_G>Wandering Hameon</UI_G>.
+
+<UI_R> The wandering Hameon appears with a certain probability in Ruins of Matren [Legend] </R_Y># "^
+^CP_8_0048_Description^,^The mark that represents <UI_G>Wandering Calypto</UI_G>. When carried, you can tame <UI_G>Wandering Calypto</UI_G>.
+
+<R_Y> The Wandering Calypto appears with a certain probability in the Lavalight Cave [Legend] </R_Y>^
+^CP_8_0049_Description^,^The mark that represents <UI_G>Wandering Demonus</UI_G>. When carried, you can tame <UI_G>Wandering Demonus</UI_G>.
+
+<R_Y> The Wandering Demonus appears with a certain probability in the Carleon Manor [Legend] </R_Y>^
+^CP_8_0050_Description^,^The mark that represents <UI_G>Wandering Runelon</UI_G>. When carried, you can tame <UI_G>Wandering Runelon</UI_G>.
+
+<R_Y> The Wandering Runelon appears with a certain probability in the The Breach [Legend] </R_Y>^
+^CP_8_0051_Description^,^The mark that represents <UI_G>Wandering Poron</UI_G>. When carried, you can tame <UI_G>Wandering Poron</UI_G>.
+
+<R_Y> The Wandering Poron appears with a certain probability in the Cavern of the Veil [Legend] </R_Y>^
+^CP_8_0052_Description^,^The mark that represents <UI_G>Wandering Garilon</UI_G>. When carried, you can tame <UI_G>Wandering Garilon</UI_G>.
+
+<R_Y> The Wandering Garilon appears with a certain probability in the The Frost Keep [Legend] </R_Y>^
 ^CR_8_0047_Name^,^Fated Wandering Hameon Mark^
 ^CR_8_0048_Name^,^Fated Wandering Calypto Mark^
 ^CR_8_0049_Name^,^Fated Wandering Demonus Mark^
 ^CR_8_0050_Name^,^Fated Wandering Runelon Mark^
 ^CR_8_0051_Name^,^Fated Wandering Poron Mark^
 ^CR_8_0052_Name^,^Fated Wandering Garilon Mark^
-^CR_8_0047_Description^,^<UI_G> Wandering Hameon </UI_G> </UI_G> is a Mark, and if you have it in your bag you can tame <UI_G> Wandering Hameon </UI_G> 100%.  <R_Y> The Wandering Hameon appears with a certain probability in the Ruins of Matren [Legend] </R_Y>^
-^CR_8_0048_Description^,^<UI_G> Wandering Calypto </UI_G> </UI_G> is a token, and if you have it in your bag you can tame <UI_G> Wandering Calypto </UI_G> 100%.  <R_Y> The Wandering Calypto appears with a certain probability in Lavalight Cave [Legend] </R_Y>^
-^CR_8_0049_Description^,^<UI_G> Wandering Demonus </UI_G> </UI_G> is a Mark, and if you have it in your bag you can tame <UI_G> Wandering Demonus </UI_G> 100%.  <R_Y> The wandering Demonus appears with a certain probability in Carleon Manor [Legend] </R_Y>^
-^CR_8_0050_Description^,^<UI_G> Wandering Runelon </UI_G> </UI_G> is a Mark, and if you have it in your bag you can tame <UI_G> Wandering Runelon </UI_G> 100%.  <R_Y> The Wandering Runelon appears with a certain probability in The Breach [Legend] </R_Y>^
-^CR_8_0051_Description^,^<UI_G> Wandering Poron </UI_G> </UI_G> is a Mark, and if you have it in your bag you can tame <UI_G> Wandering Poron </UI_G> 100%.  <R_Y> The Wandering Poron appears with a certain probability in Cavern of the Veil [Legend] </R_Y>^
-^CR_8_0052_Description^,^<UI_G> Wandering Garilon </UI_G> </UI_G> is a Mark, and if you have it in your bag you can tame <UI_G> Wandering Garilon </UI_G> 100%.  <R_Y> The Wandering Garilon appears with a certain probability in The Frost Keep [Legend] </R_Y>^
+^CR_8_0047_Description^,^<UI_G> Wandering Hameon </UI_G> </UI_G> is a Mark, and if you have it in your bag you can tame <UI_G> Wandering Hameon </UI_G> 100%.
+
+<R_Y> The Wandering Hameon appears with a certain probability in the Ruins of Matren [Legend] </R_Y>^
+^CR_8_0048_Description^,^<UI_G> Wandering Calypto </UI_G> </UI_G> is a token, and if you have it in your bag you can tame <UI_G> Wandering Calypto </UI_G> 100%.
+
+<R_Y> The Wandering Calypto appears with a certain probability in Lavalight Cave [Legend] </R_Y>^
+^CR_8_0049_Description^,^<UI_G> Wandering Demonus </UI_G> </UI_G> is a Mark, and if you have it in your bag you can tame <UI_G> Wandering Demonus </UI_G> 100%.
+
+<R_Y> The wandering Demonus appears with a certain probability in Carleon Manor [Legend] </R_Y>^
+^CR_8_0050_Description^,^<UI_G> Wandering Runelon </UI_G> </UI_G> is a Mark, and if you have it in your bag you can tame <UI_G> Wandering Runelon </UI_G> 100%.
+
+<R_Y> The Wandering Runelon appears with a certain probability in The Breach [Legend] </R_Y>^
+^CR_8_0051_Description^,^<UI_G> Wandering Poron </UI_G> </UI_G> is a Mark, and if you have it in your bag you can tame <UI_G> Wandering Poron </UI_G> 100%.
+
+<R_Y> The Wandering Poron appears with a certain probability in Cavern of the Veil [Legend] </R_Y>^
+^CR_8_0052_Description^,^<UI_G> Wandering Garilon </UI_G> </UI_G> is a Mark, and if you have it in your bag you can tame <UI_G> Wandering Garilon </UI_G> 100%.
+
+<R_Y> The Wandering Garilon appears with a certain probability in The Frost Keep [Legend] </R_Y>^
 ^CO_3_1017_Name^,^Familiar Adventure Potion I^
 ^CO_3_1018_Name^,^Familiar Adventure Potion III^
 ^CO_3_1019_Name^,^Adventure Power Recovery Potion^
@@ -916,12 +1041,25 @@ t_key,t_korean
 ^CO_IT_PO_0006_Name^,^Taming point 50 Recovery potion^
 ^EN1_2_EV_0000_Name^,^Ellora's +15 Tempering Stone^
 ^EN1_0_000_0180_1_Name^,^Lv.180 Elite Tempering Stone^
-^EN1_2_EV_0000_Description^,^Ellora item can be enhanced to improve the stats up to 15 levels. <It_G> - 100% chance to increase the Tempering level to 15. </It_G> <It_G> - Can only be used below Tempering level 15. </It_G> <It_G> - Can not be used with any other equipment besides [Ellora]. </It_G> <It_G> - Can be used by clicking on the item after right clicking </It_G>^
-^EN1_0_000_0180_1_Description^,^You can improve the Tempering level of an Item up to 20. <It_G> - Unable to temper equipment more than 10 levels higher than your character </It_G> <It_G> - Can be used by clicking on the item after right clicking </It_G>^
+^EN1_2_EV_0000_Description^,^Ellora item can be enhanced to improve the stats up to 15 levels.
+<It_G> - 100% chance to increase the Tempering level to 15. </It_G>
+<It_G> - Can only be used below Tempering level 15. </It_G>
+<It_G> - Can not be used with any other equipment besides [Ellora]. </It_G>
+<It_G> - Can be used by clicking on the item after right clicking </It_G>^
+^EN1_0_000_0180_1_Description^,^You can improve the Tempering level of an Item up to 20.
+<It_G> - Unable to temper equipment more than 10 levels higher than your character </It_G>
+<It_G> - Can be used by clicking on the item after right clicking </It_G>^
 ^EV_OR_EL_0001_Name^,^Lv.55 Legendary Transcending Stone^
-^EV_OR_EL_0001_Description^,^A mysterious stone that can transcend legendary weapons, armor, accessories from level 46 to level 55  <It_G> - There is a chance that item transcendence will fail. </It_G> <It_G> - Can be used by clicking on the item after right clicking </It_G>^
+^EV_OR_EL_0001_Description^,^A mysterious stone that can transcend legendary weapons, armor, accessories from level 46 to level 55
+
+<It_G> - There is a chance that item transcendence will fail. </It_G>
+<It_G> - Can be used by clicking on the item after right clicking </It_G>^
 ^EV_IT_CM_0049_Name^,^Legendary Dismantling Tool^
-^EV_IT_CM_0049_Description^,^Tools to dismantle legendary equipment items  <It_G> - Can be used by clicking on the item after right-clicking </It_G> <It_G> - Can be uses on legendary items and below </It_G> <It_G> - Dismantling is allowed only for elite items or higher <It_G>^
+^EV_IT_CM_0049_Description^,^Tools to dismantle legendary equipment items
+
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>
+<It_G> - Can be uses on legendary items and below </It_G>
+<It_G> - Dismantling is allowed only for elite items or higher <It_G>^
 ^CO_8_0053_Name^,^Sewing Hameon Mark^
 ^CP_8_0053_Name^,^Sewing Hameon Mark^
 ^CR_8_0053_Name^,^Fated Sewing Hameon Mark^
@@ -1059,7 +1197,9 @@ t_key,t_korean
 ^CA_IT_CM_0517_Description^,^Used to change the attribute values of legendary relic.<br><br>Can only be used on armor that matches this item's grade and level.<br><br>Can be used by visiting Casey in Hakain's Crossing.^
 ^EV_IT_BP_0084_Name^,^Advanced Drop Rate Elixir^
 ^EN5_0_000_0210_Name^,^Level 210 Elite Tempering Stone (Legend Only)^
-^EN5_0_000_0210_Description^,^You can Temper your Item up to +20. <It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN5_0_000_0210_Description^,^You can Temper your Item up to +20.
+<It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
 ^EV_IT_CM_0100_Name^,^Familiar: Karasha of Destiny^
 ^EV_IT_CM_0101_Name^,^Familiar: Karasha of Destiny^
 ^EV_IT_CM_0102_Name^,^Familiar: Agnas of Destiny^
@@ -1092,7 +1232,9 @@ t_key,t_korean
 ^EV_IT_BP_0086_Name^,^Santa socks^
 ^EV_IT_BP_0086_Description^,^<O_Y> Santa socks will be deleted at the end of the Christmas event. </O_Y>^
 ^EV_IT_SC_0068_Name^,^Summoning: Snowman of reunion^
-^EV_IT_SC_0068_Description^,^Order to summon monster <UI_G> [Snowman of the reunion] </UI_G>  <O_Y> Summoning: Snowman of the reunion will be deleted at the end of the Christmas event. </O_Y>^
+^EV_IT_SC_0068_Description^,^Order to summon monster <UI_G> [Snowman of the reunion] </UI_G>
+
+<O_Y> Summoning: Snowman of the reunion will be deleted at the end of the Christmas event. </O_Y>^
 ^CA_IT_BP_0078_Name^,^Growth Inventory IV^
 ^CA_IT_BP_0078_Description^,^<R_Y> The EXP option is applied up to 500%. </R_Y>^
 ^CO_Buff_0052_Name^,^Enhanced Courage Potion^
@@ -1162,13 +1304,21 @@ t_key,t_korean
 ^CP_8_0071_Name^,^Daiden's Mark^
 ^CR_8_0071_Name^,^Fated Daiden's Mark^
 ^EV_IT_SC_0069_Name^,^Summon Scroll: Riventia of Freedom of Freedom^
-^EV_IT_SC_0069_Description^,^Order to summon monster <UI_G> [Riventia of Freedom of Freedom] </UI_G>  <R_Y> The item is only available on the ground. </R_Y>^
+^EV_IT_SC_0069_Description^,^Order to summon monster <UI_G> [Riventia of Freedom of Freedom] </UI_G>
+
+<R_Y> The item is only available on the ground. </R_Y>^
 ^EN2_0_000_0171_Name^,^Lv.160 Jewelry Elite Tempering Stone^
-^EN2_0_000_0171_Description^,^You can improve your stats by Tempering Jewelry. <It_G> - Unable to enhance equipment more than 10 levels higher than your character </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN2_0_000_0171_Description^,^You can improve your stats by Tempering Jewelry.
+<It_G> - Unable to enhance equipment more than 10 levels higher than your character </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
 ^EN2_0_000_0172_Name^,^Lv.170 Jewelry Elite Tempering Stone^
-^EN2_0_000_0172_Description^,^You can improve your stats by Tempering Jewelry. <It_G> - Unable to enhance equipment more than 10 levels higher than your character </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN2_0_000_0172_Description^,^You can improve your stats by Tempering Jewelry.
+<It_G> - Unable to enhance equipment more than 10 levels higher than your character </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
 ^EN2_0_000_0173_Name^,^Lv.180 Jewelry Elite Tempering Stone^
-^EN2_0_000_0173_Description^,^You can improve your stats by Tempering Jewelry. <It_G> - Unable to enhance equipment more than 10 levels higher than your character </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN2_0_000_0173_Description^,^You can improve your stats by Tempering Jewelry.
+<It_G> - Unable to enhance equipment more than 10 levels higher than your character </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
 ^EV_IT_CM_0108_Name^,^Pet: Awakened Santa Rabbini^
 ^EV_IT_CM_0108_Description^,^When using <UI_G> [Awakened Santa Rabbini] </UI_G> will be created in your library.^
 ^EV_IT_CM_0109_Name^,^Pet: Awakened Santa Rabbini^
@@ -1216,23 +1366,53 @@ t_key,t_korean
 ^CO_PD_0_650_Name^,^Lv.65 Heroic HP Tincture^
 ^CO_PD_0_651_Name^,^Lv.65 Heroic Mana Tincture^
 ^CO_OR_L65_0002_Name^,^Lv.65 Legendary Transcending Stone^
-^EN5_0_000_0230_Description^,^You can Temper your Item up to +20. <It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
-^EN5_0_000_0240_Description^,^You can Temper your Item up to +20. <It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
-^EN5_0_000_0250_Description^,^You can Temper your Item up to +20. <It_G> - The corresponding Tempering stones can be used for level 65 or higher legendary items. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
-^EN2_0_000_0168_Description^,^You can Temper your Item up to +25. <It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
-^EN2_0_000_0169_Description^,^You can Temper your Item up to +25. <It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
-^EN2_0_000_0170_Description^,^You can Temper your Item up to +25. <It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
-^CO_OR_L65_0001_Description^,^A mysterious stone that can transcend Lv.65 Legendary weapons, armor and accessories.  <It_G> - There is a chance that item transcendence will fail. </It_G> <It_G> - Can be used by clicking on the item after right clicking </It_G>^
-^CO_OR_L65_0002_Description^,^A mysterious stone that can transcend Lv.65 Legendary weapons, armor and accessories.  <It_G> - There is a chance that item transcendence will fail. </It_G> <It_G> - Can be used by clicking on the item after right clicking </It_G>^
-^CA_IT_CM_0518_Description^,^The material needed to change options for legendary weapons at Level 65 and below  <It_G> - Can only be used to match the level and level of the item. </It_G>^
-^CA_IT_CM_0519_Description^,^The material needed to change options for legendary Armos at Level 65 and below  <It_G> - Can only be used to match the level and level of the item. </It_G>^
-^CA_IT_CM_0520_Description^,^The material needed to change options for legendary Accessories at Level 65 and below  <It_G> - Can only be used to match the level and level of the item. </It_G>^
+^EN5_0_000_0230_Description^,^You can Temper your Item up to +20.
+<It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN5_0_000_0240_Description^,^You can Temper your Item up to +20.
+<It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN5_0_000_0250_Description^,^You can Temper your Item up to +20.
+<It_G> - The corresponding Tempering stones can be used for level 65 or higher legendary items. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN2_0_000_0168_Description^,^You can Temper your Item up to +25.
+<It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN2_0_000_0169_Description^,^You can Temper your Item up to +25.
+<It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN2_0_000_0170_Description^,^You can Temper your Item up to +25.
+<It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^CO_OR_L65_0001_Description^,^A mysterious stone that can transcend Lv.65 Legendary weapons, armor and accessories.
+
+<It_G> - There is a chance that item transcendence will fail. </It_G>
+<It_G> - Can be used by clicking on the item after right clicking </It_G>^
+^CO_OR_L65_0002_Description^,^A mysterious stone that can transcend Lv.65 Legendary weapons, armor and accessories.
+
+<It_G> - There is a chance that item transcendence will fail. </It_G>
+<It_G> - Can be used by clicking on the item after right clicking </It_G>^
+^CA_IT_CM_0518_Description^,^The material needed to change options for legendary weapons at Level 65 and below
+
+<It_G> - Can only be used to match the level and level of the item. </It_G>^
+^CA_IT_CM_0519_Description^,^The material needed to change options for legendary Armos at Level 65 and below
+
+<It_G> - Can only be used to match the level and level of the item. </It_G>^
+^CA_IT_CM_0520_Description^,^The material needed to change options for legendary Accessories at Level 65 and below
+
+<It_G> - Can only be used to match the level and level of the item. </It_G>^
 ^CA_IT_CM_0521_Name^,^Lv.65 Legendary Weapon Refining Stone^
 ^CA_IT_CM_0522_Name^,^Lv.65 Legendary Armor Refining Stone^
 ^CA_IT_CM_0523_Name^,^Lv.65 Legendary Jewelry Refining Stone^
-^CA_IT_CM_0521_Description^,^The material needed to change options for legendary weapons at Level 65 and below  <It_G> - Can only be used to match the level and level of the item. </It_G>^
-^CA_IT_CM_0522_Description^,^The material needed to change options for legendary Armos at Level 65 and below  <It_G> - Can only be used to match the level and level of the item. </It_G>^
-^CA_IT_CM_0523_Description^,^The material needed to change options for legendary Accessories at Level 65 and below  <It_G> - Can only be used to match the level and level of the item. </It_G>^
+^CA_IT_CM_0521_Description^,^The material needed to change options for legendary weapons at Level 65 and below
+
+<It_G> - Can only be used to match the level and level of the item. </It_G>^
+^CA_IT_CM_0522_Description^,^The material needed to change options for legendary Armos at Level 65 and below
+
+<It_G> - Can only be used to match the level and level of the item. </It_G>^
+^CA_IT_CM_0523_Description^,^The material needed to change options for legendary Accessories at Level 65 and below
+
+<It_G> - Can only be used to match the level and level of the item. </It_G>^
 ^tt_0_0_0252_Name^,^Title: Familiar Ruler^
 ^tt_0_0_0252_Description^,^Achievement of Turiman Special Collection Title^
 ^EV_IT_BP_0087_Name^,^Turiman Rapid Growth Potion^
@@ -1244,33 +1424,69 @@ t_key,t_korean
 ^EV_IT_CM_0111_Description^,^When using <UI_G> [Jeranin of the Battlegrounds] </UI_G> will be created in your library.^
 ^EV_IT_CM_0112_Description^,^When using <UI_G> [Devy of the Battlegrounds] </UI_G> will be created in your library.^
 ^JU_CO_00_0000_Name^,^Legendary Dismantling Tool^
-^JU_CO_00_0000_Description^,^Tools to dismantle legendary equipment items  <It_G> - Can be used by clicking on the item after right-clicking </It_G> <It_G> - Can be used on legendary items and below </It_G> <It_G> - Dismantling is allowed only for elite items or higher <It_G>^
+^JU_CO_00_0000_Description^,^Tools to dismantle legendary equipment items
+
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>
+<It_G> - Can be used on legendary items and below </It_G>
+<It_G> - Dismantling is allowed only for elite items or higher <It_G>^
 ^JU_CO_00_0001_Name^,^Shining 30% Elite Tempering Stone^
-^JU_CO_00_0001_description^,^Tempering Items with a fixed probability to improve their stats. <It_G> - Fixed probability is not affected by additional options. </It_G> <It_G> - Unable to enhance equipment more than 10 levels higher than your character </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^JU_CO_00_0001_description^,^Tempering Items with a fixed probability to improve their stats.
+<It_G> - Fixed probability is not affected by additional options. </It_G>
+<It_G> - Unable to enhance equipment more than 10 levels higher than your character </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
 ^JU_CO_00_0002_Name^,^Shining 30% Hero Tempering Stone^
-^JU_CO_00_0002_Description^,^Strengthen items with a fixed probability to improve their stats. <It_G> - Fixed probability is not affected by additional options. </It_G> <It_G> - Unable to enhance equipment more than 10 levels higher than your character </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^JU_CO_00_0002_Description^,^Strengthen items with a fixed probability to improve their stats.
+<It_G> - Fixed probability is not affected by additional options. </It_G>
+<It_G> - Unable to enhance equipment more than 10 levels higher than your character </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
 ^JU_CO_00_0003_name^,^Lv.200 Elite Tempering Stone^
-^JU_CO_00_0003_description^,^You can Temper your Item up to +20. <It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^JU_CO_00_0003_description^,^You can Temper your Item up to +20.
+<It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
 ^EV_IT_CM_0113_Name^,^Familiar: Spiroon of Youngwol^
 ^EV_IT_CM_0113_Description^,^When used, <UI_G> [Spiroon of Youngwol] </UI_G> is created in your library.^
 ^CR_8_0072_Name^,^Magnatu of Chaos Mark^
 ^CR_8_0072_Description^,^<UI_G> As a symbol of Magnatu of Chaos and Ancient Magnatu </UI_G>, you can tame <UI_G> Magnatu of Chaos and Ancient Magnatu </UI_G> if you have it in your bag.^
 ^IT_IT_CM_0029_Name^,^Heroic Unbinding Scroll IX^
-^IT_IT_CM_0029_Description^,^This scroll can unbind Items Lv. 1 ~ 65 and can be used up to heroic grade. Right click to use it on the Item you want to unbind  <It_G> - Can only be used if the level and grade of the item match. </It_G>^
+^IT_IT_CM_0029_Description^,^This scroll can unbind Items Lv. 1 ~ 65 and can be used up to heroic grade.
+Right click to use it on the Item you want to unbind
+
+<It_G> - Can only be used if the level and grade of the item match. </It_G>^
 ^IT_IT_CM_0030_Name^,^Heroic Unbinding Scroll X^
-^IT_IT_CM_0030_Description^,^This scroll can unbind Items Lv. 1 ~ 70 and can be used up to heroic grade. Right click to use it on the Item you want to unbind  <It_G> - Can only be used if the level and grade of the item match. </It_G>^
+^IT_IT_CM_0030_Description^,^This scroll can unbind Items Lv. 1 ~ 70 and can be used up to heroic grade.
+Right click to use it on the Item you want to unbind
+
+<It_G> - Can only be used if the level and grade of the item match. </It_G>^
 ^IT_IT_CM_0031_Name^,^Legendary Unbinding Scroll IX^
-^IT_IT_CM_0031_Description^,^This scroll can unbind Items Lv. 1 ~ 65 and can be used up to legendary grade. Right click to use it on the Item you want to unbind  <It_G> - Can only be used if the level and grade of the item match. </It_G>^
+^IT_IT_CM_0031_Description^,^This scroll can unbind Items Lv. 1 ~ 65 and can be used up to legendary grade.
+Right click to use it on the Item you want to unbind
+
+<It_G> - Can only be used if the level and grade of the item match. </It_G>^
 ^IT_IT_CM_0032_Name^,^Legendary Unbinding Scroll X^
-^IT_IT_CM_0032_Description^,^This scroll can unbind Items Lv. 1 ~ 70 and can be used up to Legendary grade. Right click to use it on the Item you want to unbind  <It_G> - Can only be used if the level and grade of the item match. </It_G>^
+^IT_IT_CM_0032_Description^,^This scroll can unbind Items Lv. 1 ~ 70 and can be used up to Legendary grade.
+Right click to use it on the Item you want to unbind
+
+<It_G> - Can only be used if the level and grade of the item match. </It_G>^
 ^CA_IT_CM_0530_Name^,^Blessed Heroic Unbinding Scroll IX^
-^CA_IT_CM_0530_Description^,^This scroll can unbind Items Lv. 1 ~ 65 and can be used up to heroic grade. Right click to use it on the Item you want to unbind  <It_G> - Can only be used if the level and grade of the item match. </It_G>^
+^CA_IT_CM_0530_Description^,^This scroll can unbind Items Lv. 1 ~ 65 and can be used up to heroic grade.
+Right click to use it on the Item you want to unbind
+
+<It_G> - Can only be used if the level and grade of the item match. </It_G>^
 ^CA_IT_CM_0531_Name^,^Blessed Heroic Unbinding Scroll X^
-^CA_IT_CM_0531_Description^,^This scroll can unbind Items Lv. 1 ~ 70 and can be used up to heroic grade. Right click to use it on the Item you want to unbind  <It_G> - Can only be used if the level and grade of the item match. </It_G>^
+^CA_IT_CM_0531_Description^,^This scroll can unbind Items Lv. 1 ~ 70 and can be used up to heroic grade.
+Right click to use it on the Item you want to unbind
+
+<It_G> - Can only be used if the level and grade of the item match. </It_G>^
 ^CA_IT_CM_0532_Name^,^Blessed Legendary Unbinding Scroll IX^
-^CA_IT_CM_0532_Description^,^This scroll can unbind Items Lv. 1 ~ 65 and can be used up to legendary grade. Right click to use it on the Item you want to unbind  <It_G> - Can only be used if the level and grade of the item match. </It_G>^
+^CA_IT_CM_0532_Description^,^This scroll can unbind Items Lv. 1 ~ 65 and can be used up to legendary grade.
+Right click to use it on the Item you want to unbind
+
+<It_G> - Can only be used if the level and grade of the item match. </It_G>^
 ^CA_IT_CM_0533_Name^,^Blessed Legendary Unbinding Scroll X^
-^CA_IT_CM_0533_Description^,^This scroll can unbind Items Lv. 1 ~ 70 and can be used up to Legendary grade. Right click to use it on the Item you want to unbind  <It_G> - Can only be used if the level and grade of the item match. </It_G>^
+^CA_IT_CM_0533_Description^,^This scroll can unbind Items Lv. 1 ~ 70 and can be used up to Legendary grade.
+Right click to use it on the Item you want to unbind
+
+<It_G> - Can only be used if the level and grade of the item match. </It_G>^
 ^CA_IT_CM_0524_Description^,^When you use <UI_G> [Ancient Vulcanus] </UI_G> is created in your library.^
 ^CA_IT_CM_0525_Description^,^When you use <UI_G> [Ancient Vulcanus] </UI_G> is created in your library.^
 ^CA_IT_CM_0526_Description^,^When you use <UI_G> [Ancient Vulcanus] </UI_G> is created in your library.^
@@ -1320,7 +1536,10 @@ t_key,t_korean
 ^CO_8_0071_Description^,^The mark that represents <UI_G>Daiden</UI_G>. When carried, you can tame <UI_G>Daiden</UI_G>.^
 ^CP_8_0071_Description^,^The mark that represents <UI_G>Daiden</UI_G>. When carried, you can tame <UI_G>Daiden</UI_G>.^
 ^CR_8_0071_Description^,^The mark that represents <UI_G>Daiden</UI_G>. When carried, you can tame <UI_G>Daiden</UI_G> at 100%.^
-^CO_OR_H65_0001_Description^,^A mysterious stone that can transcend legendary weapons, armor and accessories between levels 60 and 65  <It_G> - There is a chance that item transcendence will fail. </It_G> <It_G> - Can be used by clicking on the item after right clicking </It_G>^
+^CO_OR_H65_0001_Description^,^A mysterious stone that can transcend legendary weapons, armor and accessories between levels 60 and 65
+
+<It_G> - There is a chance that item transcendence will fail. </It_G>
+<It_G> - Can be used by clicking on the item after right clicking </It_G>^
 ^CA_IT_CM_0534_Name^,^Pet: Golden Watermelon of Courage^
 ^CA_IT_CM_0535_Name^,^Pet: Golden Watermelon of Wisdom^
 ^CA_IT_CM_0534_Description^,^When used, <UI_G> [Golden Watermelon of Courage] </UI_G> will be created in your library.^
@@ -1332,11 +1551,17 @@ t_key,t_korean
 ^CA_IT_CM_0536_Description^,^When used, <UI_G> [Kitsune of Courage] </UI_G> will be created in your library.^
 ^CA_IT_CM_0537_Description^,^When used, <UI_G> [Kitsune of Wisdom] </UI_G> will be created in your library.^
 ^EN5_0_000_0210_1_Name^,^Level 210 Elite Tempering Stone (Legend Only)^
-^EN5_0_000_0210_1_Description^,^You can Temper your Item up to +20. <It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN5_0_000_0210_1_Description^,^You can Temper your Item up to +20.
+<It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
 ^EN5_0_000_0230_1_Name^,^Level 230 Elite Tempering Stone^
 ^EN5_0_000_0240_1_Name^,^Level 240 Elite Tempering Stone^
-^EN5_0_000_0230_1_Description^,^You can Temper your Item up to +20. <It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
-^EN5_0_000_0240_1_Description^,^You can Temper your Item up to +20. <It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN5_0_000_0230_1_Description^,^You can Temper your Item up to +20.
+<It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN5_0_000_0240_1_Description^,^You can Temper your Item up to +20.
+<It_G> - The corresponding Tempering stones can be used for level 60 or higher legendary items. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
 ^EV_IT_CM_0115_Name^,^Summon Scroll: Ancient Magnatu^
 ^EV_IT_CM_0115_Description^,^A Scroll to summon <UI_G> [Ancient Magnatu] </UI_G>^
 ^EV_IT_CM_0116_Name^,^Summon Scroll: Ancient Veldon^
@@ -1350,35 +1575,111 @@ t_key,t_korean
 ^CP_8_0073_Description^,^The mark that represents <UI_G>Hestin</UI_G>. When carried, you can tame <UI_G>Scarlet Hestin</UI_G>.^
 ^CR_8_0073_Description^,^The mark that represents <UI_G>Hestin</UI_G>. When carried, you can tame <UI_G>Scarlet Hestin</UI_G> at 100%.^
 ^CA_IT_EI_0000_Name^,^Premium service (1 day)^
-^CA_IT_EI_0000_Description^,^<UI_G> Premium Benefits </UI_G> 1. 34 Ellun per day During the service period (up to 1,020) 2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded) 3. Premium Buff 4. Premium Special Title 5. Transit Shrine Pass  <O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
+^CA_IT_EI_0000_Description^,^<UI_G> Premium Benefits </UI_G>
+1. 34 Ellun per day During the service period (up to 1,020)
+2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded)
+3. Premium Buff
+4. Premium Special Title
+5. Transit Shrine Pass
+
+<O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
 ^CA_IT_EI_0001_Name^,^Premium service (3 days)^
-^CA_IT_EI_0001_Description^,^<UI_G> Premium Benefits </UI_G> 1. 34 Ellun per day During the service period (up to 1,020) 2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded) 3. Premium Buff 4. Premium Special Title 5. Transit Shrine Pass  <O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
+^CA_IT_EI_0001_Description^,^<UI_G> Premium Benefits </UI_G>
+1. 34 Ellun per day During the service period (up to 1,020)
+2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded)
+3. Premium Buff
+4. Premium Special Title
+5. Transit Shrine Pass
+
+<O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
 ^CA_IT_EI_0002_Name^,^Premium service (7 days)^
-^CA_IT_EI_0002_Description^,^<UI_G> Premium Benefits </UI_G> 1. 34 Ellun per day During the service period (up to 1,020) 2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded) 3. Premium Buff 4. Premium Special Title 5. Transit Shrine Pass  <O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
+^CA_IT_EI_0002_Description^,^<UI_G> Premium Benefits </UI_G>
+1. 34 Ellun per day During the service period (up to 1,020)
+2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded)
+3. Premium Buff
+4. Premium Special Title
+5. Transit Shrine Pass
+
+<O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
 ^CA_IT_EI_0003_Name^,^Premium service (15 days)^
-^CA_IT_EI_0003_Description^,^<UI_G> Premium Benefits </UI_G> 1. 34 Ellun per day During the service period (up to 1,020) 2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded) 3. Premium Buff 4. Premium Special Title 5. Transit Shrine Pass  <O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
+^CA_IT_EI_0003_Description^,^<UI_G> Premium Benefits </UI_G>
+1. 34 Ellun per day During the service period (up to 1,020)
+2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded)
+3. Premium Buff
+4. Premium Special Title
+5. Transit Shrine Pass
+
+<O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
 ^CA_IT_EI_0004_Name^,^Premium service (30 days)^
-^CA_IT_EI_0004_Description^,^<UI_G> Premium Benefits </UI_G> 1. 34 Ellun per day During the service period (up to 1,020) 2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded) 3. Premium Buff 4. Premium Special Title 5. Transit Shrine Pass  <O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
+^CA_IT_EI_0004_Description^,^<UI_G> Premium Benefits </UI_G>
+1. 34 Ellun per day During the service period (up to 1,020)
+2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded)
+3. Premium Buff
+4. Premium Special Title
+5. Transit Shrine Pass
+
+<O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
 ^CA_IT_EI_0005_Name^,^Premium service (45 days)^
-^CA_IT_EI_0005_Description^,^<UI_G> Premium Benefits </UI_G> 1. 34 Ellun per day During the service period (up to 1,020) 2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded) 3. Premium Buff 4. Premium Special Title 5. Transit Shrine Pass  <O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
+^CA_IT_EI_0005_Description^,^<UI_G> Premium Benefits </UI_G>
+1. 34 Ellun per day During the service period (up to 1,020)
+2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded)
+3. Premium Buff
+4. Premium Special Title
+5. Transit Shrine Pass
+
+<O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
 ^CA_IT_EI_0006_Name^,^Premium service (90 days)^
-^CA_IT_EI_0006_Description^,^<UI_G> Premium Benefits </UI_G> 1. 34 Ellun per day During the service period (up to 1,020) 2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded) 3. Premium Buff 4. Premium Special Title 5. Transit Shrine Pass  <O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
+^CA_IT_EI_0006_Description^,^<UI_G> Premium Benefits </UI_G>
+1. 34 Ellun per day During the service period (up to 1,020)
+2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded)
+3. Premium Buff
+4. Premium Special Title
+5. Transit Shrine Pass
+
+<O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
 ^CA_IT_SC_2002_Name^,^Transit Shrine Pass (Premium service)^
-^CA_IT_SC_2002_Description^,^You can freely use the activated portal During the premium service period. <O_Y> The item will be deleted when the premium service has ended. <O_Y>^
+^CA_IT_SC_2002_Description^,^You can freely use the activated portal During the premium service period.
+<O_Y> The item will be deleted when the premium service has ended. <O_Y>^
 ^CA_IT_EI_0007_Name^,^[First purchase] Premium service (30 days)^
-^CA_IT_EI_0007_Description^,^<O_Y> One purchase per account </O_Y> <R_Y> When withdrawal is canceled, repurchase is not possible </R_Y>  <UI_G> Premium Benefits </UI_G> 1. 34 Ellun per day During the service period (up to 1,020) 2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded) 3. Premium Buff 4. Premium Special Title 5. Transit Shrine Pass  <O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
+^CA_IT_EI_0007_Description^,^<O_Y> One purchase per account </O_Y>
+<R_Y> When withdrawal is canceled, repurchase is not possible </R_Y>
+
+<UI_G> Premium Benefits </UI_G>
+1. 34 Ellun per day During the service period (up to 1,020)
+2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded)
+3. Premium Buff
+4. Premium Special Title
+5. Transit Shrine Pass
+
+<O_Y> Ellun will be destroyed if you do not receive it until the initialization time every day. Benefits are available During the service period. </O_Y>^
 ^EV_IT_CM_0118_Name^,^Mount: Diagyl of Pledge^
 ^EV_IT_CM_0119_Name^,^Mount: Palus of Courage^
 ^EV_IT_CM_0120_Name^,^Mount: Palus of Wisdom^
 ^EV_IT_CM_0121_Name^,^Mount: Nether Gapish^
 ^EV_IT_CM_0122_Name^,^Mount: Nether Gapish^
 ^EV_IT_CM_0118_Description^,^When using <UI_G> [Diagyl of Pledge] </UI_G> will be created in your library.^
-^EV_IT_CM_0119_Description^,^<UI_G> [Palus of Courage] </UI_G> will be created in your library.  <UI_Y> Max Level Seal Stats </UI_Y> <UI_G> STR 84 ~ 92 Overall C. DMG 180 ~ 190 All Stats 26-28 +5 Tempered Overall ATK 160 ~ 170 </UI_G>^
-^EV_IT_CM_0120_Description^,^<UI_G> [Palus of Wisdom] </UI_G> will be created in your library.  <UI_Y> Max Level Seal Stats </UI_Y> <UI_G> INT 84 ~ 92 Overall C. DMG 180 ~ 190 All Stats 26-28 +5 Tempered Overall ATK 160 ~ 170 </UI_G>^
+^EV_IT_CM_0119_Description^,^<UI_G> [Palus of Courage] </UI_G> will be created in your library.
+
+<UI_Y> Max Level Seal Stats </UI_Y>
+<UI_G> STR 84 ~ 92
+Overall C. DMG 180 ~ 190
+All Stats 26-28
++5 Tempered Overall ATK 160 ~ 170 </UI_G>^
+^EV_IT_CM_0120_Description^,^<UI_G> [Palus of Wisdom] </UI_G> will be created in your library.
+
+<UI_Y> Max Level Seal Stats </UI_Y>
+<UI_G> INT 84 ~ 92
+Overall C. DMG 180 ~ 190
+All Stats 26-28
++5 Tempered Overall ATK 160 ~ 170 </UI_G>^
 ^EV_IT_CM_0121_Description^,^When you use <UI_G> [Nether Gapish] </UI_G> is created in your library.^
 ^EV_IT_CM_0122_Description^,^When you use <UI_G> [Nether Gapish] </UI_G> is created in your library.^
 ^EN1_2_EV_0001_Name^,^Enlightenment +20 Hero Tempering Stone^
-^EN1_2_EV_0001_Description^,^Tempers heroic items above level 60 to +20. <It_G> - 100% chance to increase Tempering level to +20. </It_G> <It_G> - Can only be used below Tempering level of +20. </It_G> <It_G> - Can not be used on any other equipment besides [Hero equipment on level 60 or higher]. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN1_2_EV_0001_Description^,^Tempers heroic items above level 60 to +20.
+<It_G> - 100% chance to increase Tempering level to +20. </It_G>
+<It_G> - Can only be used below Tempering level of +20. </It_G>
+<It_G> - Can not be used on any other equipment besides [Hero equipment on level 60 or higher]. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
 ^tt_0_0_0253_Name^,^Title: Great Mentor^
 ^tt_0_0_0253_Description^,^Mentee 500 Graduation Achievement Title^
 ^EV_IT_BP_0088_Name^,^Advanced Drop Rate Elixir^
@@ -1498,7 +1799,10 @@ t_key,t_korean
 ^EV_IT_CM_0129_Description^,^When used, <UI_G> [Sandstorm] </UI_G> will be created in the archive.^
 ^CA_IT_BP_0079_Name^,^Ginseng^
 ^EV_IT_CM_0130_Name^,^Carrot 100% Health Potion^
-^EV_IT_CM_0130_Description^,^Restores all vitality when used.   <UI_G> Possible number of possession: 10 </UI_G>     <O_Y> The item is not available on the PVP channel. </O_Y>^
+^EV_IT_CM_0130_Description^,^Restores all vitality when used.
+  <UI_G> Possible number of possession: 10 </UI_G>
+ 
+  <O_Y> The item is not available on the PVP channel. </O_Y>^
 ^tt_0_0_0258_Name^,^Title: I am at Internet Cafe^
 ^tt_0_0_0258_Description^,^Title that can be used only by users that are connected to the Internet Cafe^
 ^CO_8_0080_Name^,^Kurodian's Orb^
@@ -1575,7 +1879,8 @@ t_key,t_korean
 ^tt_0_0_0273_Description^,^A title earned by killing Rabbini Hoya^
 ^tt_0_0_0274_Description^,^A title earned by killing Rabbini Aromi^
 ^EV_IT_BP_0089_Name^,^PCBunny's Growth Tincture II^
-^EV_IT_BP_0089_Description^,^Effects do not stack with <O_Y>PCBunny's Growth Tincture</O_Y>. <R_Y>You can't receive more than 500% bonus experience</R_Y>^
+^EV_IT_BP_0089_Description^,^Effects do not stack with <O_Y>PCBunny's Growth Tincture</O_Y>.
+<R_Y>You can't receive more than 500% bonus experience</R_Y>^
 ^EV_IT_CM_0132_Name^,^Pet: Noir^
 ^EV_IT_CM_0133_Name^,^Pet: Noir^
 ^EV_IT_CM_0134_Name^,^Pet: Noir of Darkness^
@@ -1583,7 +1888,11 @@ t_key,t_korean
 ^EV_IT_CM_0133_Description^,^When used, <UI_G> [Noir] </UI_G> will be created in your library.^
 ^EV_IT_CM_0134_Description^,^When used, <UI_G> [Noir of Darkness] </UI_G> will be created in your library.^
 ^EN1_2_EV_0002_Name^,^+12 Level 60 Legendary Equipment Tempering Stone^
-^EN1_2_EV_0002_Description^,^Tempers a level 60 legendary item to +12.    <It_G> - 100% chance to increase temper level to +12. </It_G>    <It_G> - Can only be used below +12. </It_G>    <It_G> - Can not be used on other equipment except [Level 60 Legendary Equipment]. </It_G>    <It_G> - Use it by clicking on the item after right-clicking </It_G>^
+^EN1_2_EV_0002_Description^,^Tempers a level 60 legendary item to +12. 
+  <It_G> - 100% chance to increase temper level to +12. </It_G> 
+  <It_G> - Can only be used below +12. </It_G> 
+  <It_G> - Can not be used on other equipment except [Level 60 Legendary Equipment]. </It_G> 
+  <It_G> - Use it by clicking on the item after right-clicking </It_G>^
 ^CA_IT_CM_0562_Name^,^Familiar: Foggian of Courage^
 ^CA_IT_CM_0563_Name^,^Familiar: Foggian of Courage^
 ^CA_IT_CM_0564_Name^,^Familiar: Foggian of Courage^
@@ -1629,29 +1938,53 @@ t_key,t_korean
 ^AU_0_0005_Name^,^Beginner's Automatic Reel^
 ^AU_0_0005_Description^,^Fishing can be done automatically when you have this item.^
 ^CA_IT_CM_0578_Name^,^Lv.65 Heroic Armor Honing Stone^
-^CA_IT_CM_0578_Description^,^The material needed to change the option values of Heroic Armor at Lvl.65 or lower.     <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
+^CA_IT_CM_0578_Description^,^The material needed to change the option values of Heroic Armor at Lvl.65 or lower.
+ 
+  <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
 ^CA_IT_CM_0579_Name^,^Lv.65 Legendary Armor Honing Stone^
-^CA_IT_CM_0579_Description^,^The material needed to change the option values of Legendary Armor at Lvl.65 or lower.     <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
+^CA_IT_CM_0579_Description^,^The material needed to change the option values of Legendary Armor at Lvl.65 or lower.
+ 
+  <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
 ^CA_IT_CM_0580_Name^,^Lv.65 Heroic Weapon Honing Stone^
-^CA_IT_CM_0580_Description^,^The material needed to change the option values of Heroic Weapons at Lvl.65 or lower.     <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
+^CA_IT_CM_0580_Description^,^The material needed to change the option values of Heroic Weapons at Lvl.65 or lower.
+ 
+  <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
 ^CA_IT_CM_0581_Name^,^Lv.65 Legendary Weapon Honing Stone^
-^CA_IT_CM_0581_Description^,^The material needed to change the option values of Legendary Weapons at Lvl.65 or lower.     <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
+^CA_IT_CM_0581_Description^,^The material needed to change the option values of Legendary Weapons at Lvl.65 or lower.
+ 
+  <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
 ^CA_IT_CM_0582_Name^,^Lv.65 Heroic Accessory Honing Stone^
-^CA_IT_CM_0582_Description^,^The material needed to change the option values of Heroic Accessories at Lvl.65 or lower.     <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
+^CA_IT_CM_0582_Description^,^The material needed to change the option values of Heroic Accessories at Lvl.65 or lower.
+ 
+  <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
 ^CA_IT_CM_0583_Name^,^Lv.65 Legendary Accessory Honing Stone^
-^CA_IT_CM_0583_Description^,^The material needed to change the option values of Legendary Accessories at Lvl.65 or lower.     <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
+^CA_IT_CM_0583_Description^,^The material needed to change the option values of Legendary Accessories at Lvl.65 or lower.
+ 
+  <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
 ^CA_IT_CM_0584_Name^,^Lv.65 Heroic Armor Honing Stone^
-^CA_IT_CM_0584_Description^,^The material needed to change the option values of Heroic Armor at Lvl.65 or lower.     <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
+^CA_IT_CM_0584_Description^,^The material needed to change the option values of Heroic Armor at Lvl.65 or lower.
+ 
+  <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
 ^CA_IT_CM_0585_Name^,^Lv.65 Legendary Armor Honing Stone^
-^CA_IT_CM_0585_Description^,^The material needed to change the option values of Legendary Armor at Lvl.65 or lower.     <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
+^CA_IT_CM_0585_Description^,^The material needed to change the option values of Legendary Armor at Lvl.65 or lower.
+ 
+  <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
 ^CA_IT_CM_0586_Name^,^Lv.65 Heroic Weapon Honing Stone^
-^CA_IT_CM_0586_Description^,^The material needed to change the option values of Heroic Weapons at Lvl.65 or lower.     <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
+^CA_IT_CM_0586_Description^,^The material needed to change the option values of Heroic Weapons at Lvl.65 or lower.
+ 
+  <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
 ^CA_IT_CM_0587_Name^,^Lv.65 Legendary Weapon Honing Stone^
-^CA_IT_CM_0587_Description^,^The material needed to change the option values of Legendary Weapons at Lvl.65 or lower.     <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
+^CA_IT_CM_0587_Description^,^The material needed to change the option values of Legendary Weapons at Lvl.65 or lower.
+ 
+  <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
 ^CA_IT_CM_0588_Name^,^Lv.65 Heroic Accessory Honing Stone^
-^CA_IT_CM_0588_Description^,^The material needed to change the option values of Heroic Accessories at Lvl.65 or lower.     <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
+^CA_IT_CM_0588_Description^,^The material needed to change the option values of Heroic Accessories at Lvl.65 or lower.
+ 
+  <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
 ^CA_IT_CM_0589_Name^,^Lv.65 Legendary Accessory Honing Stone^
-^CA_IT_CM_0589_Description^,^The material needed to change the option values of Legendary Accessories at Lvl.65 or lower.     <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
+^CA_IT_CM_0589_Description^,^The material needed to change the option values of Legendary Accessories at Lvl.65 or lower.
+ 
+  <It_G> - Can only be used on items which match the level and grade of the item </It_G>^
 ^CA_IT_CM_0590_Name^,^Stir Fried Rice^
 ^CA_IT_CM_0591_Name^,^Spicy Grilled Chicken^
 ^CA_IT_CM_0592_Name^,^Savory Rice Porridge^
@@ -1671,7 +2004,9 @@ t_key,t_korean
 ^EV_IT_CM_0139_Description^,^Use this scroll to summon <UI_G>[Rabbini Aromi]</UI_G>.^
 ^EV_IT_BP_0109_Name^,^Sweet Watermelon Punch^
 ^EV_IT_BP_0110_Name^,^Water Balloon^
-^EV_IT_BP_0110_Description^,^Water balloon containing water from a Turinman waterfall, used to damage <UI_G>[Giant Golden Watermelon]</UI_G>. <br><UI_G>Cannot be used with simple attack.</UI_G><br> <UI_Y>This item will disappear after 5 hours.</UI_Y>^
+^EV_IT_BP_0110_Description^,^Water balloon containing water from a Turinman waterfall, used to damage <UI_G>[Giant Golden Watermelon]</UI_G>.
+<br><UI_G>Cannot be used with simple attack.</UI_G><br>
+<UI_Y>This item will disappear after 5 hours.</UI_Y>^
 ^CA_IT_CM_0597_Name^,^Familiar: Banana Pepe^
 ^CA_IT_CM_0598_Name^,^Familiar: Banana Pepe^
 ^CA_IT_CM_0597_Description^,^When used, <UI_G> [Banana Pepe] </UI_G> will be created in your library.^
@@ -1680,18 +2015,28 @@ t_key,t_korean
 ^CA_IT_CM_0599_Description^,^<r_y> It does not apply to the mysterious hotpot effect </R_Y>^
 ^CA_IT_CM_0600_Name^,^Mythical Weapon Refining Stone^
 ^CA_IT_CM_0601_Name^,^Mythical Jewelry Refining Stone^
-^CA_IT_CM_0600_Description^,^Used to change attributes of Mythical Weapons  <It_G> - Can only be used on a Mythical grade weapon with a matching level </It_G>^
-^CA_IT_CM_0601_Description^,^Used to change attributes of Mythical Jewelry items  <It_G> - Can only be used on an accessory of Mythical grade with a matching level </It_G>^
+^CA_IT_CM_0600_Description^,^Used to change attributes of Mythical Weapons
+
+<It_G> - Can only be used on a Mythical grade weapon with a matching level </It_G>^
+^CA_IT_CM_0601_Description^,^Used to change attributes of Mythical Jewelry items
+
+<It_G> - Can only be used on an accessory of Mythical grade with a matching level </It_G>^
 ^tt_0_0_0275_Name^,^Title: Red Revolutionaries Demolisher^
 ^tt_0_0_0275_Description^,^A title earned by killing Khapir Bandit Leader^
 ^CA_IT_CM_0602_Name^,^Mythical Weapon Honing Stone^
 ^CA_IT_CM_0603_Name^,^Mythical Accessory Honing Stone^
-^CA_IT_CM_0602_Description^,^Used to change the attribute values of Mythical Weapons  <It_G> - Can only be used on a Mythical grade weapon with a matching level </It_G>^
-^CA_IT_CM_0603_Description^,^Used to change the attribute values of Mythical Jewelry items  <It_G> - Can only be used on an accessory of Mythical grade with a matching level </It_G>^
+^CA_IT_CM_0602_Description^,^Used to change the attribute values of Mythical Weapons
+
+<It_G> - Can only be used on a Mythical grade weapon with a matching level </It_G>^
+^CA_IT_CM_0603_Description^,^Used to change the attribute values of Mythical Jewelry items
+
+<It_G> - Can only be used on an accessory of Mythical grade with a matching level </It_G>^
 ^EV_IT_BP_0090_Name^,^PCBunny's Growth Tincture (1 Day)^
-^EV_IT_BP_0090_Description^,^Effects do not stack with <O_Y>PCBunny's Growth Tincture II</O_Y>. <R_Y>You can't receive more than 500% bonus experience</R_Y>^
+^EV_IT_BP_0090_Description^,^Effects do not stack with <O_Y>PCBunny's Growth Tincture II</O_Y>.
+<R_Y>You can't receive more than 500% bonus experience</R_Y>^
 ^EV_IT_BP_0091_Name^,^PCBunny's Growth Tincture II (1 Day)^
-^EV_IT_BP_0091_Description^,^Effects do not stack with <O_Y>PCBunny's Growth Tincture</O_Y>. <R_Y>You can't receive more than 500% bonus experience</R_Y>^
+^EV_IT_BP_0091_Description^,^Effects do not stack with <O_Y>PCBunny's Growth Tincture</O_Y>.
+<R_Y>You can't receive more than 500% bonus experience</R_Y>^
 ^CA_IT_PO_0030_Name^,^Premium Health Elixir^
 ^CA_IT_CM_0604_Name^,^Pet: Twilight Izhora^
 ^CA_IT_CM_0605_Name^,^Pet: Twilight Izhora^
@@ -1780,17 +2125,29 @@ t_key,t_korean
 ^CA_IT_CM_0642_Description^,^When used, <UI_G> [Twilight Snowman] </UI_G> appears in your storage.^
 ^CA_IT_CM_0643_Description^,^When used, <UI_G> [Void Snowman] </UI_G> appears in your storage.^
 ^CA_IT_CM_0644_Name^,^Mythical Weapon Refining Stone^
-^CA_IT_CM_0644_Description^,^Used to change the attributes of mythical grade weapons   <It_G> - Can only be used on items which the level and grade of the item</It_G>^
+^CA_IT_CM_0644_Description^,^Used to change the attributes of mythical grade weapons
+ 
+<It_G> - Can only be used on items which the level and grade of the item</It_G>^
 ^CA_IT_CM_0645_Name^,^Mythical Accessory Refining Stone^
-^CA_IT_CM_0645_Description^,^Used to change the attributes of mythical grade accessories   <It_G> - Can only be used on items which the level and grade of the item</It_G>^
+^CA_IT_CM_0645_Description^,^Used to change the attributes of mythical grade accessories
+ 
+<It_G> - Can only be used on items which the level and grade of the item</It_G>^
 ^CO_OR_A60_0001_Name^,^Mythical Transcending Stone^
 ^CO_OR_A60_0002_Name^,^Mythical Transcending Stone^
-^CO_OR_A60_0001_Description^,^This stone allows transcendence of mythical weapons and accessories  <It_G> - There is a chance that item transcendence will fail. </It_G> <It_G> - Right-click, then select an item to transcend.</It_G>^
-^CO_OR_A60_0002_Description^,^This stone allows transcendence of mythical weapons and accessories  <It_G> - There is a chance that item transcendence will fail. </It_G> <It_G> - Right-click, then select an item to transcend.</It_G>^
+^CO_OR_A60_0001_Description^,^This stone allows transcendence of mythical weapons and accessories
+
+<It_G> - There is a chance that item transcendence will fail. </It_G>
+<It_G> - Right-click, then select an item to transcend.</It_G>^
+^CO_OR_A60_0002_Description^,^This stone allows transcendence of mythical weapons and accessories
+
+<It_G> - There is a chance that item transcendence will fail. </It_G>
+<It_G> - Right-click, then select an item to transcend.</It_G>^
 ^CO_0_0467_Name^,^Bynder's Pet Capture Elixir^
 ^CO_0_0467_Description^,^An elixir created by Bynder, known as the Familiar Master. It is known that whoever uses it will have his affinity to a pet increased.^
 ^EN2_0_000_0174_Name^,^Level 210 Jewelry Elite Tempering Stone^
-^EN2_0_000_0174_Description^,^You can improve your stats by Tempering Jewelry. <It_G> - Unable to enhance equipment more than 10 levels higher than your character </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN2_0_000_0174_Description^,^You can improve your stats by Tempering Jewelry.
+<It_G> - Unable to enhance equipment more than 10 levels higher than your character </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
 ^CA_IT_CM_0646_Name^,^Pet: Twilight Izhora^
 ^CA_IT_CM_0647_Name^,^Pet: Void Izhora^
 ^CA_IT_CM_0648_Name^,^Pet: Twilight Lilith^
@@ -1810,7 +2167,10 @@ t_key,t_korean
 ^CO_0_0467_1_Name^,^Bynder's Pet Capture Elixir^
 ^CO_0_0467_1_Description^,^An Elixir designed by Bynder, known as the Familiar Master. It is known that the affinity to the pet increases when it is used.^
 ^EN6_0_000_0001_name^,^Mythical Only Accessory Tempering Stone^
-^EN6_0_000_0001_description^,^Tempers a mythical accessory to improve its' attributes   <It_G> - Can temper only an item of the mythical grade. </It_G>   <It_G> - Can be used to temper up to +5. </It_G>   <It_G> - Right-click, then select an accessory to temper. </It_G>^
+^EN6_0_000_0001_description^,^Tempers a mythical accessory to improve its' attributes
+  <It_G> - Can temper only an item of the mythical grade. </It_G>
+  <It_G> - Can be used to temper up to +5. </It_G>
+  <It_G> - Right-click, then select an accessory to temper. </It_G>^
 ^CO_0_0468_Name^,^Stir Fried Rice^
 ^CO_0_0469_Name^,^Stir Fried Rice Set^
 ^CO_0_0470_Name^,^Spicy Grilled Chicken^
@@ -1849,16 +2209,33 @@ t_key,t_korean
 ^CA_IT_BP_0074_Description^,^<R_Y> Effects do not stack with Hakanas Feast.</R_Y>^
 ^CA_IT_BP_0076_Description^,^<R_Y> Effects do not stack with Hakanas Feast.</R_Y>^
 ^CA_IT_EI_0008_Name^,^[Event] Premium Service (30 Days)^
-^CA_IT_EI_0008_Description^,^<UI_G> Premium Benefits </UI_G> 1. 34 Ellun per day During the service period (up to 1,020) 2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded) 3. Premium Buff 4. Premium Special Title 5. Free Transit Shrine Pass  <O_Y> Ellun will be destroyed if you do not claim it until the reset time every day. Benefits are available During the service period. </O_Y>^
+^CA_IT_EI_0008_Description^,^<UI_G> Premium Benefits </UI_G>
+1. 34 Ellun per day During the service period (up to 1,020)
+2. Content Ellun Consumption 30% off (Ellun purchases in stores are excluded)
+3. Premium Buff
+4. Premium Special Title
+5. Free Transit Shrine Pass
+
+<O_Y> Ellun will be destroyed if you do not claim it until the reset time every day. Benefits are available During the service period. </O_Y>^
 ^CO_GN_0001_Name^,^Awk Gauge 30% Recovery Potion^
 ^CA_IT_GN_0001_Name^,^Awk Gauge 100% Recovery Potion^
 ^EV_IT_BP_0111_Name^,^Fatigue Recovery Potion^
 ^EV_PVP_0001_Name^,^Carrot Bomb^
-^EV_PVP_0001_Description^,^<UI_G>Use this to attack the Rabbini in Shady Warrens</UI_G>     <O_Y> This item can only be used in [Shady Warrens] </O_Y>^
+^EV_PVP_0001_Description^,^<UI_G>Use this to attack the Rabbini in Shady Warrens</UI_G>
+ 
+  <O_Y> This item can only be used in [Shady Warrens] </O_Y>^
 ^IT_IT_CM_0033_Name^,^Blessed Unique Dismantling Tool^
-^IT_IT_CM_0033_Description^,^Tool to dismantle unique equipment items  <It_G> - Can be used by clicking on the item after right-clicking </It_G> <It_G> - Can be uses on legendary items and below </It_G> <It_G> - Dismantling is allowed only for elite items or higher <It_G>^
+^IT_IT_CM_0033_Description^,^Tool to dismantle unique equipment items
+
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>
+<It_G> - Can be uses on legendary items and below </It_G>
+<It_G> - Dismantling is allowed only for elite items or higher <It_G>^
 ^IT_IT_CM_0034_Name^,^Unique Dismantling Tool^
-^IT_IT_CM_0034_Description^,^Tool to dismantle unique equipment items  <It_G> - Can be used by clicking on the item after right-clicking </It_G> <It_G> - Can be uses on legendary items and below </It_G> <It_G> - Dismantling is allowed only for elite items or higher <It_G>^
+^IT_IT_CM_0034_Description^,^Tool to dismantle unique equipment items
+
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>
+<It_G> - Can be uses on legendary items and below </It_G>
+<It_G> - Dismantling is allowed only for elite items or higher <It_G>^
 ^CA_IT_CM_0654_Name^,^Familiar: Kumiho of Courage^
 ^CA_IT_CM_0655_Name^,^Familiar: Kumiho of Courage^
 ^CA_IT_CM_0656_Name^,^Familiar: Kumiho of Wisdom^
@@ -1881,8 +2258,14 @@ t_key,t_korean
 ^tt_0_0_0280_Description^,^A title earned by collecting all grades of Sunshine^
 ^CA_IT_CM_0659_Name^,^Pet: Sunshine^
 ^CA_IT_CM_0660_Name^,^Pet: Sunshine^
-^CA_IT_CM_0659_Description^,^When used, <UI_G> [Sunshine] </UI_G> will be created in your library.  <O_Y>Elite grade Sunshine can be earned at max level.</O_Y> <O_Y>Familiars can grow to a Legendary+ grade through evolution </O_Y>^
-^CA_IT_CM_0660_Description^,^When used, <UI_G> [Sunshine] </UI_G> will be created in your library.  <O_Y>Elite grade Sunshine can be earned at max level.</O_Y> <O_Y>Familiars can grow to a Legendary+ grade through evolution </O_Y>^
+^CA_IT_CM_0659_Description^,^When used, <UI_G> [Sunshine] </UI_G> will be created in your library.
+
+<O_Y>Elite grade Sunshine can be earned at max level.</O_Y>
+<O_Y>Familiars can grow to a Legendary+ grade through evolution </O_Y>^
+^CA_IT_CM_0660_Description^,^When used, <UI_G> [Sunshine] </UI_G> will be created in your library.
+
+<O_Y>Elite grade Sunshine can be earned at max level.</O_Y>
+<O_Y>Familiars can grow to a Legendary+ grade through evolution </O_Y>^
 ^CA_IT_CM_0662_Name^,^Character Name Change Voucher^
 ^CA_IT_CM_0662_Description^,^Take this to the beautician in Hakain's Crossing to get yourself a new alias.^
 ^it_bp_po_0001_Name^,^Quick Health Recovery Potion^
@@ -1894,9 +2277,15 @@ t_key,t_korean
 ^CO_8_0085_Name^,^Dangellion Mark^
 ^CP_8_0085_Name^,^Dangellion Mark^
 ^CR_8_0085_Name^,^Fated Dangellion Mark^
-^it_bp_po_0001_Description^,^Restores 2% health every 0.5 seconds for 10 seconds.  <O_Y> Available only on PvP channels </O_Y>^
-^it_bp_po_0005_Description^,^Increases PvP attributes for a period of time.     <O_Y> Available only on PvP channels </O_Y>^
-^it_bp_po_0006_Description^,^Increases move speed for a period of time.     <O_Y> Available only on PvP channels </O_Y>^
+^it_bp_po_0001_Description^,^Restores 2% health every 0.5 seconds for 10 seconds.
+
+<O_Y> Available only on PvP channels </O_Y>^
+^it_bp_po_0005_Description^,^Increases PvP attributes for a period of time.
+ 
+  <O_Y> Available only on PvP channels </O_Y>^
+^it_bp_po_0006_Description^,^Increases move speed for a period of time.
+ 
+  <O_Y> Available only on PvP channels </O_Y>^
 ^CO_8_0084_Description^,^The mark that represents <UI_G>Crable of Chaos</UI_G>. When carried, you can tame <UI_G>Crable of Chaos</UI_G>.^
 ^CP_8_0084_Description^,^The mark that represents <UI_G>Crable of Chaos</UI_G>. When carried, you can tame <UI_G>Crable of Chaos</UI_G>.^
 ^CR_8_0084_Description^,^The mark that will 100% guarantee your ability to tame <UI_G>Crable of Chaos</UI_G>.^
@@ -1912,7 +2301,9 @@ t_key,t_korean
 ^tt_0_0_0284_Name^,^Title: The Reaper of Hakanas^
 ^tt_0_0_0284_Description^,^A title earned by killing a player 444 times in the stronghold^
 ^it_bp_po_0004_Name^,^Quick Mana Recovery Potion^
-^it_bp_po_0004_Description^,^Continuously restores mana for a period of time.     <O_Y> Available only on PVP channels </O_Y>^
+^it_bp_po_0004_Description^,^Continuously restores mana for a period of time.
+ 
+  <O_Y> Available only on PVP channels </O_Y>^
 ^CA_IT_CM_0664_Name^,^Familiar: Shining Mecca Ghost^
 ^CA_IT_CM_0665_Name^,^Familiar: Shining Lovely Whale^
 ^CA_IT_CM_0666_Name^,^Familiar: Shining Sewing Karasha^
@@ -1926,17 +2317,31 @@ t_key,t_korean
 ^CA_IT_CM_0663_Name^,^Hakanas Supper^
 ^CA_IT_CM_0663_Description^,^<r_y> It does not apply to the mysterious hotpot effect </R_Y>^
 ^pvp_co_0_0016_name^,^Weakening Bomb^
-^pvp_co_0_0016_description^,^Effect only applies if target is <UI_G> a player </UI_G>   <O_Y> PVP channel only </O_Y>^
+^pvp_co_0_0016_description^,^Effect only applies if target is <UI_G> a player </UI_G>
+  <O_Y> PVP channel only </O_Y>^
 ^EN6_0_000_0002_name^,^Mythical Tempering Stone ^
-^EN6_0_000_0002_description^,^Tempers a mythical equipment to improve its' attributes <It_G> - Can temper only an item of the mythical grade. </It_G> <It_G> - Can be used to temper up to +18. </It_G> <It_G> - Right-click, then select an equipment to temper. </It_G>^
+^EN6_0_000_0002_description^,^Tempers a mythical equipment to improve its' attributes
+<It_G> - Can temper only an item of the mythical grade. </It_G>
+<It_G> - Can be used to temper up to +18. </It_G>
+<It_G> - Right-click, then select an equipment to temper. </It_G>^
 ^CA_IT_CM_0669_Name^,^Costume Unbinding Scroll^
-^CA_IT_CM_0669_Description^,^You can use this scroll to unbind costumes. Right click to use it on the Item you want to unbind  <It_G> - Can only be used if the grade of the item matches. </It_G>^
+^CA_IT_CM_0669_Description^,^You can use this scroll to unbind costumes.
+Right click to use it on the Item you want to unbind
+
+<It_G> - Can only be used if the grade of the item matches. </It_G>^
 ^EN6_0_000_0003_name^,^Mythical Only Accessory Tempering Stone^
-^EN6_0_000_0003_description^,^Tempers a mythical accessory to improve its' attributes   <It_G> - Can temper only an item of the mythical grade. </It_G>   <It_G> - Can be used to temper up to +5. </It_G>   <It_G> - Right-click, then select an accessory to temper. </It_G>^
+^EN6_0_000_0003_description^,^Tempers a mythical accessory to improve its' attributes
+  <It_G> - Can temper only an item of the mythical grade. </It_G>
+  <It_G> - Can be used to temper up to +5. </It_G>
+  <It_G> - Right-click, then select an accessory to temper. </It_G>^
 ^CO_5_0037_Name^,^Snowball^
-^CO_5_0037_Description^,^You can attack [Elvis] using this item.  <O_Y> This item is only available in [Airbus of Lavismas]. </O_Y>^
+^CO_5_0037_Description^,^You can attack [Elvis] using this item.
+
+<O_Y> This item is only available in [Airbus of Lavismas]. </O_Y>^
 ^CO_5_0038_Name^,^Magic Snowball^
-^CO_5_0038_Description^,^You can attack [Elvis] using this item.     <O_Y> This item is only available in [Airbus of Lavismas]. </O_Y>^
+^CO_5_0038_Description^,^You can attack [Elvis] using this item.
+ 
+  <O_Y> This item is only available in [Airbus of Lavismas]. </O_Y>^
 ^CA_IT_CM_0670_Name^,^Pet: Winter Puppy^
 ^CA_IT_CM_0671_Name^,^Pet: Santa Puppy^
 ^CA_IT_CM_0672_Name^,^Familiar: Christmas Sled^
@@ -1945,7 +2350,9 @@ t_key,t_korean
 ^CA_IT_CM_0672_Description^,^When used. <UI_G> [Christmas Sled] </UI_G> will be created in your library.^
 ^CO_4_0007_Name^,^Secret Room Key^
 ^EN5_0_000_0250_1_Name^,^Lv 250 Elite Tempering Stone^
-^EN5_0_000_0250_1_Description^,^You can Temper your Item up to +20. <It_G> - The corresponding Tempering stones can be used for level 65 or higher legendary items. </It_G> <It_G> - Can be used by clicking on the item after right-clicking </It_G>^
+^EN5_0_000_0250_1_Description^,^You can Temper your Item up to +20.
+<It_G> - The corresponding Tempering stones can be used for level 65 or higher legendary items. </It_G>
+<It_G> - Can be used by clicking on the item after right-clicking </It_G>^
 ^CR_8_0086_Name^,^Light Rudolph's Mark^
 ^CR_8_0086_Description^,^The mark that represents <UI_G>Light Rudolph</UI_G>. When carried, you can tame <UI_G>Light Rudolph</UI_G>.^
 ^tt_0_0_0285_Name^,^Title: Zombie Hunter^
@@ -1968,8 +2375,14 @@ t_key,t_korean
 ^tt_0_0_0293_Description^,^A title obtained by defeating Marie and Net each 1000 times in the cursed secret room.^
 ^it_bp_po_0009_Name^,^Secret Room Only 100% Health Recovery Potion^
 ^it_bp_po_0010_Name^,^Secret Room Only 100% Mana Recovery Potion^
-^it_bp_po_0009_Description^,^Restores all health when used.   <UI_G> Possible number of possession: 10 </UI_G>     <O_Y> The item can only be used in the secret room. </O_Y>^
-^it_bp_po_0010_Description^,^Restores all Mana when used.   <UI_G> Possible number of possession: 10 </UI_G>     <O_Y> The item can only be used in the secret room. </O_Y>^
+^it_bp_po_0009_Description^,^Restores all health when used.
+  <UI_G> Possible number of possession: 10 </UI_G>
+ 
+  <O_Y> The item can only be used in the secret room. </O_Y>^
+^it_bp_po_0010_Description^,^Restores all Mana when used.
+  <UI_G> Possible number of possession: 10 </UI_G>
+ 
+  <O_Y> The item can only be used in the secret room. </O_Y>^
 ^EV_IT_BP_0112_Name^,^Advanced Drop Rate Elixir (1 hour)^
 ^CO_4_0008_Name^,^ICA Big! Sports^
 ^CO_4_0009_Name^,^ICA Big! Sports torch^
@@ -2024,7 +2437,9 @@ t_key,t_korean
 ^ca_it_cm_0683_Name^,^Mythical Weapon Honing Stone^
 ^ca_it_cm_0684_Name^,^Mythical Jewelry Honing Stone^
 ^ca_it_cm_0683_Description^,^Material needed to change the option values of a mythical grade weapon <IT_G>^
-^ca_it_cm_0684_Description^,^Material needed to change the option values of a mythical grade jewelry piece  <It_G> - Can only be used on matching item grade and level. </It_G>^
+^ca_it_cm_0684_Description^,^Material needed to change the option values of a mythical grade jewelry piece
+
+<It_G> - Can only be used on matching item grade and level. </It_G>^
 ^CA_IT_CM_0685_Name^,^Fellow: Watermelon Banana Pepe^
 ^CA_IT_CM_0685_Description^,^When used <UI_G> [Watermelon Banana Pepe] </ui_g> is created in the locker^
 ^CO_5_0022_Name^,^Cool carrot bomb^
@@ -2047,8 +2462,12 @@ t_key,t_korean
 ^co_ev_bp_0002_Description^,^Songpyeon that has been injured for a long time If you eat it you will get upset <UI_G> [Ravini Manwol] </ui_g> can be replaced or used by item <UI_G2> 10% chance of upset stomach^
 ^ca_it_cm_0689_Name^,^Mythical Armor Refining Stone^
 ^ca_it_cm_0690_Name^,^Mythical Armor Honing Stone^
-^ca_it_cm_0689_Description^,^Material needed to change the stats of a mythical grade armor  <It_G> - Can only be used on matching item grade and level. </It_G>^
-^ca_it_cm_0690_Description^,^Material needed to change the option values of a mythical grade armor  <It_G> - Can only be used on matching item grade and level. </It_G>^
+^ca_it_cm_0689_Description^,^Material needed to change the stats of a mythical grade armor
+
+<It_G> - Can only be used on matching item grade and level. </It_G>^
+^ca_it_cm_0690_Description^,^Material needed to change the option values of a mythical grade armor
+
+<It_G> - Can only be used on matching item grade and level. </It_G>^
 ^NA_IT_Chariot_0001_Name^,^Kosutavai sign^
 ^NA_IT_Chariot_0001_Description^,^If you have a sign that symbolizes <UI_G> Kosutavai </ui_g> you can tame the monster^
 ^ca_it_cm_0691_Name^,^Mythical Armor Refining Stone^
@@ -2094,7 +2513,10 @@ t_key,t_korean
 ^RN1_4_00_003_Description^,^Reverse can be reinforced to the legendary level of weapons/armor equipment <IT_G> -20 Enhancement item can be reinforced from reinforcing items /IT_G>^
 ^EN6_0_000_0005_Name^,^30% Mythical Tempering stone^
 ^EN6_0_000_0006_Name^,^50% Mythical Tempering Stone^
-^EN6_0_000_0005_Description^,^It can be enhanced by strengthening the item  <It_G> -The myth level can be strengthened </It_G>  <It_G> -It can be strengthened until 1 ~ 10 </It_G> <It_G> -It can be used for jewelry </It_G>^
+^EN6_0_000_0005_Description^,^It can be enhanced by strengthening the item 
+<It_G> -The myth level can be strengthened </It_G> 
+<It_G> -It can be strengthened until 1 ~ 10 </It_G>
+<It_G> -It can be used for jewelry </It_G>^
 ^EN6_0_000_0006_Description^,^It can be enhanced by strengthening the item <IT_G> -The myth level can be strengthened </It_g> <IT_G> -It can be strengthened until 1 ~ 10 </IT_G>^
 ^tt_1_0_0076_Name^,^Title: 5th Anniversary^
 ^tt_1_0_0076_Description^,^Title of the 5th Anniversary Limited Event Quest^
@@ -2619,7 +3041,8 @@ t_key,t_korean
 ^CA_IT_CM_0854_Name^,^Fellow: Flores do Abismo^
 ^CA_IT_CM_0854_Description^,^Quando usado, <UI_G>Abyssal Blossus</UI_G> é criado em seu inventário.^
 ^CO_0_0492_Name^,^Selo da Casa Deliciosa^
-^CO_0_0492_Description^,^Um selo que reconhece a capacidade de domar companheiros criados no rancho da família Delicious. Eu acho que você pode domar os companheiros no rancho fora da capital de Hakanas.^
+^CO_0_0492_Description^,^Um selo que reconhece a capacidade de domar companheiros criados no rancho da família Delicious.
+Eu acho que você pode domar os companheiros no rancho fora da capital de Hakanas.^
 ^CA_IT_CM_0855_Name^,^Fellow: Twin Yeti Mao^
 ^CA_IT_CM_0855_Description^,^When used, <UI_G>Yeti Mao</UI_G> will be created in your inventory.^
 ^CA_IT_CM_0856_Name^,^Fellow: Twin Yeti Tio^
@@ -2857,9 +3280,17 @@ t_key,t_korean
 ^CA_IT_CM_1001_Name^,^Demonite Artifact Refining Stone^
 ^CA_IT_CM_1002_Name^,^Demonite Relic Honing Stone^
 ^CA_IT_CM_1003_Name^,^Myth seal option change tool^
-^CA_IT_CM_1001_Description^,^Material required to change options of mythic artifacts below level 80  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_IT_CM_1002_Description^,^Material required to change options of mythic artifacts below level 80  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_IT_CM_1003_Description^,^A tool that can change the option value of the Fellow Sealing Stone Only Sealed Fellows of Myth or lower are allowed.  <It_G> - Can only be used if Fellow's level is met</It_G> <It_G> - In case of a fixed option, the option cannot be changed</It_G>^
+^CA_IT_CM_1001_Description^,^Material required to change options of mythic artifacts below level 80
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_IT_CM_1002_Description^,^Material required to change options of mythic artifacts below level 80
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_IT_CM_1003_Description^,^A tool that can change the option value of the Fellow Sealing Stone
+Only Sealed Fellows of Myth or lower are allowed.
+
+<It_G> - Can only be used if Fellow's level is met</It_G>
+<It_G> - In case of a fixed option, the option cannot be changed</It_G>^
 ^CA_MA_CM_0001_Name^,^Demonite Weapon Refining Stone (T)^
 ^CA_MA_CM_0002_Name^,^Demonite Armor Refining Stone (T)^
 ^CA_MA_CM_0003_Name^,^Demonite Accessory Refining Stone (T)^
@@ -2880,30 +3311,93 @@ t_key,t_korean
 ^RN1_6_08_002_Name^,^Blessed Lord Reverse Enhancement Stone^
 ^RN1_4_08_000_Name^,^Demonite Reverse Attempt Increase Tool (T)^
 ^RN1_4_08_001_Name^,^Demonite Reverse Attempt Increase Tool (U)^
-^CA_MA_CM_0001_Description^,^Materials needed to change the option of a new grade weapon  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_MA_CM_0002_Description^,^Materials required to change the options of new grade armor  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_MA_CM_0003_Description^,^Material required to change the option of a high-grade accessory  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_MA_CM_0004_Description^,^Materials required to change the option value of a new grade weapon  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_MA_CM_0005_Description^,^Materials required to change the option value of the new grade armor  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_MA_CM_0006_Description^,^Materials required to change the option value of a high-grade accessory  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_MA_CM_0007_Description^,^Materials required to change the option of a new grade weapon  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_MA_CM_0008_Description^,^Materials required to change the options of new grade armor  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_MA_CM_0009_Description^,^Material required to change the option of a high-grade accessory  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_MA_CM_0010_Description^,^Materials needed to change the option value of a new grade weapon  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_MA_CM_0011_Description^,^Materials required to change the option value of new grade armor  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^CA_MA_CM_0012_Description^,^Materials required to change the option value of a high-grade accessory  <It_G> - Can only be used if the level and grade of the item are met</It_G>^
-^En8_0_000_0001_Description^,^You can improve your ability by strengthening items,<R_Y>from lvl 18 with penalties</R_Y>. <It_G> - Only given level is allowed.</It_G> <It_G> - Weapons can be enhanced from 1 to 20.</It_G> <It_G> - Right click and click equipped item to use</It_G> Weapons, auxiliary equipment, armor, accessories can be used^
-^En8_0_000_0002_Description^,^You can improve your ability by strengthening items,<R_Y>from lvl 18 with penalties</R_Y>. <It_G> - Only given level is allowed.</It_G> <It_G> - Armor can be enhanced from 1 to 20.</It_G> <It_G> - Right click and click equipped item to use</It_G> Weapons, auxiliary equipment, armor, accessories can be used^
-^En8_0_000_0003_Description^,^You can improve your stats by strengthening items, and there is <R_Y>no failure penalty</R_Y>. <It_G> - Only the grade given to you can be enhanced.</It_G> <It_G> - Can be enhanced from Armor and Weapon 1 to 15.</It_G> <It_G> - You can use it by right-clicking and clicking the equipped item.</It_G> Weapons, auxiliary equipment, armor, accessories can be used^
-^RN1_6_08_000_Description^,^Can reverse strengthen weapons/armor equipment.  <It_G> - Reverse enhancement is possible starting with 5 enhancement items.</It_G> <It_G> - Only the grade given to you can be enhanced.</It_G> <It_G> - Reverse enhancement has a chance to fail.</It_G> <It_G> - Right click and click equipped item to use</It_G>^
-^RN1_6_08_001_Description^,^Can reverse strengthen weapons/armor equipment.  <It_G> - Reverse enhancement is possible starting with 5 enhancement items.</It_G> <It_G> - Only the grade given to you can be enhanced.</It_G> <It_G> - Reverse enhancement has a chance to fail.</It_G> <It_G> - Right click and click equipped item to use</It_G>^
-^RN1_6_08_002_Description^,^Can reverse strengthen weapons/armor equipment.  <It_G> - Reverse enhancement is possible starting with 5 enhancement items.</It_G> <It_G> - Only the grade given to you can be enhanced.</It_G> <It_G> - Reverse enhancement 100% success</It_G> <It_G> - Right click and click equipped item to use</It_G>^
-^RN1_4_08_000_Description^,^This is an item that <UI_G>increases the number of attempts to reinforce the Lord by <UI_G>1</UI_G>, enabling reverse retry.  <It_G> - Unable to use items when Reverse is maxed out</It_G> <It_G> - Right click and click the equipped item to use</It_G>^
-^RN1_4_08_001_Description^,^This is an item that <UI_G>increases the number of attempts to strengthen reverse by <UI_G>1</UI_G>, enabling reverse retry.  <It_G> - Unable to use items when Reverse is maxed out</It_G> <It_G> - Right click and click the equipped item to use</It_G>^
+^CA_MA_CM_0001_Description^,^Materials needed to change the option of a new grade weapon
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_MA_CM_0002_Description^,^Materials required to change the options of new grade armor
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_MA_CM_0003_Description^,^Material required to change the option of a high-grade accessory
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_MA_CM_0004_Description^,^Materials required to change the option value of a new grade weapon
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_MA_CM_0005_Description^,^Materials required to change the option value of the new grade armor
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_MA_CM_0006_Description^,^Materials required to change the option value of a high-grade accessory
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_MA_CM_0007_Description^,^Materials required to change the option of a new grade weapon
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_MA_CM_0008_Description^,^Materials required to change the options of new grade armor
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_MA_CM_0009_Description^,^Material required to change the option of a high-grade accessory
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_MA_CM_0010_Description^,^Materials needed to change the option value of a new grade weapon
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_MA_CM_0011_Description^,^Materials required to change the option value of new grade armor
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^CA_MA_CM_0012_Description^,^Materials required to change the option value of a high-grade accessory
+
+<It_G> - Can only be used if the level and grade of the item are met</It_G>^
+^En8_0_000_0001_Description^,^You can improve your ability by strengthening items,<R_Y>from lvl 18 with penalties</R_Y>.
+<It_G> - Only given level is allowed.</It_G>
+<It_G> - Weapons can be enhanced from 1 to 20.</It_G>
+<It_G> - Right click and click equipped item to use</It_G>
+Weapons, auxiliary equipment, armor, accessories can be used^
+^En8_0_000_0002_Description^,^You can improve your ability by strengthening items,<R_Y>from lvl 18 with penalties</R_Y>.
+<It_G> - Only given level is allowed.</It_G>
+<It_G> - Armor can be enhanced from 1 to 20.</It_G>
+<It_G> - Right click and click equipped item to use</It_G>
+Weapons, auxiliary equipment, armor, accessories can be used^
+^En8_0_000_0003_Description^,^You can improve your stats by strengthening items, and there is <R_Y>no failure penalty</R_Y>.
+<It_G> - Only the grade given to you can be enhanced.</It_G>
+<It_G> - Can be enhanced from Armor and Weapon 1 to 15.</It_G>
+<It_G> - You can use it by right-clicking and clicking the equipped item.</It_G>
+Weapons, auxiliary equipment, armor, accessories can be used^
+^RN1_6_08_000_Description^,^Can reverse strengthen weapons/armor equipment.
+
+<It_G> - Reverse enhancement is possible starting with 5 enhancement items.</It_G>
+<It_G> - Only the grade given to you can be enhanced.</It_G>
+<It_G> - Reverse enhancement has a chance to fail.</It_G>
+<It_G> - Right click and click equipped item to use</It_G>^
+^RN1_6_08_001_Description^,^Can reverse strengthen weapons/armor equipment.
+
+<It_G> - Reverse enhancement is possible starting with 5 enhancement items.</It_G>
+<It_G> - Only the grade given to you can be enhanced.</It_G>
+<It_G> - Reverse enhancement has a chance to fail.</It_G>
+<It_G> - Right click and click equipped item to use</It_G>^
+^RN1_6_08_002_Description^,^Can reverse strengthen weapons/armor equipment.
+
+<It_G> - Reverse enhancement is possible starting with 5 enhancement items.</It_G>
+<It_G> - Only the grade given to you can be enhanced.</It_G>
+<It_G> - Reverse enhancement 100% success</It_G>
+<It_G> - Right click and click equipped item to use</It_G>^
+^RN1_4_08_000_Description^,^This is an item that <UI_G>increases the number of attempts to reinforce the Lord by <UI_G>1</UI_G>, enabling reverse retry.
+
+<It_G> - Unable to use items when Reverse is maxed out</It_G>
+<It_G> - Right click and click the equipped item to use</It_G>^
+^RN1_4_08_001_Description^,^This is an item that <UI_G>increases the number of attempts to strengthen reverse by <UI_G>1</UI_G>, enabling reverse retry.
+
+<It_G> - Unable to use items when Reverse is maxed out</It_G>
+<It_G> - Right click and click the equipped item to use</It_G>^
 ^CO_OR_A80_0001_Name^,^Demonite Transcendence Stone (tradable)^
-^CO_OR_A80_0001_Description^,^A mysterious stone that can transcend equipment such as god-level weapons, armor, and accessories  <It_G> - Item transcendence has a chance to fail.</It_G> <It_G> - Right click and click equipped item to use</It_G>^
+^CO_OR_A80_0001_Description^,^A mysterious stone that can transcend equipment such as god-level weapons, armor, and accessories
+
+<It_G> - Item transcendence has a chance to fail.</It_G>
+<It_G> - Right click and click equipped item to use</It_G>^
 ^CO_OR_A80_0002_Name^,^Demonite Transcendence Stone (Untradable)^
-^CO_OR_A80_0002_Description^,^A mysterious stone that can transcend equipment such as god-level weapons, armor, and accessories  <It_G> - Item transcendence has a chance to fail.</It_G> <It_G> - Right click and click equipped item to use</It_G>^
+^CO_OR_A80_0002_Description^,^A mysterious stone that can transcend equipment such as god-level weapons, armor, and accessories
+
+<It_G> - Item transcendence has a chance to fail.</It_G>
+<It_G> - Right click and click equipped item to use</It_G>^
 ^CO_0_0510_name^,^Hidden Key^
 ^CO_0_0510_Description^,^The key to the depths of the mine.<br>Dropped by a foolish Black Spider believer.^
 ^CA_LU_CM_0001_name^,^Gathering level increased by 2^
@@ -2911,11 +3405,21 @@ t_key,t_korean
 ^CA_LU_CM_0003_name^,^Gathering level increased by 4^
 ^CA_LU_CM_0004_name^,^Gathering level increased by 5^
 ^CA_LU_CM_0005_name^,^Gathering level increased by 6^
-^CA_LU_CM_0001_Description^,^<O_Y>Can be purchased once per account</O_Y> <R_Y>If subscription is withdrawn, repurchase is not possible</R_Y> Change the gathering level from level 1 to level 2. It can only be used at level 1 of gathering.^
-^CA_LU_CM_0002_Description^,^<O_Y>Can be purchased once per account</O_Y> <R_Y>If subscription is withdrawn, repurchase is not possible</R_Y> Change the gathering level from level 2 to level 3. It can only be used when the gathering level is level 2.^
-^CA_LU_CM_0003_Description^,^<O_Y>Can be purchased once per account</O_Y> <R_Y>If subscription is withdrawn, repurchase is not possible</R_Y> Change the gathering level from level 3 to level 4. It can only be used when the gathering level is level 3.^
-^CA_LU_CM_0004_Description^,^<O_Y>Can be purchased once per account</O_Y> <R_Y>If subscription is withdrawn, repurchase is not possible</R_Y> Change the gathering level from level 4 to level 5. It can only be used when the gathering level is level 4.^
-^CA_LU_CM_0005_Description^,^<O_Y>Can be purchased once per account</O_Y> <R_Y>If subscription is withdrawn, repurchase is not possible</R_Y> Change the gathering level from level 5 to level 6. It can only be used when the gathering level is level 5.^
+^CA_LU_CM_0001_Description^,^<O_Y>Can be purchased once per account</O_Y>
+<R_Y>If subscription is withdrawn, repurchase is not possible</R_Y>
+Change the gathering level from level 1 to level 2. It can only be used at level 1 of gathering.^
+^CA_LU_CM_0002_Description^,^<O_Y>Can be purchased once per account</O_Y>
+<R_Y>If subscription is withdrawn, repurchase is not possible</R_Y>
+Change the gathering level from level 2 to level 3. It can only be used when the gathering level is level 2.^
+^CA_LU_CM_0003_Description^,^<O_Y>Can be purchased once per account</O_Y>
+<R_Y>If subscription is withdrawn, repurchase is not possible</R_Y>
+Change the gathering level from level 3 to level 4. It can only be used when the gathering level is level 3.^
+^CA_LU_CM_0004_Description^,^<O_Y>Can be purchased once per account</O_Y>
+<R_Y>If subscription is withdrawn, repurchase is not possible</R_Y>
+Change the gathering level from level 4 to level 5. It can only be used when the gathering level is level 4.^
+^CA_LU_CM_0005_Description^,^<O_Y>Can be purchased once per account</O_Y>
+<R_Y>If subscription is withdrawn, repurchase is not possible</R_Y>
+Change the gathering level from level 5 to level 6. It can only be used when the gathering level is level 5.^
 ^CR_8_0095_name^,^Blessed Orb of Kaishumura^
 ^CR_8_0096_name^,^Blessed Orb of Fiery Red^
 ^CR_8_0097_name^,^Blessed Arachne Orb^
@@ -2934,8 +3438,10 @@ t_key,t_korean
 ^CA_MA_CM_1001_Description^,^When taken, you will not be damaged by lava in the Magmaphora area for 1 minute.^
 ^AU_0_0010_Name^,^Pure gold automatic reel^
 ^LU_0_0010_Name^,^Golden Shrimp^
-^AU_0_0010_Description^,^Fishing can be done automatically when you own the item. <UI_G>Fishing success rate is higher than that of the golden automatic reel.</UI_G>^
-^LU_0_0010_Description^,^This is a bait used when fishing. <UI_G>Fishing drop rate is higher than special shrimp bait.<UI_Y>^
+^AU_0_0010_Description^,^Fishing can be done automatically when you own the item.
+<UI_G>Fishing success rate is higher than that of the golden automatic reel.</UI_G>^
+^LU_0_0010_Description^,^This is a bait used when fishing.
+<UI_G>Fishing drop rate is higher than special shrimp bait.<UI_Y>^
 ^CO_PD_0_652_Name^,^Level 70 Special Life Elixir^
 ^CO_PD_0_653_Name^,^Level 70 Special Mana Elixir^
 ^CA_IT_CM_0918_Name^,^Pet: The runaway rice cake^
@@ -2966,7 +3472,11 @@ t_key,t_korean
 ^CR_8_0105_Description^,^Big Martin-type sugar bomb that can capture <UI_G>Runaway Rice Cake</UI_G> and <UI_G>Runaway Strawberry</UI_G>.^
 ^CO_11_0016_Name^,^Spell: Resurrection Aftereffects Treatment Lv10^
 ^EN6_0_000_0014_Name^,^Great Luck 50% Mythic-only Enhancement Stone (Untradable)^
-^EN6_0_000_0014_Description^,^You can improve your abilities by strengthening items. <It_G> - Only myth grade can be strengthened.</It_G> <It_G> - Enhancement is possible up to 10.</It_G> <It_G> - Can be used by right-clicking and clicking the equipped item.</It_G> <It_G> - Can be used on accessories.</It_G>^
+^EN6_0_000_0014_Description^,^You can improve your abilities by strengthening items.
+<It_G> - Only myth grade can be strengthened.</It_G>
+<It_G> - Enhancement is possible up to 10.</It_G>
+<It_G> - Can be used by right-clicking and clicking the equipped item.</It_G>
+<It_G> - Can be used on accessories.</It_G>^
 ^CO_0_0516_Name^,^Necklace of Welcome^
 ^CO_0_0516_Description^,^A beautiful necklace with a very strong wish. The name Beatus is engraved on the back. If you have it, you can tame <UI_G>Beatus of Destruction</UI_G>.^
 ^CA_IT_CM_0930_Name^,^Fellow: Torkai of Time^
@@ -2978,7 +3488,15 @@ t_key,t_korean
 ^CA_IT_CM_0932_Description^,^When used, <UI_G>Fellow: Marriage Matri</UI_G> is created in the inventory.^
 ^CA_IT_CM_0933_Description^,^When used, <UI_G>Fellow: Monio of the Wedding</UI_G> is created in the inventory.^
 ^CR_8_0110_Name^,^Full Moon Bomb^
-^CR_8_0110_Description^,^A specially made bomb containing the energy of the full moon. It is needed to kill monsters in the Full Moon Dungeon.  <UI_Y>Killable monsters</UI_Y> <UI_G>Awakened Chawoni Chawoni failed to awaken Jumbo wad swallowing food Atom of Abundance Atom's Cub Dimension Fragment</UI_G>^
+^CR_8_0110_Description^,^A specially made bomb containing the energy of the full moon. It is needed to kill monsters in the Full Moon Dungeon.
+
+<UI_Y>Killable monsters</UI_Y>
+<UI_G>Awakened Chawoni
+Chawoni failed to awaken
+Jumbo wad swallowing food
+Atom of Abundance
+Atom's Cub
+Dimension Fragment</UI_G>^
 ^CO_0_0600_Name^,^Shining Atom’s Dust^
 ^CO_0_0600_Description^,^A dust with extremely powerful power that can possess the Atom of Abundance. You can tame <UI_G>Atom of Abundance</UI_G> with a 100% chance.^
 ^CR_8_0520_Name^,^Atom’s Dust^
@@ -3018,9 +3536,18 @@ t_key,t_korean
 ^CA_IT_CM_0938_Name^,^Fellow: Phoenix Pennybald^
 ^CA_IT_CM_0938_Description^,^When used, <UI_G>Phoenix Pennybald</UI_G> will be created in the inventory.^
 ^EN6_0_000_0017_Name^,^Demonite God Stone^
-^EN6_0_000_0017_Description^,^You can improve your abilities by strengthening items and achieve 100% success. <It_G> - Only myth grade can be strengthened.</It_G> <It_G> - Enhancement is possible from 1 to 25.</It_G> <It_G> - Can be used by right-clicking and clicking the equipped item.</It_G> Weapons, auxiliary equipment, armor, and accessories can be used^
+^EN6_0_000_0017_Description^,^You can improve your abilities by strengthening items and achieve 100% success.
+<It_G> - Only myth grade can be strengthened.</It_G>
+<It_G> - Enhancement is possible from 1 to 25.</It_G>
+<It_G> - Can be used by right-clicking and clicking the equipped item.</It_G>
+Weapons, auxiliary equipment, armor, and accessories can be used^
 ^EN8_0_000_0004_Name^,^Exclusive reinforcement stone that gives 30% of luck^
-^EN8_0_000_0004_Description^,^You can improve your abilities by strengthening items and succeed at 30%. There is a penalty for failure. <It_G> - Only myth grade can be strengthened.</It_G> <It_G> - Enhancement is possible from 1 to 15.</It_G> <It_G> - Can be used by right-clicking and clicking the equipped item.</It_G> Weapons, auxiliary equipment, armor, and accessories can be used^
+^EN8_0_000_0004_Description^,^You can improve your abilities by strengthening items and succeed at 30%.
+There is a penalty for failure.
+<It_G> - Only myth grade can be strengthened.</It_G>
+<It_G> - Enhancement is possible from 1 to 15.</It_G>
+<It_G> - Can be used by right-clicking and clicking the equipped item.</It_G>
+Weapons, auxiliary equipment, armor, and accessories can be used^
 ^CA_IT_CM_0939_Name^,^Fellow: Trainee Fox^
 ^CA_IT_CM_0939_Description^,^When used, a <UI_G>Trainee Fox</UI_G> will be created in the inventory.^
 ^CA_IT_CM_0940_Name^,^Fellow: Atom of Abundance^
@@ -3032,7 +3559,10 @@ t_key,t_korean
 ^CA_IT_CM_0943_Name^,^Fellow: Yellow Candy Bella^
 ^CA_IT_CM_0943_Description^,^When used, <UI_G>Yellow Candy Bella</UI_G> is created in the inventory.^
 ^CA_IT_CM_0944_Name^,^Fellow: Black Haitai^
-^CA_IT_CM_0944_Description^,^<O_Y>Can be purchased once per account</O_Y> <R_Y>If subscription is withdrawn, repurchase is not possible</R_Y> When used, <UI_G>Black Haitai</UI_G> is created in the inventory. I am a fixed-term fellow.^
+^CA_IT_CM_0944_Description^,^<O_Y>Can be purchased once per account</O_Y>
+<R_Y>If subscription is withdrawn, repurchase is not possible</R_Y>
+When used, <UI_G>Black Haitai</UI_G> is created in the inventory.
+I am a fixed-term fellow.^
 ^CA_IT_CM_0945_Name^,^Fellow: Fox pulling a sleigh^
 ^CA_IT_CM_0945_Description^,^When used, a <UI_G>Sleigh-pulling fox</UI_G> will be created in the inventory.^
 ^CA_IT_CM_0946_Name^,^Fellow: Quick Girl Fox^
@@ -3046,7 +3576,11 @@ t_key,t_korean
 ^CA_IT_CM_0950_Name^,^Fellow: Awk Shaklia^
 ^CA_IT_CM_0950_Description^,^When used, <UI_G>Awakened Shaklia</UI_G> will be created in the inventory.^
 ^EN6_1_EV_0001_Name^,^+11 Enhancement Myth Fixed Enhancement Stone^
-^EN6_1_EV_0001_Description^,^By strengthening mythic equipment, you can improve your abilities to level 11. <It_G> - 100% chance to reach level 11 enhancement.</It_G> <It_G> - Can only be used at level 10 or lower.</It_G> <It_G> - Can be used by right-clicking and clicking on the equipped item</It_G> <R_Y> - The maximum enhancement value of the equipment cannot be exceeded.</R_Y>^
+^EN6_1_EV_0001_Description^,^By strengthening mythic equipment, you can improve your abilities to level 11.
+<It_G> - 100% chance to reach level 11 enhancement.</It_G>
+<It_G> - Can only be used at level 10 or lower.</It_G>
+<It_G> - Can be used by right-clicking and clicking on the equipped item</It_G>
+<R_Y> - The maximum enhancement value of the equipment cannot be exceeded.</R_Y>^
 ^CA_IT_CM_0951_Name^,^Fellow: Cocoa Ballen^
 ^CA_IT_CM_0952_Name^,^Fellow: Mint Valen^
 ^CA_IT_CM_0953_Name^,^Fellow: Barry Ballen^
@@ -3054,31 +3588,90 @@ t_key,t_korean
 ^CA_IT_CM_0952_Description^,^When used, <UI_G>Mint Valen</UI_G> will be created in the inventory.^
 ^CA_IT_CM_0953_Description^,^When used, <UI_G>Berry Valen</UI_G> will be created in the inventory.^
 ^CA_IT_CM_0954_Name^,^Fellow: Golden Dragon Goldniago (Tradeable)^
-^CA_IT_CM_0954_Description^,^When used, <UI_G>Golden Dragon Goldniago</UI_G> is created in the inventory. <R_Y>Once a fellow is acquired, trading is not possible</R_Y>^
+^CA_IT_CM_0954_Description^,^When used, <UI_G>Golden Dragon Goldniago</UI_G> is created in the inventory.
+<R_Y>Once a fellow is acquired, trading is not possible</R_Y>^
 ^CA_IT_CM_0955_Name^,^Fellow: Black Haitai (7th)^
 ^CA_IT_CM_0955_Description^,^When used, <UI_G>Black Haitai</UI_G> is created in the inventory.^
 ^it_it_cM_0039_Name^,^Blessed Myth Unbinding Order II^
-^it_it_cM_0039_Description^,^This is a spell book that can unbind 1~65Lv items and can be used up to mythical level items. Right-click and use on the item you want to unbind  <It_G> - Can only be used if the level and grade of the item are matched</It_G>^
+^it_it_cM_0039_Description^,^This is a spell book that can unbind 1~65Lv items and can be used up to mythical level items.
+Right-click and use on the item you want to unbind
+
+<It_G> - Can only be used if the level and grade of the item are matched</It_G>^
 ^it_it_cM_0040_Name^,^Blessed Myth Unbinding Order II^
-^it_it_cM_0040_Description^,^This is a spell book that can unbind a 1~65Lv item and can be used up to mythical level items. Right-click and use on the item you want to unbind  <It_G> - Can only be used if the level and grade of the item are matched</It_G>^
+^it_it_cM_0040_Description^,^This is a spell book that can unbind a 1~65Lv item and can be used up to mythical level items.
+Right-click and use on the item you want to unbind
+
+<It_G> - Can only be used if the level and grade of the item are matched</It_G>^
 ^CA_IT_CM_0956_Name^,^Fellow: Tower Master Challenger^
 ^CA_IT_CM_0956_Description^,^When used, <UI_G>Challenger, the owner of the tower</UI_G>, is created in the inventory.^
 ^CR_e_0001_Name^,^Star Candy Bomb (Level 1)^
-^CR_e_0001_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.  <O_Y>Effects of use</O_Y> <UI_G>Damage</UI_G> <UI_R>5~8</UI_R> <UI_G>Number of applied monsters</UI_G> <UI_R>2</UI_R> <UI_G>Damage radius</UI_G> <UI_R>3m</UI_R> <R_Y>Can be used with shooting stars.</R_Y> <R_Y>Automatically deleted after the event period.</R_Y>^
+^CR_e_0001_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.
+
+<O_Y>Effects of use</O_Y>
+<UI_G>Damage</UI_G> <UI_R>5~8</UI_R>
+<UI_G>Number of applied monsters</UI_G> <UI_R>2</UI_R>
+<UI_G>Damage radius</UI_G> <UI_R>3m</UI_R>
+<R_Y>Can be used with shooting stars.</R_Y>
+<R_Y>Automatically deleted after the event period.</R_Y>^
 ^CR_e_0002_Name^,^Star Candy Bomb (Level 2)^
-^CR_e_0002_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.  <O_Y>Effects of use</O_Y> <UI_G>Damage</UI_G> <UI_R>6~9</UI_R> <UI_G>Number of applied monsters</UI_G> <UI_R>2</UI_R> <UI_G>Damage radius</UI_G> <UI_R>3m</UI_R> <R_Y>Can be used with shooting stars.</R_Y> <R_Y>Automatically deleted after the event period.</R_Y>^
+^CR_e_0002_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.
+
+<O_Y>Effects of use</O_Y>
+<UI_G>Damage</UI_G> <UI_R>6~9</UI_R>
+<UI_G>Number of applied monsters</UI_G> <UI_R>2</UI_R>
+<UI_G>Damage radius</UI_G> <UI_R>3m</UI_R>
+<R_Y>Can be used with shooting stars.</R_Y>
+<R_Y>Automatically deleted after the event period.</R_Y>^
 ^CR_e_0003_Name^,^Star Candy Bomb (Level 3)^
-^CR_e_0003_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.  <O_Y>Effects of use</O_Y> <UI_G>Damage</UI_G> <UI_R>8~11</UI_R> <UI_G>Number of applied monsters</UI_G> <UI_R>2</UI_R> <UI_G>Damage radius</UI_G> <UI_R>4m</UI_R> <R_Y>Can be used with shooting stars.</R_Y> <R_Y>Automatically deleted after the event period.</R_Y>^
+^CR_e_0003_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.
+
+<O_Y>Effects of use</O_Y>
+<UI_G>Damage</UI_G> <UI_R>8~11</UI_R>
+<UI_G>Number of applied monsters</UI_G> <UI_R>2</UI_R>
+<UI_G>Damage radius</UI_G> <UI_R>4m</UI_R>
+<R_Y>Can be used with shooting stars.</R_Y>
+<R_Y>Automatically deleted after the event period.</R_Y>^
 ^CR_e_0004_Name^,^Star Candy Bomb (Level 4)^
-^CR_e_0004_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.  <O_Y>Effects of use</O_Y> <UI_G>Damage</UI_G> <UI_R>9~12</UI_R> <UI_G>Number of applied monsters</UI_G> <UI_R>3</UI_R> <UI_G>Damage radius</UI_G> <UI_R>4m</UI_R> <R_Y>Can be used with shooting stars.</R_Y> <R_Y>Automatically deleted after the event period.</R_Y>^
+^CR_e_0004_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.
+
+<O_Y>Effects of use</O_Y>
+<UI_G>Damage</UI_G> <UI_R>9~12</UI_R>
+<UI_G>Number of applied monsters</UI_G> <UI_R>3</UI_R>
+<UI_G>Damage radius</UI_G> <UI_R>4m</UI_R>
+<R_Y>Can be used with shooting stars.</R_Y>
+<R_Y>Automatically deleted after the event period.</R_Y>^
 ^CR_e_0005_Name^,^Star Candy Bomb (Level 5)^
-^CR_e_0005_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.  <O_Y>Effects of use</O_Y> <UI_G>Damage</UI_G> <UI_R>11~14</UI_R> <UI_G>Number of applied monsters</UI_G> <UI_R>3</UI_R> <UI_G>Damage radius</UI_G> <UI_R>5m</UI_R> <R_Y>Can be used with shooting stars.</R_Y> <R_Y>Automatically deleted after the event period.</R_Y>^
+^CR_e_0005_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.
+
+<O_Y>Effects of use</O_Y>
+<UI_G>Damage</UI_G> <UI_R>11~14</UI_R>
+<UI_G>Number of applied monsters</UI_G> <UI_R>3</UI_R>
+<UI_G>Damage radius</UI_G> <UI_R>5m</UI_R>
+<R_Y>Can be used with shooting stars.</R_Y>
+<R_Y>Automatically deleted after the event period.</R_Y>^
 ^CR_e_0006_Name^,^Star Candy Bomb (Level 6)^
-^CR_e_0006_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.  <O_Y>Effects of use</O_Y> <UI_G>Damage</UI_G> <UI_R>12~15</UI_R> <UI_G>Number of applied monsters</UI_G> <UI_R>3</UI_R> <UI_G>Damage radius</UI_G> <UI_R>5m</UI_R> <R_Y>Can be used with shooting stars.</R_Y> <R_Y>Automatically deleted after the event period.</R_Y>^
+^CR_e_0006_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.
+
+<O_Y>Effects of use</O_Y>
+<UI_G>Damage</UI_G> <UI_R>12~15</UI_R>
+<UI_G>Number of applied monsters</UI_G> <UI_R>3</UI_R>
+<UI_G>Damage radius</UI_G> <UI_R>5m</UI_R>
+<R_Y>Can be used with shooting stars.</R_Y>
+<R_Y>Automatically deleted after the event period.</R_Y>^
 ^CR_e_0007_Name^,^Star Candy Bomb (Level 7)^
-^CR_e_0007_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.  <O_Y>Effects of use</O_Y> <UI_G>Damage</UI_G> <UI_R>14~17</UI_R> <UI_G>Number of applied monsters</UI_G> <UI_R>4</UI_R> <UI_G>Damage radius</UI_G> <UI_R>6m</UI_R> <R_Y>Can be used with shooting stars.</R_Y> <R_Y>Automatically deleted after the event period.</R_Y>^
+^CR_e_0007_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.
+
+<O_Y>Effects of use</O_Y>
+<UI_G>Damage</UI_G> <UI_R>14~17</UI_R>
+<UI_G>Number of applied monsters</UI_G> <UI_R>4</UI_R>
+<UI_G>Damage radius</UI_G> <UI_R>6m</UI_R>
+<R_Y>Can be used with shooting stars.</R_Y>
+<R_Y>Automatically deleted after the event period.</R_Y>^
 ^CR_e_0008_Name^,^shooting star^
-^CR_e_0008_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.  <R_Y>Can be used with various star candy bombs.</R_Y> <R_Y>Automatically deleted after the event period.</R_Y>^
+^CR_e_0008_description^,^A weapon that can catch the Funny who invaded the Empire spaceship to steal the space jewel.
+
+<R_Y>Can be used with various star candy bombs.</R_Y>
+<R_Y>Automatically deleted after the event period.</R_Y>^
 ^co_ev_bp_0022_Name^,^2nd Empire Anniversary Cake^
 ^co_ev_bp_0022_Description^,^Cake made to commemorate the 2nd Anniversary Empire of Icarus.^
 ^tt_1_0_0150_name^,^Title: 2nd Anniversary^
@@ -3086,9 +3679,12 @@ t_key,t_korean
 ^CA_IT_SC_0090_name^,^Summon Scroll: Corrupt Chef Funny^
 ^CA_IT_SC_0091_name^,^Summon Scroll: Corrupt Wellbeing Chef Funny^
 ^CA_IT_SC_0092_name^,^Summon Scroll: Corrupted Meat Chef Funny^
-^CA_IT_SC_0090_description^,^Spell form that can summon the monster <UI_G>[Corrupted Chef Funny]</UI_G> <UI_R>Deleted at the end of the event period.</UI_R>^
-^CA_IT_SC_0091_description^,^Spell form that can summon the monster <UI_G>[Corrupted Wellbeing Chef Funny]</UI_G> <UI_R>Deleted at the end of the event period.</UI_R>^
-^CA_IT_SC_0092_description^,^Spell form that can summon the monster <UI_G>[Corrupted Meat Chef Funny]</UI_G> <UI_R>Deleted at the end of the event period.</UI_R>^
+^CA_IT_SC_0090_description^,^Spell form that can summon the monster <UI_G>[Corrupted Chef Funny]</UI_G>
+<UI_R>Deleted at the end of the event period.</UI_R>^
+^CA_IT_SC_0091_description^,^Spell form that can summon the monster <UI_G>[Corrupted Wellbeing Chef Funny]</UI_G>
+<UI_R>Deleted at the end of the event period.</UI_R>^
+^CA_IT_SC_0092_description^,^Spell form that can summon the monster <UI_G>[Corrupted Meat Chef Funny]</UI_G>
+<UI_R>Deleted at the end of the event period.</UI_R>^
 ^CA_IT_CM_0957_NAME^,^Pet: Thunder^
 ^CA_IT_CM_0957_description^,^When used, <UI_G>Thunder</UI_G> is created in the inventory.^
 ^CA_IT_CM_0958_NAME^,^Pet: Buddy^
@@ -3100,9 +3696,17 @@ t_key,t_korean
 ^CA_IT_CM_0961_NAME^,^Pet: Funny^
 ^CA_IT_CM_0961_description^,^When used, <UI_G>Funny</UI_G> is created in the inventory.^
 ^CR_e_0009_Name^,^Star Candy Bomb (Maker. Funny)^
-^CR_e_0009_description^,^A weapon that can catch the Funny who invaded the Empire Spaceship to steal the space jewel.  <O_Y>Effects of use</O_Y> <UI_G>Damage</UI_G> <UI_R>15~19</UI_R> <UI_G>Number of applied monsters</UI_G> <UI_R>5</UI_R> <UI_G>Damage radius</UI_G> <UI_R>7m</UI_R> <R_Y>Can be used with shooting stars.</R_Y> <R_Y>Automatically deleted after the event period.</R_Y>^
+^CR_e_0009_description^,^A weapon that can catch the Funny who invaded the Empire Spaceship to steal the space jewel.
+
+<O_Y>Effects of use</O_Y>
+<UI_G>Damage</UI_G> <UI_R>15~19</UI_R>
+<UI_G>Number of applied monsters</UI_G> <UI_R>5</UI_R>
+<UI_G>Damage radius</UI_G> <UI_R>7m</UI_R>
+<R_Y>Can be used with shooting stars.</R_Y>
+<R_Y>Automatically deleted after the event period.</R_Y>^
 ^co_ev_bp_0022_1_Name^,^2nd Empire Anniversary toast^
-^co_ev_bp_0022_1_description^,^A special drink prepared ambitiously by <UI_G>Cookmaster Funny</UI_G>, saying that the 2nd anniversary cannot be passed lightly. <R_Y>If you eat it with cake, you might get sick?</R_Y>^
+^co_ev_bp_0022_1_description^,^A special drink prepared ambitiously by <UI_G>Cookmaster Funny</UI_G>, saying that the 2nd anniversary cannot be passed lightly.
+<R_Y>If you eat it with cake, you might get sick?</R_Y>^
 ^CA_IT_CM_0965_NAME^,^Fellow: Fade of Innocence^
 ^CA_IT_CM_0965_description^,^When used, <UI_G>Pure Fade</UI_G> is created in the inventory.^
 ^CA_IT_CM_0966_NAME^,^Fellow: Fade of Fascination^
@@ -3146,7 +3750,13 @@ t_key,t_korean
 ^CA_IT_CM_0975_Name^,^Fellow: Blueberry Buzzing^
 ^CA_IT_CM_0975_Description^,^When used, <UI_G>Blueberry Buzzing</UI_G> will be created in your inventory.^
 ^na_ev_ss2024_001_Name^,^Season Pass Ticket^
-^na_ev_ss2024_001_Description^,^An item that allows you to obtain additional season rewards when clearing the Season Pass stage. <O_Y>Can be purchased once per account</O_Y> <R_Y>Cannot be repurchased if subscription is canceled</R_Y> <O_Y>Season period</O_Y> <UI_G>After maintenance on June 12, 2024 ~ Before maintenance on September 11, 2024</UI_G>  <R_Y>When acquired, it is automatically used in the corresponding season and disappears</R_Y>^
+^na_ev_ss2024_001_Description^,^An item that allows you to obtain additional season rewards when clearing the Season Pass stage.
+<O_Y>Can be purchased once per account</O_Y>
+<R_Y>Cannot be repurchased if subscription is canceled</R_Y>
+<O_Y>Season period</O_Y>
+<UI_G>After maintenance on June 12, 2024 ~ Before maintenance on September 11, 2024</UI_G>
+
+<R_Y>When acquired, it is automatically used in the corresponding season and disappears</R_Y>^
 ^CO_0_2001_Name^,^Artisan's Maximum Vitality Potion^
 ^KR_CA_CM_0024_Name^,^Pet: Beta Funny^
 ^KR_CA_CM_0024_Description^,^When used, <UI_G>Pet: Beta Funny</UI_G> is created in the storage.^
@@ -3196,21 +3806,117 @@ t_key,t_korean
 ^CA_IT_CM_0993_Name^,^Fellow: Pumpkin Spider^
 ^CA_IT_CM_0993_Description^,^When used, <UI_G>Pumpkin Spider</UI_G> will be created in your inventory.^
 ^Rune_IT_0001_Name^,^Normal Rune^
-^Rune_IT_0001_Description^,^When used, the potential ability of the item changes randomly.  Ranking Points <UI_G>2</UI_G>  Ranking Probability <UI_G>Normal to Elite (Unavailable) Elite to Hero (Unavailable) Hero to Legend (Unavailable) Legend to Myth (Unavailable) Myth to Gift (Unavailable)</UI_G>  <O_Y>Up to Normal Potential Grade items can be used.</O_Y>^
+^Rune_IT_0001_Description^,^When used, the potential ability of the item changes randomly.
+
+Ranking Points
+<UI_G>2</UI_G>
+
+Ranking Probability
+<UI_G>Normal to Elite (Unavailable)
+Elite to Hero (Unavailable)
+Hero to Legend (Unavailable)
+Legend to Myth (Unavailable)
+Myth to Gift (Unavailable)</UI_G>
+
+<O_Y>Up to Normal Potential Grade items can be used.</O_Y>^
 ^Rune_IT_0002_Name^,^Elite Rune^
-^Rune_IT_0002_Description^,^When used, the potential ability of the item changes randomly.  Grade Up Points <UI_G>2</UI_G>  Grade Up Probability <UI_G>Normal to Elite (2%) Elite to Hero (Unavailable) Hero to Legend (Unavailable) Legend to Myth (Unavailable) Myth to God (Unavailable)</UI_G>  <O_Y>Up to Elite Potential Grade Items can be used.</O_Y>^
+^Rune_IT_0002_Description^,^When used, the potential ability of the item changes randomly.
+
+Grade Up Points
+<UI_G>2</UI_G>
+
+Grade Up Probability
+<UI_G>Normal to Elite (2%)
+Elite to Hero (Unavailable)
+Hero to Legend (Unavailable)
+Legend to Myth (Unavailable)
+Myth to God (Unavailable)</UI_G>
+
+<O_Y>Up to Elite Potential Grade Items can be used.</O_Y>^
 ^Rune_IT_0003_Name^,^Hero Rune^
-^Rune_IT_0003_Description^,^When used, the potential ability of the item changes randomly.  Rank Up Points <UI_G>2</UI_G>  Rank Up Probability <UI_G>Normal to Elite (3%) Elite to Hero (1%) Hero to Legend (Unavailable) Legend to Myth (Unavailable) Myth to Gift (Unavailable)</UI_G>  <O_Y>Can be used up to the maximum Hero potential level.</O_Y>^
+^Rune_IT_0003_Description^,^When used, the potential ability of the item changes randomly.
+
+Rank Up Points
+<UI_G>2</UI_G>
+
+Rank Up Probability
+<UI_G>Normal to Elite (3%)
+Elite to Hero (1%)
+Hero to Legend (Unavailable)
+Legend to Myth (Unavailable)
+Myth to Gift (Unavailable)</UI_G>
+
+<O_Y>Can be used up to the maximum Hero potential level.</O_Y>^
 ^Rune_IT_0004_Name^,^Legend Rune^
-^Rune_IT_0004_Description^,^When used, the potential ability of the item changes randomly.  Grade Up Points <UI_G>2</UI_G>  Grade Up Probability <UI_G>Normal to Elite (4%) Elite to Hero (2%) Hero to Legend (1.5%) Legend to Myth (Unavailable) Myth to God (Unavailable)</UI_G>  <O_Y>Can be used up to Legendary potential grade items.</O_Y>^
+^Rune_IT_0004_Description^,^When used, the potential ability of the item changes randomly.
+
+Grade Up Points
+<UI_G>2</UI_G>
+
+Grade Up Probability
+<UI_G>Normal to Elite (4%)
+Elite to Hero (2%)
+Hero to Legend (1.5%)
+Legend to Myth (Unavailable)
+Myth to God (Unavailable)</UI_G>
+
+<O_Y>Can be used up to Legendary potential grade items.</O_Y>^
 ^Rune_IT_0005_Name^,^Myth Rune^
-^Rune_IT_0005_Description^,^When used, the potential ability of the item changes randomly.  Grade Up Points <UI_G>2</UI_G>  Grade Up Probability <UI_G>Normal to Elite (5%) Elite to Hero (3%) Hero to Legend (3%) Legend to Myth (2%) Myth to Gift (Unavailable)</UI_G>  <O_Y>Can be used up to the maximum Myth potential grade items.</O_Y>^
+^Rune_IT_0005_Description^,^When used, the potential ability of the item changes randomly.
+
+Grade Up Points
+<UI_G>2</UI_G>
+
+Grade Up Probability
+<UI_G>Normal to Elite (5%)
+Elite to Hero (3%)
+Hero to Legend (3%)
+Legend to Myth (2%)
+Myth to Gift (Unavailable)</UI_G>
+
+<O_Y>Can be used up to the maximum Myth potential grade items.</O_Y>^
 ^Rune_IT_0006_Name^,^Rune of the Lord^
-^Rune_IT_0006_Description^,^When used, the potential ability of the item changes randomly.  Rank Up Points <UI_G>3</UI_G>  Rank Up Probability <UI_G>Normal to Elite (8%) Elite to Hero (5%) Hero to Legend (5%) Legend to Myth (3%) Myth to Lord (1%)</UI_G>  <O_Y>You can use items up to the maximum potential grade of Lord.</O_Y>^
+^Rune_IT_0006_Description^,^When used, the potential ability of the item changes randomly.
+
+Rank Up Points
+<UI_G>3</UI_G>
+
+Rank Up Probability
+<UI_G>Normal to Elite (8%)
+Elite to Hero (5%)
+Hero to Legend (5%)
+Legend to Myth (3%)
+Myth to Lord (1%)</UI_G>
+
+<O_Y>You can use items up to the maximum potential grade of Lord.</O_Y>^
 ^Rune_IT_0007_Name^,^Awakening Lord Rune^
-^Rune_IT_0007_Description^,^When used, the potential ability of the item changes randomly.  Grade Up Points <UI_G>3</UI_G>  Grade Up Probability <UI_G>Normal to Elite (10%) Elite to Hero (7%) Hero to Legend (6%) Legend to Myth (4%) Myth to God (2.5%)</UI_G>  <O_Y>You can use items up to the maximum God potential grade.</O_Y>^
+^Rune_IT_0007_Description^,^When used, the potential ability of the item changes randomly.
+
+Grade Up Points
+<UI_G>3</UI_G>
+
+Grade Up Probability
+<UI_G>Normal to Elite (10%)
+Elite to Hero (7%)
+Hero to Legend (6%)
+Legend to Myth (4%)
+Myth to God (2.5%)</UI_G>
+
+<O_Y>You can use items up to the maximum God potential grade.</O_Y>^
 ^Rune_IT_0008_Name^,^Selected Awakening God Rune^
-^Rune_IT_0008_Description^,^When used, the potential ability of the item changes randomly and you can decide whether to change the potential ability.  Grade Up Points <UI_G>3</UI_G>  Grade Up Probability <UI_G>Normal to Elite (10%) Elite to Hero (7%) Hero to Legend (6%) Legend to Myth (4%) Myth to God (2.5%)</UI_G>  <O_Y>You can use items up to the maximum potential grade of God.</O_Y>^
+^Rune_IT_0008_Description^,^When used, the potential ability of the item changes randomly and you can decide whether to change the potential ability.
+
+Grade Up Points
+<UI_G>3</UI_G>
+
+Grade Up Probability
+<UI_G>Normal to Elite (10%)
+Elite to Hero (7%)
+Hero to Legend (6%)
+Legend to Myth (4%)
+Myth to God (2.5%)</UI_G>
+
+<O_Y>You can use items up to the maximum potential grade of God.</O_Y>^
 ^Rune_SC_0001_Name^,^General Potential Granting Scroll (10%)^
 ^Rune_SC_0001_Description^,^When used, potential ability matching the scroll's grade is granted to the item with a certain probability.^
 ^Rune_SC_0002_Name^,^Elite Potential Granting Scroll (10%)^
@@ -3232,6 +3938,12 @@ t_key,t_korean
 ^CA_IT_CM_0996_Name^,^Fellow: Gold Jellyfish^
 ^CA_IT_CM_0996_Description^,^When used, a <UI_G>Golden Jellyfish</UI_G> will be created in your storage.^
 ^na_ev_ss2025_001_Name^,^Season Pass Ticket^
-^na_ev_ss2025_001_Description^,^An item that allows you to obtain additional season rewards when clearing the season pass stage. <O_Y>Can be purchased once per account</O_Y> <R_Y>Cannot be repurchased if subscription is canceled</R_Y> <O_Y>Season period</O_Y> <UI_G>After maintenance on January 8, 2025 (before maintenance on April 9, 2025)</UI_G>  <R_Y>When acquired, it is automatically used in the corresponding season and disappears</R_Y>^
+^na_ev_ss2025_001_Description^,^An item that allows you to obtain additional season rewards when clearing the season pass stage.
+<O_Y>Can be purchased once per account</O_Y>
+<R_Y>Cannot be repurchased if subscription is canceled</R_Y>
+<O_Y>Season period</O_Y>
+<UI_G>After maintenance on January 8, 2025 (before maintenance on April 9, 2025)</UI_G>
+
+<R_Y>When acquired, it is automatically used in the corresponding season and disappears</R_Y>^
 ^EV_IT_BP_0137_Name^,^Suspicious Snake Soup^
-^EV_IT_BP_0137_Description^,^The best Lunar New Year nutritious food that fills you up just by eating it!^ 
+^EV_IT_BP_0137_Description^,^The best Lunar New Year nutritious food that fills you up just by eating it!^

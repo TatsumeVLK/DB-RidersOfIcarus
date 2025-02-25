@@ -1,4 +1,4 @@
-id,level,rarity,type
+t_id;t_level;t_rarity;t_type
 BRACELET000;17.000000;normal;brace
 BRACELET001;17.000000;elite;brace
 BRACELET002;17.000000;heroic;brace
@@ -13,3 +13,5 @@ CA_BR_CM_0003;17.000000;heroic;brace
 CA_BR_CM_0004;17.000000;heroic;brace
 CA_BR_CM_0005;17.000000;heroic;brace
 CA_BR_CM_0006;17.000000;heroic;brace
+CA_BR_CM_0007;17.000000;mythical;brace
+CA_BR_CM_0008;17.000000;mythical;brace
