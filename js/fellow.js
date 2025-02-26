@@ -11,6 +11,9 @@ const buttonIcons = [
 const itemInformations = [
     "../database/itemdata/Fellow_State.csv"
 ]
+const itemInformationsSealed = [
+    "../database/itemdata/ItemData_SealedFellow.csv"
+]
 
 const itemTranslations = [
     "../database/translate/localstringdata_item_consume.csv",
@@ -24,11 +27,12 @@ const itemTranslations = [
 const effectsTranslation = "../database/custom/minhatraducao.csv"
 
 let buttonType = "so"
-let itemDefault = "SF2_101_2_0821";
+let itemDefault = "F_02_1_0007_0002";
 
 let buttonIiconsObj = {}
 let buttonItemsObj = {}
 let itemInformationsObj = {}
+let itemInformationsSealedObj = {}
 let itemIconsObj = {}
 let mapaDeIcones = {};
 let itemTranslationsObj = {}
@@ -38,6 +42,8 @@ let itemSetObj = {};
 let setNameObj = {}
 
 let codigoOriginal;
+let codigoOriginalSealed;
+let nivelAtual = 1;
 
 function defaultItem(id) {
     let item = itemInformationsObj[id];
@@ -69,6 +75,53 @@ async function carregarItems() {
                                     if (item.t_id) {
                                         let id = item.t_id.trim();
                                         itemInformationsObj[id] = item;
+                                    } else {
+                                        console.warn(`Arquivo ${file}: Linha sem t_id`, item);
+                                    }
+                                });
+                                resolve();
+                            },
+                            error: function (error) {
+                                console.error(`Erro ao processar ${file}:`, error);
+                                reject(error);
+                            }
+                        });
+                    } catch (error) {
+                        console.error(`Erro na leitura do arquivo ${file}:`, error);
+                        reject(error);
+                    }
+                };
+
+                reader.readAsArrayBuffer(blob);
+            });
+        } catch (error) {
+            console.error(`Erro ao carregar o arquivo ${file}:`, error);
+        }
+    });
+
+    await Promise.all(promises);
+}
+async function carregarItemsSealed() {
+    const promises = itemInformationsSealed.map(async (file) => {
+        try {
+            const response = await fetch(file + "?nocache=" + new Date().getTime());
+            const blob = await response.blob();
+            const reader = new FileReader();
+
+            return new Promise((resolve, reject) => {
+                reader.onload = function () {
+                    try {
+                        const text = new TextDecoder("euc-kr").decode(reader.result);
+
+                        Papa.parse(text, {
+                            delimiter: ";",
+                            header: true,
+                            skipEmptyLines: true,
+                            complete: function (parsed) {
+                                parsed.data.forEach(item => {
+                                    if (item.t_id) {
+                                        let id = item.t_id.trim();
+                                        itemInformationsSealedObj[id] = item;
                                     } else {
                                         console.warn(`Arquivo ${file}: Linha sem t_id`, item);
                                     }
@@ -197,8 +250,8 @@ async function loadButton() {
         }
         let iconFileName = mapaDeIcones[id] || "favicon";
         switch (buttonType) {
-            case "so":
-                img.src = `../imgs/so/${iconFileName}.png`
+            case "fellow":
+                img.src = `../imgs/fellow/${iconFileName}.png`
                 img.onerror = function() { img.src = `../imgs/favicon.png`; }
                 break;
         }
@@ -284,7 +337,38 @@ function mudarNomeDesc(id) {
         document.getElementById("itemdescription").innerHTML = formatDescText(descricaoItem)
     }
 }
+function mudarNomeDescFellow(id, level) {    
+    let itemTraduzido = mapaDeTraducoes[id] || {}
+    let nomeItem = itemTraduzido.nome || id
+    let descricaoItem = itemTraduzido.descricao || "Description not found"
+
+    // document.getElementById("nomedoItemtraduzido").innerText = exibirLinhaOriginal(id);
+    document.getElementById("levelFellow").innerText = "Lv."+ parseInt(level);
+    document.getElementById("nameFellow").innerText = nomeItem;
+    document.getElementById("itemNome").innerText = nomeItem;
+}
 function mudarCor(rarity, rarityPlus) {
+
+    switch (rarity) {
+        case "no":
+            rarity = 1
+            break;
+        case "el":
+            rarity = 2
+            break;
+        case "he":
+            rarity = 3
+            break;
+        case "ld":
+            rarity = 4
+            break;
+        case "mt":
+            rarity = 7
+            break;
+        default:
+            rarity = rarity
+    }
+
     const coresRaridade = {
         1: "#ffffff", // Branco (Comum)
         2: "#00aaFF", // Azul (Elite)
@@ -293,11 +377,11 @@ function mudarCor(rarity, rarityPlus) {
         5: "#ff00ff", // Roxo (Lendario)
         6: "#ffaa55",  // laranja (Unique)
         7: "#ff1155",  // Vermelho (Mitico)
-        8: "#ff00ff" // Roxo (Lendario)
+        8: "#ff1155" // Vermelho (Mitico+)
     };
 
     let cor = coresRaridade[parseInt(rarity)] || "#ffffff";
-
+    
     let rarityT;
     switch (parseInt(rarity)) {
         case 1:
@@ -333,6 +417,76 @@ function mudarCor(rarity, rarityPlus) {
     }
     document.getElementById("itemRaridade").style.color = cor;
     document.getElementById("itemNome").style.color = cor;
+}
+function mudarCorFellow(rarity, rarityPlus) {
+
+    switch (rarity) {
+        case "no":
+            rarity = 1
+            break;
+        case "el":
+            rarity = 2
+            break;
+        case "he":
+            rarity = 3
+            break;
+        case "ld":
+            rarity = 4
+            break;
+        case "mt":
+            rarity = 7
+            break;
+        default:
+            rarity = rarity
+    }
+
+    const coresRaridade = {
+        1: "#ffffff", // Branco (Comum)
+        2: "#00aaFF", // Azul (Elite)
+        3: "#ffcc00", // Dourado (Heroico)
+        4: "#ff00ff", // Roxo (Lendario)
+        5: "#ff00ff", // Roxo (Lendario)
+        6: "#ffaa55",  // laranja (Unique)
+        7: "#ff1155",  // Vermelho (Mitico)
+        8: "#ff1155" // Vermelho (Mitico+)
+    };
+
+    let cor = coresRaridade[parseInt(rarity)] || "#ffffff";
+    
+    let rarityT;
+    switch (parseInt(rarity)) {
+        case 1:
+            rarityT = "Common";
+            break;
+        case 2:
+            rarityT = "Elite";
+            break;
+        case 3:
+            rarityT = "Heroic";
+            break;
+        case 4:
+            rarityT = "Legendary";
+            break;
+        case 5:
+            rarityT = "Legendary+";
+            break;
+        case 6:
+            rarityT = "Unique";
+            break;
+        case 7:
+            rarityT = "Mythical";
+            break;
+        case 8:
+            rarityT = "Legendary++";
+            break;
+        default:
+            rarityT = rarity;
+    }
+    document.getElementById("rarityFellow").innerText = rarityT;
+    if (rarityPlus == 1) {
+        document.getElementById("rarityFellow").innerText += "+"
+    }
+    document.getElementById("rarityFellow").style.color = cor;
 }
 function mudarLevel(level, maxlevel) {
     if (maxlevel > 0) {
@@ -392,7 +546,6 @@ function mudarClasse(usedClass) {
     
     document.getElementById("itemclasses").innerText = checkClasses();
 }
-let nivelAtual = 1;
 async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4, rarity) {
     document.getElementById("temefeitoserandomeffects").style = "none"
     let efeitos = [efeito1, efeito2, efeito3, efeito4];
@@ -564,7 +717,6 @@ async function processarEfeitosDoItemacc(efeito1, efeito2, efeito3, efeito4, rar
 function ocultaEfeitos() {
     document.getElementById("temefeitoserandomeffects").style.display = "none"
 }
-
 function mudarBordaNivel(Q1, Q2, Q3) {
     const btn1 = document.getElementById("botaoNivelAtual1");
     const btn2 = document.getElementById("botaoNivelAtual2");
@@ -616,6 +768,13 @@ function adicionaNome() {
         document.getElementById("itemNome").innerText += " (+7)";
     }
 }
+function adicionaNomeFellow() {
+    if (nivelAtual == 1 || nivelAtual == 2) {
+        document.getElementById("nameFellow").innerText += " ";
+    } else {
+        document.getElementById("nameFellow").innerText += " (+7)";
+    }
+}
 function definePreco(precosell, disposed, currencyid) {
     let precoFormatado = [];
         
@@ -660,9 +819,6 @@ function definePreco(precosell, disposed, currencyid) {
 
     document.getElementById("itemPreco").innerHTML = precoFormatado.join(" ");
 }
-
-
-
 function formatarTempo(segundos) {
     let dias = Math.floor(segundos / 86400);
     segundos %= 86400;
@@ -692,12 +848,53 @@ function mudarUsagePeriod(usagePeriod) {
         document.getElementById("durationtime").innerText = formatarTempo(parseInt(usagePeriod))
     }
 }
+function mudarTypeFellow(fellowSlaveType, sealTypeP) {
+    let fellowSlaveTypeR;
+    let sealTypePR;
+    if (fellowSlaveType > 0 && fellowSlaveType !== "bt") {
+        sealTypePR = sealTypeP + 1
+    }
+
+    if (fellowSlaveType == "Rd") {
+        fellowSlaveTypeR == "Mount"
+    } else {
+        fellowSlaveTypeR == "Pet"
+        sealTypePR = "";
+    }
+    
+    document.getElementById("dpsFellow").innerText = sealTypeP + " " + fellowSlaveType
+}
+function mudarConFellow(hpWeight) {
+    document.getElementById("conFellow").innerText = "CON " + parseInt(hpWeight) + " / " + parseInt(hpWeight)
+}
+function mudarEnergyFellow(epWeight) {
+    document.getElementById("energyFellow").innerText = "Energy " + parseInt(epWeight) + " / " + parseInt(epWeight)
+}
+function mudarDpsFellow(physicalAttackDamageWeight) {
+    document.getElementById("dpsFellow").innerText = "DPS " + parseInt(physicalAttackDamageWeight)
+}
+function mudarPDefense(physicalDefenseWeight) {
+    let pDefense = parseFloat(physicalDefenseWeight)
+    document.getElementById("pDefenseFellow").innerText = "P. Defense " + pDefense.toFixed(2)
+}
+function mudarMaxAltitude(altitudeLimit) {
+    let altitude = parseFloat(altitudeLimit)
+    document.getElementById("maxAltitudeFellow").innerText = "Max Altitude " + altitude.toFixed(2) + "m"
+}
+function mudarMoveSpeedFellow(walkingSpeed) {
+    let speed = parseFloat(walkingSpeed)
+    document.getElementById("moveSpeedFellow").innerText = "Move Speed " + speed.toFixed(2)
+}
+function mudarAdventureFellow(advPoint) {
+    document.getElementById("adventurePointsFellow").innerText = "Adventure Points " + parseInt(advPoint) + " / " + parseInt(advPoint)
+}
+
 
 function checkCodigoBruto(codigoBruto) {
     if (!codigoBruto) { defaultItem(itemDefault) }
 
     let partes = codigoBruto.split(";");
-    if (partes.length > 31) { atualizarFellow()
+    if (partes.length == 234) { atualizarFellow()
     } else { alert("Invalid code!, This code could not be recognized, please check Code again." + " " + codigoBruto); }
 }
 async function atualizarFellow() {
@@ -707,7 +904,279 @@ async function atualizarFellow() {
     }
     let partes = codigoBruto.split(";");
 
-    if (partes.length > 30) {
+    if (partes.length == 234) {
+        let no = partes[0]
+        let id = partes[1]
+        let name = partes[2]
+        let note = partes[3]
+        let region = partes[4]
+        let level = partes[5]
+        let model = partes[6]
+        let usage = partes[7]
+        let named = partes[8]
+        let unique = partes[9]
+        let fellowTrait = partes[10]
+        let exp = partes[11]
+        let rarity = partes[12]
+        let rarityPlus = partes[13]
+        let correction = partes[14]
+        let classes = partes[15]
+        let race = partes[16]
+        let hp = partes[17]
+        let hpWeight = partes[18]
+        let mp = partes[19]
+        let invencibility = partes[20]
+        let ep = partes[21]
+        let epWeight = partes[22]
+        let flightAbility = partes[23]
+        let baseAttribute = partes[24]
+        let initialEnvironmentValue = partes[25]
+        let shockStatus = partes[26]
+        let confusionStatus = partes[27]
+        let ignoredDoubleLayer = partes[28]
+        let attackRangeType = partes[29]
+        let hitChance1 = partes[30]
+        let hitChance2 = partes[31]
+        let hitChance3 = partes[32]
+        let minMeleePhysicalAttackDamage = partes[33]
+        let maxMeleePhysicalAttackDamage = partes[34]
+        let minRangedPhysicalAttackDamage = partes[35]
+        let maxRangedPhysicalAttackDamage = partes[36]
+        let physicalAttackDamageWeight = partes[37]
+        let minMagicAttackDamage = partes[38]
+        let maxMagicAttackDamage = partes[39]
+        let projectileSpeed = partes[40]
+        let attackSpeed = partes[41]
+        let critical = partes[42]
+        let physicalEvasion = partes[43]
+        let weaponBlockProbability = partes[44]
+        let blockChance = partes[45]
+        let physicalHitRate = partes[46]
+        let attackAttribute = partes[47]
+        let gaugeIncrease = partes[48]
+        let physicalDefense = partes[49]
+        let physicalDefenseWeight = partes[50]
+        let magicDefense = partes[51]
+        let magicDefenseWeight = partes[52]
+        let body = partes[53]
+        let mind = partes[54]
+        let downtime = partes[55]
+        let downCri = partes[56]
+        let downDamage = partes[57]
+        let bodyRadius = partes[58]
+        let normalAttack = partes[59]
+        let attackAnimtionTime = partes[60]
+        let range = partes[61]
+        let perceptionRange = partes[62]
+        let threatRange = partes[63]
+        let maxViewDistance = partes[64]
+        let minViewDistance = partes[65]
+        let maxViewAngle = partes[66]
+        let perceptionViewAngle = partes[67]
+        let perceptionRotationAngle = partes[68]
+        let perceptionMaxRotationAngle = partes[69]
+        let perceptionDelay = partes[70]
+        let alertTime = partes[71]
+        let alertRotationAngle = partes[72]
+        let alertMaxRotationAngle = partes[73]
+        let headRotationSpeed = partes[74]
+        let headRestorationSpeed = partes[75]
+        let returnDistance = partes[76]
+        let aggroMaintenanceDistance = partes[77]
+        let helpRequestTendency = partes[78]
+        let helpRequestDistance = partes[79]
+        let escapeDistance = partes[80]
+        let escapeBackstepDistance = partes[81]
+        let helpRequestHpCondition = partes[82]
+        let helpRequestNumber = partes[83]
+        let helpRequestInterval = partes[84]
+        let returnToBattlePosition = partes[85]
+        let corpseTimeWithoutLooting = partes[86]
+        let lootingCorpseTime = partes[87]
+        let nonCombatStandbyTime = partes[88]
+        let walkingSpeed = partes[89]
+        let runningSpeed = partes[90]
+        let flightWalkingSpeed = partes[91]
+        let flightRunningSpeed = partes[92]
+        let glidingSpeed = partes[93]
+        let flightGlidingSpeed = partes[94]
+        let groundHoveringTurnSpeed = partes[95]
+        let groundCombatTurnSpeed = partes[96]
+        let groundMovementTurnSpeed = partes[97]
+        let groundMouseMovementTurnSpeed = partes[98]
+        let groundKeyboardTurnSpeed = partes[99]
+        let airHoveringTurnSpeed = partes[100]
+        let airCombatTurnSpeed = partes[101]
+        let airMovementTurnSpeed = partes[102]
+        let airMouseMovementTurnSpeed = partes[103]
+        let airKeyboardTurnSpeed = partes[104]
+        let groundMovementAcceleration = partes[105]
+        let groundMovementDeceleration = partes[106]
+        let flightMovementAccelaration = partes[107]
+        let motionSpeed = partes[108]
+        let turnAcceleration = partes[109]
+        let turnMaxAngle = partes[110]
+        let cameraTurnRate = partes[111]
+        let escapeSpeedRate = partes[112]
+        let helpSpeedRate = partes[113]
+        let continuousMotionSpeedRate = partes[114]
+        let skill = partes[115]
+        let excludeWorldDrops = partes[116]
+        let excludeZoneDrops = partes[117]
+        let excludeRaceDrops = partes[118]
+        let motonCode = partes[119]
+        let modelScale = partes[120]
+        let modelScaleMin = partes[121]
+        let modelScaleMax = partes[122]
+        let spawnAnimation = partes[123]
+        let spawnTime = partes[124]
+        let destructionAnimation = partes[125]
+        let destructionTime = partes[126]
+        let objectAi = partes[127]
+        let stunResistance = partes[128]
+        let tameTimeAbility = partes[129]
+        let acquiredFellow = partes[130]
+        let tamingType = partes[131]
+        let tamingPossibleHeight = partes[132]
+        let longTargetHeight = partes[133]
+        let masterOrNot = partes[134]
+        let size = partes[135]
+        let weight = partes[136]
+        let questOrNot = partes[137]
+        let interactionType = partes[138]
+        let interactionTime = partes[139]
+        let skillType = partes[140]
+        let necessaryTool = partes[141]
+        let gatheringSkillRequired = partes[142]
+        let gatheringSkillMaster = partes[143]
+        let aiActivator = partes[144]
+        let aiHolder = partes[145]
+        let aiGroundNotUsed = partes[146]
+        let weatherAfterHuntingProcessing = partes[147]
+        let tamingSuccessProbabilityCorrection = partes[148]
+        let shortEvasionProbability = partes[149]
+        let longEvasionProbability = partes[150]
+        let defenseProbability = partes[151]
+        let monsterEmotionExpression = partes[152]
+        let continuousAttackOrNot = partes[153]
+        let interactionOrNot = partes[154]
+        let deathStateInteractionOrNot = partes[155]
+        let interactionRequiredItem1 = partes[156]
+        let interactionRequiredItem2 = partes[157]
+        let interactionRequiredItem3 = partes[158]
+        let enchantStone1 = partes[159]
+        let enchantStone2 = partes[160]
+        let enchantStone3 = partes[161]
+        let enchantStone4 = partes[162]
+        let enchantStone5 = partes[163]
+        let preset = partes[164]
+        let fellowGrowthTableNumber = partes[165]
+        let maxGrowthLevel = partes[166]
+        let experienceGainRate = partes[167]
+        let magicAcceleration = partes[168]
+        let magicHitAccuracy = partes[169]
+        let magicCriticalHit = partes[170]
+        let magicHitPower = partes[171]
+        let combatPower = partes[172]
+        let boardingDistance = partes[173]
+        let passengerMinAttackPossibleAngle = partes[174]
+        let passengerMaxAttackPossibleAngle = partes[175]
+        let passengerMaxTurnPossibleAngle = partes[176]
+        let commandSound = partes[177]
+        let groundMovementEnergyConsumption = partes[178]
+        let airMovementEnergyConsumption = partes[179]
+        let basicAttackEnergyConsumption = partes[180]
+        let fellowSlaveType = partes[181]
+        let fellowSummonWaitingTime = partes[182]
+        let aerialGravitySetting = partes[183]
+        let aerialCompanionHeight = partes[184]
+        let fellowTransformationId = partes[185]
+        let sealTypeM = partes[186]
+        let sealTypeP = partes[187]
+        let longRangeNormalAttackApplicationAngle = partes[188]
+        let longRangeNormalAttackApplicationWidth = partes[189]
+        let jumpAscentSpeedMaximum = partes[190]
+        let movementAnimationUse = partes[191]
+        let minigameActivation = partes[192]
+        let sealedFellowItem = partes[193]
+        let movementAnimationPlaybackRateActivationCheck = partes[194]
+        let tamingRandomLv = partes[195]
+        let minigameItem = partes[196]
+        let rubyCount = partes[197]
+        let cameraAZoomDefault = partes[198]
+        let cameraAZoomMin = partes[199]
+        let cameraAZoomMax = partes[200]
+        let minAltitudeLimit = partes[201]
+        let minAltitudeAlram = partes[202]
+        let altitudeLimit = partes[203]
+        let altitudeAlram1 = partes[204]
+        let altitudeAlram2 = partes[205]
+        let ownerShipPeriod = partes[206]
+        let fellowPeople = partes[207]
+        let dgNSumon = partes[208]
+        let tamingAlertRange = partes[209]
+        let tamingItem = partes[210]
+        let tamingItem2 = partes[211]
+        let tamingProbHp = partes[212]
+        let stamingItem = partes[213]
+        let needAp = partes[214]
+        let primaryEquipment = partes[215]
+        let primaryEquipmentType = partes[216]
+        let secondaryEquipmentType = partes[217]
+        let rangedEquipment = partes[218]
+        let rangedEquipmentType = partes[219]
+        let reinforcement = partes[220]
+        let maxReinforce = partes[221]
+        let tamingBuff = partes[222]
+        let tamingBuff1 = partes[223]
+        let tameUnique = partes[224]
+        let styleId = partes[225]
+        let evDropId = partes[226]
+        let composeable = partes[227]
+        let farmDisplayScale = partes[228]
+        let advable = partes[229]
+        let advPoint = partes[230]
+        let regionId = partes[231]
+        let advCooltime = partes[232]
+        let pc = partes[233]
+
+        mudarNomeDescFellow(id, level)
+        mudarTypeFellow(fellowSlaveType, sealTypeP)
+        mudarCorFellow(rarity, rarityPlus)
+        adicionaNomeFellow()
+        mudarConFellow(hp)
+        mudarEnergyFellow(ep)
+        mudarDpsFellow(maxMeleePhysicalAttackDamage)
+        mudarPDefense(physicalDefense)
+        mudarMaxAltitude(altitudeLimit)
+        mudarMoveSpeedFellow(walkingSpeed)
+        mudarAdventureFellow(advPoint)
+
+        // mudarUsagePeriod(ownerShipPeriod)
+
+        atualizarSealedFellow(sealedFellowItem)
+
+        /* 
+        
+        definePreco(precosell, cannotBeDisposed, "*")
+        mudarTraitPower(traitPower)
+        processarEfeitosDoItemacc(sealedFellowEffect1, sealedFellowEffect2, sealedFellowEffect3, maxEnhancedSealedFellowEffect, rarity)
+
+        */
+    } else {
+        alert("Invalid code!, This code is Fellow?");
+    }
+}
+async function atualizarSealedFellow(id) {
+    let item = itemInformationsSealedObj[id];
+
+    document.getElementById("codigoItemSealed").value = Object.values(item).join(";");
+    codigoOriginalSealed = Object.values(item).join(";");
+    
+    let codigoBrutoSealed = document.getElementById("codigoItemSealed").value.trim();
+    let partes = codigoBrutoSealed.split(";")
+    
+    if (partes.length == 30) {
         let id = partes[0]
         let name = partes[1]
         let rarity = partes[2]
@@ -739,7 +1208,7 @@ async function atualizarFellow() {
         let stackCount = partes[28]
         let expWeight = partes[29]
     
-        mudarNomeDesc(id)
+        // mudarNomeDesc(id)
         mudarCor(rarity, rarityPlus)
         mudarLevel(itemLevel)
         mudarTraitPower(traitPower)
@@ -751,7 +1220,7 @@ async function atualizarFellow() {
         document.getElementById("textCodigoItem").innerText = "Itemdata_relic.csv | Code:";
         document.getElementById("textNomeDoItemTraduzido").innerText = "localstringdata_item_event.csv | Code:";
     } else {
-        alert("Invalid code!, This code is Relic?");
+        alert("Invalid code!, This code is Sealed Fellow?");
     }
 }
 
@@ -878,10 +1347,10 @@ async function mudarType(type) {
     filtrarItems()
 }
 async function inicializarPagina() {
-    mudarBordaNivel(1, 0, 0)
     await carregarTraducoes()
     await carregarEffectTranslations()
     await carregarItems()
+    await carregarItemsSealed()
 
     codigoOriginal = defaultItem(itemDefault)
     let codigoBruto = document.getElementById("codigoItem").value.trim();

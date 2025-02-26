@@ -243,7 +243,7 @@ img {
     .selecionar button div p {
         font-size: 20px;
     }
-
+    
 .informacao {
     margin-bottom: 10px;
     border: groove;
@@ -252,6 +252,15 @@ img {
     padding: 5px;
     color: white;
     width: 500px;
+}
+#fellowInfos {
+    margin-bottom: 10px;
+    border: groove;
+    border-color: rgb(32, 32, 32);
+    background-color: rgb(20, 41, 51);
+    padding: 5px;
+    color: white;
+    width: 400px;
 }
 
 .itemselecionado {
@@ -361,11 +370,15 @@ body::-webkit-scrollbar {
     }
 
 /* ID's especificos */
-#codigoItem {
+#textCodigoItem, #textNomeDoItemTraduzido, .butoescodigo {
+    display: none;
+}
+#codigoItem, #codigoItemSealed {
     padding: 4px;
     width: 98%;
     height: 200px;
     resize: none;
+    display: none;
 }
 
 #itemRaridade {
@@ -386,6 +399,7 @@ body::-webkit-scrollbar {
     width: 98%;
     height: 20px;
     resize: none;
+    display: none;
 }
 #saleprice, #itemPreco, #divsale {
     text-align: center;
@@ -418,7 +432,7 @@ body::-webkit-scrollbar {
 }
 .butoes {
     text-align: center;
-    font-size: 13px
+    font-size: 13px;
 }
 .shadow {
     display: flex;
@@ -432,6 +446,14 @@ body::-webkit-scrollbar {
 }
 .shadow p {
     padding: 1px;
+    font-size: 18px;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+}
+#removerDepois {
+	background-color: rgb(50, 50, 50)
+}
+
+#removerDepois p {
     font-size: 18px;
     text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
 }
